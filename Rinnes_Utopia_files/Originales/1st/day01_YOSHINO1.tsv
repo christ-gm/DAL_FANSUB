@@ -1,0 +1,318 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	I wonder how Yoshino's doing.	
+Message	None	"Yoshino is alone more often than not.
+Even if Yoshinon is with her, I need to look after her."	
+Message	Reine	What is it, Shin?	
+Message	Shido	Oh, Reine-san. Where are you right now?	
+Message	Reine	Oh. I'm in your room, actually, but...	
+Message	Shido	Huh?	
+Message	Reine	"Well, I've been imposing. I thought I'd show
+my appreciation by cleaning a little."	
+Message	Shido	Oh, you really don't need to clean, it's okay...	
+Message	Reine	Don't even worry about it. Oh, and Shin?	
+Message	Shido	Yes?	
+Message	Reine	"That thing you were hiding...
+I'll pretend I never saw it, okay?"	
+Message	Shido	"Huh?! What thing?!
+Come on, you can't just say that!"	
+Message	Reine	Hm? Oh, right. My apologies...	
+Message	Shido	"You don't need to apologize, but please...
+just give me a break."	
+Message	Reine	"By the way Shin, didn't you contact me
+for something important?"	
+Message	Shido	Oh... right.	
+Message	Shido	"Okay, so if you're at my house...
+then Yoshino's nearby, right?"	
+Message	Shido	"I was wondering how Yoshino is doing.
+Could you possibly take her to school and... huh?"	
+Message	None	"(Saying it made me realize, but Reine-san...
+she's a teacher at my school. Why is she
+already at my house?)"	
+Message	Reine	Ah. Well, it's a piece of cake with the Fraxinus.	
+Message	Shido	Can you please stop reading peoples' minds?!	
+Message	Reine	"Well... okay, I understand.
+But why the school of all places?
+You could come home first then leave somewhere."	
+Message	Shido	"I thought maybe Yoshino would be
+happy if we met outside somewhere... you know?"	
+Message	Reine	"I see. I could see it as you trying to make
+things easier for yourself, but..."	
+Message	Shido	"Huh? No, no, no! It's not that at all!
+So, where's Yoshino?"	
+Message	Reine	Ah, I believe she's somewhere in the house.	
+Message	Shido	Oh, so she's not right there with you.	
+Message	Reine	No, but she was helping me clean until a moment ago.	
+Message	Reine	"But when she spotted... the item...
+she scurried off like a scared little mouse..."	
+Message	Shido	"What?! That's...
+What have you done?!"	
+Message	Reine	"Anyway, I'll bring her over right away.
+But, it'll be a different story if Yoshino
+says she doesn't even want to see your face."	
+Message	Shido	"Ha... yeah...
+Wait, this isn't something to laugh about!"	
+Message	Reine	In any case, please wait there.	
+Message	None	(They're late. Could it be... they're not coming?)	
+Message	None	"(Reine-san did say she saw that item under the bed.
+Even if she's a spirit who's not well versed with
+society, it'd be a shock to any girl.)"	
+Message	None	"I wonder if Yoshino's started to hate me.
+She wouldn't be coming anymore today if...
+And if... that were to happen, I..."	
+Message	Yoshino	Hey, Shido-san...	
+Message	Shido	"H-Hey, sorry for calling you
+out here like this."	
+Message	Yoshino	N-No, it's no trouble... I'm glad.	
+Message	Reine	Oh, good. You two were able to find each other.	
+Message	Shido	Reine-san... I thought you were going to be here, too.	
+Message	Reine	"It'd be a little nonsensical for a guardian
+to come along on a date, wouldn't it?"	
+Message	Shido	Well, I guess so...	
+Message	Reine	"Okay, so before your date gets started, I think
+you'll need to clear the air in regards to...
+well, you know what."	
+Message	Shido	"Right. Reine-san, how much did Yoshino
+actually see?"	
+Message	Reine	"Hm. Well, she ran away as soon as I started
+flipping through it, so I can't imagine
+she saw it very thoroughly."	
+Message	Shido	"D-Do you think, I could just pretend that
+it didn't happen?"	
+Message	Reine	"Who knows, I believe that's up to Yoshino.
+Listen, make sure you're careful not to worsen
+a spirit's mood."	
+Message	Shido	Come on... at least give me some advice.	
+Message	Reine	"The Fraxinus' AI is acting up... it won't
+display any choices. So it seems... all
+I can do is watch over you two."	
+Message	Shido	Isn't that just peeping at this point then?!	
+Message	Reine	Alright then, I'll leave Yoshino to you.	
+Message	Shido	W-What should I do?	
+Choice		I should just come clean and tell the truth.	
+Choice		I'm a guy... it's normal. I'll just pretend I didn't know. 	
+Message	Shido	U-Um... I'm glad that you came, Yoshino.	
+Message	Yoshino	Huh?	
+Message	Shido	Er, well... you saw it, right? In my room...	
+Message	Yoshino	"Huh?! U-Um... I-I'm sorry!
+I didn't mean... to see it, but..."	
+Message	Shido	"No, no, no... don't apologize, Yoshino!
+In fact, I should be the one apologizing!"	
+Message	Yoshinon	"Yoohoo! It's quite manly of you to apologize!
+But having this part of your manliness
+exposed is quite the blunder of a lifetime!"	
+Message	Shido	"O-Oogh...
+Yoshinon... you..."	
+Message	Yoshinon	"Well, Shido-kun... you are a guy.
+I guess it's par for the course."	
+Message	Shido	I-Is that so?	
+Message	Yoshinon	That's right. Yoshino's not angry or anything like that～.	
+Message	Shido	Huh, really?	
+Message	Yoshinon	"Yup, yup. Yoshino is a kind girl who could fill
+an ocean with the love in her heart. She'll
+never be mad at a guy for something like this."	
+Message	Shido	Thank goodness.	
+Message	Shido	Okay then... let's get going, Yoshino.	
+Message	Yoshino	......	
+Message	Yoshinon	Um... ahem...	
+Message	Shido	What is it, Yoshinon?	
+Message	Yoshinon	Shido-kun, don't you have something to say?	
+Message	Shido	"Ah, u-ummmm...
+What are you talking about?"	
+Message	Yoshinon	"Oh, trying to pretend it away huh?!
+Bad idea considering we definitely saw it!"	
+Message	Shido	Ah, no... that's, um...	
+Message	Yoshinon	"Well, you're a guy so there isn't much
+we can do about that... but it's just tasteless
+to pretend like we didn't see it."	
+Message	Shido	"Ah, okay, okay! I get it!
+Yoshino, I'm sorry."	
+Message	Yoshino	"U-Um... I-I'm so sorry too!
+ I didn't mean... to see it, but..."	
+Message	Yoshinon	"Yoshino's an understanding young lady.
+All you had to do was apologize, Shido-kun,
+and she'd definitely return the favor."	
+Message	Shido	Thank goodness.	
+Message	Shido	"You took a little longer to get here today,
+right? I thought you might've been upset..."	
+Message	Yoshinon	"That's silly. She simply got a little caught up
+getting ready to come see you. Right, Yoshino?"	
+Message	Shido	R-Really?	
+Message	Yoshino	Yes...	
+Message	Yoshinon	Come on, Shido-kun, didn't you notice?	
+Message	Shido	Hm?	
+Message	Yoshinon	"Yoshino's dressed to the nines today.
+She's going on a date with you, after all!"	
+Message	Shido	What?!	
+Message	None	"(N-Now that he mentions it, today Yoshino's hair is slightly
+more silken and fluffy. I think it smells nice too...)"	
+Message	Yoshino	I-I actually... wanted to get ready faster, but...	
+Message	Yoshinon	I helped too! It took forever...	
+Message	Shido	"Do you think it took longer because one
+of your hands has to hold Yoshinon?"	
+Message	Yoshinon	Shido-kun, are you calling me the bad guy?	
+Message	Yoshino	You did nothing wrong, Yoshinon!	
+Message	Shido	"Oh, no, nothing like that... I'm sorry.
+Forget I said anything. Alright, let's
+get going..."	
+Message	Shido	Okay, where to go for our date?	
+Message	Shido	"Yoshino, are there any places you'd like
+to go in particular?"	
+Message	Yoshino	Huh? Um... um...	
+Message	Shido	Hmm?	
+Message	Yoshino	Ummm......	
+Message	Shido	"Don't stress yourself out thinking about it.
+Why don't we go to the shopping district?"	
+Message	Yoshino	Oh... y-yes!	
+Message	Shido	"Okay, here we are: the shopping district.
+Now what should we do?"	
+Message	Yoshino	......	
+Message	Shido	Hm? What's the matter?	
+Message	Yoshino	U-Um...	
+Message	Yoshinon	Yoshino wants to go look at that store.	
+Message	Shido	"That store? Really? But that's an electronics store...
+Do you want to look at the appliances or something?"	
+Message	Yoshino	Y-yes, I would... um... is that not alright with you?	
+Message	Shido	Oh, no, it's perfectly fine. Let's go check it out.	
+Message	Yoshino	Okay!	
+Message	Yoshino	Wow...	
+Message	Shido	"This floor sells cooking appliances and stuff like
+that. Doesn't seem too exciting, huh?"	
+Message	Yoshino	"Shido-san... you use these appliances
+to make food, right?"	
+Message	Shido	"Yes. The ones they're selling are just like
+the ones that I use at home."	
+Message	Yoshino	It's... amazing.	
+Message	Shido	Ah, really? I mean, it's kind of ordinary to me...	
+Message	Yoshino	......	
+Message	Yoshino	Um... what is... this?	
+Message	Shido	"This is a rice cooker. You can steam rice with it.
+It's a nicer one than what we have at home,
+so it probably cooks much more delicious rice."	
+Message	Yoshino	Even... more delicious?	
+Message	Shido	Yeah... but it's not an easy thing to buy...	
+Message	Yoshino	I... I see...	
+Message	Yoshino	"W-What about this?
+What is... this over here?"	
+Message	Shido	"Oh, that's a wok. It'd feel really authentic if you made fried
+rice with it. Well, it's too big for our stove back home, but..."	
+Message	Yoshino	"I... see. T-Then...
+What about this?"	
+Message	None	"(There are so many things she doesn't get a chance
+to see up close. She must be having a blast with this.
+I'm just glad she seems to be enjoying herself."	
+Message	Yoshinon	"Oh, Yoshino, you're getting so carried away!
+Watch your step, okay? Don't break anything!"	
+Message	Yoshino	Oh, right... I-I'm sorry.	
+Message	Shido	"No, no, you're doing fine.
+I'm just glad you're having fun."	
+Message	Yoshino	T-Thank you!	
+Message	Shido	I know, why don't you buy something, Yoshino?	
+Message	Yoshino	Huh?	
+Message	Shido	You're curious, aren't you?	
+Message	Yoshino	U-Um...	
+Message	Clerk	Hi, do you need help with something?	
+Message	Yoshino	Ah?!	
+Message	Yoshino	U-Um... well, um...	
+Message	Yoshinon	Gooo, Yoshino! You're fine! Yoshinon is with you!	
+Message	Yoshino	Y-Yeah!	
+Message	Yoshinon	You can do it, Yoshino!	
+Message	Yoshino	Right...	
+Message	Yoshinon	Hit 'em where it hurts!	
+Message	Yoshino	I'll... I'll beat them up!	
+Message	None	(That's probably not the best idea...)	
+Message	Yoshino	...U-Umm.	
+Message	Clerk	Yes? How can I help you?	
+Message	Yoshino	?!?!?!?!?!?!?!?!	
+Message	Yoshinon	Well, she, uh... tried.	
+Message	Clerk	Hm? What's wrong?	
+Message	Shido	Nothing's the matter! Sorry to trouble you.	
+Message	Shido	"Hey, are you okay?
+Let's go outside and get some fresh air."	
+Message	Yoshino	O-Okay...	
+Message	Shido	Feel better?	
+Message	Yoshino	Yes... I'm sorry.	
+Message	Yoshinon	"Don't even sweat it, Yoshino."	
+Message	Shido	"Yeah, you tried your best.
+There's nothing to apologize about."	
+Message	Yoshino	......	
+Message	Shido	What were you trying to say to the clerk?	
+Message	Yoshino	Ah... um...	
+Message	Yoshino	"Well, I wanted to know... what kind of appliances
+I need... to make more delicious meals..."	
+Message	Shido	Why?	
+Message	Yoshino	So that... everyone can smile... and be happy!	
+Message	Shido	Oh, really?	
+Message	Yoshino	Y-Yes!	
+Message	Shido	I can't help but feel a little embarrassed...	
+Message	Yoshinon	Yoshinon loves Shido-kun's cooking, too!	
+Message	Shido	Thanks. Wait... Yoshinon, you can't eat... right?	
+Message	Yoshinon	"Hm... or can I...?"	
+Message	Yoshino	A-Anyway, it was just... I couldn't do it!	
+Message	Shido	"Ah, it's okay. You don't need to beat
+yourself up for that, you know."	
+Message	Yoshino	......	
+Message	Shido	"Hey, Yoshino... if there was any dish in the world
+you could eat, what would it be?"	
+Message	Yoshino	Huh?	
+Message	Shido	Just think... what kind of flavors do you like?	
+Message	Yoshino	......	
+Message	Yoshinon	"Yoshinon wants something fluffy and sweet!"	
+Message	Yoshino	Ah... I-I'd like that, too...	
+Message	Shido	"I see. Maybe sweet potato then?
+How about... daigaku imo?"	
+Message	Yoshino	Daigaku... imo?	
+Message	Shido	Yeah! It's sweet and fluffy.	
+Message	Yoshinon	"I knew you'd think of the perfect dish!"	
+Message	Shido	"If I recall, using an anhydrous pot
+makes it better. Then, since we're
+here, I'll buy one."	
+Message	Yoshino	A-Anhydrous pot? W-What is that?	
+Message	Shido	It's an appliance that makes food more delicious.	
+Message	Yoshino	Ah!	
+Message	Shido	"You may not have been able to talk
+to the clerk, but I think we're on the
+same page about food, Yoshino."	
+Message	Shido	"I'm gonna make some daigaku imo
+for both you and Yoshinon!"	
+Message	Yoshino	T-Thank you, so much!	
+Message	Yoshinon	"Good job, Yoshino!"	
+Message	Yoshino	Yeah...	
+Message	Shido	Here we go...	
+Message	Yoshino	It's not heavy, is it?	
+Message	Shido	It's... no, this is fine... whoa!	
+Message	Yoshino	I can help too!	
+Message	Shido	No, it's okay...	
+Message	Yoshino	Well, just tell me if you need help!	
+Message	Shido	Sure thing. Thanks.	
+Message	Yoshino	Of course!	
+Message	Shido	You seem really happy...	
+Message	Yoshino	Hm? I do?	
+Message	Shido	Yes.	
+Message	Yoshinon	"You're just excited to eat daigaku imo, right?!"	
+Message	Shido	That's just the motivation I need to make them.	
+Message	Yoshino	Y-Yes... it's true.	
+Message	Shido	You're really looking forward to it, huh? I'm glad.	
+Message	Yoshino	Ah!	
+Message	Shido	Hey, Yoshino... are you busy tonight?	
+Message	Yoshino	Tonight?	
+Message	Shido	"Yeah, we're all going to the lake tonight.
+We're giving an offering to the Tengu Cow."	
+Message	Yoshino	Tengu Cow?	
+Message	Shido	"The guardian deity of Tengu City, apparently.
+Offerings have been lacking lately and we all
+said we'd go. It'll definitely test our courage..."	
+Message	Shido	Do you want to come with us?	
+Message	Yoshino	Will it be... scary?	
+Message	Shido	"Uh... well, it is at night... and in a deserted place.
+It might be a little scary. You don't have to
+come, so don't feel like you have to, if..."	
+Message	Yoshino	I'll come!	
+Message	Shido	Huh?! Really?	
+Message	Yoshino	"Yes! It might be a little scary, but if
+everyone is going too then I'll be okay."	
+Message	Yoshinon	"Woohoo! That's the stuff, Yoshino!"	
+Message	Shido	Great!	
+Message	Yoshinon	"This'll be the perfect midnight rendezvous!\nYou might get lucky, Yoshino... do your best!"	
+Message	Shido	"Yoshinon, that sounds a little suggestive...
+okay, Yoshino, I'll see you tonight."	
+Message	Yoshino	Okay! I'll do my best out there.	

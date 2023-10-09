@@ -1,0 +1,413 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(I was so happy... But I still couldn't believe it, so I
+asked again. Then I regretted it a little, thinking that
+it might have sounded rude.)"	
+Message	None	"(I was able to be by Shido's side once again.
+Honestly, that alone was a miracle. Because I should
+have already disappeared, and have once before.)"	
+Message	None	"(I couldn't give you happiness... But is it okay for
+me to receive so much happiness from you...?)"	
+Message	None	"(Observing Shido, I can tell, even without having any
+powers. This Eden is coming to an end.)"	
+Message	None	"(I think that Shido inviting me on a date means that
+he's going to give the time he has left to me.)"	
+Message	None	"(A date with me... not with Maria-chan, Marina-san,
+or Rio-chan, but me. If you treat me so specially...
+I'll get the wrong idea.)"	
+Message	None	"(Even if it's an emotion planted in a fake world, I
+was happy. It was really nice to be thought of by
+Shido. So it won't hurt to enjoy today right?)"	
+Message	None	"(And I'm going to tell him. This time, I'm not going
+to say it and run. I want to hear his answer.)"	
+Message	None	"(Hey, Shido? You're always so kind. And that's...
+what I love about you.)"	
+Message	None	"(This time, I want to tell him. Because I feel like that
+would be the only thing I can give him.)"	
+Message	Shido	Oh, you ready? Let's head out, then.	
+Message	Rinne	Okay. Sorry for making you wait.	
+Message	Shido	"I didn't wait at all. Actually, I feel like you got ready
+really quickly."	
+Message	Rinne	I told you I'd be right back. I keep my word.	
+Message	Shido	You're amazing as always, Rinne.	
+Message	Rinne	"It's nothing out of the ordinary.
+"	
+Message	Rinne	Anyways, where are we going today?	
+Message	Shido	I guess we can start off by shopping.	
+Message	Rinne	"Hahaha. That's like what we usually do rather than
+going on a date."	
+Message	Shido	"Oh... You have a point. But I think even then, it's
+fine. As long as it's the two of us."	
+Message	Rinne	I see. If it's the two of us, huh... You may be right.	
+Message	Shido	Here, Rinne.	
+Message	Rinne	Um... What?	
+Message	None	(I offered my hand, and Rinne stared intently at it.)	
+Message	Shido	"I promised you, didn't I? I'm going to escort you
+today."	
+Message	Rinne	"...Okay!
+"	
+Message	Rinne	Then please do, Prince Charming.	
+Message	Shido	"Oh, come on... What's up with the Prince Charming
+thing... I'm not like that."	
+Message	Rinne	"No. For me... And I'm sure for Tohka-chan and
+Maria-chan, you're Prince Charming."	
+Message	Shido	"Um... You're making me blush. Then what would you
+be, Rinne? A princess?"	
+Message	Rinne	"I don't want to be a princess. I want to be an
+ordinary girl."	
+Message	Shido	"Haha. That's so like you Rinne. But I think you can be
+a princess for just today."	
+Message	Rinne	"Hehe... You're right. If you're a prince, Shido, that
+works for me."	
+Message	Shido	All right, let's go.	
+Message	Rinne	Hehehe. Let's.	
+Message	None	"(I can feel Rinne's warmth through my hand. I don't
+want to let her go. I sincerely feel this way.)"	
+Message	Shido	Okay. I promise you I'll make this date fun.	
+Message	Rinne	Got it. I look forward to it.	
+Message	Shido	Leave it to me!	
+Message	None	"(Rinne and I held hands as we walked the usual path,
+just the two of us. The time that should have
+stopped felt like it was starting to move again.)"	
+Message	Shido	...Hey Rinne. Aren't you buying too much?	
+Message	Rinne	"You think so? I usually don't buy things for myself,
+so... I guess I was starting to get carried away with
+it."	
+Message	Shido	"Oh, come to think of it, we've never shopped like this
+before, have we?"	
+Message	Rinne	"Gosh. That's because you've never treated me like a
+girl."	
+Message	Shido	Oh... Well, I did see you as family.	
+Message	Rinne	"That's makes me happy on its own, but... I wish you'd
+understand a girl more."	
+Message	Shido	Well, I think that's hard for men.	
+Message	Rinne	"Really... I'd beg to differ if we're talking about the
+Shido from the Tenou Festival."	
+Message	Shido	"O-Oh... Well, about that... There was the whole Miku
+thing, and I had no choice..."	
+Message	Rinne	"I heard from Kotori-chan later that you went to
+school without Miku-san's incident being related."	
+Message	Shido	Well, that too, um...	
+Message	Rinne	I want to see it someday... Shiori-chan, that is.	
+Message	Shido	Oh, sorry. Please... Seriously, anything but that.	
+Message	None	"(I feel I'm walking down a dangerous path as it is.
+There is no way in hell I would show it to Rinne.)"	
+Message	Rinne	"Hehe... Then you'd best study a girl's heart more.
+You hear me?"	
+Message	Shido	Okay, fine...	
+Message	None	"(You can't escape an urgent problem without making
+some sacrifices. It's to protect something important
+of mine. That's what I told myself.)"	
+Message	Rinne	"Well, Mr. Girl Expert. Please tell me your opinion of
+this outfit."	
+Message	Shido	"I think it's a cute blouse. That bright color looks
+good on you, Rinne."	
+Message	Rinne	Thanks. Then I'm going to buy this, too.	
+Message	Shido	Okay... What, you're going to buy more?!	
+Message	Rinne	I never said I was going to stop earlier.	
+Message	Shido	"Yeah but... Keep it to a minimum, okay? If it's too
+much, it'll be hard to walk."	
+Message	Rinne	"Right. But that's a little unfortunate... I always
+wanted to buy so much that I couldn't see in front
+of myself. You know, like in a lot of mangas."	
+Message	Shido	"Hey... Aren't those the ones where the guy's carrying
+everything?! Please, not that..."	
+Message	None	(Our date is going to be just shopping...)	
+Message	Rinne	Okaaay. Well, let me pay and we'll go to the next shop.	
+Message	Shido	Okay... Wait, you're still going to buy more?!	
+Message	None	"(Despite my protests, Rinne answered with the biggest
+smile.)"	
+Message	Rinne	I think this is the first time I've bought so much.	
+Message	Shido	"As long as you're satisfied, that's all that matters.
+But you buy a lot more than Kotori. It was surprising."	
+Message	Rinne	"Hahaha... Sorry, I couldn't help it. But if you're my
+prince charming, you'll forgive me, right?"	
+Message	Shido	What are you going to do if I say I won't forgive you?	
+Message	Rinne	I'll do this.	
+Message	Shido	What...	
+Message	Rinne	Like this, Shido.	
+Message	Shido	"O-Okay. But what's going on? You're not acting like
+yourself today."	
+Message	None	"(We were holding hands until we got to the shops,
+but when Rinne initiated and took my hand, it felt so
+different that I couldn't help but be thrown off.)"	
+Message	Rinne	"Because you're trying your best. I figured I'd also
+try a little, too."	
+Message	Shido	Rinne, does that mean...	
+Message	Rinne	Hey, look Shido! There's the crepe truck. Let's go!	
+Message	Shido	H-Hey wait! Don't pull so hard!	
+Message	Rinne	"Crepe is a date favorite, right? Let's eat it together,
+Shido."	
+Message	Shido	"Okay, okay, you don't have to rush. The crepes won't
+go anywhere. You're not Tohka..."	
+Message	Rinne	Ahahaha... Sorry. I wasn't trying to copy Tohka-chan.	
+Message	Shido	"I know. Come on. We'll get there even if we walk
+slowly."	
+Message	Rinne	Okay, got it.	
+Message	None	"(Rinne wasn't like her usual self. It seemed like she
+wasn't holding back. Maybe that's what she meant
+earlier. I couldn't tell.)"	
+Message	None	"(But there's one thing I know. Rinne looks like she's
+been having fun this whole time. And I know that's
+happiness.)"	
+Message	Rinne	"It's my first time eating it all... Crepes are
+delicious."	
+Message	Shido	"Oh, come to think of it, we've never eaten crepes
+together, have we?"	
+Message	Rinne	But you've eaten it with so many other girls, huh?	
+Message	Shido	"Hey, Rinne. Why do I sense a little bite when you
+say it like that...? Anyway, I hope this makes up for it."	
+Message	Rinne	Unfortunately, interest has been accruing.	
+Message	Shido	Don't say it with a smile.	
+Message	Rinne	But Shido, you're going to pay me back right?	
+Message	Shido	Yeah. I'll pay you back double, triple.	
+Message	Rinne	"Hahaha. Are you sure about that? I'm not going to let
+you trick me like Tohka-chan."	
+Message	Shido	"I won't trick you. And besides... There's so much I
+want to give back to you. What I'm doing now isn't
+enough."	
+Message	Rinne	Hmm... I don't think you owe me that much though?	
+Message	Shido	"Oh, come on. I don't feel like I could ever pay you
+back."	
+Message	Rinne	"No, you already are though. Shido, you bring me so
+much happiness."	
+Message	None	"(Rinne was so honest with her feelings that I was
+at a loss for words. Rinne says she's happy with our
+ordinary life. That made me so happy.)"	
+Message	Rinne	Oh, right. It's almost lunchtime. What should we eat?	
+Message	Shido	"Is that something you should say right after eating
+a crepe?!"	
+Message	Rinne	"That's one thing, this is another. They say you have
+a separate stomach for sweets, right?"	
+Message	Shido	Well, I mean, I can eat but...	
+Message	None	"(Rinne is really similar to Tohka today. She gets so
+happy about food... overly happy...)"	
+Message	Rinne	"You can feel so happy just by eating something
+delicious."	
+Message	Shido	"It's true. Eating delicious food kinda feels...
+fulfilling."	
+Message	Rinne	I know, right? So, let's go on a food journey!	
+Message	Shido	I feel like you're totally losing sight of our goal.	
+Message	Rinne	Who cares. Will you come with me?	
+Message	Shido	Of course. I'll follow you wherever you go, Princess.	
+Message	Rinne	Hahaha. Sorry for being such a spoiled princess.	
+Message	Shido	"Don't worry about it. The Prince always has a soft
+spot for the princess."	
+Message	Rinne	Thank you, Shido.	
+Message	Rinne	"But if I really were a princess... Then I'd be the
+little mermaid."	
+Message	None	"(I heard Rinne mutter those words, and I gripped her
+hand more tightly.)"	
+Message	Rinne	"Oh, this Neapolitan is so good... The ketchup doesn't
+seem store-bought. I wonder if they made it in-
+house?"	
+Message	Shido	"This pepperoncino is delicious, too. It's very flavorful,
+but not too overpowering."	
+Message	Rinne	"Hey Shido? Is it okay to eat really strong flavors
+like this on a date?"	
+Message	Shido	"Oh... W-Well, it looked so delicious, I couldn't help
+it."	
+Message	Rinne	"Gosh... It's fine because you're with me, but you
+can't do that with other girls."	
+Message	Shido	Sorry... So you want a bite, Rinne?	
+Message	Rinne	N-No, thanks.	
+Message	Shido	"Oh come on. It smells so good, doesn't it? It'll be a
+missed opportunity if you don't eat this."	
+Message	Rinne	You're trying to drag me down, aren't you?	
+Message	Shido	Caught me.	
+Message	Rinne	"Gosh, it's so obvious. Hmm I guess... I'll take one
+bite. Why don't we feed each other?"	
+Message	Shido	F-Feed one another?!	
+Message	Rinne	"I mean you seemed to want to try mine. And today...
+we're on a date, right? Come on. Open wide."	
+Message	Shido	O-Okay. Ahhh... *nom*.	
+Message	Shido	" Delicious!
+You can't replicate this with store-bought ketchup!
+It's so easy to eat."	
+Message	Rinne	"Right? But I guess it's more for girls. Anyways, your
+turn, Shido."	
+Message	Shido	Oh, um... Open wide.	
+Message	Rinne	Ahhh... *nom*.	
+Message	Rinne	" Oh, this is delicious too.
+But I don't think I could eat too much of it."	
+Message	Shido	"I guess this flavoring is more for guys huh? It tastes
+good, but I don't think I could serve this at home.
+How unfortunate."	
+Message	Rinne	"Well, your place has mostly female inhabitants. And
+the visitors are mostly girls, too."	
+Message	Shido	I know...	
+Message	Rinne	"But Tohka-chan likes those kinds of dishes, so it
+may be a good idea to make it next time."	
+Message	Shido	"You're right. I'll give it a shot... Sorry, we're on a
+date, and we're talking about the food we eat at my
+house."	
+Message	Rinne	"No. I'm just happy to see you look like you're having
+fun."	
+Message	None	"(I got a little self-conscious, so I looked away from
+Rinne and focused on the pepperoncino. Oh... And I
+also have to deal with my breath, too.)"	
+Message	Rinne	Wow... This plushie is so cute.	
+Message	None	"(I looked at the plushie Rinne said was cute. It was
+a Tengu-like mascot with two cow horns and black
+wings. I guess the motif was the Karasu Tengu.)"	
+Message	Shido	Is that... cute?	
+Message	Rinne	"It looks a little dinky, but don't you think that's
+its charm?"	
+Message	Shido	Come to think of it, I guess...	
+Message	None	"(More than that, what is up with this name, "Tengu
+Cow-kun"... It's totally a gag name. Hm... but it
+sounds familiar...?)"	
+Message	Rinne	I... have never seen this character before.	
+Message	Shido	Me, neither. Maybe it's a mascot for Tengu City.	
+Message	Rinne	Um... I guess we can buy it?	
+Message	Shido	"How much is it... Wait, it's the size of my palm, but
+it's 3,000 yen?!"	
+Message	Rinne	That's a bit much...	
+Message	Shido	It is...	
+Message	Rinne	Then I'm going to buy one thing that I was eyeing.	
+Message	Shido	What? You're going to buy it?!	
+Message	Rinne	"Nooo. The thing over there. It's a flower accessory.
+I thought it was cute."	
+Message	Shido	"You're right. It is cute. Then I'll wait for you at the
+entrance."	
+Message	Rinne	Okay. I'll head over as soon as I pay for this, okay?	
+Message	Shido	You don't have to hurry.	
+Message	Rinne	"Well the sun's setting, so I don't want to spend too
+much time. And besides, I know which one I want to
+buy."	
+Message	Shido	Okay. I'll be waiting there, okay?	
+Message	Rinne	Okay. Thanks, Shido.	
+Message	None	"(The sun started to set, and the sky turned orange.
+Rinne and I had come to Takadai.)"	
+Message	Shido	Why did you want to come here?	
+Message	Rinne	"I think it's because this place has so many memories.
+Maybe I just wanted to see the city where I was able
+to spend time with you."	
+Message	Shido	What do you mean?	
+Message	Rinne	"We looked over it together last time, remember?
+The view from this place."	
+Message	Shido	...You're right. I remember.	
+Message	Rinne	"I decided that I was going to forget everything and
+just enjoy myself today. Not worrying about doing
+anything that might make you hate me... All of it."	
+Message	Rinne	"And I had so much fun. You were surprised, weren't
+you? I wasn't acting like the usual me."	
+Message	Shido	"Um... Yeah. I guess I wasn't so much surprised as I
+was happy."	
+Message	Rinne	Happy?	
+Message	Shido	"Yeah. I mean, I remember you were the Ruler. That
+you're not just a good girl."	
+Message	Rinne	"...Hehe. Hahah. You're right. You're totally right.
+You know that I'm annoying, with a lot of baggage,
+and I'm always meddling, too."	
+Message	Shido	Don't say that about yourself.	
+Message	Rinne	"But you shouldn't be talking, Shido. You're annoying,
+with a lot of baggage, and you're always meddling."	
+Message	Shido	...Well, I won't deny that.	
+Message	None	"(I mean I know it. I also think it's a flaw of mine.
+But I can't just stand there when people are hurt.)"	
+Message	Rinne	Hey, Shido... Have you found your answer yet?	
+Message	Shido	Well...	
+Message	None	"(I haven't found it yet. It's unrelenting, and I'm
+continuing to stress about it.)"	
+Message	None	"(I decided to take care of unfinished business so that
+I could make a decision today. That's what my date
+with Rinne was for.)"	
+Message	None	"(Before, Rinne and I didn't have the capacity to think
+about other things, or do the things we did today.)"	
+Message	None	"(The only time I was able to go on a date with her
+was in a dream. But I denied Rinne under this same
+sunset. I denied the happy world from that dream.)"	
+Message	Rinne	"I decided. I'm going to have the resolve to keep on
+going."	
+Message	Shido	The resolve?	
+Message	Rinne	You told me before, Shido. Let's go home together.	
+Message	Shido	Yeah, I did. But you...	
+Message	None	"(I couldn't finish the sentence. Rinne couldn't come
+home. She was alone. Disappeared, leaving me behind.)"	
+Message	Rinne	Don't look so sad, Shido. You're making me sad.	
+Message	Shido	"But aren't you going to say it again? That you can't
+come home with me. That you can't stay with me!"	
+Message	None	"(The things that were going through my head were
+slipping out of my mouth. The emotions that I
+repressed were overflowing.)"	
+Message	Shido	"I don't want it! I remember now! That you existed.
+That you left me. That... you protected me!"	
+Message	Rinne	...Shido.	
+Message	None	"(Once I let it out, I couldn't stop. But my mind was
+surprisingly calm.)"	
+Message	None	"(I realized it was so simple. I was scared. I was
+scared that the person I knew would disappear once
+again.)"	
+Message	Rinne	"Shido, you're too kind. That's why you carry it all by
+yourself."	
+Message	Shido	...Here we go again.	
+Message	Rinne	Again?	
+Message	Shido	"Both Maria and Marina said that to me. That... I'm too
+nice."	
+Message	Rinne	I see... Those two must be watching you closely, then.	
+Message	Shido	"No... It's not that... I'm not nice. I... I just want
+to be with you guys!"	
+Message	Rinne	There's something I want you to remember, Shido.	
+Message	Shido	Something... you want me to remember?	
+Message	Rinne	"I love you, Shido. No matter what happens, I know
+my feelings won't change."	
+Message	Shido	Rinne...	
+Message	Rinne	"But I also love everyone else. Not in a romantic way,
+but the feeling isn't any different from love."	
+Message	Rinne	"I love Tohka-chan who eats so happily. I love
+Tobiichi-san who says weird things out of the blue.
+I love Yoshino-chan who helps from time to time."	
+Message	Rinne	"I love Kotori-chan who calls me One-chan. I love
+Tokisaki-san who supports everyone. I love Kaguya-
+chan who exaggerates when she's surprised."	
+Message	Rinne	"I love Yuzuru-chan who always coolly speaks her
+mind. I love Miku-san who is always working so hard.
+I love Maria-chan since she's so similar to me."	
+Message	Rinne	"I love everyone I've met in this world. This feeling
+is undoubtedly my treasure."	
+Message	Rinne	"You're here. Everyone's here... I feel so satisfied.
+So I have to give back. Everyone's true futures."	
+Message	Shido	But... That means―!	
+Message	None	(Rinne, Maria, Marina, and Rio will disappear.)	
+Message	Shido	"Are you going to say the same thing as Marina...?!
+Why won't anyone say it?! That they want to be with
+me! That they want to be with all of us!"	
+Message	Rinne	"We're all similar. We're all annoying, with our own
+burdens and our meddling. We can't stand anyone
+continuing to be hurt."	
+Message	Rinne	"Even if Eden worked out and we continued our daily
+lives, an end will eventually come, just like last
+time. I think you're the one who will regret it then."	
+Message	Rinne	"So, no one wants you to stop moving. We want you to
+keep on going, with our love supporting you from
+behind."	
+Message	Shido	"What... That's not fair... You're going to leave it all
+to me and just disappear..."	
+Message	Rinne	But you're Prince Charming, right Shido?	
+Message	Shido	Haha... That makes no sense.	
+Message	Rinne	I'm... a little mermaid.	
+Message	None	"(Rinne was smiling, but tears welled up in her eyes.
+The sunset shone on her face... She was gorgeous.)"	
+Message	Rinne	"But I'm going to tell you. This time, I'm going to say
+it."	
+Message	Shido	Rinne?	
+Message	Rinne	"I'll always, always love you. Even if you forget me,
+I'll always love you."	
+Message	Rinne	"So... So, please... If you can, I want you to leave me
+a little space in your heart, Shido. Even if it's only
+a little. Please?"	
+Message	Shido	But if I get out of here... I'll forget you again...!	
+Message	Rinne	"It's still okay. Just remember me until the final
+moment."	
+Message	Shido	"I won't forget. I'll never forget. Even if I get out of
+here, I promise I'll remember you."	
+Message	Rinne	"...Thank you, Shido. That makes me so happy... to
+hear that."	
+Message	Rinne	"I knew it was that. The "most important thing" that
+Rio-chan mentioned."	
+Message	None	"(It wasn't somewhere in the town. Because I had it
+the whole time. From the day Rinne disappeared, I
+had it the whole time―)"	
+Message	None	(I've made up my mind―)	
+Choice		I don't need this anymore.	
+Choice		I thought about Rio.	

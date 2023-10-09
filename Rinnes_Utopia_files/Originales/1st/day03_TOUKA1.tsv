@@ -1,0 +1,299 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(All right, I'll invite Tohka out on a date.)	
+Message	None	"(It's a bit embarrassing to do it in the
+classroom, so I'll just wait for her here.)"	
+Message	None	"(Hm... huh?! I thought she was just taking a while
+to come out, but she's not even in there!)"	
+Message	None	"(Where did she go? It hasn't gotten that late,
+right? I guess I'll go look for her.)"	
+Message	None	"(Hmmm... She's not here. Is it possible she's also
+looking for me, and we keep passing
+each other...?)"	
+Message	None	(I'll try going back...)	
+Message	None	"(I guess she really isn't here... *sigh...*
+Where did she go? Did she head home first?)"	
+Message	None	(I'll search a little more before going home.)	
+Message	None	(Hm? Over there... It's Tohka! Isn't it?)	
+Message	None	"(Huh... She's with the Ai Mai Mii trio. What are
+they doing gathered around Tohka like that?)"	
+Message	None	"(It somehow feels difficult to approach them...
+I guess I'll watch them from here...)"	
+Message	Tohka	Hm... Then, you were able to procure it?	
+Message	Ai	"There's been no mistake.
+I brought it here with me."	
+Message	Mai	"Ai, you do great work. This is absolutely
+necessary for Tohka-chan's path to otome bliss."	
+Message	Mii	This is seriously overkill.	
+Message	Ai	"Oh, Tohka-chan, I understand being impatient about
+everything, but you'd better be careful to not let
+the target know."	
+Message	Tohka	Y-Yes!	
+Message	Mai	"That's right! If you're going to perfect your
+womanliness, it has to be casually! This is
+an eternal theme!"	
+Message	Mii	"Staying too long's dangerous. Just hurry the hell
+up and hand it over. It'll be a pain
+if we're seen."	
+Message	Ai	"Right. Tohka-chan, it'll be hard to pull
+everything off, but the feature article's
+sure to help. Do your best!"	
+Message	Tohka	Yes! Thank you very much for your help!	
+Message	Ai	Hehe, no need to be all formal with us!	
+Message	Mai	Tohka-chan! Fight! Fight!	
+Message	Mii	"We're all behind you, Tohka-chan.
+If you ever have any trouble, just let us know.
+We'll hire The Cleaners to take care of it."	
+Message	Ai	"Right, let's shove off! Let us know if there's any
+progress. See ya!"	
+Message	Shido	Hm? Looks like they're done.	
+Message	Shido	―Shoot, they saw me!	
+Message	Ai	"Well, hello there, Itsuka-kun. What's a nice guy
+like you doing in a place like this? Are you
+sneaking around, stalking Tohka-chan?"	
+Message	None	(I can't think of a good excuse.)	
+Message	Mai	"How long have you been here?
+You weren't watching this whole time, were you?"	
+Message	Shido	"I-I just happened to be passing by! I'm not
+stalking anyone!"	
+Message	Mii	"If that's the truth, then fine. But if you're
+lying, you'll end up floating in the Caspian Sea."	
+Message	None	"(Coming from her, it really doesn't
+sound like a joke...)"	
+Message	Tohka	Heeeey! Shidoooo!	
+Message	Ai	Ah! The arrival of the princess!	
+Message	Mai	We should break contact and withdraw! Withdraw!	
+Message	Mii	Do you want to live a long life?	
+Message	Shido	Huh? Um, yes...	
+Message	Mii	Then don't make Tohka-chan cry.	
+Message	Shido	......	
+Message	Tohka	Shido! What are you doing here?	
+Message	Shido	"E-Er, I was looking for you because I wanted
+to invite you—"	
+Message	Tohka	I-I see! A date, is it?!	
+Message	Tohka	"Hmm... This calls for immediate use of my special
+item!"	
+Message	Shido	"Hm, what's wrong? Do you have
+something else to do?"	
+Message	Tohka	"N-No, I'm fine! I'm fine, b-but
+please wait a moment."	
+Message	Shido	What is she going to do...?	
+Message	Tohka	Ohh, this is it!	
+Message	Tohka	"Hmm... "Summer's kicking off to a hot start, and
+beautiful bimbos with rockin' bods have the upper
+hand!" ...No, that doesn't seem right..."	
+Message	Tohka	"...Hm? "Unlock the secrets to his desire! In this
+step-by-step guide, you'll learn how you can
+pull your bad boy in by the―" ...No, no!"	
+Message	Tohka	Hmm? The feature article! This is it!	
+Message	Tohka	"Let me see... "Feminine Date Ideas
+for Elegant Ladies"... Ohh... hmm... I see..."	
+Message	Tohka	...All right! I shall go with this!	
+Message	None	"(I can hear her mumbling from the other side of
+the building... What is she doing?)"	
+Message	Tohka	I apologize, Shido! I kept you waiting!	
+Message	Shido	Oh, are you all good?	
+Message	Tohka	"Yes! Although, I did not have time
+to learn everything..."	
+Message	Shido	Huh?	
+Message	Tohka	I-I-It is nothing! L-Let us hurry on our date!	
+Message	Shido	All right, then. Where should we go today?	
+Message	Tohka	Over here, Shido! Follow me!	
+Message	Shido	Wha―? H-Hey, Tohka! Wait up!	
+Message	Shido	"Ummm...Tohka-san? We seem to be back at my
+house... What happened to our date?"	
+Message	Tohka	Yes, this is our date!	
+Message	Shido	"Ohh, I see. You came back home to change... So,
+where would you like to go after that?"	
+Message	Tohka	Hmm? We will not be going anywhere...	
+Message	Shido	Huh?	
+Message	Tohka	Y-You can just sit and wait right here, Shido!	
+Message	Shido	H-Here...?	
+Message	Tohka	"Hmmm... Eggs, eggs, where are the eggs?! Ohh!
+Here they are!"	
+Message	Tohka	"Hmm, a bowl and... measuring spoons. Where are
+they? ―Here! No. Then, here! They're not here...!
+Then... what about here?!"	
+Message	Tohka	Augh!	
+Message	Shido	T-Tohka?! Are you okay??	
+Message	Tohka	Y-You can't!	
+Message	None	"(As I tried to rush into the kitchen, Tohka stood
+steadfastly in front of me.)"	
+Message	Shido	Wha―!	
+Message	Tohka	"You have to sit over there, Shido!
+Men are not allowed in the kitchen!"	
+Message	Shido	A-All right...	
+Message	None	"(That's super old-fashioned, but... Well, she
+seems to be trying to cook something on her own.
+If Tohka is insisting, I guess I'll wait here...)"	
+Message	Tohka	"*Cough, cough!*
+...Rgh! I can't see anymore!"	
+Message	None	"(Wh-What the heck? A powdery, white cloud
+is drifting into the living room...)"	
+Message	Tohka	"Ah! It's no good! I've forgotten to put in the
+eggs and the milk!"	
+Message	Tohka	"Hm?! Oh, shoot! The floor's slippery now...
+This is a disaster!"	
+Message	Tohka	"Curse you, milk! How dare you show me such
+impudence?!"	
+Message	Tohka	"Oh?! I was supposed to add in the egg first?
+Hmph! It isn't too late to add it now!"	
+Message	Tohka	"N-No good! Can I not use this anymore?
+Hm... It can't be helped, I'll simply use a new―"	
+Message	Tohka	"Hmph! Curse you! You're so slippery! Then I shall
+do this all at once―"	
+Message	Tohka	Ah! Grrrrrr...!	
+Message	None	"(Ummm, can I still not go in?
+It's probably not okay...)"	
+Message	Tohka	"Hah! Then I'll just leave eggs out! It'll be fine
+if I have milk!"	
+Message	Shido	......	
+Message	Tohka	"Ohh... What about that thing? I haven't used the
+"ding"-ing object yet!"	
+Message	Tohka	"Hmmm, anyone can microwave whipping cream...
+Even the clumsiest among us can heat it up and be
+a proper pâtissière! Yes, this is it!"	
+Message	Tohka	"Now then, in the meantime,
+I'll heat up the frying pan..."	
+Message	Tohka	Hmm?! What the―? The microwave!	
+Message	None	"(Whoa! That was pretty loud just now. I think it
+might be a good time for me to step in
+and help...)"	
+Message	None	"(N-No, wait! I should believe in Tohka, and wait
+for her until the end.)"	
+Message	None	"(I want to respect Tohka's feelings, and she did
+did tell me to wait here... Hmmm, what should
+I do...?)"	
+Choice		I'll go help her after all.	
+Choice		I'll believe in Tohka and wait.	
+Message	Shido	A-Are you all right, Tohka?	
+Message	Tohka	Sh-Shido?! I told you you can't come in here!	
+Message	Shido	"After hearing such a huge noise, of course I'd be
+be worried; I can't just sit still..."	
+Message	Tohka	Hm...	
+Message	Shido	Whoa... This is quite the mess...	
+Message	Tohka	I-It wasn't supposed to end up like this!	
+Message	Shido	"All right. I'll help too, so let's
+make it together!"	
+Message	Tohka	B-But...	
+Message	Shido	"Cooking and eating together is a perfectly
+good date, isn't it?"	
+Message	Tohka	Y-Yes...	
+Message	Shido	Now, then... What were you trying to make?	
+Message	Tohka	H-Hot cakes.	
+Message	Shido	"Ooh, that's pretty good. It's already a bit past
+3, but hot cakes shouldn't take so long... And the
+ingredients... Yeah, we should be able to do it."	
+Message	Tohka	I apologize...	
+Message	Shido	Don't look so sad.	
+Message	Shido	"If you tried your hardest and it didn't work out,
+just make the best of it. Don't let it get to you.
+You're better than people who don't try at all."	
+Message	Tohka	R-Really?	
+Message	Shido	"Seeing you throw your all into this challenge
+makes me realize exactly how amazing you are."	
+Message	Tohka	......	
+Message	Shido	"So, Tohka... Because of you, I end up wanting
+to help out in any way that I can."	
+Message	Tohka	Shido...	
+Message	Shido	"All right, we'd better hurry and make it so we can
+eat soon, or else we won't have enough room for
+dinner!"	
+Message	Tohka	Y-Yes!	
+Message	None	"(We hurriedly cleaned the kitchen and made
+some hot cakes while debating over different
+cooking methods.)"	
+Message	Tohka	"Ohh! Cooked for just the right amount of time,
+with plenty of butter and honey! And the inside is
+so fluffy! You are a genius at hot cakes, Shido!"	
+Message	Shido	"Haha, you're exaggerating. But I'm glad they came
+out so well."	
+Message	Tohka	Yes!	
+Message	Shido	"You'll be able to make them by
+yourself next time, Tohka."	
+Message	Tohka	Mm... Y-Yes, you're right.	
+Message	None	"(Huh? Everything seemed to be going so well, but
+Tohka's face got dark all of a sudden. Did I say
+something wrong again?)"	
+Message	Tohka	"This wasn't supposed to happen... I have to make
+them for Shido myself..."	
+Message	Shido	"Wh-What's wrong, Tohka...? Oh, was it a little
+burnt underneath?"	
+Message	Tohka	I-It's nothing! Thank you for the hot cakes...	
+Message	Shido	R-Right...	
+Message	None	Hmmm. I can't seem to understand a girl's heart...	
+Message	None	"Well, I waited this long. I'll try trusting
+her until the end..."	
+Message	Tohka	"Hmm, the inside of the microwave is... Well, it's
+so cloudy, I can't see anything."	
+Message	Tohka	"Hmph...! It's fine! Even without whipping cream!
+Butter and honey will do!"	
+Message	Tohka	"All right, just a little more... A feminine woman
+works hard in the kitchen!"	
+Message	Tohka	"Heat up the frying pan... How long
+does it need to be heated?"	
+Message	Tohka	Hmm... it should probably be hot by now...?	
+Message	Tohka	―Ouch!	
+Message	Shido	―?!	
+Message	None	(Aaaah, jeez! I can't wait anymore!)	
+Message	Shido	―Tohka! Are you okay?!	
+Message	Tohka	...Sh-Shido?	
+Message	Shido	Are you hurt?	
+Message	Tohka	"I-I am fine, but... It wasn't supposed to be
+this way! I can't have you eat this..."	
+Message	Shido	"Whoa... This is quite the mess. But if you're all
+right, Tohka, then it's fine. You can always try
+cooking again another time."	
+Message	Tohka	Hmm...	
+Message	Shido	"For now, let's clean this up... And then why
+don't we make it again together?"	
+Message	Tohka	B-But...	
+Message	Shido	"Cooking and eating together is a perfectly
+good date, isn't it?"	
+Message	Tohka	Y-Yes...	
+Message	Shido	Here, first wipe your face with this...	
+Message	Shido	Now then... What were you trying to make?	
+Message	Tohka	H-Hot cakes.	
+Message	Shido	"Ooh, that's pretty good. It's already a bit past
+3, but hot cakes shouldn't take so long... And the
+ingredients... Yeah, we should be able to do it."	
+Message	Tohka	I apologize...	
+Message	Shido	Don't look so sad.	
+Message	Shido	"If you tried your hardest and it didn't work out,
+just make the best of it. Don't let it get to you.
+You're better than people who don't try at all."	
+Message	Tohka	R-Really?	
+Message	Shido	"Seeing you throw your all into this challenge
+makes me realize exactly how amazing you are."	
+Message	Tohka	......	
+Message	Shido	"So, Tohka... Because of you, I end up wanting
+to help out in any way that I can."	
+Message	Tohka	Shido...	
+Message	Shido	"All right, we'd better hurry and make it so we can
+eat soon, or else we won't have enough room for
+dinner!"	
+Message	Tohka	Y-Yes!	
+Message	None	"(We hurriedly cleaned the kitchen and made
+some hot cakes while debating over different
+cooking methods.)"	
+Message	Tohka	"Ohh! Cooked for just the right amount of time,
+with plenty of butter and honey! And the inside is
+so fluffy! You are a genius at hot cakes, Shido!"	
+Message	Shido	"Haha, you're exaggerating. But I'm glad they came
+out so well."	
+Message	Tohka	Y-Yes!	
+Message	Shido	"I'd be happy to make them for
+you whenever you want."	
+Message	Tohka	Really?!	
+Message	Shido	Yeah!	
+Message	Tohka	No... It's no good like this...	
+Message	Shido	Hm...?	
+Message	None	"(Huh? Everything seemed to be going so well, but
+Tohka's face got dark all of a sudden. Did I say
+something wrong again?)"	
+Message	Tohka	"This wasn't supposed to happen... I have to make
+them for Shido myself..."	
+Message	Shido	"Wh-What's wrong, Tohka...? Oh, was it a little
+burnt underneath?"	
+Message	Tohka	I-It's nothing! Thank you for the hot cakes...	
+Message	Shido	R-Right...	
+Message	None	Hmmm. I can't seem to understand a girl's heart...	

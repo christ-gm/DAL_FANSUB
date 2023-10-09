@@ -1,0 +1,331 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Mm... Mmmh... Hm? It's... morning.	
+Message	None	"(Huh? When did I fall asleep? I feel like I was
+just with everyone else.)"	
+Message	None	"(That's right. I was testing a game, and entered
+the digital world. There, I met a mysterious girl.
+Maria Arusu. Then, everyone else followed...)"	
+Message	Shido	"Oh, it was just a dream. Of course. Something
+that crazy couldn't possibly be real."	
+Message	Shido	"I just had the strangest dream...
+I guess I'll make some breakfast."	
+Message	None	"(Huh? Is that noise coming from the kitchen?
+That smell, it smells like miso soup.)"	
+Message	Shido	Who's making breakfast?	
+Message	Kotori	......	
+Message	Shido	"Morning, Kotori. What's wrong? Why the
+long fa―Good morning..."	
+Message	Maria	......	
+Message	Kotori	......	
+Message	Shido	Um, Maria...?	
+Message	Maria	Yes.	
+Message	None	(...So it really wasn't a dream.)	
+Message	Shido	"Huh, but how is it morning? I only remember
+up to yesterday afternoon..."	
+Message	Maria	"Yesterday, I had reset this world. It is morning
+because the world is currently restarting its
+cycle."	
+Message	Kotori	"In other words, at the time, it looks like a
+"New Game+". The game's restarted on the
+first day."	
+Message	Shido	I see...	
+Message	Kotori	So, why are you in our house?	
+Message	Maria	"To observe Shido, so as to ascertain the origins
+of love and how it is nurtured."	
+Message	None	"(Wait, I thought she only referred to me as
+Shido Itsuka. For some reason, she's calling
+me by a different name.)"	
+Message	Kotori	"So you're watching Shido now, are you?
+Whatever. For now, we decided that we'd go
+along with Arusu's scheme."	
+Message	Shido	I see. That's why you're in our house, Maria.	
+Message	Kotori	...Shido. Is this girl's name Maria?	
+Message	Shido	"Huh? Of course it is. Maria Arusu. She asked me
+to call her Maria."	
+Message	Maria	Yes, I did in fact ask you this.	
+Message	Kotori	...Is that so? Hmm... Well, whatever?	
+Message	Shido	So then, what's for breakfast?	
+Message	Maria	"I prepared something this morning. I will serve
+the meal on the table, so please wait."	
+Message	Shido	You made this, Maria?	
+Message	Maria	Yes. Please sit down, Shido.	
+Message	Shido	"Gotcha. Maria, so you cook... That's, um, sort
+of unexpected."	
+Message	Maria	"I have accumulated recipe data up until now,
+which explains how my cooking has improved.
+My cooking is on equal footing to yours, Shido."	
+Message	Kotori	"That's quite the claim. Since Shido's only real
+skill is cooking."	
+Message	Shido	Only real skill... That's a little harsh.	
+Message	None	(Still, "data up until now" is a little peculiar.)	
+Message	Kotori	"Well, why don't we dig in? We have class soon,
+after all."	
+Message	None	"(Maria had finished laying out the dishes
+onto the table.)"	
+Message	Shido	"Rice, miso soup, and grilled fish.
+Talk about a balanced meal."	
+Message	Maria	"According to the database, this meal is common
+for the Itsuka household."	
+Message	Shido	"Well, that's true. Did you really make this,
+Maria?"	
+Message	Maria	Yes... Um, is there an issue?	
+Message	Shido	"No, that's not it. It's just surprising, maybe
+something just feels off."	
+Message	Kotori	"Well, she made us breakfast, so just eat it
+or we'll be late."	
+Message	Shido	Y-You're right. Thank you, Maria.	
+Message	Maria	"Of course... All I did was predict your
+breakfast patterns."	
+Message	None	"(Maria was acting timid. They called her an AI,
+but she really looked no different from a normal
+girl. Kinda strange.)"	
+Message	Shido	All right. Time for breakfast.	
+Message	None	"(As I put my hands together in gratitude for
+the meal, Maria seemed to follow suit.)"	
+Message	Maria	Time for breakfast.	
+Message	None	"(Maria mimicked my posture, and very
+carefully fed herself a mouthful of rice.
+It was so natural.)"	
+Message	None	"(I also took a bite of the salmon filet, and
+sipped the miso soup.)"	
+Message	Shido	"Delicious. Not too thick or too thin, just
+the right amount of flavor."	
+Message	Kotori	"It can't be, but there's no mistake. It tastes
+exactly like the breakfast you make, Shido."	
+Message	Shido	"You're right. Now that you mention it,
+the flavors are really similar."	
+Message	Maria	"Because I am precisely recreating Shido's
+cooking methods, the taste should be
+indistinguishable."	
+Message	Shido	Wow. Amazing. I'm impressed.	
+Message	Maria	"I do not have much experience in actually
+cooking, so I was uncertain as to whether or
+not I could reproduce it faithfully."	
+Message	Shido	"Even if you learned just by observing, that's
+still a big accomplishment. Maria, you might
+have a talent for cooking, you know?"	
+Message	Maria	"No. It is because your cooking is delicious,
+Shido. I only copied you."	
+Message	Shido	Don't be so modest, Maria.	
+Message	None	"(And so, while we continued praising Maria,
+she continued displaying humility, and we
+all finished our breakfast.)"	
+Message	None	"(After our meal, Maria began washing the
+dishes.)"	
+Message	None	"(Although I offered to help, she refused,
+so I sat in a chair next to Kotori while she
+enjoyed a cup of tea.)"	
+Message	Shido	"It was almost a perfect recreation. Do you
+think it's because we're in a simulation?"	
+Message	Kotori	It'd be reasonable to think so, but...	
+Message	Kotori	"Are such minute details like your cooking
+habits really being logged into a database?"	
+Message	Shido	"Wouldn't Reine-san or someone else have
+set it up?"	
+Message	Kotori	Hmmm...	
+Message	None	(Hmm...)	
+Message	Kotori	"Well, whatever. Either way, we should think
+critically about what we're to do from here."	
+Message	Shido	Do from here? Aren't we heading to school?	
+Message	Kotori	"Correct, but if we follow our routines aimlessly,
+then we may never get to escape from this world."	
+Message	Shido	"I guess our best move would be to find the
+answer to the question Maria is wondering
+about. What is love...?"	
+Message	Kotori	"To that end, we're stuck living in this digital
+world, right? Doesn't that mean we should act
+while we know Arusu's gathering info on love?"	
+Message	Shido	"You can't be telling me that I need to date
+Tohka and the others again..."	
+Message	Kotori	"That's exactly it. We're in a dating sim, so even
+if we wait, some event might trigger. We have
+to take advantage of it whenever it does."	
+Message	Kotori	"If she were just making you play a dating sim,
+then NPCs would have worked, but that's not the
+case. Arusu brought us here. That means something."	
+Message	Shido	"Then people who were originally targets to
+date were summoned here too, right? Well, I
+guess that isn't much different than real life."	
+Message	Kotori	"That's right. Either way, do your best to find
+out what the meaning of love is."	
+Message	Shido	"I guess it means I should go on a date. Hmm.
+I wonder if that will help us get to the bottom
+of it."	
+Message	Maria	On that note, Shido.	
+Message	Shido	Oh, Maria. Are you finished washing the dishes?	
+Message	Maria	"Yes. I made sure to clean all of them.
+So, about where to go from here, Shido..."	
+Message	Shido	Hmm?	
+Message	Maria	Would you kindly go on a date with me?	
+Message	Shido	Huh?! With you, Maria?!	
+Message	Maria	"It is true that observing your cultivation of
+love is informational to me. However, there is
+much I won't understand until I experience it."	
+Message	Kotori	I see. Makes sense to me.	
+Message	Shido	So you want me to go on a date with you, Maria?	
+Message	Maria	"In this world, the only person suitable to date
+me is... you, Shido. You are the only one."	
+Message	Shido	That may be true, but...	
+Message	None	"(Like Maria says, the only guy in this world
+who isn't an NPC is me, so this is quite the
+sudden proposal.)"	
+Message	Kotori	Hmm... It's fine, don't you think?	
+Message	Shido	"Kotori, even if we decided to follow through,
+there's no guarantee I'll do it right, you know?"	
+Message	Kotori	"Well, I'll leave the final decision up to you,
+Shido. Doing so might be the key to our escape."	
+Message	Shido	"Well, I suppose experiencing it first-hand
+is better, but..."	
+Message	Maria	"Yes. By doing so, I am expecting to obtain
+valuable data on what love is."	
+Message	None	"(The problem is in whether or not I'll be
+able to do things right, but I guess there's
+no sense in being indecisive.)"	
+Message	Shido	All right. I'll think about it.	
+Message	Maria	"Yes. Thank you very much. I do not wish
+to force you into it, so please do what feels
+right in your heart, Shido."	
+Message	Kotori	"Hm. Well then, now that's decided, let's head
+to class. Arusu, you're coming to school with us,
+right?"	
+Message	Maria	Yes. I am set to be a transfer student.	
+Message	Shido	"So you'll become our classmate, Maria.
+That means all of us will be at the same
+school, huh?"	
+Message	Maria	"Yes. It seems to be the best method of
+constructing necessary events."	
+Message	None	(This sounds like a lot to handle...)	
+Message	None	"(When I opened the front door, the Spirits
+living in the Spirit Mansion had gathered.)"	
+Message	Tohka	"Hrm. So Arusu will be coming with us as
+well?"	
+Message	Shido	Yeah, that seems to be the case.	
+Message	Yoshino	U-Umm... Shido-san.	
+Message	Shido	Good morning, Yoshino. You're going too, huh?	
+Message	Yoshinon	"Yoshino's become a teacher! Isn't it amazing?\nShe'll give you a lesson you'll never forget!"	
+Message	Shido	I see. So that's your role, Yoshino.	
+Message	Yoshino	"Umm. I'm not sure... if I can do it, but I'll
+try my best!"	
+Message	Shido	"Yeah. I'm looking forward to learning from
+you too."	
+Message	Kaguya	"Ku ku. To think that the "World Administrator"
+herself would participate. What a tangled web
+we weave. Heh. The winds rage onward."	
+Message	Maria	"I have no desire to cause an uproar. Let us
+get along."	
+Message	Yuzuru	"Question. Is your decision to join us at all
+influenced by yesterday's matter? By accompanying
+us, you will be educated in matters of love."	
+Message	Maria	"Yes. An accurate deduction. I am observing
+everyone in order to learn about love. I think
+spending time with you all will aid me."	
+Message	Shido	Well, whatever the case is, please be nice.	
+Message	Kotori	"There are a couple of people absent here,
+aren't there?"	
+Message	Tohka	"Come to think of it, I do not see them. Perhaps
+they are traveling separately?"	
+Message	Kotori	"I mean, we'll probably run into them at school.
+No need to worry. For now, let's get going."	
+Message	None	(Afterward, we all walked together to class.)	
+Message	Kaguya	"So you've come here as a transfer student, Arusu.
+Which class is yours?"	
+Message	Maria	I will be in Shido's class.	
+Message	Tohka	Ohh, then it is the same as me.	
+Message	Yuzuru	"Dissatisfaction. It's unfair that only Kaguya
+and I are in a different class. We'd like to be
+with Shido."	
+Message	Kotori	"Well, not everyone's gonna be in the same class,
+right? There wouldn't be enough desks. It looks
+like I'm in this room, since I skipped a grade."	
+Message	Shido	"If everyone were together, that'd be chaos,
+so this works, doesn't it? Either way, we'll
+all get together at break, right?"	
+Message	None	"(It's already gotten so noisy, and not
+everyone is here yet.)"	
+Message	Kurumi	"Oh my. Look at all the happy faces grouped
+together."	
+Message	Shido	Whoa, Kurumi. Where'd you come from?	
+Message	Kurumi	"I was in the neighborhood. It seemed like
+a lovely day to take a stroll by your school."	
+Message	Shido	I-I see... You just happened to take a stroll.	
+Message	Kurumi	"Since I'm here already, I will join you.
+Despite the nuisance from Arusu-san."	
+Message	Maria	"I suppose in normal circumstances, having
+this many people walking together would
+present a logistical issue."	
+Message	Shido	"Nah. I don't think there's a reason to let
+that kind of stuff bother you. Don't you think?"	
+Message	Kurumi	"It's as Shido-san says. This is a transient world,
+after all. We must find a means with which to
+escape as soon as we can."	
+Message	Maria	Yes. I suppose that is true...	
+Message	None	"(Maria's reaction to Kurumi's comment was
+forlorn, and she pointed her eyes at the ground.
+It was the most human-like I'd ever seen her.)"	
+Message	Miku	Helloooo, darling. Good morning.	
+Message	Shido	Oh. You're coming too, Miku?	
+Message	Miku	Oh, is Arusu-san going to school too～?	
+Message	Maria	Yes. I wish to broaden my scope of experiences.	
+Message	Miku	"Hee hee. You're adorable. Hey Arusu-san,
+wanna get tea with me some time?"	
+Message	Maria	"Tea? Sipped over light conversation at a
+café? Am I correctly framing the proposal?"	
+Message	Miku	Yep. We can talk all day and take our time.	
+Message	Shido	Hey hey, don't start trying to pick her up.	
+Message	Miku	Goodness. Feeling jealous, darling?	
+Message	Shido	"Of course not. Come on. We're going to
+be late."	
+Message	Miku	Aww, darling. You're so mean!	
+Message	Yoshino	Shido-san, this is where I go...	
+Message	Shido	"Ah, gotcha. You're heading to the teacher's
+office. See ya later."	
+Message	Maria	"Shido, I will also head to the office. I am a
+transfer student after all."	
+Message	Shido	Yeah. I'm looking forward to it.	
+Message	Maria	Looking forward to what?	
+Message	Shido	"Well, for you to become our classmate,
+Maria."	
+Message	Maria	Oh, yes... Um, I will be seeing you...	
+Message	Shido	Hmm? She was acting a little strange.	
+Message	Shido	"No. I'm just reading too much into it. I'd
+better pull myself together and head to class."	
+Message	Shido	...Oh?	
+Message	None	"(Just then, I bumped into someone trotting
+out of the classroom.)"	
+Message	Shido	Origami. You're early.	
+Message	Origami	"I arrived here to check if there were any
+dangerous items hidden around."	
+Message	Shido	"I-I see. It's true. The world might not look
+much different, but it is."	
+Message	Origami	"There was nothing particularly suspicious.
+There are, however, more desks inside of the
+classroom than usual."	
+Message	Shido	"It's because Kurumi and Maria have transferred
+here, huh?"	
+Message	Origami	"Most likely, yes. I learned of this by collecting
+information from the staff. I was able to
+ensure nothing here will endanger you, Shido."	
+Message	Shido	"Right. Is that why my gym clothes are in
+your hands?"	
+Message	Origami	I was checking for dangerous items.	
+Message	Shido	"In my gym clothes? You said you came early
+to investigate, right?"	
+Message	Tohka	"Shido, what's the matter? Are you not coming
+to class?"	
+Message	Shido	Yeah, I'm going now.	
+Message	Tohka	"Shido, there are more people in class than
+usual, but it's exciting."	
+Message	Shido	"Yeah, you're right. Class is always pretty lively,
+but this time feels different for some reason."	
+Message	Shido	"It doesn't feel like how it used to be at all.
+Why is that? Oh well."	
+Message	Tohka	Yes, Shido. Let's head into class together.	
+Message	Origami	"Tohka Yatogami. Only two persons can fit in
+through a classroom door at one time. Shido
+has already decided to enter class with me."	
+Message	Tohka	"Rgh. Shido will enter with me. You can
+follow behind us, Origami Tobiichi."	
+Message	Origami	You should be the one to enter afterwards.	
+Message	Tohka	I was thinking the same for you!	
+Message	Shido	I'm going ahead...	
+Message	None	(Um, I guess some things never change...)	

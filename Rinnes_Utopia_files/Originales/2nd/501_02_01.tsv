@@ -1,0 +1,303 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(Now...)	
+Message	None	"(I bought all the things I needed, so all that's
+left is...)"	
+Message	None	(The tea set Kotori asked me to buy.)	
+Message	Kotori	"Listen to me, Shido. Your adorable little sister
+is going to use this tea set. If you screw this
+up, I will rip it off and use it as a saucer."	
+Message	None	"(...That's what she told me. I don't know what
+she's going to rip off, but I can't mess this up.)"	
+Message	None	"(I wonder if there are any good stores around...
+Wait a minute... that's...)"	
+Message	None	"(An antique store... I didn't know that
+was there.)"	
+Message	None	(...Iyotokado, huh? What an odd name.)	
+Message	None	"(But the shop window seems to have some dinnerware
+on display. Maybe I'll find some tea sets inside.)"	
+Message	None	"(The shop seems high-end, so I'm kind of
+intimidated... All right, here goes nothing.)"	
+Message	Shido	Excuse me...	
+Message	None	(This shop is really something.)	
+Message	None	"(It's bigger than I expected. There are tons of
+things here...)"	
+Message	None	"(At the center of the store was a doll. Really
+pretty, and life-sized. Wow, I wonder how
+much it is...)"	
+Message	Tohka	Welcome. Can I help you with anything?	
+Message	Shido	Whoa.	
+Message	Tohka	Hm? Is something the matter?	
+Message	Shido	"Oh... sorry. Are you the staff here? You were so
+beautiful that I thought you were a doll."	
+Message	Tohka	"My, you're very kind. I'm the owner of this shop.
+My name is Tohka."	
+Message	Shido	O-Oh, so you're the owner. I'm sorry...	
+Message	Shido	Tohka, that sounds familiar...	
+Message	Shido	Oh, that's right. "Iyo Tohka do."	
+Message	Tohka	"Yes. I'm embarrassed to admit that my name is in
+the shop's name."	
+Message	Shido	"I see. No wonder why it sounded so familiar. Makes
+sense."	
+Message	Shido	But then, what does the "Iyo" part mean?	
+Message	Tohka	My grandfather passed away a few years ago.	
+Message	Shido	Huh? O-Oh okay... I see... So it's his name, huh?	
+Message	Tohka	"My grandfather started this place, and named it a
+combination of his and my name, but I am currently
+the sole owner."	
+Message	Shido	"I-I see. I'm sorry for asking such a sensitive
+question... I wish I could have met Iyo-san."	
+Message	Tohka	It's actually pronounced "Iyo."	
+Message	Shido	Oh, I'm sorry!	
+Message	Tohka	"It's fine. I may not be worthy, but I would love
+to show you around."	
+Message	Shido	"What? Don't say that. You're handling this place
+on your own, right? Despite looking like you're
+my age."	
+Message	Tohka	No, I'm not good at all yet...	
+Message	Shido	"Honestly, I've never met anyone as elegant as you.
+It's hard to explain, but you seem to embody the
+spirit of the shop. I think that's amazing."	
+Message	Tohka	Oh, um... You're making me blush.	
+Message	Shido	...?!	
+Message	Tohka	Is something the matter?	
+Message	Shido	No, it's... Tohka-san, you're so gorgeous.	
+Message	Tohka	...Thank you.	
+Message	Tohka	So what kind of item are you looking for today?	
+Message	Shido	"Oh, uh, yeah. I'm looking for an item for my
+little sister...."	
+Message	Tohka	"If she's your little sister, she must be quite
+adorable. I am certain that I can find an
+appropriate item for you."	
+Message	None	(Oh wow, she returned the compliment...)	
+Message	Tohka	"Besides, this store has a variety of items. I'm
+sure I can provide something in your budget."	
+Message	Shido	Th-Then... I guess I'll look around.	
+Message	Tohka	Wonderful. What kind of item are you looking for?	
+Choice		A tea set.	
+Choice		A traditional Japanese tea set.	
+Choice		A pet food bowl.	
+Message	Shido	I'm looking for a tea set.	
+Message	Tohka	"Well then, I know the perfect one. Please have a
+look at this."	
+Message	Shido	"Whoa... This is a fine piece... but this is a golf
+tee."	
+Message	Tohka	It's a 12-piece set.	
+Message	Shido	"No. My little sister doesn't play golf. I think.
+That's not it, I'm looking for the kind of tea set
+that an antique shop carries."	
+Message	Tohka	"Oh, my apologies. I have mistaken the type of
+"tee" you were looking for."	
+Message	Shido	Well yeah, but this is an antique shop, isn't it?	
+Message	Tohka	Well then, please have a look to your right.	
+Message	Shido	"Right side...? Oh... I see something,
+but what is it?"	
+Message	Shido	"It's a huge letter "T"... And there's a chain, a
+whip, and a candle... And what's this?"	
+Message	Shido	"Huh? A toothpick, a cross, teriyaki jerky...
+What?! A table runner, and even a toy duck..."	
+Message	Tohka	It's a T-set.	
+Message	Shido	"Uh, what can you use this set for?!
+It makes no sense!"	
+Message	Tohka	My apologies.	
+Message	Shido	"Um... Like I told you, I'm looking for a tea set.
+You know, what you would use to pour tea and drink
+with..."	
+Message	Tohka	Oh, that's what you meant.	
+Message	Shido	"Usually people don't mistake it for anything
+else... And what is the T-set anyways?
+I've never heard of it..."	
+Message	Tohka	It's Tohka's special set.	
+Message	Shido	"Didn't see that one coming! What reason would you
+have to put them all together for?!"	
+Message	Tohka	"If it's something you pour tea with,
+it will be here."	
+Message	Shido	"So you're going to ignore my question?! Well, it's
+fine, I guess..."	
+Message	Tohka	So this here is foreign porcelain...	
+Message	Shido	Wow! Wait, is this Meissen china?	
+Message	Tohka	Mei...? Uh... what did you just say...?	
+Message	Shido	Meissen. That famous kind of porcelain?	
+Message	Tohka	Y-Yeah... I think it's that Meissen...	
+Message	Shido	"You think... Why do you not sound very confident
+about it...? Uh, this is an antique, isn't it?"	
+Message	Tohka	"Yes, of course it is. Isn't it that famous Meissen
+porcelain?"	
+Message	Shido	"Why are you answering with a question?! I'm asking
+you."	
+Message	Tohka	Sir, please do not worry. This is an an-tick shop.	
+Message	Shido	You mean... antique, right?	
+Message	Tohka	"Since this is an an-tick shop, every item is
+priced at museum-worthy levels."	
+Message	Shido	"You said it again, but you still didn't
+say it right!"	
+Message	Tohka	My apologies.	
+Message	None	"(This is weird. At first, the shop had this air of
+elegance and fantasy. Now it feels like a very
+ordinary place.)"	
+Message	Tohka	So about the pork cutlet sandwich you wanted...	
+Message	Shido	"I didn't ask for that! How does a tea set become a
+pork cutlet sandwich..."	
+Message	Tohka	*Nom, nom*...	
+Message	Shido	She's eating one...!	
+Message	Tohka	Yeah! I was getting a bit hungry...	
+Message	Shido	Ngh... She's a total glutton...	
+Message	Tohka	"Ahem. Anyways. You were looking for a tea set,
+were you not?"	
+Message	Shido	Yes... I am. I'm sorry, but I've changed my mind.	
+Message	Tohka	But why?	
+Message	Shido	"I mean, that tea set still has the pricing sticker
+from the discount store."	
+Message	Tohka	How strange...	
+Message	Shido	"Not strange. Not strange... This shop is basically
+a discount store. If I bought this, God knows what
+Kotori would say to me..."	
+Message	Tohka	G-Grrrr...	
+Message	Shido	"That said... I'm sorry, but I won't be buying
+anything for today."	
+Message	Tohka	W-Wait, customer!	
+Message	Shido	"Th-The way you're talking...! What happened to the
+elegant way you spoke earlier?!"	
+Message	Tohka	"Why, you... You think this store is no big deal,
+so you're making fun of it, aren't you?"	
+Message	Shido	"N-No... Well, I don't know much about this
+place... but I can't help but feel that the
+owner is..."	
+Message	Tohka	"In that case, allow me to show you the finest tea
+set we offer."	
+Message	Shido	"What?! Y-You have such a thing? Your tone changed
+back to elegant..."	
+Message	Tohka	*Giggle* Don't be surprised when you see it, okay?	
+Message	None	"(Uh, what do I do... I have no plans on buying a
+real antique...)"	
+Message	None	"(Well if we've come this far, I guess I am curious
+as to whether this is a true antique shop...)"	
+Message	Tohka	"I believe it's under this shelf... Just a
+moment... *grunt*..."	
+Message	Shido	Hey, that's dangerous...	
+Message	Tohka	Ah?! O-Oh, no!	
+Message	Shido	AHHHHHH!	
+Message	None	"(While the owner hung her head low, I rushed out
+of the shop. I'm never coming here again.)"	
+Message	Shido	"I'm thinking tea time with a traditional Japanese
+tea set would be cool."	
+Message	Tohka	A traditional Japanese tea set, huh...	
+Message	Shido	Yes. D-Do you not have one...?	
+Message	Tohka	"No, I happen to have some here in the back. Please
+have a look."	
+Message	Shido	"Whoa, you do?! I see... The back corner seems to
+have a very Japanese style to it."	
+Message	Tohka	Please feel free to look around.	
+Message	Shido	D-Don't mind if I do...	
+Message	None	(There are a lot of things here. Let's see...)	
+Message	Shido	"W-Wow, this is one nice tea set. What's the tray
+made of?"	
+Message	Tohka	That is... wood.	
+Message	Shido	"Huh? Yes, I understand it's wood. I meant to ask
+what kind of wood."	
+Message	Tohka	J-Japanese wood, I would say.	
+Message	Shido	Well... I'd assume it's from a Japanese tree!	
+Message	None	"(Huh... Just earlier, this place felt so
+fantastical and elegant, but suddenly
+I'm getting this vibe of uselessness...)"	
+Message	Shido	"I want to know the specifics, like whether it's
+Japanese cedar, Paulownia, or Hinoki cypress...
+Wouldn't you know as the shop owner?"	
+Message	Tohka	It's a Japanese tree.	
+Message	Shido	No, that doesn't really change anything.	
+Message	Tohka	I'm sorry. It is a very old item...	
+Message	Shido	Y-Yeah... I do see that it's old. O-Oh well.	
+Message	Tohka	My apologies.	
+Message	Shido	"So, do you know what the teapot is made of? It
+kind of looks like a fusion between the east
+and the west."	
+Message	Tohka	Yes. It's made of metal.	
+Message	Shido	"Well, I know that part. I mean, is it pure silver,
+or just silver-plated..."	
+Message	Tohka	Of course, it is made with metals from this earth.	
+Message	Shido	"I-I knew that... I figured it was made on this
+earth as well."	
+Message	Tohka	It's Earth metal.	
+Message	Shido	You don't have to specify that.	
+Message	Tohka	It is the herald of Gaia.	
+Message	Shido	"That sounds a bit cooler, but that's not what we
+need here. You understand, right?"	
+Message	Tohka	My apologies.	
+Message	Shido	"Something feels suspicious... I'm starting to feel
+like this shop is only for show. Well, anyways...
+What about this teacup?"	
+Message	Tohka	"Oh that is in the Arita style.
+It uses eco-porcelain."	
+Message	Shido	Oh?	
+Message	Tohka	"The dye is made with a traditional style called
+Mr. Nabeshima-style, a certain firing technique...
+The color produced is vibrant, yet calming."	
+Message	Shido	Now you're too knowledgeable!	
+Message	Tohka	My apologies.	
+Message	Shido	"...You were reading out of a catalogue! You had me
+for a second!"	
+Message	Tohka	Don't mind me.	
+Message	Shido	Of course I do!	
+Message	Tohka	"So what do you say, sir? Was there anything you
+liked?"	
+Message	Shido	Hmm... At this rate, I don't think I can decide...	
+Message	Tohka	Take your time...	
+Message	Shido	"I can't do that. I need to go home
+and make dinner."	
+Message	Tohka	...Dinner?!	
+Message	Shido	Huh?	
+Message	Tohka	...Nothing.	
+Message	Shido	Were you reacting to the dinner part?	
+Message	Tohka	Of course that is not the case.	
+Message	Shido	...	
+Message	Tohka	...	
+Message	Shido	...I'm making Hamburg steak tonight.	
+Message	Tohka	What?! Hamburg steak?!	
+Message	Shido	So you were reacting to dinner.	
+Message	Tohka	Th-That is not the case.	
+Message	Shido	This is really trippy.	
+Message	Tohka	...Hm?	
+Message	None	"(Hm... I wonder why, but the more I talk to her,
+the more her image from before crumbles...)"	
+Message	None	"(I don't want her to make me buy anything weird. I
+shouldn't rush to make a purchase...)"	
+Message	Shido	Anyways... I'll have to go for today.	
+Message	Tohka	"What? I-I see... I mean, er, is that so? Please do
+not say such things, and take another look
+around..."	
+Message	Shido	"No, no, I'm done for the day.
+Sorry to take your time."	
+Message	Tohka	Oh?! P-Please wait! Sir... I mean, Hamburg!	
+Message	Shido	"Who are you calling Hamburg?! Hey... something
+looks like it's about to fall."	
+Message	Tohka	Huh? AHHHHH!	
+Message	None	"(In the end, I didn't buy anything, but I guess it
+couldn't be helped. I'll tell Kotori I couldn't
+find anything good enough.)"	
+Message	None	"(That store seemed to be a hazard. I mean,
+for a split second, it was really elegant, but...
+I guess I can visit another time... or maybe not.)"	
+Message	Shido	I'll go home now...	
+Message	Shido	You see, I'm looking for a pet food bowl.	
+Message	Tohka	"A pet bowl? I thought you were searching for
+something for your little sister."	
+Message	Shido	Well I was, but I thought it'd be funny.	
+Message	Tohka	"Then what do you think about this item? It's a
+vintage stainless steel feeder."	
+Message	Shido	Oh, that's pretty cool. I'll take it.	
+Message	Tohka	Thank you for your purchase.	
+Message	None	I wonder how Kotori will react.	
+Message	Kotori	So... What is the meaning of this, Shido?	
+Message	Shido	W-Well...	
+Message	Kotori	"Jeez, you can't even do the one thing I ask you to
+do..."	
+Message	Shido	"No, you see, it's....! Let me explain. I wanted
+you to enjoy it, so I thought and thought..."	
+Message	Kotori	"And you thought about buying me a doggy bowl?
+Are you trying to start a fight with me? How very
+bold..."	
+Message	Shido	*Whimper*...	
+Message	Kotori	"I suppose for tonight, this can be
+your dinner plate."	
+Message	Shido	O-Okay...	
+Message	None	"*Whimper*... I shouldn't buy anything on impulse
+again."	

@@ -1,0 +1,184 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Man, it sure is late.	
+Message	Shido	"I was just so focused on my errands, I lost track of
+time. I'm getting hungry so I should hurry home."	
+Message	None	"(Oh... There aren't many people around, so it feels
+kind of lonely. Oh, well. This is the shortcut, so
+I'll keep going.)"	
+Message	Shido	"Hm... Who are they? They seem to be wearing the
+same uniform as mine. But they don't seem to be
+going home. What are they doing here?"	
+Message	Shido	"I don't recognize them, but... It's dangerous to be
+out so late. I'll tell them to hurry home."	
+Message	Shido	"Hey, you guys. This area's pretty dangerous when it
+gets dark. You should hurry home."	
+Message	Kaguya	Hehe... Hey, you. Who do you think you're talking to?	
+Message	Yuzuru	"Sigh. Seems about right. He must think we are two
+simple girls."	
+Message	Shido	...Uh.	
+Message	None	"(Seems like I made the wrong move, approaching them.
+They're really cute, like models or idols. But they're
+kind of weird.)"	
+Message	None	"(But I mean, I started the conversation for a reason.
+I can't just leave these cute girls wandering out and
+about like this without saying something, right?)"	
+Message	Shido	"You guys are students at Raizen High, right? It's
+dangerous for you to be out this late. I'll escort you
+guys to somewhere better lit."	
+Message	Kaguya	Hehe... I hear you. Can't you tell there is no need?	
+Message	Shido	"Well, at least let me see you guys off. I feel bad
+just leaving."	
+Message	Yuzuru	"Understood. You're worried about us. It's kind that
+you'd go to the trouble for us. However..."	
+Message	Kaguya	"There's no need for that. We're the dangerous ones out
+here."	
+Message	Kaguya	"We are a family of the night. This darkness is our
+heaven. The silence is our territory. ...You are just
+some sad prey that wandered across our path."	
+Message	Shido	Um... Excuse me?	
+Message	Shido	"Oh, are you doing some kind of role-play activity?
+It's still dangerous, so just call it quits for today."	
+Message	Yuzuru	Chuckle. Kaguya. He totally doesn't get it.	
+Message	Kaguya	"Sh-Shut up. We're not playing pretend, nor is it a
+play. Yuzuru, stop laughing and help!"	
+Message	Yuzuru	"Understood. Very well. Listen, you human. We are not
+weak women. We are evil, human-eating monsters."	
+Message	Yuzuru	And you shall be our prey.	
+Message	Shido	...Wh-What?!	
+Message	Kaguya	"It's not that different from what I said earlier! Why's
+mine no good, but Yuzuru's got you all surprised?!"	
+Message	Shido	"W-Well. It was different because of how serious she
+was. Yours sounded like a gag."	
+Message	Kaguya	I-I was serious. I was thinking of it seriously...	
+Message	Yuzuru	"Reassurance. There, there. Kaguya, the things that
+others pity about you are also what make you
+adorable."	
+Message	Shido	"Um... You're kidding, right? You guys don't look evil.
+Adorable monsters like you two?"	
+Message	Yuzuru	"Agreed. Very well. Then let us show you proof.
+Kaguya."	
+Message	Kaguya	Huh, me?	
+Message	Yuzuru	"Affirmative. That's right. Kaguya, this is your chance
+to redeem yourself."	
+Message	Kaguya	Hmph. I guess if you put it that way. Hey, human...!	
+Message	Shido	Human...? I have a name. It's Shido Itsuka.	
+Message	Kaguya	"Very well. Then, Shido. I will show you the beauty of
+the descendants of the night."	
+Message	Shido	The beauty of what?	
+Message	Kaguya	"Once you've met our eyes, your heart will be stolen
+and you will become our slave. Eat this...!"	
+Message	Kaguya	...Ahaaaan... Ufuuuun.	
+Message	Shido	...	
+Message	Yuzuru	Pity... That was pretty bad.	
+Message	Shido	W-Well then, I'm going to go home.	
+Message	Kaguya	"H-Hey, wait. What do you mean? What's going on?
+Hey, Yuzuruuuuuu?!"	
+Message	Yuzuru	"Sigh. Right back at you. That wasn't beauty at all.
+"Ahaaan"? Seriously? Don't be a fool."	
+Message	Kaguya	"Sh-Shut up! I'm not on my A-game today! Shido, don't
+go home!"	
+Message	Shido	"No, I've had enough. Sorry for bothering you guys.
+See you..."	
+Message	Kaguya	Wait. One more time! Let me try one more time.	
+Message	Yuzuru	"Advice. Kaguya, if you can't do it, I suggest you not
+offer it. Besides, I'm hungry."	
+Message	None	(*sigh* What should I do? I can't deal with them forever.)	
+Choice		Urge them to stop messing around and go home.	
+Choice		Hang out with them just a little longer.	
+Message	Shido	"Hey guys. It's late. Why don't you continue your
+role-playing tomorrow? I want to go home now."	
+Message	Kaguya	Waahhh. So messed up. Yuzuru, he won't accept it.	
+Message	Yuzuru	"Laugh. What part of you can he accept, though? It's
+because you're not taking it seriously. Sorry that you
+had to witness this."	
+Message	Shido	"No, it's fine. If your house is nearby, I can walk you
+guys."	
+Message	Yuzuru	"Refusal. There is no need for that. Kaguya, let's stop
+playing and show him our true powers."	
+Message	Kaguya	*Grunt*... Very well. I'll show you our true powers.	
+Message	Shido	Huh? True powers...?	
+Message	Yuzuru	"Clarity. Shido, let me show you. Our true nature and
+the power of the darkness."	
+Message	Kaguya	Watch carefully!	
+Message	Shido	"Fine, fine. Just one more time, okay? Once you're
+done, be sure to go home. Got it?"	
+Message	Kaguya	YAY!	
+Message	Kaguya	 ...Hey, wait! You can only talk like that for so long!	
+Message	Yuzuru	"Reassurance. There, there, Kaguya. Well, I guess we
+might as well show him our powers while we're here."	
+Message	Shido	Huh...? What are they talking about?	
+Message	Yuzuru	"Analysis. What we've been talking about isn't a joke.
+Everything is truth, based on reality."	
+Message	Yuzuru	"Addendum. Although... Kaguya does not yet possess the
+power of attraction."	
+Message	Kaguya	"Hehe. Little did you know you were lured into this
+place. You'd best curse your own bad luck. I'm going
+to make you regret laughing at me."	
+Message	Yuzuru	Snigger. You asked for it, Kaguya. Anyways, let's go.	
+Message	Kaguya	Just watch us!	
+Message	Shido	What?! They transformed...?!	
+Message	Yuzuru	Affirmative. What do you say? Aren't you surprised?	
+Message	Kaguya	I'm not going to forgive you, even if you cry and beg.	
+Message	Shido	Y-You really were monsters.	
+Message	Yuzuru	"Correction. If you're going to call us something, call us
+succubi."	
+Message	Shido	Succubi...?	
+Message	Kaguya	"That's right. We are of the clan of the night, feeding
+off of humans like yourself."	
+Message	Shido	You eat humans? Then, you're going to eat me too...?	
+Message	Kaguya	Yes indeed. Did you think we were kidding?	
+Message	Shido	W-Whoa! Don't eat me! I don't want to be eaten alive.	
+Message	Kaguya	You don't know anything...	
+Message	Shido	Huh? ...Wh-What do you mean?	
+Message	Yuzuru	"Explanation. We don't steal the human's flesh. We take
+their life as a whole. We eat their spirit."	
+Message	Kaguya	We succubi only want a fresh male sacrifice.	
+Message	Shido	A fresh male spirit...? What do you mean by that?	
+Message	Kaguya	"W-Well. If I were to steal it fresh from a male, it's one
+thing, right?"	
+Message	Shido	I still don't get it...	
+Message	Kaguya	Well, um... That is that.	
+Message	Shido	Well, what is it? Don't hide it, tell me.	
+Message	Kaguya	Y-Yuzuru! Shido is bullying me!	
+Message	Yuzuru	"*Sigh*... If you're embarrassed, then don't tell him.
+A succubus essentially gives provocative dreams to
+men and then steals their lives."	
+Message	Yuzuru	"Summary. Even if you're dumb, you'd know what
+I mean, right?"	
+Message	Shido	"S-So basically, you're some kind of erotic monster?!
+More than that... You're embarrassed about explaining
+it?"	
+Message	Kaguya	"Shut up, shut up. You watch. I'm going to make you
+cry like a sweet little baby."	
+Message	Shido	Y-You sure are weird. You don't get it, do you?	
+Message	Yuzuru	"Addendum. Kaguya was the one that cried like a sweet
+little baby."	
+Message	Kaguya	"Shut up! Just start it already! Yuzuru, you said you
+were hungry!"	
+Message	Yuzuru	"Agreed. Sorry Shido, but I'm going to have to quiet
+you down."	
+Message	None	"(Wh-What the...?! The moment they surrounded me,
+I started to feel weak.)"	
+Message	Kaguya	"Hahaaa. This is the power of the succubus. It's called
+an energy drain. I bet you anything you feel weak
+right now."	
+Message	Shido	Y-You're right. I don't have any strength at all...!	
+Message	Yuzuru	Accepted. Now, Yuzuru will take this.	
+Message	Kaguya	Hey, no fair! Th-Then I'll... take energy from here.	
+Message	Shido	H-Hey. Don't put your hand in there.	
+Message	None	"(I felt weak as each succubus' hands traveled
+around my body. Their fingertips grazed my skin,
+and my will to fight was slipping away.)"	
+Message	None	"(This really isn't going to end well. All I did was
+approach them with good intentions. I was only worried
+about their safety.)"	
+Message	Kaguya	"Hehehe... You were bratty, but your spirit tastes
+pretty good."	
+Message	Yuzuru	"Heavenly. I feel like I'm going to melt. Hehe. Shido,
+don't worry. I won't take your life."	
+Message	Kaguya	"You can sleep until your life ends in the dream we
+will show you."	
+Message	Shido	H-Help me!	
+Message	None	"(Eventually, my fatigued body experienced the
+illusions of the body-melting phantoms. I guess I
+won't be waking up for a while.)"	

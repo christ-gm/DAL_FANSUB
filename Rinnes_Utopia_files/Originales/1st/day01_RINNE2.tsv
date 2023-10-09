@@ -1,0 +1,61 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(I still have some time. Who should I go on a date with?)	
+Message	None	(You know... I keep seeing Rinne's face in my head lately.)	
+Message	None	(Why am I so worried about her?)	
+Message	None	(Alright, I think I should just visit her.)	
+Message	None	"(Hm? I pressed the intercom button, but...
+I'm really nervous. I can't find the will to go in...)"	
+Message	None	"(You're just visiting your childhood friend, Shido.
+Why are you so nervous?! This shouldn't be so hard...)"	
+Message	None	"(Ah, come on. There's no point in overthinking it.
+If I'm so worried about Rinne, I should just go talk to her!)"	
+Choice		Press the intercom	
+Choice		Don't press the intercom	
+Message	Shido	...	
+Message	Shido	......	
+Message	Shido	Is anyone home?	
+Message	Shido	Excuse me! It's your neighbor, Itsuka!	
+Message	Shido	...	
+Message	Shido	Maybe I'll just take a look inside...	
+Message	None	(We're like family. I don't need to be so reserved, right?)	
+Message	Shido	Excuse me!	
+Message	Shido	Heeey! Riiinne? Anybody home?	
+Message	Shido	What?! What... is this?	
+Message	Shido	"I-It's not like... she moved, right?
+There's no way she could've... not so
+quickly. She never mentioned moving either, so..."	
+Message	Shido	Huh? Wait a second...	
+Message	Shido	"T-This room... it's similar, isn't it?
+To my house?! No, there's no mistake.
+It looks just like it..."	
+Message	Shido	"Wait... I came over to play all the time as a kid,
+right? Why can't I remember any of that?"	
+Message	Shido	How long... has she been living here?	
+Message	Shido	Ngh! What the...? My head... hurts...	
+Message	???	Your future is not here...	
+Message	Shido	"Huh? Who... who are you?
+U-Ugh, my... conscious...ness..."	
+Message	Shido	Ah...	
+Message	???	......	
+Message	None	(I thought I would, but I think I won't after all.)	
+Message	None	"(In the past, barging in like this wouldn't
+have been an issue, but now... I'm not so sure.)"	
+Message	Rinne	Shido? What are you doing here?	
+Message	Shido	Hyeek! R-Rinne?! How long have you been there?	
+Message	Rinne	Um? I just got home. I was buying things for dinner.	
+Message	Shido	Oh. I see.	
+Message	Rinne	Did you need something?	
+Message	Shido	N-No, I just... wanted to talk to you...	
+Message	Rinne	"You did? Is it really okay for you to be spending
+time with me like this?"	
+Message	Shido	Of course it is. Why wouldn't it be?	
+Message	Rinne	I don't know... Well, what did you want to talk about?	
+Message	Shido	"Well... um... sorry. I guess I didn't have
+anything specific in mind."	
+Message	Rinne	Goodness, Shido. You're always like this.	
+Message	Shido	"I'm sorry for bothering you. Okay, well I don't
+want to keep you. I'll head home now."	
+Message	None	(What am I even doing?)	
+Message	Rinne	Okay, see you later, Shido. I'll come by to make dinner.	
+Message	Shido	Alright, we'll be waiting.	
+Message	Rinne	See you then.	

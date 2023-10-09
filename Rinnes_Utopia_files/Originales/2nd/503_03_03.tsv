@@ -1,0 +1,154 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	It's almost time to meet up.	
+Message	None	"(Today, I'm at the station because I made plans to
+go to a pool.)"	
+Message	Shido	"It's been two years since I saw Yoshino last.
+I hope she's doing fine."	
+Message	None	"(Yoshino's my younger cousin. One of the few
+members of family I have, so our relatives are
+very close at least, I think so.)"	
+Message	None	"(I haven't seen her lately, so I didn't think
+she'd call me Shido-oniichan anymore.)"	
+Message	Shido	...But I sure was touched to hear from her.	
+Message	Shido	"I'm going to meet her at the pool today. I wonder
+what kind of girl Yoshino's become. Hehe..."	
+Message	None	(I was giddy as I headed toward the facility.)	
+Message	Shido	"Okay, I've changed into my swimsuit... I wonder if
+I can spot Yoshino immediately. It's been a while
+since I've seen her. I hope I can recognize her."	
+Message	Shido	"Come to think of it, when we spoke on the phone,
+she said she wanted to show me something... I
+wonder what she wants to show me at a pool."	
+Message	Yoshino	Sh-Shido-oniichan!	
+Message	Yoshinon	"Hey, Shido-kuuun! This way!"	
+Message	Shido	Oh, that voice!	
+Message	Yoshino	Shido-oniichan, over here.	
+Message	Yoshinon	"How've you been, Shido-kun?"	
+Message	Shido	"Oh, it's Yoshinon! Long time no see. Wait... then
+that's Yoshino?"	
+Message	Yoshino	"It's been a while, Shido-oniichan!
+...How have you been?"	
+Message	Shido	O-Oh. Been a while...	
+Message	None	(Th-This is Yoshino? She's gotten big. Rather...)	
+Message	Shido	Yoshino, you've changed.	
+Message	Yoshino	Really?	
+Message	Shido	Yeah. At least, I think so. You got really cute.	
+Message	Yoshino	What?!	
+Message	Yoshinon	"Whoa, Shido-kun. Coming on strong so early.\nWhat a player. Woo-hoo!"	
+Message	Shido	"Oh, no. It's been a while since we've seen each
+other, I was just surprised."	
+Message	Yoshino	Thank you, Shido-oniichan!	
+Message	None	"(What do I do? I'm getting embarrassed for
+complimenting her. Yoshinon has been smirking,
+too. I gotta change the subject.)"	
+Message	Shido	"Come to think of it, you said you wanted to show
+me something. What did you want to show me?"	
+Message	Yoshinon	"Oh, that's right. Yoshino, you have to tell him!\nShido-kun still doesn't seem to have noticed."	
+Message	Yoshino	"Oh, yes. You see, Shido-oniichan... Look at my
+body carefully."	
+Message	Shido	"That doesn't sound right... Hm, you seem pretty
+tan. It's been so long since I've seen you, I
+barely noticed at first."	
+Message	Yoshinon	"Gosh, Shido-kun, you're horrible. You have to be\nmore observant."	
+Message	Shido	"Sorry, Yoshinon. Uh... Yoshino, you seem like you
+came back from a sunny vacation."	
+Message	Yoshino	"This summer... I practiced swimming a lot. I
+wanted you to see how much I've improved."	
+Message	Shido	"So that's why you wanted to meet up at the pool,
+huh? I see. That's great."	
+Message	Yoshino	Yeah!	
+Message	None	"(I noticed that her tan didn't match the swimsuit
+she was wearing today. But... what was I thinking,
+noticing that? She's a relative of mine.)"	
+Message	Yoshino	What's the matter, Shido-oniichan...?	
+Message	Shido	"N-Nothing. Anyways, you're wearing a swimsuit
+today too, huh Yoshinon?"	
+Message	Yoshinon	"Hehe. I'm glad you noticed, Shido-kun. That's\nright. Yoshinon is also in swimwear mode!"	
+Message	Yoshinon	"What do you think, Shido-kun? Yoshinon in her\nswimsuit. Too sexy, or just right? Hehe. Ahaaaa."	
+Message	Shido	Pfft. Hahaha. What the hell.	
+Message	Yoshino	Hehe... *giggle*	
+Message	Yoshinon	"Gosh, rude much?!"	
+Message	Shido	Sorry, sorry. Let's have fun today.	
+Message	None	"(Okay, so I was able to play it off earlier thanks
+to Yoshinon, but Yoshino's tan line is on my mind.
+Maybe I can ask her.)"	
+Message	Shido	Hey, Yoshino...	
+Choice		That new swimsuit looks good on you.	
+Choice		You're not wearing your school swimsuit?	
+Message	Shido	You look really good in that new swimsuit.	
+Message	Yoshino	...! Th...ank you.	
+Message	Yoshinon	"Aren't you glad, Yoshino? You took so long\npicking out the perfect swimsuit!"	
+Message	Yoshino	Y-Yoshinon! That was a secret...!	
+Message	Shido	"Hahaha. You picked out a new swimsuit for today?
+That's really nice."	
+Message	Yoshino	But how did you know it was a new swimsuit?	
+Message	Yoshinon	"Oh, come to think of it, you're right. You're\nusually a lot more dense."	
+Message	Shido	"Dense... I haven't seen you in a while, how can
+you say that? ...Whatever. I could tell because
+we were talking about suntans earlier."	
+Message	Yoshino	Suntans?	
+Message	Shido	"Your tan has the shape of another swimsuit. So,
+seeing your tan lines, I figured the swimsuit
+you're wearing now was bought recently."	
+Message	Yoshinon	"Oh, excellent deduction, Shido-kun! But\nShido-kun, ogling a girl's body like that is\nnot good form."	
+Message	Shido	"Oh...?! Um... uh... well, I was just... thinking
+it was a healthy-looking tan!"	
+Message	Yoshino	Heh... Onii-chan, you're such a pervert!	
+Message	Yoshinon	"Shido-kun, gross! Closet pervert!"	
+Message	Shido	"Uhhh, so sorry. I wasn't looking at you in that
+way, I swear!"	
+Message	Yoshino	"I'm kidding. But... I'm glad. Do I look good in my
+swimsuit?"	
+Message	Shido	Yeah, you do.	
+Message	Yoshino	I'm glad. Thank you, Onii-chan!	
+Message	None	"(This makes me feel kind of... Well, seems like
+Yoshino is happy, so I'll hold it in.)"	
+Message	Shido	Anyways, let's enjoy the pool since we're here.	
+Message	Yoshino	Okay!	
+Message	Yoshinon	"Okay!"	
+Message	None	(And we had fun together throughout the day.)	
+Message	Shido	"Yoshino, you're not going to wear your school
+swimsuit today?"	
+Message	Yoshino	Huh?	
+Message	Yoshinon	"Shido-kuuun, what do you mean by that? I can't\nlet that one go."	
+Message	None	(Oh crap. I don't think I phrased that one well.)	
+Message	Yoshinon	"You want the adorable Yoshino to wear a school\nswimsuit, huh? You sure like that kind of stuff!\nPerv!"	
+Message	Shido	"W-Wait a minute! I was just looking at Yoshino's
+tan and figured she usually wore a different
+swimsuit!"	
+Message	Yoshinon	"Really, now... But Shido-kun, it doesn't\nnecessarily mean she's wearing a school\nswimsuit, right?"	
+Message	Yoshinon	"Don't tell me that just by looking at her tan,\nyou can tell that it's a school swimsuit. Does\nthat mean you're a school swimsuit expert?!"	
+Message	Shido	"N-No! I-I just made a guess! What's a school
+swimsuit expert, anyways?!"	
+Message	Yoshino	Shido-oniichan... You like school swimsuits...?	
+Message	Shido	No, Yoshino. I'm not into school swimsuits...	
+Message	Yoshino	"Then next time, I want to make sure you're\nhappy... I'll come in a school swimsuit, so just\nlook forward to it, okay?	
+Message	Shido	...Huh? Oh, uh, thanks.	
+Message	None	(Why am I saying thanks?! I need to deny it!)	
+Message	Yoshinon	"So you do like school swimsuits! Shido-kun, you\nwere just being all embarrassed about it...\nHehehe."	
+Message	Shido	N-No it's not like that! It just slipped out!	
+Message	Yoshinon	"What? That's a lie. You're an honest guy,\nShido-kun. Right, Yoshino?"	
+Message	Yoshino	Right, Yoshinon.	
+Message	None	"(That day, Yoshino and Yoshinon found ways to
+poke fun at me. Well, I guess the good thing was
+that Yoshino looked like she was having fun."	
+Message	Shido	"Ahhh, I sure swam a lot. I'm tired. That was fun,
+Yoshino."	
+Message	Yoshino	Yes, it was extremely fun.	
+Message	Shido	"I guess I'm going to have to take in as much of
+your tan as I can for now."	
+Message	Yoshino	Yes, we'll end here today...	
+Message	None	(I meant it as a joke, but Yoshino smiled.)	
+Message	Yoshino	I hope you look forward to next year... Onii-chan.	
+Message	Shido	O-Okay. Well... next year, then.	
+Message	Yoshino	"Okay. I'll be showing you the adult side of me,
+okay?"	
+Message	Shido	I look forward to it.	
+Message	Yoshinon	"Hehe. Shido-kun, you're head-over-heels for\nYoshino. It's so obvious you're blushing."	
+Message	Yoshino	Y-Yoshinon!	
+Message	Shido	...?! I-I guess I am, huh?	
+Message	Yoshinon	"See, you're playing it off like that. I guess\nI'll let it slide for today."	
+Message	Shido	Okay. Thanks.	
+Message	None	"(Jeez, Yoshinon's right. I was totally tossed
+around just from seeing how mature Yoshino
+had become.)"	

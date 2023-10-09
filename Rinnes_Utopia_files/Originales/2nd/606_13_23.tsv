@@ -1,0 +1,173 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(With that said, today I'm going to spend some time
+alone with Yuzuru.)"	
+Message	None	"(It was a nice afternoon. I met up with Yuzuru at a
+local park.)"	
+Message	Shido	"I walked slowly and I ended up here right on the dot.
+I wonder if Yuzuru's here already."	
+Message	Yuzuru	"Call. Shido, over here. Thank you for inviting me out
+on a date."	
+Message	Shido	Sure. Did I make you wait?	
+Message	Yuzuru	Deny. Yuzuru just arrived. Don't worry about it.	
+Message	None	"(In Yuzuru's case, it's hard to know whether or not
+she's telling the truth. I mean, last time she was so
+early, there's a high chance that she was waiting...)"	
+Message	None	"(But it's pointless to worry about it each time. If she
+doesn't mind, I'm sure it's not good for me to worry
+about it.)"	
+Message	Shido	Okay, then let's go.	
+Message	Yuzuru	Question. Do you want to go anywhere, Shido?	
+Message	Shido	"Oh, I thought we were going to meet up here and go
+someplace else."	
+Message	None	"(Yuzuru was the one who suggested meeting here, so I
+thought that's what was going to happen. I guess that
+wasn't the case.)"	
+Message	Yuzuru	"Consenting. No, I was planning to spend all day here.
+Is that not okay?"	
+Message	Shido	"Oh, that's fine. Of course I'm okay with it. But
+you're okay just staying at the park? I mean, we're
+on a date, so we can go where you'd like..."	
+Message	Yuzuru	"Affirmative. I'm fine with here for today. If we went
+somewhere else without Kaguya, I would feel bad."	
+Message	Shido	"I see. I guess that's true. I can see Kaguya saying,
+"Why didn't you take me!""	
+Message	Yuzuru	"Affirmative. Kaguya is a child, so we can't help it.
+Yuzuru is the mature one, so I will be satisfied
+staying here so that Kaguya won't pout."	
+Message	None	"(Although she says that, I can tell how much Yuzuru
+watches out for Kaguya. I'm sure if we were in the
+same situation, Kaguya would've said the same thing.)"	
+Message	Yuzuru	Request. Shido, would you like to walk a little?	
+Message	Shido	"Bring it on. I guess that's weird to say, but I was
+planning on suggesting that."	
+Message	None	"(Judging by the park map, there seems to be a walkway.
+It'll be nice to feel the sunshine through the trees
+and take a leisure walk.)"	
+Message	Shido	All right, let's start walking.	
+Message	Yuzuru	Silence.	
+Message	Shido	Huh, what's the matter, Yuzuru?	
+Message	Yuzuru	"Anger. Shido, why don't you get it? I did suggest to
+take a stroll, but do you plan on going alone? You're
+forgetting that I am your girlfriend."	
+Message	Shido	Huh? Oh...! Sorry, Yuzuru... You're right.	
+Message	Yuzuru	"Pardon. So long as you understand, I don't mind.
+Request... Please give me your hand."	
+Message	Shido	Here you go, Yuzuru.	
+Message	None	(We walked together, holding hands.)	
+Message	None	"(I wasn't thinking anything in particular as we slowly
+strolled about. The wind blew gently, and Yuzuru
+closed her eyes as if it felt nice.)"	
+Message	Shido	I feel like I could easily lose track of time here.	
+Message	Yuzuru	"Rebuttal. It's true that it feels nice. But since I'm
+with you Shido, I don't want to miss a moment."	
+Message	Shido	...That's sweet, but you're making me shy.	
+Message	Yuzuru	"Doubt. Really? Yuzuru is just saying what comes to
+mind."	
+Message	Shido	Hahaha. That's like you. I'm sure if it were Kaguya...	
+Message	Yuzuru	"Attention. Shido, you are on a date with Yuzuru right
+now, so wouldn't you say it's rude to bring up another
+woman?"	
+Message	Shido	What? Not even Kaguya?	
+Message	Yuzuru	"Affirmative. Of course. There are times when even
+Kaguya is not allowed."	
+Message	Shido	Oh... I'll be careful.	
+Message	Yuzuru	"Encouragement. I look forward to your efforts. We've
+walked a while, so... Let's rest."	
+Message	Shido	"Right. Let's sit on that bench. Should I go buy some
+drinks?"	
+Message	None	"(I looked around the park, but there weren't any
+vending machines. But there was something else.)"	
+Message	Shido	Yuzuru. Fancy going there?	
+Message	Yuzuru	Affirmative. That looks like a food truck. No problem.	
+Message	Shido	Then let me go... Yuzuru, do you like coffee?	
+Message	Yuzuru	"Affirmative. If it's a matter of whether or not I can
+drink it, there's no problem. How about you, Shido?
+I hear you have to order using a magic spell."	
+Message	Shido	A spell?	
+Message	Yuzuru	"Commentary. For example, "Tall double-shot with
+chocolate sauce, extra coffee with whipped caramel
+and cream"... Something like that."	
+Message	Shido	AH?! What is that spell?!	
+Message	Yuzuru	"Answer. When I went to a coffee shop the other day,
+Kaguya was chanting it happily. However, when she
+went to pay she screamed."	
+Message	Shido	"I-I see. She must have not known that they charge
+for the extras... But even without that chant, I can
+order."	
+Message	Yuzuru	"Laugh. I actually knew. Then please, get me a regular
+latte."	
+Message	Shido	Got it. Wait right here.	
+Message	Shido	Thanks for waiting. This is yours, Yuzuru.	
+Message	Yuzuru	"Appreciation. I will gladly accept. Was the spell okay,
+Shido?"	
+Message	Shido	"Thanks to you. I just said, "Two tall lattes, s'il
+vous plaît.""	
+Message	Yuzuru	Deliberation... That's hard to judge.	
+Message	Shido	"Sorry, forget what I just said... But drinking a warm
+drink makes me feel so calm. Doesn't it make you
+feel like you're having a nice, relaxing time?"	
+Message	Yuzuru	"Agreed. Yes, I do feel that way. Oh, I have something
+nice for you."	
+Message	Shido	Nice?	
+Message	Yuzuru	Request. Yes Shido. Come closer. And close your eyes.	
+Message	Shido	Huh? Like this...?	
+Message	None	(I wonder... Yuzuru is close to me.)	
+Message	Yuzuru	Appeal. Shido, I will borrow your ear.	
+Message	None	"(As Yuzuru said that, suddenly gentle music came
+flowing in my ear.)"	
+Message	Shido	Earphones...? Oh, you brought a music player?	
+Message	Yuzuru	"Affirmative. I listen to this when I have the time. It's
+only one side, but please bear with me."	
+Message	Shido	Then the other side is...	
+Message	None	"(I opened my eyes and saw that Yuzuru was leaning
+against me with her eyes closed. The other side of
+the earphones was connected to Yuzuru's ear.)"	
+Message	Yuzuru	"Request. Shido, don't move too far away. The earphones
+will come off."	
+Message	Shido	...Is it only because of that?	
+Message	Yuzuru	Silence. I can't answer that. You think on your own.	
+Message	Shido	Is that so...	
+Message	None	"(I did as Yuzuru requested and leaned against her so
+that the earphones wouldn't fall out.)"	
+Message	Shido	So this is what you usually listen to.	
+Message	Yuzuru	"Affirmative. It's healing music. This calms me the
+most. Of course, I listen to other genres as well."	
+Message	None	(Yuzuru played a variety of songs for me.)	
+Message	None	"(Rock, pop, classical. There were also metal songs.
+I'm sure that is more Kaguya's choice...)"	
+Message	None	"(Yuzuru's player was on shuffle, so we listened to the
+songs as they came and went, and spent a nice time
+together.)"	
+Message	Shido	"Thanks for coming out with me today. I had fun,
+Yuzuru."	
+Message	Yuzuru	Appreciation. The feeling is mutual, Shido.	
+Message	Shido	It's nice to spend time like this. Let's come again.	
+Choice		Just you and me again.	
+Choice		Next time, it'll be the three of us.	
+Message	Shido	Just you and me again.	
+Message	Yuzuru	Question. Shido, what do you mean by that...?	
+Message	Shido	"Oh, well, nothing deep. It felt different from when
+it's the three of us. It's fun when we're all
+together, but I feel like you were friendlier."	
+Message	Shido	"So I thought you might like another day like that.
+We're dating, but we don't always have to have the
+three of us together, right?"	
+Message	Yuzuru	"Unhappy. Some of your expressions are questionable,
+but yes. I would like to come with you again. However,
+please do not ignore Kaguya."	
+Message	Shido	"I know that. That's why I said from time to time. Then
+it's fine, right?"	
+Message	Yuzuru	Request. Okay. Will you invite me again?	
+Message	Shido	Yeah. If it would make you happy, Yuzuru. I promise.	
+Message	Yuzuru	"Feverish. That makes me happy. I'm going to go home
+for today... I will see you tomorrow, Shido."	
+Message	Shido	Next time, we'll be sure to bring Kaguya.	
+Message	Yuzuru	"Answer. Right... But I feel like from time to time, it
+could just be Shido and Yuzuru."	
+Message	Shido	...Huh, Yuzuru?	
+Message	Yuzuru	"Leaving. Shido, thank you for today. I will be on my
+way now."	
+Message	Shido	Oh, Yuzuru...!	
+Message	None	"(I didn't really think deeply about that. I was just
+thinking of a date without Kaguya. I didn't know
+then―)"	

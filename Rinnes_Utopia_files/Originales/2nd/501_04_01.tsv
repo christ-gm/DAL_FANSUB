@@ -1,0 +1,219 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Uh, so where were we heading again?	
+Message	Reine	Hey, Shin.	
+Message	Shido	Oh. Reine-sensei... What are you doing here?	
+Message	Reine	"...What do you mean by that, Shin? I came to pick
+you up."	
+Message	Shido	"Pick me up... Reine-sensei, aren't you in charge
+of the girls' health checkups?"	
+Message	Reine	"...That was the plan, but something came up, so I
+have to leave soon. I'll leave the rest to you,
+Shin."	
+Message	Shido	Huh...? Leave it to me?	
+Message	Reine	"...It's mostly done, but... There was one girl who
+was late. I still have her left."	
+Message	Shido	"I don't really get what's happening, but... don't
+tell me... I have to do the health checkup...?"	
+Message	Reine	...Of course you do.	
+Message	Shido	What?! But why me?	
+Message	Reine	"...Isn't it obvious? That's what assistants do,
+Shin."	
+Message	Shido	"...Excuse me? O-Oh, my God... you're right! I'm
+wearing a lab coat!"	
+Message	Reine	"...You can't escape your responsibilities, Shin.
+You have to do your work."	
+Message	Shido	I see... So I'm a doctor...	
+Message	Reine	Well then, I'm leaving the rest to you... 	
+Message	Shido	Hey... Reine-sensei!	
+Message	Shido	...And she's gone.	
+Message	Shido	I wonder who missed their checkup...	
+Message	Shido	I guess I have no choice but to go...	
+Message	Shido	So, I'm going to do the physical here...	
+Message	Shido	A... physical... for a girl...	
+Message	Shido	...?!	
+Message	None	"(No, no. I'm a doctor. I shouldn't have any
+ulterior motives.)"	
+Message	Shido	Stay calm. Stay calm.	
+Message	Tohka	Sorry for the wait!	
+Message	Shido	Wh-Whoa! Tohka?!	
+Message	Tohka	"Ohhh, Shido! Are you going to do my physical?
+That's amazing! I'll be counting on you."	
+Message	Shido	"Then that means... you're the student that was
+late?"	
+Message	Tohka	"Yeah! I was waiting at the school because I
+thought they'd be testing how fast we could
+run or throw a ball, but no one came."	
+Message	Shido	Why didn't anyone tell her?!	
+Message	None	(If no one noticed, I wonder who set this up.)	
+Message	Shido	Well, what I'm going to do is examine your body.	
+Message	None	"(Ngh... Calm down. Calm down, Shido! Be cool, be
+cool...!)"	
+Message	Tohka	Hey, Shido? What do you examine in a physical?	
+Message	Shido	"W-Well... I'll be measuring your height and your
+weight. It's not a big deal. There's nothing
+suspicious about it."	
+Message	Tohka	"Oh, is that all? Let's hurry up and finish it,
+then."	
+Message	Shido	R-Right. Let's get this over with.	
+Message	Shido	"O-Okay. So we've finished measuring your height
+and weight. Umm... so your height is 155 cm, and
+your weight is..."	
+Message	Tohka	Hey, wait a minute, Shido.	
+Message	Shido	Hm? What is it?	
+Message	Tohka	"You're not supposed to expose a girl's weight...
+That is an expectation upheld by society."	
+Message	Shido	"Oh, I see... You're right. I don't know who told
+you that, but I guess I shouldn't be saying it
+out loud, huh?"	
+Message	Tohka	Yeah! Shido, you're amazing!	
+Message	Shido	"I don't about that... but I'll be quiet while
+I write it down."	
+Message	Tohka	So, what are you going to measure next? My grip?	
+Message	Shido	Ngh... Hm. Well, what's next is, um...	
+Message	Tohka	"What's the matter, Shido? Are you not able to read
+what's on the paper?"	
+Message	Shido	No... Of course that's not it!	
+Message	Tohka	Hehe. It happens to me all the time.	
+Message	Shido	"Don't be proud of that... Well... what I have to
+do is take your measurements."	
+Message	Tohka	"M-Measurements? Are you talking about... those
+areas?"	
+Message	Shido	Y-Yeah. I am...	
+Choice		Bust, waist, hips.	
+Choice		Physical aptitude, intelligence, agility.	
+Choice		Regular, large, extra large.	
+Message	Shido	"I'm talking about your bust, waist, and hip
+measurements."	
+Message	Tohka	"I-I see. I know about that. I've done it before.
+B-But... it's my first time... having you measure
+me."	
+Message	Shido	"Y-Yeah... S-So, I'm going to have to... at least
+touch... your body a little."	
+Message	Tohka	You're... going to touch me?	
+Message	Shido	"Y-Yeah. You have problem with it, huh? If you
+don't want me to, I can ask someone else to
+do it..."	
+Message	Tohka	I-I don't... mind.	
+Message	Shido	R-Really...?	
+Message	Tohka	"B-But... it is a physical. So... you're not doing
+it with ulterior motives, right? I don't want
+you... to get the wrong idea."	
+Message	Shido	No, that's... That's not it...	
+Message	Tohka	"A-Anyways... if it's you, I don't mind! So long as
+it's you, Shido... I, um... don't mind if you
+do... anything..."	
+Message	Shido	Oh... Okay. Th-Then let's get started.	
+Message	Shido	"I'm talking about physical aptitude, intelligence,
+and agility."	
+Message	Tohka	"Wh-What? I understand the physical part and maybe
+agility... but intelligence...? Wh-What's that?"	
+Message	Shido	Ah... that'll be 32.	
+Message	Tohka	"What?! You're writing it down already?! But you
+didn't even measure anything."	
+Message	Shido	"That was just a joke. I need to measure
+your figure."	
+Message	Tohka	"Y-Yeah. You're talking about bust, waist, and
+hips, right? But I've already done that before."	
+Message	Shido	"These are things we measure periodically. It could
+have changed, you know?"	
+Message	Tohka	"I-Is that so? I'm not a rubber doll. I don't think
+I'll grow or shrink all the time."	
+Message	None	"(It's true. No matter how much Tohka eats, her
+figure doesn't change. If other girls heard that,
+they might get jealous.)"	
+Message	Tohka	"D-Don't tell me, Shido... That you're saying that
+only because you want to touch me."	
+Message	Shido	"O-Of course not. I'm a doctor. Th-This is
+necessary for your health."	
+Message	Tohka	I see. You are a doctor. I trust you.	
+Message	Shido	"O-Okay, leave it to me. Anyways, let's
+get measuring."	
+Message	Shido	"I'm talking about regular, large, or extra large.
+What do you want, Tohka?"	
+Message	Tohka	"Wh-What? I can only choose one?
+That's troublesome..."	
+Message	Shido	I'm fine with regular.	
+Message	Tohka	"Ngh... fine, I guess I'll be happy with an extra
+large. It better come with miso soup."	
+Message	Shido	"Yeah, it usually does... What are you talking
+about?! That's not it! I'm talking about your
+figure! Your figure! Bust, waist, and hips!"	
+Message	Tohka	What?! So, no miso soup?!	
+Message	Shido	"No! How long would you have gone along with that,
+Tohka...? Let's hurry up and get your
+measurements."	
+Message	Tohka	Huh? Wait, you're not talking about food?	
+Message	Shido	"I'm talking about your physical. I was just
+kidding earlier."	
+Message	Tohka	"I see. It was a joke... But... grr... now that you
+bring it up, I'm getting hungry."	
+Message	Shido	"Oh... Well, I'm sorry about that. How's this...
+I will buy you a beef bowl on our way back."	
+Message	Tohka	"Ohh, a beef bowl! That would be nice! All right,
+let's hurry and finish this."	
+Message	Shido	...There's something you need to do before that.	
+Message	Tohka	What are you doing? Why did you stand up?	
+Message	Shido	Oh, I forgot to check you with the stethoscope...	
+Message	Tohka	Oh, then let's do that first.	
+Message	Shido	"Come to think of it, if I do it from the front, it
+would be kinda embarrassing... Can it be from the
+back?"	
+Message	Tohka	That's fine! You're a doctor. I trust you!	
+Message	Shido	Y-Yeah. Okay. I am a doctor, after all.	
+Message	Tohka	Yeah!	
+Message	None	(But that isn't a good enough reason.)	
+Message	Shido	It's just... Are you okay with that, Tohka?	
+Message	Tohka	Huh? I don't mind at all.	
+Message	Shido	I-I see... Then...	
+Message	Shido	I-Is this it...?	
+Message	Tohka	...Hah...mmm...	
+Message	Shido	H-Hey... don't make weird noises.	
+Message	Tohka	S-Sorry. I was surprised.	
+Message	Shido	"R-Right. I see. Sorry about that. Well... this
+is... *grunt*..."	
+Message	None	(I'm totally... touching Tohka's body.)	
+Message	None	"(Tohka's warmth, my hand grazing her skin... and I
+can feel her soft hair... there's the scent of
+soap...!)"	
+Message	None	(Oh, no... I'm feeling dizzy.)	
+Message	Tohka	"What's the matter, Shido? You're not going to
+measure me?"	
+Message	Shido	Yeah, I will. I-I'll do it now.	
+Message	Tohka	"Y-You're breathing very heavily, Shido.
+Are you sick?"	
+Message	Shido	N-No... It's nothing.	
+Message	None	"(Oh, no... I guess my excitement was obvious from
+my breathing. I should hurry through this as
+quickly as possible.)"	
+Message	Shido	O-Okay, Tohka. Let's get this over with.	
+Message	Tohka	B-Bring it on!	
+Message	Tohka	Haah... Kyaaa.	
+Message	Shido	"*Grunt*... Don't move, Tohka. I can't measure you
+like this."	
+Message	Tohka	*Whimper*... I-It tickles. It tickles, Shido!	
+Message	Shido	I'll be done quick. Hang in there...	
+Message	Tohka	Ah... Ahh... Mmm.	
+Message	Shido	D-Don't twist your body...	
+Message	Tohka	Un...mm... Ah... Ahhhh.	
+Message	Tohka	Ah...ahhh...mm... Ah...	
+Message	Tohka	Sh-Shido. My body is getting hot...	
+Message	Shido	Don't move! I can't hear!	
+Message	Tohka	N-No...! I-If you touch me there...	
+Message	Shido	"Tohka, calm down! This is a physical. Don't make
+noises or move..."	
+Message	Tamae	Excuse me.	
+Message	Tamae	"Is the physical over?
+"	
+Message	Tamae	"I've come to help you clean up.
+"	
+Message	Tamae	...Ahhhhhhhhhhhhhh?!	
+Message	Shido	Ah...?!	
+Message	Tohka	"...*pant*... *pant*... Shido... I-I can't... take
+it anymore..."	
+Message	Tamae	"Itsuka-sensei! Wh-Wh-Wh-Wh-Wh-What are you
+doing?! T-T-T-T-To our student?! Ahhh! This is
+inappropriate!"	
+Message	Shido	N-No! It's not like that!	
+Message	Tamae	PERVERT! PERRRRVERT IN THE BUILDING! SOMEONE!	
+Message	Tohka	What... pervert? Who is she talking about?	
+Message	Shido	C-Crap! Aaaaaaggghhhhh!	

@@ -1,0 +1,198 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Hello? This is Itsuka.	
+Message	Kannazuki	"Oh, Shido-kun? Perfect timing. Kannazuki,\nhere."	
+Message	Shido	"Kannazuki-san? What's the matter? You don't
+usually call me. Did you want to speak to Kotori?"	
+Message	Kannazuki	"No. Today, I wanted to talk to you. You see,\nit's about Kaguya-san and Yuzuru-san."	
+Message	Shido	Kaguya and Yuzuru? What happened?	
+Message	Kannazuki	"You see, Shido-kun, please stay calm while\nI share this with you."	
+Message	Shido	"Hey, what is it? Wait. Don't tell me something
+happened to them! Tell me!"	
+Message	Kannazuki	"Yes. You see... We are going to do some tests\nsoon."	
+Message	Shido	...Tests?	
+Message	Kannazuki	"Yes. Kaguya-san and Yuzuru-san will both\nhave to cooperate. It may take them the\nentire day."	
+Message	Kannazuki	"Because they are most stable when they are\ntogether, we are afraid of only taking one. If\nonly one survives, then we want you there."	
+Message	None	(I see...)	
+Message	Shido	...*sigh*. Okay, got it. I understand.	
+Message	Kannazuki	"Wonderful. Please invite them on a date.\nIf you would like, I have a recommendation."	
+Message	Shido	No, that's fine.	
+Message	Kannazuki	"Aw, your loss. So, which one will participate\nin the test, whom should I ask? Kaguya-san,\nor Yuzuru-san?"	
+Message	Shido	Wait, you're letting me decide?	
+Message	Kannazuki	"Yes. I do not mind. I won't tell the other."	
+Message	Shido	Well, if that's the case...	
+Choice		I want to spend time with Kaguya.	
+Choice		I want to spend time with Yuzuru.	
+Message	None	"(All things considered, I wanted to spend
+time with Kaguya.)"	
+Message	Shido	I think she's almost here.	
+Message	Shido	Oh, she just made it. Hey, hey.	
+Message	Kaguya	Hehe. I've come for you, Shido...	
+Message	Shido	Welcome, Kaguya.	
+Message	Kaguya	Oh, uh, thank you for the invitation.	
+Message	Shido	"Why do you sound so formal? It's nothing
+fancy."	
+Message	Kaguya	R-Right... I will enter.	
+Message	Shido	"But you're sure you're okay to do this? It's
+a date, but we're going to my room. We could
+have gone out if you wanted."	
+Message	Kaguya	"Huh. Don't worry about it! I've always been
+curious about your house, so fear not."	
+Message	Shido	Really? If you say so. Kaguya...?	
+Message	Kaguya	"Hyah! What's the matter?
+...Shido?"	
+Message	Shido	"Well, you seem restless. You're acting weird.
+Just wondering if everything's okay."	
+Message	Kaguya	"Oh, uh... Er, Yuzuru's not here, and I realized
+it's been a while since we've been alone."	
+Message	Shido	...I see. Being alone with me makes you nervous.	
+Message	Kaguya	"You don't have to put it that way! I-I mean,
+who ya callin' nervous, mister?!"	
+Message	Shido	It's fine. I'm kinda nervous, too.	
+Message	Kaguya	R-Really...?	
+Message	Shido	Yeah, of course.	
+Message	None	"(But now that she's said it out loud, I'm getting
+nervous too. Feeling restless.)"	
+Message	Shido	"Oh, why don't I pour us some black tea? Is
+that okay with you?"	
+Message	Kaguya	Yeah.	
+Message	Shido	Here you go.	
+Message	None	(Man...)	
+Message	Kaguya	*stare*...	
+Message	None	(She's not even blinking. This is uncomfortable.)	
+Message	Shido	H-Hey, is something wrong, Kaguya?	
+Message	Kaguya	"O-Oh. Fret not, Shido! You're free to pour me
+some tea."	
+Message	Shido	Gotcha. If you say so.	
+Message	Kaguya	"*stare*...
+"	
+Message	Kaguya	Hehehe...	
+Message	None	"(She's a mystery. Oh, well. I'll pretend not
+to let it bother me.)"	
+Message	Shido	Okay, here's your tea.	
+Message	Kaguya	"Kakaka. I sure got you working... Mm.
+It's delicious."	
+Message	Shido	Cool. Happy to hear it.	
+Message	None	(After taking a sip of tea, I finally feel calm.)	
+Message	None	"(Normally, there are three of us at a time, so
+Yuzuru's silence can be felt.)"	
+Message	Kaguya	Hey, Shido?	
+Message	Shido	What's up?	
+Message	Kaguya	Can I sit closer?	
+Message	Shido	Sure...	
+Message	Kaguya	Yay! Hehe... It's like we're dating.	
+Message	Shido	Y-Yeah.	
+Message	None	(I wonder if she's been waiting to ask me that.)	
+Message	Shido	"Hey, Kaguya? What made you want to come
+over?"	
+Message	Kaguya	"Kuku. Can't let the cat out of the bag. Maybe
+use that big noggin of yours to figure it out."	
+Message	Shido	Okay...	
+Message	None	"(Maybe, she just wanted a relaxing day at
+my house.)"	
+Message	Kaguya	...! Sh-Shido! That! Is that what I think it is?!	
+Message	Shido	"Saying "that" and "it" is confusing me.
+You're pointing at my game console. You
+know what that is, don't you?"	
+Message	Kaguya	"D-Don't make a fool of me. I know! But
+I've never laid hands on it myself. Fuooo.
+I'd sell my soul for this beautiful machine!"	
+Message	None	"(She looks at it like it's a mythical creature.
+It's almost hilarious picturing her with a
+controller.)"	
+Message	Shido	Wanna play, Kaguya?	
+Message	Kaguya	Yeah, totally!	
+Message	Shido	"Okay, let me start it up. Which game...?
+How about a fighting game?"	
+Message	Kaguya	"Kuku... Very well. Kuku. Time to take revenge
+for our day at the arcade. I'll show you what
+I'm made of."	
+Message	Shido	"Now, you have to choose your character.
+Who do you want to use, Kaguya?"	
+Message	Kaguya	"Hmm... This one. It looks like a bear. I like it.
+Gonna crack your skull open."	
+Message	Shido	"Y-You sure chose a burly character. I thought
+for sure you'd pick a girl."	
+Message	Kaguya	"Kuku. I'm not like other girls. So...
+What about you, Shido?"	
+Message	Shido	I'll use this one!	
+Message	Kaguya	"Whoa, a fearsome warrior. A challenging test
+indeed... But its head is rather strange. Almost
+like a pineapp―"	
+Message	Shido	"Oh. Not another word. You can decide how
+strong it is on the battlefield."	
+Message	Kaguya	Hehe. Then, prove your worth to me!	
+Message	None	"(And so, we began our game. We still had a
+whole date ahead of us, so it wasn't going to
+be a full-fledged battle.)"	
+Message	Kaguya	"AY! You bastard! I can't perform combos,
+Shidooo..."	
+Message	Shido	Okay, okay. I'll show you. Okay, use the pad.	
+Message	Kaguya	Now's my chance! YAH!	
+Message	Shido	Hey! You got the hang of it.	
+Message	Kaguya	"Hehe. Pretty easy when your opponent stands
+still. Your fault for leaving your guard down."	
+Message	Shido	"Rgh... Fine then. I'll send you back to your
+homeworld crying."	
+Message	Kaguya	"A-Aaaaah! The bear's HP... says otherwise!
+I'm kicking. KICKING!"	
+Message	Shido	I can't go near you! Aah!	
+Message	Kaguya	YAY! I win!	
+Message	Shido	Grr... You got me.	
+Message	Kaguya	"Kakakaka! The burden of this grudge has
+been lifted. Behold, the taste of victory!
+Gone are the days of my accursed defeats!"	
+Message	None	"(She's as giddy as a schoolgirl. Well, Kaguya's
+happiness is all that matters to me.)"	
+Message	Kaguya	"Shido, one more battle! Next time, I will
+scrape you from the bottom of my foot!"	
+Message	Shido	"Oh, feeling cocky? I won't let my guard down
+this time."	
+Message	Kaguya	"Kuku... I have already mastered this game,
+so you're only delaying the inevitable. We
+can bet tomorrow's lunch if you'd like."	
+Message	Shido	"Ohh, you're on! Sorry, but you're going to
+have to buy me a full-course meal at the
+cafeteria tomorrow."	
+Message	Kaguya	"Hahaha. As if! Shido, get your wallet ready to
+buy me every loaf of bread at the store! Even
+if it kills you."	
+Message	Shido	Bring it on!	
+Message	None	"(To no one's surprise, we ended up gaming
+all day.)"	
+Message	Shido	Oh, look at the time. Let's call it.	
+Message	Kaguya	"What, already...? But I'm not done with you
+yet..."	
+Message	Shido	"Well, we still have tomorrow too! Let me walk
+you home before it gets dark."	
+Message	Kaguya	Okay. Thanks, Shido! Today was sweet.	
+Message	Shido	Yeah!	
+Message	Kaguya	I look forward to our next meeting.	
+Message	Shido	Right...	
+Choice		I hope it's just you and me.	
+Choice		Next time, let's invite Yuzuru.	
+Message	Shido	Let's make it just us again.	
+Message	Kaguya	"Very well... Wait, as much as I'd like to say
+that, I couldn't exclude Yuzuru."	
+Message	Shido	"Huh? Oh, that's not what I meant. I mean,
+we're dating, Kaguya. I appreciate our alone
+time, too."	
+Message	Shido	"Kaguya, you really seemed to enjoy yourself
+today. We don't always have to be a trio."	
+Message	Kaguya	"Hm... I don't know.
+"	
+Message	Kaguya	"If you insist, then gimme a call.
+I'll be waiting."	
+Message	Shido	Huh?	
+Message	Kaguya	Nothing! Anyways, thanks for today!	
+Message	Shido	Okay. Next time, let's invite Yuzuru.	
+Message	Kaguya	"Huh? Oh her, huh.
+"	
+Message	Kaguya	"But... I don't mind it being you and I from
+time to time."	
+Message	Shido	Huh? Kaguya, did you just...	
+Message	Kaguya	"O-Oh, forget I said that! I'm gonna head home
+now! Peace!"	
+Message	Shido	Oh, Kaguya!!	
+Message	None	"(I wasn't reading into it too much that day.
+I was only thinking of the fact we had a date
+without Yuzuru. How was I to know...?)"	

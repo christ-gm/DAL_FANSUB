@@ -1,0 +1,244 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Since we were neighbors, whenever I got home
+from school, Yoshino would come over to visit.)"	
+Message	None	(Well, we are close, so it's not too surprising.)	
+Message	None	"(The same occurred today, and Yoshino sat
+in the living room, watching me work in the
+kitchen.)"	
+Message	Shido	"Want to have dinner with us tonight, Yoshino?
+The menu is already set I'm afraid, so I can't
+take any requests."	
+Message	Yoshino	Oh, um... I-I'd love to join.	
+Message	Yoshinon	"Ah. Thank you so much, Shido-kun. I appreciate\nall of your hospitality."	
+Message	Shido	"I don't mind. I mean, it's only one more serving,
+so it isn't extra work or anything."	
+Message	Yoshino	"The food you make... is delectable, Shido-san.
+I understand why Tohka-san is so fond of it."	
+Message	Shido	"I've made this dish plenty of times. It's not
+like an especially good cook."	
+Message	Yoshinon	"But men who cook are one in a million.\nMakes my heart skip a beat! You win points\nwith me!"	
+Message	Shido	Hahaha. Thanks.	
+Message	Yoshino	U-Um, Shido-san. I have a favor.	
+Message	Shido	Hm? What is it?	
+Message	Yoshino	"After dinner, or any other day really, can
+we have a sleepover...?"	
+Message	None	(I froze.)	
+Message	Yoshinon	"Woooooow! Yoshino, bold move! I can't\nbelieve you're making a move on Shido-kun!"	
+Message	Shido	"At night? I don't mind, but why do you ask?
+Did something scary happen?"	
+Message	Yoshino	"No, it's not that... I wanted to go somewhere
+else."	
+Message	Shido	"Somewhere else? Sure. I can go with you.
+Did you have somewhere in mind?"	
+Message	None	"(Spirits were far, far older than they appeared.
+Even so, it wouldn't be good for Yoshino to
+walk alone at night.)"	
+Message	Yoshino	Uh...	
+Message	None	(After dinner, Yoshino returned to the house.)	
+Message	None	"(Once the time to meet got closer, I quietly
+snuck out of my house so I wouldn't wake
+Kotori.)"	
+Message	Yoshinon	"At the end of the day, Shido-kun, you always\nput Kotori's needs first."	
+Message	Shido	Only if it's within reason, okay?	
+Message	Yoshino	Thank you... so much!	
+Message	Shido	"You're welcome. I mean, I don't mind your
+requests."	
+Message	Yoshinon	"Does that mean you'd do anything that cute,\nlittle Yoshino would ask..."	
+Choice		Within reason.	
+Choice		Of course.	
+Message	Shido	"That's not what I mean. I more so meant that
+hers are easy to comply with."	
+Message	Yoshino	I see..	
+Message	Yoshinon	"Shido-kun, I think you need to think before\nyou speak."	
+Message	Yoshino	"Y-Yoshinon! That's what... makes Shido-san
+special."	
+Message	Shido	Oh, okay... Um. Thanks Yoshino.	
+Message	None	(Hearing her say that makes me blush.)	
+Message	Yoshino	Oh, u-um... That's how I really feel.	
+Message	Yoshinon	"Woohoo! You two are too adorable. It's\nimportant to communicate if you want to\nget closer."	
+Message	Yoshino	...	
+Message	Shido	Of course.	
+Message	Yoshino	I-I... I... I'm not cute.	
+Message	Shido	What are you talking about? Yeah, you are.	
+Message	Yoshino	Th-Thank you... very much.	
+Message	Yoshinon	"Shido-kun really looks dead serious, which\nmeans―"	
+Message	Shido	Why...?	
+Message	Yoshino	"Sh-Shido-san, if I weren't cute anymore, would
+you not listen to me?"	
+Message	Shido	I don't think... that would happen.	
+Message	Yoshinon	"Oh. Why so hesitant?"	
+Message	Shido	"If I can, then I want to be here for you however
+you need me. It has nothing to do with how cute
+you are, Yoshino."	
+Message	Shido	"But we're here for each other now, so, um...
+I do find you cute. At the end of the day, I'll
+be there for you."	
+Message	Yoshino	Oh, um... I-I don't know what to say...	
+Message	Yoshinon	"Shido, you're such a smooth operator.\nYou're getting a kick from Yoshino's shyness."	
+Message	Shido	That's not what I was trying to do!	
+Message	Yoshino	Oh, but... Um... That makes me very happy.	
+Message	Shido	Haha. You're going to make me blush.	
+Message	None	(With that, Yoshino wanted me to take her to...)	
+Message	Yoshino	Is this the place... with the lovely view?	
+Message	Shido	"Yeah. You can see almost the entire city from
+up here."	
+Message	None	"(There are crater ruins in the middle of Tengu
+City that are visible from Takadai Park, situated
+beneath a gorgeous expanse of sky.)"	
+Message	Yoshinon	"Amazing, Shido-kun! The fact that you fulfilled\nYoshino's request so quickly shows you've leveled\nup!"	
+Message	Shido	Maybe. I'm happy you're both enjoying yourselves.	
+Message	None	(Yoshino requested to see the stars...)	
+Message	Yoshinon	"So, you decided to go out walking at this\nhour? Yoshino, you're such a bad girl..."	
+Message	Yoshino	"S-Sorry... Yoshinon, but... I'm with Shido-san,
+so I thought it'd be okay."	
+Message	Shido	"Right. If you were alone, I would have said
+no."	
+Message	Yoshinon	"For some reason, I was afraid that Yoshino\nwould be in danger walking around with you,\nShido-kun."	
+Message	Yoshino	Sh-Shido-san isn't... dangerous though?	
+Message	Yoshinon	"I don't know about that. I mean, Shido-kun\nis a gentleman and all, Yoshino, but he is a\na man at the end of the day."	
+Message	Yoshinon	"Besides, he seems to have taken a liking to\nhow cute you are. Anything can happen, don't\nyou think?"	
+Message	Shido	I would never do anything to harm Yoshino.	
+Message	Yoshino	Y-Yeah, Yoshinon... I'm fine.	
+Message	Yoshinon	"As long as he keeps his word."	
+Message	Shido	"Yoshino, sit over here. I'm sure standing
+gets tiring after a while."	
+Message	Yoshino	Oh, okay...	
+Message	None	(Yoshino walked over and sat beside me.)	
+Message	Shido	Yoshino, do you enjoy looking at the stars?	
+Message	Yoshino	Um, I don't know...	
+Message	Shido	You don't know?	
+Message	Yoshino	"All this time, I've never taken the time to
+star-gaze..."	
+Message	Shido	Yoshino...	
+Message	Yoshino	"That's why... I was always curious. Now,
+I have the chance to look at them. I have
+you to thank for that, Shido-san..."	
+Message	Shido	"I see. I'm happy to hear I could fulfill
+your wish."	
+Message	Yoshinon	"But she exchanged the favor with a kiss\nback then. Pretty courageous of her."	
+Message	Yoshino	Y-Yoshinon...!	
+Message	Shido	Oh, uh... Sorry about that.	
+Message	Yoshino	"D-Don't apologize...! I don't think you did
+anything wrong."	
+Message	Shido	Glad to hear it.	
+Message	Yoshino	I-Indeed...	
+Message	None	(Yoshino then looked up at the sky.)	
+Message	Shido	...	
+Message	Yoshino	...	
+Message	Shido	Hey, are you enjoying stargazing...?	
+Message	Yoshino	S-Sorry... I don't know what to talk about.	
+Message	Yoshinon	"Shido-kun, be romantic and discuss\nconstellations with her."	
+Message	Shido	"Unfortunately, I don't know much about them.
+I can point a few out, but that's about it."	
+Message	Yoshinon	"Gotcha. Yeah, you don't seem the type to\nstargaze as a hobby."	
+Message	Shido	Right?	
+Message	Yoshinon	"Totally. Unfortunately, Yoshino's not too\nversed in the subject either."	
+Message	Shido	"Oh, really? I figured you would be, since you
+suggested we come here."	
+Message	Yoshino	S-Sorry...	
+Message	Shido	"No need to apologize. I wish I looked up some
+facts beforehand."	
+Message	Yoshinon	"Well, no point in saying anything now."	
+Message	Yoshino	"Even if I don't know much about stars,
+I always thought... they were pretty..."	
+Message	Shido	Yeah. They're real pretty, aren't they?	
+Message	Yoshino	So... I think do... enjoy stargazing...	
+Message	Shido	It's easy to get lost in.	
+Message	None	"(It'd be far more enjoyable if I could point
+out planets or different star clusters.)"	
+Message	None	"(But putting that aside, there's something to
+be said about staring up at the galaxy.)"	
+Message	Shido	"Let me know if you'd like to do this again.
+Hopefully next time, I'll have some facts to
+share."	
+Message	Yoshino	Oh, right. I'll... do some research as well.	
+Message	Shido	Oh. Why don't we visit a planetarium next time?	
+Message	Yoshino	A planetarium...?	
+Message	Shido	"Yeah. I visited one on a field trip for school.
+It's not space travel, but you see some neat
+stuff."	
+Message	Yoshino	"Um, I think I saw one on TV once. There were...
+a lot of people."	
+Message	Shido	"Yeah, there are. It's like being in a theater.
+I guess that doesn't appeal to you, huh?"	
+Message	Yoshino	"Um, if it's with you Shido-san, I would like
+to go some day."	
+Message	Shido	I see. Then, let's go someday.	
+Message	Yoshino	"Okay, but... the stars we see tonight...
+So many of them... It's breathtaking."	
+Message	Shido	Yeah.	
+Message	None	"(Even though we couldn't tell any of the
+stars apart from each other, it was, as she
+said, breathtaking.)"	
+Message	Yoshino	"Shido-san, have you ever seen such a starry
+sky...?"	
+Message	Shido	...Maybe once or twice recently.	
+Message	None	"(Even so, there wasn't ever enough time to
+take it all in.)"	
+Message	Shido	I hope we can go with you someday, Yoshino.	
+Message	Yoshinon	"Don't say 'someday'. Why not immediately?"	
+Message	Shido	"Hm. I feel like I can to a certain extent, or
+maybe not."	
+Message	Yoshino	Really...?	
+Message	Shido	Like... I can ask Kotori.	
+Message	Yoshinon	"What, you have to rely on another girl?\nShido-kun, that's lame."	
+Message	Shido	Agh...! Point taken... Sorry.	
+Message	Yoshino	I... I'm fine, even if that were the case...!	
+Message	Shido	"I don't want you to be be fine with that.
+You know what? I won't rely on anyone else.
+I'll show you the starriest sky that ever was."	
+Message	Yoshino	Hehehe. I look forward to it.	
+Message	Shido	Yeah, leave it to me.	
+Message	Yoshinon	"But Shido-kun, you're a busy boy.\nI wonder when you'll actually do it."	
+Message	Yoshino	"I-I... can wait. Shido-san, I have faith...
+that you'll keep your promise one day."	
+Message	None	"(Yoshino leaned back on me, and I put my
+arm around her shoulder.)"	
+Message	Yoshino	Hehe. You're warm...	
+Message	Shido	...So are you.	
+Message	Yoshino	"Um, Shido-san, could we talk about something...?
+What did you learn from the planetarium when
+you went with your school?"	
+Message	Shido	"The story has to do with a different season.
+Is that okay?"	
+Message	Yoshino	Yes. I want to hear... what you have to say.	
+Message	Shido	"I see. Well, it was about the constellation,
+Cygnus."	
+Message	Yoshino	...Cygnus? So... in the milky way?	
+Message	Shido	"No, not exactly. Cygnus has this star called
+Albireo, and―uh, what was it...?"	
+Message	Yoshinon	"Hahaha. You're so unreliable."	
+Message	Shido	"I mean, the field trip took place a long time
+ago. It's not like I was paying attention the
+whole time."	
+Message	Yoshino	What else do you remember...?	
+Message	Shido	"Oh, hm... I believe Albireo is a binary star.
+From afar, it looks like one star, but there's
+actually two."	
+Message	Yoshinon	"Oh. Color me impressed, Shido-kun."	
+Message	Shido	Don't patronize me.	
+Message	Yoshino	...I'd like to see that some day.	
+Message	Shido	"Next time, we can bring binoculars. I've
+heard using those allows you to see the
+whole sky clearly."	
+Message	Yoshinon	"Man, Shido-kun, never knew you had\nthat kind of info in you."	
+Message	Shido	"Yeah, sorry... I'll make sure to have some stuff
+for us to look at next time."	
+Message	Yoshino	...I already cannot wait.	
+Message	Shido	Right.	
+Message	None	"(Yoshino continued to ask me questions about
+random tidbits I knew. Before we knew it, it was
+almost midnight.)"	
+Message	Shido	...Yoshino?	
+Message	Yoshino	Mm... Zzz...	
+Message	None	(Looks like Yoshino fell asleep on me.)	
+Message	Shido	...She's knocked out.	
+Message	Yoshino	Shido...san...	
+Message	None	(Yoshino was leaning on me, dead asleep.)	
+Message	None	"(It might be tough to wake her up, and I'd
+feel bad for doing so.)"	
+Message	Shido	It is pretty late....	
+Message	None	"(Yoshino wasn't much of a night owl, so it
+wasn't a surprise.)"	
+Message	None	"(Until Yoshino woke up, I lost myself in the
+stars.)"	

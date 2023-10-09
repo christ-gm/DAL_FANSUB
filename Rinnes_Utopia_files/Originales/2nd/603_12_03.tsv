@@ -1,0 +1,262 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(Tonomachi invited me out after school.)	
+Message	Shido	So, where are you taking me?	
+Message	Tonomachi	"Oh, come on... What's the rush? You're
+going to have a great time, Itsuka."	
+Message	None	(He wouldn't tell me.)	
+Message	Tonomachi	"Lately, you've become real popular, so
+it's hard to have some of you for myself!"	
+Message	Shido	What, so now you're punishing me for it?!	
+Message	Tonomachi	"HAHAHA! Well, all that aside, it's been a
+while since we've had a day as just us boys,
+so let's have some bro time."	
+Message	Shido	What happens if I don't put it aside...?	
+Message	Tonomachi	Well―	
+Message	None	(Just as Tonomachi was about to respond.)	
+Message	Yoshinon	"Hey, hey, Shido-kuuuun. How are ya?\nYou're done with class, right?"	
+Message	Yoshino	H-Hello...	
+Message	Shido	Yeah. We just finished. What's up, you two?	
+Message	Yoshino	U-Um. We were.. waiting for you, Shido-san.	
+Message	Yoshinon	"Yeah. Yoshino kept saying she wanted to\nsee you. I'm almost worried because she said\nshe doesn't even care if there are strangers!"	
+Message	Yoshino	I-I'm fine. I'm happy I ran into you.	
+Message	Shido	I-I see.	
+Message	Tonomachi	Itsuka?	
+Message	None	"(I felt an aura piercing me from behind, and
+I spun around to see Tonomachi glaring at me.)"	
+Message	Shido	Tonomachi, take it easy. Just listen―	
+Message	Tonomachi	"Shut up! Forget about you, Itsuka! I'd rather
+get kicked by a horse than stick around here.
+WAAAAAAAAAAAAAH!"	
+Message	Shido	Tonomachi!	
+Message	Yoshinon	"Oh. Did we interrupt something? Good grief.\nSorry, Shido-kun."	
+Choice		Yes, you did.	
+Choice		It's okay.	
+Message	Shido	"It's been a while since I hung out with
+Tonomachi."	
+Message	Yoshino	I-I'm sorry for getting in the way.	
+Message	None	"(Oh, crap. I'm basically implying that they
+were a nuisance.)"	
+Message	Yoshino	"I should have thought it through. You have
+your own life..."	
+Message	Yoshinon	"No guy likes girls who nag. At least that's\nwhat my sources tell me."	
+Message	Yoshino	*whimper*...	
+Message	Shido	"Oh, sorry. I never meant to make you think
+that you were bothering me."	
+Message	None	"(I kinda feel bad for Tonomachi, too.
+I'll call him later and apologize.)"	
+Message	Yoshinon	"Shido-kun, don't tell me Tonomachi-kun\nis more important than Yoshino to you."	
+Message	Yoshino	...What?!	
+Message	Shido	"NO NO! Of course not! It's more like I haven't
+been able to spend time with Tonomachi lately.""	
+Message	Yoshinon	"So it's true..."	
+Message	Yoshino	You are...	
+Message	Shido	H-Hey, don't put words in my mouth!	
+Message	None	"(Hanging out with Tonomachi even for
+five minutes invites a load of trouble.)"	
+Message	Shido	No, I think we're fine.	
+Message	Yoshino	Are you sure...?	
+Message	Shido	Yeah. So anyways, what can I do for you?	
+Message	Yoshino	"Is it wrong of me to want to see you...?
+Even if I have no particular reason?"	
+Message	Shido	Not at all...	
+Message	Yoshino	I'm so glad...	
+Message	Yoshinon	"With that said, I pity the guy who ran off\nand all, but how about the three of us find\nsomething fun to do?"	
+Message	Shido	Yeah, sure. You waited for me after all.	
+Message	None	"(Guess I'll have to call up Tonomachi and
+apologize later. Nah, no need.)"	
+Message	Shido	"Anyways, did you have somewhere in mind,
+Yoshino? We could watch a movie or maybe
+stop by the video store."	
+Message	Yoshino	"Oh, um... I could just ask... and movies will
+be provided for me."	
+Message	Yoshinon	"They're so generous. Talk about having friends\nin your corner!"	
+Message	Shido	"Well, if Ratatoskr can build you a whole
+apartment, sending you some movies isn't
+a problem."	
+Message	Shido	"Anyways, we don't need to waste time standing
+here. Let's go."	
+Message	None	"(I'm sure they waited for me all day, so
+I bet they're tired.)"	
+Message	Yoshino	Oh, um... I'll leave it to you.	
+Message	Yoshinon	"I think it'd be best to go somewhere where\nyou can relax."	
+Message	Shido	Right.	
+Message	None	"(I decided to take Yoshino to a restaurant
+that Kotori and I had been to before.)"	
+Message	Yoshino	U-Um. Do you come here often... Shido-san?	
+Message	Shido	Hm? I mean, sometimes...	
+Message	Yoshinon	"But you wouldn't come here alone, right?"	
+Message	Shido	"Well, I take Kotori here sometimes. Come
+to think of it, I never come here alone."	
+Message	Yoshinon	"I see. Guess they don't call it a family\nrestaurant for nothing."	
+Message	Shido	Well, when I'm by myself. I eat random junk.	
+Message	Yoshino	I see...	
+Message	Yoshinon	"But there's an implication when you call it\na 'family' restaurant, don't you think?"	
+Message	Shido	What do you mean?	
+Message	Yoshinon	"Don't think you should bring your 'family'\nto a 'family restaurant'?"	
+Message	Yoshino	"Wh-Whaaaa? Yoshino, then that would
+mean... Shido-san and I..."	
+Message	Shido	"Ahahaha. Well, um, I think it just means
+a cozy atmosphere."	
+Message	Yoshino	A-And... Kotori-san is...	
+Message	Shido	Kotori's my little sister, so she is family.	
+Message	Yoshinon	"I mean, sure. But doesn't the thought\ncross your mind whenever you bring\ngirls here?"	
+Message	Shido	"About that.... Family restaurants aren't exactly
+a romantic getaway."	
+Message	Yoshinon	"Oh, no? So you're admitting you didn't\ngo all out for Yoshino?"	
+Message	Yoshino	U-Um, it doesn't bother me...	
+Message	Shido	H-Hey, we just came here to eat.	
+Message	Yoshinon	"Hahaha. Sorry, sorry. I'm just teasing you."	
+Message	Shido	"Some time soon, I want to take you to a fancier
+place, but..."	
+Message	Yoshino	"But...? Oh, um, I'm sorry. It's hard to go there
+because of me, isn't it..."	
+Message	Shido	"No, that's not what I mean. I just don't really
+go on fancy dates, you know?"	
+Message	Yoshino	R-Really?	
+Message	Yoshinon	"Whaaat? You're always surrounded by\nwomen. Don't tell me you can't think of\none place."	
+Message	Shido	This is all a misunderstanding!	
+Message	None	"(Besides, it's not my fault I've never been
+on a fancy date.)"	
+Message	Yoshino	Hehehe... Shido-san, is that true?	
+Message	Shido	"Yup. Just another reason I'll nothing more
+than a headache..."	
+Message	Yoshino	I want to... experience new things with you.	
+Message	Shido	R-Right...	
+Message	None	(My and Yoshino's eyes locked.)	
+Message	Yoshinon	"Woohoo! You guys make me jealous.\nWhat cuties."	
+Message	Shido	"S-Stop mocking us. A-Anyways, what are
+you going to order?"	
+Message	Yoshino	U-um...	
+Message	Yoshinon	"Shido-kun, any recommendations?"	
+Message	Shido	"Hm. They're doing a dessert fair, so how
+about this parfait?"	
+Message	Yoshinon	"Hmm. A seasonal fruit fair, huh? Sounds\ndelicious. Want this one, Yoshino?"	
+Message	Yoshino	Oh, um... Uh, what about you, Shido-san?	
+Message	Shido	I... Hm. I'm fine with fruit juice.	
+Message	Yoshinon	"Then you can ask Yoshino for a bite of\nher parfait. Have her feed you. Whaddya say?"	
+Message	Shido	...I'm okay, but thanks.	
+Message	Yoshinon	"Oh. Come on. If you ordered a parfait too,\nthen you can't use the same spoon?"	
+Message	Shido	Uh...	
+Message	Yoshino	Um. Could I request some coffee?	
+Message	Shido	"Huh? Oh, sorry. Were you not into the
+parfait?"	
+Message	Yoshino	Oh, no. I'm sorry... I just wanted some coffee.	
+Message	Shido	You're not sick, are you?	
+Message	Yoshinon	"I don't think so. I think she's trying to\nbe more mature."	
+Message	Yoshino	Y-Yoshinon, um... Please don't...	
+Message	Shido	"Hm? Oh, well. If you want coffee, that's fine.
+I get it. Sometimes you just crave it."	
+Message	Yoshino	Y-Yes... I want some... coffee...	
+Message	Yoshinon	"But you used to say how you disliked it\nbecause it was so bitter. I think you're\ntrying too hard, Yoshinoooooo."	
+Message	Yoshino	...Yoshinon!	
+Message	Shido	"Hahaha. Maybe you have a point. Yoshino
+does enjoy sweets..."	
+Message	Yoshino	"I-I, too, enjoy coffee... I can handle bitter
+things."	
+Message	Shido	"When I was younger, I never got why people
+drank the stuff. But before I knew it, I was
+hooked."	
+Message	Yoshino	R-Right. Coffee is... delicious.	
+Message	None	"(It felt like something was off, but I called
+our waitress over to take our order.)"	
+Message	Shido	"Yoshino, are you sure you don't want milk
+or sugar?"	
+Message	Yoshino	I-I don't need it.	
+Message	Yoshinon	"Oh, look at you. It's pretty bitter. Maybe\neven a little sour. Adding milk might make\nit more bearable."	
+Message	Shido	Yoshinon, Yoshino said she would drink it.	
+Message	Yoshinon	"Hahahaha. Okay, okay. But don't tell you I\ndidn't warn you if you hate it. Right Shido-kun?"	
+Message	Shido	"Hmm. Well, I don't think you have to force
+yourself. Drink it whichever way you want."	
+Message	Yoshino	Shido-san, how... do you like your coffee?	
+Message	Shido	"Well, if I'm sleepy, I take it black.
+But I also like a good café au lait, too."	
+Message	Yoshino	So you don't always drink it black?	
+Message	Shido	Well, I can only handle so much bitterness.	
+Message	Yoshinon	"HAHAHAHA! Shido-kun, I wish you could\nbe a real man and say you liked it bla―"	
+Message	Shido	"Hahaha. I guess drinking it black is a true
+sign of maturity, huh?"	
+Message	Yoshino	M-Maturity, yes.	
+Message	None	"(Yoshino sipped her coffee, but I saw a
+hint of reservation. I couldn't help from
+looking at her.)"	
+Message	None	"(To make matters worse, her other hand held
+Yoshinon, making her shake even more.)"	
+Message	Yoshino	...HOT!	
+Message	Shido	A-Are you okay?	
+Message	None	"(Yoshino was shocked by the temperature,
+causing her hand to slip.)"	
+Message	None	"(I hastily reached for a napkin to wipe
+the spilled coffee.)"	
+Message	Yoshino	O-Oh, Shido-san...	
+Message	Shido	Yoshino, you okay?	
+Message	Yoshino	U-Um, I'm fine...	
+Message	Shido	No, you're not. You need to be careful.	
+Message	Yoshino	I-I'm sorry.	
+Message	Yoshinon	"Looks like you didn't get any on your\nclothes, but there's coffee on your legs."	
+Message	None	"(I looked at Yoshino's thigh, and threw
+some napkins there.)"	
+Message	Shido	Oh, this is―	
+Message	Yoshinon	"Oh, no no. You were trying to help Yoshino,\nright? I know it wasn't a lewd act. Shido-kun,\nyou're seriously such a―"	
+Message	Shido	"Wh-What are you on about?! Oh, your
+skin is a little pink."	
+Message	Yoshino	I-It... stings a bit...	
+Message	Shido	Maybe some ice would help...	
+Message	None	"(I wiped the spilled coffee, but now the
+napkin was soaked.)"	
+Message	Yoshino	U-Um, Shido-san... I'm fine.	
+Message	Shido	"You shouldn't take burns lightly. Hang
+on a moment."	
+Message	None	"(I scooped some ice out of the water and
+put in on Yoshino's reddened thigh.)"	
+Message	Yoshino	"Aah... O-Ooh... Shido-san... Th-That... Mm...
+Aah... Faaaah!"	
+Message	Shido	"It might become a burn later, so bear with me
+for a bit."	
+Message	Yoshino	B-But... That's cold... Ah... Fa...mm...	
+Message	Yoshinon	"Shido, quick thinking. Yoshino, just grin and\nbear it. Otherwise it'll leave a scar."	
+Message	Yoshino	"Okay... I-I'll endure it... Mmmf... Hah...
+*grunt*... Aah... *pant*... Mm..."	
+Message	Shido	Sorry. Just hang in there for me.	
+Message	Yoshinon	"You're apologizing, but am I hearing a\ntouch of satisfaction from you hearing Yoshino\nmoan like this?"	
+Message	Shido	"U-Um, Yoshinon. This isn't the time for that.
+Yoshino, does it still hurt?"	
+Message	Yoshino	Um, it tickles... I can't tell anymore...	
+Message	Shido	If you're fine, then I'm fine.	
+Message	None	"(I took off the ice cube, and a sense of relief
+came over Yoshino. I used a napkin to dry
+her skin.)"	
+Message	Yoshino	Fua... U-Um, Shido-san...?	
+Message	Shido	"Well, your clothes might get wet. We need
+to wipe the moisture."	
+Message	Yoshinon	"You say that, but it's a slippery slope. I get\nit though. You're taking advantage of the\nsituation for a little contact, right?"	
+Message	Shido	Hey, I told you. That's not what's going on―	
+Message	Yoshinon	"Mmm? You don't want to hurt Yoshino's\nfeelings, do you?"	
+Message	Shido	That's not what I'm saying either! 	
+Message	Yoshino	"Th-Then, if we're not in front of people...
+You would...?"	
+Message	Shido	Y-Yoshino?	
+Message	Yoshino	Oh, um... I'm sorry. It's nothing.	
+Message	Shido	Oh, um... Gotcha.	
+Message	Yoshinon	"But Yoshino, drinking coffee black for the\nfirst time led to Shido-kun patting your leg\ndry."	
+Message	Shido	"Forget what Yoshinon's saying. Anyways,
+why did you order coffee, Yoshino? I thought
+it's what you wanted."	
+Message	Yoshino	"W-Well, I thought, it would be a mature
+choice..."	
+Message	Shido	Oh, is that why?	
+Message	Yoshino	Don't... tease me for my reason.	
+Message	Shido	"Sorry. I just mean you shouldn't have to force
+yourself to do anything. Adults can eat parfaits,
+can't they?"	
+Message	Yoshinon	"Yeah, totally. You can be tough and enjoy\nsweet things at the same time. Gosh..."	
+Message	Yoshino	...Right.	
+Message	Shido	"Don't force yourself. You're entitled to eat
+whatever you want."	
+Message	Yoshino	"Um, but...! Sh-Shido-san, are you okay with
+that?"	
+Message	Shido	Of course! It's not like I'm your boss.	
+Message	None	"(Yoshino pursed her lips, suddenly deep in
+thought.)"	
+Message	None	"(I looked at Yoshino, but the puppet only
+smiled back at me, silent for once in her
+life.)"	

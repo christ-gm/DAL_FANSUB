@@ -1,0 +1,147 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Where did Origami go?	
+Message	None	"(I was going to ask her on a date, but
+before I knew it, she was out of the classroom.)"	
+Message	Shido	Um... Origami? Heh, what am I doing? She's not here.	
+Message	???	What?	
+Message	Shido	AHHH! O-Origami?!	
+Message	Origami	Huh?	
+Message	Shido	"D-Don't scare me like that. I thought I was going
+to have a heart attack."	
+Message	Origami	"That would have been okay. I could've given
+you CPR."	
+Message	None	(T-That's not the issue here...)	
+Message	Origami	Do you want to practice?	
+Message	Shido	Huh?	
+Message	Origami	CPR.	
+Message	Shido	"Uh... w-well, I-I'll save the fun for when
+my heart actually stops..."	
+Message	None	(What am I even saying?!)	
+Message	Origami	I see.	
+Message	Shido	Y-Yeah...	
+Message	Origami	...	
+Message	Shido	Uh...	
+Message	Origami	Shido.	
+Message	Shido	Hm?	
+Message	Origami	Were you looking for me?	
+Message	Shido	"Well... um... yeah... yes.
+I wanted to talk to you again."	
+Message	Origami	I wanted to do it, too.	
+Message	Shido	Huh?	
+Message	Origami	With you.	
+Message	Shido	O-Oh, yeah. Well, let's talk...	
+Message	Origami	No.	
+Message	Shido	Huh?	
+Message	Origami	Something that feels way better than that.	
+Message	Shido	!	
+Message	Origami	Wanna do it?	
+Message	Shido	"N-No! W-W-Well... um...
+I don't think this is the right place for..."	
+Message	Origami	So, you're saying if it's not here... then we can?	
+Message	Shido	"Um, uh, w-well... oh, I know!
+What are you doing after this?"	
+Message	Origami	Cleaning up. From Sports Day.	
+Message	Shido	Oh...	
+Message	None	(Crap. I didn't even have anything planned.)	
+Message	None	"(What do I do? I thought I would've just been
+able to sit down and talk with Origami...)"	
+Message	Shido	Hm? Oh, it's Kotori. Sorry, Origami, I need to take this.	
+Message	Shido	Hey, Kotori.	
+Message	Kotori	"So? Are you on a date?"	
+Message	Shido	Uh... I was about to... attempt one I guess?	
+Message	Kotori	"You sound unsure. Stop. Who's the target?"	
+Message	Shido	Origami.	
+Message	Kotori	"Hmph. I see. That's why the Spirits' romance\nlevel hasn't changed, huh?"	
+Message	Shido	"W-Well, I mean, just like last time, Origami
+might attack you again. I thought that might not
+be good, so I..."	
+Message	Kotori	"I know. I didn't say it was a bad thing, did I? Go on,\nbe friendly with her. As long as she's in a good mood,\nI'm sure something good will come out of it."	
+Message	Shido	What?	
+Message	Kotori	"So, what's it like?"	
+Message	Shido	"Well, I wanted to invite her out, but you know how
+it was Sports Day? She's cleaning up now..."	
+Message	Shido	"I was just a spectator today so I don't think they
+assigned me any cleaning tasks."	
+Message	Kotori	"Seems like you have two options here."	
+Message	Shido	Huh?	
+Message	Kotori	"Clean up with her... or play hooky together."	
+Message	Shido	I see. I don't know about that second one.	
+Message	Kotori	"I'm not recommending it. Origami isn't a Spirit,\nand she's hard to read. I'm not sure which option\nwould make her happier."	
+Message	Shido	S-So... what should I do?	
+Message	Kotori	"It's your choice to make, Shido."	
+Message	Shido	"What?! You're gonna give me all that and then
+not even recommend me an option?!"	
+Message	Kotori	"Were you not listening to what I was saying?\nShe's not a spirit, but she definitely has feelings\nfor you. Come on, I'm at my limit here."	
+Message	Shido	I see. You're right.	
+Message	Kotori	"You decided to make her your date target, right?\nUse that dumb brain of yours for once and think\nabout what would make her happy."	
+Message	Shido	It's way easier for you to say that, but...	
+Message	Kotori	"I'm busy. I'm going now. You just make\nsure that woman doesn't attack me."	
+Message	Shido	Hey! Hey, Kotori! Ugh!	
+Message	Origami	Shido? What happened?	
+Message	Shido	Oh! Um, nothing! It's fine. No problem here.	
+Message	Origami	I see.	
+Message	Shido	Uh... Origami? I know what we can do.	
+Message	Origami	Hm?	
+Message	Shido	Do you...	
+Choice		Want me to help you clean up?	
+Choice		Wanna play hookie?	
+Message	Shido	C-Can I help you clean?	
+Message	Origami	Really?	
+Message	Shido	Yeah. As long as it's not too much trouble for you.	
+Message	Origami	"I lost the game. I don't have the right to be
+with you right now, Shido."	
+Message	Shido	"Hey, um... I'm not a prize. And I want to be with
+you right now, Origami, so... what do you say?"	
+Message	Origami	Okay.	
+Message	Shido	Let's clean up together!	
+Message	Origami	Mmm...	
+Message	Shido	So, what should I help with first?	
+Message	Origami	Use this. Rake the ground over there.	
+Message	Shido	Ah, the rake, huh? Got it!	
+Message	None	"(Origami gave me the T-shaped rake. It's also called
+a tombo I think... They use it to flatten soccer and
+baseball fields.)"	
+Message	Shido	Seriously, you all did great today.	
+Message	Origami	It doesn't matter. It's pointless if you lose.	
+Message	Shido	"Hm. Some people might think of it that way, but there
+are definitely things to be learned in the process.
+Results aren't everything."	
+Message	Origami	Huh?	
+Message	Shido	"Yeah, I mean, it's a competition and the point is to
+win. But still..."	
+Message	Shido	"Just because you lost doesn't make your efforts
+pointless. That's what I think, anyway."	
+Message	Shido	"It makes me feel sad to think that the results are
+the only thing that matters in something like this."	
+Message	Origami	I understand what you mean. It's so like you.	
+Message	Shido	"Y-You think so? Kotori would just call me naïve
+for saying something like this. She'd probably
+just laugh at me."	
+Message	Origami	...	
+Message	Shido	Oh... sorry.	
+Message	Origami	It's okay. You two are close siblings.	
+Message	Shido	!	
+Message	Origami	"And.... so long as it wasn't Efreet who killed my
+parents."	
+Message	Shido	W-Well, we haven't figured that out yet.	
+Message	Origami	I'm done on my end. Thanks for helping me, Shido.	
+Message	Shido	Sure...	
+Message	Origami	I'm going to go return this equipment.	
+Message	Shido	H-Hey, Origami...	
+Message	None	(Crap, I thought things were going well, too...)	
+Message	Origami	If you say so, Shido.	
+Message	Shido	Are you sure?	
+Message	Origami	Whatever you tell me is my top priority, Shido.	
+Message	Shido	I see. Then... let's go!	
+Message	Origami	This way.	
+Message	Shido	Huh?	
+Message	Origami	Come.	
+Message	Shido	W-Wait a minute! Where are we going?	
+Message	Origami	The AV room or the mechanical rooms are empty.	
+Message	Shido	Huh? W-Wait, what are we going to do there?	
+Message	Origami	CPR practice.	
+Message	Shido	W-We don't have to practice that!	
+Message	Origami	Huh? You want to do something more... intense?	
+Message	Shido	"U-Uh... um... today, um... I...
+I remembered I had to do something! Bye, Origami!"	
+Message	Origami	Oh...	

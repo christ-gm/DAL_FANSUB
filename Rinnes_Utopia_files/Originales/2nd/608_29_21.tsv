@@ -1,0 +1,158 @@
+﻿Operator	Comment	Key	Translation
+Message	Tohka	Hm. What should I order?	
+Message	Shido	"Tohka, if you keep ordering so much, I'll
+go broke..."	
+Message	None	"(Game world or not, there is a limit to how
+much money I have.)"	
+Message	Maria	"Even if you run out, I am capable of making
+arrangements."	
+Message	Shido	"No, that's no good. It wouldn't be fair. Besides,
+it's good to stay under budget. Gotta make sure
+I stay responsible in here."	
+Message	Kurumi	"Hmhmhm. Thankfully for Shido-san, you
+have a talented assortment of women to
+entertain on your dime."	
+Message	Tohka	"Hrm. However, I couldn't bear to trouble you,
+Shido. I will select only one dish."	
+Message	Shido	Sorry, Tohka, thanks.	
+Message	Kaguya	"Then, I must select the most glorious dish
+of all! The Triple Jumbo Ultra Deluxe Parfait!
+A sundae the gods would be proud of! Here I go!"	
+Message	Miku	"Hm, then I pick... this Special Afternoon Tea
+Set."	
+Message	Shido	"Hey, listen to me! If it's too expensive, I
+won't be able to pay for it all!"	
+Message	Miku	Hrrm～. Then I choose this pancake set.	
+Message	Kaguya	"It can't be helped. Then, I want this
+strawberry parfait."	
+Message	Kurumi	Then, I select the cheesecake set.	
+Message	Tohka	"H-Hmm. Please wait a moment. I cannot
+decide."	
+Message	Shido	"Take your time, Tohka. What about you,
+Maria?"	
+Message	Maria	Um, Shido... I have a problem.	
+Message	Shido	What's wrong? Did something happen?	
+Message	Maria	"Every dish attracts me. I know too little
+about each in order to decide."	
+Message	Shido	Oh, that's what you mean...	
+Message	Maria	"There are some I do not recognize by name
+alone. Just in case, can I confirm with you if
+I have all of the relevant information?"	
+Message	Shido	Sure. I hope I can answer your questions.	
+Message	Maria	"Yes, thank you. Then Shido, what is the
+brioche des rois?"	
+Message	Shido	"You know that brioche is a kind of bread,
+right?"	
+Message	Maria	"Yes. Also, with "des rois", I understand
+that it pertains to a galette des rois."	
+Message	Shido	"Yep, that's correct. A brioche des rois is
+a foreign treat that is a brioche bread
+topped with dried fruit."	
+Message	Tohka	"Wh-What?! That item is on the menu?!
+What an enticing property!"	
+Message	Maria	"I see. Then, is this galette similar to what
+my understanding is of it?"	
+Message	Shido	"So it's a dish that uses a crepe-like dough to
+wrap its insides. This one has galette au sucre,
+which has stuff like boiled apples and ice cream."	
+Message	Tohka	"Ohh, that sounds delicious as well!
+"	
+Message	Tohka	Oogh, I can't decide...	
+Message	Shido	"Tohka, calm down a bit. How's this, why don't
+you choose what to get with Maria? You're
+still thinking it over, Tohka, so take your time."	
+Message	Maria	"It is difficult to choose on command. All of
+what you describe sounds attractive, Shido, but
+I cannot pull my eyes from the others as well."	
+Message	Tohka	I'm the same, Shido. This is no easy task...	
+Message	Shido	Ahh. What to do...	
+Message	Kurumi	"Hmhmhm. It can't be helped. Maria-san, I
+will split my cake with you. That way, we
+can enjoy a range of flavors, eh?"	
+Message	Kaguya	"Heh heh. If that's the case, I'll give you a
+portion of my parfait as well."	
+Message	Maria	"Splitting...? You mean, assigning what you
+ordered to everyone else. I see. That would
+reduce the need for choices then."	
+Message	Kurumi	"Yes, you got it. In exchange, we'll sample
+whatever you order as well, Maria-san."	
+Message	Kaguya	"Heh heh. It's an equivalent exchange, then.
+If we all choose something different and split
+it, we'll be able to enjoy an array of treats!"	
+Message	Miku	"There are six people here today, which means
+we can select up to six desserts～."	
+Message	Maria	"Even the exchange itself sounds fun. Then,
+I will choose the brioche des rois, based on
+Shido's description."	
+Message	Shido	Okay then. So... Tohka, have you decided?	
+Message	Tohka	"Yes! I have decided as well, Shido! Please
+call the manager!"	
+Message	Shido	"Whoa, hey! You only do that when you have
+a complaint. The attendant will come over..."	
+Message	None	"(I'm glad everyone was able to decide.
+Without their teamwork, no one would
+have chosen.)"	
+Message	Shido	Now then, looks like we're all set.	
+Message	None	"(When their orders arrived, the girls began
+sharing the sweets and tasting as they pleased.)"	
+Message	Maria	"I was correct to ask you, Shido. This is very
+delicious."	
+Message	Shido	"I see. That's good. Oh, do you want to try
+my chocolate cake, too?"	
+Message	Maria	"If you do not mind, Shido, then I would like
+to."	
+Message	Kurumi	Then, I shall share my cheesecake with you.	
+Message	Miku	Have some of my pancake～.	
+Message	None	"(Everyone's desserts were piling up in front
+of Maria.)"	
+Message	Maria	"Everyone, thank you kindly. All of them were
+truly delicious. Also, I feel strange..."	
+Message	Shido	Strange...?	
+Message	Maria	"Yes. Nothing has happened, but I am having
+more fun than usual, or I am happier... It is
+a difficult emotion to explain."	
+Message	Shido	"That’s probably because you're eating with
+everyone here. Food even tastes better when
+you're laughing and dining with friends."	
+Message	Maria	Together... with everyone?	
+Message	Kaguya	"Indeed. We have shared from the same
+offerings of food. This is how alliances
+are formed."	
+Message	Kurumi	"In other words, it means we are friends. Isn't it
+wonderful, to spend time and converse like this?"	
+Message	Miku	"That's right. That's right～. From today on,
+I'm your friend too, Maria-chan～."	
+Message	Tohka	Of course! Me as well, Maria! We are friends!	
+Message	Maria	F...Friends...	
+Message	Shido	"That's right. These are people you can talk
+and hang out with any time."	
+Message	Maria	Of course... I understand that much.	
+Message	Shido	Ah. Right, of course.	
+Message	Maria	"But I see... These... are friends.
+I believe I have come to understand more."	
+Message	Miku	"So, what's next on the agenda～? Wanna
+look around at more shops?"	
+Message	Shido	"Today, I planned to go wherever you wanted
+to go, Maria. Is there anything else you wanted
+to see?"	
+Message	Maria	"Um, there is one place I wish to go, Shido.
+I hope this does not come off as rude, but
+is it okay if I take some of Shido's time?"	
+Message	Kurumi	"My, Maria-san. How bold. I know my answer,
+but what does everyone else think?"	
+Message	Kaguya	"Ha. Today is a celebration of our bond forming,
+Maria. I must grant the wish of my brethren."	
+Message	Tohka	"Hrm, since today is nearly over, it cannot be
+helped. Maria, please look after Shido!"	
+Message	Maria	Okay!	
+Message	Shido	"Why am I the one who needs to be looked
+after? Anyway, thanks for coming out today,
+everyone."	
+Message	Miku	"Today was a blast～. Maria-chan, let's do
+it again sometime. Even time without darling
+can be bearable."	
+Message	Maria	Yes, I would like to.	
+Message	Shido	"So where's this place you wanted to go?
+Can we head there right now?"	
+Message	Maria	"Do not worry. It isn't far from here.
+Now then, let us go, Shido."	

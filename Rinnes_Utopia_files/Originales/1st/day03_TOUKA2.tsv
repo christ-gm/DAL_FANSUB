@@ -1,0 +1,198 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(I somehow ended up on a walk alone... I should
+have invited Tohka out so we could have
+gone together.)"	
+Message	None	"(It seemed like Tohka was kind of
+depressed, too...)"	
+Message	None	(All right, I guess I'll turn around.)	
+Message	Shido	Hey, Tohka! Could you please come here a second?	
+Message	Tohka	Hm? What is it, Shido? Are you going out?	
+Message	Shido	"Yeah, just taking a walk. If you're up for it,
+would you like to go together? It'd be a good
+change of pace."	
+Message	Tohka	Yes! If you are going, Shido, then I will go too!	
+Message	Shido	Then let's go wander around.	
+Message	Tohka	Yes.	
+Message	Shido	"Now then, we've headed out in no particular
+direction. Where should we go?"	
+Message	Tohka	Is there any place you'd like to go, Shido?	
+Message	Shido	Somewhere I'd like to go, huh...?	
+Message	Shido	Oh, do you want to go to that park over there?	
+Message	Tohka	The park?	
+Message	Shido	"Yeah, it's surprisingly quiet and nice.
+I used to come here a lot with Kotori to play."	
+Message	Tohka	I see. Let's try going, then.	
+Message	Shido	All right.	
+Message	Shido	Now that we're here, what should we do?	
+Message	Tohka	How did you used to play with Kotori?	
+Message	Shido	"Let's see. We used to build sandcastles, sit
+together on the same swing and get in trouble,
+or slide down the slide upside-down."	
+Message	Shido	"We did so much, I can barely remember it all.
+I'm feeling really nostalgic..."	
+Message	Tohka	"I see. Then today, the two of us
+can play together!"	
+Message	Shido	A-All right. Then...	
+Choice		Ride the swings.	
+Choice		Slide down the slide.	
+Message	Shido	Let's get on the swings.	
+Message	Tohka	Hmm, are those the swings?	
+Message	Shido	"What? Is it your first time, Tohka?
+Ah, I suppose that's right..."	
+Message	Tohka	Hm! D-Do you not like that it is my first time?	
+Message	Shido	"No! It's nothing like that!
+A-Anyway, try getting on.
+It's easier than it looks."	
+Message	Tohka	Hm, I sit here, right?	
+Message	Shido	"Er, ummm... Tohka? It's not like
+riding a horse, so you don't straddle it;
+you look this way and sit on it like a chair."	
+Message	Tohka	Hmm, then like this.	
+Message	Shido	"Yeah, that's right. So first, I'll push you from
+behind. Once you get enough momentum,
+I'll let go, okay?"	
+Message	Tohka	Yes, I understand!	
+Message	Shido	Here we go! Ready, set...	
+Message	Tohka	Ohhh! This is a wonderful feeling, Shido!	
+Message	Shido	Then I'll push a little harder! Here!	
+Message	Tohka	"Ooohh! It feels even better than before!
+It almost feels like I'm floating in the air!"	
+Message	Shido	Haha, it's fun, right? I'll let go now, okay?	
+Message	Shido	"After that, you can gain more momentum with
+your feet. I'll sit on the one beside you. Let's
+see who can swing higher!"	
+Message	Tohka	......	
+Message	Shido	Hm? T-Tohka... what's wrong?	
+Message	Tohka	"Sh-Shido, you and Kotori used to sit on this
+together, didn't you?"	
+Message	Shido	"Huh...? Er, well, that was when Kotori was still
+small... If two high school students were sitting
+on the same swing together, it―"	
+Message	Tohka	"Y-You could swing with Kotori,
+but you can't with me?"	
+Message	Shido	Oof...	
+Message	None	"(Hm... neither of us is that heavy so... maybe
+it'd be okay?)"	
+Message	Tohka	"Grrr... Why is it with Kotori, and not me??
+C-Could it be that you don't want to sully
+the memory with anyone else?!"	
+Message	Shido	W-Wait just a sec! Where'd you get that from?!	
+Message	Tohka	"Hmph! If that's not the case, then you wouldn't
+mind riding it together like you did with Kotori,
+right?"	
+Message	None	"(At this rate, even though it was a nice date,
+Tohka's mood might get worse if I don't go
+along with it...)"	
+Message	Shido	Hmm? Kannazuki-san?!	
+Message	Kannazuki	"Shido-kun, it seems as though you're in a\ntough spot. Am I right?"	
+Message	Shido	Huh?	
+Message	Kannazuki	"Pardon my intrusion. I was observing Tohka-san\nfrom the monitor over here. Is there some sort\nof trouble?"	
+Message	Shido	Actually...	
+Message	Kannazuki	"What's the big deal? Couples use swings all the\ntime to spice things up! I hear it's terrific when\nused as a reward. Wouldn't you agree, Shido-kun?"	
+Message	Kannazuki	"If possible, I would wish to effectively utilize\nthe chain portion of the swing while riding\ntogether, but―"	
+Message	Shido	"No, Kannazuki-san, please stop talking about that!
+I'm just not sure whether I should ride together
+with Tohka..."	
+Message	Kannazuki	"Ah, right. Still, I see no reason to worry over\nit. It should be a simple, 'Hey you, ride\nwith me.'"	
+Message	Kannazuki	"Her stress levels have risen in the time you've\nkept her waiting. If you refuse now, you should\nprobably prepare yourself for the rampage."	
+Message	Shido	Huh?	
+Message	None	(That has to be a joke, right?)	
+Message	Kannazuki	"You don't have much time, you know."	
+Message	Kannazuki	"Now, then... It's become necessary for me to\ndevise a plan to get the commander to swing with\nme in such a fashion, so I will take my leave."	
+Message	Kannazuki	"One last thing, Shido-kun... Know that the\nimpossible can become possible."	
+Message	None	(M-Maybe I should stop asking him for advice...)	
+Message	Tohka	"Shido, who was that? No, that doesn't matter...
+If you're finished talking, then hurry and get on!"	
+Message	Shido	Ummm...	
+Choice		All right! Let's ride it together!	
+Choice		We'd better not.	
+Message	Shido	All right. Then... Let's try it.	
+Message	Tohka	Ohhh! Really?! Then here, you sit down first!	
+Message	Shido	R-Right.	
+Message	Shido	―Urgh! T-Tohka?!	
+Message	Tohka	Y-You idiot! H-Hurry, move the swing!	
+Message	Shido	R-Right... Hold on tight, okay?	
+Message	Tohka	Y-Yes...	
+Message	Shido	T-Tohka, are you okay? Are you scared?	
+Message	Tohka	No, I'm not scared. Even faster is fine!	
+Message	Shido	All right, just don't get thrown off, okay?!	
+Message	Tohka	R-Right!	
+Message	None	"(With each swing, a smell of shampoo came from her
+hair. Her soft weight on my thighs and the warmth
+between our chests increased our heartbeats...)"	
+Message	None	"(It was strange, I felt both nervous and
+reassured. I suppose... it felt like I became one
+with Tohka. It was a very comforting feeling...)"	
+Message	None	(I hope Tohka feels the same way...)	
+Message	Tohka	"Shido, swinging on the swing was quite a
+wonderful feeling, wasn't it? Let's come
+here to ride it again."	
+Message	Shido	I-I see. If you had fun, Tohka, then I'm glad.	
+Message	Tohka	Hm... W-Was it not fun for you, Shido?	
+Message	Shido	"N-No, it's not like that. It's been a while since
+I've ridden a swing, so I felt like a kid.
+It was fun."	
+Message	Tohka	Hmm. I see. Then I'm glad, too!	
+Message	None	"(Whew... It looks like Tohka is happy. It was a
+good thing I went all in and rode it with her...)"	
+Message	Tohka	Hmm! Let's head home; I'm starting to get hungry.	
+Message	Shido	"Haha. That time already, huh?
+All right, let's go home."	
+Message	Shido	"W-We probably shouldn't. The swing is for
+children, so if high-schoolers like us got on it
+together, it might break..."	
+Message	Tohka	Hm... I see. Then it can't be helped...	
+Message	Tohka	"I will ask just in case. It's not like you don't
+want to ride it with me, yes?"	
+Message	Shido	"Of course! If we could, I would totally want to!
+ASAP! Now!"	
+Message	Tohka	Hmm! Then it is fine!	
+Message	None	(Whew...)	
+Message	None	"(After that, we got on different swings, and had
+fun competing to see who could swing higher.)"	
+Message	Tohka	"Shido, swinging on the swings was quite a
+wonderful feeling, wasn't it? Let's come
+here to ride them again."	
+Message	Shido	I-I see. If you had fun, Tohka, then I'm glad.	
+Message	Tohka	Hm... W-Was it not fun for you, Shido?	
+Message	Shido	"N-No, it's not like that. It's been a while since
+I've ridden a swing, so I felt like a kid.
+It was fun."	
+Message	Tohka	Hmm. I see. Then I'm glad, too!	
+Message	None	"(Whew... It looks like Tohka is happy. It was a
+good thing I came here with her...)"	
+Message	Tohka	Hmm! Let's head home; I'm starting to get hungry.	
+Message	Shido	"Haha. That time already, huh?
+All right, let's go home."	
+Message	Shido	All right! Let's play on the slide!	
+Message	Tohka	Ohhh! The one where you slide upside-down!	
+Message	Shido	"No... That's not actually the way you're supposed
+to slide. In fact, good girls and boys shouldn't
+do it like that."	
+Message	Tohka	"Why is it wrong? You slid that way with Kotori,
+didn't you?"	
+Message	Shido	"Well, yeah, but. That was when we were kids...
+And we were still little..."	
+Message	Tohka	"All right, I will slide the same
+way you and Kotori did!"	
+Message	Shido	H-Hey! Tohka! Just wait a sec!	
+Message	Tohka	"Hm. I just have to be upside-down from this point,
+correct?"	
+Message	Shido	T-Tohka! Stop! It's dangerous!	
+Message	Tohka	"Hmm! I said I will slide, so I will slide!
+You can stay there and watch, Shido! Here I go!"	
+Message	Shido	―Whoa, hey!	
+Message	Tohka	W-Whooooa!	
+Message	Tohka	Gah...!	
+Message	Shido	"Tohka! Whoa! Hey, are you okay?! Y-You're in a
+pretty rough position...!"	
+Message	Tohka	Hmm...?	
+Message	Tohka	Wh-Wh-Wha-Wha-What are you thinking, Shido?!	
+Message	Shido	No! I-I'm not thinking anything!	
+Message	Tohka	"R-Really?! Y-You're not thinking of
+anything indecent..?!"	
+Message	Shido	I-I promise I'm not!	
+Message	Tohka	"If you really insist, Shido,
+then I'll believe you."	
+Message	Shido	L-Let's... go home for today.	
+Message	Tohka	Y-Yes...	

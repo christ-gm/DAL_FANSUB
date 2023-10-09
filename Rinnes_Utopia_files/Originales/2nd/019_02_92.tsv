@@ -1,0 +1,255 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Okay, so Maria went to the next classroom over,
+but... I'm worried.)"	
+Message	None	"(I hope nothing bad will happen. I can't focus on
+class like this.)"	
+Message	Students	*Bustle*	
+Message	Shido	Is that... noise coming from next door?	
+Message	???	"S...do... Shido!
+Requesting, Shido. Please respond..."	
+Message	Shido	Hm... Yuzuru, is that you?	
+Message	Shido	"Wh-What's the matter, Yuzuru? What's happening
+in the other class?"	
+Message	Yuzuru	Request. Shido, please come over. Arusu is...	
+Message	Shido	"I knew it. Got it, I'll be over right away. You go
+on ahead."	
+Message	Yuzuru	Roger. I'll be waiting for you.	
+Message	Shido	Tohka. Sorry, but I need to ask you a favor.	
+Message	Tohka	"...Huh? I wasn't sleeping, I was just closing
+my eyes!"	
+Message	Shido	"Calm down, Tohka. It's me. I have a favor to ask
+you, so please hear me out."	
+Message	Tohka	Oh, Shido. What's the matter?	
+Message	Shido	"Seems like Maria did something next door. I'm
+going to go check in on her, so can you keep a
+Takadai for me while I'm gone?"	
+Message	Tohka	Sure, go on ahead.	
+Message	Shido	Thanks, Tohka.	
+Message	Shido	All right, I have to head next door.	
+Message	Shido	Yuzuru, tell me what's going on.	
+Message	Kaguya	"Hehe... Shido, my faithful servant. You have
+finally arrived. If you wish to know what's going
+on, it will be faster to see for yourself..."	
+Message	None	"(Faster to see for myself? Uh, Maria is...
+There she is.)"	
+Message	None	"(She's in the back listening to class. Oh, not
+that big of a deal.)"	
+Message	Maria	Excuse me, Okamine-sensei. I have a question.	
+Message	Students	*Commotion*	
+Message	None	"(Oh, seems like she has a question. But why's
+everyone making so much noise?)"	
+Message	Tamae	Yesss... What is it, Arusu-saaan...?	
+Message	Maria	"About what you mentioned earlier, I believe there
+is a mistake."	
+Message	Tamae	N-Not again... That's the textbook's fault...	
+Message	Shido	Ah... I see.	
+Message	Yuzuru	"Affirmative. This is exactly it. Can you do
+something about it?"	
+Message	Shido	W-We need to stop Arusu, don't we...?	
+Message	None	"(I tried to not get caught by other students, and
+snuck over to where Maria was standing in the
+back.)"	
+Message	Shido	"Arusu, you can't. Don't point out the errors
+in the textbook."	
+Message	Maria	"I had a feeling that was the case. I heard you can
+point out errors in the form of a question, but
+I couldn't get a good response during my testing."	
+Message	Shido	"I see... This isn't good. But I know I was the one
+who told you to participate, so I want to figure
+something out for you."	
+Message	None	"Hm... What can we do? Maybe I can ask for
+someone's cooperation..."	
+Choice		Ask Kotori to help.	
+Choice		Ask the Yamai Sisters to help.	
+Choice		Ask Miku to help.	
+Message	Shido	"Kotori's always dependable in times like these.
+She's always supporting me from the Fraxinus."	
+Message	None	"(Although, if Kotori's been here all along, then
+shouldn't she have handled it? What's my little
+sister doing?)"	
+Message	Shido	Uh, where's Kotori?	
+Message	Shido	"There she is. She's focusing. I wonder what she's
+doing..."	
+Message	Shido	Hey, Kotori. What are you doing... Hey!	
+Message	Kotori	Oh, Onii-chan. You can't look yet.	
+Message	Shido	"Now isn't the time to be putting lipstick on
+Hideyoshi! You're making the people look like
+they're working at Nichome!"	
+Message	Kotori	Gosh, you're so annoying.	
+Message	Shido	"What? This is an emergency. Can you return to your
+black ribbon form?"	
+Message	Kotori	Finnnee.	
+Message	Kotori	Jeez Shido, what's your problem?	
+Message	Shido	Already so mean?! And this is my fault?	
+Message	Kotori	"Let me ask you this. Why are you leaving Arusu to
+her own devices?"	
+Message	Shido	"No, it's just... I thought she'd be fine because
+you'd be here."	
+Message	Kotori	"Arusu is observing things centered around you.
+You know that, right?"	
+Message	Shido	Yeah...	
+Message	Kotori	"Then you should be as close to her as you can.
+Besides, if you can deal with problems as they
+arise, maybe your "romance" points will go up."	
+Message	Shido	Is that how it goes?	
+Message	None	"(But that doesn't mean Kotori should be doodling
+on historical figures.)"	
+Message	Kotori	Whatever. Anyways, bring Arusu over.	
+Message	Shido	Okay.	
+Message	Kotori	"Don't "okay" me. Shido, I'm going to have to brief
+you again on how to conduct yourself."	
+Message	None	(Oh no, Kotori's entering lecture mode...)	
+Message	Maria	Kotori Itsuka? What's the matter?	
+Message	Kotori	"Don't even start with that. I need to teach you
+some things, so sit down."	
+Message	None	"(At the end of the day, the great thing about
+Kotori is that she's always looking out for us.)"	
+Message	None	"(Maria and I had to ignore the class and listen to
+what Kotori had to say. Arusu seemed interested,
+so I guess it all worked out in the end.)"	
+Message	Shido	Oh, I have to go back now. Thanks, Kotori.	
+Message	Kotori	You owe me. Next time, deal with it yourself.	
+Message	Shido	Okay, got it. I can't always depend on you, huh?	
+Message	Kotori	As long as we're clear on that.	
+Message	Shido	All right... Let's go back, Maria. ...Maria?	
+Message	Maria	"Shido. I'm curious about something, so I'm going
+to leave the classroom for a little bit."	
+Message	Shido	"Hey. Wait, Maria...!
+She's gone..."	
+Message	Kotori	"Don't just hang your head like that. Hurry up and
+go after her."	
+Message	Shido	Okay, I will!	
+Message	None	"(I guess I could consult with Kaguya and Yuzuru.
+The three of us should be able to figure it out.)"	
+Message	Shido	Kaguya, Yuzuru, any good ideas?	
+Message	Yuzuru	Thinking. How can Arusu participate in class...?	
+Message	Kaguya	"Hehe... There's that secret we learned
+the other day."	
+Message	Yuzuru	"Surprise. Secret... Don't tell me you're going to
+use THAT, Kaguya."	
+Message	Shido	Oh, what is it? Do you have a plan? What is it?	
+Message	Kaguya	"Hehe... Shido may not know. But open your eyes and
+see. These are the Devil's notes!"	
+Message	Shido	"Oh...? Hey, Kaguya... This just looks like a cute
+character memo pad."	
+Message	Yuzuru	Agreed. It's very adorable.	
+Message	Kaguya	"Well, you wait and see. You write a sentence...
+Done. All right Shido, you take this."	
+Message	Shido	Uh, so this is... passing notes?	
+Message	Kaguya	Yes... A fun thing to do in class.	
+Message	Yuzuru	"Affirmative. We learned it the other day. It's
+thrilling and something that every student should
+know."	
+Message	Shido	No, you're just playing around!	
+Message	Kaguya	N-No good?	
+Message	Shido	Well, I guess it is something for her to learn...	
+Message	None	"(Although its value is pretty questionable, and I
+feel like we're leading her down the wrong path,
+this is the idea they've come up with.)"	
+Message	Shido	Oh, well. Let me give it to her, then.	
+Message	Kaguya	"Oh, Shido! A reply. We need her to reply. It's
+mandatory."	
+Message	Yuzuru	Agreed. Get a response for two.	
+Message	Shido	Okay, fine. I'll go over.	
+Message	Kaguya	Be careful, Snake.	
+Message	Shido	No, really not a snake...	
+Message	None	(Well anyways, I'm going to head over to Maria.)	
+Message	Shido	Maria. I have something for you.	
+Message	Maria	...Shido, what is this?	
+Message	Shido	"Uh... I guess doing secret things in class is part
+of being a student."	
+Message	Maria	I see. So what am I to do with this?	
+Message	Shido	"You read what's written inside and write a
+response. Once you're done, I'll take it back to
+them. Normally, you pass it around class."	
+Message	Maria	Understood. Give me a few moments.	
+Message	Shido	Okay...!	
+Message	None	(Uh... What am I doing...)	
+Message	None	"(In the end, I went back and forth among the
+three, delivering their notes throughout class.)"	
+Message	Kaguya	Hehe... Shido, good job.	
+Message	Yuzuru	Thank you. I appreciate it, Shido.	
+Message	Shido	"It was nothing. Anyways, what did you guys write?
+And what was Arusu's response?"	
+Message	Kaguya	"Oh, the contents written here are protected by
+the maidens' promise. I cannot disclose them, even
+to you."	
+Message	Yuzuru	Secret. We cannot tell.	
+Message	Shido	"Well, I guess... But I'm glad you guys were able
+to communicate with each other. I guess I'll
+take Maria back with me."	
+Message	Maria	Shido, you have a moment?	
+Message	Shido	Oh, perfect timing. What's the matter, Maria?	
+Message	Maria	"I'm curious about something. I'm going to leave
+the classroom for a little while."	
+Message	Shido	Hey, where are you going?!	
+Message	Shido	Jeez... Anyways, Kaguya, Yuzuru. See you later.	
+Message	Kaguya	Okay. Good luck.	
+Message	Yuzuru	Agreed. Good luck, Shido.	
+Message	Shido	Leave it to me!	
+Message	None	"(Hmm, maybe I can ask Miku to help me. I'm curious
+what she'd come up with, anyway.)"	
+Message	Shido	Miku, you got a moment? I need to ask you a favor.	
+Message	Miku	"Oh, darling? What is it? We're in the middle of
+class～"	
+Message	Shido	"Yeah, I heard Arusu was causing problems. I want
+her to find a way to participate in class. Do you
+have any ideas?"	
+Message	Miku	"Participate in class? Gosh, darling, I thought you
+came to visit me, and instead you're talking about
+her?"	
+Message	Shido	A-Anyways... Can you lend me a hand?	
+Message	Miku	"Very well. Since you're the one asking, I will
+help. Buuuut..."	
+Message	Shido	But?	
+Message	Miku	"I personally feel like she doesn't have to force
+herself to study～"	
+Message	Shido	Well, but that's not right.	
+Message	Miku	"Well, I mean listening in class and taking notes
+is such a bore."	
+Message	Shido	"Well, it is, but... Hey, Miku...? Out of
+curiosity, how are you in class usually?"	
+Message	Miku	What are you talking about?	
+Message	Shido	"You know... How are you able to get through class
+and tests?"	
+Message	Miku	"That's easy. I ask the girls around me.
+"	
+Message	Miku	"Huh...? What's the matter, darling?
+You look scary."	
+Message	Shido	No, I was just thinking about what you said...	
+Message	Miku	"Well I have my idol duties. So the teachers let me
+slide～"	
+Message	Shido	"Well that may be true, but... I think you should
+participate in class too, then."	
+Message	Miku	What?! I couldn't possibly!	
+Message	Shido	"No talking back! I'm going to bring Maria too, so
+open up your notebook."	
+Message	Miku	Gosh, you're such a meanie, darling...	
+Message	Maria	Shido... What should I do?	
+Message	Shido	"I'm going to help you guys with the class. Well,
+I'm not a real teacher, so I have my limitations,
+but... Miku, especially you, brace yourself."	
+Message	Miku	A-Ahhhh! 	
+Message	None	"(In the end, I realized that Miku wasn't too
+bright, so I tutored them both. Now I don't ask
+why she's in my class in the virtual world.)"	
+Message	Miku	Wahhh, darling, you're such a meanie.	
+Message	None	"(Well, Arusu copied Miku and took notes. She
+seemed interested in something new, so I guess
+it worked out fine.)"	
+Message	Shido	"I think I'll have to check in on you from time to
+time, Miku."	
+Message	Miku	"Very well. If you're going to check my studies,
+then I will work a little harder."	
+Message	Shido	Okay, fine.	
+Message	Miku	Oh, and also be sure to give me a kiss for trying.	
+Message	Shido	That's a no.	
+Message	Miku	Gosh, darling. You're always so bashful.	
+Message	Maria	"Shido, I'm curious about something, so I will be
+leaving the classroom for a little while."	
+Message	Shido	Wait, Maria! Oh, there she goes.	
+Message	Miku	"Shouldn't you go back soon, darling? The next
+class is about to start."	
+Message	Shido	"Crap, you're right. And... I also need to bring
+Maria back. Anyways Miku, I'll be leaving now."	
+Message	Miku	Okay. Come visit me again soon, darling.	

@@ -1,0 +1,264 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(After classes were finished for the day, I wrapped up
+my after-school duties.)"	
+Message	Shido	"I have to cook dinner, so I guess I'll drop by the
+market before going home."	
+Message	None	"(Oh, but if Rinne went before me, then we might
+double-up on groceries. I could give her a call to
+check.)"	
+Message	Shido	...She hung up?	
+Message	None	(Hm. I wonder if she's inside the market already?)	
+Message	Rinne	Hey, Shido.	
+Message	Shido	"Rinne?! Were you waiting for me? Sorry for keeping
+you."	
+Message	Rinne	"Oh, don't worry about it. I just decided to wait on my
+own. I figured we should go together. And I was talking
+the whole time, so I wasn't bored at all."	
+Message	Shido	Talking? Is someone waiting with you?	
+Message	???	BAH!	
+Message	Shido	AH?! Wha-What—?!	
+Message	Maria	Shido, you are quite theatrical.	
+Message	Shido	"...Oh, it's you, Maria. Were you the one talking with
+Rinne?"	
+Message	Maria	Yes, that was me. I was sharing information with her.	
+Message	Shido	Sharing information...?	
+Message	Rinne	I asked her what happened while I was gone.	
+Message	Maria	And I also asked about Rinne.	
+Message	Shido	I see. You two sure got close.	
+Message	None	"(Rinne doesn't know anything that's happened
+recently. Maria doesn't know Rinne. I guess they'd
+have a lot to talk about.)"	
+Message	None	"(I feel a little emotional because I never thought
+there'd come a day where the two would be laughing
+with one another.)"	
+Message	Maria	I'm sensing a fatherly gaze from Shido.	
+Message	Shido	Huh?	
+Message	Rinne	"Yeah, it feels that way. Although our eyes are
+meeting, it looks like you're seeing something far
+away..."	
+Message	Shido	"N-No, no. It's not like that. I just finished up, so
+let's hurry and go to the market."	
+Message	Maria	"...I am unsatisfied with that answer, but sure. We
+also must consider the time required to prepare
+dinner."	
+Message	Rinne	"Then Shido, you have to hurry up and get ready to go
+home."	
+Message	Shido	Oh, hang on a bit.	
+Message	Maria	"It feels like just the other day, but I'm already so
+nostalgic."	
+Message	None	"(Maria walked merrily in front of me and was happily
+looking around her.)"	
+Message	Shido	You look like you're having fun, Maria.	
+Message	Maria	"Yes. I never imagined that I could walk through this
+town on my own two feet again."	
+Message	Shido	"But don't do anything dangerous, okay? There are
+cars here, you know."	
+Message	Maria	"You don't need to tell me that. Shido, you are so
+overprotective."	
+Message	Rinne	Hehe... You two are like brother and sister.	
+Message	Maria	Rinne. Please take back that statement.	
+Message	Rinne	Huh?	
+Message	Maria	"I am not a little sister to Shido. I will never be.
+Right, Shido?"	
+Message	Shido	O-Oh... Yeah, I guess.	
+Message	None	"(Come to think of it, we had a similar conversation
+before. I remember she pouted because I didn't treat
+her like a girl.)"	
+Message	Maria	"A little sister can be precious, but can never become
+a girlfriend."	
+Message	Rinne	"I see... Maria-chan, you want to become Shido's
+girlfriend, huh?"	
+Message	Maria	Yes. Shido and I have already kissed.	
+Message	Shido	Hey! Maria-san?!	
+Message	None	(It's true, but her statement can be misleading.)	
+Message	Rinne	Hehe... Then I'm rooting for you, Maria-chan.	
+Message	Maria	Rinne, are you...?! 	
+Message	Rinne	The old me would have said that.	
+Message	Maria	Huh?	
+Message	Rinne	"But sorry. I can't get myself to say that right now...
+I want to be with Shido, too. I want to be the most
+important person to him. Even if it's just a dream."	
+Message	None	"(Her words felt like nails being driven inside me. I
+should have known about Rinne's feelings. And how
+she's not good at expressing herself...)"	
+Message	Rinne	"So I can't give him to you... No, not to Tohka-chan,
+Tobiichi-san... No one. I don't want to give him up.
+That's how I feel."	
+Message	Rinne	Hahah... I wonder why.	
+Message	Rinne	"Before, I used to think that as long as Shido was
+happy, I was fine... I really thought that. How weird.
+I... I feel like I'm not my usual self."	
+Message	Maria	You're not weird.	
+Message	Rinne	Huh...?	
+Message	Maria	"Of course it's not weird. It's only natural you want
+to be with the person you love. That is what "love"
+is."	
+Message	Rinne	Maria-chan...	
+Message	Rinne	"Yeah... You must be right. It has to be...
+I want to be by Shido's side."	
+Message	Rinne	"Haha... I wonder why I wasn't able to say such a
+simple thing all this time. Why... did it take me
+so long?"	
+Message	Shido	Rinne...	
+Message	Maria	"Now that you've realized your feelings, we are now
+officially rivals, Rinne.
+"	
+Message	Maria	I won't lose to you or the others.	
+Message	Rinne	Yeah... I won't lose, either.	
+Message	Maria	Okay. Hehe.	
+Message	Rinne	Sure. Ahaha.	
+Message	None	"(The two looked at one another and started to laugh.
+The heavy air from earlier was gone, and it seems like
+they're back to their usual selves.)"	
+Message	Shido	All right. Then let's head to the market.	
+Message	Rinne	.....	
+Message	Maria	.....	
+Message	Shido	Wh-What's wrong, you two?	
+Message	Maria	Let's go, Rinne.	
+Message	Rinne	Sure, let's go.	
+Message	Shido	H-Hey! What's up with you guys?!	
+Message	None	(Did I say something?)	
+Message	Rinne	"Come to think of it, I think you're almost out of soy
+sauce, Shido."	
+Message	Shido	"Oh, you're right. I think we'll use a lot of it today, so
+why don't we buy two big ones..."	
+Message	Maria	"If you want soy sauce, then we're going to have to
+go over there. If you're not particular on brands, the
+light value seems cheaper."	
+Message	Rinne	"Maria-chan, can I have you bring the Cookman? It's a
+bit expensive, but Shido usually buys it."	
+Message	Maria	Is that true?	
+Message	Shido	"Yeah. Well, we do buy other brands from time to time,
+but I do often buy Cookman."	
+Message	Maria	"I see... I'm sorry, Shido. I never had to think about
+this before."	
+Message	Shido	"It's not like I'm particular, though. The taste of your
+dishes can change when you change the soy sauce
+brand, so I do like to change brands sometimes."	
+Message	Maria	"I see. I was able to learn more things about you,
+Shido."	
+Message	Shido	It's not that big of a deal.	
+Message	Rinne	"Yeah, Maria-chan. If you cook at Shido's place,
+you'll come to learn these things."	
+Message	Maria	"I feel like I just lost, hearing you tell me this,
+Rinne."	
+Message	Rinne	"Gosh, it's not like that. This soy sauce is fine. So
+what's left...?"	
+Message	Maria	It may be good to purchase fruits.	
+Message	Shido	"Ah, you have a point. I'm starting to get tired of
+baking dessert."	
+Message	None	"(When we first entered the market, both Rinne and
+Maria seemed to be in a bad mood but as we
+discussed what to make, things returned to normal.)"	
+Message	None	"(Seems like there's still a hint of rivalry, but that much
+is something my heart can handle, so I'm happy.)"	
+Message	Maria	"A fruity vegetable would be tomato. It's often used as
+a dessert, too. Additionally, the color component
+lycopene has various health benefits."	
+Message	Shido	Well, that sounds good. Let's buy some tomatoes.	
+Message	Rinne	"Wait a minute. Peaches are on sale. What do you
+think? Although it may be a bit off-season, it still
+looks really good."	
+Message	Shido	"Peaches, huh? It's true that we don't usually have
+them at home. You want to go with that?"	
+Message	Maria	"But as Rinne stated earlier, peaches are in season
+during the summer. I can say that this time, there
+will not be much flavor to them. I suggest tomatoes."	
+Message	Shido	"Well you have a point. It's probably on sale because
+it's off-season. Hmm, now I'm not sure."	
+Message	Rinne	"I understand where Maria-chan is coming from, but I
+think Tohka-chan would enjoy sweet peaches rather
+than tomatoes."	
+Message	Maria	"Rinne, there are also plum tomatoes. You can enjoy
+the sweetness as if it's a fruit."	
+Message	Rinne	"But a plum tomato is pretty pricey, right? I don't
+think there's a need to buy something so expensive."	
+Message	Maria	"Shido likes to try new things, so I don't see a
+problem with it. I don't think he's ever had a plum
+tomato before. Right, Shido?"	
+Message	Shido	"Yes, that's true, but... It's not like I want to force
+myself to eat it―"	
+Message	Maria	Hm...	
+Message	None	(I sense a sharp gaze...)	
+Message	Shido	Well, I guess it's worth trying.	
+Message	Maria	Right. I knew you'd say that, Shido.	
+Message	Rinne	"But Shido is also very frugal. See? Look Shido, this
+is half the usual price. It's a good deal."	
+Message	Shido	"It's true it may be a good deal, but you don't have to
+be so gung-ho over the peaches..."	
+Message	Rinne	...Hm?	
+Message	None	(I sense a strong sense of pressure from Rinne...)	
+Message	Shido	"Well, I guess when it's on sale, it'd be a shame not to
+buy it."	
+Message	Rinne	Right? I mean, you're a good shopper like I am, Shido.	
+Message	Maria	Hmmm.	
+Message	Rinne	Hehe...	
+Message	None	(Why does it feel so cold suddenly...)	
+Message	Shido	"Hey, you two, it's not like it has to be either-or, so
+why don't we buy both?"	
+Message	Rinne & Marina	Oh...	
+Message	None	"(We finished grocery shopping and headed home.
+Maria and Rinne had two bags and I had four. We
+ended up buying a lot of things.)"	
+Message	Shido	But... we sure bought a lot. Can we eat all of this?	
+Message	Rinne	"Well we have a lot of big eaters, so I'm sure we'll be
+fine. If you're worried, do you want to call
+Tonomachi-kun over?"	
+Message	Shido	"No, we don't have to call him. If we did, he'd be
+really annoying..."	
+Message	Rinne	Hahaha... If he heard that, he'd cry.	
+Message	Shido	"Let him cry. Well, if we have any leftover
+ingredients, we can think of the menu for tomorrow."	
+Message	Maria	"Then I will think up of the ultimate recipe. I suppose
+I can consider a variety of choices so that I can be
+ready for any ingredients to be left."	
+Message	Rinne	Then let me help. Let's think about it together.	
+Message	Maria	Right. If you're with me, I'll feel more at ease.	
+Message	Shido	Seems like I don't need to be here.	
+Message	Rinne	Probably not.	
+Message	Maria	I agree.	
+Message	Shido	Y-You guys don't have to be that direct...	
+Message	None	"(It's as if I'm in the way. Sometimes these two are
+competing, and other times they're close. I feel like
+it's odder than Tohka's and Origami's relationship.)"	
+Message	Rinne	"Well if Maria-chan and I are here, then you won't have
+to worry about cooking."	
+Message	Maria	"Yes. We can prepare an even more delicious meal than
+you, Shido."	
+Message	Shido	"Well, that may be true but I'm starting to lose my
+position..."	
+Message	Maria	"Hehe... Now don't look like a lost puppy, Shido. We're
+not saying this to be mean."	
+Message	Rinne	"You see, when you were paying earlier, Maria-chan
+and I were talking. So we decided that we're going to
+help you."	
+Message	Shido	Help... me?	
+Message	Maria	"Yes, assistance to live in this world. Shido, you have
+the tendency to ball up everything on your own..."	
+Message	Rinne	"We can't get you out of this world currently. But...
+That's more of a reason that I want to do everything
+I can."	
+Message	Shido	You guys...	
+Message	Maria	"Other than us, no one else has realized that
+something is off. So you can rely on us more."	
+Message	Rinne	"Yeah. It's painful for us to see you always stressed
+out."	
+Message	Shido	"....Oh. Thanks. I'll depend on you guys when the time
+comes."	
+Message	None	(With that, I started to walk faster.)	
+Message	Maria	...Shido, what's the matter?	
+Message	Rinne	Maybe he felt a bit embarrassed?	
+Message	None	"(Rinne's voice from behind wasn't off. I was a bit shy
+about it. But something else was on my mind.)"	
+Message	None	"(I've ended Eden once. Same goes for Maria's virtual
+reality world.)"	
+Message	None	"(This dream, the fake scenery of non-reality. Is this
+a dream that I have to wake up from?)"	
+Message	None	"(Rinne said before that we should feel happiness in
+this world. The me of the past would have immediately
+said... "That's wrong.")"	
+Message	None	"(But now, there's a side of me that doesn't think that
+way anymore. I'm starting to think that there may be
+another way.)"	
+Message	None	"(...I'm going to keep this to myself. I'm not ready
+yet.)"	

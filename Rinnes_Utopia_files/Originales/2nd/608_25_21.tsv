@@ -1,0 +1,119 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Mmm... Morning already.	
+Message	None	"(I woke up feeling very refreshed. I still can't
+believe that we're inside of a game.)"	
+Message	Shido	"If I'm not careful, I'll forget the difference.
+As well as why I'm in here in the first place.
+That's almost a compliment for the game."	
+Message	???	Zzz...	
+Message	None	"(As expected of a game made by Ratatoskr.
+It's almost a waste of technology.)"	
+Message	None	"(On top of that, time passes here faster than
+in the real world. Wouldn't that be helpful
+for when I'm forced to study...?)"	
+Message	Shido	"I feel like I read a manga about that recently.
+It was something and the "Room of Time,"
+I think."	
+Message	???	...Zzzz...	
+Message	None	(Hmmm...)	
+Message	Shido	"I should probably check in with the real
+world now. This bed is awfully comfy,
+but I think I hear someone close to me..."	
+Message	None	"(Just like yesterday, I felt a very soft
+sensation.)"	
+Message	Shido	This sensation. Could it be...?	
+Message	Shido	"Ahh, I knew it. I wonder if she crawled back
+in this morning. Or if it was when we went
+our separate ways last night."	
+Message	None	"(Even though I asked her not to before we went
+to bed...)"	
+Message	Shido	"Well, she didn't agree to it herself, so it's
+not her fault. Either way, I gotta wake up
+Maria. I don't want another freak-out."	
+Message	Shido	Hey. Wake up, Maria. I said wake up.	
+Message	None	(She won't wake...)	
+Message	Shido	"Maria, please wake up. It's morning.
+Please, open your eyes soon.
+Or else Kotori's gonna come in again."	
+Message	Maria	...Zzz...	
+Message	None	"(Hmm. Didn't seem to work. I'll either have
+to shake her or she won't wake. Here it goes...)"	
+Choice		Try shaking her awake.	
+Choice		Try poking her cheek.	
+Message	Shido	Hm... For now, I'll try shaking her.	
+Message	Shido	Maria, wake up.	
+Message	Shido	Mariaaa.	
+Message	None	"(Maria sure is light and soft. Just like a
+real girl.)"	
+Message	Shido	...Wha?! No no no!	
+Message	None	"(Damn it. Begone, evil thoughts! All I want
+to do is wake up Maria!)"	
+Message	Shido	Maria, please, wake up...	
+Message	Maria	Mm...mmm...	
+Message	None	"(I'm afraid of touching her body, so what
+should I do?)"	
+Message	Shido	"Hmm. I wonder if poking her cheek is okay.
+It's just her face, so I'm sure she'll wake up
+quickly... All right."	
+Message	None	"(I've made my decision. All I need to do
+is follow through.)"	
+Message	Shido	Here goes nothing... YAH!	
+Message	Maria	Mrgh...	
+Message	None	"(Oh. She reacted that time. Am I on the
+right track?)"	
+Message	Shido	All right. One more time. Oryah!	
+Message	Maria	Please...do not...Shido...	
+Message	Shido	"She's not fully awake, I guess. Is Maria
+dreaming?"	
+Message	None	"(Wait. Can Maria even dream in the first place?
+If she can sleep, I guess it isn't beyond the
+realm of possibility that she could dream.)"	
+Message	Shido	"Well, that's irrelevant. Anyways, I have to
+wake her. One more time!"	
+Message	Maria	Shido...you are...mean...	
+Message	Shido	"That pillow talk would be terrifying if someone
+were to overhear."	
+Message	None	"(It's no use. No matter what I do, she shows no
+sign of waking. In fact, I feel like this whole
+thing turned out weirder than I wanted it to.)"	
+Message	Shido	"Can't be helped. Guess I need my last resort.
+I wanted to avoid it at all costs, but..."	
+Message	None	"(There was only one way to do it. A technique
+that was sure to wake Maria.)"	
+Message	None	"(However, doing so would surely ruin Maria's
+restful sleep. It might even hurt. But I can't
+delay any longer. Maria, don't hate me!)"	
+Message	Shido	Here I go!	
+Message	None	"(Allow me to explain. This technique involves
+suffocating the target, only slightly, to jolt
+them awake. I'm only using blankets, though.)"	
+Message	Maria	"...Mmm?
+Mm, mrph, urf!"	
+Message	None	(Ah, is it working?)	
+Message	Maria	Ah. Whew. It seems as though I'm safe.	
+Message	Shido	Morning, Maria. You slept in.	
+Message	Maria	"Organizing all of that data took up time. It is
+much later than when I set my alarm to go off."	
+Message	Shido	"Well, I'm glad you're awake. Let's go to the
+living room and eat."	
+Message	Maria	It is already that time, I see. Understood.	
+Message	None	"(Maria looked at the clock, and seemingly
+understood the situation.)"	
+Message	Shido	"Listen, Maria. I need you to stop climbing
+into my bed from now on."	
+Message	Kotori	"Um, sorry to interrupt, but why are you two
+still in bed?"	
+Message	Shido	Kotori?!	
+Message	Maria	Good morning, Kotori Itsuka.	
+Message	Kotori	"Good morning, Arusu. And you too, Shido.
+I see she crawled in again, just like
+yesterday."	
+Message	Shido	Yeah. Seems like it.	
+Message	Kotori	"Well, I have no intention of throwing a fit,
+but take responsibility and watch after her,
+okay?"	
+Message	None	"(She shrugged and left, closing the door behind
+her.)"	
+Message	Maria	Shido, do we not have to go?	
+Message	Shido	Yeah. You don't have to ask, we're going.	
+Message	None	(Somehow or another, another day has begun.)	

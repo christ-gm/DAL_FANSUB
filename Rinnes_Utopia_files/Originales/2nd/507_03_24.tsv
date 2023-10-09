@@ -1,0 +1,238 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(...I wonder how much time has passed.)	
+Message	None	"(I feel like I've been staring at the ceiling for
+ages.)"	
+Message	None	"(I never knew how boring it was not being able to take
+a step outside of my bed...)"	
+Message	None	(How did this happen?)	
+Message	None	(Both hands in a cast... This is quite an injury.)	
+Message	None	"(It's been some time since the accident, but no one
+has come to visit me... I'm alone all day, every day.)"	
+Message	None	"(All I can do is sleep, but now that it's the only
+thing I do, it no longer comes easily to me.)"	
+Message	None	(I turned my head slightly to look around me.)	
+Message	None	(The scenery of the room doesn't change much.)	
+Message	None	"(I'm sick of looking at my room. Gosh, I wish someone
+would come visit...)"	
+Message	None	(My sister Kotori might, but...)	
+Message	Shido	Hey, Kotori. Are you there?	
+Message	None	(...)	
+Message	None	(...Well, of course she won't answer.)	
+Message	None	"(Gosh... it's so quiet... Isn't there anything
+to do...?)"	
+Message	None	(...?! I know! My cell phone!)	
+Message	None	"(I don't know how well I can use it, but I might be
+able to get a hold of someone.)"	
+Message	Shido	Oh, um... Is it around here?	
+Message	None	"(Oh, it's under the pillow. Even with the cast on,
+I feel like I can reach it if I try.)"	
+Message	None	"(Just a bit... just a bit more, and I'll be there...
+Good luck, me.)"	
+Message	Shido	Got it!	
+Message	None	(Hm? But this isn't my phone. Uh...)	
+Message	None	"(Hm. It seems to be a button... a switch for something.
+Why is this under the pillow?)"	
+Message	None	(Should I try... pressing it?)	
+Choice		Press it.	
+Choice		Don't press it.	
+Message	None	(All right, I'm going to press it.)	
+Message	None	(Yah!)	
+Message	Miku	Hey, heeey. Hello!	
+Message	Shido	Someone's here?! And she came right away!	
+Message	Miku	I'm a new nurse, just passing by～	
+Message	Shido	Just a passerby?!	
+Message	Miku	Please call me Miku, darling.	
+Message	Shido	Why are you calling me, darling?!	
+Message	Miku	"You seeee, I belong to a sect that calls all patients
+darling."	
+Message	Shido	That has nothing to do with sects!	
+Message	Miku	So what's the matter today, darling?	
+Message	Shido	Can you not keep going as if nothing happened?!	
+Message	Miku	"It'll be all right! Don't be afraid～ Let's take your
+temperature."	
+Message	Shido	Oh... Um, sure.	
+Message	Miku	"...My, you seem to have a fever. It's like... 98
+degrees."	
+Message	Shido	That's average!	
+Message	Miku	And you seem to be injured. Does it hurt～?	
+Message	Shido	"Huh? How can you not tell a patient's condition?!
+Are you really a nurse?!"	
+Message	Miku	Why yes, of course. Although just in passing.	
+Message	Shido	"I don't feel safe! And you're close! Too close for
+comfort!"	
+Message	Miku	"Okay, okay. No need to panic. I'll take good care of
+you."	
+Message	Shido	"How are you going to take care of me when you don't
+know how I'm doing?"	
+Message	Miku	"I will! I totally will. I mean, I'm an angel
+dressed in white～"	
+Message	Shido	That's impossible! Sorry, but can you try again...?!	
+Message	Miku	"Hmm. Then perhaps, eating first? I'm sure you can't
+eat like that."	
+Message	Shido	"You're not even listening to me! But it's nice to know
+you have a normal thought process."	
+Message	Miku	Hold on a minute, okay～	
+Message	Shido	What... What was all that about?	
+Message	Shido	"She claimed to be a nurse and that everything would
+be all right. I couldn't believe a word she said..."	
+Message	Shido	"And first of all, how did she even show up like that?
+It's too mysterious..."	
+Message	Miku	"Hey, hey. Sorry for the wait, darling～ It's time for
+your meal!."	
+Message	Shido	"Whoa, so fast?! She came back already?! And she
+brought some kind of hospital food?!"	
+Message	Miku	The angel Miku is going to feed you, okay?	
+Message	Shido	Hey... Close! Too close!	
+Message	Miku	Here you go, darling. Open wiiiiide.	
+Message	None	"*Grunt*... It smells so good... I can't endure this on
+an empty stomach."	
+Message	Miku	"Let's open up a lot more enthusiastically～
+Now, say ahhhh..."	
+Message	Shido	A-Ahh.... *nom*.	
+Message	Miku	Once it's in your mouth, be sure to chew a lot.	
+Message	Shido	*Nom*... *cough*...	
+Message	Miku	Very good. Now let's eat more～	
+Message	Shido	...?!	
+Message	Miku	Oh?	
+Message	Shido	"S-So spicyyyyyyyyyy! What the hell is this?! No way
+you'd be feeding this to someone who's bedridden."	
+Message	Miku	"Oh, dear me... I thought that was salt. I guess I
+messed up and put in chili paste... Tee-hee♪"	
+Message	Shido	"How do you mess that up?! No matter how cute you
+are, that's something I can't let slide."	
+Message	Miku	Booo. I'm sorry～ I haven't been a nurse for long.	
+Message	Shido	"That has nothing to do with you being new...
+*grunt*... *cough*.. anyways, I need water..."	
+Message	Miku	Here you go. I only have hot, though.	
+Message	Shido	Hot! It burns. It burns. I—	
+Message	Shido	—BAH! Is this some kind of torture?!	
+Message	Miku	Okaaay. So after water, open wide again～	
+Message	Shido	"No... Wait a minute. That's it! Yeah, I'm actually not
+that hungry."	
+Message	Miku	Is that so～ That's unfortunate～	
+Message	None	(It's unfortunate I can't eat an actual meal...)	
+Message	Shido	"During a time like this, I don't want to touch anything
+if I don't know what'll happen."	
+Message	Shido	Man... I'm so bored...	
+Message	Shido	Oh well... I guess I have no choice but to sleep.	
+Message	Shido	.....	
+Message	Shido	Hm?	
+Message	Shido	Oh, no...?	
+Message	Shido	I see a woman... I guess I'm starting to see phantoms.	
+Message	Miku	Um. Excuse me, I'm not a phantom.	
+Message	Shido	Hunh...?	
+Message	Shido	Wait... That's really a person....?	
+Message	Miku	Yes, I am～!	
+Message	Shido	When did you... Wait... Who are you?	
+Message	Miku	Oh me? I'm a nurse～	
+Message	Shido	"Nurse... Did someone call you over? I had no idea,
+but... what a relief... When did..."	
+Message	Miku	"You poor thing... Your memory must be hazy due to
+your injury. I'll take good care of you, so fear not,
+okay?"	
+Message	Shido	I see. So that's why I didn't notice...	
+Message	Shido	...Hey wait?! What are you doing?!	
+Message	Miku	*Giggle*... I'm taking your pants off～	
+Message	Shido	"WHAAAAAAAAAAAAA?! Why?! Why would you do such
+a thing?!"	
+Message	Miku	"Judging from your appearance, it seems like you won't
+be able to go to the bathroom by yourself. That's
+why～"	
+Message	Shido	"Yeah, but still! It's embarrassing to do this out of
+nowhere!"	
+Message	Miku	Okay, okay, no need to be embarrassed～	
+Message	Shido	Oh! Your hand! It's coming inside the blanket!	
+Message	Miku	Ei～☆	
+Message	Shido	...Hahh!	
+Message	Miku	Okay, don't move.	
+Message	Shido	Ahh... ahh... wait, no...	
+Message	Shido	That area... AH!	
+Message	Miku	Okay, I'm going to go all out.	
+Message	Shido	Um... Excuse me, Miss Nurse?	
+Message	Miku	Hm? What's the matter?	
+Message	Shido	Close... Your chest is... um...	
+Message	Miku	How odd? Can't do it at all.	
+Message	Shido	Y-Yes... Um, I'm so nervous it went away....	
+Message	Miku	Oh, is that so? That's unfortunate.	
+Message	Miku	Let's go to the bathroom another day.	
+Message	Shido	...Phew.	
+Message	Miku	So, next...	
+Message	Shido	...What? There's still more?	
+Message	Miku	Tadaaaa. Time for your shots～	
+Message	Shido	Sh-Shots?!	
+Message	Miku	It'll be fine. This won't hurt a bit!	
+Message	Shido	That's not even the issue... Do I need a shot?	
+Message	Miku	Yes, of course. That's what I came here for.	
+Message	Shido	What? Really?	
+Message	Miku	Yup, yup～	
+Message	Shido	Just out of curiosity, what kind of shot is it?	
+Message	Miku	Huh...?	
+Message	Shido	"Wait... Why are you going quiet? I mean, there has
+to be a reason for it. What kind of shot is this for?"	
+Message	Miku	Uh... I'm a new nurse.	
+Message	Shido	"NO! That's something you SHOULD know as a nurse,
+new OR old! The bare minimum!"	
+Message	Miku	Okaaay. Now, roll up your sleeves～	
+Message	Shido	She ignored me! Noooo, I'm scared! But I can't move!	
+Message	Miku	First, I'm going to disinfect it!	
+Message	Shido	Miss Nurse? Excuse me?! EXCUSE ME?!	
+Message	Miku	Yes～?	
+Message	Shido	What's not an antiseptic. That's a bath bomb!	
+Message	Miku	Oh, my... *giggle*	
+Message	Shido	"That's not something to giggle about! Look! It's
+foaming up! LOOK!"	
+Message	Miku	"It'll be fine. It'll be over before you finish counting
+the stains on the ceiling."	
+Message	Shido	"There aren't any! What is this, some kind of old
+school love hotel?!"	
+Message	Miku	And let's move onto the shot—	
+Message	Shido	AHHH! I'm scared! SUPER SCARED!	
+Message	Miku	My! Ooops!	
+Message	Miku	I dropped the needle～	
+Message	Shido	Th-That's so dangerous...	
+Message	Miku	Where did you go...?	
+Message	None	(Wait, she left the room.)	
+Message	Miku	Mr. Shot～ Come out, come out, wherever you are～	
+Message	Shido	D-Did you find it?	
+Message	Miku	Mmm. No. I wonder where it went...?	
+Message	Shido	...Maybe the shot got scared and ran for it, too.	
+Message	Miku	Hm? Huh? Huh?	
+Message	Shido	WHOAAAAAAAAAAAAAAA!	
+Message	None	"(Why is she dressed like this?! I mean, when did she
+change...? That doesn't matter right now.)"	
+Message	Shido	Um, I would guess that it's under the desk...	
+Message	Miku	What? This way?	
+Message	Shido	Not that way. A bit closer...	
+Message	Miku	Whaaat? Then this～?	
+Message	Shido	Yes, yes, I think it's that way...	
+Message	Miku	Oh there it is! Under the desk～	
+Message	Shido	"That's nice. Then please hurry up and pick it up and
+stand up. Or else... your positioning. Um... it's
+been, you see..."	
+Message	Miku	Awww, I can't reach it～	
+Message	Shido	WHAT...?!	
+Message	None	"(She's squirming to try to reach for the needle, so
+her hips are swaying back and forth in a suspicious
+way...!)"	
+Message	None	"(A-Amazing... Even her breasts are swaying back
+and forth!)"	
+Message	Miku	Awww, nooo. It's so deep inside. I can't... do it...	
+Message	None	(Whoa... She's starting to sound...!)	
+Message	Shido	Ummmmm, Miss Nurse?	
+Message	Miku	Yes? What is it?	
+Message	Shido	"Why don't you give up? I mean, you won't be able to
+use a needle you dropped anyways. And at this rate,
+um..."	
+Message	Miku	Huh? My, my...	
+Message	Miku	Is my outfit too revealing?	
+Message	Shido	N-No! I didn't see anything!	
+Message	Miku	Very well.	
+Message	Miku	Then let's end our shot session.	
+Message	Shido	Phew... I was saved in so many different ways...	
+Message	Miku	Then, what do you want to do next?	
+Message	Shido	Huh...? Can't you just go home...?	
+Message	Miku	No, I can't! I'm going to take care of you all day!	
+Message	Shido	No, please. Just please go home!	
+Message	Miku	*Giggle*... Then next, we can do bath time.	
+Message	Shido	AHHH STOP! Don't take my clothes off. AAAAH!	
+Message	None	(And the new nurse's care continued...)	

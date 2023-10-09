@@ -1,0 +1,149 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Maria, let's go on a date.	
+Message	Maria	"...Yes. Does this mean you will fulfill your
+promise?"	
+Message	Shido	"Y-Yeah... I guess that's how things are
+ending up. So, sure?"	
+Message	Maria	It was worth it for you to owe me one.	
+Message	Shido	What are you talking about...?	
+Message	Maria	It is a secret.	
+Message	Shido	"Maria, I notice you've been smiling more
+often."	
+Message	Maria	Is it strange for me to express emotions?	
+Message	Shido	"Now, that's not true. In fact, I think smiling
+suits you well, Maria."	
+Message	Maria	I-Is that so...? How embarrassing.	
+Message	Shido	"It's nothing to be embarrassed about.
+Now then. Is there somewhere you'd like
+to go?"	
+Message	Maria	Somewhere I'd like to go...?	
+Message	Shido	"Yeah. Actually, even though it's a date, I can't
+think of any place you'd want to go. Do you have
+any suggestions, Maria?"	
+Message	Maria	"I would enjoy taking my time to walk around
+the city. Is that an adequate request?"	
+Message	Shido	Is that all you want?	
+Message	Maria	Yes. That is fine.	
+Message	Shido	"Then, for now, why don't we take a walk around
+the shopping district?"	
+Message	Shido	"So you want to take a walk around the city,
+huh? Well, this part's kind of nice, but it's
+not exactly the real thing, is it?"	
+Message	Maria	"Not exactly. However I haven't seen it for
+myself, so the feeling is new."	
+Message	Shido	"Really? But don't you know everything about
+this world?"	
+Message	Maria	"I know its informational make-up, but seeing
+it for myself is a new experience."	
+Message	Shido	Is that so? I don't get the difference.	
+Message	Maria	"Yes. The buildings are larger up close, and
+the streets are livelier."	
+Message	None	"(As Maria spoke, she turned and looked
+above us. It seemed like she was enjoying
+herself. I've never seen Maria act this way.)"	
+Message	Shido	"I'm sure it's hard to keep track of each and
+every person who lives in this city, so for me,
+it looks more deserted than usual."	
+Message	Maria	Your world must be so lively, Shido.	
+Message	Shido	Yeah, it is. There are many, many more people.	
+Message	Maria	I see... I hope to witness it first-hand.	
+Message	Shido	That'd be―	
+Message	Mana	Oh. It's you, Nii-sama.	
+Message	Shido	Whoaaa. Mana?!	
+Message	Mana	The hell are you doin' in a place like this?	
+Message	Shido	Just taking a walk. Haha... Hahaha.	
+Message	None	"(We're walking along the shopping district,
+so the amount of familiar faces makes sense.
+Why didn't I realize it sooner...?)"	
+Message	Mana	So, who the hell is the girl next to you?	
+Message	Mana	Is she your new, freakin' girlfriend?	
+Message	Shido	"No no no. Maria's not my girlfriend!
+We're just walking around because she
+asked to."	
+Message	Maria	Hrm...	
+Message	Mana	"I see. So that's what it is. Jeez, you go through
+girls quick, Nii-sama, that's why I'm so freakin'
+worried."	
+Message	Shido	You don't have to worry about that!	
+Message	Maria	...Shido, let us go.	
+Message	Shido	Huh? Hey, Maria... Wait up!	
+Message	Shido	Sorry Mana, I'll see you later!	
+Message	Mana	Ah, Nii-sama...?!	
+Message	None	"(I spun around and chased after Maria, who
+left in the middle of the conversation.)"	
+Message	None	"(Her quick steps are a completely different
+gait than how it was when she was enjoying
+herself earlier. Maria's ignoring me now.)"	
+Message	Shido	Hey, Maria. Wait up.	
+Message	None	"(As I call to her to stop, she sulked, slowly
+turning to face me.)"	
+Message	Maria	Shido. Am I merely an acquaintance?	
+Message	Shido	"Well, that's what we are to each other,
+right?"	
+Message	Maria	"Shido, you invited me on a date. Even then,
+am I a mere acquaintance to you?"	
+Message	Shido	"R-Right. Um. We're pretty close acquaintances,
+I guess."	
+Message	Maria	"That will do for the time being. However, right
+now, we are on a date. Younger sister or not, I
+cannot approve you being approached by women."	
+Message	Shido	"Yeah, but she initiated the conversation, so it
+couldn't be helped, right?"	
+Message	Maria	...Even so.	
+Message	Shido	S-Sorry...	
+Message	Maria	"You need to understand women better,
+Shido."	
+Message	Shido	Yeah, I get that a lot...	
+Message	Maria	*sigh*...	
+Message	None	(Hmm. What do I do...?)	
+Choice		Apologize.	
+Choice		Make an excuse.	
+Message	Shido	"Maria, I'm sorry! I'll definitely be more careful
+next time!"	
+Message	None	"(I put my hands together, as if in prayer,
+and lowered my head.)"	
+Message	Maria	You must, all right?	
+Message	Shido	Yeah, please forgive me. I mean it!	
+Message	Maria	"There is no point in repeating myself,
+so I will forgive you. However, in return..."	
+Message	Shido	In return?	
+Message	Maria	Please teach me... much, much more, Shido.	
+Message	Shido	R-Right...	
+Message	Shido	"You don't really seem like the jealous type,
+Maria."	
+Message	Maria	"It is not jealousy. I was merely pointing out
+your insincerity, Shido."	
+Message	Shido	"Either way, I only chatted with Mana for
+a bit. Please cheer up."	
+Message	Maria	I cannot. If you really insist, then...	
+Message	Shido	If I insist?	
+Message	Maria	Please teach me... much, much more, Shido.	
+Message	Shido	I-I understand. I'll do my best.	
+Message	None	(All right. Looks like Maria's feeling better.)	
+Message	Maria	Now, let us continue our date.	
+Message	Shido	Yes, let's.	
+Message	None	"(After our conversation, we continued our
+stroll.)"	
+Message	Maria	Shido.	
+Message	Shido	What's wrong?	
+Message	None	"(Something piqued Maria's interest, and
+she called out my name suddenly.)"	
+Message	Maria	Those are our classmates.	
+Message	Shido	Th-That's...?	
+Message	None	"(What Maria had been pointing at was the
+trio of Ai, Mai, and Mii.)"	
+Message	Shido	"If they see us walking together... We'll be in
+a lot of trouble."	
+Message	Maria	"They will most certainly spread false rumors
+about you."	
+Message	Shido	"Most likely. Sorry, but we should probably
+get out of sight."	
+Message	Maria	"I understand. Then, I will leave this area
+first."	
+Message	Shido	No, you don't have to go that far.	
+Message	Maria	It is much better this way. Is that okay?	
+Message	Shido	All right, then. Sorry...	
+Message	Maria	No, it is fine. For now, Shido. Good-bye.	
+Message	None	"(For now, if I'm alone, then running into them
+shouldn't be an issue. I'm worried about Maria,
+but I'll just grab ingredients and head home.)"	

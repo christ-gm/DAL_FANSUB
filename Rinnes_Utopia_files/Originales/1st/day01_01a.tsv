@@ -1,0 +1,659 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(...How strange. How can the memory of a
+world long passed still exist...?)"	
+Message	None	(Did something happen to Eden...?)	
+Message	None	"(Was the reset incomplete? Or were all of
+the resets finally too much to handle...?)"	
+Message	None	"(There's a chance that this might cause an
+issue with managing Eden...)"	
+Message	None	(No, that can't happen. It mustn't...)	
+Message	Rinne	...do... Shido...	
+Message	None	(Huh...?)	
+Message	Rinne	"...rry up and wake...p...
+You...unning out of...ime..."	
+Message	Shido	Mm... Mmmm.	
+Message	Rinne	Hehe... You awake?	
+Message	Shido	Mm, Rinne... Morning.	
+Message	Rinne	Yeah... Morning, Shido.	
+Message	Shido	Hm? You seem down.	
+Message	Rinne	"Not at all! You're one to talk, Shido.
+You were groaning in your sleep.
+How are you feeling? Can you get up?"	
+Message	Shido	Huh? Oh, I'm totally fine! I'll get up now.	
+Message	Rinne	"Good. I've made breakfast, so come down
+after you change, okay?"	
+Message	Shido	Rinne...	
+Message	Rinne	Huh?	
+Message	Shido	"Oh... Nothing. Just thinking about how
+amazing you are..."	
+Message	Rinne	Hehe... You finally up?	
+Message	Shido	Mm, oh... Rinne. Morning...	
+Message	Rinne	Good morning, Shido. Another beautiful day.	
+Message	Shido	Yeah. Seems like it.	
+Message	Rinne	"You were tossing and turning all night.
+You okay? Think you can get up?"	
+Message	Shido	Yeah. I'm fine... I'll get up.	
+Message	Rinne	"Good. I've made breakfast, so come down
+after you get changed, okay?"	
+Message	Shido	Rinne... You're really one-in-a-million.	
+Message	Rinne	"Hehe. Thanks. Be careful, though. Someone
+might think you're trying to flirt with me."	
+Message	Shido	"No, I'm serious. I wish that... I could be
+like you."	
+Message	Rinne	I'm flattered, but the praise is undeserved.	
+Message	Rinne	"Besides, you shouldn't want to be anyone
+else. Just focus on being yourself."	
+Message	Shido	Mm, but I'm as average as can be...	
+Message	Rinne	"Not at all. I can think of plenty likeable
+things about you."	
+Message	Shido	Huh?	
+Message	Rinne	"?! Oh, um... I was just talking to myself...
+Nothing to see here."	
+Message	Shido	Uh... Okay?	
+Message	Rinne	...	
+Message	Shido	...Rinne?	
+Message	Rinne	"H-Hey, if we talk too much, you'll be late.
+Shido, hurry up and get ready!"	
+Message	Rinne	"?! Oh, um... I was just talking to myself...
+Yeah."	
+Message	Shido	Uh... Okay?	
+Message	Rinne	"H-Hey, if we talk too much, you'll be late.
+Shido, hurry up and get ready!"	
+Message	Shido	"Oh yeah, huh? Guess I'll get dressed
+right away then."	
+Message	Rinne	"Aah! Hey Shido! Don't start stripping down!
+I'm still here!"	
+Message	Shido	Oh... R-Right. Sorry Rinne!	
+Message	Rinne	"I-It's okay. Just make it quick, okay? I'll go
+on ahead!"	
+Message	Shido	H-Hey, Rinne!	
+Message	Shido	"...Rinne sure is acting weird.
+Or am I imagining things?"	
+Message	None	"(Crap, I did it again...
+I guess old habits die hard.)"	
+Message	None	"(Well, anyways... I'd better hurry up and get
+dressed.)"	
+Message	Tohka	"Shidoooo! How much longer do you plan on
+sleeping?!"	
+Message	Shido	T-Tohka?	
+Message	Tohka	Oh!! Shido! Are you already awake?!	
+Message	Tohka	Grr...	
+Message	Shido	Why do you look so upset?	
+Message	Tohka	"It came to my attention that you enjoy
+being dropkicked awake!"	
+Message	Shido	WHAT?!	
+Message	None	(Kotori, what have you been telling her?!)	
+Message	Tohka	Grr... Seems as though I was too late...	
+Message	Shido	No, Tohka. You heard wrong.	
+Message	Tohka	Hm? How do you mean?	
+Message	Shido	"Uh, you see... It's because I prefer to be woken
+up gently."	
+Message	Tohka	"Hm. Understood. Then I'll be sure to do so
+next time."	
+Message	Shido	Right.	
+Message	Yoshino	Shido-san... Good morning!	
+Message	Yoshinon	"Hey hey, Shido! You're up!"	
+Message	Shido	Oh. It's Yoshino and Yoshinon. Mornin'.	
+Message	Yoshino	Y... Yes!	
+Message	Yoshinon	"Heeeeey. Real sorry to see that happened to\nyou, Shido. If you slept for just a bit longer,\nYoshino might've been the one to wake you."	
+Message	Yoshino	...	
+Message	Shido	"R-Right. At least I'll have that to look forward
+to next time."	
+Message	Tohka	Mm...	
+Message	Shido	Hm? What's up, Tohka?	
+Message	Tohka	Shido... I want you to tell me something.	
+Message	Shido	What is it?	
+Message	Tohka	"What exactly is a "dropkick"?
+How does dropping come into play?"	
+Message	Shido	Huh?	
+Message	Shido	"Tohka... What were you planning to do if I
+had still been asleep...?"	
+Message	Tohka	Hm. Well, you see, there's the dilemma.	
+Message	Shido	What do you mean?	
+Message	Tohka	"Well, I wasn't sure if I was supposed to suck
+on a gumdrop while kicking you, or if I was
+supposed to shove one in your mouth first."	
+Message	Shido	Uh... Well... Hm...	
+Message	Tohka	"If you're so hesitant to answer... Is it because
+a real dropkick is far more dangerous?!"	
+Message	Shido	"No, it's not like that. Uh, how do I put this?
+I think it's a different kind of danger than
+the one you're thinking of, Tohka."	
+Message	Tohka	Hmm...? What do you mean?	
+Message	Tohka	"*gasp*! Don't tell me they poisoned
+the gumdrop?!"	
+Message	Shido	"No... It's not like that either! Simply put, a
+dropkick is a two-footed kick delivered in
+mid-air."	
+Message	Tohka	Hm... Is that so?	
+Message	Shido	Yeah.	
+Message	Tohka	"I see. It makes sense that one would be easily
+awoken from that!"	
+Message	Shido	"Wait, that wasn't an invitation
+to do it, though!"	
+Message	Tohka	H-Huh...?	
+Message	Shido	"Anyway, Tohka and Yoshino...
+I'm going to get dressed, so would you two mind
+going on ahead?"	
+Message	Tohka	Be quick about it, okay? Breakfast is prepared.	
+Message	Yoshino	...	
+Message	Shido	Uh... Yoshino?	
+Message	Yoshino	Y-Yes?!	
+Message	Shido	Would you mind joining her downstairs?	
+Message	Yoshino	...Okay.	
+Message	Yoshinon	"Gosh, Shido. You're so shy."	
+Message	Shido	"Finally, they're gone... When everyone's here,
+the mornings are pure chaos."	
+Message	None	"(But there's some comfort to be found in
+this kind of chaos, I suppose.)"	
+Message	None	"(Neatly laid out on the dining table was the
+breakfast Rinne had prepared.)"	
+Message	None	"(White rice, miso soup with tofu and green
+onion, fried fish, and an omelette. She even
+had natto, seaweed, and pickles as sides...)"	
+Message	None	"(All the makings of a traditional Japanese
+breakfast. I could never whip up a meal this
+elaborate by myself.)"	
+Message	Rinne	"Seems like everyone's seated. Now, let's
+dig in!"	
+Message	Tohka	Okay! I shall dive right in!	
+Message	Tohka	Delicious! Today's breakfast is exquisite!	
+Message	Tohka	"Mmm! This omelette... So fluffy on the outside.
+Yet, the warm broth flows out once you take a
+bite!"	
+Message	Tohka	"Add in some of the rice, and... *nom*...
+Mmm. You've outdone yourself this time!"	
+Message	Rinne	"Hehe... Oh, Tohka-chan. You won't get anything
+from flattering me."	
+Message	Tohka	"R-Rinne... Does that mean seconds are out of
+the question?"	
+Message	Rinne	Huh? Seconds...	
+Message	Shido	"You said, "You won't get anything."
+That's what Tohka's worried about."	
+Message	Rinne	"Oh, I see what you mean. No need to worry,
+Tohka-chan. I've prepared seconds. Just make
+sure to chew before you swallow, okay?"	
+Message	Tohka	Okay! Another helping, please!	
+Message	Shido	Hey, Tohka... You know...	
+Message	Rinne	Ahahahaha...	
+Message	Yoshino	Um. Thank you... for the meal!	
+Message	Rinne	Okay. Yoshino-chan, eat up, okay?	
+Message	Yoshino	Okay!	
+Message	Rinne	"Oh. You aren't good with hot food, right?
+I tried cooling the miso soup beforehand.
+Is it all right?"	
+Message	Yoshino	Th-Thank... you...	
+Message	Yoshinon	"Boy, Rinne. You're so thoughtful. You'd make\nthe ideal wife!"	
+Message	Shido	"You can say that again. Who knows where I'd
+be without her housework."	
+Message	Tohka	"Indeed, and she sure knows her way around the
+kitchen."	
+Message	Rinne	"Gosh... What's with all the compliments today,
+you two...? You're going to make me blush..."	
+Message	Kotori	"Hmm. Onii-chan has been hitting on Rinne
+since this morning! Rinne's not gonna like that!"	
+Message	Rinne	"Oh, it's not like that, Kotori! I'm flattered.
+Not upset."	
+Message	Yoshinon	"Ahahaha! Rinne, you're adorable. Looks like\nyou'll be Yoshino's biggest rival!"	
+Message	Yoshino	...Yoshinon?!	
+Message	Shido	Rival? Are you two gearing up for battle?	
+Message	Yoshinon	"*Sigh*... What am I to do with you, Shido?\nGoodness. I fear what's to come..."	
+Message	Kotori	Hahaha! That's just Onii-chan being Onii-chan.	
+Message	None	"(I may not know what's going on, but I can tell
+when I'm being mocked. Wear that ribbon all
+you want, little sister. You're still evil...)"	
+Message	Shido	"Hey Kotori, you'd better not be a bad influence
+on Tohka."	
+Message	Kotori	What do you mean, "bad influence"?	
+Message	Shido	"If I get dropkicked while I'm sleeping, then
+there'll be hell to pay."	
+Message	Kotori	Whaaaaat? You could totally handle it.	
+Message	Shido	Jeez...	
+Message	Tohka	Hm. Shido, what's the matter?	
+Message	Shido	"Nothing! Don't mind us, Tohka. Just enjoy
+your breakfast."	
+Message	Tohka	Hm, if you say so.	
+Message	Kotori	Oh, Rinne. Your miso soup is just delightful!	
+Message	Rinne	Really? I'm so happy you like it.	
+Message	Kotori	"Oh, Onii-chan! If you don't want your omelette,
+then could I have it?"	
+Message	Shido	Huh? Oh, sure... It's all yours, Kotori.	
+Message	Kotori	Ohhhh. Thank you, Onii-chan! I love you!	
+Message	Shido	Right...	
+Message	Rinne	"Oh, but then that wouldn't be enough food for
+you, Shido. You can have one of mine."	
+Message	Shido	But then you'll be hungry, won't you, Rinne?	
+Message	Rinne	It's fine. I want you to have mine.	
+Message	Shido	B-But...	
+Message	Rinne	Here you go, Shido. Say, "Aah."	
+Message	Shido	Ahhh...	
+Message	Rinne	Hehe. Thanks.	
+Message	Tohka	Hm? No fair, Rinne! I want to feed Shido, too!	
+Message	Yoshino	Oh... I'd like to... feed him, as well...	
+Message	Kotori	Oh? Then let me have a go, too!	
+Message	Yoshinon	"You're amazing, Shido."	
+Message	Rinne	"H... Hey guys? What do we do, Shido? I...
+I might have made a mistake."	
+Message	Shido	"Anyways, we can all take turns next time, okay?
+If everyone gets a turn, I'll be late!"	
+Message	Tohka	"Oh... I can't risk being tardy, so we will have
+to table it for next time. Promise!"	
+Message	Kotori	Same here!	
+Message	Yoshino	M-Me too...	
+Message	Shido	Okay. If—and only IF—the time comes...	
+Message	None	"(Thank God... Seems like those girls really
+went for it...)"	
+Message	Rinne	"Shido, next time, how about being mindful of
+where you're looking next...? It's so obvious
+you were trying to play it off."	
+Message	Shido	Grr... I'll be careful.	
+Message	Rinne	Good.	
+Message	Shido	"Hahaha... Come to think of it, I haven't checked
+the weather yet today."	
+Message	Rinne	Gosh, Shido... Fine.	
+Message	Shido	Thanks, Rinne.	
+Message	Rinne	"You're welcome. Stop blabbering, and make
+sure to eat, okay?"	
+Message	Shido	Yeah, yeah. I know.	
+Message	Newscaster	"—An owner of the zoo in Tengu City..."	
+Message	None	Hm...?	
+Message	None	"(My ears couldn't help from perking up,
+as I'd recognized the name of the city on
+the news.)"	
+Message	Newscaster	"...Three days have passed since the 56-year-old\nman was first reported as missing."	
+Message	Shido	Ah... Looks like they haven't found him yet.	
+Message	Rinne	"Without the owner, who knows how bananas
+the zoo must be..."	
+Message	Newscaster	"It is believed that foul play could be\ninvolved, and so the authorities are continuing\ntheir investigations..."	
+Message	None	"(Apart from the spacequakes, I figured this
+town was pretty peaceful, but lately, it seems
+like we've gotten nothing but depressing news.)"	
+Message	Newscaster	"Onto our next story, multiple reports of\nmissing pets have been popping up\nthroughout Tengu City."	
+Message	Shido	"Man, first a missing zookeeper, and now pets?
+What's going on?"	
+Message	Kotori	"Aah. Don't tell me they're being abducted
+by aliens or something..."	
+Message	Shido	I'm sure that's not the case.	
+Message	Rinne	"Weird... Maybe it's like the Pied Piper of
+Hamelin?"	
+Message	Shido	"I don't know. It could be an omen...
+Sure seems like one."	
+Message	Kotori	"Oh! The curtain for battle will soon rise...
+It's the fate of the world!"	
+Message	Tohka	Battle?! Is there an enemy coming, Kotori?!	
+Message	Yoshinon	"Tohka's said it, so it's bound to happen!\nYippie!"	
+Message	Shido	Don't say stuff like that!	
+Message	Rinne	Tohka, it's a joke. Calm down, okay...?	
+Message	Tohka	Oh... It was a joke?	
+Message	Shido	"Well, at least we won't have to worry about
+being attacked... I think."	
+Message	Tohka	Hm... Got it! Rinne, seconds please!	
+Message	Rinne	"Suuuuure. Tohka, you eat so much that I never
+hesitate about making big portions."	
+Message	Tohka	"Your cooking is just too good, Rinne.
+I can't help myself."	
+Message	Rinne	Teehee... Tohka, you're not so bad yourself.	
+Message	Tohka	Hm? But I didn't cook...	
+Message	Rinne	"No, that's not what I meant... Never mind.
+Forget it... Tohka, do you want a large helping?"	
+Message	Tohka	Yeah! PLEAS—	
+Message	Shido	Tohka?!	
+Message	Rinne	Tohka?!	
+Message	None	(Is she having a spiritual rampage?!)	
+Message	Tohka	I... I'm fine!	
+Message	Kotori	"MMM! Are you all right? Did you choke on
+your food?"	
+Message	Tohka	Yeah. Sorry for worrying you, Kotori. I'm fine.	
+Message	Kotori	Mm. Goodie. Right, Onii-chan?	
+Message	Shido	Y-Yeah...	
+Message	None	"(I think it was Kotori's way of telling me to
+keep my cool. Rinne doesn't know Tohka's a
+Spirit, and if we overreact, her cover's blown.)"	
+Message	Shido	I was just caught off-guard, is all...	
+Message	Yoshino	M-Me too...	
+Message	Yoshinon	"Tohka-chan, you okay? Even Yoshinon was\nstartled by that."	
+Message	Rinne	"You sure you're all right? Did you cut your
+hand or anything?"	
+Message	Tohka	Well, I'm fine, but...	
+Message	Shido	What's the matter, Tohka?	
+Message	Tohka	Sorry, Shido... I broke the bowl!	
+Message	Rinne	"What are you talking about? Who cares about
+the bowl? Your well-being is more important.
+I'm just glad you weren't hurt."	
+Message	Tohka	"B-But Rinne! Th... This bowl... Shido bought
+it for me! I promised him I'd take good care
+of it..."	
+Message	Rinne	"S-Sorry... I didn't mean it like that...
+What do we do? What can we do?"	
+Message	Shido	"It's fine, Tohka. We can buy another one
+together."	
+Message	Tohka	R-Really?	
+Message	Shido	Of course. Anyways, how are you feeling?	
+Message	Tohka	Like I said earlier, I feel totally fine.	
+Message	Rinne	...Shido, you're so great.	
+Message	Shido	Hm...? What makes you say that?	
+Message	Rinne	No reason. That's just so like you.	
+Message	Shido	...?	
+Message	Tohka	All right, moving on... Rinne, seconds please!	
+Message	Shido	Wh-What?!	
+Message	None	"(Held in Tohka's right hand was a brand new
+bowl, raised high for seconds. After everything
+that happened, Tohka still wants to eat?!)"	
+Message	Yoshino	T-Tohka-san... D-Don't push yourself!	
+Message	Tohka	Hm? Why would you say that?	
+Message	Yoshinon	"Now now, Tohka-chan. Take it easy, and\nmaybe go for a smaller portion, okay?"	
+Message	Rinne	"Yoshino-chan has a point. If you overeat
+and become sick, that wouldn't be good."	
+Message	Shido	She's right... Tohka, maybe hold off on seconds?	
+Message	Tohka	GRRRRRRR!	
+Message	Rinne	"Tohka, I'll prepare your favorite dish tomorrow.
+How about that?"	
+Message	Tohka	Really?! What are you going to make for me?!	
+Message	Rinne	"It's a secret, but I guarantee you that it'll be
+extra delicious, so get ready."	
+Message	Tohka	OHHH! You promise, Rinne?	
+Message	Rinne	Yup! Promise!	
+Message	Tohka	Okay! Then, I'll be a good girl today!	
+Message	Yoshino	Tohka-san... You're always a good girl!	
+Message	Tohka	Yeah!	
+Message	Rinne	"With that said, everyone's finished eating
+so why don't we start clearing the table?"	
+Message	Shido	Oh, let me help.	
+Message	Rinne	Don't worry. Leave it to me.	
+Message	Shido	"That's no fair. It'll be faster if we all do it
+together."	
+Message	Tohka	Allow me to help, too!	
+Message	Rinne	"Thanks, Shido and Tohka-chan, but I'm more
+than willing to handle it myself."	
+Message	Shido	"I don't mind at all! Let's all clean up and
+head for school!"	
+Message	Rinne	"Okay. Thank you. Tohka-chan, just don't
+push yourself too much, okay?"	
+Message	Tohka	Yes, of course! Leave the rest to me.	
+Message	Rinne	Hehe...	
+Message	Kotori	Mmm... Rinne-oneechan? Are you sure you're okay?	
+Message	Rinne	"Yes. I always do this.
+In fact, I'm in my element."	
+Message	Kotori	"No, I was talking about clearing the table...
+Don't you need to leave soon? Won't you
+be late for practice?"	
+Message	Rinne	Huh?! WHAAAAAT?! Is it already that time?!	
+Message	Shido	Practice...? What are you talking about?	
+Message	Kotori	"Jeez, Onii-chan. Rinne-oneechan is one of the
+star players on the lacrosse team! Did you
+forget again?"	
+Message	Shido	Oh... Really?	
+Message	None	"(I dug into the deep recesses of my mind for
+any kind of confirmation... Oh, yeah. I guess I
+somewhat recall Rinne heading out early...)"	
+Message	Rinne	"Sorry, Shido! I feel terrible because I was the
+one who insisted upon clearing the table, but
+could I leave the rest to you?"	
+Message	Shido	"Yup! You can count on me. Besides, it's my job.
+Rinne, you really do spoil us."	
+Message	Rinne	"Like I said, I enjoy doing it,
+but thanks anyway."	
+Message	Shido	Yeah, don't worry about it. Get going.	
+Message	Rinne	Tohka-chan, just make sure not to push yourself!	
+Message	Tohka	Noted. Don't worry!	
+Message	Rinne	Hehe... Okay, see you later!	
+Message	Shido	All right. Later.	
+Message	Rinne	Okay.	
+Message	Tohka	"Shido! Hurry up! Rinne has been waiting
+outside for you!"	
+Message	Tohka	Shido! Come on, get a move on!	
+Message	Shido	Okay! I'll be right out.	
+Message	Kotori	Shido, wait a minute.	
+Message	Shido	"Hm? What is it, Koto—wait, when'd you put that
+ribbon on?"	
+Message	Kotori	"Forget the ribbon. I wanted to tell you
+something."	
+Message	None	Huh? What do you want to tell me?	
+Message	Tohka	Shido, hurryyyyy!	
+Message	Shido	"Actually, Tohka, go outside without me and
+wait with Rinne. I'll be right out."	
+Message	Shido	"Actually, Tohka, go on ahead and wait outside.
+I'll be right out."	
+Message	Tohka	"Grr... Fine. Just make sure not to take too
+long, understood?"	
+Message	Shido	Yeah, got it.	
+Message	Shido	So, what's up?	
+Message	Kotori	Shido... You know what you have to do, right?	
+Message	Shido	"Yeah, but... Wait. Don't tell me a new Spirit's
+emerged."	
+Message	Kotori	No.	
+Message	Shido	Then, what do you mean?	
+Message	Kotori	You saw how Tohka was earlier, didn't you?	
+Message	Shido	Yeah...	
+Message	Kotori	"She's appeared fine for a while, but I'm
+starting to see signs of instability. Not just
+Tohka, either. Even Yoshino or I might go rogue."	
+Message	Kotori	"I know it's you... but you know what you have
+to do, right?"	
+Message	Shido	...	
+Message	Kotori	"There's no other way. Ratatoskr is going through
+some issues, so there's no way to manage the
+Spirits. Ratatoskr's an island in the sky, now."	
+Message	Shido	What's going on over there?	
+Message	Kotori	"We're currently looking into it. As long as
+we've got the Fraxinus, we can manage, but I
+need your cooperation to stabilize the Spirits."	
+Message	Kotori	"Didn't I tell you? The Spirits seem the most
+stable when they're with you, Shido."	
+Message	Shido	Right...	
+Message	Kotori	"Especially when they're on a date. The results
+are remarkable. That's why, Shido, I need you
+to go on more dates."	
+Message	Shido	"I know that, but why does it feel like I'm
+getting déjà vu..."	
+Message	Kotori	"Hello, are you really concerned about that?
+As we speak, Tohka and Yoshino could explode
+at any minute. So, it's your job to save 'em."	
+Message	Shido	"You're right. We all have to do our part.
+If there's anything I can do, then you bet
+I'll do it."	
+Message	Kotori	"Yeah. That's the spirit! I'll leave them to you,
+but..."	
+Message	Kotori	"Be extra careful this time. You're not
+invincible. If you make any mistakes,
+you're dead. Be mindful of that."	
+Message	Shido	"Even so... I'm the only one who can save you,
+Tohka, and Yoshino, right? Guess I have no
+choice."	
+Message	Kotori	Well... It's for your benefit, too.	
+Message	Shido	How so...?	
+Message	Kotori	"Stabilizing Spirits helps prevent your body
+from going rogue as well, Shido. This is our
+best method of limiting that chance."	
+Message	Shido	...	
+Message	Kotori	"But... Listen carefully. Next time you're in a
+situation where you feel out of your depth,
+don't think twice. Just run for it."	
+Message	Shido	WHAT?!	
+Message	Kotori	"You promised, remember? That you wouldn't
+overdo it."	
+Message	Shido	Right... I'll do my best.	
+Message	Kotori	"Good. Now, if you keep those girls waiting
+any longer, I'm sure Tohka will be concerned.
+Go ahead."	
+Message	Shido	"Got it. Kotori, try not to overdo it too,
+okay?"	
+Message	Kotori	"Who do you think you're talking to?
+Unlike my stupid brother, I'm aware
+of my own limits, so don't worry."	
+Message	Shido	Urgh... Oh.	
+Message	Kotori	Good. Anyways, take this.	
+Message	Shido	...Keys?	
+Message	Kotori	"I've given a set to Tohka as well, so please
+give the other one to Rinne."	
+Message	Shido	Okay, sure. What do they unlock, though?	
+Message	Kotori	"They're for our house. Duh. I changed all of
+the locks yesterday for added security."	
+Message	Shido	...But why?	
+Message	Kotori	"Man, use your brain. They might be Spirits, but
+it's still a bunch of girls living in a house
+together. Anything could happen."	
+Message	Kotori	"Consider the fact that the patriarch of
+the house is a useless wimp whose only
+redeeming quality is his harmlessness..."	
+Message	Shido	"Only redeeming quality is his harmlessness"...\nHey, are you talking about me?!	
+Message	Kotori	Who else???	
+Message	Shido	"Gah... Huh? Wait... These keys look awfully
+cutesy."	
+Message	Kotori	"It's intentional. It's harder to lose track of
+them that way, right?"	
+Message	Shido	"Guess you have a point there. They're not
+really my style though, are they?"	
+Message	Kotori	"Quit complaining. I had Ratatoskr make them,
+so they're practically indestructible."	
+Message	Shido	Wow... Okay, got it.	
+Message	Kotori	"Anyways, if we keep Tohka waiting, you'll
+be in big trouble. Get going. Now, let the
+dates commence!"	
+Message	Kotori	Okay, Shido. Let's begin our (war) date.	
+Message	Rinne	Oh, here he is!	
+Message	Tohka	GEEZ! You're so late, Shido!	
+Message	Shido	"Sorry, Tohka and Rinne! Let's hurry, or we'll
+be late!"	
+Message	Shido	Sorry! Let's hurry, or we'll be late!	
+Message	Tohka	Shido... What did you discuss with Kotori?	
+Message	Shido	Hm? Oh... Nothing important.	
+Message	Tohka	Oh. My interest is piqued.	
+Message	Shido	"Well, there's nothing to be interested in. It
+has nothing to do with you, Tohka."	
+Message	None	"(Not like I could tell her that she's unstable
+to her face.)"	
+Message	Tohka	You sure? You'd better not be lying to me.	
+Message	Shido	Yeah. Trust me, Tohka.	
+Message	Tohka	Very well! If you say so, I'll trust you.	
+Message	None	(Why am I feeling sentimental all of a sudden?)	
+Message	None	"(It's not just for Tohka's sake—it's for mine,
+too. Don't worry, Tohka. I promise to save
+all of you.)"	
+Message	Rinne	"Come on, you two! Get a move on. We're
+going to be so late!"	
+Message	Shido	"Oh, wait a second, Rinne. Let me give this
+to you."	
+Message	Rinne	Huh? A key? What for?	
+Message	Shido	"Yeah. We decided to change the locks at home.
+Don't you want to enter the house on your own?"	
+Message	Rinne	What? Is it okay for me to have this, though?	
+Message	Shido	"Haha. What do you mean? You're like family,
+Rinne. If you have a spare key, then you can
+come in whenever you like, right?"	
+Message	Rinne	"Oh... Right. Yes. You have a point.
+Thank you, Shido. I'll take good care of it."	
+Message	Shido	Okay.	
+Message	Shido	"Tohka, make sure to hold onto yours too,
+okay?"	
+Message	Tohka	"HEY! I'm well-aware! I'll take care of mine
+as well!"	
+Message	Shido	I see. All right, then! Let's be on our way!	
+Message	Tohka	Right!	
+Message	Rinne	Okay!	
+Message	None	"(As I sped down the street towards my school,
+Tohka and Rinne followed me from behind.)"	
+Message	None	"(Not even five minutes had passed, and my shirt
+was stuck to my back from sweat. Cicadas buzzed
+all around me as if to confirm the summer heat.)"	
+Message	Tohka	Shido... I'm feeling hot!	
+Message	Shido	"Don't say that; it'll make it even hotter.
+Welcome to summer in Japan."	
+Message	Tohka	Summer in Japan?	
+Message	Rinne	"That's right, Tohka. This is Japan's hottest
+season."	
+Message	Shido	Actually, it'll get even hotter than this.	
+Message	Tohka	"Aw... Could it really get much hotter?
+That sounds awful."	
+Message	Shido	"Yeah. It's only June, so I'm afraid of what's
+to come."	
+Message	None	"(As I sped down the street towards my school,
+Tohka was right behind me.)"	
+Message	None	"(Not even five minutes had passed, and my shirt
+was stuck to my back from sweat. Cicadas buzzed
+all around me as if to confirm the summer heat.)"	
+Message	Tohka	Shido... I'm feeling hot!	
+Message	Shido	"Don't say that; it'll make it even hotter.
+Welcome to summer in Japan."	
+Message	Tohka	Summer in Japan?	
+Message	Shido	"That's right. It's this country's hottest
+season. Well, at least the start of it.
+It'll only get hotter from here."	
+Message	Tohka	"Aw... Could it really get much hotter?
+That sounds awful."	
+Message	Shido	"Yeah. It's only June, so I'm afraid of what's
+to come."	
+Message	Shido	Huh? Is that true?!	
+Message	Rinne	Did you find something?	
+Message	Shido	"Tohka! Rinne! Wait up for me, you guys!
+I'll be right back!"	
+Message	Tohka	HEY! Where do you think you're going?! SHIDO!	
+Message	Rinne	What?! Shido, what's gotten over you?	
+Message	Tohka	Hm? Is something wrong, Shido?	
+Message	Shido	Tohka! Wait right here! I'll be back!	
+Message	Tohka	HEY! Where are you going?! SHIDO!	
+Message	Shido	*pant, pant* *pant, pant*!	
+Message	None	"(That's weird... I know I saw her...
+But she's gone...)"	
+Message	Kurumi	Oh, are you looking for something, Shido-san?	
+Message	Shido	Aaaah!	
+Message	Kurumi	Hehe... Sorry, did I scare you?	
+Message	Shido	Kurumi! I knew it was you...	
+Message	Kurumi	"Oh, did you recognize me? What an honor
+to have Shido-san recognize me."	
+Message	Shido	Urgh!	
+Message	Kurumi	"I apologize, though. Today, there's someone
+else I'm looking for."	
+Message	Shido	Who are you looking for?	
+Message	Kurumi	Phew...	
+Message	Shido	Whoa!	
+Message	Kurumi	"Hehe... Did you think it was you? Well, I
+suppose I wouldn't mind looking for you."	
+Message	Shido	"I was just—! But you're... looking for someone
+besides me."	
+Message	Kurumi	"Hehe. As much as I wish to continue speaking
+with you, Shido-san, I must excuse myself."	
+Message	Shido	...?	
+Message	Tohka	HEY! Shido!	
+Message	Kurumi	Very well then, Shido-san. Until next time...	
+Message	Shido	Hey! Waaaait!	
+Message	Tohka	What happened, Shido?	
+Message	Shido	Oh... Nothing...	
+Message	None	"(Should I tell Tohka that I bumped into Kurumi?
+No, that'd just stress her out unnecessarily...
+She didn't seem like she wanted to hurt me.)"	
+Message	Tohka	Hm? You okay, Shido?	
+Message	Shido	"Yeah! See, I used to have this childhood cat,
+but it got out and never came back. I thought
+it was my cat, so I decided to run after it."	
+Message	Tohka	Oh, really? How did that go?	
+Message	Shido	Huh? What do you mean?	
+Message	Tohka	"What? You said you ran after the cat, right?
+Were you able to catch it?"	
+Message	Shido	"Oh, well... Uh... Yeah, I did! But...
+It wasn't the same cat."	
+Message	Tohka	It wasn't? Oh. How unfortunate.	
+Message	Tohka	"However, the cat may return to you someday.
+Don't let it get you down too much, okay, Shido?"	
+Message	None	"(Ugh... Maybe I shouldn't have lied.
+Now I feel sorta guilty...)"	
+Message	Rinne	Hey, you guys! Don't leave me behind!	
+Message	Shido	Oh? Rinne!	
+Message	Tohka	Oh, that's right!	
+Message	Rinne	"Gosh. The heck was that about... Even Tohka ran
+off."	
+Message	Tohka	Sorry, Rinne...	
+Message	Shido	"I'm sorry, Rinne! I saw a cat... Enough about
+that! This is no time to be side-tracked, right?"	
+Message	Tohka	Huh?! What's the matter?!	
+Message	Rinne	Huh? Well... This time... It's time.	
+Message	Shido	"If you don't want to be late, stop asking
+questions! Let's sprint to school!"	
+Message	Tohka	WHAT?!	
+Message	Rinne	Okaaaay. I'll do my best.	
+Message	Shido	Okay, right.	
+Message	Tohka	Huh? What's the matter?	
+Message	Shido	"If you don't want to be late, stop asking
+questions! Let's sprint to school!"	
+Message	Tohka	WHAT?! That's right! Let's go, Shido!	
+Message	Shido	Right!	

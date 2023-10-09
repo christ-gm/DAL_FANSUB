@@ -1,0 +1,206 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Huh...? Where did Rinne go?
+I thought she just walked out of the classroom, but...)"	
+Message	None	"(In actuality, I should probably go on a date with Tohka
+and the others, but... when I realized, I've been following
+Rinne around with my eyes...)"	
+Message	None	(...Why am I so concerned about her?)	
+Message	None	(Oh, there she is. Hmm... Rinne?)	
+Message	Rinne	......	
+Message	None	"(T-This doesn't seem the right mood to talk to her...
+I wonder what's wrong?)"	
+Message	None	"(No... Actually, I should invite her on a date, for a
+change of pace... Rinne's always helping me out, so
+I should help her out too when she's troubled.)"	
+Message	Shido	H-Hey, Rinne...!	
+Message	Rinne	Oh, Shido...	
+Message	Shido	Um... Well, you see―	
+Message	Rinne	Could it be... an invitation to a date?	
+Message	Shido	...! Y-You're correct...	
+Message	Rinne	...Today too? But you should invite the other girls rather than me...	
+Message	Shido	B-But―	
+Message	Rinne	Oh, look. Speaking of which... Tobiichi-san!	
+Message	Shido	Huh?	
+Message	Origami	...What?	
+Message	Rinne	It seems like Shido's looking for someone to go on a date with.	
+Message	Origami	I see. Then it's decided that it will be me.	
+Message	Shido	Wait wait wait...	
+Message	Origami	...You don't want to?	
+Message	Shido	Huh...? 	
+Message	Origami	Then, it's decided you'll go with me.	
+Message	Shido	Wait, hang on.	
+Message	Origami	This has already been decided. It cannot be overturned.	
+Message	Shido	*sigh*...	
+Message	Rinne	All right, you two go on ahead...	
+Message	Origami	Are you not coming as well, Rinne Sonogami?	
+Message	Rinne	Huh?	
+Message	Origami	"That was how I had understood the agreement.
+Of course, I wouldn't be opposed to Shido and me
+being alone. In fact, that would be preferable."	
+Message	Shido	N-No, you're not wrong, all three of us! Right?	
+Message	Rinne	Huh? B-But...	
+Message	Shido	"Rinne! I feel like I'm in danger if I'm alone with Origami,
+so p-please!"	
+Message	Rinne	"...I-If you say that to me Shido, then I'm weak...
+ All right, I'll go then, okay?"	
+Message	Shido	All right! Then it's decided!	
+Message	Rinne	Huh? Y-Yeah...	
+Message	None	"(Maybe that was a little forceful, but I was somehow
+able to make it into a three-person date with Rinne
+and Origami.)"	
+Message	Rinne	So then, what should we do?	
+Message	Shido	...Um, is there any place you'd like to go?	
+Message	Rinne	Um, could it be, you hadn't thought of anything?	
+Message	Shido	Oogh, w-well, yeah...	
+Message	Rinne	...Good grief, Shido. That's a bad habit, you know?	
+Message	Shido	S-Sorry...	
+Message	Origami	I will follow you anywhere.	
+Message	Shido	Then, um...	
+Message	None	(In the end, nothing brilliant would come to mind...)	
+Message	None	"(Since a test was coming close, and with my suggestion
+that we study, we ended up going to Origami's house.)"	
+Message	Origami	Please, come in.	
+Message	Shido	P-Please excuse us...	
+Message	Rinne	So this is your apartment, Tobiichi-san? It's very clean.	
+Message	Origami	I only have the bare minimum that I need.	
+Message	Rinne	It must be tough living alone...	
+Message	Origami	"It's all right, I've gotten used to it.
+For now, just relax."	
+Message	Shido	R-Right... Thank you, Origami.	
+Message	Origami	Oh...	
+Message	Shido	What's wrong, Origami?	
+Message	Origami	...Nothing. It's probably just my imagination.	
+Message	Shido	...?	
+Message	Origami	Wait a moment. Once I change, I'll prepare tea.	
+Message	Shido	Ah, right, don't worry about us...	
+Message	None	(...? Origami was a little weird just now―)	
+Message	Shido	...!	
+Message	Rinne	...Shido? What's wrong?	
+Message	Shido	"Huh...? Er, uh... it's nothing.
+F-For now, let's just sit somewhere around here."	
+Message	Rinne	Y-Yeah.	
+Message	Origami	Here you go.	
+Message	Shido	Thanks.	
+Message	Rinne	Thank you.	
+Message	Shido	H-Hey, Origami...	
+Message	Origami	What?	
+Message	Shido	"This might be a weird thing to ask, but...
+This is the first time we've studied for a test together, right?"	
+Message	Origami	...I was thinking of asking you the same thing.	
+Message	Shido	Huh...?	
+Message	Origami	"So you too felt the same feeling of deja vu, Shido?
+This might be serious..."	
+Message	Shido	"You're right. If it was only one of us, then it could
+just be misremembering, but..."	
+Message	Origami	We've studied together here before.	
+Message	Shido	Yeah, most likely...	
+Message	Rinne	H-Hey, you two? What's wrong all of a sudden?	
+Message	Shido	S-Sorry...	
+Message	Rinne	"Tobiichi-san went through the trouble of making us tea,
+so let's talk while we drink it, okay?"	
+Message	Origami	...?	
+Message	Origami	...Sorry, excuse me for a moment.	
+Message	Shido	O-Origami? Where are you going?	
+Message	Origami	To clip some flowers.	
+Message	Shido	Oh, sorry.	
+Message	Origami	It's all right...	
+Message	Shido	Whew...	
+Message	None	"(Yesterday, and today, there've been so many weird things
+happening. Could it be some sort of harbinger? Or could it
+have something to do with the barrier Kotori's investigating?)"	
+Message	Rinne	...Shido? Are you okay?	
+Message	Shido	Huh?	
+Message	Shido	Wha! Hey-! W-W-W-What's going on, Rinne?!	
+Message	Rinne	"Shido, you don't seem well, and your face is pale...
+You might have a fever."	
+Message	Shido	"Huh, what...?!  What're you saying? I-I'm fine!
+I don't have a fever! What's wrong, Rinne?!"	
+Message	Rinne	"Hee hee. What do you mean, what's wrong...?
+Checking you for a fever by touching foreheads...
+We used to do it in the past all the time, right?"	
+Message	Shido	D-Did we do that...?	
+Message	Rinne	Did you forget...?	
+Message	Shido	"No, I mean, we may have done it...
+But since we're in school―"	
+Message	Rinne	"It'll be over soon, okay? You're a good kid, so
+close your eyes..."	
+Message	Shido	"Wait! But, you know!
+I-If Origami comes back, what on earth will she say―"	
+Message	None	(More importantly, if I closed my eyes now, it looks like you'll kiss me!)	
+Message	Rinne	Don't worry, Tobiichi-san won't come back for a while...	
+Message	Shido	...Huh?	
+Message	Rinne	So, here, come on?	
+Message	Shido	Ah...	
+Message	None	(Wh-What is this feeling...?)	
+Message	None	"(My head feels cold... I feel calmer somehow...
+It's like, something is falling away―)"	
+Message	Shido	―!?	
+Message	Rinne	...Ah...	
+Message	Origami	What are you doing?	
+Message	Shido	Um! This is, well―!	
+Message	Rinne	Shido wasn't looking too well, so I was checking for a fever.	
+Message	Origami	I see...	
+Message	Rinne	"But thank goodness. It looks like you don't have one.
+You've only just got better, so don't push yourself,
+all right?"	
+Message	Shido	Y-Yeah...	
+Message	Origami	......	
+Message	Rinne	"Sorry Shido, I just remembered something I have to do.
+I'm sorry, but would it be okay for me to go home first?"	
+Message	Shido	Huh...? I-I see... Well, if you have something to do, it can't be helped.	
+Message	Rinne	I'm sorry, Tobiichi-san, even though we were just about to start.	
+Message	Origami	There's no problem. I should apologize for not hosting you properly.	
+Message	Rinne	"No, you were perfectly fine.
+Thank you for the tea. Okay then, I'll be going now.
+I'll see you at school tomorrow, Tobiichi-san. See you later, Shido!"	
+Message	Shido	R-Right...	
+Message	Shido	Whew... Okay then, let's study...	
+Message	Origami	Study what?	
+Message	Shido	Er... What?	
+Message	Origami	As in study for a test? Or an alternative form of studying?	
+Message	Shido	Alternative, meaning?	
+Message	Origami	Lo―	
+Message	Shido	Y-You don't have to say it! We're doing normal studying!	
+Message	Origami	I see. Shame...	
+Message	None	"(A-As I thought, I sense danger to myself when alone with
+Origami...)"	
+Message	None	"(I wonder if something happened with Rinne.
+I feel like she was acting different than usual...)"	
+Message	Origami	"Shido, I have memories of studying here in the same way
+before."	
+Message	Shido	Huh?	
+Message	Origami	"This problem, your answer. I'm pretty sure it's exactly the same.
+When I studied here with you..."	
+Message	Shido	"Huh?! Now that you mention it, you're right.
+We've studied together before, haven't we?"	
+Message	Origami	Definitely.	
+Message	Shido	"Yeah, I figured... But, I can't put my finger on it...
+When did I come to your house? When did we study?
+I was asleep in bed, so that should be impossible..."	
+Message	Origami	That I also don't know.	
+Message	Shido	That's kinda scary...	
+Message	Origami	Something may be happening.	
+Message	Shido	"Yeah, you might be right.
+For now, I'll be leaving for today.
+There's something I need to think about too."	
+Message	Origami	I see...	
+Message	Shido	S-Sorry, even though I was the one who invited you...	
+Message	Origami	It's no problem. There's something that's bothering me slightly too.	
+Message	Shido	I-I see... Then, see you later!	
+Message	Origami	...Shido.	
+Message	Shido	Hm? What's wrong?	
+Message	Origami	I'd be happy if you invited me again.	
+Message	Shido	Y-Yeah. Leave it to me.	
+Message	None	(*sigh*... Really, what's going on...?)	
+Message	None	"(If it were just me, I could assume it had something to
+do with my head after recovering, but if Origami has the
+same memory, then it might've happened...)"	
+Message	None	"(No. Maybe there's a chance that two people can experience
+the same déjà vu.)"	
+Message	None	(Man, I have no idea...)	
+Message	None	"(And I'm worried about Rinne...
+She seemed kinda strange...)"	
+Message	None	"(If something's troubling her, she could just tell me.
+We are childhood friends after all...)"	
+Message	None	"(She said something came up all of a sudden, but
+I wonder what it is...)"	

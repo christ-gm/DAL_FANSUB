@@ -1,0 +1,46 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	A transmission? Who's it from?	
+Message	Kannazuki	"Hello...? Oh, Shido-kun! I'm glad I got\nahold of you."	
+Message	Shido	...Kannazuki-san? What's the matter?	
+Message	Kannazuki	"Don't 'what's the matter' me! I tried to\nperform my usual reporting, but I can't\nseem to get ahold of the commander."	
+Message	Shido	Kotori...?	
+Message	Kannazuki	"Yes, the commander mentioned that she\nhad a meeting at school today, so I was\nhoping she'd be somewhere nearby."	
+Message	Shido	"Oh, then would you like me to visit Reine?
+Oh, wait..."	
+Message	Shido	Hey, I see her... I found Kotori.	
+Message	Kotori	What is it...? Who are you talking to?	
+Message	Shido	"Oh. It's Kannazuki-san. He said he couldn't
+get ahold of you, so he was checking in with
+me."	
+Message	Kotori	"...Checking in? Oh, come to think of it, I was
+washing my face earlier and didn't check my
+phone."	
+Message	Shido	You were washing your face?	
+Message	Kotori	Yeah, I was feeling groggy.	
+Message	Shido	Gotcha...	
+Choice		I wonder if she's tired. Be kind to her.	
+Choice		Is she getting lazy? I gotta warn her.	
+Message	Shido	"Kotori, have you not been getting much sleep?
+Don't push yourself too hard. If you faint, then
+it'll all be for nothing."	
+Message	Kotori	"...! Hey, what are you talking about?! This is
+a desperate time. Just when am I supposed
+to let my guard down?"	
+Message	Shido	But...	
+Message	Kotori	"Argh! Shut up! If you have time to worry about
+me, then you should be worrying about the other
+Spirits!"	
+Message	Shido	WHOA!	
+Message	Kotori	What's the point of hitting on me?!	
+Message	Shido	I-I was only... watching out for you...	
+Message	Kannazuki	"Ahhh, Shido-kun! What an honor, to be\nstrong-armed by the commander. What I\nwould give to be in your position!	
+Message	Shido	K-Kannazuki-san...	
+Message	Shido	"Hey, are you all right? You're the commander
+of the Ratatoskr, right? Are you slipping up?"	
+Message	Kotori	Shut up! That's not for you to say!	
+Message	Shido	GWAH!	
+Message	Kotori	"Ratatoskr is none of your concern. Don't talk
+to me like you know what you're talking about!"	
+Message	Shido	*whimper*... Okay.	
+Message	Kannazuki	"Aww. The commander elegantly told you\nto put a cork in it... I'm so envious! If you\ncould, please teach me your ways!"	
+Message	Shido	...I-I wouldn't recommend it.	

@@ -1,0 +1,137 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(Hm? Over there, is that...?)	
+Message	None	"(When I glanced over at the lake, I saw Tohka
+sadly staring across its surface, on top of the
+short bridge leading to the outlet tower.)"	
+Message	Tohka	......	
+Message	None	"(Ah man... I bet she's still worried about what
+happened at the theater... She looks pretty
+down in the dumps...)"	
+Message	None	"(Maybe it'd be better if I took her
+mind off things...)"	
+Message	Shido	Tohka? There you are.	
+Message	Tohka	Sh-Shido...! Why...?	
+Message	Shido	Why? I just wanted to talk to you.	
+Message	Tohka	Oh, I see...	
+Message	None	"(She seems pretty depressed... Maybe I could talk
+about something to change her mood?)"	
+Message	None	"(Or, maybe... at times like these, perhaps it's
+best to not say anything unnecessary, and
+stay beside her quietly?)"	
+Message	None	(I wonder which one...)	
+Choice		Try saying something.	
+Choice		Be quiet and stay by her side.	
+Message	None	"(I really should talk about something, anything.
+Even if I can't think of the best topic, she might
+cheer up just by having someone talk to her...)"	
+Message	Shido	Umm... Tohka?	
+Message	Tohka	Hmm...?	
+Message	Shido	"Er, well... I wanted to apologize.
+Also... thanks."	
+Message	Tohka	Wh-What for, all of a sudden?	
+Message	Shido	"Well... I've been thinking that I wanted to
+apologize to you at some point, but I also
+thought that I wanted to thank you."	
+Message	Tohka	...?	
+Message	Shido	"When I was scared of the existence of Spirits
+because of what happened with Kurumi, there was a
+time when I... shook off your hand, right?"	
+Message	Tohka	Oh... back then. I was not bothered by...	
+Message	Shido	"No, no matter what reason I had, I can't forgive
+myself for shaking off your hand like that."	
+Message	Tohka	Shido...	
+Message	Shido	"So... I'm sorry... And then, when I was trying
+to figure out what to do, you were the one to
+reach your hand out to me."	
+Message	Tohka	Hmm, did I...?	
+Message	Shido	"Yeah... It's not like you and Yoshino appeared
+and destroyed the world, or fought the AST
+just because you wanted to, right?"	
+Message	Tohka	Y-Yes...	
+Message	Shido	"It was different with Kurumi. I don't know if it's
+true now, but there was no mistake at the time:
+She was attacking people of her own free will."	
+Message	Tohka	...!	
+Message	Shido	"With you and Yoshino, there was no question;
+I knew you should be saved. But with Kurumi,
+I didn't know whether it was right or not..."	
+Message	Shido	"But... you taught me, Tohka. With your warmth, you
+helped me to remember..."	
+Message	Shido	So, thank you.	
+Message	Tohka	―!	
+Message	Tohka	"I-I see... Shido, thank you... You are trying
+to cheer me up, aren't you?"	
+Message	Shido	"Er, well... I just said how I really feel,
+that's all."	
+Message	Tohka	"Yes, I know... That's what warmed my heart.
+I thank you, Shido."	
+Message	Shido	"Haha, getting thanked even though I thanked you,
+that's kind of funny."	
+Message	Tohka	I suppose that's true...	
+Message	Shido	Ahahaha...!	
+Message	Tohka	Hahaha...	
+Message	None	"(Yeah, it was good that I talked to Tohka. To be
+able to see her smile again, even a little.)"	
+Message	Tohka	Shido...	
+Message	Shido	Hmm?	
+Message	Tohka	"I studied so hard... and learned so many things...
+But why am I no good...?"	
+Message	None	"(Oh, I see...Tohka was worried about studying
+for the test...)"	
+Message	Shido	"Hey, Tohka... There are different things that
+people are suited for or not suited for."	
+Message	Shido	"Rather than trying things that are too difficult,
+I think it's good sometimes to focus on things
+you can do well, and work towards those, you know?"	
+Message	Tohka	"N-Not suitable...? D-Do you think
+that too, Shido...?"	
+Message	Shido	"Er, well... I just think you don't have to push
+yourself so much."	
+Message	Shido	"Of course everyone has something they can't do.
+Sometimes it's necessary to accept that part of
+you that's no good."	
+Message	Shido	"Instead, you can improve what you're a natural at,
+and... Huh?"	
+Message	Tohka	*Sniffle*...*sniffle*...*sob*...!	
+Message	Shido	T-Tohka...?	
+Message	Tohka	"E-Even then... I...*sob*...!
+I-I wanted to try my hardest...
+f-for you... for you...!"	
+Message	Shido	Huh? Wait, what do you mean by...?!	
+Message	Tohka	*Sniffle*...*sob*...!!!!	
+Message	Shido	H-Hey! Where are you going? Tohka!	
+Message	None	(O-Oh man... Did I mess up again...?)	
+Message	None	"(I'll keep quiet and stay by her side. Rather
+than saying useless things to try to cheer her up,
+maybe my feelings can be felt by being nearby.)"	
+Message	None	"(I got closer to Tohka and leaned against the
+railing of the bridge. The early summer wind blew
+across the lake's surface.)"	
+Message	None	"(Ah... Sometimes it's nice to not do much
+of anything, and take it easy like this.)"	
+Message	Tohka	Shido...	
+Message	Tohka	"I studied so hard... and learned so many things...
+But why am I no good...?"	
+Message	None	"(Oh, I see...Tohka was worried about studying
+for the test...)"	
+Message	Shido	"Rather than trying things that are too difficult,
+I think it's good sometimes to focus on things
+you can do well, and work towards those, you know?"	
+Message	Tohka	"N-Not suitable...? D-Do you think
+that too, Shido...?"	
+Message	Shido	"Er, well... I just think you don't have to push
+yourself so much."	
+Message	Shido	"Of course everyone has something they can't do.
+Sometimes its necessary to accept that part of you
+that's no good."	
+Message	Shido	"Instead, you can improve what you're a natural at,
+and... Huh?"	
+Message	Tohka	*Sniffle*...*sniffle*...*sob*...!	
+Message	Shido	T-Tohka...?	
+Message	Tohka	"E-Even then... I...*sob*...!
+I-I wanted to try my hardest...
+f-for you... for you...!"	
+Message	Shido	Huh? Wait, what do you mean by...?!	
+Message	Tohka	*Sniffle*...*sob*...!!!!	
+Message	Shido	H-Hey! Where are you going? Tohka!	
+Message	None	(O-Oh man... Did I mess up again...?)	

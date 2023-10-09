@@ -1,0 +1,84 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Huh?	
+Message	Shido	Yoshino?	
+Message	Yoshino	Shido-san...?	
+Message	Shido	"What are you doing in a place like this?
+You're not gonna go inside?"	
+Message	Yoshino	I was... looking at the sky...	
+Message	Shido	The sky...?	
+Message	Yoshino	Yes... it's... very pretty...	
+Message	Shido	"Oh, it's already evening. The sunset's peeking
+through the clouds... It is pretty."	
+Message	Yoshino	...Yes.	
+Message	None	"(Huh... For Yoshino to look pensively at the
+sunset like this... She's quite the romantic.)"	
+Message	None	"(I feel like it's been ages since I've looked
+quietly at the sunset...)"	
+Message	Reine	"Shin, can you hear me?"	
+Message	Shido	"Reine-san?
+Yes, I can hear you clearly."	
+Message	Reine	"Are you with Yoshino at the moment?"	
+Message	Shido	Yes, I am... What's wrong?	
+Message	Reine	"I apologize as it's the usual. I had lost track\nof Yoshino's position..."	
+Message	Reine	"Her mental status appeared stable, so I thought\nshe must be near you."	
+Message	Shido	"Well, I am with her, but I just met up with her
+a second ago."	
+Message	Reine	"Hmm... That's intriguing. Seeing such\nrelaxed numbers without anyone with her...\nWhat was Yoshino doing?"	
+Message	Shido	She was looking at the sunset, apparently...	
+Message	Reine	"The sunset?"	
+Message	Shido	Yeah. She was saying the sky was pretty...	
+Message	Reine	"I see. How interesting..."	
+Message	Reine	"Shin, if you could, would you stay near Yoshino\nand observe her?"	
+Message	Shido	"Huh? I didn't want it to get too late, so I was
+planning on taking her back home..."	
+Message	Reine	"I'm curious about something. I believe it would\nyield interesting results about the movement of\na Spirit's psychological state... Or so I feel."	
+Message	Shido	Oh then, I guess I should...	
+Choice		Watch the sunset.	
+Choice		Take her home.	
+Message	Shido	"I understand. I'll treat the two of us to a sunset
+date a little while longer."	
+Message	Reine	"I'm counting on you, Shin."	
+Message	Yoshino	Is something... wrong...?	
+Message	Shido	Oh, no... I thought I'd watch with you, too...	
+Message	Yoshino	Really...?	
+Message	Shido	Yeah... I'll try not to get in your way.	
+Message	Yoshino	"Y-You're not... in the way, at all...
+I'd be... happy, if you could... watch with me..."	
+Message	Shido	"I-I see... Then, since we're here...
+Do you want to move to a place with a better view?"	
+Message	Shido	There's a place where you can see more of the sky.	
+Message	Yoshino	...?	
+Message	None	"(Getting on top of the roof makes me feel like I'm
+a child again. It's so nostalgic...)"	
+Message	Yoshino	......	
+Message	Shido	......	
+Message	Shido	How pretty, Yoshino.	
+Message	Yoshino	...Huh?!	
+Message	Shido	Hm?	
+Message	Yoshinon	"Shido-kun, casual seduction is prohibited～!"	
+Message	Shido	"Oh, I didn't mean it like that.
+I was just saying the sunset is really pretty."	
+Message	Yoshinon	"Ohh, you were talking about the sunset. Too bad,\nhuh, Yoshino～?"	
+Message	Yoshino	"No... I'm glad that Shido-san and I...
+feel the same way!"	
+Message	Shido	"If you hadn't told me, Yoshino, I would have
+missed out on such an amazing view.
+Thanks, Yoshino."	
+Message	Yoshino	...Yes!	
+Message	Shido	"Yoshino, we can't stay in a place like this
+forever, we'd better head back home."	
+Message	Yoshino	Huh...? U-Umm...	
+Message	Shido	"You can watch the sunset tomorrow, too.
+You'll catch a cold if you stay out too late."	
+Message	Yoshino	U-Um... a little... a little, longer, please...	
+Message	Shido	D-Don't cry Yoshino! Just a little longer is fine.	
+Message	Reine	"Shin, that was a mistake. Yoshino's psychological\nstatus is about to become unstable."	
+Message	Shido	Wha... That wasn't what I meant to...	
+Message	Yoshino	Can I watch... a little bit, longer?	
+Message	Shido	"Y-Yeah... You can watch as long as you'd like.
+But you have to come back home before it gets
+dark, okay?"	
+Message	Yoshino	Yes...	
+Message	Shido	Whew, I panicked a bit...	
+Message	Reine	"Shin, you have to be a more careful.\nThe accumulation of even small missteps\ncan lead to them losing control."	
+Message	Shido	Yes... I'll be careful from now on...	

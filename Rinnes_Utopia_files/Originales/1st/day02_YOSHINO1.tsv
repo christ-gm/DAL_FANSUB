@@ -1,0 +1,231 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	"All right. I've got a date today with Yoshino.
+How should I meet up with her? I could ask
+Reine-san for help, or I could pick her up."	
+Message	Yoshino	Sh-Shido-san!	
+Message	Shido	...Huh? What, Yoshino? Wh-Why are you here?	
+Message	Yoshino	I-I thought... I could cheer everyone on.	
+Message	Shido	O-Oh, makes sense. Thanks.	
+Message	Yoshino	"Y-Yeah... I-I was just... watching from the
+corner, though..."	
+Message	Shido	Haha. You could've said something to us.	
+Message	Yoshino	I-I'm sorry...	
+Message	Shido	Hey there, you don't have to apologize.	
+Message	Yoshinon	"Yoshino is pretty shy, after all. She's keeping\nher eye on what everyone's doing today."	
+Message	Shido	Ha. Haha... I see. Thanks.	
+Message	Yoshino	...	
+Message	Yoshinon	"More importantly, Shido-kun, isn't there\nsomething you'd like to say?"	
+Message	Shido	Huh?	
+Message	Yoshinon	"Yoshino was waiting a long time for you\nat the front gates, you know? Don't you\nhave something you wanna ask?"	
+Message	Shido	Ahh. Umm...	
+Message	Yoshinon	"Ya know, that thing! You gotta ask her if she\nwants that fun thing that starts with a 'D'!"	
+Message	Shido	"Uh... Ah, right. I get it. Actually, the thought
+just crossed my mind."	
+Message	Yoshinon	"Really?!"	
+Message	Shido	"Yeah. In fact, your timing couldn't be better,
+Yoshino."	
+Message	Yoshino	...?	
+Message	Shido	Yoshino, since you're here, let's go on a date.	
+Message	Yoshino	...!!	
+Message	Shido	"You're not attending school, so you don't
+get out much, do you?"	
+Message	Yoshino	Get out much...?	
+Message	Shido	"Like, on the way home from school, eating
+and playing around, or talking. Stuff like that.
+Does that not sound fun?"	
+Message	Yoshino	N-No... It does.	
+Message	Shido	"Yeah, of course. All right. If you're up for it,
+Yoshino, then it's decided! Let's have a blast!"	
+Message	Yoshino	Okay!	
+Message	Yoshinon	"A date! It's a daaate!"	
+Message	Shido	"Now, then. Yoshino, do you wanna eat?
+Or we can play some games at the arcade?"	
+Message	Yoshino	U-Ummm...	
+Message	Shido	"There are plenty of other places, too. We
+could go shopping. I mean, I'm a little short
+on cash, so nothing too expensive, but..."	
+Message	Yoshinon	"Shido-kuuuun! You shouldn't rush a lady!"	
+Message	Shido	"Oh, sorry. I didn't mean to. Yoshino, please
+take your time and decide."	
+Message	Yoshino	Ah, y-yes. Thank you.	
+Message	Yoshinon	"Oh boy. Yoshino, I'm pretty excited.\nWhat should we do? Hey, whaddya think?!"	
+Message	Shido	"Hey, hey. Now you're the one rushing her,
+aren't you, Yoshinon?"	
+Message	Yoshinon	"Yoshinon's fine! Right, Yoshino!"	
+Message	Yoshino	Yoshinon is always like this...	
+Message	Yoshinon	"So many people! It's so lively! Look\nat all the different shops!"	
+Message	Yoshino	...	
+Message	Yoshino	I-I'd like... to try eating that...	
+Message	Shido	That...? Oh, an ice pop, huh?	
+Message	Yoshino	Ice... pop?	
+Message	Shido	"Yeah, it's like frozen juice on a stick. Kinda
+hard to explain, I guess. For now, why don't
+you try it for yourself?"	
+Message	Yoshino	Okay...	
+Message	Shido	"All right, I'll buy one. Yoshino, what flavor
+would you like?"	
+Message	Yoshino	Oh... U-Um, well...	
+Message	Shido	What's wrong...?	
+Message	Yoshino	Um, I-I want to try...	
+Message	Shido	...Huh?	
+Message	Yoshinon	"Yoshino, use your outside voice, or Shido-kun\nwon't be able to hear you."	
+Message	Yoshino	I-I... I'd like to try and order—"	
+Message	Yoshinon	"Ooooh! Yoshino, so energetic!"	
+Message	Shido	I-I don't mind, but why all of a sudden?	
+Message	Yoshino	"I think I need to be more active... so
+that I don't cause you any trouble."	
+Message	Yoshinon	"Well, it seems less like a date and more like\na guardian taking a child out, huh?"	
+Message	Shido	"...Got it. Well, I wouldn't mind being a
+guardian, but..."	
+Message	Yoshino	I don't... want that...	
+Message	Shido	Huh?	
+Message	Yoshinon	"Ah geez, you still don't get it, do you\nShido-kun? You've still got so much to learn."	
+Message	Shido	I-Is that so...? I'm sorry.	
+Message	Yoshinon	"Yoshino is working up the courage to enter\na shop all by herself! Show some support,\nwhy don't you?!"	
+Message	Shido	You're right...	
+Choice		Experience is everything. Cheer her on.	
+Choice		It's still worrying. Buy them yourself.	
+Message	Shido	"All right! Go ahead! Experience is
+everything after all! If that's what you
+want, then I'll cheer you on!"	
+Message	Yoshino	Y-Yes!	
+Message	Shido	"Just don't run off with any strangers!
+After you buy it, come right back here!"	
+Message	Yoshino	O-Okay...	
+Message	Yoshinon	"Haha, Shido-kun. You're such a helicopter\nparent."	
+Message	Shido	No, I'm still worried... I'll come with.	
+Message	Yoshino	Wha? B-But...	
+Message	Shido	"I thought that maybe going together would
+keep you from being overwhelmed. Do you
+disagree?"	
+Message	Yoshinon	"Tsk tsk, this is textbook bad parenting,\nShido-kun."	
+Message	Shido	Huh?!	
+Message	Yoshinon	"Listen, Shido-kun. Right now, Yoshino is trying\nto buy something by herself, right?"	
+Message	Yoshinon	"If you joined her, wouldn't that sap Yoshino's\nconfidence?"	
+Message	Shido	U-Urgh...	
+Message	None	"(The puppet's right. Yoshinon's got a good
+point.)"	
+Message	Yoshinon	"Wouldn't it be better to respect Yoshino's\nwishes, and perhaps watch warmly from the\nback?"	
+Message	Shido	"Ugh. Y-You're right. I... was wrong. All right,
+Yoshino. Don't worry about me. Go ahead!
+I'll keep an eye out from back here!"	
+Message	Yoshino	Y-Yes!	
+Message	Yoshino	All right... I'll go...!	
+Message	Shido	R-Right... D-Do your best, Yoshino!	
+Message	Yoshino	Okay...!	
+Message	Yoshino	*deep breath, deep breath*...	
+Message	Yoshinon	"You can do it, Yo～shi～no～!"	
+Message	None	(Do your best, Yoshino...!)	
+Message	Kotori	"Look at you... Seems like you're getting\nalong."	
+Message	Shido	"Hey, Kotori. I'm surprised. Yoshino's really
+coming into her own."	
+Message	Kotori	"You're right. She's changed quite a bit.\nJust don't push her, got it? If anything\nhappens, you'd better support her."	
+Message	Shido	I know.	
+Message	Kotori	"Then that's settled. Okay, do your best\nout there."	
+Message	Shido	Right. See ya.	
+Message	Clerk	Welcome! May I take your order?	
+Message	Yoshino	...! U-Um... E-Excuse me!	
+Message	Clerk	Yes, how may I help you?	
+Message	Yoshino	U-Umm... I-I'd like an ice pop...	
+Message	Clerk	Of course. What flavor would you like?	
+Message	Yoshino	U-Umm... A-Any recommendations...?	
+Message	Clerk	"Yes. Today, the tropical banana is quite
+popular!"	
+Message	Yoshino	Um, one of those, please...	
+Message	Clerk	Okay, one tropical banana, coming up!	
+Message	None	(Ohh, Yoshino... You did it!)	
+Message	Yoshinon	"Way to go, Yoshino! You ordered all by\nyourself!"	
+Message	Yoshino	...Yeah!	
+Message	Clerk	Is there anything else you'd like to order?	
+Message	Yoshino	...Huh? ...Huh?	
+Message	Clerk	"If you have someone with you, I'd recommend
+our summer special, which is limited."	
+Message	Yoshino	U-Umm...	
+Message	Clerk	"Also, our pineapple fruit mix has been
+popular as well."	
+Message	Yoshino	U-Umm... Aah...	
+Message	None	(Oh dear...)	
+Message	Clerk	Thank you very much!	
+Message	Shido	Ahh... Yoshino...	
+Message	Yoshino	U-Umm... W-Well...	
+Message	Yoshinon	"Uh oh, we maaay have bought too many."	
+Message	Yoshino	I-I'm sorry...	
+Message	Shido	"No, it's all right. You did your best, Yoshino.
+Good job."	
+Message	Yoshino	Y-Yeah...	
+Message	Shido	"Well, it doesn't look like one person could
+eat all of this..."	
+Message	Yoshino	Yeah...	
+Message	Shido	"For now, since you bought it and everything,
+why don't we eat it before it melts?"	
+Message	Yoshino	...Y-You're right.	
+Message	Shido	Hey, sure looks good!	
+Message	Yoshino	Y-Yes...!	
+Message	Shido	Oooh... It's cold and delicious!	
+Message	Yoshino	Yesh... Ish very ghood...	
+Message	Shido	"Sometimes if you eat ice pops, you can get
+brain freeze, so watch out, okay?"	
+Message	Yoshino	Y-Yesh...	
+Message	Shido	Here. This one looks good, too.	
+Message	Yoshino	Ohkay!	
+Message	Yoshino	I-It's starting to get difficult...	
+Message	Yoshinon	"Keep going, Yoshino! Ice is your field of\nspecialty, so it'll work out!"	
+Message	Shido	"Ahh, this one's melting, too! Gotta hurry and
+eat it!"	
+Message	Yoshino	Y-Yeshf!!	
+Message	Shido	Whew. We managed to eat them all somehow...	
+Message	Yoshino	Y-Yeah... It was hard...	
+Message	Shido	O-Oogh!	
+Message	Yoshino	A-Are you, okay?	
+Message	Shido	"M-My head... I ate too many cold things at once.
+I've got an intense headache all of a sudden..."	
+Message	Yoshino	A-Are you okay?	
+Message	Yoshinon	"This is an emergency, Yoshino! We have to\n do something, or Shido-kun's in a jam!"	
+Message	Yoshino	U-Ummm... Umm... Oh!	
+Message	Yoshinon	"Oooh, did you think of something?"	
+Message	Yoshino	Y-Yah...!	
+Message	Yoshinon	"Bwah?!"	
+Message	Shido	"(Hmm, huh? For some reason, the side of
+my head is warm...)"	
+Message	Shido	U-Umm... Yoshino? What is...?	
+Message	Yoshino	I-I thought I could... warm up your head.	
+Message	Yoshinon	"Hee hee, Yoshino's warm, isn't sheeee?"	
+Message	Shido	Umm... Y-Yeah... Thanks. So warm.	
+Message	Yoshino	Y-Yeah. I'm glad I can... be of help.	
+Message	Shido	"I guess it's hazardous to eat too many
+cold things at once."	
+Message	Yoshino	Y-Yeah... I'll be careful, too...	
+Message	Shido	But, it was delicious.	
+Message	Yoshino	Yes... it was!	
+Message	Shido	All right, let's head home.	
+Message	Yoshino	...Yeah.	
+Message	Shido	"By the way, do you know about the
+Neo Tengu Tower, Yoshino?"	
+Message	Yoshino	Neo Tengu... Tower...?	
+Message	Shido	"Yeah. It's got a somewhat strange design.
+It's taller than the Tengu Tower, and lately
+it's been noted for being a symbol of the city."	
+Message	Yoshinon	"Yahooo! That sounds super interesting!\nIt'd be neat to climb it."	
+Message	Shido	Yeah. I'd like to check it out, too.	
+Message	Yoshinon	"Okie dokes. Let's go, let's go!"	
+Message	Shido	Go... You mean, right now?	
+Message	Yoshinon	"Yeah! Tall skyscrapers are practically\nasking to be climbed, aren't they?! Am\nI wrong? Whaddya think, Shido-kun?!"	
+Message	Shido	"I understand how you feel, but...
+I don't think it's open yet..."	
+Message	Yoshinon	"Shido-kun. If you keep sweating the details,\nyou'll never be popular!"	
+Message	Shido	"Hey, that's none of your business! Well,
+I'm unsure if we're allowed inside, but
+we can stop by on our way home."	
+Message	Shido	Yoshino, what do you want to do?	
+Message	Yoshino	Let's... go!	
+Message	Shido	All right. Then let's stop by for a bit.	
+Message	Shido	"This is Neo Tengu Tower...
+Just as I guessed, it looks closed."	
+Message	Yoshinon	"It's sooo biiiig! I wanna reach the top so\nbadly! It's a shame we can't climb it!"	
+Message	Yoshino	...Yes, it's tall.	
+Message	Shido	"If we can't go inside, then there's no point in
+being here, so we should just head home.
+Let's come back again when it's open."	
+Message	Yoshino	Yeah...	
+Message	Yoshinon	"You promise, right?"	
+Message	Shido	Yup. It's a promise.	

@@ -1,0 +1,369 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(After school, I waited in my classroom for Kurumi to
+come back.)"	
+Message	Shido	Kurumi's late...	
+Message	Shido	"Uh, the movie's going to start at... Oh, we still have
+enough time."	
+Message	Shido	"She said she's helping Tama-chan, but maybe I
+should have gone with her."	
+Message	None	"(Today we have plans to go see the movie we talked
+about when she visited my house the other day.)"	
+Message	None	"(But Kurumi was asked by the Social Studies teacher―
+Tamae Okamine-sensei, also known as Tama-chan―to
+help her."	
+Message	Shido	Hmm...	
+Message	Shido	"I feel dumb just sitting around here, so maybe I'll go
+check on them to see if I can help."	
+Message	None	"(I went to the classroom where she was supposed to
+be, but no one was there. Seems like they've already
+finished their work. Maybe we just missed each other.)"	
+Message	Shido	"Hmm. It's probably just bad timing... I guess I should
+go back."	
+Message	None	"(I went toward the stairs so I could go back to the
+classroom. Just then―)"	
+Message	Shido	Huh... Kurumi?	
+Message	None	"(I saw someone who looked like Kurumi head toward
+the rooftop. Actually... I know it's Kurumi. I guess
+I'll go after her.)"	
+Message	None	"(I went up to the rooftop and saw Kurumi there,
+looking out beyond the fence. She seemed to be
+watching the students walk home.)"	
+Message	Shido	Kurumi?	
+Message	Kurumi	Oh... Shido-san.	
+Message	Kurumi	Gosh. Don't scare me.	
+Message	Kurumi	I was worried that you had gone home without me.	
+Message	Shido	"Sorry. I wanted to go and help you, but seems like we
+just missed each other."	
+Message	Kurumi	You... wanted to help me?	
+Message	Shido	"Yeah. I figured we'd be able to finish sooner and
+leave together."	
+Message	Shido	Well, I guess in the end we missed each other.	
+Message	Shido	So what were you doing here?	
+Message	Kurumi	"Well, Okamine-sensei asked me to look for you,
+Shido-san."	
+Message	Shido	"Tama-chan did? I wonder what she wanted to talk to
+me about."	
+Message	None	(I had no idea why she wanted me.)	
+Message	Shido	Did she say anything else, Kurumi?	
+Message	Kurumi	"All she said was to call you... Come to think of it,
+Shido-san... Have you submitted your report?"	
+Message	Shido	Report? OH! The social studies one!	
+Message	None	"(I finally remembered. That's right. Today was the day
+my report was due.)"	
+Message	Shido	Aw, man. I totally forgot.	
+Message	Kurumi	Don't tell me you haven't touched it.	
+Message	Shido	"Oh, well I did do it. It's just that I forgot to bring it...
+Please believe me."	
+Message	Kurumi	"It's pointless whether I believe you or not... But I
+think.... Rather, that's definitely what she
+was calling you for."	
+Message	Shido	Ah, I see. That's not good...	
+Message	Kurumi	Oh? What's not good?	
+Message	Shido	"Well, it's still early, so I can see her telling me to go
+back home to pick it up..."	
+Message	Kurumi	"But it is your fault for forgetting, Shido-san. You
+can't blame her for telling you that."	
+Message	Shido	Yeah, but... But I made plans with you...	
+Message	None	"(The movie Kurumi said she wanted to see a little
+while ago. Today's the last day to see it in theaters.
+If we miss it, God knows when we can see it next...)"	
+Message	Kurumi	So... I'm the cause of your stress?	
+Message	Shido	Huh? Well, um...	
+Message	None	(I blushed. I couldn't help but scratch my cheek.)	
+Message	Shido	"If I miss the chance today, we won't be able to see
+the movie, right? We don't even know when it'll be out
+to buy later..."	
+Message	Kurumi	So what do you plan on doing?	
+Message	Shido	"...I feel bad for Tama-chan, but I'm going to submit
+my report tomorrow."	
+Message	None	"(It's not like I didn't do it. I'm sure she'll forgive
+me if I submit it tomorrow.)"	
+Message	Shido	"...So I'm sorry, but can you tell Okamine-sensei that
+I've already gone home?"	
+Message	None	(Kurumi seemed to contemplate the idea for a moment.)	
+Message	Kurumi	...Very well. You just leave it to me.	
+Message	None	(She spoke with her usual bright smile.)	
+Message	Shido	Thanks! All right, let's move on then!	
+Message	Shido	"First, I'm going to go get my bag from the classroom.
+I figured it'd be in the way, so I left it behind. The
+movie tickets are still in there..."	
+Message	Kurumi	Got it. It's on my way, so I'll go with you.	
+Message	Shido	All right. Let's go, then.	
+Message	Shido	"Come to think of it, what did she ask you to help her
+with, Kurumi?"	
+Message	Kurumi	"Organizing the worksheets for the next class. It was
+pretty heavy, so she must have wanted help."	
+Message	Shido	Ah, makes sense. You're the class president, huh.	
+Message	None	(Kurumi suddenly stopped.)	
+Message	Shido	Kurumi? What's the matter?	
+Message	Kurumi	Shhh. Quiet, Shido-san... Do you hear that?	
+Message	Shido	Huh?	
+Message	None	"(I listened carefully. I heard a familiar voice coming
+from the hallway.)"	
+Message	Tamae	Uuuum. Have you seen Tokisaki-san or Itsuka-kun?	
+Message	Tamae	I seee. Thank you～	
+Message	Shido	...That voice!	
+Message	None	"(Speak of the devil. The owner of the voice was
+Tama-chan, a.k.a. Okamine-sensei.)"	
+Message	Kurumi	Shido-san, hurry.	
+Message	Shido	Yeah...	
+Message	None	"(Kurumi and I nodded at one another and turned
+around, running back the other way.)"	
+Message	Kurumi	What are you going to do?	
+Message	Shido	"...First, let's go downstairs and take the long way
+around to the classroom."	
+Message	Kurumi	Got it.	
+Message	None	"(We looked around and went down the lower hallway.
+We managed to find a way into the classroom.)"	
+Message	Shido	All right. Seems like we beat her here.	
+Message	Kurumi	"Come to think of it, I came with you... but I could
+have bought some time earlier, couldn't I?"	
+Message	Shido	No point in thinking about that now. Anyways, hang on.	
+Message	None	"(I went straight to my desk, but... For some reason,
+my bag was missing.)"	
+Message	Shido	What the...	
+Message	Kurumi	What's the matter?	
+Message	Shido	My bag is gone...	
+Message	Kurumi	Huh?	
+Message	None	"(I looked around, but I couldn't find my bag
+anywhere.)"	
+Message	Shido	Of all times...	
+Message	Kurumi	Shido-san, over here.	
+Message	None	"(Kurumi was moving toward the blackboard. I followed
+her and saw my bag there with a note.)"	
+Message	Shido	"What's this? "Shido forgot his bag, so someone either take it
+to him, or please let him know about it.―Tonomachi.""	
+Message	Shido	Ah, damn it, Tonomachi. You scared me...	
+Message	None	"(I'm sure he did it for my benefit, but... Gosh, he
+didn't have to do that...)"	
+Message	Shido	Oh, well. I found my bag, so let's hurry up and go.	
+Message	None	(Just then Kurumi raised her hand to stop me.)	
+Message	Shido	Kurumi, what's the matter?	
+Message	Kurumi	Shido-san... No. ...She's coming!	
+Message	Shido	Huh? O-Oh, no...!	
+Message	None	"(I listened carefully and heard a familiar voice
+approaching.)"	
+Message	Tamae	Tokisaki-saaaaaan. Itsuka-kuuuun?	
+Message	Tamae	Are you guys around here～? I need to talk to you～	
+Message	Shido	...This isn't good.	
+Message	None	"(I heard Okamine-sensei's footsteps coming straight
+toward us. Even though I managed to get ahold of my
+bag, we were still going to get caught at this rate.)"	
+Message	Kurumi	"Shido-san. What do you want to do? If she comes in
+here, we'll get caught."	
+Message	Shido	*grunt*. I can't leave the classroom now...	
+Message	None	(I―)	
+Choice		There's no use... Let's give up.	
+Choice		Kurumi, help me!	
+Message	None	"(It's too late to run and hide at this point. The
+situation was dire.)"	
+Message	Shido	...Let's give up.	
+Message	Kurumi	...Shido-san?	
+Message	None	"(Knowing Okamine-sensei, she may just wait until
+tomorrow if I asked. I decided to just give in.)"	
+Message	Shido	"It's pointless. There's nowhere to hide in here, and I
+can't exactly run for it."	
+Message	Kurumi	―Huh?	
+Message	Shido	I'm sorry... But we're going to have to give up.	
+Message	Shido	Kurumi. I'm so sor...	
+Message	None	"(I looked down. Okamine-sensei's footsteps were
+getting louder and louder.)"	
+Message	None	"(I had already given up, but Kurumi's powerful voice
+resounded in my ears.)"	
+Message	Kurumi	...That's not like you, Shido-san.	
+Message	Shido	Huh?	
+Message	Kurumi	There's still a place to hide.	
+Message	Kurumi	So please don't give up.	
+Message	Shido	Kurumi...	
+Message	None	"(Hearing her powerful words, I decided to take a
+chance. The sparkle in my eyes returned, and I wanted
+to hear Kurumi's thoughts.)"	
+Message	Shido	Got it. But there's no place to hide. Or is there?	
+Message	Kurumi	That would be... here.	
+Message	Shido	W-Whoaaaa!	
+Message	None	"(Before I could answer, Kurumi yanked my arm and
+shoved me under the teacher's podium.)"	
+Message	Shido	H-Hey, what are you... GAH!	
+Message	None	"(Kurumi sandwiched my face with something soft,
+covered my head with something, and closed off the
+bottom of the podium.)"	
+Message	Shido	*grunt*... What's going on?	
+Message	Kurumi	Sh-Shido-san, don't move!	
+Message	Shido	K-Kurumi? What's going on―	
+Message	Kurumi	HYAHH! S-Stop. It tickles.	
+Message	Shido	...Huh?!	
+Message	None	"(Judging by our back-and-forth, I had a hunch about
+what was going on.)"	
+Message	None	"(Basically this is the only thing that could be done
+now. Then that means―)"	
+Message	Kurumi	Ah... Shido-san, please. Don't breathe too hard.	
+Message	Kurumi	Your breath... It tickles my legs.	
+Message	Shido	B-But...	
+Message	Kurumi	AH! ...Shido-san, are you... doing it on purpose?	
+Message	Shido	N-No, it's not like that! I...	
+Message	Kurumi	Hya...?! Gosh!	
+Message	None	"(Her soft flesh. Her sweet scent. Her moist, warm
+skin. And Kurumi's sweet sighs. Every time I heard
+them, my heart rang like a bell.)"	
+Message	Shido	H-Hey, Kurumi? I don't think this will cut it...	
+Message	Kurumi	"Ahh... Please hang in there... until we can get rid
+of... O-Okamine-sensei."	
+Message	Kurumi	I... will... mm... endure it...	
+Message	Shido	O-Okay.	
+Message	None	"(So we maintained that position for a little while
+as Okamine-sensei neared.)"	
+Message	Shido	Is she here?	
+Message	Kurumi	"No. It seems as though sh-she's standing in front of
+the classroom."	
+Message	Kurumi	"I think she's... hah...! She's responding to a text
+message."	
+Message	Shido	I-I see... Th-Then maybe we can adjust our position―	
+Message	Kurumi	He... Shido-san, don't move!	
+Message	Shido	Yeah, but it's hard to breathe―	
+Message	Kurumi	HYAAAAA...!	
+Message	Shido	Whoa. I-I'm sorry!	
+Message	Kurumi	"No... Don't talk... Shido-san, your breath is on my
+thighs―"	
+Message	Shido	...!	
+Message	None	"(The more I moved or panicked, the more Kurumi's body
+squirmed, and her sweet moans escaped her mouth
+involuntarily.)"	
+Message	None	"(Even if I made the slightest movement or talked
+just a little, it stimulated her... I don't know what else
+I can do.)"	
+Message	None	(As my mind went blank, the split second that felt like a lifetime passed.)	
+Message	Kurumi	I think we're safe now.	
+Message	Shido	R-Really?	
+Message	Kurumi	Yes. She seems to be gone.	
+Message	Shido	Phew... We're saved.	
+Message	Kurumi	"Sh-Sh-Sh-Shido-san?! P-Please... if you're going to
+talk, please do so after you get out from under there!"	
+Message	Shido	O-Okay! So―	
+Message	Kurumi	...?!	
+Message	None	"(I crawled out from under the podium. Kurumi shot me
+a tough look, but... she and I managed to make it out
+of our bind.)"	
+Message	None	"(It was too late to run or hide. The situation was
+dire.)"	
+Message	Shido	...*grunt*.	
+Message	Kurumi	...Shido-san?	
+Message	None	"(But if I give up here, then my plans to see the movie
+with Kurumi would be ruined. This was all for Kurumi.
+She was so excited to watch it.)"	
+Message	None	"(I'm sure there's still a way. I... won't give up
+yet!)"	
+Message	Shido	Let's calm down. There has to be a way somehow.	
+Message	Kurumi	A way... Do you have any ideas?	
+Message	None	"(I looked around. I needed to find some place to
+hide.)"	
+Message	Shido	If I just hide, we should be able to get away with it!	
+Message	Shido	We need to find a hiding place...	
+Message	None	"(The only place I could hide in the classroom would
+be in the storage locker or the teacher's podium.)"	
+Message	Shido	The podium... That's it!	
+Message	Shido	Sorry, Kurumi. Help me!	
+Message	Kurumi	Help you... What do you want me to do?	
+Message	Shido	"I'm going to hide under the podium, so I want you to
+close it off with your legs and block me from the
+teacher's view."	
+Message	Kurumi	―!	
+Message	None	(When I said that, Kurumi gave a naughty smile.)	
+Message	Shido	Wh-What's the matter?	
+Message	Kurumi	My, my. Very well, then.	
+Message	Shido	Huh?	
+Message	Kurumi	I was just thinking the same thing.	
+Message	Shido	"I see. Then I don't have to explain anything! Thanks,
+Kurumi!"	
+Message	Kurumi	Hehe. Understood.	
+Message	None	"(After I nodded, I grabbed my bag and I hid under the
+podium.)"	
+Message	Shido	All right, Kurumi, hurry!	
+Message	None	"(All Kurumi had to do was stand there and let me
+hide―)"	
+Message	Kurumi	Excuse me, Shido-san.	
+Message	Shido	Huh... WHOA?!	
+Message	None	"(Suddenly my vision went dark. I felt something soft
+smush into my face.)"	
+Message	Shido	K-Kurumi? What's―	
+Message	Kurumi	Shido-san. Don't move.	
+Message	Shido	What are you doing―	
+Message	Kurumi	Quiet. Okamine-sensei is almost here...	
+Message	None	"(Just then, the door opened. My breath caught in my
+throat.)"	
+Message	Tamae	Oh, there you are, Tokisaki-san.	
+Message	Kurumi	Oh, Okamine-sensei.	
+Message	Tamae	What are you doing there?	
+Message	Kurumi	Hehe. I was just looking something up.	
+Message	None	"(My cheeks were pressed against something unbelievably
+soft. A lovely scent. Kurumi's body heat. I could feel
+it on my cheeks and shoulders.)"	
+Message	Shido	～!	
+Message	None	"(I don't know if Kurumi knew what was going through
+my mind, but she kept on talking with Okamine-sensei.)"	
+Message	Tamae	Sooo, were you able to find Itsuka-kun?	
+Message	Kurumi	"I'm sorry. It seems by the time I started searching
+for him, he had already gone home."	
+Message	None	"(It was getting hard for me to breathe, so I listened
+in to find the right opportunity to try and move my
+head.)"	
+Message	Kurumi	If I can find h―	
+Message	Kurumi	HYAH!	
+Message	None	(Just then, Kurumi's body jolted mid-sentence.)	
+Message	Tamae	Tokisaki-san? Is something the matter?	
+Message	Kurumi	N-Nothing! I thought I felt something touch my face.	
+Message	None	(I could hear a trace of panic in Kurumi's voice.)	
+Message	Tamae	A-As long as you're okay...	
+Message	Tamae	Right, Tokisaki-san. So about Itsuka-kun earlier―	
+Message	None	(Hearing my name, I froze.)	
+Message	Kurumi	Oh... Y-Yes.	
+Message	Tamae	T-Tokisaki-san? What's the matter?	
+Message	Kurumi	N-Nothing is the matter... I promise.	
+Message	Tamae	Really?	
+Message	None	"(Seems like whenever I moved, I was inadvertently
+stimulating Kurumi. S-Sorry, Kurumi.)"	
+Message	Tamae	Tokisaki-san, don't tell me...	
+Message	None	"(Crap. Did she catch us?! I tried to stay quiet, but
+the situation made me breathe even more heavily.)"	
+Message	Kurumi	Hya... Hauu!	
+Message	Tamae	Could you be... sick?	
+Message	Kurumi	"Mmm. Yes... that's right. My body... is just... isn't
+feeling well."	
+Message	None	"(Every time I tried to breathe in from between her
+thighs, Kurumi's body quivered, and the sweet anguish
+I could hear in her voice made my mind go numb.)"	
+Message	Tamae	That's not good! You need to go home immediately!	
+Message	Kurumi	"No. There's something I still have to do here. So when
+I'm finished with that..."	
+Message	Tamae	If it's something for school, then I'll just...	
+Message	Kurumi	"N-No, I'm fine! I want to do the job with which I was
+tasked as class president."	
+Message	None	"(I finally got some air in, and realized that Kurumi
+had lost her composure. This was far from her usual
+behavior.)"	
+Message	Tamae	"Is that so? Then, you take care of yourself and hurry
+home, okay?"	
+Message	Tamae	"Oh, and if you have a chance to see Itsuka-kun, then
+please tell him to bring his report tomorrow, okay?"	
+Message	Kurumi	...Understood. Good-bye, Okamine-sensei...	
+Message	None	"(And so we were able to avoid any trouble. Well..
+afterwards Kurumi straight up scolded me.)"	
+Message	Shido	That was a lot more fun than I thought.	
+Message	Kurumi	Yes. It was very good.	
+Message	None	"(We safely got out of the school, and as planned,
+we went to see the movie together.)"	
+Message	Shido	Oh... Kurumi?	
+Message	Kurumi	What is it?	
+Message	Shido	Um... Thanks for today.	
+Message	Kurumi	No problem. I'm glad I could be of use.	
+Message	Shido	You always help me out.	
+Message	Kurumi	But today... You've gone too far.	
+Message	Shido	...Huh?	
+Message	Kurumi	Therefore... Why don't we say you owe me one for now?	
+Message	Shido	Okay. Well, I guess you have a point.	
+Message	None	"(Even Kurumi was tossed around today... And it was
+all my fault.)"	
+Message	Shido	...Kurumi, you're adorable.	
+Message	Kurumi	Excuse me...? Could you say that again?	
+Message	Shido	Nothing. Thanks for today, Kurumi.	
+Message	Kurumi	Gosh, Shido-san. You always play it off like that...	
+Message	None	(And we slowly began the walk home.)	

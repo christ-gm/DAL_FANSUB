@@ -1,0 +1,160 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Kotori works day in and day out without a
+break as commander of the Fraxinus. It's such
+a big responsibility for someone her age.)"	
+Message	None	(Kotori, what can I do for you? Hm...?)	
+Message	Kotori	...	
+Message	Shido	Kotori...?	
+Message	Kotori	Shido...?	
+Message	Shido	"What are you doing here...? You must be exhausted.
+Shouldn't you be resting at home?"	
+Message	Kotori	"I-I just wanted to organize my thoughts, so
+I came outside. I'm fine... Totally fine."	
+Message	Shido	Yeah, but...	
+Message	Kotori	"I said I'm fine! There's nothing for you to
+worry about. I..."	
+Message	Shido	Kotori...?	
+Message	Kotori	...	
+Message	Shido	Hey, Kotori...	
+Choice		Isn't there something I can help you with?	
+Choice		I know it's tough, but hang in there.	
+Choice		You seem busy.	
+Message	Shido	"Isn't there something I could help you with?
+If I can do anything to alleviate your stress,
+I..."	
+Message	Kotori	No. Not a single thing.	
+Message	Shido	"What? Come on. I'm sure there's something
+I can do."	
+Message	Kotori	Nope.	
+Message	Shido	O-Oh...	
+Message	Kotori	I'm the only who's able to do what I can do.	
+Message	Kotori	"It's not something I can defer to someone,
+even you."	
+Message	Kotori	"Shido, there is something you should be able
+to do. That is your role."	
+Message	Shido	...Right.	
+Message	Kotori	But...	
+Message	Shido	Hm...?	
+Message	Kotori	Could you give me the energy to keep going?	
+Message	Shido	Yeah, sure. As much as energy as you want.	
+Message	Kotori	I knew you'd say that.	
+Message	Kotori	"So for now, just a little, could you lend me
+a shoulder to lean on?"	
+Message	Shido	Kotori, I'll be right by your side.	
+Message	Kotori	Mm...	
+Message	Shido	"This is all I've got for now, but hang in there.
+I know it's tough."	
+Message	Kotori	Yeah, I didn't need you to tell me that.	
+Message	Shido	Oh. R-Right, huh?	
+Message	Kotori	"I'll do it. My duty, that is. For myself, and for
+everyone."	
+Message	Shido	Okay, that's the Kotori I know.	
+Message	Kotori	And for you too, Shido.	
+Message	Shido	Hm?	
+Message	Kotori	Shido, you're always you.	
+Message	Shido	...Huh?	
+Message	Kotori	"Nothing. Now, let's go home. We can't be here
+all day."	
+Message	Shido	Okay...	
+Message	Shido	You seem busy.	
+Message	Kotori	Yup.	
+Message	Shido	"I'll do the best I can with what I've got to do,
+so hang in there too, okay?"	
+Message	Kotori	Okay, I'll do that.	
+Message	Shido	"For now, I guess I have to decide whom to ask
+on a date."	
+Message	Kotori	What do you mean by that?	
+Message	Shido	"Huh? Isn't that my job? You told me yourself.
+In order to stabilize the Spirits, I need to date
+everyone..."	
+Message	Kotori	"I KNOW THAT! But... do you have to say it in
+front of me?! That's what I'm asking!"	
+Message	Shido	Wh-What are you mad about?!	
+Message	Kotori	...You really don't know?	
+Message	Shido	"I don't get it! I'm doing exactly what you've
+told me to do!"	
+Message	Kotori	"Y-You're right, huh? Haha... Hahaha... It was
+just me. I was the only one... who felt that way.
+To think that... you and I were... connected."	
+Message	Shido	...Kotori?	
+Message	Kotori	"Was I imagining things? Were you nicer to me
+than usual because you were trying to kiss up?
+This... This is so... cruel!"	
+Message	Shido	"H-Hey, Kotori! What's the matter?! Why are
+you acting so weird?!"	
+Message	Kotori	Don't come near me! I... I...!	
+Message	Shido	Wait! Wait...?! Kotori! Kotoriiiiii?!	
+Message	Newscaster	"Vast wildfires are erupting throughout Tengu City,
+but the cause is still unknown. Neither the fire
+department nor the police can stop the flames."	
+Message	None	"(Was what I said to Kotori wrong? She was
+stable up until now, but she's suddenly gone
+rogue.)"	
+Message	None	"(The entire town was burned to the ground, and
+its original splendor was lost.)"	
+Message	None	"(Eventually, the spacequake engulfed all
+of Tengu City.)"	
+Message	Shido	"Kotori insists that she's fine, but she must
+be stressed to the bone right now."	
+Message	Shido	I should cheer her up more.	
+Message	Shido	"Of course, I should date her too. I'm going to
+take her out to help her relax."	
+Message	Shido	"Not just to prevent her from going rogue. I also
+want to be there for Kotori as much as I can."	
+Message	Shido	So, Kotori, let's go on a date tomorrow!	
+Message	Shido	...Go ahead?	
+Message	Rinne	Sorry, I'm not Kotori-chan.	
+Message	Shido	"...Rinne? Oh, it's fine, but... what's the
+matter?"	
+Message	Rinne	I wanted to ask you something, Shido.	
+Message	Shido	Ask me something?	
+Message	Rinne	"Yes, that's right. Shido... you've made up your
+mind, huh?"	
+Message	Shido	What are you talking about?	
+Message	Rinne	You said... you wanted to support Kotori-chan.	
+Message	Shido	"Yeah. I... don't want to see Kotori suffer the
+way she has. I want to see her smile."	
+Message	Rinne	I see. So that's what you've decided, huh?	
+Message	Shido	Yeah. That's what I've decided.	
+Message	Rinne	...	
+Message	Shido	...	
+Message	Rinne	Hey, Shido. Promise me something.	
+Message	Shido	Promise...? What for?	
+Message	Rinne	"That you'll take good care of Kotori from now
+on. No matter what happens, you won't let her
+go. Promise me."	
+Message	Shido	"Wh-What's gotten into you? You don't need
+to tell me that..."	
+Message	Rinne	"Please, I want you to promise. Promise me
+that you will think only of Kotori-chan, or
+else your heart will drift away some day."	
+Message	Shido	Rinne...	
+Message	Rinne	Please...	
+Message	Shido	"Okay, I promise. Man's word. I promise... to take
+good care of Kotori."	
+Message	Rinne	"Okay, I knew you'd make that promise with
+me."	
+Message	Shido	Haha, seriously? What's gotten into you?	
+Message	Rinne	"I have faith in you. I trust you, Shido. Don't
+forget your promise. Don't break it either, okay?"	
+Message	Shido	Of course.	
+Message	Rinne	If you break it, then you must pay.	
+Message	Shido	I-I know.	
+Message	Rinne	I see. As long as you understand.	
+Message	Shido	"Wh-What's the big deal? Why are you threatening
+me?"	
+Message	Rinne	Hehe... Sorry.	
+Message	Rinne	But...	
+Message	Shido	...?	
+Message	Rinne	"You'll be fine, right? I'm sure if it's Shido,
+he'll be fine."	
+Message	Shido	...	
+Message	Shido	Wh-What was that just now?!	
+Message	Shido	Hey, Rinne... Did you just see―	
+Message	Shido	"Huh? Rinne's gone?
+When did she...?"	
+Message	Shido	"Well, it is pretty late...
+I should head to bed as well."	
+Message	???	"...In this dream... no one can become happy...
+Shido Itsuka... I hope your next dream will be
+a happy one..."	

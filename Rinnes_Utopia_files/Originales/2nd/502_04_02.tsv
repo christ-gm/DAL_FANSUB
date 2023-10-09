@@ -1,0 +1,279 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Huh...?	
+Message	Shido	Is this... a shrine...?	
+Message	None	(What am I doing here?)	
+Message	None	"(If I'm at a shrine, does that mean I came here to
+pray?)"	
+Message	Shido	Prayer...	
+Message	None	"(Oh, that's right, I remember now! I'm here to
+pray for success on my entrance exam.)"	
+Message	None	"(I am currently... a student who failed his first
+college entrance exam.)"	
+Message	None	(I came here to pray for a successful exam.)	
+Message	None	"(I have to get in college this year. So I have to
+pray with all I've got.)"	
+Message	None	(All right, let's do this.)	
+Message	None	(...Wait a minute.)	
+Message	None	(Seems like someone's inside.)	
+Message	None	(Is that... a shrine maiden?)	
+Message	None	(She sure is pretty...)	
+Message	None	"(I didn't know the shrine had such a beautiful
+shrine maiden...)"	
+Message	None	(What do I do? Should I say hi to her?)	
+Message	None	"(No. I mean, I'm not going to talk to her just
+because she's pretty.)"	
+Message	None	"(I'm going to pray here, so it's only polite to
+pay my respects to the person working here.)"	
+Message	Shido	U-Um...	
+Message	Origami	Hello.	
+Message	Shido	H-Hello. Um, is it okay if I pray here?	
+Message	Origami	"Of course. This shrine is good for safety, success
+in business, safe births, exorcisms, cursing your
+enemies to death, and various other things."	
+Message	Shido	Wait... The last one sounded questionable.	
+Message	Origami	"Of course, it's also very good for passing
+entrance exams."	
+Message	Shido	Oh, yes.	
+Message	None	"(How weird. Something about her tone made it seem
+pretty barbaric. Oh well.)"	
+Message	Shido	"Anyways, well, I've come to pray for
+a successful exam."	
+Message	Origami	I thought so.	
+Message	Shido	Huh? How did you know?	
+Message	Origami	I could tell just by looking upon your face.	
+Message	Shido	I-I see.	
+Message	None	"(Wow, this shrine maiden is amazing. Maybe she has
+some sort of sixth sense.)"	
+Message	Origami	"Besides, we have many visitors here praying for a
+successful entrance exam."	
+Message	Shido	Oh, I see. Then this shrine must really work.	
+Message	Origami	"Not only that, but I was waiting for you to come,
+Shido Itsuka."	
+Message	Shido	Wait, what...? How do you know my name?!	
+Message	Origami	"Huh...? Oh yes, I haven't introduced myself yet.
+I am Origami Tobiichi. The shrine maiden of this
+place."	
+Message	Shido	"That's great. But how did you know my name...? Do
+you have some kind of supernatural vision...?"	
+Message	Origami	"No, I just saw your name on the wooden plaque when
+you came to pray last year."	
+Message	Shido	Are you serious?! Did I even do that?	
+Message	Shido	But still, you remembered my name just from that?	
+Message	Origami	"Since I saw you back then, I've had my eyes
+on you."	
+Message	Shido	Eyes on me... Wait, what? What do you mean?	
+Message	Origami	Of course I mean in a sexual way.	
+Message	Shido	That sure is direct!	
+Message	None	"(It's flattering to have such a beautiful person
+say that about me, but she said it with such a
+straight face, it was shocking...)"	
+Message	Origami	"I prayed that you would come again this year so I
+could see you."	
+Message	Shido	"What the—! So maybe that had something to do with
+my failing..."	
+Message	Origami	Maybe, maybe not.	
+Message	Shido	Which is it?	
+Message	Origami	"No need to rush. I will be introducing a special
+prayer to you this year."	
+Message	Shido	A special prayer?	
+Message	Origami	Yes. The Special Shido Itsuka Prayer.	
+Message	Shido	"That's obviously suspicious! Why is my name on the
+prayer?"	
+Message	Origami	"This one works very well. My wish came true,
+at least. See? I got to see you."	
+Message	Shido	No, thank you!	
+Message	Shido	"All I want is to pass my entrance exam. Shouldn't
+I just put money into the donation box and
+pray...?"	
+Message	Origami	"Unfortunately, I would say it is impossible for
+you to pass unless you do the special prayer."	
+Message	Shido	It's that bad?!	
+Message	Origami	"I have already prayed that I can see you
+again next year."	
+Message	Shido	Excuse me?!	
+Message	None	(What is wrong with this shrine maiden...)	
+Message	Origami	"If you want to pass, then you're going to have to
+pray with the special prayer and overwrite my
+wish."	
+Message	Shido	Can I really pass?	
+Message	Origami	"If you follow my instructions, I can guarantee
+that you'll pass. Those who have done the
+special prayer thus far have passed 100%."	
+Message	Shido	"100%?! That sounds even more suspicious... Are you
+sure?"	
+Message	Origami	I swear to God.	
+Message	Shido	That's amazing... Then I'll do it.	
+Message	Origami	"So you agree? You wish to do the successful
+entrance exam prayer?"	
+Message	Shido	Y-Yes... Wait a minute...	
+Message	Origami	What...?	
+Message	Shido	I'm curious about what that entails.	
+Message	Origami	"Don't worry. Just do as I say, and all will
+be well."	
+Message	Shido	"What if I have to sign some kind of shady contract
+and later realize I've agreed to buy something
+weird?"	
+Message	Origami	"Don't worry, that won't happen. The special prayer
+is completely free. Anyone can do it. The only
+difference is in the way one prays."	
+Message	Shido	I-If that's the case...	
+Message	Origami	You want to do it?	
+Message	None	"(I've never heard of having to do a special
+prayer. Hm... Honestly I'm worried.)"	
+Message	None	"(But I guess I have no choice but to do it. I have
+to pass this year. If I take too long, I may end
+up in the same grade as Kotori.)"	
+Message	Origami	What do you want to do?	
+Choice		Pray.	
+Choice		Don't do it.	
+Message	Shido	...Argh, fine! I'll do it! Please!	
+Message	Origami	The special prayer?	
+Message	Shido	The special prayer!	
+Message	None	"(It must be one powerful prayer. That's why I need
+it. I'm certain of it.)"	
+Message	Origami	Then let's start.	
+Message	Shido	Okay.	
+Message	Origami	"First, you're going to put up your pointer finger,
+and put your hand on your head."	
+Message	Shido	L-Like this...?	
+Message	Origami	Pretty good. Now open up your legs.	
+Message	Shido	Legs? ...Like this?	
+Message	Origami	"No, you want to be more bow-legged. And you should
+unzip your fly."	
+Message	Shido	Bow-legged... M-My fly, too?!	
+Message	Origami	"Yes. Then roll back your eyes and stick out your
+tongue. Then say, "OPPOSUM! OPPOSSUM!" And run
+around the shrine as fast as you can three times."	
+Message	Shido	"What... Are you serious?! Do I really have
+to do that?"	
+Message	Origami	I'm kidding, of course.	
+Message	Shido	You're kidding?!	
+Message	Shido	Take this serious! I mean it!	
+Message	Origami	"The path to God must have humor. That's what
+Sugawara no Michizane said."	
+Message	Shido	That's such a lie!	
+Message	None	(Seriously, what is up with this shrine maiden...)	
+Message	Origami	Anyways, jokes aside...	
+Message	Shido	Seriously... I need you to do good.	
+Message	Origami	"If you're going to pray for a successful exam,
+first you'll need to close your eyes."	
+Message	Shido	"Close my eyes... A-Are you sure about this?
+It better not be a joke this time."	
+Message	Origami	"If you embody the earthly feeling of fear, your
+wish will not come true. Have courage."	
+Message	None	"(The shrine maiden's words are the most
+suspicious, though.)"	
+Message	None	"(Her expression doesn’t change, so it's hard to
+tell if it's all a joke or not.)"	
+Message	Shido	Well... I'll close my eyes, then.	
+Message	Shido	They're closed.	
+Message	Origami	Then stay put.	
+Message	None	(Huh...? I sense... someone moving.)	
+Message	None	(Is she... coming near me?)	
+Message	Origami	And stay still.	
+Message	None	(So she is coming closer?!)	
+Message	None	(Whoa! Close! She's close!)	
+Message	None	"(Her breath... It seems like it's grazing
+my cheeks?!)"	
+Message	None	(...?! Th-This is...?!)	
+Message	None	"(Something... very soft seemed to be pushing
+against my cheeks... What is it? Could it be...)"	
+Message	Origami	All done. You can open your eyes now.	
+Message	Shido	Um... Okay.	
+Message	None	"(When I opened my eyes, nothing seemed
+different...)"	
+Message	Shido	Um, what did you do?	
+Message	Origami	"Just a little prayer. Besides that, it's a secret.
+If you find out, its effects will go away."	
+Message	Shido	I see...	
+Message	None	(What did she do to me...?)	
+Message	Shido	So this concludes my prayer?	
+Message	Origami	Yup. It's over. However...	
+Message	Origami	"If you wish, we can go to a secluded place at the
+back of the shrine, and do a super special prayer
+until the morning."	
+Message	Shido	"*Grunt*... That seems dangerous for some reason,
+so I will refrain."	
+Message	Origami	I see. How unfortunate. I won't force it.	
+Message	Shido	Well, I'll be off then...	
+Message	None	"(I don't know what's going on, but the prayer's
+over now. So I need to go home and study.)"	
+Message	Origami	Hold on a moment.	
+Message	Shido	Huh?	
+Message	Origami	Good luck on your entrance exam.	
+Message	Shido	*Grunt*...	
+Message	None	"(I turned around, and there stood the shrine
+maiden, smiling.)"	
+Message	None	(I couldn't help but be rendered speechless.)	
+Message	None	(She's so pretty.)	
+Message	None	"(And for some reason, she seems approachable.
+Although I just met her, there's something
+nostalgic about her energy.)"	
+Message	Shido	"U-Um, thank you for what you did. I... feel so
+much better. I feel like I'll be successful now."	
+Message	Origami	I see. I'm glad.	
+Message	Shido	I don't think I'll do it.	
+Message	Origami	I see. That's unfortunate.	
+Message	Shido	"Yeah. Sorry for the trouble. I'm going to rely not
+on God, but on my own skills."	
+Message	Origami	Wait. Why don't you try the written oracle?	
+Message	Shido	Huh? The written oracle?	
+Message	Origami	Yes. It will give you your fortune for next year.	
+Message	Shido	"Um... that's kind of scary. If I pull a bad
+fortune, then I feel like I'll fail this year,
+too."	
+Message	Origami	"You won't pass anyway with a negative attitude
+like that."	
+Message	Shido	I-I see. You have a point there.	
+Message	Origami	"If you have bad luck, knowing beforehand will
+allow you to work around it. It won't do you
+any harm."	
+Message	None	(*Grunt*... Her opinion seems legitimate this time.)	
+Message	Shido	H-Hm... Then...	
+Message	Shido	I guess I'll draw one written oracle.	
+Message	Origami	All right. Then, grab that box.	
+Message	Shido	"Whoa... nice. So I just shake it, and a stick will
+come out with a number on it, right?"	
+Message	Origami	"Go ahead. Shake it, and read the text on the stick
+that comes out."	
+Message	Shido	Okay. YAH!	
+Message	Shido	Okay... uh... "tawashi".	
+Message	Origami	Congratulations. You won a tawashi.	
+Message	Shido	WHAT?!	
+Message	Origami	Here you go.	
+Message	Shido	"Hey...?! I thought this was a written oracle?!
+Tawashi... it looks like a raffle prize at a
+market!"	
+Message	Origami	Don't panic. Now look at the tawashi.	
+Message	None	(Huh? Look at it...?)	
+Message	Shido	Hm... oh, there's a piece of paper on it!	
+Message	Origami	"Open the paper and your fortune will be written
+inside."	
+Message	Shido	That's so roundabout! You didn't need the tawashi!	
+Message	Origami	"It's the tradition of this shrine. Don't let it
+bother you."	
+Message	None	"(If I let everything about this place bother me,
+it'd probably be the end of me. A-Anyways, I'll
+read the paper. Let's see...)"	
+Message	Shido	Hm... Oh!	
+Message	Shido	Wow, "Great Luck"!	
+Message	Origami	Congratulations.	
+Message	Shido	"Nah, I know it's just a fortune, but that makes me
+so happy."	
+Message	Origami	That's nice.	
+Message	None	(Oh... she smiled.)	
+Message	None	"(I thought she was pretty before, but when she
+smiles, she's even prettier.)"	
+Message	None	"(I'm glad I came to this shrine. I was able to
+meet a pretty shrine maiden, too.)"	
+Message	Shido	Th-Thank you. I'm really glad I came here.	
+Message	Origami	"This shrine will always be waiting for you. Please
+visit again next year."	
+Message	Shido	"O-Okay. I'll come again next year to pray for a
+successful exam! Wait...?"	
+Message	Shido	"The paper oracle overall seemed to be good luck,
+but reading the fine print, the "school luck"
+says: "No chance. This is a time to endure!""	
+Message	Origami	I look forward to seeing you again next year.	
+Message	Shido	I-It can't beeeee!	
+Message	None	(With that, I left the shrine.)	

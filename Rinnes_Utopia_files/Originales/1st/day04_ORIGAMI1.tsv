@@ -1,0 +1,160 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Oh, where did Origami go?	
+Message	Shido	I wonder if she's already back at the apartment.	
+Message	Shido	"Oh, well. Guess I'll have to postpone my date
+with her. Besides, I have to hit the market."	
+Message	Shido	Oh, where did Origami go?	
+Message	Shido	I wonder if she's already back at the apartment.	
+Message	Shido	"Wait! Who's that person walking in the
+shopping district...?"	
+Message	Shido	All right. I'll check!	
+Message	Shido	"OH! It's Origami! Did she enter... the book
+shop?"	
+Message	None	(Hm... Hey! There she is!)	
+Message	None	(Hm. I wonder what book she's looking for.)	
+Message	None	"(This bookshelf is, let's see... philosophy,
+religion, and dark magic?!)"	
+Message	Origami	Shido...?	
+Message	Shido	Yo Origami! Fancy meeting you here, huh?!	
+Message	Origami	Were you following me?	
+Message	Shido	...! W-Well, not exactly. Huh? Well, maybe...	
+Message	Origami	I see. Then we are a good match.	
+Message	Shido	U-Um. Yeah, we are. Right.	
+Message	Origami	Fate.	
+Message	Shido	S-Sure.	
+Message	None	(Now for the elephant in the room...)	
+Message	Shido	"A-Anyways, what was it you were looking for,
+Origami?"	
+Message	None	"(As soon as I asked, Origami presented me
+the books in her hands.)"	
+Message	Shido	"Hm. "The History of Barrier Magic", "Black Magic!
+How to Form a Barrier", "100 Ways to Make Barriers
+Fun!", "Barriers for Dummies"... What is this? OH!"	
+Message	Shido	O-Origami, what are these...?	
+Message	Origami	"We must fully examine our enemy in order to
+come out victorious in battle. I am trying to
+grasp what tricks the "enemy" may be hiding."	
+Message	None	(I... I see. This is her way of helping us.)	
+Message	None	"(Although I'm a little curious about her book
+collection at the moment.)"	
+Message	Shido	G-Gotcha. Thanks for all your help.	
+Message	Origami	I don't mind. Your enemy is my enemy.	
+Message	None	"(Oh! Now, to tactfully switch the conversation
+to ask her out on a date. This is getting kind
+of intense. What should I do...?)"	
+Message	None	(Hm? Kannazuki-san?)	
+Message	Shido	Origami, gimme a sec! I have a phone call.	
+Message	Origami	Mm...	
+Message	Shido	H-Hello?	
+Message	Kannazuki	"Let me guess! You're currently with Origami\nTobiichi, aren't you?"	
+Message	Shido	What?! Are you monitoring me?!	
+Message	Kannazuki	"She's not a Spirit, so I don't know the\ndetails, but I may be able to go after her\nin my head. Fear not!"	
+Message	Shido	Huh? What does that even mean...?	
+Message	Kannazuki	"Understood. Then allow me to explain the\nrelation between human brains and their\npotential, so listen close—"	
+Message	Shido	No thanks! Now's not really the best time.	
+Message	Kannazuki	"I see. Well, that's unfortunate. So, what kind\nof situation have you found yourself in?"	
+Message	None	"(Kannazuki-san has a tendency to complicate
+things, but... I feel like I'm almost desperate
+for ideas at this point.)"	
+Message	Shido	"Well, you see... I'm trying to ask Origami out
+on a date, but—"	
+Message	Kannazuki	"Ah, I see. You want to coax a smile out of her,\nhuh?"	
+Message	Shido	"Well, yes. But I haven't been successful.
+Honestly, I don't know what to do."	
+Message	Kannazuki	"Got it. Then I'll propose two options."	
+Message	Shido	Huh? There's a way?	
+Message	Kannazuki	"If my brain monitoring is accurate, you can\nuse either of these methods to draw a smile\nout of her."	
+Message	Shido	"Please, tell me how! What could I do?
+Wait... Brain monitoring?"	
+Message	Kannazuki	"Remain calm, Shido-kun. Rushing it will\nonly result in failure."	
+Message	Shido	Oh, sure. I'm sorry!	
+Message	Kannazuki	"The first method was developed by compiling\ndata related to cerebrum physiology, psychology,\nand statistics."	
+Message	Shido	A-All of that stuff?	
+Message	Kannazuki	"Shido-kun, have you ever seen a baby laugh?"	
+Message	Shido	Huh? Well, sure, who hasn't?	
+Message	Kannazuki	"Don't you think they have magical smiles?\nWhen they smile, you can't help but smile\nback."	
+Message	Shido	Oh, I think I see your point.	
+Message	Kannazuki	"Babies smile instinctively, you see."	
+Message	Shido	Okay...?	
+Message	Kannazuki	"Babies are born weak. In order for them\nto endear themselves to their mothers, they\nsmile out of reflex." 	
+Message	Shido	Oh, really?	
+Message	Kannazuki	"Yes, of course. As a result, the mother smiles,\nalong with anyone around them."	
+Message	Shido	I-I see...	
+Message	Kannazuki	"You get it then, don't you?"	
+Message	Shido	Huh?	
+Message	Kannazuki	"In other words, if you want to make someone\nsmile, you have to smile too! Flashing those\npearly whites is the best way to make it happen."	
+Message	Shido	...?!	
+Message	Kannazuki	"Smiling is contagious. So why don't you\ngive it a shot?"	
+Message	Shido	O-Okay...	
+Message	None	"(If we're talking about Origami, I think a smile
+is the least contagious thing to her.)"	
+Message	Shido	So, what else were you thinking?	
+Message	Kannazuki	"The other method is use your best jokes."	
+Message	Shido	O-Okay...	
+Message	Kannazuki	"From what my intuition tells me, she's a\nvery intelligent woman."	
+Message	Shido	Th-That's totally correct.	
+Message	Kannazuki	"So someone with her intellect requires a\njoke with more substance, or she won't\nregister it as a joke."	
+Message	Shido	R-Really...?	
+Message	Kannazuki	"The more intelligent she is, the cleverer the\njoke needs to be. Use a high-brow joke, and\nshe'll be laughing in no time."	
+Message	Shido	"I-I hope so... So what kind of joke should
+I use?"	
+Message	Kannazuki	"Well, you see... *mumble, mumble*...\nSomething like that."	
+Message	Shido	"U-Uh, I see. I don't really get it, but maybe
+Origami will find it funny...?"	
+Message	Kannazuki	"Well, that's for you to decide! Regardless\nof which choice you pick, be confident, and\ndo your best!"	
+Message	Shido	G-Got it. Thanks for the advice.	
+Message	Kannazuki	"No need to thank me. I wish you the best\nof luck!"	
+Message	None	"(Hm. Guess that qualifies as advice. No
+point in stressing about it, so maybe it's
+worth a shot?)"	
+Message	Shido	Oh, Origami?! Are you done shopping already?!	
+Message	Origami	I got a few books.	
+Message	Shido	I-I see...	
+Message	Origami	...?	
+Message	Shido	...	
+Message	Origami	Shido? What's the matter.	
+Choice		Burst out laughing.	
+Choice		Use a joke.	
+Message	Shido	Origami...	
+Message	Origami	Hm...	
+Message	Shido	AHA! AHAHAHA! AHAHAHAHAHAHAHAHAA!	
+Message	Origami	...	
+Message	None	(D-Did it work? Was it not enough?! Then—!)	
+Message	Shido	"WAHA! WAHA! WAHAHAHAHAHA!
+WWAAAAAHAHAHAHAHA! UAHAHAHA!
+AHAHAHA... AHAHAHA... Haha...ha...ha...ha..."	
+Message	Origami	...	
+Message	None	"(I knew it wouldn't work! Who knew that
+laughing was so tough!)"	
+Message	Origami	"Shido, if you've ingested toxic mushrooms, I
+suggest that you see a specialist. You should
+be looked at immediately. I'll take care of it."	
+Message	Shido	Huh...?	
+Message	Origami	"Don't worry. I won't abandon you, no matter
+what happens to you."	
+Message	Shido	No, you're misunderstanding!	
+Message	Origami	...Misunderstanding?	
+Message	Shido	Uh, um. I'm sorry!	
+Message	Origami	"Shido, if you're stressed and need to talk to
+someone, I'm here at any time."	
+Message	Shido	Oh! O-Origami!	
+Message	None	"(She's gone. I'm never listening to Kannazuki-san's
+advice ever again. Yeah...)"	
+Message	Shido	Origami! Listen to me!	
+Message	Origami	Hm...	
+Message	Shido	"There once was a busy guy who interviewed for
+a game company. The interviewer asked, "Why
+do you want to apply at our company?""	
+Message	Origami	...?	
+Message	Shido	"The man replied, "Because you have lots of
+days off. Not just that, but a master submission
+break, too...""	
+Message	Origami	...Shido? I don't get it.	
+Message	Shido	"Oh, uh... It's a high-brow joke. The kind you
+need a couple seconds to register."	
+Message	Origami	I see.	
+Message	Shido	W-Was it boring?	
+Message	Origami	I simply have no idea how it's relevant.	
+Message	Shido	Oh! O-Origami!	
+Message	None	"(Aw. I'm never listening to Kannazuki-san's
+advice again.)"	

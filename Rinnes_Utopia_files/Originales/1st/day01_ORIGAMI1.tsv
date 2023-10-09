@@ -1,0 +1,196 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(What am I even doing? I need to go on
+dates with the Spirits to stabilize them,
+but I'm looking around for Origami.)"	
+Message	None	(I need to sit and have a chat with her...)	
+Message	None	"(I mean, there's Kotori's thing... and my visit
+from yesterday.)"	
+Message	None	"(And today's lunch, what was that all about?
+Origami seemed desperate or something.)"	
+Message	None	"(Huh? Is someone throwing trash into an
+incinerator? Origami...?)"	
+Message	None	"(What should I do? We're about to be face-
+to-face, and I've got nothing to say. What is
+she burning, anyways? I-I'm curious!)"	
+Message	Shido	Hey, Origami!	
+Message	Origami	Shido, is something wrong?	
+Message	Shido	Uh, good question. What are you doing here?	
+Message	Origami	Disposing the trash.	
+Message	Shido	Were you put in charge of cleaning?	
+Message	Origami	No. I'm in charge of the shoe rack.	
+Message	Shido	Sh-Shoe rack...?	
+Message	None	"(I peeked inside the incinerator, and I saw
+a stack of what appeared to be letters burning.)"	
+Message	None	(Why letters...?)	
+Message	Shido	"...?! O-Origami! Don't tell me! Are those...
+love letters people have sent you?"	
+Message	Origami	Are they?	
+Message	Shido	Wh-What?! Didn't you bother to open them?	
+Message	Origami	"Unless they're from you, they're worthless
+to me."	
+Message	Shido	Argh! B-But...	
+Message	None	"(That's horrible! Horrible, but when she puts
+it like that, why can't I respond?)"	
+Message	None	"(The letters in the incinerator seem like
+they're glaring at me as they turn to ash.)"	
+Message	None	"(I never knew she had so many suitors. She
+IS quite popular...)"	
+Message	None	"(I thought Tonomachi was just talking her up,
+but maybe being ranked as the 3rd-best potential
+girlfriend has more merit than I thought.)"	
+Message	Origami	You were saying, Shido?	
+Message	Shido	"Huh...? Oh, right! I just wanted to, um, have
+a chat, so I came looking for you."	
+Message	Origami	Have a chat?	
+Message	Shido	Huh? What do you mean?	
+Message	Origami	"Aside from talking, there are more personal
+and beneficial activities in which we could
+partake."	
+Message	Shido	H-Hold that thought!	
+Message	Origami	Oh.	
+Message	Shido	"U-Uh, what I wanted to talk with you about
+was..."	
+Choice		Kotori.	
+Choice		Lunch.	
+Choice		AST.	
+Message	Shido	"You came to visit me yesterday, but it ended
+with me pushing you out. So, I apologize."	
+Message	Origami	"It's fine. So long as you feel better, Shido.
+That's all that matters."	
+Message	Shido	Oh...	
+Message	Origami	...	
+Message	Shido	D-Do you remember what we discussed?	
+Message	Origami	Huh?	
+Message	Shido	About... Kotori not being your enemy.	
+Message	Origami	Well, I still disagree.	
+Message	Shido	Yeah... I know it's hard to believe.	
+Message	Origami	"Don't get me wrong. Shido, I do wish to believe
+in what you told me. However, there's no proof
+that Kotori Itsuka isn't Efreet."	
+Message	Shido	"Y-Yeah... But I know it's true. There was
+someone else besides Kotori there that day!
+That much I'm sure of!"	
+Message	Origami	I, too, wish for that to be the case.	
+Message	Shido	What...?	
+Message	Origami	"I do not... want to kill your little sister,
+Shido."	
+Message	Shido	"What? O-Oh... Thanks for understanding,
+Origami."	
+Message	Origami	"That goes both ways. When I visited you,
+you hadn't acted any differently to me. In
+fact, I thought you would reject me."	
+Message	Shido	"Well, if you were paid a sudden visit like
+that, anyone would—"	
+Message	Origami	"I truly sought out to kill your sister. That
+is a truth that cannot be erased."	
+Message	Shido	...! O-Oh, guess you have a point.	
+Message	Shido	"Well, it wasn't the kindest gesture, sure,
+but even so... I want for us to converse
+normally."	
+Message	Origami	...	
+Message	Shido	Is that okay?	
+Message	Origami	Shido.	
+Message	Shido	Hm?	
+Message	Origami	...Thank you.	
+Message	Shido	Y-Yeah...	
+Message	Origami	...	
+Message	Shido	"Well, I'll be on my way. Glad we got to chat.
+Later!"	
+Message	Origami	Mm...	
+Message	Shido	"The commotion at lunch, what was all that
+about?"	
+Message	Origami	What do you mean?	
+Message	Shido	"Well, I get that you and Tohka butt heads
+often, but... I feel like today was a lot more
+intense than usual."	
+Message	None	(It almost killed me...)	
+Message	Origami	"I would like to apologize for that. I feel
+guilty."	
+Message	Shido	"Oh. You don't have to apologize, but if you
+want to talk about it, I'm here to listen."	
+Message	Origami	...	
+Message	Shido	"W-Well, I guess I can't blame you. I know
+I'm not reliable."	
+Message	Origami	Don't misunderstand. I don't think that.	
+Message	Shido	Hm...?	
+Message	Origami	It's just...	
+Message	Shido	Just?	
+Message	Origami	You can't cheat.	
+Message	Shido	Huh...? HUH?	
+Message	None	(When did I do that?!)	
+Message	Origami	"I won't let anyone stand in the way of our
+future."	
+Message	Shido	"U-Uh, Origami-san? What are you talking
+about?"	
+Message	Origami	That's all I wanted to say.	
+Message	Shido	U-Uh...	
+Message	Origami	Come.	
+Message	Shido	"Huh? Where... do you want me
+to go?"	
+Message	Origami	"From here, the P.E. lockers are closest.
+If we hide in the shadows, no one will
+find us."	
+Message	Origami	This way.	
+Message	Shido	H-Hey, wait! Stop! STOOOOP!	
+Message	Origami	What?	
+Message	Shido	"Um, don't "what" me! What do you plan
+to do once we get there?"	
+Message	Origami	"I put your life in danger. The only way to
+repay you is with my bod—"	
+Message	Shido	"It's okay! Don't say another word!
+It's okay! I'm not mad about that!"	
+Message	Origami	I see...	
+Message	Shido	"Anyways, I'll be on my way then! I'm glad
+we got to chat! Later!"	
+Message	Origami	...	
+Message	Shido	"Um. You know how you're in charge of the
+AST Self-Defense force?"	
+Message	Origami	Huh...?	
+Message	Shido	"After the incident, I was worried about if
+everything was okay."	
+Message	None	"(She went crazy in a public space. I'm almost
+certain she got a reprimanding.)"	
+Message	Origami	"Normally, I would have been dishonorably
+discharged immediately."	
+Message	Shido	...!	
+Message	Origami	But I was prepared.	
+Message	Shido	I-I see...	
+Message	Origami	But...	
+Message	Shido	But...?	
+Message	Origami	"Both the rogatory questioning and the
+official punishment were deferred. For
+reasons I cannot explain."	
+Message	Shido	"Th-Then... bottom line is, you weren't fired,
+right? That's wonderful."	
+Message	Origami	Why are you reacting like that, Shido?	
+Message	Shido	"Oh, well. Yeah, huh... I wanted you to stop
+attacking the Spirits, but..."	
+Message	None	"(That's right. I don't want Origami to kill
+Kotori, nor do I want her to fight the other
+Spirits either.)"	
+Message	Shido	"Strange. I wonder why. It's a relief to hear
+you weren't fired."	
+Message	Shido	"I don't blame Kotori for calling me her idiot
+brother. Hahaha."	
+Message	Origami	Shido...	
+Message	Shido	"But it's still so odd. I wonder why they
+hadn't gone through with punishing you."	
+Message	Origami	"It's a mystery. Despite being told by AST that
+I'd be put under house arrest and lose
+access to my Realizer... nothing happened."	
+Message	Shido	"Wait. Are you allowed to tell me, a normal
+civilian, any of this?"	
+Message	Origami	Yes. As long as you don't tell anyone, Shido.	
+Message	Shido	R-Really? Hey, Origami?	
+Message	Origami	What is it?	
+Message	Shido	"Have you heard any rumors... of some big
+experiment performed by AST?"	
+Message	Origami	Why do you ask?	
+Message	Shido	"Well—! It's all confidential, of course, but
+I was just curious..."	
+Message	Origami	Huh...?	
+Message	Shido	Nothing! Forget I asked, okay?	
+Message	Origami	Yeah?	
+Message	Shido	"A-Anyways... I'm going home, okay? Glad we
+got to chat, Origami. Later!"	
+Message	Origami	...	

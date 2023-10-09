@@ -1,0 +1,470 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	It's morning... Huh? When did I fall asleep?	
+Message	Shido	"*yawn*... I don't remember falling asleep.
+What was I up to? I can't seem to recall."	
+Message	None	"(I gazed around my room, catching my eye
+on the calendar. Then...)"	
+Message	Shido	Ah. I see. It's my day off.	
+Message	None	"(Today's my day off. And I promised to go
+on a date with Origami.)"	
+Message	None	"(We've once again confessed our feelings
+to one another, and now we're officially
+going out.)"	
+Message	None	(Today will be our first date.)	
+Message	Shido	A date with Origami... I feel nervous.	
+Message	Shido	"But there's no point in stressing over it.
+I'll just go."	
+Message	Shido	"Okay. I still have time before we scheduled
+to meet."	
+Message	None	"(I'm about to go on an actual date with Origami.
+I don't want to be late to our first date.)"	
+Message	None	"(Origami is... Ah, there she is. I guess she's
+already here.)"	
+Message	Shido	Morning, Origami.	
+Message	Origami	Shido, morning.	
+Message	Shido	W-Was I keeping you?	
+Message	Origami	Not at all. I just arrived.	
+Message	Shido	...Somehow, I doubt that.	
+Message	Origami	...How did you know?	
+Message	Shido	"There's a feather in your hair. You didn't
+put this there, did you?"	
+Message	Origami	I was playing with pigeons. No big deal.	
+Message	Shido	"Playing with pigeons. Man, I'm sorry.
+I should've left home earlier."	
+Message	Origami	I don't mind. Pigeons are cute.	
+Message	Shido	I-I see, but you got bored, right?	
+Message	Origami	There is no problem.	
+Message	Shido	O-Okay. If you say so...	
+Message	Origami	Shido, where are we going today?	
+Message	Shido	Huh? Hm...	
+Message	None	"(I'm on my own for today's date. As Origami's
+boyfriend, I have to take the lead in planning.)"	
+Message	None	"(I don't know if I'll be any good at it, but I
+can do it.)"	
+Message	Shido	"Anyways, why don't we head to a café so
+we can talk it over? I'm thirsty."	
+Message	None	"(Origami said it was no problem, but I bet
+she's tired. So we need a place where we
+can rest.)"	
+Message	Origami	Got it.	
+Message	Shido	O-Okay. Then let's go.	
+Message	Origami	...Here?	
+Message	Shido	Sure. Should we... find a seat in the back?	
+Message	Origami	"That's no good. I want to be near the entrance.
+As security in the worst-case scenario."	
+Message	Shido	"Hey, wait, Origami... Who are you fighting
+right now?"	
+Message	None	"(Does she have to be on red alert even on
+a date with me? Can she not relax around
+me?)"	
+Message	Origami	Do not fret. Force of habit.	
+Message	Shido	"I-I see... Well, we can sit wherever you want,
+Origami. Looks like there's plenty of room."	
+Message	Origami	Got it.	
+Message	Shido	"Hm, drinks... I'm going to get coffee. What
+about you?"	
+Message	Origami	Same as what you're having.	
+Message	Shido	"G-Gotcha. Then I'll order, okay? Excuse me.
+Two coffees, please!"	
+Message	Origami	...	
+Message	Shido	...Urgh.	
+Message	None	"(Crap. If this silence keeps up, it'll get
+awkward. What do I do?)"	
+Choice		Do some small talk.	
+Choice		Distract yourself.	
+Message	Shido	Do you visit cafés often, Origami?	
+Message	Origami	Not particularly. I rarely go out alone.	
+Message	Shido	I-I see.	
+Message	Origami	What about you?	
+Message	Shido	Well, I don't go out alone much either.	
+Message	Origami	"But you checked your wallet earlier, Shido.
+You had a coupon for this soup."	
+Message	Shido	...Huh?	
+Message	None	"(Oh, crap. I forgot. I usually come here for
+private time. I must've gotten the coupon
+a while ago.)"	
+Message	None	"(Oof. If she noticed a coupon that I had
+forgotten about, then Origami has a good
+eye.)"	
+Message	Origami	"When you say you do not often travel alone,
+does that imply you come here with guests?"	
+Message	Shido	"N-No. I mean, I come here with Kotori
+sometimes. Just when we're out."	
+Message	Origami	...I see.	
+Message	None	"(I think I played it off. I mean, not that it
+was a lie.)"	
+Message	None	(Anyway, I need to change the subject.)	
+Message	Shido	"Hm. Do you like eating foods you like
+at the beginning of a meal, or do you
+save the best parts for last?"	
+Message	Origami	"I am ambivalent about food. I never think about
+the order in which it is consumed. I consume a
+well-balanced diet. The rest is habit."	
+Message	Shido	"I see, but... Oh, I know. If you're dieting, I hear
+it's best to eat veggies first, then move on to
+the main dish."	
+Message	Origami	"I maintain a careful caloric intake with
+nutrient-dense foods, and I exercise enough
+not to worry about a diet."	
+Message	Shido	Oh. Right. You're, um, slim, aren't you?	
+Message	Origami	"Are you pointing out that I lack a
+typically-voluptuous, feminine body?"	
+Message	Shido	Oh, no. That's not what I meant.	
+Message	Origami	...I see.	
+Message	None	"(Urgh. Not only is this awkward, but
+this conversation got off on the wrong
+foot.)"	
+Message	Shido	I-I know, Origami.	
+Message	Origami	What is it?	
+Message	Shido	"I know. I think it is about time for my
+points to recover."	
+Message	Origami	...What are you talking about?	
+Message	Shido	"A game. A mobile game. You need points to
+play, but they regenerate after a set amount
+of time. I should have enough points now."	
+Message	Origami	We are going to game here?	
+Message	Shido	Yeah. Do you not want to?	
+Message	Origami	Do as you please, Shido.	
+Message	Shido	I'll be done soon, so give me a second.	
+Message	Origami	...Okay.	
+Message	Shido	"...You see. They're currently doing an
+event. It's hard to raise your affinity
+stat."	
+Message	Origami	Affinity?	
+Message	Shido	"Yeah. You perform a date quest, gain affinity
+points, and obtain a rare heroine card."	
+Message	Origami	...I see.	
+Message	Shido	"All right. I used 'em up. Guess I won't be able
+to play again until tonight."	
+Message	Origami	Shido, is that fun for you...?	
+Message	Shido	Huh? Oh, yes...	
+Message	None	"(This is starting to feel like the wrong decision.
+I ignored my date, and played a dating game
+instead of talking to my DATE.)"	
+Message	Origami	"Are you not enjoying yourself with me on
+this date?"	
+Message	Shido	"Agh. Well, no, that's not it. Um, it's to learn
+how to date."	
+Message	Origami	"Learn how to date...? Are you suggesting that
+you gain information to use on an actual date?"	
+Message	Shido	Y-Yeah... Kinda. Just for reference, though.	
+Message	Origami	...I see.	
+Message	None	(Hm. I think I messed that one up.)	
+Message	Origami	"So, where are we going next? We have yet
+to decide our next move."	
+Message	Shido	Y-Yeah, huh? Uh...	
+Message	Shido	I had the idea of watching a movie.	
+Message	Origami	I do not mind.	
+Message	Shido	O-Okay. Then let's head to the movie theater.	
+Message	None	"(Origami doesn't look like she's enjoying
+herself. I'll have to do better at the next
+location.)"	
+Message	Origami	...	
+Message	Shido	...Origami.	
+Message	Origami	"This theater has a sign that says they're
+temporarily closed."	
+Message	Shido	Sorry... I didn't check ahead of time.	
+Message	None	"(I should've checked beforehand. I just kinda
+assumed the movies would be open on my day
+off. Of all the dumb luck...)"	
+Message	Origami	"It's fine. It's not like there was a movie that I
+wanted to watch."	
+Message	Shido	I'm really sorry about this...	
+Message	Origami	I don't mind. So, where to next?	
+Message	Shido	Oh, um...	
+Message	None	"(Shoot. I wasn't thinking. My mind was still
+stuck on that total failure. I have no idea...)"	
+Message	Origami	"If there is nothing in particular, I have an
+idea."	
+Message	Shido	Y-You want to go somewhere?	
+Message	Origami	Follow me.	
+Message	Shido	Oh, hey Origami.	
+Message	Origami	...We're here.	
+Message	Shido	Is this where you wanted to go?	
+Message	Origami	The air is warm, and the breeze is nice.	
+Message	Shido	You're right. It's been chilly lately.	
+Message	None	"(A perfect Autumn day. Not too hot, not too
+cold.)"	
+Message	Shido	"What a view, huh? Does looking down at the
+town like this relax you?"	
+Message	Origami	It is quiet, giving us a moment to pause.	
+Message	None	"(I see. Maybe Origami prefers quaint areas
+like this instead of lively ones.)"	
+Message	Origami	Can we stay here a while?	
+Message	Shido	"Yes, of course. Do you like places like this,
+Origami?"	
+Message	Origami	...	
+Message	Shido	What's the matter?	
+Message	Origami	...I do not like it in particular.	
+Message	Shido	Huh? Oh, really?	
+Message	Origami	In truth, the location does not matter.	
+Message	Shido	"I-I see. Is it because of the nice weather that
+you preferred being outside instead of indoors?
+Or was it the quiet?"	
+Message	Origami	No. What matters is that I am with you.	
+Message	Shido	Oh...	
+Message	Origami	"No matter where I am, so long as you are with
+me, I enjoy it. The place is irrelevant."	
+Message	Shido	Origami...	
+Message	Origami	"But...there is a reason I chose this place. Here,
+I can look at you and take my time."	
+Message	Shido	"I see. Well, I guess there aren't nearly as many
+people here as in the café, so we can chat,
+right?"	
+Message	Origami	And we can do more than that.	
+Message	Shido	Origami, this is still a public place.	
+Message	Origami	Then, shall we sit on a bench?	
+Message	Shido	Yeah, sure.	
+Message	Origami	"If you want, you can place your head on my
+lap."	
+Message	Shido	"No, there are other people around... Let's
+sit normally, okay..."	
+Message	Origami	...Okay.	
+Message	None	"(We were at Takadai Park and chatted,
+enjoying one another's company.)"	
+Message	None	"(Although I wanted to take Origami somewhere,
+it seems more like she's taking me instead.)"	
+Message	None	"(Well, maybe I can suggest something she
+will enjoy.)"	
+Message	Shido	"Do you want to drop by the arcade on our
+way back, Origami?"	
+Message	Origami	I do not mind.	
+Message	Shido	Let's go then.	
+Message	Shido	All right. This one...	
+Message	Origami	A crane game...	
+Message	Shido	"Yeah. I'm pretty good at these. Since we're on
+a date, I thought I could win you something."	
+Message	Origami	A gift from Shido... How nice.	
+Message	Shido	"Yeah. Anything catch your eye, Origami? I'll
+get whatever you want."	
+Message	Origami	"...I don't mind what it is. As long as it comes
+from you, Shido."	
+Message	Shido	"Okay. I'll get the biggest one. Hehehe.
+Watch this..."	
+Message	Shido	...Huh? Weird.	
+Message	Shido	One more time...	
+Message	Shido	Argh! So close. O-One more time...	
+Message	Shido	Almost there! One more time.	
+Message	Origami	Shido... Might it be the key holder there?	
+Message	Shido	Huh?	
+Message	Shido	Okay, this is the one!	
+Message	Shido	...Hehe.	
+Message	Origami	...Shido?	
+Message	Shido	Origami, I did it... I finished!	
+Message	None	"(After using countless coins, I gave up and
+aimed for a small key holder, trying so many
+times to capture it.)"	
+Message	None	"(It was a pathetic showing for one key holder,
+but then a miracle happened...)"	
+Message	Shido	"(It was a double! I didn't think I'd catch the
+one beside it...!)"	
+Message	None	"(Two key holders fell. All thanks to Origami,
+who pointed out the one in the middle.)"	
+Message	Shido	Sorry, Origami. It's not the one I aimed for.	
+Message	Origami	I'm happy. You tried for my sake.	
+Message	Shido	Haha... You're making me blush.	
+Message	Origami	But... I don't need two.	
+Message	Shido	...Huh?	
+Message	Origami	I want you to keep the other one.	
+Message	Shido	Oh, got it. I'll put it on my bag.	
+Message	Origami	I'll put it in the same place. We're matching.	
+Message	Shido	We are.	
+Message	None	(Finally, we were on our way back.)	
+Message	None	"(Origami was her usual self, walking beside
+me with a stoic expression.)"	
+Message	None	"(Both of us were quiet. Silence makes me
+nervous. Origami didn't look upset, but
+I can't tell if she's having a good time.)"	
+Message	None	"(I wonder if I'm doing this right. But I can't
+think in those terms. I mean, I hardly did a
+thing right today. I wonder if she had fun.)"	
+Message	Shido	Origami...?	
+Message	Origami	What is it, Shido?	
+Message	Shido	"Um, sorry about today. You didn't have much
+fun, did you?"	
+Message	Origami	...Why do you say that?	
+Message	Shido	Well, you didn't look like you enjoyed yourself.	
+Message	Shido	"I... I'm not used to dates. So I wasn't sure if I
+was doing a good job or not."	
+Message	Shido	"So, um, sorry for dragging you around on your
+day off."	
+Message	Origami	I don't know what you're talking about.	
+Message	Shido	Well, you see...	
+Message	Origami	Shido, come here...	
+Message	Shido	...What is it?	
+Message	Origami	Just do it.	
+Message	Shido	O-Okay. Like this?	
+Message	Origami	Give me your hand.	
+Message	Shido	O-Origami?!	
+Message	None	"(Origami took my hand and placed it against
+her chest, a very soft place... so that I could
+feel her heartbeat.)"	
+Message	Shido	What... are you doing?!	
+Message	Origami	Shido, there is nothing for you to worry about.	
+Message	Shido	Huh?	
+Message	Origami	Can't you tell? My heart is racing right now.	
+Message	Shido	Is it... because you're nervous?	
+Message	Origami	"That's right. Just being with you makes my
+heart pound."	
+Message	Shido	I-I see, but still...	
+Message	Origami	"I want you to feel it. Just being with you
+is enough to put me in this state, Shido."	
+Message	Origami	"I may not express it with my words, my
+expressions, or my emotions, but this
+is proof enough. Shido, can you trust me?"	
+Message	Shido	Well, um, I don't know if this is okay...	
+Message	None	"(Her clothes felt nice, and I could feel her
+warmth. She was so soft that I thought I would
+melt any moment.)"	
+Message	Origami	Shido, can you tell?	
+Message	None	"(The bump I felt beneath my hand slowly
+bobbed up and down in sync with her
+breathing.)"	
+Message	Origami	Can you feel how quickly my heart is beating?	
+Message	Shido	I-I know... I know...	
+Message	None	"(I'm the one whose heart is about to pound
+real fast. I could feel my blush reach the tops
+of my ears.)"	
+Message	None	"(Actually, before I noticed Origami's heartbeat,
+I was disoriented by the loudness of my own.)"	
+Message	None	(What should I do...?)	
+Choice		Stay like this.	
+Choice		Remove my hand.	
+Message	Shido	Uh, um, is it okay to stay like this for a bit?	
+Message	Origami	I don't mind.	
+Message	Shido	Oh, okay...	
+Message	None	(What am I even saying?! That's crazy!)	
+Message	Origami	You can grab harder.	
+Message	Shido	Huh? Oh...	
+Message	None	"(Origami grabbed my hand, and pressed it
+into her body.)"	
+Message	Origami	Shido, your hand is... very hot.	
+Message	Shido	W-Well, I can explain...	
+Message	None	"(I thought I would melt at any moment from
+how soft she felt. I felt an electric hum travel
+through my body.)"	
+Message	Origami	Shido, touch me more...	
+Message	Shido	O-Origami, n-no, we can't... We can't do this...!	
+Message	None	"(It's like I'm absorbing Origami's heat.
+I became dizzy, like I was on the cusp of
+overheating.)"	
+Message	None	"(I couldn't take anymore. I pulled my hand
+away from Origami.)"	
+Message	Origami	Shido...?	
+Message	Shido	I-I got it... I really get it now.	
+Message	Shido	"But Origami, we can't do this here. What
+would you do if someone saw?"	
+Message	Origami	I do not mind...	
+Message	Shido	Well, I do! Besides...	
+Message	None	"(Besides, the marshmallow-like feeling, the
+sweet, sugary warmth.... is almost too much
+to bear.)"	
+Message	Shido	A-Anyway, I don't think this is appropriate!	
+Message	Origami	Oh...	
+Message	None	(I withdrew my hand from Origami.)	
+Message	Origami	Shido...	
+Message	Shido	Sorry, Origami. This is too much for me.	
+Message	Origami	"I am your girlfriend, Shido. You do not have
+to hesitate."	
+Message	Shido	I know that, but I don't think it's appropriate.	
+Message	Origami	"Why? Don't you like me? Do you not wish
+to go out with me?"	
+Message	Shido	That's not it... That's not it, Origami.	
+Message	Origami	"Then, why do you have a problem with
+touching me...?"	
+Message	Shido	B-Because it feels wrong.	
+Message	Origami	"Then, why? I want you to know more about
+me. I want you to get closer... and feel me."	
+Message	Shido	"I-I don't know how to explain it, but... I don't
+think this is appropriate."	
+Message	Origami	Appropriate? Do you not wish to touch me?	
+Message	Shido	No, no. That's not what I'm saying.	
+Message	Origami	"Why not then? If it is you, I do not mind where
+you touch me or what you do to me."	
+Message	Origami	"I find myself always wanting to touch your
+body. I want to feel every part of you."	
+Message	Origami	Do you not feel the same...?	
+Message	Shido	I-I do, but still... It's not right.	
+Message	Origami	What do you mean?	
+Message	Shido	"You're precious to me, Origami. Because of that,
+I don't want to rush into anything."	
+Message	Shido	"It's hard to explain, but I feel like touching
+you here out of the blue just feels wrong."	
+Message	Origami	So what are you saying?	
+Message	Shido	Well...	
+Message	Origami	Does forbidden temptation excite you?	
+Message	Shido	NO! NOT IN THE SLIGHTEST!	
+Message	Origami	"Then, you refuse to let me stimulate you?
+Do I not qualify as your girlfriend?"	
+Message	Shido	"No, it's the opposite. I don't like the thought
+of looking at you in a perverted way."	
+Message	Shido	"It's hard to explain, but I don't want you to
+feel like I'm only seeing you for the purpose
+of expecting something in return."	
+Message	Origami	"But I do not mind. It is normal for a man
+of your age. If it is coming from you Shido,
+it makes me happy."	
+Message	Shido	"I might sound selfish, but I'm serious...
+I want to see you in a more serious way.
+I want to hold onto what we have."	
+Message	Origami	...Shido?	
+Message	Shido	"Or else, I feel like my feelings for you won't
+be real. The thought scares me. I don't want
+to rush anything. For now, at least..."	
+Message	Origami	I see...	
+Message	Shido	Is that a problem for you?	
+Message	Origami	I understand what you mean. I agree.	
+Message	Shido	I-I'm glad. Do you understand?	
+Message	Origami	"Basically, you want no one to see what we do.
+Not in a random street. But if we are alone in a
+closed room, you want to play with me, yes?"	
+Message	Shido	NO! Let's dial it back a bit!	
+Message	Origami	...I am joking. I understand.	
+Message	Shido	Are you sure...?	
+Message	None	(For some reason I do not trust her...)	
+Message	Origami	Your sense of virtue is solid.	
+Message	Shido	"Yeah...? Seems like if we added ourselves
+together and divided the results in half,
+we'd be perfect."	
+Message	Origami	That may be true.	
+Message	Shido	"Anyway, I want to respect you... That's what I
+had wanted to say."	
+Message	Origami	"That is sweet of you to say. I will try my best
+to abide by your request."	
+Message	Shido	"I-I see. I've had a lot of fun, so why don't we
+call it a day?"	
+Message	Origami	...Understood. Let's leave it here for today.	
+Message	Shido	...Right. Let me walk you.	
+Message	Origami	"I'm fine. I don't need it. Your home and mine
+are in the opposite directions. It is a waste of
+your time."	
+Message	Shido	No, but...	
+Message	Origami	No problem. I will see you tomorrow.	
+Message	Shido	Oh, okay. Tomorrow.	
+Message	None	"(Is she sure she doesn't want me to escort
+her?)"	
+Message	None	"(As I posed the question to myself, Origami
+took one step, then turned around to face me.)"	
+Message	Origami	...Shido.	
+Message	Shido	What is it...?	
+Message	Origami	"Do not forget one thing. So long as we are
+together, that is all that matters."	
+Message	Shido	Yeah, I got that. Understood.	
+Message	Origami	That is all. Good night.	
+Message	Shido	O-Okay.	
+Message	Origami	Good-bye, Shido.	
+Message	Shido	L-Later, Origami.	
+Message	None	"(It was our first date since we became official.
+Was that okay...? As soon I was alone, I became
+incredibly anxious.)"	
+Message	None	"(Am I kind enough to Origami? Is she having a
+good time? Is she feeling anxious, too? Am I
+really worthy of her love...?)"	
+Message	Shido	Hehe... Hahaha...	
+Message	None	"(But soon, it all felt so silly. I really like
+Origami. I'm crazy about her.)"	
+Message	None	"(I need to communicate those feelings more.
+We just parted ways, but I already want to
+see her again.)"	
+Message	None	"(I'm going to do better on our next date.
+That's what I told myself.)"	

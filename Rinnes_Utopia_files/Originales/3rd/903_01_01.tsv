@@ -1,0 +1,567 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	*Yawn*... Morning.	
+Message	Kotori	Morning, Onii-chan!	
+Message	Rinne	Morning, Shido. You sure look sleepy.	
+Message	Maria	Shido. Good morning. Breakfast is ready.	
+Message	Shido	Oh, thank you. Sorry for leaving it all to you guys.	
+Message	Rinne	It's not a big deal. I'm just doing what I enjoy.	
+Message	Maria	"Yes, likewise. However, Shido... You should think
+about the days that Rinne and I won't be here and
+wake up a bit earlier."	
+Message	Kotori	Yeah, if that happens, breakfast would be lunch～	
+Message	Shido	Oh, you're right... Sorry.	
+Message	Maria	"We're not scolding you. We just want you to be a little
+more responsible."	
+Message	Shido	*Grunt*... Okay.	
+Message	None	"(It's true. Since they were always here, I've started
+to become complacent. I have no rebuttal.)"	
+Message	Rinne	Hahaha, Maria-chan... That was a bit hard on Shido.	
+Message	Maria	That's fine. It's important that he knows.	
+Message	Rinne	"Gosh, Maria-chan... Anyways Shido, if you just stand
+there, your breakfast will get cold."	
+Message	Shido	Ah, sorry! Thanks!	
+Message	None	(I tried to play off my discomfort and sat down.)	
+Message	Kotori	"Man, I'm so excited. We're having a cooking class at
+Rinne-onechan's place."	
+Message	Shido	A cooking class?	
+Message	Rinne	"Remember how Tohka-chan said she wanted me to
+teach her how to cook? So I've been visiting her
+whenever I have some spare time."	
+Message	Shido	"Ah, Maria did tell me about it, but... Wow, a cooking
+class?"	
+Message	Rinne	"Hahaha. It's not that big of a deal. Tobiichi-san and
+Tokisaki-san said that they wanted to join, too...
+So then we figured it'd be fun if we all got together."	
+Message	Shido	Ah... I see.	
+Message	None	"(Then that means almost everyone's gathered there,
+huh? If she's taking care of all of them, that's
+pretty tough.)"	
+Message	Rinne	"Oh, don't worry though. We plan on finishing up by
+the evening. I'll be making dinner for you."	
+Message	Shido	"No, don't worry about me, okay? I can do things on
+my own, and worst-case scenario, I can just eat out."	
+Message	Maria	That's right, Rinne. And he has me as well.	
+Message	Rinne	"Uh-uh. Yesterday I left him all to you, Maria-chan,
+so I'm going to ask you to take care of lunch instead,
+and I'll do dinner. Okay?"	
+Message	Maria	If that's what you want to do, Rinne, I'll respect it.	
+Message	Rinne	Thank you, Maria-chan.	
+Message	Kotori	"Seems like not only is Rinne an older sister, but
+Maria's becoming one too. I'm getting more big
+sisters!"	
+Message	Shido	When you say that, I feel like we'll get even more...	
+Message	None	(They're not toys.)	
+Message	Kotori	"Why are you looking like that? I'm only kidding, gosh.
+The only time I'll get a new sister is when you get
+married."	
+Message	Shido	"Well, that's true but... Marriage. It's such a long
+while away."	
+Message	Kotori	"Who knows. ...Well, I'll never allow you to marry, so
+I'll never get a real sister until the end of time."	
+Message	Shido	Hm? Did you say anything?	
+Message	Kotori	"No, nothing.
+"	
+Message	Kotori	"Anyways Onii-chan, you're off today. What are you
+going to do?"	
+Message	Shido	"Uh... I'm going to go shopping. I'll head into town
+and check some things out."	
+Message	Kotori	Okay, okay. Got it.	
+Message	Shido	Do your best to learn from Rinne, okay?	
+Message	Kotori	"Hehehe. Don't underestimate me! Just give me a day,
+and I'll surpass you."	
+Message	Rinne	I-I don't think you can pull that off...	
+Message	Maria	"I know. Even if it's you, Kotori, it's not something
+you can figure out in a day or two."	
+Message	Shido	Haha... Yeah.	
+Message	Kotori	Gosh, you guys suck!	
+Message	Rinne	Hahaha...	
+Message	Maria	Hehehe...	
+Message	None	"(Rinne's and Maria's laughter echoed through the
+living room. Why did I find that so dear? As the
+thought came to mind, my smile almost faded.)"	
+Message	Shido	Well, I have to get ready.	
+Message	None	(I tried to brush it off, and returned to my room.)	
+Message	Maria	Shido...	
+Message	Shido	Rio and Marina... They're still not here.	
+Message	Rio	Morning, Papa!	
+Message	Shido	Morning Rio. Where's Marina?	
+Message	Rio	Marina? She's not here.	
+Message	Shido	"Not here... Oh come to think of it, you did say she
+only comes out after dark..."	
+Message	Rio	"Marina is Rio's guardian. She'll be with me when it's
+dangerous."	
+Message	None	"(I don't know why, but it seems like Marina can only
+come out at night. I guess we can't do anything about
+that.)"	
+Message	Shido	Then that means it's just you and me, huh?	
+Message	Rio	No? One more person, right?	
+Message	Shido	One more person? It's only Rio and me...	
+Message	Rio	Right, Maria-chan?	
+Message	Shido	...Maria?	
+Message	Maria	...So you've noticed me.	
+Message	Shido	Maria... Why?	
+Message	Maria	"Sorry Shido. I was curious about you, so... I wasn't
+planning on getting caught."	
+Message	Shido	What do you mean by that?	
+Message	Maria	Exactly what it means.	
+Message	Shido	Oh, come on...	
+Message	None	"(Maria always had a tendency of following people, so
+I guess I would have eventually gotten caught.)"	
+Message	None	"(But it seemed like Maria caught on yesterday. Maybe
+she sensed Marina since she's like a sibling to her.)"	
+Message	Maria	"This will be my first time meeting you, Rio. I'm Maria
+Arusu."	
+Message	Rio	"Yeah! Nice to meet you! But it doesn't feel like the
+first time, huh?"	
+Message	Maria	"Is that so? That's nice of you. To have an adorable
+girl like you say that sure is nice."	
+Message	Rio	Adorable? Rio's adorable?	
+Message	Maria	Yes, very. To the point where I want to hug you.	
+Message	Rio	Thank you, Maria-onechan.	
+Message	Maria	"Not at all. I just spoke the truth. But it kind of tickles
+to have you call me One-chan."	
+Message	Rio	"You don't know? You can call anyone like a sister
+One-chan."	
+Message	Maria	*giggle*... I see. You have a point there.	
+Message	None	"(As she said that, Maria patted Rio's head. It seemed
+so familiar―)"	
+Message	Shido	Hey, Maria. Don't tell me you...	
+Message	Maria	"I was listening to your conversation earlier. So,
+Marina is taking care of her, right?"	
+Message	Shido	Yeah, that's right. Then she...	
+Message	Maria	Yes I know. But we'll save that for later.	
+Message	None	"(Maria looked me in the eye, and it seemed like she
+didn't want me to say any more. She's right. Rio
+shouldn't hear things she doesn't need to.)"	
+Message	Maria	Anyways, Rio. Where do you plan on going with Shido?	
+Message	Rio	"Where am I going with, Papa? Lots of places. We're
+looking for the most important thing!"	
+Message	Maria	The most important thing, huh?	
+Message	Shido	Yeah. Rio is supposed to look for it.	
+Message	Maria	I see. So, does it have a shape?	
+Message	Rio	Hm... I don't know. But if I find it, I think I'll know.	
+Message	Maria	That sure seems vague... May I help?	
+Message	Rio	"Really?! If you can help me, One-chan, Rio will be
+really happy! You too, right Papa?"	
+Message	Shido	Yeah, that'd make me happy.	
+Message	None	"(And besides... if Rio's with us, I may be able to
+have Maria and Marina meet.)"	
+Message	None	"(Maybe in this world, I can reunite the two who
+would've otherwise never been able to see one
+another again. Well... Marina might be shy about it.)"	
+Message	Rio	Well, then it'll be the three of us!	
+Message	None	"(Rio happily held Maria's hand. Despite their meeting
+for the first time, it seems like she's already fond
+of her. Maybe she's sensing Marina in Maria.)"	
+Message	Maria	Sure. Let's find what you're looking for.	
+Message	None	"(I couldn't add to what Maria said. I still didn't
+know if I could let Rio find it.)"	
+Message	None	"(But even so, we set off to look for "the most
+important thing". There were no hints to speak of, so
+all we could do was walk around town.)"	
+Message	Rio	Papa, do you think it'll be in this store?	
+Message	Shido	"Hey, Rio... Is what you're looking for something we
+can buy?"	
+Message	Rio	Hmm... maybe? It could be, it might not be.	
+Message	Shido	"So you don't know, huh? I thought you might know
+where to start looking."	
+Message	Rio	"I'm just following it. I'm looking a lot, but I don't
+see it anywhere."	
+Message	Maria	"So we have no choice but to look where Rio thinks...
+In that case, this will be very difficult."	
+Message	Shido	...Sure will be.	
+Message	None	"(I gave a wry smile but... I was relieved deep inside.
+If Rio had said, "It looks like a key," then I
+wouldn't have known what to say.)"	
+Message	None	"(If I were really going to help Rio with her search,
+it would be quicker to start by showing her the spare
+key. But I couldn't bring myself to do it.)"	
+Message	None	"(I had no basis for it, but... I felt like if I did that,
+we'd get to a place where there was no turning back.
+That feeling took over my body.)"	
+Message	Rio	U-Um, that store... I feel something strong.	
+Message	Maria	"A toy store. There's a big rabbit plush doll displayed
+on the show window."	
+Message	Shido	You wanna try going in?	
+Message	Rio	Yeah, I'm curious about what's inside!	
+Message	Maria	Rio, please don't pull on me. I'll go with you.	
+Message	Shido	...It seems like she just wants to go in.	
+Message	None	"(Well, Rio is a child, so it's only natural that she's
+interested in toys. I can understand why she'd give
+an excuse to go inside. Kotori did the same thing.)"	
+Message	Rio	Wow, this is amazing. It looks like a real phone!	
+Message	Maria	"Toy manufacturers seem to be creating toys with
+multiple functions these days. This one has online
+data updates and pairs with game consoles, too."	
+Message	Rio	Is this guitar a toy, too? Can you really play it?	
+Message	Maria	"You're right. It seems to be a pretend item. It seems
+like the accessory that comes with it is synced with
+the game console."	
+Message	Rio	"If you change the accessory, you can change the
+song, too! Here I go, kira-kira-live!"	
+Message	Maria	"No, Rio. Although it's a display, you can't play with
+the store items."	
+Message	Rio	I'm sorry, Maria-onechan. I'll be careful.	
+Message	Maria	Yes, please do so.	
+Message	Shido	You two look like you're having fun.	
+Message	None	"(Rio must be happy to be with Maria. I'm sure it's
+hard to go inside stores with Marina.)"	
+Message	Rio	"Rio saw this on the TV. You're supposed to stack them
+and make them stronger, and then you go "BAM!"
+right?"	
+Message	Maria	"That's called a trading card game. There are various
+types of cards that you can gather and use to battle
+with your friends."	
+Message	Rio	I see. Then... that's it! Let's do this!	
+Message	Maria	O-Okay... But only once, okay? My turn. Draw!	
+Message	Shido	Well, I can't just leave them like this, can I?	
+Message	None	(I ran after the two and entered the toy store.)	
+Message	Shido	...*sigh*. This is just us playing.	
+Message	None	"(After the toy store, we went to the book store,
+then the flower shop, then a stationery store. We
+still couldn't find what we were looking for.)"	
+Message	Rio	Hey, Rio isn't playing! I'm looking.	
+Message	Maria	"That's right, Shido. Seeing Rio this adorable, it's
+wrong to complain."	
+Message	Shido	"What Rio said made sense, but I don't know about
+you... Maria!"	
+Message	Maria	"I'm only kidding. But Rio looked like she was having
+so much fun. I think that's all that matters."	
+Message	Shido	"I guess you have a point... But we shouldn't lose
+sight of our goal."	
+Message	Maria	Hehe... You wouldn't fall for it, huh?	
+Message	Shido	Yeah... Not this time.	
+Message	Rio	"Yeah, Maria-onechan. You have to say something
+that makes more sense, or else Papa won't fall for it."	
+Message	Shido	Can you not casually say such a scary thing?!	
+Message	Rio	Hehehe... Papa, you're funny.	
+Message	Maria	"Yes. Shido is funny. I never get tired of watching
+him."	
+Message	Rio	Yeah, I totally get it! Papa is amazing.	
+Message	Shido	"Hahaha. Yeah, right? That somehow doesn't sound like
+a compliment."	
+Message	None	"(Well, we had a goal in the beginning, but now... I
+guess the right thing to do would be to just enjoy
+spending time together like this.)"	
+Message	None	"(There were so many unknowns, like what kind of
+existence Rio was. But I know it's better to just
+smile.)"	
+Message	None	"(Especially if this is a world with a time limit, and
+these imaginary days are numbered... I know there's
+still value to the time we spend here.)"	
+Message	Rio	Papa, that's a place where we can eat, right?	
+Message	Shido	"Yeah, that's a family restaurant. It's a bit after lunch
+time, huh?"	
+Message	Rio	Yeah, I wanna go!	
+Message	None	"(We spent so much time in all the stores, it was
+getting pretty late. It was a bit too late for lunch.)"	
+Message	Maria	"Then let's go. Judging from the outside, there seem
+to be open seats."	
+Message	Shido	You can tell?	
+Message	Maria	"I remember that place. And besides, I doubt there
+would be any obstacles for Rio in this world."	
+Message	Shido	You have a point...	
+Message	None	"(If Rio is controlling Eden, then things should go
+exactly as we plan.)"	
+Message	None	(Hm... But did I tell Maria that much?)	
+Message	Rio	"Hey, Papa. You need to hurry, or the seats will get
+taken!"	
+Message	Shido	Oh, Rio, don't yank me...!	
+Message	Rio	"So much food. What should I order? Hmm... This...
+No... Or this one? Um... Uh... Uh... What do I pick..."	
+Message	Maria	"You can choose anything you want, so it's fine.
+Take your time."	
+Message	Rio	Okay! Thanks, Maria-onechan!	
+Message	None	"(Rio flipped through the pages and went back and
+forth, looking like she was having fun choosing.)"	
+Message	Rio	"Hmm... Rio wants to order so many things. I can't
+choose one."	
+Message	Maria	"Then please choose Shido's and my order, too.
+Then you'll be able to choose up to three."	
+Message	Shido	"She's right. Why don't you start off with that? We'll
+come again to try out the others."	
+Message	Rio	"Again? Okay... You're right! Then... This, this... and this.
+Papa, One-chan, are you okay with this?"	
+Message	Shido	Yeah, sure. I'm fine with anything you like, Rio.	
+Message	Maria	"A Hamburg steak combo, omurice, and spaghetti with
+meat sauce. I'm worried about how much Rio can eat..."	
+Message	Shido	Well, I'm sure we can manage. Let's order.	
+Message	Rio	Rio wants to order. Please?	
+Message	Maria	"Sure. It's important to try anything. But if you get
+it wrong, it won't be good, so you do your best okay?"	
+Message	Rio	"Not good if I get it wrong...! Okay... got it. Rio
+will do her best."	
+Message	None	"(Rio timidly pushed the button, and she looked so
+nervous that it was adorable.)"	
+Message	Rio	Phew. I'm full.	
+Message	None	"(After we left the restaurant, Rio looked satisfied.
+I think two hours had passed since we sat down.
+The sun was already setting.)"	
+Message	Shido	Rio, you ate so much. I'm proud of you.	
+Message	Rio	Hehe. Is Rio a good girl?	
+Message	Shido	Yeah, you are. Good girl.	
+Message	Rio	*Yawn*	
+Message	Maria	"I was so surprised to see you finish the whole
+omurice. And you even ate cake and pudding for
+dessert..."	
+Message	Rio	One-chan, sweet things go in another stomach.	
+Message	Maria	"You must like sweet things. Is that why you like Shido
+too?"	
+Message	Shido	Hey Maria, what's that supposed to mean...	
+Message	Maria	"I mean exactly what I said. Shido, you're sweet to
+girls."	
+Message	Shido	I can't deny that...	
+Message	Rio	"I don't get it. Rio loves Papa. Do you not love Papa,
+Maria-onechan?"	
+Message	Maria	No, I love Shido too.	
+Message	Shido	Hey, wait Maria. Not here.	
+Message	Maria	But it's the truth. And is that a surprise to you?	
+Message	Shido	Well, you have a point but...	
+Message	None	"(But it's a day off and we're in town. Who knows if
+we might bump into people we know―especially
+those from school.)"	
+Message	Maria	"If you have a problem with the location, then we can
+go home or to the park."	
+Message	Shido	"Well, that's not what I meant... But we did look all
+around this area. The sun's setting already, so we
+should call it a day."	
+Message	None	"(And it may be time for Marina to come out. Then I can
+have Maria and Marina meet.)"	
+Message	Rio	Okay got it. Then let's go to the park!	
+Message	Shido	H-Hey, Rio! Don't run, it's dangerous!	
+Message	Rio	It's just to there, so it's okay!	
+Message	Shido	That kid...	
+Message	Maria	Hehe... Shido, you're starting to act like a father.	
+Message	Shido	"You could at least say brother. Now... Hey, wait! Rio!
+I'm going to go home now!"	
+Message	Rio	No!!! You're a meanie, Papa!	
+Message	Shido	"Then you just stand there! You hear me?! Hey, Maria.
+Sorry, I know you just ate, but let's go."	
+Message	Maria	"Okay, let's go. We can't leave your precious family
+alone."	
+Message	None	"(Rio would suddenly run and then stop, then run and
+then stop, staying just ahead of us so we wouldn't
+catch up.)"	
+Message	None	"(It's fine that we're running after her, but both
+Maria and I were thrown off by Rio's pace.)"	
+Message	Shido	*Pant, pant*... Don't make us run after we eat, Rio...	
+Message	Rio	Hehe. But we're playing chase. That was fun!	
+Message	Shido	...Well, I'm glad you had fun.	
+Message	None	"(That was a workout... Well, the park feels pretty nice.
+The weather's nice and the wind is blowing.)"	
+Message	Rio	...Hey, Papa. Do you not like it here?	
+Message	Shido	Rio...?	
+Message	None	"(I don't know how I knew, but I realized that when Rio
+said "here", she didn't mean the park.)"	
+Message	Rio	"Rio loves it here. I mean, I can see you, Papa. And
+Marina. And... everyone is smiling."	
+Message	None	"(I know. I know that. Everyone's here. There's so
+much happiness in this world.)"	
+Message	Shido	Well...	
+Message	None	"(Things that disappeared came back. I didn't know
+anymore... whether what I thought was right was
+actually right...)"	
+Message	Shido	...Hey, Rio. I―	
+Message	Rio	Hmmm... hmmm...	
+Message	Shido	Wh-What's the matter, Rio?	
+Message	Rio	I'm getting a little sleepy...	
+Message	Maria	Shido, please bring Rio here.	
+Message	Shido	Okay, Rio. Here.	
+Message	Maria	"She must be sleepy because she's full. Hehe. She's
+so adorable, look at her sleeping."	
+Message	Shido	"We have walked everywhere since this morning, plus
+she was just running... I'm not surprised that she's
+tired."	
+Message	Maria	"You're probably right. And besides, I do hear it's
+important to make children take naps."	
+Message	None	"(Maria gently ran her fingers through Rio's hair. They
+looked so sweet. But at the same time, this was a
+scene that couldn't happen in reality.)"	
+Message	Maria	"Shido... Now that Rio's sleeping, can I ask you one
+thing?"	
+Message	Shido	Hm? What is it?	
+Message	Maria	"Shido... I think you already realize what that "the
+most important thing" is, don't you?"	
+Message	Shido	...?!	
+Message	None	Thanks Shido... I'll take good care of this.	
+Message	Maria	I knew it...	
+Message	Shido	No, Maria, it's not like that... I, um...	
+Message	Maria	"Shido, you're a kind person. You're probably thinking
+about someone else again... You don't want to hurt
+someone, and you're hurting too, aren't you?"	
+Message	Shido	"No, it's not that! That's not it... It's not something
+that nice... I... I just..."	
+Message	None	"(I couldn't put it into words. Rinne, Maria, Marina...
+and Rio. There were too many... too many people I
+didn't want to lose.)"	
+Choice		...Sorry, I can't really put it into words.	
+Choice		...I don't want to give up.	
+Message	Shido	...Sorry, I can't really put it into words.	
+Message	Shido	...I don't want to give up.	
+Message	Maria	"I see. But I believe in you. I know that you'll pick
+the right answer."	
+Message	Shido	"The right answer... Is there such a thing? I don't
+know what that is."	
+Message	Maria	"Even so, I know you'll choose it at the end. That's
+how you've been saving people all these time. Like...
+you did with me."	
+Message	Shido	Maria...	
+Message	None	"(Ever since I found out about the Spirits, I've made
+a lot of decisions. I don't know whether they were
+right. Maybe there were a bunch of mistakes.)"	
+Message	Maria	"You might stress about it. You might think you're not
+ready. But Shido, you've always made the right
+decisions. I guarantee that."	
+Message	Shido	...Maria. Can you read my heart?	
+Message	Maria	"I don't think so. However, I have been watching you,
+Shido."	
+Message	Shido	I see...	
+Message	Maria	"You're always working so hard for other people.
+That's why everyone likes you so much."	
+Message	Maria	"So I'm going to represent everyone and promise...
+No matter what you choose, I'll believe that it was
+the right decision. I have faith in you."	
+Message	Shido	...Thanks, Maria.	
+Message	Maria	You're welcome. That's what a good wife does.	
+Message	Shido	"A good wife? You know... Well, thanks. I feel a lot
+lighter now."	
+Message	Maria	Yes, I am your Maria, Shido.	
+Message	None	"(And I couldn't help but smile with her. We did this
+recently, but it feels so far away.)"	
+Message	Rio	Mm...mmm...	
+Message	Rio	Morning, Papa. Maria-onechan.	
+Message	Maria	Good morning, Rio. You slept well.	
+Message	Shido	Good morning. You feel better now?	
+Message	Rio	Yeah, I'm not sleepy anymore.	
+Message	Shido	"Okay then, Marina might come any minute now.
+The sun's setting."	
+Message	Rio	Yeah, it's evening. It seems dark over there.	
+Message	None	"(Rio pointed toward the sky. It's true. The sky was
+like an orange gradient.)"	
+Message	Rio	Hey, Papa. It's almost time...	
+Message	Shido	Time? Time for what?	
+Message	None	"(I looked around, and Maria was sitting on the swing
+alone.)"	
+Message	Rio	It's time. Marina.	
+Message	Shido	...Marina? No, Rio. That's Maria there―	
+Message	Rio	But I'm not wrong...	
+Message	Marina	"Gosh, you really do put us in a bind. You should
+have left Shido Itsuka a long time ago."	
+Message	Rio	I messed up.	
+Message	Marina	"Aw, when you say that with a smile, it's not fair.
+Anyways, Shido Itsuka... Do I have something on my
+face?"	
+Message	Shido	"Wait, but... Aren't you Maria? Your clothes are the
+same..."	
+Message	Marina	"I guess I'll tell you everything. So Rio, you go play
+over there."	
+Message	Rio	Okay, I'll wait for you.	
+Message	Marina	So, where should I start? Any questions?	
+Message	Shido	Questions... I mean, where did Maria go?	
+Message	Marina	"...Ah, from there huh? In this world, I am Marina and
+Maria. Do you understand?"	
+Message	None	"(Maria is gone and Marina appeared. Considering the
+circumstances...)"	
+Message	Shido	So... you guys are two in one?	
+Message	Marina	"Correct. I disappeared that time. But I left a present
+in the end. You know what that is, right?"	
+Message	Shido	Maria's data...	
+Message	Marina	"Yeah. And inside there, I guess there was a little bit
+of my data mixed in. So a small hint of black mixed
+into white."	
+Message	Shido	Th-Then, will we be able to resurrect your data?	
+Message	Marina	"That's impossible. Not with Marina Arusu now.
+It's like a ghost. A faint shadow that will disappear
+some day."	
+Message	Marina	"My body couldn't come back, even in this Eden.
+Maria was able to be resurrected, but I'm so small
+that I need Maria's body or I can't move about freely."	
+Message	Shido	Marina... Are you okay with that?	
+Message	Marina	"What do you mean? What choice do I have? This is
+my final destination. There's nothing... beyond this
+point."	
+Message	Shido	That's... That's just too sad!	
+Message	Marina	"Don't say that to me. I know myself. I have a role as
+Rio Sonogami's―Eden's guardian. So I can exist like
+this."	
+Message	Shido	"...Eden's guardian? Kind of like the Angel that
+appeared the last time?"	
+Message	Marina	"That's right. I listen to Rio and I help her. That's
+my role. Although I'm not forced to do so. And I can
+cut through space and freely move to where Rio is."	
+Message	Shido	"So that's why you were able to get to Rio before me?
+So you guys really are sharing bodies."	
+Message	Marina	"Yes. I feel bad that I'm causing Maria problems. But
+Maria knows that I'm using her body."	
+Message	Shido	So she's conscious now?	
+Message	Marina	"She's awake, but kind of asleep. It's similar to when
+Maria's out. Like I said... We're kind of mixed."	
+Message	Marina	"I'm currently replicated from Maria so that might have
+something to do with it. I'm currently Marina Arusu,
+but not the same Marina Arusu that battled you before."	
+Message	Marina	So don't worry about me.	
+Message	Shido	Marina!	
+Message	Marina	"I won't go back to the original world, and even if I'm
+in Eden, I'll eventually completely melt inside
+Maria... and disappear."	
+Message	Shido	Are you okay with that...?! I can't just accept it!	
+Message	Marina	"I disappeared once. So, Shido Itsuka... You should
+look more toward the future."	
+Message	Shido	The future...?	
+Message	Marina	"Just like before, you should get out of these endless
+days, and live in the world where you should be. And
+be happy there. Isn't such a future awesome?"	
+Message	None	"(I understand where Marina's coming from. But she's
+saying to just forget everything and live.)"	
+Message	None	"(It means abandoning Rinne, Marina, and Rio... It
+means that kind of future.)"	
+Choice		I think you're right.	
+Choice		Everything isn't always about being right.	
+Message	Shido	"What you're saying is right, Marina. I do feel like we
+should get out of here."	
+Message	Marina	"Hehe... If you were still contemplating, that would be
+my recommendation. Humans forget what they don't
+need to remember. So, that chance has come for you."	
+Message	Shido	That may be true...	
+Message	Shido	I think everything isn't always about being right.	
+Message	Marina	Is that your answer?	
+Message	Shido	"I still don't know. But to have you guys disappear and
+for everything to end... I just can't accept that."	
+Message	Marina	I see. You're too nice at times like these.	
+Message	None	"(Marina's smile in the sunset was so beautiful, yet
+fleeting. It was loving.)"	
+Message	None	"(Is that beauty going to flutter away? No, that can't
+be true. I've discovered it for the first time. Marina
+Arusu is a girl who can smile like this.)"	
+Message	Marina	"Right, so we're done talking here. Someone's waiting
+for you, so you should go home now."	
+Message	Shido	No. Will you two come with me?	
+Message	Marina	"What? Can you stop with that? Rio and I have things
+to do."	
+Message	Shido	...But we don't have much time, right?	
+Message	Marina	I know, but... That's more of a reason―	
+Message	Shido	Shouldn't we have her meet Rinne?	
+Message	Marina	―?! That's...!	
+Message	Shido	Hey, Rio! You want to see Mama?	
+Message	Rio	"Mama?! Hey Papa, I can see Mama? Marina said if I
+see her, it won't be good."	
+Message	Shido	No. Papa will allow it.	
+Message	Marina	Hey, Shido! But what if something happens?	
+Message	Shido	"Well even if it did, it's better than not seeing one
+another at all. Right, Rio?"	
+Message	Rio	Yeah! Rio wants to talk to Mama!	
+Message	Marina	"...You got me. Fine, I guess! Ugh. Gosh, what is up
+with you and your sudden ideas and your actions
+and making things happen..."	
+Message	Shido	"That's my personality. Sorry Marina, you're going to
+have to do this with me."	
+Message	Marina	"I guess there's no point in my just standing here.
+Only today, though. If something happens to Rio,
+then we'll leave immediately. Got it?"	
+Message	Shido	Yeah, thanks.	
+Message	Marina	Hmph... Gosh, you're so stubborn.	
+Message	None	"(I still haven't found my answer yet. But I don't want
+it to just end like this. So I'm going to do what I
+can now.)"	
+Message	None	"(Until the very last moment, I want to have these
+smiles last even one second longer.)"	

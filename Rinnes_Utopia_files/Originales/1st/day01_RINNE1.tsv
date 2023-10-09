@@ -1,0 +1,221 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	A date, huh? I'm really not feeling up to it.	
+Message	Shido	"And lately... something about Rinne's been
+bothering me."	
+Message	Rinne	Shido, did you call me?	
+Message	Shido	Whoa! R-Rinne?!	
+Message	Rinne	Yes?	
+Message	Shido	Er, um... sorry, but I really didn't call for you or anything.	
+Message	Rinne	Aw, really? I thought you were going to take me out.	
+Message	Shido	H-How did you know I wanted to take you on a date?	
+Message	Rinne	Um, well... I just said that for the heck of it. You wanna take me out, huh?	
+Message	Shido	Uh...	
+Message	Rinne	"Hehe, you're really proactive, aren't you?
+But seriously, do you really wanna go out
+with someone like me?"	
+Message	Shido	That's...	
+Message	Rinne	Hehe, if you want to take it back, now's your chance.	
+Message	Shido	I-It's you. I want to go with you.	
+Message	Rinne	Huh?! Y-You really... w-wanna go with me?	
+Message	Shido	Y-Yeah.	
+Message	None	"(In all honesty... it's true that I'm curious about her.
+Besides, it'll be nice to relax with Rinne.)"	
+Message	Rinne	"Um... instead of someone like me, it'd be better
+to invite someone else..."	
+Message	Shido	R-Really?	
+Message	Rinne	Yeah. Oh, look! Tohka-chaaan!	
+Message	Tohka	Hm? What is the matter?	
+Message	Rinne	Shido wants to go on a date with you.	
+Message	Shido	Huh?! Rinne!	
+Message	Tohka	Oh! Is that right, Shido?	
+Message	Shido	Er, w-well you see...	
+Message	Tohka	"Shido, could it be that you do not wish to date me?
+Is it possible... you're still upset about what happened
+at lunch?"	
+Message	Shido	No, not at all. It's fine.	
+Message	Tohka	"Sorry, Shido. I was so worried. I stayed so long in the
+infirmary that they threw me out. I'm glad you're alright."	
+Message	Shido	I-I see...	
+Message	None	(If I turn her down here, it'll definitely worsen her mood.)	
+Message	Shido	Let's go on a date, Tohka!	
+Message	Tohka	Yes! It is decided!	
+Message	Shido	Y-Yep!	
+Message	Tohka	Okay, let us go right away! All three of us!	
+Message	Shido	Huh?	
+Message	Rinne	Three of us?	
+Message	Tohka	Why, yes! Aren't you coming, Rinne?	
+Message	Rinne	Huh?! No, I...	
+Message	Tohka	Let's go already!	
+Message	Rinne	Ah! T-Tohka-chan?!	
+Message	Shido	......	
+Message	Tohka	Hey! What's taking so long, Shido?	
+Message	Shido	Right, right! I'm coming!	
+Message	None	"(And that's how, for some reason, the three of us
+ended up going on a date.)"	
+Message	Tohka	Hm... would you like to see a movie, Rinne?	
+Message	Rinne	"Huh? Um... I thought it was implied a date
+involved a movie... w-was I wrong?"	
+Message	Shido	"No, you're right. I think going to a movie
+is pretty standard."	
+Message	Rinne	I-I see. That sounds good to me then.	
+Message	Rinne	Oh, look!	
+Message	Shido	"Hm? Lemme see, a 3D blockbuster...
+Oh, that one is a romance movie, huh?"	
+Message	Rinne	Tohka-chan, I think this looks like something you'd like.	
+Message	Shido	I feel like she'd pick either one.	
+Message	Tohka	Hrm. I do not really wish to see this one.	
+Message	Shido	What?	
+Message	Rinne	...?	
+Message	None	(I totally thought Tohka would've wanted to see this.)	
+Message	Shido	Out of curiosity... why not?	
+Message	Tohka	I have seen this movie before.	
+Message	Shido	What?! Y-You went to see it alone?	
+Message	Tohka	What do you mean, Shido? We watched it together.	
+Message	Shido	Huh?	
+Message	Rinne	R-Really?! You could have told me that...	
+Message	Shido	"I-I really don't remember... but now that you mention
+it, I think we did go out... when was that again?"	
+Message	Tohka	Hmph! Shido, have you forgotten the day you spent with me?	
+Message	Shido	S-Sorry.	
+Message	Tohka	Try to remember. It was...	
+Message	Shido	Hm? When was it?	
+Message	Tohka	Um... w-when was that exactly?	
+Message	Shido	Are you okay, Tohka?	
+Message	Tohka	Erm! I-I have most definitely seen it! With you, Shido!	
+Message	Shido	R-Right... we really saw it, right? I feel like we did.	
+Message	Tohka	Yes!	
+Message	Shido	Oh, it's Kotori. Excuse me, I'm gonna take this really quick.	
+Message	Tohka	Alright. Hurry back, okay?	
+Message	Rinne	We'll be waiting.	
+Message	Shido	Right, just a minute.	
+Message	Shido	Hello, Kotori?	
+Message	Kotori	"As usual, you sound like something losing its carbonation."	
+Message	Shido	"What's with the attitude?! I know you didn't call me
+just to tell me that, so... what's up?"	
+Message	Kotori	"Do I seriously need to spell it out for you?\nHow's the dating going? Did you get any takers?"	
+Message	Shido	Oogh... well, yeah, but...	
+Message	Kotori	"But you're having some trouble again?\nHow is it that you get in trouble so often?"	
+Message	Shido	"T-That's none of your business! Besides,
+it's not like I wanna get in these situations!"	
+Message	Kotori	"Whatever. So what kind of trouble is it today?"	
+Message	None	"(Ugh... this is hard to even talk about because here
+I am asking Rinne out when she's not even a Spirit...)"	
+Message	Shido	"S-So, I'm taking Tohka on a date, but... well...
+Rinne is with us too, and..."	
+Message	Kotori	"What?! Why on earth is Rinne with you?!"	
+Message	Shido	T-That's what I wanna know!	
+Message	Kotori	"If your carelessness gets Tohka so jealous that she...\nWait. Actually, Tohka's mental state isn't so bad."	
+Message	Shido	That makes sense. She's the one who made this happen.	
+Message	Kotori	"Huh? Wow. I see. Interesting.\nOkay, then you should just continue."	
+Message	Shido	What?	
+Message	Kotori	"If it was Tohka's idea, and she's happy with it,\nthere really isn't anything wrong here."	
+Message	Shido	I see. Alright, but...	
+Message	Kotori	"What? Is there something else?"	
+Message	Shido	"Well, Rinne suggested we come see a movie,
+but I don't think Tohka wants to."	
+Message	Kotori	"Are they arguing about what to do for your date?"	
+Message	Shido	"No, it's not that serious. But forcing Tohka to see
+a movie would stress her out so I thought maybe
+we should do something else."	
+Message	Kotori	"What about the pool? The movie theater's nice,\nbut going to the pool is a total summer date.\nPlus, some eye candy wouldn't hurt, right?"	
+Message	Shido	What?! I wouldn't... no, that doesn't—	
+Message	Kotori	"I know. I'm already aware that you're a genus lower\nthan vegetation, who can't even hold an impure thought,\non the edge of extinction."	
+Message	Shido	Excuse you.	
+Message	Kotori	"I'm just telling it like it is. Tohka has a swimsuit,\nso it'll work just fine. Oh, but her room in the Spirit\nhouse is still out, huh?"	
+Message	Kotori	"Go pick out something new for her at the Twin\nBuilding B in front of the train station."	
+Message	Shido	Got it.	
+Message	Kotori	"Shido, last thing: watch yourself, okay? You're\nalready in an unstable situation and you don't\nwant to say or do anything reckless."	
+Message	Shido	Right. Understood.	
+Message	None	"(Phew. Now that I think about it, it's a good
+thing Tohka is here. If I was dating Rinne, I'm
+not sure I could've made an excuse...)"	
+Message	Tohka	Hrm. You took forever, Shido.	
+Message	Shido	I'm sorry! That lasted longer than I thought it would.	
+Message	Rinne	Is everything okay? That must've been an important call.	
+Message	Shido	"I'm fine, I'm fine. It wasn't anything too important.
+Hey... would you two rather go to the pool?"	
+Message	Tohka	Oh! The pool! It's quite fun there!	
+Message	Shido	I think so, too. Rinne?	
+Message	Rinne	Um... well, I don't have a swimsuit, so...	
+Message	Shido	"We can go to the department store in front of
+the train station. I'm sure they have a sale going
+on right now, too."	
+Message	Tohka	"Hm? But I already have a swimsuit, remember?
+The one you picked out for me."	
+Message	Shido	"I know, but the apartment... it's currently, um...
+going through renovations so we can't... go in."	
+Message	Tohka	Renovations?	
+Message	Shido	"Yeah. Basically, it needs some repairs, or I guess
+it's in the middle of them rather, so we won't be
+able to get to your room until it's done."	
+Message	Tohka	Oh! That's right!	
+Message	Shido	"Okay, so let's head towards the train station.
+Does that sound good, Rinne?"	
+Message	Rinne	Um, yes... I suppose we could go check out that store.	
+Message	Shido	Alright! Let's get going!	
+Message	Tohka	Yes!	
+Message	None	"(We went to the Twin Building B in front of the train station,
+bought swimsuits and towels, then headed to the pool...)"	
+Message	Tohka	Shido! Hurry! Let us hurry to the pool!	
+Message	Shido	Yeah!	
+Message	Shido	Oh, Rinne... were you really alright with that swimsuit?	
+Message	Rinne	"Yeah. The one you chose for me was the best.
+Thanks."	
+Message	Shido	Y-You're welcome. Then, should we go?	
+Message	Rinne	Yeah!	
+Message	Tohka	Heeeey! Riiiiinne! I'm over heeere! Hurry oveeeer!	
+Message	Rinne	Oh, Tohka-chan! You shouldn't run around so much!	
+Message	None	"(I got to the pool after quickly changing into
+my swimsuit. When I got there, I heard Tohka
+and Rinne's voices echoing off the domed roof.)"	
+Message	None	(Those two are fast...)	
+Message	None	"(Before I knew it, the two were climbing the
+water slide made to look like a rock formation
+at the far end of the huge pool.)"	
+Message	Tohka	Rinne! We slide from here into that lake!	
+Message	Rinne	Huh? W-We're already going? But...	
+Message	Tohka	"What's the matter? You don't want to slide?
+This is very fun, you know. Once you try it,
+you won't be able to stop!"	
+Message	Rinne	But this is a date with Shido, so we should wait for...	
+Message	Rinne	Huh? Kyaaa!	
+Message	Rinne	Kyaaaaaaaaaaaa!!!!	
+Message	Shido	Ah! R-Rinne! Are you okay?!	
+Message	Rinne	*Gasp*	
+Message	Rinne	T-That... I wasn't expecting that...	
+Message	Shido	Rinne! Are you alright?	
+Message	Rinne	"I-I'm fine! It was a lot faster than
+I thought it would be, but it was fun."	
+Message	Shido	"Oh, that's... R-Rinne!
+Er, your um, swimsuit..."	
+Message	Rinne	Huh?	
+Message	Rinne	Oh!	
+Message	Shido	H-Hurry! You have to fix it!	
+Message	Rinne	Oh, right. Yeah... you're probably right.	
+Message	Shido	What?	
+Message	Rinne	Shido... it doesn't bother me if you look, you know.	
+Message	Shido	Rinne?	
+Message	Rinne	"But then you'll be in quite a predicament,
+won't you, Shido?"	
+Message	Shido	What?! You dummy! What are you saying?!	
+Message	Rinne	"Tohka-chan's not looking right now.
+It might be our chance."	
+Message	Shido	Our c-chance?! Rinne, cut it out!	
+Message	Rinne	Shido... look at me.	
+Message	Tohka	"Heeey! Riiiinne! How was iiiit?!
+I'm neeeext!"	
+Message	Shido	What?! R-Rinne! H-Hurry and fix it already!	
+Message	Rinne	Aaallright. Hehe... were you shocked?	
+Message	Shido	I thought my heart was going to stop...	
+Message	Rinne	Good grief, Shido. You're such a wimp... hehe.	
+Message	None	(No, that's not the problem here...)	
+Message	Rinne	Shido, how does it look? Is it tied right?	
+Message	Shido	I-It looks fine.	
+Message	Tohka	Ahahaha!	
+Message	Tohka	Woo! Hahaha! Shido, this is quite fun!	
+Message	Shido	Yeah, it looks like it! It's my turn!	
+Message	Rinne	Shido... just now...	
+Message	Shido	Huh?	
+Message	Rinne	Never mind.	
+Message	Shido	Er... okay.	
+Message	None	(What's with Rinne?)	

@@ -1,0 +1,396 @@
+﻿Operator	Comment	Key	Translation
+Message	Kotori	Hey, Shido. When's breakfast gonna be done?	
+Message	Shido	Sorry, it'll be done soon!	
+Message	None	"(In the living room, everyone was gathered,
+eagerly awaiting breakfast. It was a struggle
+to prepare such large amounts of food.)"	
+Message	Maria	Shido, the eggs are done frying.	
+Message	Shido	"Oh. Thank you, Maria. I'm done on my end,
+too."	
+Message	None	"(Thanks to Maria's assistance, it looks like
+we were able to complete preparations.)"	
+Message	Shido	"There, it's done. Heeeeey, everyone～!
+Breakfast is ready!"	
+Message	Tohka	Oooh, I have been waiting!	
+Message	Kurumi	"You really have a big appetite, don't you
+Tohka-san? It's impressive, I must admit."	
+Message	Tohka	"Hm. It is embarrassing to be complimented
+for it."	
+Message	Yoshino	"Th-That's... I'm not sure she's complimenting
+you."	
+Message	Yoshinon	"Tohka-chan sure seems cheerful, so it's all\ngood, right?"	
+Message	Kaguya	"Heh heh. The rays of dawn coupled with
+the gleam of the shining sun, as if the sun
+itself were melting from the heat."	
+Message	Yuzuru	"Agreement. Fried eggs with runny yolk
+are absolutely delicious."	
+Message	Shido	"Ohh, I see. Maria's the one who fried the
+eggs. Great job, Maria."	
+Message	Maria	Yes. I'm glad.	
+Message	Origami	"Shido's meals are always top-notch. If you
+were to go by Michelin ratings, it would add
+up to seven stars."	
+Message	Shido	"No, no. The highest is three, right?! If it were
+seven stars, it'd be like that guy with the scar
+on his chest."	
+Message	Origami	I simply mean your food is amazing.	
+Message	Miku	"More importantly, if we don't eat quickly,
+the breakfast that darling and Maria went
+through the trouble to make will cool."	
+Message	Maria	"That would not be an ideal situation. Meals
+are best eaten at the proper temperature."	
+Message	Yoshinon	"Arusu-chan really has become a glutton,\ntoo～!"	
+Message	Shido	"What Maria says is true. Well, everyone's
+ready, so let's eat."	
+Message	Tohka	Yes! I cannot wait to dig in!	
+Message	Tohka	"Whew. Another delicious feast! Thank you
+for the meal."	
+Message	Miku	"Darling, it was tasty and exquisite. Now,
+since breakfast is done, you and I have a
+date scheduled today～."	
+Message	Tohka	"Hrm? Why is it with you, Miku?! Shido will
+be going on a date with me!"	
+Message	Yoshino	M-Maybe... once in a while, I, um...	
+Message	Yoshinon	"That's right～! You should date Yoshino\ntoo, Shido-kun!"	
+Message	Kurumi	"Hmhm. If you prefer, why not have a more...
+mature date with me? One you couldn't have
+with the other girls, no?"	
+Message	Kaguya	"Heh heh heh. Shido has formed a pact with the
+Yamai Sisters to partake in a merry banquet."	
+Message	Yuzuru	"Agreement. It is unfair that you often date
+Maria. I would like some attention, is what
+Kaguya was saying last night."	
+Message	Kaguya	I-I-I never said that!	
+Message	Origami	"Yesterday, we performed activities as a group.
+Therefore, Shido's date should be with me."	
+Message	Kotori	"Oniiii-chan, why not take me out once in a
+while?"	
+Message	Shido	What the—?! Kotori, what are you saying?!	
+Message	Kotori	"I'm kidding. Hey everyone, before you go
+staking your claim, aren't you all forgetting
+something important?"	
+Message	Tohka	Something important...?	
+Message	Miku	"Am I missing something～? We're discussing
+who darling should go on a date with. Today,
+I would like to go out, just the two of us."	
+Message	Origami	I second her statement.	
+Message	Kotori	You guys—	
+Message	Maria	"You cannot. Shido promised to take me on
+a date."	
+Message	Tohka	Hm? Is that true, Shido?	
+Message	Shido	Er, well... Um...	
+Message	Maria	"Just for today, allow me to be selfish.
+This is the request of a lifetime."	
+Message	Shido	M-Maria?	
+Message	Maria	Let's depart, Shido. This is... for you and me.	
+Message	Maria	Our final date.	
+Message	Shido	...Huh? What did you say?	
+Message	Maria	It is nothing. Now, let us go.	
+Message	Shido	H-Hey, hey...!	
+Message	None	"(Maria pulled me by the hand. She used a
+lot of force. Almost like desperation.)"	
+Message	Shido	I'm sorry, everyone. 	
+Message	Tohka	"Yes. After seeing how serious Maria is,
+I cannot object."	
+Message	Origami	"I acknowledge that. But tomorrow I won't give
+up."	
+Message	Yoshino	Please... Go with her!	
+Message	Kurumi	Make sure you care for Maria-san properly.	
+Message	Kaguya	Heh heh... I leave my underling to you, Maria.	
+Message	Yuzuru	"Agreement. I sense determination in you,
+Maria."	
+Message	Miku	"It's true. A fire is burning behind those eyes.
+So, for today... I mean, also today, be sure to
+care for Maria-chan."	
+Message	Kotori	That's right. Do your best, Shido.	
+Message	Maria	"Everyone, thank you. Please... Forgive me
+for being selfish."	
+Message	Shido	Let me thank you too, everyone.	
+Message	Shido	Still, it's surprising.	
+Message	Maria	...Sorry, but it is only for today.	
+Message	Shido	No, it's fine, but...	
+Message	None	"(She looks conflicted. What do I do?
+Do I ask her what's going on?)"	
+Choice		Did something happen?	
+Choice		All right. Let's go!	
+Message	Shido	Maria, did something happen?	
+Message	Maria	Something...? How do you mean?	
+Message	Shido	Er, well... You're acting kinda weird.	
+Message	Maria	...Weird? Is there something wrong with me?	
+Message	Shido	"I didn't mean it like that. I just wondered if
+maybe you were worried."	
+Message	Maria	"No, that is not the case. I simply wished to
+go on a date with you, Shido."	
+Message	Shido	"Hmm. I see. Sorry. Guess it was just my
+imagination."	
+Message	None	"(Just as I thought, there's something off.
+But it doesn't seem like she wants me to
+ask. For now, I'll tag along with Maria.)"	
+Message	Shido	All right. Let's go!	
+Message	Maria	"Shido, were you about to say something just
+now?"	
+Message	Shido	"It's fine. Don't worry. After all, you're inviting
+me on a date, Maria."	
+Message	Maria	Thank you, Shido. I can't wait.	
+Message	Shido	Then, let's get out there, Maria.	
+Message	Maria	...Yes!	
+Message	Shido	"Now then. Where should we go on our date?
+Have anything in mind, Maria?"	
+Message	Maria	I want to visit a variety of places.	
+Message	Shido	A variety of places, huh... That's tough.	
+Message	Maria	"We needn't go very far, or to a special place.
+All I wish, put simply, is to spend time with
+you in this town, Shido."	
+Message	Shido	"Maria...? Okay. Let me think. Okay, let's hit as
+many places as we can!"	
+Message	Maria	Okay!	
+Message	Shido	"We've been to almost all of the shops around
+here, haven't we? The clothing store, the
+convenience store..."	
+Message	Maria	"Yes. It was rather enjoyable. Let's visit stores
+you would normally visit, Shido."	
+Message	Shido	"Stores I normally visit? Hm, there's the book
+store, or... Oh, I guess maybe the supermarket?"	
+Message	Maria	"The place we visited before everyone cooked
+a meal together, yes?"	
+Message	Shido	"Yeah. I remember that... Wait, when was
+that?"	
+Message	None	"(I somewhat remember doing it, but I can't
+recall any of the details. It's a little surreal.)"	
+Message	Maria	"...! I apologize. Please do not worry about it.
+This world contains much data on a plethora
+of events."	
+Message	Shido	"Oh, you're referencing something that happened
+inside of the game. I guess it's not weird that
+I'm good at cooking. Not everyone can handle it."	
+Message	Maria	"Please look there, Shido. That is a food cart,
+yes?"	
+Message	Shido	It looks like okonomiyaki. Want to try some?	
+Message	Maria	"Yes, I would... There are still so many things
+I do not know. Food is especially remarkable."	
+Message	Shido	"I agree. Then let's split an okonomiyaki,
+and maybe sample other foods together."	
+Message	Maria	"Yes, let's. If we split a meal between us, then
+we can eat more than usual. Just like when
+we visited the café."	
+Message	Shido	"Haha. You're right. Kotori usually eats whatever
+she wants, then hands me the leftovers."	
+Message	Maria	"I see. It certainly sounds like Kotori. Hee hee.
+Now that we've decided, let's go, Shido!"	
+Message	Shido	Hey, hey. No need to rush!	
+Message	Shido	"We just checked out the clothing store, didn't
+we?"	
+Message	Maria	"Yes. Now that I recall, I have not worn the
+clothes you had bought me since then."	
+Message	Shido	Oh. I guess you're right.	
+Message	Maria	"After you went through the trouble of
+purchasing me such a cute outfit, I
+should have worn it today."	
+Message	Shido	"Ahh, well, you can next time. It's not like
+today is our last day together."	
+Message	Maria	Yes... You're right.	
+Message	Shido	Hm? What's wrong?	
+Message	Maria	No, it is nothing.	
+Message	Maria	There are many girls here, yes?	
+Message	Shido	"Ahh. Girls love this kind of stuff. Cute
+charms, small accessories, and such."	
+Message	Maria	"It is true. Somehow, just looking at them,
+it is starting to feel fun."	
+Message	Shido	"Since we're here, wanna buy something?
+You can choose anything you want."	
+Message	Maria	No, I will decline.	
+Message	Shido	Really? You don't have to hold back.	
+Message	Maria	There is... something else I want today.	
+Message	Shido	"Oh, I see. Then, do you want to go and find
+it?"	
+Message	Maria	"No, I'm going to keep it secret until the time
+is right. I will... tell you later."	
+Message	Shido	Hmm? I don't really get it, but sure.	
+Message	Maria	"Then, let's move onto the next place. We
+don't have much time, okay?"	
+Message	Shido	Whoa... Wait up, Maria. Don't run so fast!	
+Message	Shido	"Whew. We went all over the place...
+But did you really not want to buy anything,
+Maria?"	
+Message	Maria	"Yes, Shido. I had a lovely time, even just
+browsing."	
+Message	Shido	Well, I understand what you mean.	
+Message	Maria	Did you enjoy yourself too, Shido?	
+Message	Shido	"Yeah. Window-shopping allows me to look
+at things I'm curious about but would never
+buy myself."	
+Message	Maria	"Yes. There are many items whose purposes
+are unknown to me, as are their buyers."	
+Message	Shido	"You can find bargains in unexpected places, too.
+That leads to new and exciting discoveries, don't
+you think?"	
+Message	Maria	"Yes. I am of the same opinion. However, to
+be on the same page as you are, Shido, is...
+a strange feeling."	
+Message	Shido	"Really? We browsed the shops together, so
+it makes sense, doesn't it?"	
+Message	Maria	"It was all new information to me, but to you,
+they were things you had experienced before."	
+Message	Shido	"True, but... it's not like I'm always conscious
+of my surroundings. There's still a lot I'm
+learning too."	
+Message	Maria	"Hee hee. For some reason, I feel happy.
+Those are feelings I share with you, Shido."	
+Message	Shido	Is that something to be happy about?	
+Message	Maria	Yes. It has never happened prior to right now.	
+Message	Shido	...Really? It totally slipped my mind.	
+Message	Maria	Slipped your mind?	
+Message	Shido	"I mean like, how unique you are, Maria. To me,
+you're a regular girl, the same as everyone else."	
+Message	Maria	A regular... girl.	
+Message	Shido	"That's right. In fact, compared to everyone
+else, you've got way more common sense."	
+Message	Maria	I'm... a regular girl...	
+Message	Shido	Is something wrong, Maria?	
+Message	Maria	...No. It is nothing.	
+Message	Shido	"...? So what's the plan after this? Wanna see
+a movie?"	
+Message	Maria	"No, today is fine as it is. Let's visit more
+places. Is that okay?"	
+Message	Shido	Are you sure that's what you want?	
+Message	Maria	"Yes. The objective of today's date is to
+explore the city with you, Shido."	
+Message	Shido	Ah, right.	
+Message	Maria	Indeed. Then, let's get moving.	
+Message	Maria	Shido, it is a cat.	
+Message	Shido	"Yeah, it has a collar. It might belong to someone
+who lives in the neighborhood."	
+Message	Cat	Meoooow.	
+Message	Maria	Shido, it is approaching.	
+Message	Shido	Yeah. Seems like it's used to people.	
+Message	Cat	Meeeeow. Meew...	
+Message	Maria	What should I do for it?	
+Message	Shido	Well, how about you try petting it?	
+Message	Maria	"Pet... I understand. I will attempt to do so.
+There, there..."	
+Message	Cat	Meeeew... Meef... Meeeeeow.	
+Message	None	"(As Maria pet the cat, it meowed in satisfaction,
+swishing its tail before departing.)"	
+Message	Maria	I wonder... if that was acceptable.	
+Message	Shido	I think you did fine. It seemed pleased.	
+Message	Maria	Glad to hear it...	
+Message	Shido	"I really don't come here very often. It all
+feels so new to me."	
+Message	Maria	Almost like we're on an adventure.	
+Message	Shido	It kinda does. There's a sense of mystery.	
+Message	Maria	"Shido, you seem to be enjoying yourself.
+Whenever you're happy, I am as well."	
+Message	Shido	"R-Really? I'm a little embarrassed to hear you
+say that."	
+Message	Maria	"If we keep going down this route, we will
+reach a place you've never seen before, right
+Shido?"	
+Message	Shido	"Yeah. I've never taken this path before.
+Have you, Maria?"	
+Message	Maria	"Yes. I am of the same opinion. However, to
+be on the same page as you are, Shido, is...
+a strange feeling."	
+Message	Shido	Well, let's keep going!	
+Message	Maria	"Yes. Come what may. A view neither of us
+have seen, only for the two of us."	
+Message	None	"(And so, Maria and I walked around my city,
+the one I had become long accustomed to.)"	
+Message	None	"(Trotting around while observing the familiar
+cityscape was enlightening, but also enjoyable.)"	
+Message	Shido	Man, we sure are getting our exercise today!	
+Message	Maria	Yes. The sun has already set.	
+Message	Shido	"Yeah. It's easy to see the stars from here.
+Makes for a nice way to cap a lovely date."	
+Message	Maria	Yes. Being here right now brings me serenity.	
+Message	None	"(That's right. Maria loves to star-gaze.
+Just like this, here and now...)"	
+Message	Shido	It's pretty.	
+Message	Maria	Yes. I feel as though I could stand here forever.	
+Message	Shido	"Next time, it'd be nice to bring the others to
+star-gaze with us. We could bring a telescope."	
+Message	Maria	...	
+Message	Maria	Yes... We should.	
+Message	Shido	Maria, are you cold?	
+Message	Maria	"It is possibly a bit chilly. It is the evening,
+after all."	
+Message	Shido	Yeah. Then, maybe we should—	
+Message	Maria	...Shido.	
+Message	Shido	Hm?	
+Message	Maria	Today was everything I could have asked for.	
+Message	Shido	Yeah, I had fun too.	
+Message	Maria	"Shido...? Could I possibly ask you... one more
+selfish request?"	
+Message	Shido	"Yeah, of course. Tohka and the others honored
+your request, so they'd probably be upset if I
+didn't too."	
+Message	Maria	"Hee hee. I see. For you, Shido, I'm sure it will
+be easy. It is what you do at the end of a date,
+after all."	
+Message	Shido	What do you do at the end of a date?	
+Message	Maria	"Shido, if you cannot read my subtext, then
+we'll run into trouble. Listen, Shido. At the
+end of a date... you usually kiss."	
+Message	Shido	Er, ah...	
+Message	None	"(To get them to fall for you, and kiss them...
+That is the objective when dating a Spirit.)"	
+Message	None	"(If Maria's existence is like a Spirit...
+By kissing her, I would seal her powers, and
+we might be able to escape from here.)"	
+Message	None	"(However, does Maria know that's what I
+want? What does she think of me?)"	
+Message	None	"(She... might know. There's no way she wouldn't.
+That's why... she must understand.)"	
+Message	None	"(If Maria doesn't have a corporeal form,
+there's a chance she could disappear.)"	
+Message	None	"(If we kiss here, it's possible this would
+be my final parting with Maria, right here.)"	
+Message	None	"(Even so, if Maria wishes it, then I'll
+have to decide.)"	
+Choice		Kiss her.	
+Choice		Don't kiss her.	
+Message	Shido	Maria...? Do you mean...	
+Message	Maria	Please, Shido... This is my last request.	
+Choice		Kiss her.	
+Choice		Don't kiss her after all.	
+Message	Shido	But, even then! —?!	
+Choice		Kiss her.	
+Choice		You must kiss her.	
+Message	None	"(My mind was filled with thoughts of kissing
+her. It obscured my intentions, and I couldn't
+refuse even if I tried...)"	
+Message	Shido	Maria...	
+Message	None	"(I want to kiss her. I approached Maria, as
+if I was being honed in, but I hesitated at the
+last second.)"	
+Message	Maria	Shido, are you... opposed to kissing me?	
+Message	Shido	"I'm not against it, but I don't know if this
+is the right time..."	
+Message	Maria	This is... right.	
+Message	Shido	I understand...	
+Message	None	"(Maria closed her eyes. A perfectly-sculpted
+face. When she closes her eyes, I can see how
+long her eyelashes are.)"	
+Message	None	"(Now that I think about it, there may have
+never been a time when I could look at
+Maria's face this close.)"	
+Message	None	"Shido comes closer. I can feel Shido's body
+heat."	
+Message	None	"(What is this...? A voice, no...
+A strange feeling overtakes me.)"	
+Message	None	"I can hear Shido's heartbeat. The smell of his
+hair. It is the same."	
+Message	None	(Are these... Maria's inner thoughts?)	
+Message	None	"(I placed my hand on Maria's shoulder,
+feeling her tremble ever so slightly.)"	
+Message	None	"Shido's face, his voice, his everything. I want
+to know. I want to stay with Shido. I want to
+be part of him."	
+Message	None	"(As my head swirled with noise, I inched
+my lips closer to Maria's...)"	
+Message	None	Yes, this is how much... Shido, how much I lo—	
+Message	Maria	Aah... Aah... Ah, aah! AAAAH!	
+Message	Shido	Maria?! What's wrong?! What's happening?!	
+Message	None	"(I was startled by a harsh noise, and for
+a brief moment, I couldn't see... The world—!)"	
+Message	Maria	What is this...? My powers are, aaaah!	
+Message	Shido	Maria... Hey, Maria?!	

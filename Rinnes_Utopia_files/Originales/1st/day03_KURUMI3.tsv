@@ -1,0 +1,76 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	"All right, now that I'm done with dinner,
+I should rest a little."	
+Message	Shido	Hm...? What's that sound...?	
+Message	Shido	Is it coming from outside the window?	
+Message	Shido	Who's outside? Rinne...? No, can't be.	
+Message	Shido	Hmm...?	
+Message	Shido	What, Kurumi?! What are you doing here?!	
+Message	Shido	"Is she inviting me out? I guess I should go...
+Well, but..."	
+Message	Shido	Should I stay, or should I go?	
+Message	Shido	...	
+Message	Shido	I should ask Kotori.	
+Message	Kotori	"...Hello? What do you want?"	
+Message	Shido	Oh, Kotori? You aren't home, are you?	
+Message	Kotori	"What is it, Shido? What happened?"	
+Message	Shido	Kurumi's outside of our house.	
+Message	Kotori	"I see, so Kurumi is outside of—WAIT, WHAT?!"	
+Message	Shido	"Seems like she wants me to meet her. Is it
+okay for me to go?"	
+Message	Kotori	"If it's Kurumi you're dealing with, it\nsounds suspicious..."	
+Message	Shido	But, we can't just let her be, can we?	
+Message	Kotori	"I've said this many times, but you currently\nlack the ability to heal yourself. If you go,\nyou're exposing yourself to danger!"	
+Message	Shido	Yeah, I know, but...	
+Message	Reine	"Kotori, I think you should let Shin decide."	
+Message	Shido	Reine-san?	
+Message	Kotori	"H-Hey, Reine! Why are you butting into the\ntransmission?!"	
+Message	Reine	"Truthfully, I see no issue with him going."	
+Message	Shido	Reine-san!	
+Message	Kotori	"Reine, what are you saying? There's no\nway I could put him in dang—"	
+Message	Reine	"No. In my honest opinion, Kurumi wouldn't\nhurt Shin."	
+Message	Kotori	"How did you come to that conclusion?"	
+Message	Reine	"I have extrapolated my decision from recent\ndevelopments. She has had many chances to\nattack Shin, but he's still safe, isn't he?"	
+Message	Kotori	"You've got a point, but—"	
+Message	Shido	Um, so what should I do?	
+Message	Kotori	"Hm. Well, as Reine suggested, I'll leave\nit to you, Shido."	
+Message	Shido	Oh, man... What should I do?	
+Message	Kurumi	...	
+Message	Shido	Okay, fine!	
+Choice		Don't go.	
+Choice		Go.	
+Message	Shido	"I'm dealing with Kurumi here. Who knows
+what she's got planned?"	
+Message	Shido	"Yeah. I shouldn't be rash. I'll just ignore
+Kurumi for now."	
+Message	Kotori	"Finally. I think that's a smart choice."	
+Message	Shido	...	
+Message	Shido	She's probably left by now, right?	
+Message	Shido	She's gone. Now I feel guilty...	
+Message	Kotori	"Then you should've gone. I didn't stop you."	
+Message	Shido	No, it's fine. Thanks, Kotori.	
+Message	Kotori	"Whatever's fine. I'll return home shortly."	
+Message	Shido	Kurumi... What could she have wanted?	
+Message	Shido	...I'll go.	
+Message	Shido	"It's night time. Kurumi might be full of
+surprises, but I can't just stand her up
+like that."	
+Message	Reine	"I see. Then be sure to provide a full report."	
+Message	Kurumi	"Hehehe. Nice of you to finally show up,
+Shido-san."	
+Message	Shido	Kurumi, what are you doing here so late?	
+Message	Kurumi	"I forgot to mention something to you this
+afternoon."	
+Message	Shido	"Afternoon? Like, when I bumped into you
+in town?"	
+Message	Kurumi	"Yes. The time in which you helped me up,
+Shido-san."	
+Message	Shido	Y-Yeah. I remember.	
+Message	Kurumi	Hehehe. Thank you for that.	
+Message	Shido	Wha-What's gotten into you?	
+Message	Kurumi	I realized I hadn't properly thanked you.	
+Message	Shido	Oh, well. Sure.	
+Message	Kurumi	Well, I'll be on my way.	
+Message	Shido	Wha... What was that all about?	
+Message	Reine	"Seems as though there is nothing to report."	
+Message	Shido	Haha... Hahaha...	

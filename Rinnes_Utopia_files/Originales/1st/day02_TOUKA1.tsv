@@ -1,0 +1,181 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Hmmm...I thought I'd invite Tohka out on a date, but
+it's hard to do so in the classroom with everyone there.)"	
+Message	None	(――I'll try calling her from here.)	
+Message	Tohka	Hm? So you were here Shido, I was searching for you.	
+Message	Shido	"Oh, uh, sorry!
+I was just thinking of inviting you on a date, actually...
+But um, in the classroom people would look――"	
+Message	Tohka	Ohhh!? A date!!	
+Message	Shido	Wha...Tohka! Y-Your voice is too loud...!!	
+Message	Tohka	Hm, was it bad?	
+Message	Guy Student A	Tch, a date?	
+Message	Guy Student B	Hah, man, how steamy～	
+Message	Girl Student A	Explode...! Explode...! Explode...!	
+Message	Girl Student B	S-Senpai!? W-Where did you appear from?	
+Message	Shido	T-Tohka, let's just get out of school for now!	
+Message	Tohka	Yes! So then, where shall we go today?	
+Message	Shido	Let me see... Ummm...	
+Message	None	"(If we're gonna go on a date, then for now a place
+where we can be alone is good.)"	
+Message	Tohka	Hmm, this is quite a wonderful view, Shido!	
+Message	Shido	"If we go even higher from here, it's an even nicer view.
+Do you want to go?"	
+Message	Tohka	I'd go anywhere, if you were going Shido.	
+Message	None	"(――! O-Once again, she casually says something that
+turns me beet red...)"	
+Message	Tohka	Hm, what is the matter? Are we not going?	
+Message	Shido	W-We're going! Then, let's see who can get up there first!	
+Message	Tohka	"Oh! You're challenging me?
+As you wish! I won't go easy on you, Shido!"	
+Message	Shido	Alright, then let's get going. Ready...start!	
+Message	Shido	H-Hey wait...! Tohka, stooooop...!	
+Message	None	(*pant...pant...* W-What is this...?)	
+Message	None	"(I've gone up pretty far, but somehow I'm
+back on the original path...?)"	
+Message	None	"(Could it be...maybe halfway I turned and went down a return path?
+No, that can't be right, but...)"	
+Message	Tohka	Hm, Shido...are you giving up already?	
+Message	Shido	"No, that's not it.
+It's just, our surroundings are..."	
+Message	Tohka	Hm? Shido, is this not the same place we were before?	
+Message	Shido	"Ah, yeah...that's right. It's possible we took the wrong path at
+some point, and looped around the course."	
+Message	Tohka	I see. Then shall we go once more?	
+Message	Shido	"Y-Yeah...let's go.
+But this time, no competition, okay?"	
+Message	Tohka	Mm, I understand!	
+Message	None	(...Alright, this time, we'll go slowly, without rushing.)	
+Message	Shido	"This is strange...these stone steps shouldn't be this long...
+Or does it just feel long because I'm tired...?"	
+Message	Tohka	...S-Shido?	
+Message	Shido	Ah, sorry...please wait a second.	
+Message	None	(――This time, I thought I was careful not to take the wrong path...)	
+Message	None	"(Or could it be...that I missed something?
+Hmmm, for now, maybe I'll go on for a little longer.)"	
+Message	Tohka	Shido...	
+Message	Shido	Ah, sorry Tohka, just a little more――	
+Message	Tohka	"Shido, is this not enough?
+If it seems no good, let's turn back."	
+Message	Shido	Huh? But...	
+Message	None	"(This is obviously very strange...
+It's almost as if it doesn't want to let us go any further from here...)"	
+Choice		It bothers me, so I'll go on a bit longer.	
+Choice		Tohka's acting strange, so I'll stop here.	
+Message	Shido	"I'll make this the last time, so why don't we try going
+up a little bit more?"	
+Message	Tohka	......	
+Message	Shido	Hey, Tohka...? Are you listening?	
+Message	Tohka	"...Mm, I see...if you say you wish to go Shido,
+then I will go with you..."	
+Message	Shido	Thank you, Tohka.	
+Message	Tohka	Yes...	
+Message	None	"(It's no use... The stairs won't end...
+We should have reached the top by now.)"	
+Message	None	"(No matter how far I look up, all I see are stone stairs continuing...
+This view is definitely abnormal.)"	
+Message	Tohka	Shido...do you not think this is enough?	
+Message	Shido	Ah, sorry. Let's take a break here.	
+Message	Tohka	...Yes.	
+Message	None	(The moment I sat on the stone step, my consciousness became hazy.)	
+Message	Shido	H-Huh...?	
+Message	???	......	
+Message	None	(――What...?)	
+Message	None	(――This dream, I've seen it before...?)	
+Message	None	(H-Hey, please tell me! Who are you? What are you――)	
+Message	Shido	...You're right. We'd better head home for today.	
+Message	None	"(It doesn't seem like she's tired,
+but Tohka seems to be acting strange too...)"	
+Message	Tohka	Yes...	
+Message	None	"(...I wonder what's wrong?
+This really isn't like Tohka...)"	
+Message	Shido	T-Then, let's head back!	
+Message	None	"(Unlike heading up, heading back down went pretty fast.
+I can see the Takadai Park just over there too.)"	
+Message	None	(Still...What was wrong with Tohka just now?)	
+Message	None	"(Maybe...she's angry because I wasted her time?
+It is right after Sports Day, I guess I wasn't thinking...)"	
+Message	Shido	...T-Tohka, are you okay?	
+Message	Tohka	Hm, with what? I am perfectly fine?	
+Message	Shido	Huh? ...Er, i-if you're alright, then that's good.	
+Message	Tohka	What is the matter Shido, you're a bit strange today.	
+Message	Shido	Y-Yeah...sorry.	
+Message	Shido	?	
+Message	Tohka	Hm?	
+Message	Rinne	Oh...	
+Message	Shido	R-Rinne...!? It's rare to see you in a place like this!	
+Message	Rinne	"Y-Yeah...! Oh, m-more importantly, what are you two
+doing? Are you possibly... on a date?"	
+Message	Shido	――Huh!? Er, ah, well...	
+Message	Tohka	That's right! I am dating Shido right now!	
+Message	Shido	T-Tohka!	
+Message	Tohka	Hrm, is it not okay to tell Rinne?	
+Message	Shido	No, that's not it, but...	
+Message	Shido	A-Anyway...what were you doing, Rinne?	
+Message	Rinne	W-Well...Um, I was maybe a little lost――	
+Message	Rinne	――Eeek!?	
+Message	Tohka	Ah...!?	
+Message	Shido	Uh...	
+Message	Rinne	...D-Did you...see?	
+Message	Shido	I-I-I-I didn't see! I didn't see at all!	
+Message	Tohka	S-Shido! D-D-D-Did you see!?	
+Message	Shido	I said I didn't! I really didn't see anything!	
+Message	None	"(Even if I had seen anything, it was an act of God...
+Either way, I had no ill intent so...)"	
+Message	Rinne	Oh, Shido! The button on your shirt is about to come off.	
+Message	Shido	"...Huh? O-Oh, this. It's fine, don't worry.
+When I get home, I'll mend it back on."	
+Message	Rinne	Stay still for a second, okay?	
+Message	Shido	?	
+Message	Tohka	Hm?	
+Message	Rinne	Here, now it should be good.	
+Message	Shido	S-Sorry...thanks for always taking care of things.	
+Message	Rinne	Hee hee, you're welcome.	
+Message	None	"(Rinne, having been carrying around portable sewing tools,
+quickly fixed the button that was coming off.)"	
+Message	None	"(Her dexterity was very feminine, or familial...
+I feel a little embarrassed that she did it in front of me,
+but I also feel a strange sense of calm from her kindness.)"	
+Message	Shido	Hmmm, I see...	
+Message	Rinne	What do you mean by, "I see?"	
+Message	Shido	"I just thought about how I feel like I understand why the other
+guys voted Rinne for the "Girls I Want to Marry Ranking.""	
+Message	Tohka	Hrm, what is that?	
+Message	Shido	"Uh, well...there was once a vote on which girls
+within school they would want to make a "bride.""	
+Message	Rinne	I don't think those are very good though.	
+Message	Rinne	"I bet Tonomachi-kun was the one who started it.
+Good grief...he's always like that."	
+Message	Shido	Ah ha ha ha ha...	
+Message	Rinne	But...what sort of criteria do they use to choose?	
+Message	Shido	"Hmmm...Whether they're good at cooking, or other household
+chores I think? They said that's what they vote on."	
+Message	Shido	Well, if you think that way, it's no wonder you're top-ranked, Rinne.	
+Message	Rinne	Ah ha ha...that's kinda embarrassing.	
+Message	Tohka	...S-Shido, do you also prefer those sorts of maidens?	
+Message	Shido	"Hmm? ...Well, I guess I do think being more family-oriented is nice.
+But if I were to like someone, that sort of thing might not matter."	
+Message	Tohka	Hm, I-I see...	
+Message	Rinne	So, Shido...whooo did you vote for?	
+Message	Shido	――Huh? Uh, m-me? I uh...	
+Message	Tohka	......?	
+Message	Rinne	.......	
+Message	Shido	"――W-Well then! It's getting late!
+Let's go home!"	
+Message	Tohka	Hrm!? Shido, where are you going!?	
+Message	Rinne	Goodness...That part of Shido never changes.	
+Message	Shido	*pant...pant...pant...pant...*	
+Message	Tohka	Shidooooooo!	
+Message	Shido	H-Huh? Where's Rinne...?	
+Message	Tohka	......	
+Message	Shido	Hmm?	
+Message	Tohka	"Mm...it's nothing. Rinne is...she said she didn't want to get
+in the way of our date, so she left for home."	
+Message	Shido	"I-I see. Honestly, maybe she got too worried about
+things."	
+Message	Tohka	......	
+Message	Shido	? What's wrong, Tohka?	
+Message	Tohka	I-It is nothing!	
+Message	Shido	?	
+Message	Tohka	Shido! I will do my best too!	
+Message	Shido	Huh? O-Okay...	

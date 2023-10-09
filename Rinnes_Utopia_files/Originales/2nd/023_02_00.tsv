@@ -1,0 +1,443 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	"So much happened in the morning, but I managed to
+finish breakfast. So what should I do today?"	
+Message	Tohka	I have a good idea, Shido!	
+Message	Shido	"Oh, you're energetic. Okay, sure. Go ahead, Tohka
+Yatogami-san. Let's hear your idea."	
+Message	Tohka	Yes. We're going on a date!	
+Message	Shido	I-I knew it. I had a feeling you'd say that.	
+Message	Tohka	O-Oh, you don't want to?	
+Message	Shido	No, that's not it.	
+Message	None	"(But there's so many people here. If I agree to a
+date with Tohka, I know it's going to be chaotic.)"	
+Message	Shido	"I mean, we're all gathered here, so why don't we
+do something together?"	
+Message	Tohka	Oh, I see...!	
+Message	Origami	Then I have a good idea.	
+Message	Shido	"I have a bad feeling about this, but go ahead.
+What's your idea?"	
+Message	Origami	"Shido and I will go on a date. The others will
+watch from behind. That way, everyone can
+participate."	
+Message	Tohka	What are you talking about?! You rotten...	
+Message	Shido	"I knew this would happen. So seriously, what
+should we do?"	
+Message	Kotori	Then, how about this?	
+Message	Shido	Oh, Kotori. You have any good ideas?	
+Message	Kotori	"Why don't we all go to a karaoke room? That way we
+can all participate."	
+Message	Shido	I see. That's true.	
+Message	Yoshino	Karaoke... I... want to try.	
+Message	Yoshinon	"Ohhh, Yoshino seems curious."	
+Message	Kurumi	My, that does sound fun.	
+Message	Miku	If it's singing, I am unchallenged.	
+Message	Kaguya	"Hehe, interesting. We tornadoes are
+amazing singers."	
+Message	Yuzuru	Agreed. I like to sing.	
+Message	Shido	"This seems really good. Tohka, Origami, is that
+okay with you two?"	
+Message	Origami	No problem.	
+Message	Tohka	Sure, karaoke is fun!	
+Message	None	"(Come to think of it, these two sang at the
+culture festival. Tohka and Origami sang almost
+to the point of making professionals look bad.)"	
+Message	Kotori	I told you it was a good idea.	
+Message	Shido	"Yeah, you're amazing as usual. But there are other
+things we can do in a big group. I'm surprised you
+decided on this."	
+Message	Kotori	"You idiot. It's the opposite. I figured singing
+would be good, so that's why I chose karaoke."	
+Message	Shido	What do you mean the opposite?	
+Message	Kotori	"I know Arusu can understand singing, but I don't
+think she's ever experienced it."	
+Message	Kotori	"By experiencing it, she might have some kind of
+change of heart. I admit, it's sort of wishful
+thinking."	
+Message	Shido	I see. I get it.	
+Message	None	"(With that said, we all decided to go to karaoke
+in the afternoon.)"	
+Message	None	"(And so, here we are. I went to the bathroom first
+and then to the karaoke room...)"	
+Message	Tohka	Wow, Shido. This room is all-you-can-sing?	
+Message	Shido	"That's right, Tohka. Oh, but don't just put in all
+the songs you want. Make sure to take turns..."	
+Message	Kurumi	"Shido-san. Don't just stand there, why don't you
+sit? Or, do you not want to sit next to me?"	
+Message	Origami	"Shido, this seat is open, too. Or you can sit on
+my lap..."	
+Message	Shido	Hahaha...	
+Message	Yoshino	"Shido-san... I don't know how to put
+in the songs..."	
+Message	Yoshinon	"That's it. Go, Yoshino! Nonchalantly sit next to\nShido-kun!"	
+Message	Shido	Oh. H-Hey, wait. Let me go over there.	
+Message	Kaguya	Wahhh! Shido, listen to me!	
+Message	Shido	Why are you so upset, Kaguya?	
+Message	Yuzuru	"Compassion. She challenged Miku to karaoke and
+lost. There, there, Kaguya. You're a strong girl."	
+Message	Shido	"Ohhh, you did the score battle and lost, huh?
+It was pretty bold of you to challenge Miku in
+singing."	
+Message	Kaguya	"I wanted to attack a powerful enemy. But the Night
+Siren's voice just broke me... *sniffle*..."	
+Message	Yuzuru	"Translation. This is the result of her trying to
+redeem herself from the culture festival."	
+Message	Shido	Oh, I see.	
+Message	Miku	"Hehe. I wouldn't lose a singing battle. Darling,
+praise me."	
+Message	Shido	"Miku, you're amazing... Wait, they're all above 98
+points?! Wow..."	
+Message	None	(Man, she should go easy on them a little.)	
+Message	None	"(We just got in, but it sure is lively. Well, it
+seems like everyone's enjoying themselves,
+so I guess it's good that we came...)"	
+Message	Kotori	"Why are you looking all proud of yourself for?
+Come here."	
+Message	Shido	"What is it, Kotori? Everyone seems to be having
+fun, it's great."	
+Message	Kotori	"Don't "it's great" me. Don't just have fun. Make
+sure to flag an event with the Spirits."	
+Message	Shido	"O-Oh right. I guess our lives are on the
+line, huh?"	
+Message	Shido	I'm going to go check up on Maria, then.	
+Message	Kotori	Yes, go.	
+Message	None	(Where's Maria sitting?)	
+Message	None	"(Oh, there she is. She's sitting alone in the
+corner. I'm going to move over.)"	
+Message	Shido	So what do you think, Maria? Um... You having fun?	
+Message	Maria	"Yes, Shido. It's... very interesting. Singing is
+different when you actually hear it."	
+Message	Shido	"I know, right? It's fun to sing with everyone. Do
+you not want to sing anything, Maria? I can
+teach you."	
+Message	Maria	"Yes. I'm fine. Rather, I wish to hear you sing
+with someone, Shido Itsuka."	
+Message	Shido	Me...?	
+Message	Maria	"Yes. I heard that singing with someone is called a
+duet. I think it would be a great situation to
+observe."	
+Message	None	"(I see. A duet, huh... If Maria wants to see it, I
+guess I could give it a try.)"	
+Message	None	(But who should I sing with?)	
+Choice		Tohka	
+Choice		Origami	
+Choice		Yoshino	
+Choice		Kurumi	
+Choice		Next	
+Choice		Kotori	
+Choice		The Yamai Sisters	
+Choice		Miku	
+Choice		Previous	
+Message	Shido	All right, Tohka. Let's sing together!	
+Message	Tohka	"Okay, Shido! We're singing together?
+Perfect timing."	
+Message	Shido	"Oh, great!
+...Wait, what?"	
+Message	Tohka	"You see, this book doesn't have many songs
+I know..."	
+Message	Shido	Oh...!	
+Message	None	"(Oh, yeah. Tohka's a Spirit, so she's not familiar
+with the world. She doesn't have many songs in her
+repertoire.)"	
+Message	Shido	I see... Then... what should we do?	
+Message	Tohka	Any song you know, Shido!	
+Message	Shido	"Songs I know? But then you won't be able to sing,
+Tohka."	
+Message	Tohka	"It's fine. I will learn it as I hear you sing.
+For the lyrics, I just need to look at the
+screen, don't I?"	
+Message	None	"(I see. Tohka's quick at learning songs by
+listening. She must have a good musical
+sense to start.)"	
+Message	Shido	Got it, Tohka! Follow me!	
+Message	Shido	Sorry, Tohka...	
+Message	Tohka	You don't have to apologize, Shido!	
+Message	Shido	"No, I let my guard down. I thought it would
+be okay if the lyrics were on the screen, but I
+didn't think there would be so much English."	
+Message	Tohka	"Yeah... I'm not good at English. My grades aren't
+very good."	
+Message	Tohka	"But still, no need to apologize. I had fun just
+mimicking your song."	
+Message	Shido	Tohka...	
+Message	Tohka	"Shido. Sing another song. It was fun
+singing with you."	
+Message	Shido	...Okay. I'll choose a song you might know, then.	
+Message	None	"(For the next song I chose, as expected, Tohka
+sang random lyrics. But she still seemed to have
+fun, so I think it's all right?)"	
+Message	None	"(I sense someone staring...
+Origami is staring at me.)"	
+Message	Shido	Uh, Origami. Do you want to sing together?	
+Message	Origami	Yes.	
+Message	None	"(That was fast! She answered before I could even
+blink.)"	
+Message	Shido	Th-Then... Let's sing a song together.	
+Message	Origami	Got it. Come here next to me...	
+Message	Shido	"We're just singing together, so I don't think I
+need to move seats..."	
+Message	Origami	"That's not true. This is a necessity. We need to
+be in sync, so we should be near one another."	
+Message	Origami	If you want, you can sit on my lap...	
+Message	Shido	"I-I'll sit next to you! Please, let me just sit
+next to you!"	
+Message	Origami	Yeah...? Or, I don't mind sitting on your lap.	
+Message	Shido	"Origami, what do you want to sing?! Let's choose a
+song!"	
+Message	Origami	...I see. Got it.	
+Message	None	(Why does she look so sad?!)	
+Message	Origami	You can choose the song.	
+Message	Shido	Are you sure?	
+Message	Origami	"I don't mind. I can sing most songs. So please
+choose freely..."	
+Message	Shido	I see. If that's what you say.	
+Message	None	"(It's not like there was a song I really wanted to
+sing, so I chose a generic pop song that I figured
+Origami would know.)"	
+Message	Shido	Oh... It's starting.	
+Message	Origami	～, ～	
+Message	None	"(Origami is an amazing singer. Although it's not
+like the power of Miku's singing as a Spirit, it's
+still amazing.)"	
+Message	None	"(If only she had an expression. No matter how much
+emotion's in her voice, her expression still
+doesn't change.)"	
+Message	None	(That expression... That face...)	
+Message	Shido	Close! Origami, your face is too close!	
+Message	Origami	Phew... My duet with Shido was very fun.	
+Message	Shido	I see... That's nice. I'm really tired.	
+Message	Origami	It was amazing, climaxing with Shido.	
+Message	Shido	"In terms of singing, right?! The key was
+pretty high."	
+Message	Origami	...It was amazing.	
+Message	None	"(She sure seems to be entranced, but I guess she's
+satisfied from the singing. That's how I decided
+to take it.)"	
+Message	Shido	So, who should I sing with...?	
+Message	Yoshino	Um... Shido-san...	
+Message	Shido	Oh, Yoshino? What's the matter?	
+Message	Yoshino	...Um, would you like to sing with me?	
+Message	Yoshinon	"Hey, hey, Shido-kun. Sing with us!"	
+Message	Shido	Sure, let's sing together.	
+Message	Yoshino	...Okay!	
+Message	Yoshinon	"Isn't that nice, Yoshino!"	
+Message	None	"(That's so sweet. Come to think of it, I don't
+really hang out with Yoshino like this. I want
+her to have a good time.)"	
+Message	Shido	"All right, what kind of song do you want to sing,
+Yoshino?"	
+Message	Yoshino	Oh... um... I have a song I want to sing.	
+Message	Shido	Oh, really?	
+Message	Yoshinon	"Despite her appearance, Yoshino sure loves TV.\nShe can sing any popular song."	
+Message	Yoshino	...Um, please leave it to me! Um, the number is...	
+Message	Shido	"Oh, you can do it yourself? Wait... Yoshinon,
+you're going to sing too?"	
+Message	Yoshinon	"Shido. Don't be a dummy. I'll just watch so I\ndon't get in between you two."	
+Message	Shido	...? What do you mean?	
+Message	None	"(As I pondered that, the song that Yoshino chose
+began to play.)"	
+Message	Shido	I see...	
+Message	None	"(What Yoshino chose was a pure love song. The
+intro alone made Yoshino blush.)"	
+Message	Yoshinon	"Woo-hooo!"	
+Message	None	"(Th-This is embarrassing. But no, Yoshino chose
+the song for me. I have to sing it!)"	
+Message	Yoshino	"Maybe only you are the one to wake me up..."\n*whimper*... Shido-san, please don't look at me\ntoo much...	
+Message	Shido	S-Sorry, Yoshino!	
+Message	Yoshinon	"Shido-kun next! It's your part next!"	
+Message	Shido	"R-Right. Uh... "I used to like you when I was a
+kid"..."	
+Message	Yoshino	Ahhh! Sh-Shido-san, I'm embarrassed.	
+Message	None	"(This isn't good. Yoshino is blushing so much that
+it's making me blush. This is a lot harder than I
+anticipated!)"	
+Message	None	"(We continued to sing as we both turned red
+looking at one another, but managed to finish.)"	
+Message	Kurumi	Shido-san. Would you like to sing with me?	
+Message	Shido	A duet with you?	
+Message	Kurumi	I'd love to sing with you.	
+Message	None	"(*Grunt* I just got the chills. Her eyes looked
+like she caught some kind of prey.)"	
+Message	Shido	Well, hmm... What should I do?	
+Message	Kurumi	"You don't want to sing with me, huh? That makes
+me so sad, I want to cry."	
+Message	Shido	O-Okay, Kurumi. Let's sing together.	
+Message	None	(Ngh... It's not fair that she says it like that.)	
+Message	Kurumi	Hehehe... Thank you. I have an idea.	
+Message	Shido	Idea...?	
+Message	Shido	Oh, so this is what she means.	
+Message	None	"(Kurumi's idea was for us to sing while holding
+hands, but with a rule that if I let go or stopped
+singing, I'd get hit with a penalty.)"	
+Message	Shido	I feel like I'm in a trap.	
+Message	Kurumi	Did you say something?	
+Message	Shido	N-Nothing.	
+Message	Kurumi	I see. Then it's your turn, Shido-san.	
+Message	Shido	Okay....	
+Message	Shido	Whoaaa, what the...!	
+Message	None	"(Kurumi entwined her fingers in mine and was
+rubbing the back of my hand.)"	
+Message	Kurumi	Go ahead, Shido-san. Sing.	
+Message	None	"(Kurumi completely cornered me. Is this what she
+planned?!)"	
+Message	Shido	Uh... Ah... Ohhhh!	
+Message	None	(Kurumi's finger movements made me... Made me...!)	
+Message	Kurumi	"*Giggle*. You did really well, Shido-san. So, what
+kind of punishment will you receive?"	
+Message	None	"(In the end, I couldn't take it, and let go of her
+hand.)"	
+Message	Shido	Please be nice.	
+Message	Kurumi	"Hehe. Let's see... Can you sing another song
+with me?"	
+Message	Shido	P-Please, nooooo!	
+Message	None	(Kurumi's plotting continued to trouble me.)	
+Message	None	(All right, I made up my mind!)	
+Message	Shido	Kotori, let's sing together.	
+Message	Kotori	Wh-What?! M-Me...?	
+Message	Shido	Yeah. We might as well have a sibling duet.	
+Message	Kotori	Don't worry about me. Sing with Tohka or Yoshino.	
+Message	Shido	"Why are you so embarrassed? Don't act tough, just
+sing with me. It's okay for you to play around
+from time to time."	
+Message	Shido	"And besides, I want to enjoy karaoke. I haven't
+gone in a while. Come on."	
+Message	Kotori	"Shido... I-If you say so, fine.
+I guess I can sing."	
+Message	None	"(All right. I was thinking of Reine-san's advice,
+but it seems like it worked.)"	
+Message	None	"(Reine-san... Is she still watching through the
+monitor? I need to thank her. Thank you,
+Reine-san.)"	
+Message	Kotori	...Hm? Did you say something?	
+Message	Shido	N-Nothing. So what should we sing?	
+Message	Kotori	Shido... You can sing any song, right?	
+Message	None	"(There's fire in Kotori's eyes. She is going to
+sing that song...!)"	
+Message	Shido	Bring it on. I will follow you to the end.	
+Message	Kotori	Interesting...! Show me what you've got.	
+Message	Kotori	This is my...	
+Message	Shido	This is my...	
+Message	Kotori	Super medley!	
+Message	None	"(Well.. It's just a medley of anime songs and hero
+themes. But they were all shouting songs where you
+scream your lungs out and lose your voice.)"	
+Message	Shido	"But I'm going to show you that I can keep up this
+time!"	
+Message	None	"(I hope my shouting gets through. I'm pushing it
+to my limit...!)"	
+Message	Kotori	Over already? It was just one set.	
+Message	Shido	"*Cough, cough*... I can... still... si...
+*choke*... *grunt*... I can't..."	
+Message	None	"(I lost yet again. I could see Kotori's twin tails
+fluttering. Ah... What red. It's as if I'm looking
+at a sunset.)"	
+Message	Kotori	"I have the mic. I want to go one more set. Tohka,
+you want to sing? Come on up here."	
+Message	None	"(As my consciousness faded, I could hear Kotori's
+voice from afar. I lost...)"	
+Message	None	(Hmmm. Who should I sing with?)	
+Message	Kaguya	"Hehe... Seems like you're contemplating. Sing with
+the Spirit duo...!"	
+Message	Yuzuru	Request. Shido, let's sing together.	
+Message	Shido	Oh, Kaguya. Yuzuru. You've come to invite me?	
+Message	Kaguya	"Hehe... You belong to us, yet you act
+like you don't."	
+Message	Yuzuru	"Correction. Kaguya has been looking at you like a
+puppy wanting her master's attention."	
+Message	Kaguya	"Shut up, Yuzuru! That's totally not true. And I'm
+not a puppy, I'm a three-headed dog."	
+Message	Shido	"Kaguya, you're not making any sense... But thanks
+for the invite. Let's sing together."	
+Message	Kaguya	"...Okay! Hehe... When we Hurricane Children and
+Shido combine forces, we become the Ultimate Trio."	
+Message	Shido	"Well, we're just three people singing. You guys
+must be really good at karaoke."	
+Message	Yuzuru	"Affirmative. You know that we challenged one
+another 99 times before we met you, Shido."	
+Message	Kaguya	"Of course. Karaoke is our pastime of choice when
+we're bored."	
+Message	Shido	I see... So, you guys compete even at karaoke.	
+Message	Kaguya	"Now, Shido! I've prepared the song. Are you ready?
+You can beg for your life now!"	
+Message	Shido	"What kind of karaoke is this?!
+...Oh, the intro sounds like a rock song."	
+Message	Kaguya	"Listen carefully. The maddening play of the
+phantom of the Yamais. The stars in the
+heavens will come falling down."	
+Message	Shido	"...Hey, Yuzuru. What is up with that chanting? Or
+is she singing?"	
+Message	Yuzuru	"Support. Please don't mind her. It's Kaguya's
+usual sickness."	
+Message	Kaguya	Hehe... Now it's time for Misa!	
+Message	None	(This is getting crazy.)	
+Message	Shido	Well, you guys were pretty good.	
+Message	Kaguya	"...O...f...cour... *pant, pant*... se...
+This is... nothing for us... Yama..."	
+Message	Yuzuru	Praise. Shido, I had fun.	
+Message	None	"(In the end, Kaguya continued to scream-sing her
+heart out. She'll definitely wear herself out at
+this rate.)"	
+Message	Kaguya	Shi...do... One more... song...	
+Message	Shido	"Don't push it, Kaguya. Rest for a while.
+Yuzuru, let her sleep there."	
+Message	Yuzuru	Rest. Kaguya, please calm down...	
+Message	Kaguya	*Whimper*...	
+Message	Shido	Kaguya, you pushed yourself too far...!	
+Message	None	"(In the end, Yuzuru and I took care of Kaguya, who
+was knocked out.)"	
+Message	None	"(Who do I want to sing with? I can't help but look
+at Miku.)"	
+Message	Shido	Hey, Miku. You want to sing the next one together?	
+Message	Miku	Oh, darling, you've come to invite me?	
+Message	Shido	"Yeah. Well, at the school festival we were
+enemies, remember? I figured it'd be so
+nice to sing with you this time."	
+Message	Miku	Hehe. I would never turn down a request from you.	
+Message	Shido	Oh, really? That's awesome. Glad I asked you.	
+Message	Miku	"But I have one request. Will you listen?
+To my request, that is."	
+Message	Shido	What is it?	
+Message	None	"(Why do I have a bad feeling about this? What is
+she going to ask me?)"	
+Message	Miku	Wow... You look so good in that outfit.	
+Message	Miku	Amazing, Shiori-san!	
+Message	Shiori	Hey, Miku... Where did you find this costume?	
+Message	Miku	"Huh? Well, when we entered, the front had a sign
+that they also had cosplay costumes, so I went and
+borrowed it."	
+Message	None	(Crap... I wasn't paying attention.)	
+Message	Shiori	H-Hey Miku? If I take this off...	
+Message	Miku	"You can't. And besides, you're going to sing my
+song with me. We have to be girls."	
+Message	None	(Ah. Miku still loves girls, huh...)	
+Message	Shiori	Damn it, then I'm going to go all out.	
+Message	Shido	"*Whimper* I feel like I lost an important
+part of me."	
+Message	Miku	"Now, now, don't be like that! You were adorable,
+darling."	
+Message	Shido	Please, forget what you saw.	
+Message	Miku	"Awww, that's too bad... Then, how was my song?
+I sang it for you."	
+Message	None	"(That's right. I was singing with Miku. I was too
+preoccupied with myself dressed as a girl...)"	
+Message	Shido	Yeah, it was great. You're amazing as always.	
+Message	Miku	Hehe, thank you. That makes me so happy.	
+Message	Shido	Jeez, you're exaggerating...	
+Message	Miku	"No, I'm not. I mean... you're the most precious
+person in the whole wide world."	
+Message	None	"(I can never beat Miku. She's really made me feel
+this way.)"	
+Message	Shido	"It's been a while since I sang so much. It seems
+like everyone's happy."	
+Message	Shido	Huh? Where's Maria...?	
+Message	None	"(I looked around, and saw Maria, who appeared to be
+lost in thought.)"	
+Message	Shido	Hey, Maria. Let's go home.	
+Message	Shido	How did you like today? Did you see anything new?	
+Message	Maria	"Yes. It was a very valuable experience... I'm
+going to take these results and gather new data."	
+Message	Shido	Maria, don't tell me...	
+Message	Maria	"I feel like I'm close to an answer.
+So please, show me."	
+Message	Shido	Okay, I'll cooperate.	
+Message	None	"(I saw Maria's expression as my consciousness went
+dark. I felt like she was smiling.)"	

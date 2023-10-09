@@ -1,0 +1,128 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	"Yes?
+...Come in."	
+Message	Shido	"Oh, Yoshino...
+You're back again. What's wrong?"	
+Message	Shido	"Oh, Yoshino...
+What's wrong? Did something happen?"	
+Message	Yoshino	W-Well... Today, um... Yoshinon wants to...	
+Message	Shido	Huh? Yoshinon wants to talk...? To me...?	
+Message	Yoshinon	"Hey, what's with that tone?! Is it not okay for\nYoshinon to want to talk to you, Shido-kun?"	
+Message	Shido	"N-No, of course not... I just thought
+it was a rare event."	
+Message	Yoshino	Yoshinon... What do you... want to talk about?	
+Message	Yoshinon	"That's... a secret～!"	
+Message	Yoshino	A... secret?	
+Message	Yoshinon	"That's right! Yoshinon and Yoshino, we're each\ngoing to have a secret conversation with you!"	
+Message	Shido	A secret conversation... Why so suddenly?	
+Message	Yoshinon	"You're gonna make me say it, Shido-kun?\nAww gee, even though you know already?"	
+Message	Yoshinon	"...Just between you and me, a secret between two\npeople has the effect of deepening their\nrelationship!"	
+Message	Shido	D-Deepening our... relationship?!	
+Message	None	(What the hell is Yoshinon saying?!)	
+Message	Yoshinon	"Aww, good grief, Shido-kun. You just imagined\nsomething pervy, didn't you? That's not it,\nI meant in a platonic way!"	
+Message	Yoshinon	"You want to get closer to Shido-kun,\nright Yoshino?"	
+Message	Yoshino	"Yeah... I-I want to... become closer friends...
+with Shido-san."	
+Message	Yoshinon	"If you share secrets during a secret\nconversation, it has the effect of\nstrengthening your bond."	
+Message	Yoshino	Let's... have a secret conversation...	
+Message	Shido	Er, well... I don't mind, but...	
+Message	Yoshinon	"All right, it's decided! Now then, let's begin\nthe Nighttime Secret Conversation Tournament!"	
+Message	Yoshinon	"Well then, let's start first with Yoshino.\nI'll cover my ears!"	
+Message	None	(Covering his ears? My, how skillful...)	
+Message	Yoshino	U-Um... my, secret is...	
+Message	Shido	"Oh, well... you don't have to push
+yourself to say it, okay?"	
+Message	Yoshino	N-No... I-I can tell you...!	
+Message	Shido	O-Okay. Then, I'll listen.	
+Message	Yoshino	"My... secret is... um... I'm shy, and...
+I'm scared of... people I don't know..."	
+Message	Shido	A-Ahh... right...	
+Message	None	"(Of course, that's something one could tell just
+by looking. I don't really feel that’s on the
+level of a secret...)"	
+Message	Yoshino	"And then... in the city... you know?
+Um... there are people... who talk to you..."	
+Message	Shido	"Oh, you mean the people who give out street
+surveys and tissue packs? It does seem like you
+wouldn't do well with them, Yoshino."	
+Message	Yoshino	"Th-That's it...! Um... I'm scared, of being talked
+to... so when I see tissues, I end up
+running away..."	
+Message	Shido	"Just from looking at tissues?
+Hmmm... Is that some sort of
+post-traumatic stress?"	
+Message	Yoshino	"I-I don't know. But... I need to overcome this...
+Somehow..."	
+Message	Shido	I see. Good for you. Do your best, Yoshino.	
+Message	Yoshino	...Yeah!	
+Message	Shido	"Your secret is over now, Yoshino.
+Heeey, Yoshinon. It's your turn next!"	
+Message	Yoshinon	"It's over? Is it over?! How was it?!\nYoshino's secret... Was it juicy?"	
+Message	Shido	Who knows... It's a secret.	
+Message	Yoshinon	"Ooohh, you're such a meanie, Shido-kun!! But,\nit's fine. Yoshinon will respect Yoshino's\nsecret!!"	
+Message	Yoshino	Thank you, Yoshinon...	
+Message	Shido	"So, now I have to listen to your secret,
+right Yoshinon?"	
+Message	Yoshinon	"Yes, that's right～! Now then, you have to cover\nyour ears this time, Yoshino!"	
+Message	Yoshino	"My ears... Oh... because Yoshinon's here...
+I can't cover... with both of my hands..."	
+Message	Shido	"Oh, of course. Then... I think if you put these
+headphones on, it should be all right."	
+Message	Yoshino	...!	
+Message	Shido	"Listen to some music for a while.
+...All right, Yoshinon. Go ahead and tell me."	
+Message	Yoshinon	"......"	
+Message	Shido	"...Hmm?
+What's wrong, Yoshinon?"	
+Message	Yoshinon	"......"	
+Message	Shido	What on earth are you...?	
+Message	Yoshinon	"Okay! Is it okay?!"	
+Message	Shido	Whoa, you surprised me!	
+Message	Yoshinon	"Shido-kun, you're listening, right? I'm gonna\ntalk, okay? I'm gonna tell you my secret now,\nokay?"	
+Message	None	"(That's right, Yoshino's covering her ears, so
+Yoshinon can't hear me, either. For now,
+I guess I'll respond to her with a gesture.)"	
+Message	None	(*Nod.*)	
+Message	Yoshinon	"Okay! Then, Yoshinon's Full-Disclosure Talk Show\nwill now begin!!"	
+Message	Yoshinon	"The secret that Yoshinon will tell you...\nis about Yoshino～"	
+Message	Shido	So it really was about Yoshino...	
+Message	Yoshinon	"Shido-kun, Yoshino really trusts you a lot."	
+Message	Yoshinon	"It might be pretty obvious, but I know that when\nyou're around, Yoshino keeps growing in a good\ndirection～"	
+Message	Yoshinon	"It really makes your heart grow quickly when\nthere's someone that's important to you～"	
+Message	Yoshinon	"But, on that topic, Yoshinon sometimes thinks...\nWhat kind of effect does Yoshinon have\non Yoshino?"	
+Message	Shido	Yoshinon...	
+Message	Yoshinon	"Yoshinon always did things while thinking of\nYoshino. But... Yoshinon wonders if what Yoshinon\ndid for Yoshino was really for her sake..."	
+Message	Yoshinon	"......"	
+Message	Shido	...?	
+Message	Yoshinon	"......"	
+Message	Shido	...Yoshinon?	
+Message	Yoshinon	"...Shido-kun."	
+Message	Shido	Y-Yeah?	
+Message	Yoshinon	"...When the time comes, take\ncare of Yoshino, okay?"	
+Message	Shido	Huh...?	
+Message	Yoshinon	"...If, possibly... when the time comes that\nYoshinon can't be by Yoshino's side... I'm sure\nthat Yoshino is going to be lonely and cry."	
+Message	Yoshinon	"So... during that time... if that ever happens...\nI want you to comfort Yoshino, Shido-kun!"	
+Message	Shido	Hey, what does that...?	
+Message	Yoshinon	"...Okay, secret talk is over!!\nIt's okay for you to listen again, Yoshino～!!"	
+Message	Yoshino	Wh-What did you, talk about...?	
+Message	Yoshinon	"Whaaat, you're gonna ask?\nAll this hush-hush will be\nfor nothing if I tell you!"	
+Message	Yoshino	"Oh, th-that's right...
+I-I'm sorry..."	
+Message	Shido	......	
+Message	Yoshino	Shido-san? Is... something wrong...?	
+Message	Shido	Oh, er... It's nothing, really...	
+Message	None	"(Yoshinon seemed to be acting somewhat different
+than she usually does... Was it just me...?)"	
+Message	Yoshinon	"Hey, sorry to keep you all waiting! Now, for\ntoday's main event! It's time for Shido-kun\nto reveal his secret!!"	
+Message	Shido	Huh?	
+Message	Yoshinon	"Yoshinon wants to hear your secret, Shido-kun!"	
+Message	Yoshino	M-Me too... I'd like... to hear...	
+Message	Yoshinon	"Give us a real good one! If it's boring,\nwe'll have to start all over!"	
+Message	Shido	Er, ah... Th-That's a little... I'd rather not...	
+Message	Yoshinon	"No, no! After hearing Yoshino's and Yoshinon's\nsecrets, it's not fair for you to run away.\nRight, Yoshino?"	
+Message	Yoshino	That's not... fair...	
+Message	Shido	D-Do I really have to...?	
+Message	Yoshinon	"Of course! Yeah!!\nSe—cret!! Se—cret!!"	
+Message	Shido	......	
+Message	None	"(Once again, another part of my dark history
+is going to be revealed, huh...?)"	

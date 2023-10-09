@@ -1,0 +1,385 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(It really is no good...!)	
+Message	None	(I'm no longer able to fully control it alone...)	
+Message	None	(But, why is this? Why won't it work...?)	
+Message	None	(Is it not enough to mimic the Spirits...?)	
+Message	None	(Was I wrong yet again?)	
+Message	None	(The results I'm looking for...)	
+Message	None	(Then, what I must do next is―)	
+Message	???	Shido, wake up... It's morning already.	
+Message	Shido	...Mm... Rinne?	
+Message	Rinne	Good morning, Shido.	
+Message	Shido	O-Oh, morning Rinne... What was that just...?	
+Message	Rinne	"What was what? I'm not dancing the samba
+or anything... Are you still half-asleep?"	
+Message	Shido	"Oh, no... I didn't mean like that...
+Lately, I keep having this weird dream..."	
+Message	Rinne	"I see... Well for now, hurry up, change, and wash
+your face. I'll make breakfast and wait for you
+downstairs."	
+Message	Shido	R-Right...	
+Message	Shido	...Huh? Just me? Where's everyone else?	
+Message	Rinne	"It seems like today everyone has something to do,
+so they've already left."	
+Message	Shido	Huh? I-I see...	
+Message	None	"(Everyone together... Could it be an examination
+on the Fraxinus or something?)"	
+Message	Rinne	Here you go, I reheated the miso soup.	
+Message	Shido	Thanks... I'll go ahead and eat.	
+Message	Rinne	Yes, help yourself.	
+Message	None	"(Everyone's gone out on some business
+or another... I wonder what for?)"	
+Message	None	"(Could Tohka and the others have lost control and
+been taken to the Fraxinus? I hope nothing like
+that has happened...)"	
+Message	Shido	We're leaving now, bye.	
+Message	Rinne	Good-bye...!	
+Message	Shido	"...Er, I guess there's no point in saying that if
+no one's home."	
+Message	Rinne	"Hmm... Well, no one was here to hear that anyway.
+With this sort of thing, staying in the habit of
+saying it is what's important."	
+Message	Shido	Really?	
+Message	Rinne	Really.	
+Message	Rinne	Hey, Shido?	
+Message	Shido	Hm, what's up?	
+Message	Rinne	Are you free after school today?	
+Message	Shido	Huh? Er, yeah.	
+Message	Rinne	Then, can I make a reservation today, too?	
+Message	Shido	Yeah, of course.	
+Message	Rinne	Really? You won't get in trouble?	
+Message	Shido	"I've got no reason to refuse.
+Also, who'd I get in trouble with?"	
+Message	Rinne	Tohka-chan, or Kotori-chan?	
+Message	Shido	Oh, er... I'll explain it somehow.	
+Message	Rinne	That's good then. Actually... I was kinda worried.	
+Message	Shido	About what?	
+Message	Rinne	"You know, yesterday's date... I ruined it because
+I collapsed and all..."	
+Message	Shido	"Y-You don't have to worry about anything like
+that! It can't be helped. Your health is
+undoubtedly more important."	
+Message	Rinne	"Hehe... I guess I worried you again, Shido.
+I hope today's date will be more fun than
+yesterday's."	
+Message	Shido	"Y-Yeah. But don't push yourself too much,
+all right? You just admitted that you collapsed
+yesterday."	
+Message	Rinne	Yeah, I know. You're such a worrywart, Shido.	
+Message	Shido	It's fine. If you're in pain, then I'm in pain.	
+Message	Rinne	Oh... Um...	
+Message	Shido	"Oh, uh... Well I meant, in a childhood
+friend kind of way..."	
+Message	Rinne	"Y-Yeah. I know. Don't worry about me taking it the
+wrong way."	
+Message	Shido	......	
+Message	Rinne	......	
+Message	None	(Whew... It's finally over...)	
+Message	None	"(Maybe it's because of the test, but it feels like
+everyone's a little on edge.)"	
+Message	None	"(But I feel like that's not the case for some...
+Oh, speak of the devil. This seems like it'll be
+a pain, so I'm gonna find a place to hide.)"	
+Message	Tonomachi	"Huh, Itsuka? Where'd you go?
+I feel like I saw you here just now..."	
+Message	Tonomachi	"Tch, that jerk. Is he on a date with another
+cutie?! Some fiancé he is, that cheating bastard!"	
+Message	None	"(―While I want to ask who the hell would be his
+fiancé, it'd be more of a pain if he found me
+here.)"	
+Message	Tonomachi	"Ahh... Mighty gods! Why is it only he who walks
+in paradise each day? I beg of you, spare some
+love for your humble servant! *sniffle, sniffle*"	
+Message	Tonomachi	DAMN ITTTTTTTTT!	
+Message	Shido	There he goes...	
+Message	Rinne	Shido, what are you doing?	
+Message	Shido	"Whoa! Oh, it's just you, Rinne...
+Don't scare me like that."	
+Message	Rinne	Were you hiding?	
+Message	Shido	"Y-Yeah... Once I get caught by that idiot
+Tonomachi, it's all over for the rest of the day."	
+Message	Rinne	"That's rude to say, Shido...
+But I guess you're right."	
+Message	Shido	"Right? So, what do you want to do today?
+Is there somewhere you want to go?"	
+Message	Rinne	Where would you like to go, Shido?	
+Message	Shido	Huh? Let's see... I didn't have any major plans...	
+Message	Rinne	I'll leave it to you, Shido.	
+Message	Shido	Roger that. Then, let's go.	
+Message	Rinne	Okay!	
+Message	None	"(She left it to me, so I asked if we could change
+into regular clothes. Yeah... This way feels
+much more like a date.)"	
+Message	Shido	"Now then, I'm getting a little hungry. Do you want
+to get something to eat, Rinne?"	
+Message	Rinne	Umm... What are you thinking of eating, Shido?	
+Message	Shido	"Hmm, lemme see... Maybe kinako bread?
+I'm craving the exact amount of sweetness in
+kinako powder. Tohka really likes it, too."	
+Message	Rinne	Tohka-chan, huh...?	
+Message	Shido	Hmm? Did you say something?	
+Message	Rinne	Nothing. I'd like that, too.	
+Message	Shido	"There are lots of other stores. Are you sure
+you're okay with it?"	
+Message	Rinne	It's fine! Come on, let's go!	
+Message	Shido	A-All right.	
+Message	Bakery Worker	Welcome!	
+Message	Shido	Ah, two kinako breads, please.	
+Message	Bakery Worker	I'm sorry. We're all sold out today...	
+Message	Shido	Oh, I see...	
+Message	Bakery Worker	"How about our new addition to the menu, the
+whipped cream bread?"	
+Message	Bakery Worker	It's freshly baked. I highly recommend it.	
+Message	Shido	"Oh, it does smell pretty good. What do you
+think, Rinne?"	
+Message	Rinne	"If you want to eat it, then
+I think I want to as well."	
+Message	Shido	All right, then two of those, please.	
+Message	Bakery Worker	Yes, thank you very much.	
+Message	Shido	Sorry the kinako bread was sold out.	
+Message	Rinne	"It's all right, but this looks
+good too, doesn't it?"	
+Message	Shido	Should we try it now?	
+Message	Rinne	It's freshly baked, so it's probably tasty.	
+Message	Shido	I'll try it. *munch*...!	
+Message	Rinne	Me too. *munch*!	
+Message	Shido	"It's delicious! There's just the right amount of
+sweetness in the whipped cream, and the dough's
+freshly baked, too! This is so good."	
+Message	Rinne	Mm, it really is delicious. I'm glad, Shido.	
+Message	Shido	Yeah!	
+Message	None	"(Huh? I... feel like I've eaten bread with someone
+else before, too...)"	
+Message	Shido	―?!	
+Message	Rinne	What's wrong, Shido?	
+Message	Shido	N-No, it's nothing. I'm glad it was a good one.	
+Message	Rinne	"Yeah. Let's come back another time
+to eat kinako bread."	
+Message	Shido	Yeah...	
+Message	Shido	Now then, where to next?	
+Message	Rinne	Hmmm, is there anything you want to do, Shido?	
+Message	Shido	"Let's see... If you're okay with the very normal,
+I guess the arcade would work..."	
+Message	Rinne	Then, let's head out to the arcade!	
+Message	Shido	Y-Yeah. Let's go!	
+Message	Rinne	Yeah!	
+Message	None	"(After being out in the hot sun for so long,
+the crisp chill from the air-conditioning felt
+nice against our skin.)"	
+Message	Rinne	Whew, it's cool in here.	
+Message	Shido	It is. Arcades are perfect for summer vacation.	
+Message	Rinne	"You're right. It'd be nice to cool down once in
+a while, too."	
+Message	Shido	"Playing games can make you
+heat up quite a bit, though."	
+Message	Rinne	Huh, really?	
+Message	Shido	"Huh? Have you never been to
+an arcade before, Rinne?"	
+Message	Rinne	Ah, yeah... It's actually my first time.	
+Message	Shido	I see... I guess that's not super surprising.	
+Message	None	"(Hm? Now that I think of it, I feel like I took
+someone else to the arcade for the first time
+recently...)"	
+Message	Rinne	Shido, what's wrong?	
+Message	Shido	"N-No, it's nothing. More importantly, is there
+a game you'd like to play, Rinne?"	
+Message	Rinne	"Hmm... It's my first time, so I don't know much
+about the games that are here. Which one do
+you usually play, Shido?"	
+Message	Shido	"Hmm, me? I usually go for the crane games.
+If I'm alone, I play fighting games too."	
+Message	Rinne	"Huh, so you try to get the plushie
+from inside that box?"	
+Message	Shido	Right. Do you want to try?	
+Message	Rinne	Huh? I'm okay. I'll watch you try, Shido.	
+Message	Shido	"Er, but, it's your first time at an arcade and
+all. You should try playing something. It's okay
+to mess up."	
+Message	Rinne	"Don't worry, I'm fine. Do you see something there
+that you like, Shido?"	
+Message	Shido	Uh... W-Well... hm, maybe that?	
+Message	Rinne	"That one, huh? It is pretty cute. I'll be cheering
+you on!"	
+Message	Shido	R-Right...	
+Message	None	"(Actually, there's nothing that really catches my
+eye, but I tried to pick something that the girls
+at home might like.)"	
+Message	Rinne	I hope you can get it!	
+Message	Shido	Yeah. I'll give it a try!	
+Message	Rinne	Th-That was close! Try again, try again!	
+Message	Shido	Then, one more time...	
+Message	Rinne	Do your best, Shido!	
+Message	Shido	Y-Yeah!	
+Message	None	"(All right, I'll put my all into this. If I can
+win, I'll give it as a present to Rinne...)"	
+Message	Shido	Agh!	
+Message	Rinne	Th-That's too bad...	
+Message	Shido	"That's probably enough for today...
+Let's head out."	
+Message	Rinne	...Sh-Shido, is it really okay?	
+Message	Shido	It's fine, don't worry.	
+Message	Shido	...Sorry, Rinne.	
+Message	Rinne	Huh? Why are you apologizing, Shido?	
+Message	Shido	"Well, that plushie just now, I was thinking about
+giving it to you. But it didn't go as I'd hoped..."	
+Message	Rinne	Oh, that? I'm fine, don't worry.	
+Message	Shido	Yeah. Thanks, Rinne.	
+Message	Rinne	Yeah. Then, where should we go next?	
+Message	Shido	"Let's see. We had a snack, we cooled down at
+the arcade, so now..."	
+Message	Rinne	Now...?	
+Message	Shido	"Hmmm... Is there any place you'd like to go,
+Rinne?"	
+Message	Rinne	"Well, could you take me to a favorite spot of
+yours, Shido?"	
+Message	Shido	Ah... Well, I guess I do have a place like that.	
+Message	Rinne	All right, then. Let's go there.	
+Message	Shido	Right... Let's go.	
+Message	Rinne	Yeah!	
+Message	Shido	...We're here, Rinne.	
+Message	Rinne	I see, so this is Takadai Park.	
+Message	Shido	See, the view's really nice from over there.	
+Message	Rinne	Hehe... Could I take a look?	
+Message	Shido	"Haha, you don't have to ask me.
+But don't lean out too far. It's dangerous."	
+Message	Rinne	Yeah, I'll be careful.	
+Message	Rinne	"It really is a nice view. I feel like I'm
+close to the city..."	
+Message	Shido	"You can see all of Tengu City from this point.
+I really like being up here."	
+Message	Rinne	"Yeah, and the air is cooler than down in the city,
+so it feels really nice."	
+Message	Shido	Hey, Rinne?	
+Message	Rinne	Hm? What is it?	
+Message	Shido	Today's... the first time you said it.	
+Message	Rinne	What are you talking about...?	
+Message	Shido	You know, telling me what you wanted to do...	
+Message	Rinne	"Oh... W-Was it bad that I did?
+Maybe I was being selfish..."	
+Message	Shido	No, it's not that. It's the opposite.	
+Message	Rinne	...Huh?	
+Message	Shido	"I... I want to have more fun with you, Rinne.
+Where we create the day together...
+I think a date like that would be nice."	
+Message	Rinne	......	
+Message	Shido	"If we just keep doing what I want, I don't think
+that it's okay..."	
+Message	Rinne	...Why isn't it okay?	
+Message	Shido	Huh?	
+Message	Rinne	Why isn't it okay to do what you like, Shido...?	
+Message	Shido	No, I mean I want to do what you―	
+Message	Rinne	"What's fun for you is fun for me, you know?
+I'm happy enough to go along with what
+you want to do."	
+Message	Shido	Really?	
+Message	Rinne	"Of course. Of course it's true!
+Why would you even question it? You understand,
+right? We're childhood friends, after all."	
+Message	Shido	No! O-Of course I know... S-Sorry...	
+Message	Rinne	......	
+Message	Shido	Sh-Should we... go home for today...?	
+Message	Rinne	...Yeah.	
+Message	None	(Ahh, why does it always end up like this...?)	
+Message	None	"(But... I really feel like I can't have fun if
+it's not the kind of date where Rinne
+and I are both having fun...)"	
+Message	None	"(Besides... It feels like Rinne's actually pushing
+herself to go along with everything. It just
+feels that way...)"	
+Message	None	"(I wonder why Rinne got so upset...? She did
+collapse yesterday, so maybe she's still not
+well, and I pushed her...)"	
+Message	None	(*Sigh...* Today's date was a failure...)	
+Message	None	(It was like eating sand.)	
+Message	None	"(Even though Rinne's food is so delicious, today
+I felt so on edge, I couldn't really taste it...)"	
+Message	Shido	Y-Yes?	
+Message	Rinne	Shido...	
+Message	Shido	R-Rinne?!	
+Message	Rinne	Hey, do you have a little time right now?	
+Message	Shido	What's wrong?	
+Message	Rinne	W-Well... I'm sorry. About today, and yesterday...	
+Message	Shido	Huh...?	
+Message	Rinne	I don't know anything about dates with guys, so...	
+Message	Shido	"N-No... I don't think it's something you have to
+apologize for, you know?"	
+Message	Rinne	R-Really?	
+Message	Shido	"Yeah... Dates are something you have with two
+people, so... if it didn't go well, it's partly my
+fault, too."	
+Message	Rinne	"Hey, Shido? Would you, um... like to go on a date
+tomorrow, too? I want to redeem myself."	
+Message	Shido	Yeah, of course I'll go with you.	
+Message	Rinne	Good... Thank you.	
+Message	Rinne	Then, I'll see you tomorrow. Good night, Shido.	
+Message	Shido	Y-Yeah. Good night.	
+Message	None	(Whew... That surprised me...)	
+Message	None	"(But I'm glad that Rinne still felt like going on
+a date with me again.)"	
+Message	Shido	―Whoa!	
+Message	Kotori	I'm coming in.	
+Message	Shido	O-Oh, you were here too.	
+Message	Kotori	What do you mean by "too"?	
+Message	Shido	"N-Nothing, just talking to myself.
+Anyway, what's wrong?"	
+Message	Kotori	I thought I'd just pass word along to you, Shido.	
+Message	Shido	...?	
+Message	Kotori	"There was something strange that turned up during
+today's analysis."	
+Message	Shido	Something strange?	
+Message	Kotori	"The spiritual wave we're following became
+instantly unstable during a specific time frame.
+The distortion patterns were almost the same."	
+Message	Shido	...And what specific time frame was that?	
+Message	Kotori	About 4 in the afternoon.	
+Message	Shido	I see...	
+Message	Kotori	"Right now, I'm having Reine conduct an analysis in
+detail, with that spiritual wave pattern's data
+as the focus... But it's strange."	
+Message	Shido	Strange...?	
+Message	Kotori	"It's similar to a Spirit's mental graph
+during a date."	
+Message	Shido	Huh?!	
+Message	Kotori	And that of a failed date, too.	
+Message	Shido	......	
+Message	Kotori	"Isn't it weird? While I was analyzing it, I felt
+almost like I was monitoring a Spirit's date."	
+Message	Shido	Maybe it's just a coincidence?	
+Message	Kotori	"Don't put me in the same boat as someone else
+I know. I'm not that stupid."	
+Message	Shido	Wh-Who do you mean, someone else...	
+Message	Kotori	You should ask your own heart that question.	
+Message	None	(Oof...! She's totally talking about me!)	
+Message	Kotori	"Listen. The Fraxinus saves data every time
+you fail a date with a Spirit."	
+Message	Kotori	"When I analyzed both the data from your failed
+dates, and the spiritual wave patterns from
+yesterday and today... Bingo."	
+Message	Shido	Y-Yesterday and today... failed dates...?	
+Message	Kotori	What? Do you have some kind of clue?	
+Message	Shido	N-No, it's nothing. Nothing...	
+Message	Kotori	"Well, whatever... We'll continue to analyze this.
+So―"	
+Message	Shido	―I just need to keep doing my job, right?	
+Message	Kotori	"Right, the world keeps spinning as long as you
+understand. All right, I'm going to sleep now.
+Good night."	
+Message	Shido	Yeah, good night...	
+Message	None	(Yesterday and today... I was dating Rinne.)	
+Message	None	"(And to be honest, it's hard to say that those
+dates were successes. In fact, we always have
+some sort of trouble, and―)"	
+Message	None	(They were both failures.)	
+Message	None	"(Kotori said it was the same as the data from when
+I fail at a date. Doesn't that mean that I'm
+involved somehow? Meaning―)"	
+Message	Shido	"Hahaha! No... There's no way...
+That's not possible."	
+Message	None	"(I can't stop laughing at such an outlandish idea.
+It's completely ridiculous, isn't it?)"	
+Message	None	(That my childhood friend is a Spirit...)	
+Message	None	"(We've been friends for so long. No one would know
+more than me that something like that is impossible.)"	
+Message	None	"(Jeez, I'm kinda pathetic for considering
+it. My thoughts will just go around in circles if
+I keep thinking about this... I should sleep.)"	

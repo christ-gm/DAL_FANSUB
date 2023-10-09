@@ -1,0 +1,125 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Where did Origami go? Once homeroom was
+over, before I knew it, she was gone...)"	
+Message	None	"(Tama-chan told us about the AST, so
+maybe she got worried and headed back
+to base.)"	
+Message	Shido	"Hey. Is that Origami over there with our
+teacher?"	
+Message	Shido	What are they talking about...?	
+Message	Tamae	"I apologize for bringing this up out of the
+blue, but please consider it."	
+Message	Origami	Okay.	
+Message	Tamae	Get home safely, okay?	
+Message	Origami	Okay...	
+Message	None	(Oh. Is Origami going somewhere?)	
+Choice		Call out to her.	
+Choice		Follow her.	
+Message	Shido	Origami!	
+Message	Origami	Huh...?	
+Message	Shido	What were you talking to Tama-chan about?	
+Message	Origami	About the choir club.	
+Message	Shido	C-Choir?! You're in choir club?	
+Message	Origami	"No, I haven't joined yet, but they want me to
+join after testing. I guess someone backed out
+and asked if I could sub for them."	
+Message	Shido	I-I see, but why you, Origami?	
+Message	Origami	"I'm unsure. Supposedly, the teacher in charge of
+the choir club had asked Okamine-sensei. Perhaps
+she thought I could."	
+Message	Shido	I see...	
+Message	None	"(Come to think of it, I knew that Origami was
+both a talented student and an athlete. I
+wonder how she'd fare at music.)"	
+Message	Shido	What do you plan on doing then, Origami?	
+Message	Origami	"All I said was I'll consider it. I can sing
+according to the notes. What do you think,
+Shido?"	
+Choice		Give it a shot.	
+Choice		Don't push yourself.	
+Message	Shido	"Wow, that's amazing. I couldn't sing just from
+looking at a sheet of music. If it's your thing,
+then give it a shot. I want to hear, too."	
+Message	Origami	Really? If you say so, Shido. I'll do it.	
+Message	Shido	O-Okay...	
+Message	Origami	"Well, I'll tell Okamine-sensei that I'll join
+then."	
+Message	Shido	Okay. G-Good luck.	
+Message	Origami	I'll try.	
+Message	None	"(There's no limit to what you can do, huh
+Origami? Man, how many talents do you
+have?)"	
+Message	Shido	"It's up to you whether you want to join, but
+just because you "can" doesn't mean you have
+to accept everything that comes your way."	
+Message	Origami	Huh...?	
+Message	Shido	"If you don't want to, you can say no; you don't
+have to force yourself. I mean... You already
+have enough on your plate with the AST right?"	
+Message	Origami	You have a point...	
+Message	Shido	"W-Well, I understand if there's no one else,
+but I think you have the right to say no if
+you don't want to."	
+Message	Origami	If you say so, Shido, I'll do that.	
+Message	Shido	What... O-Oh...	
+Message	Origami	Then I'll go tell Okamine-sensei that.	
+Message	Shido	O-Okay...	
+Message	Origami	Thanks.	
+Message	None	(Huh...? I wonder if she wanted to do it...)	
+Message	None	"(But... just because Origami can take on
+everything doesn't mean her body will last.)"	
+Message	None	(Man, how in the world is Origami so talented?)	
+Message	None	"(Huh? It doesn't seem like she's going home.
+I'm curious. Maybe I should follow her.)"	
+Message	None	"(I wonder why Origami's up on the rooftop.
+What is she doing here?)"	
+Message	Origami	Ave Maria, gratia plena; Dominus tecum.	
+Message	Shido	?!	
+Message	Origami	...Who's there?	
+Message	Shido	"Oh, s-sorry! I wasn't trying to snoop around,
+but..."	
+Message	Origami	Shido?	
+Message	Shido	You were really good. I was so surprised.	
+Message	Origami	"I can only sing according to the notes. I'm
+not that great."	
+Message	Shido	"R-Really? I didn't see it like that. Why were
+you singing all of a sudden, though?"	
+Message	Origami	Okamine-sensei asked me to.	
+Message	Shido	"Is that what you and she were talking
+about earlier?"	
+Message	Origami	"Supposedly, the choir club has a concert
+after testing's over. Someone couldn't make
+it, so Okamine-sensei asked if I could cover."	
+Message	Shido	But why'd she ask you of all people?	
+Message	Origami	"I don't know the details. Maybe she thought
+I could handle the pressure. I just told her
+that I would consider it."	
+Message	Shido	"I see. Man, being a genius at everything
+must be tough when everyone's depending
+on you..."	
+Message	Origami	"Shido, have you been following me since
+I spoke with our teacher?"	
+Message	Shido	What?! Well, I wasn't tailing you or anything!	
+Message	Origami	I don't mind.	
+Message	Shido	Huh... Wh-What do you mean by that?	
+Message	Origami	Don't mind me.	
+Message	None	(...But I'm totally curious.)	
+Message	Origami	Shido, what do you think?	
+Message	Shido	Huh?	
+Message	Origami	About the choir club.	
+Message	Shido	"Oh. It's up to you, isn't it? Just because you
+are able to balance every task in the world
+doesn't necessarily mean you should."	
+Message	Origami	But—?	
+Message	Shido	"Hearing you sing just now... I can't help but
+hope that you'll take on the challenge."	
+Message	Origami	I see.	
+Message	Shido	"Even acapella... I'm mesmerized that you
+can sing without any instruments. So long
+as it's your voice, I want to listen."	
+Message	Origami	Okay. If you say so, Shido.	
+Message	Shido	What?!	
+Message	Origami	I'm going to tell Okamine-sensei.	
+Message	Shido	O-Okay, gotcha. G-Good luck.	
+Message	Origami	I'll try.	
+Message	None	(...Is there anything Origami can't do?)	

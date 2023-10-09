@@ -1,0 +1,155 @@
+﻿Operator	Comment	Key	Translation
+Message	Tohka	"What's the matter? The screen with the "geme"
+turned black!"	
+Message	Kotori	It shut down?! Hey Reine, what's going on here?!	
+Message	Reine	Hm...	
+Message	Reine	"I'm unsure of the cause, but it seems as though
+the simulation is still running."	
+Message	Kotori	"The simulation's still running, but we can't
+monitor it from the outside? So, you're saying
+we were the ones cut off?!"	
+Message	Reine	It would appear so.	
+Message	Kotori	"Well, this is an unexpected disaster.
+What's happening to Shido?"	
+Message	Reine	"I don't know, but his consciousness hasn't
+returned yet."	
+Message	Reine	In other words, he's stuck in "My Little Shido 2".	
+Message	Kotori	So we can't talk to him?	
+Message	Reine	"Since the system is still running, I've been
+trying to reach out to him in safe mode,
+but there's been no reaction."	
+Message	Kotori	"...Very well. It may come with its own obstacles,
+but we'll need to force Shido to log out. I think
+staying like this would be way more dangerous."	
+Message	Reine	We can't.	
+Message	Kotori	Why not?! We can't just leave him in there.	
+Message	Reine	"I've been trying that already. No action on our
+side is working."	
+Message	Kotori	"Then how about force-quitting the simulator?
+If the device itself is powered off..."	
+Message	Reine	"That would be difficult, too. Any commands from
+the outside seem to be completely non-functional."	
+Message	Kotori	"What the hell?! So there's a bug in the
+programming? No, but even if it were
+that, it's still weird!"	
+Message	Reine	"Yeah, the conditions seem odd for just an ordinary
+bug. We're using the Realizer, so I can't think
+of ways this could happen in the first place."	
+Message	Kotori	"Do you think someone's intervening from
+the outside? Is that possible?!"	
+Message	Reine	"Yes. Given the presence of that mysterious NPC,
+I'm sensing that someone has tampered with it."	
+Message	Kotori	Are you suggesting the Fraxinus has been hacked?!	
+Message	Reine	"Right... Though it would be immensely difficult to
+do so... No, we can pretty much say it's
+impossible."	
+Message	Reine	"The Fraxinus's security can't be hacked, even with
+all the power of DEM's digital brain department
+combined."	
+Message	Kotori	"Regardless, we need to figure out the cause
+of this first in order to get Shido back."	
+Message	Kotori	"If the commands to log out of the simulation
+aren't working, then we'll have to physically
+separate him from the device..."	
+Message	Reine	No, that's too dangerous...	
+Message	Reine	"If we force-quit, there's a strong possibility
+that it'll injure his brain."	
+Message	Kotori	What... Rgh...	
+Message	Kotori	"God, Shido! Why do you always have to get
+into trouble?!"	
+Message	Tohka	"What's going on, Kotori? Reine? What happened to
+Shido? He seems to be sleeping... Can we not wake
+him?"	
+Message	Yoshinon	"We can't do that, Tohka-chan. Judging from what I\njust heard, if we force Shido-kun off, it seems\nlike it won't end well for him."	
+Message	Reine	Exactly...	
+Message	Yoshino	N-No... Shido-san...	
+Message	Tohka	"Then, Shido is going to remain like this?! I-Is
+there a possibility... that he'll never wake
+up...?"	
+Message	Yoshino	N-No... That can't be. I don't want that!	
+Message	Kaguya	Shido... Yuzuru, Shido will be okay, right...?	
+Message	Yuzuru	Anxious... Yuzuru feels the same way, Kaguya.	
+Message	Miku	Darling...	
+Message	Reine	"This isn't good. It's starting to drastically
+affect the Spirits' states."	
+Message	Kotori	"You're right... I mean it's all happening right
+before their eyes. I don't blame them."	
+Message	Kotori	"But if they rampage while Shido's like this, we
+won't have any countermeasure. We need to figure
+something out for Shido before things get bad."	
+Message	Reine	"Kotori, you don't need to be so tough. You're
+worried about your brother too, right?"	
+Message	Kotori	"I-It's not like that! I'm saying this
+as the Commander!"	
+Message	Reine	"Just calm down, Kotori. I'm going to focus on
+ascertaining the cause. You handle the Spirits."	
+Message	Kotori	Got it.	
+Message	Kotori	"If we force Shido awake, we don't know what'll
+happen to his mental state. But for now,
+he's fine."	
+Message	Tohka	O-Oh, so long as he's safe.	
+Message	Miku	Darling, I'm so worried～	
+Message	Kaguya	"Shido... I can't believe he will linger in the
+void of sleep..."	
+Message	Reine	This...	
+Message	Kotori	Did you figure something out, Reine?!	
+Message	Reine	"I can't say I've figured it out just yet. But I
+was able to verify something irregular
+inside the Fraxinus's main computer."	
+Message	Miku	So was it that cyber-attack thingy?	
+Message	Reine	"No... As I said earlier, it's pretty much impossible
+to hack into the Fraxinus's main computer."	
+Message	Reine	For a human, that is.	
+Message	Yuzuru	Question. What do you mean by that?	
+Message	Yoshinon	"So you're saying if you're not human,\nyou can do it? Is that it?"	
+Message	Tohka	Hm? What do you mean by that, Yoshinon?	
+Message	Kotori	"If it's not a human, isn't it obvious? It must be
+the doing of an unidentified Spirit..."	
+Message	Yoshino	"A S-Spirit...? Is there a very powerful Spirit-san
+inside the... machine...?"	
+Message	Miku	"Just like my Gabriel, there are Angels with special
+abilities... So you're saying there are Spirits
+with the ability to do something like this, right?"	
+Message	Reine	"Yeah, your assumptions are correct. However, maybe
+it's premature at this point to call it a Spirit."	
+Message	Kotori	What do you mean?	
+Message	Reine	"This Spirit-like existence doesn't exist in the
+real world. It's as if the program itself contains
+the power of a Spirit."	
+Message	Kotori	"So this thing is only active via data?!
+"	
+Message	Kotori	Could it be—	
+Message	Kotori	 No, wait a minute!	
+Message	Reine	What's the matter, Kotori?	
+Message	Kotori	Is it possible... that it could be an AI Spirit?	
+Message	Reine	"Yes, I was thinking that could be a possibility. I
+wouldn't be surprised if an organization like DEM
+created it to use the Spirits' powers for evil."	
+Message	Kotori	"Yeah. So they accessed data that contained Spirit
+powers... And it would make sense that they were
+able to bypass the Fraxinus's security."	
+Message	Reine	"The other alternative is that this was done by
+someone who has access to the main computer...
+but I don't think that's the case."	
+Message	Kotori	"Hmph. Of course. Anyways, we're getting on the
+right track now."	
+Message	Kotori	"This means war. It's a date between that thing and
+us..."	
+Message	Reine	"Yes. If there has been interference from the
+outside, the girl that Shin met earlier seems
+the most suspicious."	
+Message	Kotori	"Yeah. She seemed a bit inhuman, so I'd hazard a
+guess that she's our girl. Ugh... We totally
+fell for it..."	
+Message	Kotori	"Let's get her and put her in a cell where she can
+never sweep our mines ever again."	
+Message	Reine	...That sounds like a fun space.	
+Message	Kotori	"Right? It'll be specially designed with a 90%
+increase in land mines. Anyways..."	
+Message	Reine	"Right. I'm sure we can do something with the
+information we have. Let's look for ways we can
+save Shin."	
+Message	Kotori	I'll leave you to it.	
+Message	Kotori	"Anyways, to be cracked like this now, of all
+times... Can it be... their aim all along was
+to strike precisely during testing...?"	

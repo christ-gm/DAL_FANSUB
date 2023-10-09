@@ -1,0 +1,155 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	"All right. Another day, another date to go on.
+Hm... Should I ask Kotori?"	
+Message	Shido	Okay, I'll give her a call.	
+Message	Shido	Oh...? A phone call? From Kotori?	
+Message	None	(I was just about to call her.)	
+Message	Shido	Hello?	
+Message	Kotori	"Oh, Shido? I need to talk to you..."	
+Message	Shido	What's up, Kotori? Perfect timing.	
+Message	Kotori	"...What are you talking about?"	
+Message	Shido	"Oh. I was just about to call you, too. I was
+wondering if you wanted to go on a date."	
+Message	Kotori	"...I see. Well then, I'm at the park, so hurry\nup and get over here."	
+Message	Shido	Huh...? Th-The park? Got it.	
+Message	Kotori	"Later..."	
+Message	Shido	"Hey, wait, Kotori... I thought you called me
+because you needed to talk to me."	
+Message	Kotori	"Well... It seems my business was done for me."	
+Message	Shido	Huh?	
+Message	Kotori	"...If you can't tell, I had the same idea as\nyou. Later."	
+Message	Shido	"Same idea... Wait, so does that mean Kotori
+wanted to go on a date with me?"	
+Message	Shido	"She didn't seem too interested in the idea
+yesterday... That's troublesome."	
+Message	Shido	Anyway, where's Kotori...?	
+Message	Kotori	Shido, this way.	
+Message	Kotori	You're late.	
+Message	Shido	Well, I came as soon as you called...	
+Message	Kotori	Don't talk back to me!	
+Message	Shido	O-Okay... Sorry.	
+Message	Kotori	Well, let's sit down on this bench.	
+Message	Shido	"Huh...? We're not going somewhere else?
+It's a date..."	
+Message	Kotori	"What's wrong with the park? It's quite
+nice out."	
+Message	Kotori	"Besides, it's not like you're rolling in the
+dough. If you keep going on expensive dates,
+then it'd be hard on you, right?"	
+Message	Shido	"W-Well, yeah. I guess I gotta stick to my
+budget..."	
+Message	Shido	"But... I also feel like chilling on a park
+bench is sort of a lame date."	
+Message	Kotori	"I already said I'm fine with it. So it's fine.
+Now hurry up and sit down!"	
+Message	Shido	O-Okay then...	
+Message	Kotori	So, just checking...	
+Message	Shido	Wh-What is it?	
+Message	Kotori	What you said yesterday wasn't a lie, right?	
+Message	Shido	What do you mean by that?	
+Message	Kotori	"That if there was anything I needed, you
+said you'd do it. Is that true...?"	
+Message	Shido	Y-Yes...	
+Message	Kotori	Well, I have a favor to ask of you.	
+Message	Shido	Oh, what is it?	
+Message	Kotori	"But if I ask this of you... you may look at me
+funny."	
+Message	Shido	"I won't. Just tell me. If you need a favor, you
+can count on me. I'm your brother, after all."	
+Message	Kotori	...Really? You said anything, right?	
+Message	Shido	Huh? Y-Yeah?	
+Message	Kotori	"I will ask once more... You'll do ANYTHING,
+right?"	
+Message	None	"(K-Kotori looks serious. What is she going
+to make me do...???)"	
+Message	None	"(B-But I already gave her my word. I can't
+back down, can I...?)"	
+Message	Shido	Y-Yeah... Anything.	
+Message	Kotori	...I see, then—	
+Message	Shido	H-Hey, Kotori!!	
+Message	Kotori	OUCH! Hey, don't move your feet!	
+Message	Shido	Whoa, s-sorry... Hey!	
+Message	Shido	What is this?!	
+Message	Kotori	"...What? Have you never seen anyone
+lay on a lap before?"	
+Message	Shido	That's not what I meant!	
+Message	Shido	"B-But you're laying on my lap...
+In public, no less..."	
+Message	Kotori	Public... There's no one else around.	
+Message	Shido	Really? Yeah, b-but...	
+Message	Shido	But still...	
+Message	Kotori	"You said you'd do anything. This isn't a big
+deal."	
+Message	Kotori	Or, were you lying to me...?	
+Message	Shido	I-I wasn't lying...	
+Message	Kotori	Then, shut up and enjoy it!	
+Message	Kotori	"Your adorable little sister is tired, so do
+your part in letting her decompress."	
+Message	Shido	Okay, but...	
+Message	Kotori	What, you got a problem?	
+Message	Shido	It's not like that, but...	
+Message	Kotori	Then shut up and let me do it!	
+Message	Shido	"*sigh*... Okay, okay. Fine. But if someone
+comes, we're stopping, got it?"	
+Message	Kotori	I know, I know. Even I know when to stop.	
+Message	Shido	...	
+Message	Kotori	～♪	
+Message	Shido	Hey, Kotori...?	
+Message	Kotori	Don't talk to me! I'm relaxing right now...	
+Message	Shido	O-Okay... Sorry.	
+Message	Kotori	～♪	
+Message	Shido	...	
+Message	Shido	Huh...?	
+Message	Kotori	Zzz...	
+Message	None	(D-Did she fall asleep?!)	
+Message	None	"(Oh man... Then I can't move until she wakes
+up...)"	
+Message	Kotori	Zzz...	
+Message	None	"(Kotori... must be exhausted. If she's napping
+like this, how can I stop her...?)"	
+Message	None	"(She seems relaxed, at least. From this angle,
+the color of her ribbon is nice...)"	
+Message	Shido	...Whoa!!	
+Message	None	(Her skirt is, uh, shifted...)	
+Message	None	"(Should I wake her up to let her know, or
+should I let her keep sleeping...?)"	
+Message	None	(What am I supposed to do?)	
+Choice		Kotori is a lady. I should wake her.	
+Choice		She's still a child. I'll let her sleep.	
+Message	Shido	Hey... Hey, Kotori?	
+Message	Kotori	...Hmm?	
+Message	Shido	"Um, I feel bad because you were sleeping
+so soundly, but..."	
+Message	Shido	Um... It's visible.	
+Message	Kotori	Huh...?	
+Message	Kotori	Aah... AHHHHHHHHHHHHHHH!	
+Message	Kotori	Sh-Shido... What are you thinking?!	
+Message	Shido	W-Wait... I was just warning you...	
+Message	Kotori	Shut up, shut up, shut up!	
+Message	Kotori	"I-I can't just stand around here! Let's get
+out of here!"	
+Message	Kotori	...You pervert.	
+Message	Shido	Th-That's so unfair...	
+Message	None	"(If I point it out, I'll disturb Kotori's nap.
+I guess it doesn't matter if it shows. It's
+what Kotori would want.)"	
+Message	None	"(Besides, Kotori's still just a kid...
+She, um... trusts I won't do anything.)"	
+Message	Kotori	Mm...	
+Message	Shido	...!	
+Message	Kotori	...	
+Message	Shido	...	
+Message	Kotori	Shi...do...?	
+Message	Shido	O-Oh hey... You're up, huh...	
+Message	Kotori	I fell asleep... Aah! Huh?!	
+Message	Kotori	Aah... AHHHHHHHHHHHHHHH!	
+Message	Kotori	H-Hey! Wh-What's going on?!	
+Message	Shido	O-Oh...?	
+Message	Kotori	"You bastard. You saw the state I was in,
+and you kept quiet...?"	
+Message	Shido	"Well, uh, what do I say? You were napping
+so peacefully. I felt bad waking you."	
+Message	Kotori	M-My brother... is a pervert!	
+Message	Shido	Aah!	
+Message	Kotori	Shido, forget you!	
+Message	Shido	Ouch. I guess staying quiet wasn't smart...	

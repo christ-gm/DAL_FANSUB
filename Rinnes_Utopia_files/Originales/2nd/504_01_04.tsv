@@ -1,0 +1,247 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(There's something I gotta do.)	
+Message	None	"(I don't know why I feel that way, and for how
+long I've felt that way... I can't remember. But
+it doesn't matter now.)"	
+Message	None	(I just have to go.)	
+Message	None	"(Why I'm feeling like this, I don't know... But I
+will run. To... the real place I should be.)"	
+Message	None	"(An inexplicable feeling is making me move. I
+don't have enough time... Hurry... I must go as
+soon as possible.)"	
+Message	None	(Here I am... The place I must be. It's...)	
+Message	Clerk	Welcome back, Master!	
+Message	None	(That's right! The maid café!)	
+Message	None	"(This comforting moe space. This is my home, the
+place I should return to, I don't know why, but I
+couldn't stop feeling this way.)"	
+Message	Kurumi	Oh, Shido-saaan!	
+Message	Shido	This voice?	
+Message	Kurumi	Nyaaaaan, have you come to visit Kurumin again?	
+Message	Shido	Yeah... I've come to visit yet again, Kurumin.	
+Message	Kurumi	"I'm so happyyy. You see, Kurumin really missed
+you, Shido-san!"	
+Message	Shido	Me, too. I wanted to see you so bad, Kurumin.	
+Message	None	"(Kurumin... That's right, I remember now. She's an
+idol server at the maid café "Night☆Mare".)"	
+Message	Kurumi	"Okay, Shido-san. I'll escort you to your
+usual seat."	
+Message	Shido	"Okay... Thanks. And my order. I'll... have
+the usual."	
+Message	Kurumi	Okaaay. Thank you～	
+Message	None	"(Phew... Man, you're so adorable, Kurumin. I've
+been coming for a few weeks now and finally she's
+learned my name. Today... the real battle begins.)"	
+Message	None	"(My love for Kurumin is greater than any customer
+that visits her. To prove that, I need to invest
+in her. More than any other customer...)"	
+Message	Kurumi	"Shido-saaaan. I've brought you some water～
+And your order..."	
+Message	Kurumi	The Lovey-Dovey☆Heartbeat Parfait～	
+Message	None	"(Heh. So you've arrived, Lovey-Dovey☆Heartbeat
+Parfait. 1,500 yen. A special item that's fed to
+you by the maid. One of my special moves.)"	
+Message	Kurumi	Well, here we go, Shido-san. Ahhh.	
+Message	Shido	Hehe... Ahhh.	
+Message	Kurumi	Hehehe. How do you like it, Shido-saaaan?	
+Message	Shido	"Delicious. It's too delicious, Kurumin. I feel
+like even my heart will melt."	
+Message	Kurumi	"Awww, Kurumin is sooo happyyy. I made this
+thinking of you."	
+Message	Shido	"To think each and every drop of cream here has
+been squeezed by you, Kurumin... Wonderful.
+This is too good to be true."	
+Message	Kurumi	"Kurumin wants you to eat more～ Open your mouth
+wiiide. Hurry, hurry."	
+Message	Shido	Ahhh. Hehehe.	
+Message	Clerk	Kurumi-chaaaan. Someone's calling for you.	
+Message	Shido	...AH?!	
+Message	Kurumi	"Awww, Shido-san. Kurumin has been summoned by
+another master. Give me a moment, okay?"	
+Message	Shido	...What?	
+Message	None	"(*Grunt*... I guess we can't help it. Kurumin is
+super popular.)"	
+Message	None	"(But who would dare to get in my and Kurumin's
+way? Who is it?)"	
+Message	Kurumi	Awwww, Kannazuki-saaaan. You've come again?	
+Message	Kannazuki	"Ahhh! I've been waiting for you, Kurumin-chan!
+Now please step on the parfait with your feet,
+and let me lick the back of your shoes!"	
+Message	Kurumi	"Okaaaay. Corruption☆Slave Parfait,
+coming right up!"	
+Message	None	(GAH?! What kind of high-level order is this?!)	
+Message	Shido	"I'm just amazed that... Corruption☆Slave Parfait
+is actually on the menu..."	
+Message	None	"(Damn it... I can't let this happen. I'm going to
+have to take action, too... What are you going
+to do, Shido Itsuka?!)"	
+Choice		Order the Moe-Moe☆Dance Parfait.	
+Choice		Complain to the customer that stole her away.	
+Choice		Bust out my forbidden ultimate trick.	
+Message	None	"(I know! I'll order more! I'll do that and have
+to call Kurumin back.)"	
+Message	Shido	"E-Excuse me. I'd like to add an order,
+the Moe-Moe☆Dance Parfait!"	
+Message	Clerk	Okaaaay. Would you like to choose Kurumin-chan?	
+Message	Shido	Of course!	
+Message	Clerk	One moment, pleeease.	
+Message	None	(Hehe... Hehehe. I did it. I totally did it.)	
+Message	None	"(Moe-Moe☆Dance Parfait is the store's specialty,
+where the maid will dance as they serve you.)"	
+Message	None	"(Quite painful to the wallet, but... it's a
+service for high-rollers. Totally worth it.)"	
+Message	Kurumi	Yes, Shido-saaaan.	
+Message	Kurumi	"Sorry for the waaait. Here's your Moe-Moe☆Dance
+Parfait!"	
+Message	Shido	I-It's here...	
+Message	Kurumi	"Hehehe... I'm a little shy, but... Kurumin is
+going to dance, okay? ☆"	
+Message	Shido	Ohhhh....	
+Message	Kurumi	Music staaarrt ♪	
+Message	Kurumi	"Today ♪ Another heartbeat ♪ Night☆Mare ♪ I will
+kill ♪ my master with evil dreams ♪"	
+Message	Shido	"She's dancing... Kurumin is dancing...!
+Mm...mm..."	
+Message	Shido	MOEEEEEE!	
+Message	Kurumi	"Tomorrow ♪ ♪ Nightmare♪ Just focus on ♪ killing
+my master ♪"	
+Message	None	"(It's coming... The climax of the dance. The maid
+is about to twirl...)"	
+Message	Kurumi	"Oh, here I go! Dokhyun ☆ hakyun ☆ twirly-twirly ♪
+Dokyun ☆ hakyun―"	
+Message	Shido	T-Twirly!	
+Message	Shido	KITAAAAAAAA!	
+Message	Kurumi	Here we go, twirly-twirly ♪	
+Message	Shido	Twirly-twirly!	
+Message	Kurumi	Twirly-twirly ♪	
+Message	Shido	Twirly! Twirly!	
+Message	Kurumi	Thanks for ordering the Moe-Moe☆Dance Parfait!	
+Message	Shido	Aaaaaaaaaaahhhhhhhhhhhhhh!	
+Message	None	(God...! I'm so touched right now!)	
+Message	Kurumi	Awww, Shido-saaaan. Kurumin was so embarrassed.	
+Message	Shido	Kurumin... It was... so amazing...	
+Message	None	"(Kurumin... She gave it her all... What a nice
+girl... And thanks to that...)"	
+Message	None	"(Thanks to that, I totally was able to see it.
+...So glad. I'm so glad to be alive...)"	
+Message	Clerk	Your total will be 7,000 yen!	
+Message	Clerk	Have a nice day, Master!	
+Message	Shido	...Phew.	
+Message	Shido	...	
+Message	Shido	...I wonder why.	
+Message	Shido	"...Suddenly a pathetic feeling is welling up
+inside me..."	
+Message	Shido	And...	
+Message	Shido	"What's gotten into me... Clearly something
+is wrong..."	
+Message	Shido	But... Kurumin was so cute...	
+Message	None	(Wait... Why do I feel... like such a loser...)	
+Message	None	"(How dare someone try to get in my and Kurumin's
+way... I'm going to see who it is.)"	
+Message	Shido	Hey, you.	
+Message	Kannazuki	Hm? What do you want?	
+Message	Shido	"Can you not get in the way? Kurumin is actually
+having a really great time with me right now."	
+Message	Kannazuki	"Right back at you. Don't get in my way.
+Kurumin-chan is my potential queen."	
+Message	Shido	Wh-What exactly are you expecting out of a maid?	
+Message	Kannazuki	"None of your business. You still seem to be a
+student. But can a young man like you even be
+out here past your bedtime?"	
+Message	Shido	"R-Right back at you. You're like a middle-aged
+man, at a maid café at this hour... Aren't you
+embarrassed?"	
+Message	Kannazuki	Hehehe...	
+Message	Shido	Wh-What is it...?	
+Message	Kannazuki	"Yeah! I'm embarrassed! But that's the beauty of
+it! Embarrassment is the path to ecstasy. That
+kind of corruption is the highway to the climax!"	
+Message	Shido	Th-This guy... is not good...	
+Message	Kannazuki	"Now, get out of my way. This isn't for a young'un
+like you. Kurumin-chan is about to spend some
+adult time with me."	
+Message	Shido	"Wait. I can't afford to have Kurumin spend time
+with a suspicious guy like you."	
+Message	Kannazuki	What?! Get out of my way.	
+Message	Shido	Never...	
+Message	Kannazuki	Grrr, let go!	
+Message	Shido	No! You bastard...	
+Message	Kannazuki	How dare you, you bastard...	
+Message	Shido	GRRR...	
+Message	Kannazuki	HNRRRRGHH...	
+Message	Kurumi	"Here you gooo～ I brought your Corruption☆Slave
+Parfait."	
+Message	Shido	AH?!	
+Message	Kannazuki	AHHHHH!	
+Message	Kurumi	Huh? Oh, ahhh!	
+Message	Kurumi	Aaaahhhh!	
+Message	Kannazuki	OH!	
+Message	Shido	OHHHH!	
+Message	Shido	Th-That was...?	
+Message	Kannazuki	"Her white skin stands out against the
+black cloth..."	
+Message	Shido	...The black is standing out against the white!	
+Message	Kurumi	"Oh, no, no, you two don't fight over Kurumin ☆
+That makes me unhappy ♪ Any master who causes a
+ruckus at the café will be sent home, you know?"	
+Message	Shido	We're not arguing!	
+Message	Kannazuki	We were just getting to know each other!	
+Message	Kannazuki & Shido	We're BFFs!	
+Message	None	"(...And so this incident caused me and this
+somewhat familiar old dude to become friends.
+And we spent some hot times at the maid café...)"	
+Message	None	(...)	
+Message	Clerk	Your total together will be 42,500 yen!	
+Message	None	(...Very well. I had sealed this trick, but...)	
+Message	None	"(Shido Itsuka. The time to use your Forbidden
+Ultimate Trick has come!)"	
+Message	None	"(Hehe. Before I do that, I must explain
+what this Forbidden Ultimate Trick is.)"	
+Message	None	"(So, why am I always sitting in the seat at the
+back? Because the ultimate secret is here. Hehe.
+That is...)"	
+Message	None	(This seat is near the floor vent.)	
+Message	None	"(The air system is for the customer and maids to
+keep their feet from getting too cold. I've had
+my eye on this heater since I first came here...)"	
+Message	None	"(Furthermore, if it's this specific seat, I can
+reach out anytime to the switch and adjust
+the air flow!)"	
+Message	Kurumi	Shido-saaaan. Sorry for the wait!	
+Message	None	"(She's coming! Now's my chance! I'm going to crank
+the wind power to the max!)"	
+Message	Kurumi	Shido-saaan, let's continue feeding you～	
+Message	Shido	O-Okay...	
+Message	None	(That's right. Come closer... NOW!)	
+Message	Kurumi	"Hey, Shido-saaan. Let's eat and talk...
+Oh... AHHH!"	
+Message	Kurumi	Nooooo ☆	
+Message	Shido	I did it! The Ultimate Peek-a-boo☆Hurricane!	
+Message	Kurumi	Aaaahhhhhhh ☆ What's the matter with the air～!	
+Message	Kurumi	Gosssh... I'm so sorry, Shido-san.	
+Message	Shido	"N-No, it's fine. Ugh, that stupid vent. A-Anyways,
+are you okay, Kurumin? Haha."	
+Message	Kurumi	"Awww, I'm so embarrassed that you saw that.
+Kurumin is sooo hakyuuuun. But now that you
+showed your concern, I'm all better."	
+Message	None	"(Hehehe... Honestly I do feel a little bad, and
+it's making my heart hurt... There's still a sense
+of achievement inside of me. I... won.)"	
+Message	Kurumi	Anyways, Shido-san. Let's move on. Open wiiide.	
+Message	Shido	Ahh... Hehehe.	
+Message	None	"(Despite the powerful enemy Corruption☆Slave
+Parfait... In a sense, I lost the battle in terms
+of investment. But I won the war.)"	
+Message	None	"(I was able to uncover Kurumin's secret black
+flower garden!)"	
+Message	Kurumi	"Okay, Shido-san. One more bite. Kurumin's parfait,
+Moe-Moe☆Dokyun."	
+Message	Shido	Moe-Moe☆Dokyuuun... Muehehehehe...	
+Message	None	"(Priceless! This is truly priceless! I feel so
+satisfied. SO satisfied!)"	
+Message	Clerk	Your total is 3,000 yen.	
+Message	Clerk	Have a nice day, Master!	
+Message	Shido	Phew...	
+Message	Shido	...	
+Message	Shido	"...If you think about it, that was totally sexual
+harassment..."	

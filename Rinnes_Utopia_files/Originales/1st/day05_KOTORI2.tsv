@@ -1,0 +1,170 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Kotori... seems so busy today.	
+Message	Shido	"I wanted to ask her out on a date today, but
+if she's all booked up, maybe I should refrain."	
+Message	Shido	"I can check up on her in the meantime. I wonder
+if Kotori is visiting Reine-san right now."	
+Message	Shido	If I can't find her, then I'll give up.	
+Message	Shido	Kotori always seems so busy...	
+Message	Shido	"I wanted to ask her out on a date today, but
+if she's all booked up, maybe I should refrain."	
+Message	Shido	"I can check up on her in the meantime. If she
+doesn't pick up, I'll leave it for now."	
+Message	Shido	"Is Kotori here? I don't hear anyone talking.
+Anyone there?"	
+Message	Kotori	...	
+Message	Shido	"Oh, there's Kotori. Looks like she's deep in
+thought or something. Maybe I shouldn't bother
+her."	
+Message	Kotori	Hm...? Oh, Shido.	
+Message	Shido	Y-Yo...	
+Message	Kotori	"What is it? Did you have more business with
+Reine?"	
+Message	Shido	No. This time it was with you, but...	
+Message	Kotori	But what?	
+Message	Shido	"You seemed so busy. You don't have time
+for a date, do you?"	
+Message	Kotori	R-Right. Sorry, it's just...	
+Message	Shido	Oh. Don't worry about it.	
+Message	Shido	I'll invite someone else today then.	
+Message	Kotori	...	
+Message	Shido	Later...	
+Message	Kotori	...Wait.	
+Message	Shido	Hm...?	
+Message	Kotori	I'm going on a date with you.	
+Message	Shido	Huh? B-but I thought you were busy...	
+Message	Kotori	I told you I'm going!	
+Message	Kotori	I felt stuck anyways... I need a little break.	
+Message	Shido	I-I see... Then let's go.	
+Message	Kotori	Okay, let's.	
+Message	Shido	"All right. Now that we're in town, where should
+we go? Wanna grab a bite?"	
+Message	Kotori	...Yeah.	
+Message	Shido	Huh...? Kotori...?	
+Message	Kotori	Oh... huh? O-Oh yeah... Sorry, what is it?	
+Message	Shido	I was asking if you wanted to grab a bite.	
+Message	Kotori	Right. I'll eat whatever you want to eat.	
+Message	Shido	Aren't you craving anything?	
+Message	Kotori	Nothing in particular.	
+Message	Shido	Then, how about that...?	
+Message	Kotori	That? You mean the taiyaki stall?	
+Message	Shido	I'll buy some, so wait right here.	
+Message	Kotori	Sure.	
+Message	Shido	Sorry for the wait... H-Hey, Kotori?!	
+Message	Shido	What's the matter?! Do you feel sick?	
+Message	Kotori	Don't shout. It'll give me a headache.	
+Message	Shido	Oh. S-Sorry, b-but...	
+Message	Kotori	"Honestly, I feel sick. I want to lay down,
+but..."	
+Message	Kotori	Sorry. Let me be for just a little longer.	
+Message	Shido	Kotori...	
+Message	Kotori	I'm fine. I'm fine...	
+Message	Kotori	...	
+Message	None	"(Kotori... looks like a ghost. Is it a good idea
+for me to let her be...?)"	
+Message	None	"(If she says she's fine, then that's all that
+matters. But, what if she's not...?)"	
+Message	None	(I...)	
+Choice		Ask her to take a rest.	
+Choice		Lend a hand.	
+Message	Shido	Kotori, take it easy.	
+Message	Kotori	"O-Okay. Sorry. We're on a date and this is
+what happens."	
+Message	Shido	Don't worry about that. Your health comes first.	
+Message	Kotori	Th-Thanks...	
+Message	Kotori	...	
+Message	Kotori	...	
+Message	Shido	...How do you feel? A bit better?	
+Message	Kotori	Y-Yeah, kinda...	
+Message	Shido	Cool. We should head home to let you rest.	
+Message	Kotori	...Right.	
+Message	Shido	Can you walk?	
+Message	Kotori	Somehow...	
+Message	Shido	Then let's go home.	
+Message	Kotori	Okay... Sorry.	
+Message	Shido	Hm? Did you say something?	
+Message	Kotori	Nothing. Don't worry about it.	
+Message	Shido	O-Okay...	
+Message	None	(I wonder if Kotori really is okay...)	
+Message	Kotori	...	
+Message	None	"(Maybe Kotori's right. She'll feel better in
+no time, but... what if she doesn't?)"	
+Message	Shido	Sorry, Kotori.	
+Message	Kotori	Huh...? A-Aah!	
+Message	Kotori	Wh-What are you doing?! Let me down.	
+Message	Shido	Sorry, I can't do that.	
+Message	Kotori	WHAT?! Wh-what did you just say?	
+Message	Shido	You barely ever let it slip when you're sick.	
+Message	Shido	I can't just let you live this way...	
+Message	Kotori	B-But I'm embarrassed...	
+Message	Shido	"Who cares about that? Health comes first.
+If you're actually embarrassed, just bury
+your face in my back so no one sees you."	
+Message	Shido	"If I can't help you at a time like this, what's
+the point in me being your big brother?"	
+Message	Kotori	...Shido.	
+Message	Kotori	...You're so dumb.	
+Message	Shido	I know.	
+Message	Kotori	How much of a sister complex do you have?	
+Message	Shido	You got a problem with that?	
+Message	Kotori	No, but...	
+Message	Shido	Then, be still.	
+Message	Kotori	...Okay.	
+Message	Shido	"Hey, Kotori? If you're sick, you don't have to
+answer, but..."	
+Message	Shido	"Do you remember doing this when we
+were little?"	
+Message	Shido	"Remember when you fell in the park and
+cut your knee?"	
+Message	Shido	"Back then, I panicked because I let you
+get hurt."	
+Message	Shido	"I need to get her to a doctor immediately!\nWhat if she needs surgery?!"\n...I remember saying that.	
+Message	Shido	"It was a just a scratch though, obviously...
+Haha. Didn't stop me from panicking."	
+Message	Kotori	Which means you haven't changed a bit since.	
+Message	Shido	"On the contrary, you've sure grown up.
+But I hoped that I'd be grown by now too,
+you know?"	
+Message	Kotori	You're fine just the way you are, Shido.	
+Message	Shido	Oh, yeah? I sure hope that's true.	
+Message	Kotori	It is... I don't want you to change.	
+Message	Shido	Kotori...	
+Message	Kotori	"Besides, I haven't changed as much as you
+suggest."	
+Message	Shido	"No, you've totally changed. Your mouth is
+bigger, and you're meaner."	
+Message	Kotori	...	
+Message	None	"(Oops. I should say something good about
+her.)"	
+Message	Shido	"Oh, but uh... In a sense, you've gotten cuter
+at least..."	
+Message	Kotori	What?! Wh-What did you just say?	
+Message	Shido	N-Nothing!	
+Message	Kotori	S-Say it again!	
+Message	Shido	I refuse!	
+Message	Kotori	Jeez, you're such a coward.	
+Message	Shido	Shut up!	
+Message	Kotori	"Um, I guess you're right, but I still don't think
+I've changed much."	
+Message	Kotori	Because... from that moment, I've...	
+Message	Shido	...Kotori?	
+Message	Kotori	...	
+Message	Shido	We're home, Kotori.	
+Message	Kotori	You can let me down now.	
+Message	Shido	Really?	
+Message	Kotori	...Yeah.	
+Message	Kotori	"Anyways Shido, I told you I didn't want to, but
+you forced me to piggyback you in public."	
+Message	Shido	W-Well, I was just desperate to help.	
+Message	Kotori	...I know that.	
+Message	Kotori	"Um. Thanks, Shido. I felt safe with you carrying
+me. Now, I feel so much better."	
+Message	Shido	O-Okay...	
+Message	Kotori	And... you have changed, though you can't tell.	
+Message	Kotori	"I never realized how much bigger your back
+is. Hadn't noticed at all."	
+Message	Shido	"Oh, yeah. Well, my body's gone through some
+changes since we were kids."	
+Message	Kotori	...	
+Message	Shido	...Want to go inside?	
+Message	Kotori	Okay.	

@@ -1,0 +1,112 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Today was my first day off since Kaguya and
+I started officially dating. A date with just the
+two of us. I was kind of nervous...)"	
+Message	Shido	"Well, that's fine, but...
+Why are you here, Yuzuru?"	
+Message	Yuzuru	"Answer. Shido, I am waiting with you for Kaguya
+to arrive. I assume waiting is a turgid affair."	
+Message	Shido	"Well, that's sweet of you. I was kind of bored,
+so I appreciate it. Did you want to come with
+us, since you're already here?"	
+Message	Yuzuru	"Refusal. That I cannot do. You are Kaguya's
+boyfriend. You must appreciate your time
+alone together."	
+Message	Shido	"Oh, you think so? Well, I'm sure Kaguya wouldn't
+mind. In fact, she might encourage it."	
+Message	Yuzuru	"Affirmative. Kaguya loves Yuzuru. However,
+alone time is important. Rules must be honored."	
+Message	Shido	If you say so. Oh. I think she's here.	
+Message	Kaguya	"Sorry for running late, Shido.
+"	
+Message	Kaguya	Hey, Yuzuru! Oh, thinking of coming with?	
+Message	Yuzuru	"Refusal. Unfortunately, I will not join. I merely
+wanted to see you off."	
+Message	Shido	"Thanks for coming out, Yuzuru. Well, we'll
+be on our way."	
+Message	Yuzuru	"Warning. Shido, one word of advice. Kaguya's
+tastes are notoriously finicky. Good luck."	
+Message	Shido	O-Okay...	
+Message	Yuzuru	Departure. Well, I will be on my way.	
+Message	Shido	Good luck...? What does she mean?	
+Message	Kaguya	"Shido, let's get going. If you keep me waiting,
+the dark beast will awaken!"	
+Message	Shido	"Oh. Let's go. You had somewhere in mind,
+right?"	
+Message	Kaguya	Yes. Come with me!	
+Message	None	(Kaguya took me to...)	
+Message	Shido	Is this a clothing shop?	
+Message	Kaguya	"Hehe. Indeed. I'm gonna pick the coooolest
+clothes for you, Shido!"	
+Message	Shido	That's sweet of you. Wait, but you're picking?	
+Message	Kaguya	C-Can't I?	
+Message	Shido	"Well, I mean, I've never had a girl pick out
+clothes for me before."	
+Message	Kaguya	"Kuku... Then prepare yourself for the most
+epic transformation this decade. Okay, go
+inside that room."	
+Message	Shido	G-Got it...	
+Message	None	"(Kaguya excitedly shoved me into a dressing
+room, but...)"	
+Message	Shido	All of a sudden, I feel anxious.	
+Message	None	"(Should I really let her choose? Well, she
+is my girlfriend. I should trust her. But wait
+a minute... Kaguya's fashion sense is―)"	
+Message	Kaguya	"Thanks for waiting! I had my eye on some stuff,
+so I went ahead and bought it! I'll leave it here
+for you. Call me, okay? I'm getting ready too!"	
+Message	Shido	...Getting ready?	
+Message	None	"(Is Kaguya changing too? Are we going to
+match? That'd be embarrassing. Oh, well.
+Guess I'll find out. Where are those clothes?)"	
+Message	None	"(Oh, man. This is totally Kaguya's aesthetic.
+It looks cool.)"	
+Message	Shido	"But I feel like it's bringing me back to a time
+I didn't necessarily want to remember..."	
+Message	None	"(Well, guess I have to commit. I'm Kaguya's
+boyfriend.)"	
+Message	None	"(I mustered up the courage to try on the
+black coat.)"	
+Message	None	"(Together, Kaguya and I walked through the
+shopping district.)"	
+Message	Kaguya	Shido, I knew it! Looking so cool!	
+Message	Shido	Y-You think so...?	
+Message	Kaguya	"Kuku... Totally, Shido. The perfect look for my
+servant."	
+Message	Shido	Kaguya, I'm happy you like what you see.	
+Message	Kaguya	Hm?	
+Message	Shido	You look adorable, Kaguya.	
+Message	Kaguya	"...Huhhh? Talk more like that and you'll make
+me blush."	
+Message	Shido	Why? You wanted to be twins, right?	
+Message	Kaguya	"N-NNNNNNot really! I just thought it looked
+cute! I thought you might look good in it, too."	
+Message	Shido	"I see. You're right. It suits you, Kaguya.
+A real cute outfit."	
+Message	Kaguya	Hauuu. Hehehe. Thanks, Shido. You look cool too.	
+Message	Shido	Think so? I kinda feel like it doesn't suit me.	
+Message	Kaguya	"Don't worry. I can vouch for how cool you look,
+so trust me. You're my boyfriend, Shido."	
+Message	Shido	Haha. I get all pumped whenever you say it.	
+Message	None	(I won't tell her about that, though...)	
+Message	None	"(I'm sure, in our matching outfits, we really do
+look like a serious couple. It was nice to see
+Kaguya wear such a big smile.)"	
+Message	Kaguya	All right. Onward and upward with our date!	
+Message	Shido	Wait, in this outfit?!	
+Message	Kaguya	"KAKAKA, Shido! A rendezvous demands
+matching attire. You can't take it off
+until the very end!"	
+Message	Shido	Fine. I'll play along just for today, Princess.	
+Message	Kaguya	Okay...!	
+Message	Shido	But only today, okay?	
+Message	Kaguya	"Kuku. You chose me, Shido. Your requests
+are trivial."	
+Message	Shido	I see. That's how you're going to play it, huh?	
+Message	None	"(It's true I chose Kaguya. So I guess I can't
+really be surprised it panned out like this.
+Yuzuru's warning was lost on me...)"	
+Message	Kaguya	"Besides, if you resist, I won't let go of your
+arms."	
+Message	Shido	That's not a threat. I don't want you to let go.	
+Message	Kaguya	Then let's keep this good thing goin'.	

@@ -1,0 +1,579 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(It really is inconvenient... to know only what
+I've seen with my own eyes...)"	
+Message	None	(Control of Eden is unreliable...)	
+Message	None	(Maybe it really is hopeless...)	
+Message	None	"(No... It can't be! I won't accept it. My world is
+not wrong!)"	
+Message	None	(If my powers don't stabilize, what will I do...)	
+Message	None	"(I know the answer to this... That's right.
+Just like the Spirits, I can...)"	
+Message	None	"(Hehe... I see... How did I not think of
+this before... It appears in my haste,
+I failed to consider it...)"	
+Message	None	(I'm sure that... with this...)	
+Message	???	Shido... It's morning... Wake up.	
+Message	Shido	...Mmm... What was that just...?	
+Message	Rinne	Hehe... Are you awake?	
+Message	Shido	Mmm. Oh... Rinne... Morning.	
+Message	Rinne	"Good morning, Shido! The weather's
+nice again today."	
+Message	Shido	"...Did something good happen?
+You seem oddly full of energy."	
+Message	Rinne	Huh. Really? I don't think I am.	
+Message	Shido	Is that so?	
+Message	Rinne	"Really, I'm not. Oh! More importantly, Shido...
+Are you free after school today?"	
+Message	Shido	Huh...? Well, I suppose so...	
+Message	None	(Although I'd have to take dates into account.)	
+Message	Rinne	"Thank goodness! Then I'll make breakfast. Come
+downstairs when you're ready."	
+Message	Shido	R-Right.	
+Message	Shido	Huh... Where is everyone?	
+Message	Rinne	"Oh, right. Yoshino-chan wasn't feeling well, so
+Kotori-chan took her to the hospital. I wanted to
+go, but she asked me to take care of you, Shido..."	
+Message	Shido	Yoshino's in the hospital? Is she okay?	
+Message	Rinne	"Kotori-chan said she didn't think it was anything
+serious, but..."	
+Message	Shido	I see... I'm still worried, though.	
+Message	Rinne	Yeah...	
+Message	None	"(Kotori most likely took her to the Fraxinus. If
+that's the case, I'm sure she's all right, but...)"	
+Message	Shido	So, what about Tohka? Is she still asleep?	
+Message	Rinne	"Nope. Tohka-chan said she would go to
+school first, and she's already left."	
+Message	Shido	Huh?! Really?! Th-That's so unlike her!	
+Message	Rinne	"I feel a little bad for Tohka-chan that you're so
+surprised..."	
+Message	Shido	Oh... No, I didn't mean it like that...	
+Message	None	"(If something happened to Yoshino, then Tohka
+might also have... No, but then Kotori would've
+brought them both...)"	
+Message	Rinne	Oh, here, sit down. I'll bring you breakfast.	
+Message	Shido	Ah, okay. Thank you...	
+Message	None	"(If no one's here, that means it'll be breakfast
+with just Rinne today...)"	
+Message	Rinne	"Here, sorry to keep you waiting. I re-heated the
+miso soup. The rice is nice and hot, too."	
+Message	Shido	Oh, thank you. Let's eat.	
+Message	Rinne	"I'm sorry. This morning was chaos, so it's just
+bacon, eggs, and a salad."	
+Message	Shido	"No, that's more than enough. Besides, Yoshino
+wasn't feeling well, so I'm sure it was hard on
+everyone..."	
+Message	None	"(In fact, I feel bad for sleeping through the
+whole thing.)"	
+Message	Rinne	"Oh, and here, take this. I didn't have much time
+to prepare it."	
+Message	Shido	"Oh, bento. You really have
+everything taken care of."	
+Message	Rinne	Hehe. It's no problem at all.	
+Message	Shido	Y-Yeah.	
+Message	Shido	...	
+Message	Shido	Ummm...	
+Message	Rinne	Hm? What's up?	
+Message	Shido	Erm, um... I'll just dig in...	
+Message	Rinne	Yes, please do.	
+Message	Shido	Right...	
+Message	None	"(I'm sure it'd be a good idea to talk about
+something right now... but why does nothing come
+to mind during times like these?!)"	
+Message	Rinne	"What's wrong, Shido? Your face is a little red.
+Do you have a fever again?"	
+Message	Shido	Oh! No, it's nothing! I'm fine!	
+Message	Rinne	Really?	
+Message	Shido	Y-Yeah...	
+Message	Rinne	Hehe... You're kinda strange, Shido.	
+Message	Shido	Sorry...	
+Message	Rinne	"Goodness, you don't need to apologize. You really
+are a strange one. Hmmhmm..."	
+Message	Shido	Oof...	
+Message	Shido	Hey! I'm going to leave soon, Rinne!	
+Message	Rinne	Okay! I'm coming now, so just wait a moment!	
+Message	Shido	We still have time, so no rush!	
+Message	Rinne	Here, sorry for keeping you waiting! Shall we go?	
+Message	Shido	Yeah...	
+Message	Shido	Hm? What's wrong, Rinne? Aren't we going?	
+Message	Rinne	"Yeah. We should make sure to lock up before we go.
+Um, just a moment... Huh?"	
+Message	Rinne	O-Oh, no... I think I might have lost my key...	
+Message	Shido	Huh?!	
+Message	Rinne	"What should I do... It was so
+important... but I..."	
+Message	Shido	"Rinne, just calm down for now. You had it when you
+came into the house, so it must
+be somewhere inside!"	
+Message	Rinne	Oh, right... You're right.	
+Message	Shido	Hmmm, it's not here... Where could it have fallen?	
+Message	Rinne	"I'm sorry, Shido... You made it for me and
+everything, but since I don't have my act
+together..."	
+Message	Shido	"Really, don't worry! In fact,
+it makes me feel better."	
+Message	Rinne	Feel better...?! Is that... Are you teasing me?	
+Message	Shido	"Haha, no, no. You always do things so flawlessly.
+It's just nice to see that you make mistakes too."	
+Message	Rinne	"So now you've realized that I'm actually
+unreliable..."	
+Message	Shido	"Of course you're reliable. You're always helping
+me out. I wish you'd rely on me sometimes. I want
+to do my best for you too, you know."	
+Message	Rinne	Yeah... Okay.	
+Message	Shido	"So listen, Rinne... Let's think about it. What did
+you do after you came in today?"	
+Message	Rinne	"Um... I was making breakfast and bento... Then I
+ate with you. Then I washed everything...
+And after that..."	
+Message	Shido	After that...?	
+Message	Rinne	Oh, could it be?! Shido, you can go on ahead!	
+Message	Shido	H-Hey, Rinne?!	
+Message	Rinne	*Pant, pant...* I... found it, Shido!	
+Message	Shido	Oh, that's great! Where was it?!	
+Message	Rinne	I left it in the bathroom.	
+Message	Shido	I see. Well, I'm glad you found it.	
+Message	Rinne	"I've been carrying it on me all this time, but...
+it looks like I was careless for a moment."	
+Message	Shido	"Oh, I'm sorry... It must have been because
+I rushed you earlier."	
+Message	Rinne	"No, it's not your fault, Shido. I'm the one at
+fault, so I should be apologizing to you.
+I won't ever lose it again..."	
+Message	Shido	"It's not that big of a deal. At least we found it,
+and it's not like it got stolen."	
+Message	Rinne	It's not that...	
+Message	Shido	Huh?	
+Message	Rinne	"This is... proof... that you acknowledged me as
+family. As someone important. That's why I
+don't want to lose it... Is that selfish of me?"	
+Message	Shido	No, not at all. I think that it's important, too.	
+Message	None	"(For Rinne, that key holds the same significance
+as the ribbons that I gave to Kotori. They're
+symbols of our little family.)"	
+Message	Rinne	Yeah... Thank you, Shido. I'll go lock up, then.	
+Message	Shido	All right... Please do!	
+Message	Rinne	Also... losing this really was a first for me.	
+Message	Shido	No worries. I'm glad you found it...	
+Message	Rinne	Yeah. Really, I had no idea what I'd do...	
+Message	None	"(What is this feeling...? I feel kind
+of nervous...)"	
+Message	None	"(That's strange... There were plenty of times
+before Tohka and the others came along
+that I went to school with just Rinne.)"	
+Message	Rinne	Shido, what's wrong? You're spacing out...	
+Message	Shido	"Huh? Oh, er... Just thinking about
+how hot it is..."	
+Message	Rinne	"You're right. The cicadas being so loud makes
+it feel even hotter."	
+Message	Shido	Yeah...	
+Message	Rinne	"But there are good things about summer. Playing in
+the pool when we were kids, eating popsicles...
+Not to mention cold Chinese noodles..."	
+Message	Shido	"What? You're starting to sound
+as gluttonous as Tohka."	
+Message	Rinne	"Oh, Shido. Don't be such a downer. I was just
+thinking happy thoughts. Besides, if you say it
+like that, it's not very nice to Tohka-chan."	
+Message	Shido	"Sorry, sorry. I'll spare myself more scolding and
+bow out here! I'll be going on ahead!
+See you at school!"	
+Message	Rinne	Ahh, hey! Come back heeere!	
+Message	Shido	Haha sorry, but the finish line's so close!	
+Message	Rinne	Good grief! Shido!	
+Message	Shido	Whew! Made it!	
+Message	Rinne	"Shido... You've got some nerve, suddenly running
+away like that..."	
+Message	Shido	"Sorry, sorry. I just felt like a race. Whew, what
+a workout... I'm really sweating here."	
+Message	Rinne	"Gosh, you're so impulsive... It's great for your
+health and all, but think about your hygiene.
+Not just for your sake, but for others' too."	
+Message	Tonomachi	Hey there, you two!	
+Message	Rinne	Oh, good morning, Tonomachi-kun.	
+Message	Shido	Morning, Tonomachi. Well, aren't you energetic.	
+Message	Tonomachi	"Hahaha! This morning I drank ten raw eggs all at
+once! Startin' the day with a full tank!"	
+Message	Shido	Hurgh... Just hearing that gave me heartburn.	
+Message	Tonomachi	"Hey, the only burning you're allowed is burning
+envy for me, Itsuka! Don't fight it anymore. Let
+yourself succumb to the flames of passion. Hehe..."	
+Message	Shido	Who would ever be jealous of you!	
+Message	Rinne	Hehe, you're a really funny person, Tonomachi-kun.	
+Message	Tonomachi	"Ohhh! I knew there'd be someone who would
+appreciate my inner spark, no matter how much
+I've tried to hide it all these years!"	
+Message	Shido	You were trying to hide it?	
+Message	Tonomachi	"Rinne, if you're in trouble, you can always tell
+me. Admit it, the only reason you're hanging with
+Itsuka is because he's blackmailing you, isn't he?"	
+Message	Tonomachi	"He has to be! Otherwise, it just doesn't
+make any sense!"	
+Message	Rinne	"W-Well, I don't think he has any information
+like that... I-I'm sorry, Tonomachi-kun..."	
+Message	Tonomachi	"No way... Damn it! Why is it always Itsuka?!
+I refuse to accept it! I refuuuuuuse!!!"	
+Message	Rinne	"He left. Is it okay to leave Tonomachi-kun
+alone like that?"	
+Message	Shido	"Ah, it's fine. He'll come back later as if
+nothing ever happened."	
+Message	Rinne	Hehe, you're right.	
+Message	Shido	"Jeez, Tonomachi. Blackmail? Really? We're
+childhood friends, right Rinne? Kind of stuck
+together at this point."	
+Message	Rinne	"Shido... If you say "stuck together", that makes
+me a little sad."	
+Message	Shido	Oh, no... That wasn't what I meant...	
+Message	Rinne	"If you really feel that way, I can just leave,
+you know?"	
+Message	Shido	N-No, I'm really sorry! I was wrong!	
+Message	Rinne	Goodness, it can't be helped... I forgive you.	
+Message	Shido	Haha... That's a relief...	
+Message	None	"(All right, I somehow managed to stay awake
+through my morning classes!)"	
+Message	None	(Now it's time for lunch.)	
+Message	Tohka	Sh-Shido!	
+Message	Shido	"Ah, Tohka! You were sleeping the whole time,
+weren't you? It's already lunch, you know?"	
+Message	Tohka	R-Right! And so... this is actually yesterday's...	
+Message	Tohka	Hm? Shido... What is that?	
+Message	Shido	Hm, oh, this? Rinne made it for me today.	
+Message	Tohka	Hm... I-I see.	
+Message	Shido	"So, what were you saying? Something
+about yesterday?"	
+Message	Tohka	I-It's nothing... Nothing at all!	
+Message	Shido	R-Right...	
+Message	Shido	Did I end up messing something up again...?	
+Message	Shido	"I can't fight any more battles if I'm hungry...
+For now, I guess I'll have lunch."	
+Message	None	"(Mm, this is delicious! The exact kind of comfort
+food I would expect from Rinne.)"	
+Message	Tamae	Okay, we'll begin final period of homeroom now.	
+Message	None	"(Homeroom already, huh? This day flew by, but also
+dragged on forever...)"	
+Message	Tamae	"Oh, today I have something very
+important to tell you all."	
+Message	Tonomachi	So what's this very important thing?	
+Message	Tamae	"Well... I'm sure everyone is aware that this town
+has a garrison for the Self-Defense Force, right?"	
+Message	None	"(The Self-Defense Force. Origami saw me react to
+the phrase, but stayed expressionless and still.)"	
+Message	Tonomachi	Well yeah, I guess we know. What about it?	
+Message	Tamae	"They sent a transmission to the school, and I'd
+like to share it with everyone."	
+Message	Tamae	"Let's see, it seems pretty complicated, but...
+Currently, the observational equipment at the
+Tengu City garrison isn't functioning properly."	
+Message	None	"(Could it be that the AST
+isn't functioning either?)"	
+Message	None	"(Since Origami's expression hasn't changed, I
+assume that means she must have already known.
+Well, I guess that would make sense.)"	
+Message	Tamae	"So... Alarms for spatial quakes and such may end
+up being late, or maybe not even work at all..."	
+Message	None	"(Isn't that really bad? Hm... Wait a minute. Does
+that mean, not only the Spirits and the Fraxinus,
+but AST will be affected as well...?)"	
+Message	Tamae	"...Because of that, if you feel that something's
+even the slightest bit abnormal, please stay
+calm and head to each of your shelters."	
+Message	Tamae	"Even then, there's no way of knowing when you'll
+run into danger. Regardless, keep moving, stay
+calm, and remember to follow the rules of "PRT.""	
+Message	Tamae	"No Pushing, No Running, No Talking.
+Do you understand?"	
+Message	None	(What is happening to Tengu City...?)	
+Message	None	(Is Origami all right...?)	
+Message	Origami	...	
+Message	Tamae	"Okay, then. Homeroom is over for today.
+Everyone, please be careful while heading home."	
+Message	None	(Now then, what should I do today...?)	
+Message	None	"(Oh... That's right, today Rinne asked me what my
+plans were for after school...)"	
+Message	None	(Speaking of which, where's Rinne...?)	
+Message	Rinne	Shiiiido?	
+Message	Shido	Whoa!	
+Message	Rinne	What's wrong?	
+Message	Shido	It's nothing. More importantly, school's out.	
+Message	Rinne	Oh, yeah. Do you still not have any plans?	
+Message	Shido	"Yeah, but it's rare for you to invite me anywhere.
+So what's up? Shopping?"	
+Message	Rinne	Um... Let's go over there.	
+Message	Shido	Okay...?	
+Message	Rinne	Yeah... Is here okay?	
+Message	Shido	Yeah...	
+Message	Shido	...So, what's wrong?	
+Message	Rinne	Um, Shido...	
+Message	Rinne	Do you... want to go on a date?	
+Message	Shido	Huh?	
+Message	Shido	U-Ummm...	
+Message	Rinne	Really... what's with that face?	
+Message	Shido	"No, it's just... up until today, whenever
+I invited you anywhere..."	
+Message	None	"(No matter how many times I tried to invite her
+out, she asked me to invite others, or she called
+someone else over to avoid being alone with me...)"	
+Message	Shido	...What's with the sudden 180?	
+Message	Rinne	"Hehe... There's nothing to it.
+A girl's heart can change."	
+Message	None	(More like transform completely...)	
+Message	Rinne	So then, um... What do you think?	
+Message	Shido	Uh, yeah. I have no reason to refuse.	
+Message	Rinne	Really? Thank goodness!	
+Message	Shido	Y-Yeah...	
+Message	None	"(And so, I ended up going on
+a date alone with Rinne.)"	
+Message	Rinne	Ummm... I wonder where it was...?	
+Message	Shido	"What's wrong, Rinne? Are you
+looking for something?"	
+Message	Rinne	"Ah, yeah... just a second. I'm pretty sure it
+was around here somewhere..."	
+Message	Rinne	―Oh, there! Shido, I'd like to try eating that!	
+Message	Shido	"Hm? Oh, I see. Popsicles, huh? You mentioned them
+this morning when we were talking about summer."	
+Message	Rinne	Yeah!	
+Message	Shido	"All right, I'll go buy them. What flavor
+would you like, Rinne?"	
+Message	Rinne	Oh, no. Don't worry about it. It's fine.	
+Message	Shido	Huh?	
+Message	None	(She doesn't have to refuse so stubbornly...)	
+Message	Rinne	"I-I thought maybe I'd like to look at
+all the choices... You know?"	
+Message	Shido	I see... Then can I ask you to get mine too?	
+Message	Rinne	Yeah. Leave it to me.	
+Message	None	(Did something like this happen before?)	
+Message	Rinne	Well then, I'll go on ahead!	
+Message	Shido	All right. I'll be waiting here.	
+Message	Rinne	Okay!	
+Message	Rinne	Sorry I'm late.	
+Message	Shido	"Oh, what did you end up getting? You really
+took a—wh-whoa!"	
+Message	Rinne	"Ehehe... I got kind of carried away
+and maybe bought too many..."	
+Message	Shido	"No matter how you look at it, there's no
+way two people can eat all this..."	
+Message	Rinne	"Since we're here, I wanted to try a bunch of
+different flavors. You'll help me, right Shido?"	
+Message	Shido	"Well, you did buy them, so all we can do now
+is eat them before they melt."	
+Message	Rinne	Thank you. Let's try our best.	
+Message	Shido	"I'm trying to think of a scenario where eating all
+of these at once would be a good thing, but..."	
+Message	None	"(What is it? It really does feel like
+this happened before...)"	
+Message	Rinne	Shido? If we don't hurry, they'll melt.	
+Message	Shido	"Oh, right! But, there's no place here
+to sit and eat all of these."	
+Message	Shido	"All right, let's go to the park! Hurry, Rinne!
+They're already melting!"	
+Message	Rinne	Y-Yeah!	
+Message	Shido	"Aw, man... That was delicious! Popsicles really
+are the best in summer."	
+Message	Rinne	I-If's cold and... delifious...	
+Message	Shido	"Yeah... Hey, Rinne! It's melting more
+from the side where you're eating!"	
+Message	Rinne	Urf...! E-Efen if you shay that...!	
+Message	Shido	Crap, it's good... but my head's all frozen over―	
+Message	None	(―?! W-Was it Yoshino...?!)	
+Message	None	"(Why Yoshino...? Did I ever eat
+popsicles with Yoshino?)"	
+Message	Rinne	......	
+Message	None	"(No... but for some reason I have a memory of it.
+When would it have been...?)"	
+Message	Shido	Hey, Rinne... This is a strange thing to ask, but―	
+Message	Rinne	This is... pretty good.	
+Message	Shido	Huh...? What is―	
+Message	Rinne	"Ah! Goodness, Shido... It's melting...
+There's ice on your finger―"	
+Message	Rinne	Om...!	
+Message	Shido	R-Rinne?!	
+Message	Rinne	No, you have to stay still...	
+Message	Rinne	I have... to make it... clean...	
+Message	Shido	B-But―	
+Message	None	(―?!)	
+Message	None	(Th-This happened before, too...!)	
+Message	Shido	R-Rinne! I-It's fine already, so―!	
+Message	Rinne	I guess... I'm not good enough.	
+Choice		Ask Rinne something.	
+Choice		Worry about Rinne.	
+Message	Shido	Rinne... Is there something you're hiding from me?	
+Message	Rinne	......	
+Message	Shido	"Hey, Rinne... Could you please tell
+me what you know?"	
+Message	Rinne	Ah, Shido... Behind you...	
+Message	Shido	"Please. I'm begging you! Just a little more,
+and I feel like it'll all connect! I want to
+hear what you have to say..."	
+Message	Rinne	Shido, I'm sorry.	
+Message	Shido	Wh-What? All of a sudden―	
+Message	Rinne	"If you've already realized it,
+then all I can do is this."	
+Message	Shido	Huh?	
+Message	Shido	Wh-What is this place?!	
+Message	Shido	Who is that...?!	
+Message	???	......	
+Message	Shido	H-Hey! S-Stooooop!	
+Message	None	(It's attacking!)	
+Message	Shido	...Huh?	
+Message	None	(There's no mistake. I know this person!)	
+Message	Shido	Aaaaagghhh...!!!!!	
+Message	None	"(With no time to identify the source of that
+strange feeling, I passed out.)"	
+Message	Shido	H-Hey, Rinne, what's wrong? Are you okay?	
+Message	Rinne	"Huh? Um, yeah. I'm fine... It looks
+like I just ate too many popsicles!"	
+Message	Shido	"I-I see... Well, don't push yourself.
+If you force it, it won't taste as good."	
+Message	Rinne	Y-Yeah, that's true...	
+Message	Shido	Huh?! H-Hey! Rinne?!	
+Message	Rinne	Ehehehe... Sorry... I might be a little anemic.	
+Message	Shido	Are you okay?!	
+Message	Rinne	"Yeah, I'm fine... If I just rest a little...
+I'm sure I'll feel better soon..."	
+Message	Shido	If you're sure... then let's rest a bit for now.	
+Message	Rinne	"I'm sorry, Shido. Even though it
+was our date and everything..."	
+Message	Shido	"Don't worry about it, your health
+is more important."	
+Message	Rinne	Thank you... But the popsicles melted...	
+Message	Shido	Well, it can't be helped. These things happen.	
+Message	Rinne	Y-Yeah... Thank you, Shido.	
+Message	None	"(Is Rinne really okay? It's possible that
+I've been relying on her too much.)"	
+Message	Rinne	Shido?	
+Message	Shido	Oh, what is it?	
+Message	Rinne	"It's calmed down mostly, so I'm fine now...
+We should head home."	
+Message	Shido	"I see... Then let's go. But tell me the minute you
+start feeling sick again, okay? We can take our
+time heading back. I can carry you if you need it."	
+Message	Rinne	Y-Yeah. Thank you, Shido.	
+Message	Shido	Of course...	
+Message	Rinne	Shido, how was the dinner?	
+Message	Shido	"Huh? Oh, it was delicious, as always. You could
+open up your own restaurant."	
+Message	Rinne	Goodness, Shido. You're exaggerating.	
+Message	Rinne	～♪ ～♪	
+Message	Shido	Hey, Rinne?	
+Message	Rinne	Hm? What's up?	
+Message	Shido	"Um, starting tomorrow... I'll um, make breakfast
+and bento and stuff, so you don't have to come
+over to help or anything, okay?"	
+Message	Rinne	Huh...?	
+Message	Shido	"Well, you collapsed at the park today, right?
+I thought maybe... you might be pushing
+yourself a lot..."	
+Message	Rinne	Th-That's not true at all.	
+Message	Shido	"But these are things I should be doing by myself
+anyway. And you can't always be looking after
+the house, right?"	
+Message	Rinne	"It's really not like that... I'm doing this
+because I want to and..."	
+Message	Shido	"But even so, especially with the test coming up,
+I don't think it's good for me to be constantly
+relying on you."	
+Message	Rinne	......	
+Message	Shido	"I'd be more worried if I continued to let you push
+yourself and cause you to collapse again."	
+Message	Rinne	"I see... I guess I... really
+was just in the way..."	
+Message	Shido	No, that's not it! You've been a huge help, Rinne!	
+Message	Rinne	Then... Can I come tomorrow to help, too?	
+Message	Shido	"Ngh...! But, it's just... I'd just like you
+to at least rest during our test period..."	
+Message	Rinne	"I don't like this... It really feels
+like I'm in the way..."	
+Message	Shido	That's not what I mean at all!	
+Message	Rinne	It's okay, you don't have to reassure me. Okay?	
+Message	Shido	Even if you say it's okay, I...	
+Message	Rinne	"It's fine! Everything's just fine
+the way it is now!"	
+Message	Shido	R-Rinne...?	
+Message	Rinne	"I can take care of myself! I won't cause
+you any trouble, Shido! So, please...!"	
+Message	Shido	"You're that concerned about me...?
+Then, especially because of that, I..."	
+Message	Rinne	Shido!	
+Message	Shido	"Ahh, jeez! I got it, I got it! I understand!
+Then when it's really too much,
+you have to tell me, okay?"	
+Message	Rinne	"Yes, I know. Thank you, Shido.
+I'm sorry for pushing it."	
+Message	Shido	No, there's nothing to apologize for.	
+Message	Shido	About the investigation?	
+Message	Kotori	"Today, there was a huge reaction from a
+powerful but unstable spiritual energy."	
+Message	Shido	D-Did something happen to the Spirit?	
+Message	Kotori	"We haven't determined whether
+or not it's a Spirit yet..."	
+Message	Shido	I see... So, what was the reaction?	
+Message	Kotori	"It was brief, but the spiritual wave pattern that
+we previously identified as unstable
+began to stabilize. Only..."	
+Message	Shido	Only?	
+Message	Kotori	"In the end... it became severely distorted
+and grew even more unstable."	
+Message	Shido	"That means if that spiritual power
+were to go berserk..."	
+Message	Kotori	"That'll be it. I've said this before, but it's
+likely to be a repeat of the great Eurasia
+Disaster."	
+Message	Shido	......	
+Message	Kotori	Just what in the world is happening...?	
+Message	Shido	I can't even begin to imagine...	
+Message	Kotori	"You're right. It's our job to figure it out. We've
+got to find a way to dispel this barrier. Or...
+avoid a situation where we all blow up together."	
+Message	None	(Kotori seems really backed into a corner...)	
+Message	Kotori	"What's certain is that we have even less wiggle
+room than we thought. We need some sort of clue
+about whatever trapped us in this barrier..."	
+Message	Shido	Tell me if there's anything I can do to help.	
+Message	Kotori	"Shido, you're the one holding onto the reins of
+the Spirits. You'd better be careful to make sure
+you don't cause them to lose control."	
+Message	Shido	I understand...	
+Message	Kotori	I'll be turning in for today, then.	
+Message	Shido	All right, good night...	
+Message	Kotori	Yeah. Good night, Onii-chan.	
+Message	Shido	An unstable enemy, huh...?	
+Message	Shido	There's still so much we don't understand...	
+Message	None	"(I finally started to think of what might happen
+if I don't study for the test. But it's no use.
+I can't concentrate at all.)"	
+Message	None	"(Maybe I'm still not fully recovered yet. Even
+though I'm forcing myself, I'm still
+really struggling...)"	
+Message	None	"(Maybe instead of pushing myself, if I just relax
+a little bit, I might be able to switch back.)"	
+Message	None	(...For now, I'll go to the bathroom.)	
+Message	Shido	Yaaaawn...	
+Message	Shido	Gah! K-Kotori?!	
+Message	Kotori	...?!	
+Message	Shido	"W-Wait! I didn't do this on purpose! And why
+didn't you lock the door?!"	
+Message	Kotori	Why, you... PERVERRRT!!!!	
+Message	Shido	GAH!	
+Message	Shido	"Ow, ow, ow... I told you, it was an accident!
+I was just spaced out and―"	
+Message	Kotori	"I know. If you did it on purpose, you wouldn't
+be getting off this easily."	
+Message	Shido	Urgh...	
+Message	Kotori	"You'd be arrested and taken away. Your face would
+be all over the news. A certain friend of yours
+would probably end up very popular."	
+Message	Shido	Friend?	
+Message	Kotori	"I figured he'd do it eventually; being called\n'Pretty Boy Itsuka' or 'Sex Animal Itsuka'. But\nto do that to his sister..." Something like that.	
+Message	Shido	That's a weirdly specific comment!	
+Message	Kotori	"If you don't want to end up like that, knock.
+Even an amoeba thinks a little more as it lives."	
+Message	Shido	"A-An amoeba... Anyway, I'll be careful
+next time. But―"	
+Message	Kotori	What?	
+Message	Shido	Are you okay?	
+Message	Kotori	What?	
+Message	Shido	"It's just... You looked pretty tired
+in the bathroom."	
+Message	Kotori	"Hmph, it's all over for me if I'm at the point
+where you're worrying about me."	
+Message	Shido	Hey, I'm being serious, okay?	
+Message	Kotori	I'm fine. It's something else that's the problem.	

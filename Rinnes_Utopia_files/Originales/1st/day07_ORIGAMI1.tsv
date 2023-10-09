@@ -1,0 +1,309 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Mm... Morning already? Kind of rare for me
+to wake up before Kotori wakes me up.)"	
+Message	Origami	No, it's not. Do not put words in my mouth.	
+Message	Shido	"So you're telling me you don't feel anything
+when you're fighting a Spirit?! When you
+hurt them?!"	
+Message	Origami	My heart feels nothing.	
+Message	Shido	That's a lie!	
+Message	Origami	No, it's not!	
+Message	Shido	Why are you so stubborn?!	
+Message	Origami	What?! Th-That's because you...	
+Message	Shido	Don't put this on me!	
+Message	Origami	"I... I hate the Spirits! That's why I joined the
+AST! To defeat them... To avenge the murder
+of my parents!"	
+Message	Shido	...!	
+Message	Origami	"This is all... I've lived for! Since that fateful
+day, five years ago!"	
+Message	Origami	"So, until I've enacted my vengeance, I cannot
+laugh. No, I mustn't laugh!"	
+Message	Shido	Origami...	
+Message	None	(I'll never give up...)	
+Message	None	"(That's what I told her, but I don't know where
+that path will lead me.)"	
+Message	None	"(But it's not a lie. It's how I truly felt. I want
+Origami to smile. For us to laugh together.)"	
+Message	None	"(It's none of my business, and I'm being
+selfish.)"	
+Message	None	"(No, it is totally selfish, but my heart tells
+me I can't leave her alone in this.)"	
+Message	None	"(I mean, she works so hard, but she's not allowed
+to smile? That's tragic!)"	
+Message	None	"(What's stopping Origami from smiling... is the
+Spirits.)"	
+Message	None	"(Only by defeating all of the Spirits will
+Origami smile again.)"	
+Message	None	"(NO! I can't let that happen. For both the
+Spirits and Origami.)"	
+Message	None	"(If you get your smile back after hurting
+someone, or taking a life, that isn't true
+happiness. That's not the Origami I know.)"	
+Message	None	"(Instead, if Origami were to kill a Spirit, then
+her heart would truly die. She would never
+smile again.)"	
+Message	None	"(I won't let that happen. Neither the Spirits
+nor Origami's heart will die!)"	
+Message	None	"(What can I do, though? Argh! I don't know!
+I'm helpless, but I still...)"	
+Message	???	Shido.	
+Message	Shido	OH! Origami. Sorry for calling you out.	
+Message	Origami	"...I do not mind. What did you wish to speak
+about?"	
+Message	Shido	Origami, let's go on a date!	
+Message	Origami	Why?	
+Message	Shido	Wh-What do you mean why?	
+Message	Origami	"Shido, no matter how many dates we go on,
+I won't smile. I cannot."	
+Message	Shido	We won't know until we try.	
+Message	Origami	...	
+Message	Shido	"Let's start, Origami. This is a war between you
+and me!"	
+Message	Origami	A war...?	
+Message	Shido	"Yeah! A war called a date! I'll make you fall for
+me, and you'll have no choice but to surrender
+a smile!"	
+Message	Origami	...	
+Message	Origami	...	
+Message	Shido	Hey, Origami?	
+Message	Origami	Wh-What is it?	
+Message	Shido	"We've been wandering all over the shopping
+district, but why don't we actually shop?"	
+Message	Origami	I do not mind.	
+Message	Shido	"I know this isn't the most romantic date, but
+I thought maybe we could get groceries for
+dinner... HEY!"	
+Message	Origami	What is wrong?	
+Message	Shido	"We're in luck, Origami! Today's the first Sunday
+of the month!"	
+Message	Origami	Huh...?	
+Message	Shido	"Oh. Don't you know? The "Sample Stamp Rally"
+takes place on the first and last Sundays of the
+month."	
+Message	Origami	Sample Stamp Rally? What is that?	
+Message	Shido	"Origami, I thought you knew everything.
+Guess not?"	
+Message	Origami	"That is an unfair critique. One cannot be aware
+of all city events and functions."	
+Message	Shido	Gotcha. I was just making an assumption. Sorry.	
+Message	Origami	No problem. You can teach me.	
+Message	Shido	All right. Let's enjoy the event while it's on.	
+Message	Origami	Roger.	
+Message	Shido	This way!	
+Message	Clerk	Welcome, welcome! The stamp rally is today!	
+Message	Clerk	"Visit all food sample stations to collect all of
+the stamps. You'll get a raffle ticket for the
+chance to win ¥1000 worth of items! Good luck!"	
+Message	Shido	Excuse me! Could I please get two stamp cards?	
+Message	Clerk	Welcome! Sure, take your time!	
+Message	None	"(The card I received had vegetables, meat,
+seafood, and side-dish symbols.)"	
+Message	Shido	"Here, Origami! This is your card, okay?
+We need to start with the veggies, then meat,
+fish, and side dishes to collect stamps, okay?"	
+Message	Origami	...Roger.	
+Message	Shido	All right. Let's hit the vegetable corner.	
+Message	Origami	Since when has this been a thing?	
+Message	Shido	"Oh, um, it's pretty recent. Since the Tengu
+Quintet was made. Customers are starting to
+flock there instead of the shopping district."	
+Message	Shido	"Soon, they're going to build the Neo Tengu
+Tower, which they said will be filled with
+shops."	
+Message	Shido	"All of the storeowners got together to think of
+ways to keep business fresh here. They throw
+events all the time now. Guess this is one of 'em."	
+Message	Origami	I see. Now, I know.	
+Message	Shido	"Okay! Let's go. The veggie sample of the day
+is..."	
+Message	Origami	There.	
+Message	Shido	Oh, good eye!	
+Message	Clerk	"They're comparing cucumbers from other regions
+and Tengu City. Give it a taste!"	
+Message	Shido	Okay!	
+Message	Clerk	"Hey, cutie. Please try one. I topped it with miso,
+so let me know what you think!"	
+Message	Origami	To try? Roger.	
+Message	Shido	So this is from another region?	
+Message	Origami	And this is from Tengu City.	
+Message	Clerk	Whaddya say? Which is better?	
+Message	Shido	"Mm! I can tell after trying both! Tengu City's
+cucumber is richer in flavor!"	
+Message	Origami	Very juicy.	
+Message	Clerk	"Right? It pairs with anything! If you want,
+I can wrap one up for you."	
+Message	Shido	"Oh, sorry. We planned to make curry today,
+so we don't need any—"	
+Message	Origami	I'll take three.	
+Message	Shido	Huh? Origami?	
+Message	Clerk	Thank you! It'll be ¥178 for three!	
+Message	Origami	"Simply trying all of the samples without
+purchasing one is poor etiquette."	
+Message	None	(Gah! That's how it is, huh?!)	
+Message	Clerk	"Here you go. ¥322 is your change. Don't
+forget your stamp. Thanks for coming.～"	
+Message	Shido	You wanna head to the next stall?	
+Message	Origami	"We're not going to purchase onions, potatoes,
+and carrots?"	
+Message	Shido	"Oh, I will! Okay. Once we get the ingredients,
+let's head for the meat sample."	
+Message	Origami	The meat sample is over there, no?	
+Message	Shido	What?	
+Message	Origami	They're comparing pork and beef.	
+Message	Shido	Amazing, Origami. You visited it already?	
+Message	Origami	I have memorized the store's layout now.	
+Message	Shido	"Got it. Well, let's keep making our rounds
+to collect stamps."	
+Message	Origami	...	
+Message	None	"(We gathered all of our ingredients for
+dinner, and completed our stamp cards.)"	
+Message	None	"(It's crazy. I never expected Origami to
+buy something at every single stall. She's
+practically the perfect customer for the event.)"	
+Message	None	"(But being able to try the delicious samples
+with Origami was an afternoon well spent
+in my book.)"	
+Message	None	"(If I ever get with Origami, I wonder if this is
+how we'd shop together. Sampling things, and
+she'd kindly buy ingredients before we argue.)"	
+Message	None	(What a lovely thought.)	
+Message	None	(In the end, we didn't win anything.)	
+Message	None	"(But Origami's expression was stoic until the
+end, and she didn't smile once.)"	
+Message	None	"(Origami had her guard up earlier today, but
+she gradually lowered it throughout the day.
+It put my mind at ease.)"	
+Message	Shido	Here I go!	
+Message	Shido	Man, I might've bought too much.	
+Message	Origami	Perhaps.	
+Message	Shido	Oh well.	
+Message	None	"(Curry can be made and frozen for another
+time.)"	
+Message	Origami	Shido?	
+Message	Shido	Hm?	
+Message	Origami	Sit. I'll bring you some tea.	
+Message	Shido	Okay.	
+Message	None	(Phew. I ate so many samples I'm still full.)	
+Message	Origami	Here you go.	
+Message	Shido	Oh, thanks.	
+Message	Origami	Is our date over already?	
+Message	Shido	"Hm? Pretty much. Shopping was the main
+thing."	
+Message	Origami	Understood. Forgive me.	
+Message	Shido	"Huh? Why are you apologizing? Oh, did you
+not have fun? I should be the sorry one."	
+Message	Shido	"I don't blame you. Grocery shopping isn't
+anyone's ideal date."	
+Message	Origami	That's not true.	
+Message	Shido	Huh?	
+Message	Origami	I had fun. A lot of it.	
+Message	Shido	Then, why were you apologizing?	
+Message	Origami	"I had fun today, but I still couldn't bring
+myself to smile. I know how hard you worked."	
+Message	Shido	Origami...	
+Message	Origami	"I wanted to smile, but that day—myself from
+five years ago—wouldn't let me. So, forgive me."	
+Message	Shido	I see, but that's nothing to apologize for.	
+Message	Shido	"I think you got me all wrong. You say it like
+this is our last date ever."	
+Message	Origami	Wait, what do you mean? You said it's over—	
+Message	Shido	"I was talking about shopping. We have to start
+preparing our homemade curry, don't we?"	
+Message	Origami	...We do.	
+Message	Shido	"Even if today's date ends, the war between you
+and me wages on."	
+Message	Origami	...?	
+Message	Shido	I won't quit until I make you giddy!	
+Message	Origami	Shido...?	
+Message	Shido	"Origami. Five years ago, the Spirits took your
+life away. Your parents, and the moments you
+could've spent with them. Your smile, your heart."	
+Message	Origami	...	
+Message	Shido	"I can't imagine how deep the hatred goes, and
+I could never grasp it. That, I know."	
+Message	Shido	"But... will your war against the Spirits
+really end if you kill them all?"	
+Message	Shido	"Your heart froze five years ago. Has time
+truly stopped for you?"	
+Message	Origami	...	
+Message	Shido	"Even if that's the case, I will not give up.
+I don't want to... I'm going to end your
+vendetta. That's my mission!"	
+Message	Shido	"Years. Decades. No, I don't care if it kills me.
+I'll fill you with so much love, you can't help
+yourself from smiling!"	
+Message	Origami	"Shido, you're giving me the wrong idea. It
+is as if—"	
+Message	Shido	"Origami, won't you be with me? Tomorrow,
+the day after, and the day after that..."	
+Message	Origami	...?!	
+Message	Shido	"Today, as we were shopping, all I could think
+about was growing old and doing the same thing.
+I wondered what it'd be like if we were..."	
+Message	Origami	Shido...?	
+Message	Shido	"In being with you... I want to know what kind of
+place I hold in your heart. I don't know what
+the future has in store for us."	
+Message	Shido	"But I'll take whatever I can get. Like today's
+date. If we can spend time together having
+fun, then some day..."	
+Message	Shido	"Someday, if I can occupy a bigger place in
+your heart than your hatred, would it make
+a difference?"	
+Message	Origami	...	
+Message	Shido	"I... I don't want you to seek closure through
+violence. Doing that wouldn't restore your
+happiness. You'd be gone forever, Origami."	
+Message	Origami	...	
+Message	Shido	Won't you give me a chance, Origami?	
+Message	Origami	Huh?	
+Message	Shido	I want to be with you!	
+Message	Shido	"Whatever happened five years ago...
+Your heart, your smile, I accept you for who
+you are, and I want to help you get them back!"	
+Message	Origami	Shi...do...	
+Message	Shido	"I know it's easier said than done. Anything
+could happen beyond this point. We might
+still have to fight the Spirits."	
+Message	Shido	"But I'll accept whatever fate comes. You,
+your enemies, everything!"	
+Message	Origami	Well...	
+Message	Origami	Oh!	
+Message	Shido	Is that enough, Origami?	
+Message	Origami	You're unfair, Shido.	
+Message	Shido	What?	
+Message	Origami	How could I refuse?	
+Message	Shido	Origami...	
+Message	Origami	But I still don't think I can smile.	
+Message	Shido	I vow to make you smile.	
+Message	Origami	This is not a war you can win, Shido.	
+Message	Shido	Keep thinking that, but I will!	
+Message	Origami	...	
+Message	Origami	Shido...?	
+Message	Shido	Yeah?	
+Message	Shido	O-Origami...	
+Message	Origami	...	
+Message	Shido	...!	
+Message	Origami	Shido.	
+Message	Shido	S-Sorry!	
+Message	None	"(Why's Kotori calling? I wonder if she needs
+something.)"	
+Message	None	"(Something feels strange. Like a haze or unease
+in the back of my mind. Is it a premonition?)"	
+Message	Rinne	"Please, I want you to promise me. That you'll\ncherish Tobiichi-chan. That you won't ever\nlet her go. Promise me."	
+Message	None	"(All of a sudden, what Rinne said came back to
+me. Origami and I were here together. I can't
+possibly interrupt this moment.)"	
+Message	None	"(I could call her back. It might be serious,
+but if I answer the phone, I'll miss out on this
+precious moment.)"	
+Message	None	"(I can't let this moment slip, but what if it's
+something urgent? Decisions...)"	
+Message	None	(I feel queasy. Why am I so anxious?)	
+Message	Origami	Shido?	
+Message	Shido	Y-Yeah...	
+Message	None	"(That's right. I know what to do.
+I'm going to...)"	
+Choice		Answer.	
+Choice		Don't answer.	

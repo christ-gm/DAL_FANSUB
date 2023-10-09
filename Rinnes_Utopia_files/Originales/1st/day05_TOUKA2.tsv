@@ -1,0 +1,132 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Hmmm, I thought I'd go on a date with Tohka,
+but... If she went home early, then...)"	
+Message	None	"(It can't be helped, so I guess I'll just buy
+stuff for tonight's dinner and head home.)"	
+Message	None	"(Hmmm, I still have a lot of time.
+I guess I'll buy things for dinner
+and then go on a date...)"	
+Message	None	(Hm?)	
+Message	Shido	Was that Tohka just now?	
+Message	None	"(Isn't that an udon restaurant over there? I
+don't usually go there, but it's pretty popular.)"	
+Message	None	"(If that really was Tohka just now, it bothers
+me... Should I go peek just to check...?)"	
+Choice		Peek into the udon store.	
+Choice		Do your shopping and hurry home.	
+Message	Shido	Let's see, Tohka is... there!	
+Message	Tohka	"Hmmmmm... To eat...? Or not to eat...?
+I did refuse Shido's bento... Ohh..."	
+Message	None	(Huh? T-Tohka...?)	
+Message	Tohka	Hmmmmm...	
+Message	Tohka	B-But then...	
+Message	Tohka	Urgh...	
+Message	Tohka	I did order it and everything, so just one bite...	
+Message	None	(Tohka... What is she doing...?)	
+Message	Tohka	"Yes, one bite... Just one bite!
+I'm sure Shido would forgive me!"	
+Message	Shido	Me? What is she talking about?	
+Message	Tohka	Mm! Delicious! My chopsticks won't stop moving!	
+Message	None	"(The mountain of tempura packed high into the bowl
+disappeared in no time, as if being cleaved away
+by an excavator.)"	
+Message	Tohka	Mmm... That was amazing! Oh...?!	
+Message	Tohka	N-Now I've done it... I ended up eating it all...	
+Message	None	"(Haha... Tohka has an impressive appetite.
+Oh, she's coming out of the restaurant.
+I should call out to her.)"	
+Message	Shido	Hey, Tohka!	
+Message	Tohka	Sh-Shido?!	
+Message	Shido	"Haha, you really were hungry, huh?
+We could have eaten lunch together, you know."	
+Message	Shido	"Haha, it looks like you were pretty hungry.
+Even the staff was surprised by your appetite,
+you know?"	
+Message	Tohka	―?!	
+Message	Shido	Hmm? What's wrong?	
+Message	Tohka	A-Aaahhh... Urgh... *sniffle*...!	
+Message	Shido	Huh? T-Tohka?	
+Message	Shido	Ah! Tohka?! Wait a sec―	
+Message	Shido	H-Hey! Tohkaaaa!	
+Message	Shido	"What on earth is going on?
+Did I do something wrong again...?"	
+Message	Shido	*Sigh...*	
+Message	Shido	Yeah, I'll do my shopping and hurry home.	
+Message	Shido	"I'm glad I got a great deal on that meat for the
+sukiyaki... I hope this'll cheer Tohka up
+a little."	
+Message	Shido	"All right! With all the good, cheap meat I bought,
+I'll take care of tonight's dinner!"	
+Message	None	(Oh, it's Kotori.)	
+Message	Kotori	"Shido, what are you doing? Tohka's mental graph\nhas completely slumped!"	
+Message	Shido	Err... Well that's...	
+Message	Shido	Huh...?	
+Message	None	"(D-Did I mess up again...? I've slipped up so
+much, I can't begin to make a guess which mistake
+caused this one...)"	
+Message	Kotori	"You have some idea why, don't you?"	
+Message	Shido	I kind of do... But I also kind of don't...	
+Message	Kotori	"Well, that's helpful. I heard from Reine that
+Tohka apparently left early to go home."	
+Message	Shido	"Yeah, I was thinking about going on a date with
+her, but that schedule ended up not working out..."	
+Message	Kotori	"So, what exactly are you doing right now?"	
+Message	Shido	Buying dinner. I thought I'd make sukiyaki today.	
+Message	Kotori	"You idiot. If that was enough to improve her\nmood, she wouldn't have left early. This can't\njust be because she's hungry, right?"	
+Message	Shido	B-But even so... I have no idea what else to do...	
+Message	Shido	So, where is she right now?	
+Message	Kotori	"She's back home and currently\nholed up in her room."	
+Message	Shido	I-In her room...?	
+Message	Kotori	"How long are you going to just stand there? Isn't\nthis what you live for? Going to help someone\nwho's in pain?"	
+Message	Shido	R-Right! You're right!	
+Message	Shido	R-Right... You're right!	
+Message	Kotori	"Phew... Try not to screw it up."	
+Message	Shido	"I-I'm sorry! But thanks to you, I feel like I've
+woken up! Thanks, Kotori!"	
+Message	Shido	"S-Sorry... I shouldn't have just been shopping
+while Tohka was in pain."	
+Message	Shido	"I'd usually go running straight to her... Because
+of you, I've woken up. Thanks, Kotori!"	
+Message	Kotori	"It's fine, just get a move on and hurry home!"	
+Message	None	Wait for me, Tohka!	
+Message	None	Wait for me, Tohka...!	
+Message	None	(Now then... Tohka's in her room...)	
+Message	None	"(I'll stop thinking too hard about
+how to patch things up.)"	
+Message	None	"(All I can do now is face Tohka and my feelings
+head on. That's all...)"	
+Message	None	"(I may end up hurting her again... But we can't
+move forward otherwise!)"	
+Message	None	(All right! I'm going!)	
+Message	None	"(There's no point in trying to think so hard
+about things anymore.)"	
+Message	None	"(All I can do right now is face Tohka head on
+and try my best to save her. That's all...)"	
+Message	None	"(I might end up hurting her again somehow...
+But, we can't move forward otherwise!)"	
+Message	None	(All right... I'm going!)	
+Message	Shido	T-Tohka? It's me. Can I come in?	
+Message	Tohka	―?!	
+Message	Shido	I-I'm coming in...	
+Message	None	(The door is locked...)	
+Message	Tohka	L-Leave me alone...!	
+Message	Shido	"I want to talk to you, Tohka.
+Could you please open the door?"	
+Message	Tohka	I...I don't want to see you right now!	
+Message	Shido	"Why not?! If it's something I did, I'll apologize.
+Just let me apologize properly, so―"	
+Message	Tohka	Y-You didn't do anything, Shido! Shido, you...	
+Message	Shido	Tohka?	
+Message	Tohka	"I don't want you to...
+hate me any more than this..."	
+Message	Shido	Hate you...?! Me, hate you?	
+Message	Tohka	"Th-This isn't... How it was supposed to be...
+It wasn't how it..."	
+Message	Shido	"H-Hey... What are you talking about?
+I would never hate you, Tohka!"	
+Message	Tohka	......	
+Message	Shido	"Tohka! Tomorrow, I'll invite you out again!
+So... Please go out on a date with me,
+one more time!"	
+Message	Tohka	Sh-Shido... Okay.	
+Message	Shido	It's a promise! I promise you, okay?	

@@ -1,0 +1,42 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Lots of odd things happened today, things I would
+never have experienced in a normal setting. It was
+all so draining and I just wanted to rest, but...)"	
+Message	Shido	*Sigh*...	
+Message	Tohka	What's the matter, Shido?	
+Message	Shido	"Just wondering what you guys are doing
+in my room..."	
+Message	Kotori	Well, we don't know what else to do in this world.	
+Message	Kurumi	Oh, it appears that we are all gathered.	
+Message	Shido	No, uh... It's more like a girls' night in...	
+Message	None	"(I thought I'd be able to rest up tonight...
+Wait, Arusu is sitting over there...)"	
+Message	Arusu	...	
+Message	Shido	Arusu, you're not going to join them?	
+Message	Arusu	Correct. I am simply observing the situation.	
+Message	Shido	I see. So, have we been helpful to you?	
+Message	Arusu	"Yes. By creating an unusual simulation, I was able
+to gather some interesting data. But... I think I
+still lack sufficient information to define love."	
+Message	Shido	Well, I did sort of question your methods...	
+Message	Arusu	"Observing your behavior in various situations
+allows me to collect more data in regards to love."	
+Message	Shido	So... We're still going to continue?	
+Message	Arusu	"Yes. At this point, this is the best way to gather
+information."	
+Message	Shido	I-I see...	
+Message	None	"(I wonder what kind of situation would be best
+to show what love is.)"	
+Message	None	(...I guess the situation can't be helped.)	
+Message	Shido	"But it's crazy to see so many people in this room.
+I guess I'll just sit and watch for a little
+while."	
+Choice		Talk to Tohka.	
+Choice		Talk to Origami.	
+Choice		Talk to Yoshino.	
+Choice		Next	
+Choice		Talk to Kotori.	
+Choice		Talk to the Yamai Sisters.	
+Choice		Talk to Miku.	
+Choice		Back	
+Choice		Talk to Kurumi.	

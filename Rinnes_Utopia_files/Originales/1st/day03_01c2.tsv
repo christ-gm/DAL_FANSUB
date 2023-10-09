@@ -1,0 +1,61 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Oh, Tohka...	
+Message	None	"(So, Tohka really did head to class early.
+How unlike her...)"	
+Message	Tohka	Zzz...zzz...	
+Message	Shido	"Oh. Tohka, it's nice of you to come early,
+but not if you're asleep."	
+Message	None	"(Was she up that late last night...?
+Yet she's here at school so early.)"	
+Message	None	(Hmm, I don't get her.)	
+Message	None	"(But man... She's so carefree.
+I guess that's what makes her
+so cute...)"	
+Message	None	"(Oh... I guess I'll pretend that I didn't see
+the drool coming out of her mouth...)"	
+Message	None	"(Hm?! Wh-What is that?! It feels like I'm
+being watched all of a sudden!)"	
+Message	Origami	...	
+Message	Shido	?!	
+Message	Shido	Y-Yo... Oh, it's you, Origami! Morning.	
+Message	Origami	Morning.	
+Message	None	(Is it me, or does she seem angry?)	
+Message	None	"(All right. Made it past my afternoon class
+despite feeling ready to doze off!)"	
+Message	Tohka	*snore*... Zzzz...*snore*... Zzz...	
+Message	None	"(T-Tohka... ended up sleeping through the
+whole class. Oh well, guess I can wake her
+up so we can eat lunch together.)"	
+Message	Shido	Hey Tohka, wake up already. Wanna eat lunch?!	
+Message	Tohka	*yawn*...	
+Message	Shido	"You slept through the whole class, yet you're
+still tired?"	
+Message	Tohka	Hm?! Sh-Shido?! What time is it?!	
+Message	Shido	It's lunch time. Rinne made us lu—	
+Message	Tohka	HM?! Lunch, you say?! Wait, Shido!	
+Message	Shido	Hm? What is it?	
+Message	Tohka	Sh-Shido! Eat this at once!	
+Message	Shido	What's this...?	
+Message	None	"(Tohka handed me what appeared to be
+a hastily-packed bento box, with a ribbon
+that was sloppily tied.)"	
+Message	Tohka	I-I tried making lunch!	
+Message	Shido	"What?! To-Tohka, you made this? All by
+yourself?"	
+Message	Tohka	Y-Yes!	
+Message	None	"(Oh...! Wait... So the one moving about
+downstairs last night was Tohka?!)"	
+Message	Tohka	"Sh...Shido, do you not want to eat
+the lunch I made?"	
+Message	Shido	No! It's not that, but...	
+Message	None	"(What do I do?! We also have Rinne's bento,
+who made them in the middle of her morning
+rush...)"	
+Message	None	"(But Tohka—judging from how she's acting—
+must've spent all night making this, and she
+left just before Rinne came downstairs.)"	
+Message	None	"(Tohka worked so hard for my sake...
+C-Could I really betray her...?)"	
+Choice		Eat Tohka's bento.	
+Choice		Offer her Rinne's bento.	
+Choice		Run for it.	

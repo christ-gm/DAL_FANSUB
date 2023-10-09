@@ -1,0 +1,285 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(All right. So class has begun, but...)	
+Message	None	"(It's nice that Maria is calm, but she seems kind
+of bored.)"	
+Message	None	"(Maybe I can talk to her quietly... To where it
+won't be disruptive to the class.)"	
+Message	Shido	"All right, Yoshino is focused on teaching. I think
+now's a good time... Maria... Maria!"	
+Message	Maria	"What is the matter, Shido? Shouldn't you refrain
+from talking during class?"	
+Message	Shido	"Well yeah, but I was just curious about you. If
+you have any questions, you can ask me."	
+Message	Maria	"Questions? There is nothing that I need to ask at
+this moment."	
+Message	Shido	"I-I see. You must be smart... But I guess that
+would make sense."	
+Message	Shido	"Oh, but you can ask about other things. Hmm, like
+if you're curious about what's being taught, you
+can participate in the discussion, right?"	
+Message	Maria	"You have a point. Okay, I can try asking a few
+questions."	
+Message	Shido	All right, give it a shot.	
+Message	Maria	"Teacher, I have a question about the
+subject matter."	
+Message	Yoshino	Oh... O-Okay! Wh-What is it... Arusu-san...?	
+Message	Maria	The English earlier seemed to be misused.	
+Message	Yoshino	Wh-Wha...?	
+Message	Student A	*Whisper, whisper*...	
+Message	Student B	I wonder if that Arusu-san is really smart.	
+Message	Student C	Maybe she's an international student?	
+Message	Tonomachi	"A harsh comment toward Yoshino-sensei...! Woo,
+Arusu-chan is so cool!"	
+Message	Yoshino	"U-Um... I taught it exactly the way it was in the
+book."	
+Message	Shido	Maria... That's not good!	
+Message	None	(I signaled an "X" to her and told her to stop.)	
+Message	Maria	Shido, was there a problem with my question?	
+Message	Shido	"Oh uh... I think it was too harsh of a question...
+Maybe you shouldn't point out any errors in the
+course material?"	
+Message	Maria	Understood... I will improve.	
+Message	Maria	"I'm sorry, sensei. I mean to say, why don't you
+try changing the material you are using? This one
+is an older version compared to the international—"	
+Message	Shido	—Maria!	
+Message	Maria	"I thought we could resolve the issue this way...
+Is that an issue?"	
+Message	Shido	"You can't just change the school materials so
+easily... Look, Yoshino is about to cry."	
+Message	Maria	"I can't speak the truth... Class is very
+difficult."	
+Message	Shido	"Well, it's hard to explain, but... it's not right.
+Anyways, sorry, that was my fault for suggesting
+it. Give me some time."	
+Message	Maria	Understood.	
+Message	None	"(I signaled Yoshino to continue on with the class.
+Yoshino just became a teacher, so I feel bad for
+starting all this.)"	
+Message	None	"(This is going to be hard. How can I have Maria
+participate in the classroom?)"	
+Message	None	"(I know... Maybe I can ask someone for ideas. Who
+should I ask?)"	
+Choice		Ask Tohka to help.	
+Choice		Ask Origami for help.	
+Choice		Consult with Kurumi.	
+Choice		Ask for Yoshino's cooperation.	
+Message	Shido	Maybe I can ask Tohka.	
+Message	Shido	Tohka, can I ask you something?	
+Message	Tohka	Hm? What is it, Shido?	
+Message	Shido	"It's Maria. It seems like she's having trouble
+asking the right questions during class. Do you
+have any good ideas?"	
+Message	Tohka	"Oh, really? She certainly flaunted some impressive
+knowledge earlier."	
+Message	Shido	No, I mean something more normal.	
+Message	Tohka	"I see. I don't know too many things, though...
+I've never had difficulty in asking questions."	
+Message	Shido	"Oh, I see... I guess it's a completely different
+case, huh?"	
+Message	Tohka	"But as it is you making the request, I will share
+with Arusu my best question."	
+Message	Shido	"Oh! Thanks, Tohka!
+...Maria, Tohka's calling you."	
+Message	Maria	What is it?	
+Message	Tohka	"Well Arusu, I think this would be the perfect
+question to ask."	
+Message	Maria	"The answer to that question is written on the next
+page."	
+Message	Tohka	"What...? Ohh, so this is the answer?! How did you
+come to that conclusion?"	
+Message	Maria	Well, if you look at the text here...	
+Message	None	(Uh, this is...)	
+Message	Tohka	"Oops. In the end, I couldn't do anything to help,
+and class is already over. Sorry, Shido."	
+Message	Shido	No, it's fine. I'm glad I asked you, Tohka...	
+Message	Tohka	"Wh-What? Really? But she was the one teaching me
+everything."	
+Message	Shido	"Well, when she was teaching you earlier, she
+looked like she was having a little fun."	
+Message	None	"(No matter how hard I think, I usually fail, but
+Tohka's instincts are usually spot on.)"	
+Message	Shido	That's what makes you amazing, Tohka.	
+Message	Tohka	Me, amazing? What are you talking about?	
+Message	None	(This is also going to take some explaining...)	
+Message	Maria	"Shido and Tohka... Thank you for earlier. Because
+of you two, I was able to gain more insight into
+what a class should be.)"	
+Message	Shido	See? Maria's thanking you, too.	
+Message	Tohka	H-Hm, I suppose so... Then, no need to thank me.	
+Message	Maria	"Okay. Shido, there was something I was curious
+about, so I'm going to leave the classroom for a
+little while."	
+Message	Shido	Got it. Later.	
+Message	Maria	Okay. Thank you. Well, then...	
+Message	Shido	"Oh, crap. It's already time for the next class,
+huh? Sorry, Tohka, I'm going to head out."	
+Message	Tohka	"Okay, understood. I'll explain to the
+next teacher!"	
+Message	Shido	Thanks!	
+Message	Shido	Origami, I need to ask you something.	
+Message	Origami	"Got it. I will prepare immediately.
+Give me a moment."	
+Message	Shido	...What?	
+Message	None	"(What is she preparing for? Just as I was
+wondering, Origami put her hand up her skirt...
+Whoa?!)"	
+Message	Shido	"W-Wait, Origami?! Why are you trying to take your
+clothes off?!"	
+Message	Origami	...You said you wanted to ask me something.	
+Message	Shido	"But how does that end up with you taking your
+underwear off?!"	
+Message	Origami	You don't want it?	
+Message	Shido	No, I don't!	
+Message	Origami	...I see.	
+Message	Origami	So what is it, then?	
+Message	Shido	"Oh. I wanted Maria to participate in class more. I
+was wondering if you had any good questions she
+could ask."	
+Message	Origami	Questions?	
+Message	Shido	Yeah. Do you have any ideas?	
+Message	Origami	"I see. She should ask things that the Hermit can
+answer."	
+Message	Shido	You mean Yoshino?	
+Message	Origami	"She asks, the opponent answers. That's what you
+want her to experience, right? Then the type of
+question should allow for that exchange."	
+Message	Shido	"Oh, I see. So you're saying I shouldn't think too
+hard about it. Thanks, Origami!"	
+Message	None	"(Just as Origami suggested, I gave Maria topics
+that Yoshino could discuss. In other words, within
+the range of information in the textbook.)"	
+Message	None	"(Well, it seemed like Maria already knew the
+answer without having to ask, but she seems to be
+understanding the benefits of asking questions.)"	
+Message	Shido	I think she was able to get the feel of it...	
+Message	Origami	Shido...	
+Message	Shido	Oh, Origami. Thanks for earlier.	
+Message	Origami	No problem. I always welcome your requests.	
+Message	Shido	Hahaha. But maybe I was out of line to suggest it.	
+Message	Origami	"Maria Arusu is very intelligent, but she lacks the
+experience to adequately employ her knowledge. I
+think it's good that she gets the gist of things."	
+Message	Shido	Thanks, Origami.	
+Message	Maria	Shido, I need to talk to you.	
+Message	Shido	Sure...?	
+Message	Maria	"There's something I'm curious about, so I'm going
+to leave the classroom for a little bit."	
+Message	Shido	Hey, where are you going? Sorry, Origami... Later!	
+Message	Origami	...You're welcome.	
+Message	Shido	Kurumi, can I ask you something?	
+Message	Kurumi	"Oh, it's very nice that you're consulting me for
+advice, Shido-san. Is it about Arusu-san?"	
+Message	Shido	"Yeah. You see, I want her to participate in class
+to get a better idea of what it really feels like."	
+Message	Shido	"Do you know of any good ways for her to do so,
+Kurumi?"	
+Message	Kurumi	I don't believe you need to think too hard on it.	
+Message	Shido	Any ideas?	
+Message	Kurumi	"I think that Arusu-san is asking questions at her
+specific intelligence level. She should stop
+doing that."	
+Message	Shido	What do you mean?	
+Message	Kurumi	"Rather than use the knowledge with which she's
+been gifted, she should only utilize information
+from sources she's personally observed."	
+Message	Shido	"I see. So basically she's not allowed to search
+the system. Thanks. I'll let her know."	
+Message	Kurumi	Okay, I wish you the best of luck.	
+Message	Shido	Thanks.	
+Message	None	"(All right, I'm going to tell Maria what Kurumi
+told me.)"	
+Message	Shido	Maria, come here.	
+Message	Maria	What is it?	
+Message	Shido	"Let me ask you something. How did you look up the
+question you asked Yoshino?"	
+Message	Maria	I searched the system database.	
+Message	Shido	"Yeah, I figured. So let's refrain from doing that.
+Why don't you try investigating on your own?"	
+Message	Maria	What do you mean?	
+Message	Shido	"You see, the point of class is to think on your
+own. You may think it may not be effective, but
+why don't you give it a shot?"	
+Message	Maria	...Understood. I will try doing as you suggested.	
+Message	None	(I'm so glad, she seems to want to do it.)	
+Message	Shido	Thanks, Kurumi. I think she'll figure it out.	
+Message	Kurumi	"You're welcome, Shido-san. I'm glad I was of help
+to you."	
+Message	None	"(In the end, Arusu couldn't think of a question
+for class. I guess Arusu was already really smart
+even without being able to search her database...)"	
+Message	None	"(But it was the first time I saw her use a
+dictionary, and she seemed to be having fun.)"	
+Message	Shido	Thanks, Kurumi.	
+Message	Kurumi	"I haven't done anything worth thanking. Anyways...
+Shido-san, you're kind to everyone, aren't you?"	
+Message	Kurumi	I'm getting kind of jealous.	
+Message	Shido	Don't make me blush.	
+Message	Kurumi	And why not? Oh... Isn't that Arusu-san?	
+Message	Maria	Shido, do you have a moment?	
+Message	Shido	Oh, what's up?	
+Message	Maria	"I'm curious about something, so I'm going to leave
+the classroom for a little while."	
+Message	Shido	Okay, got it... Later.	
+Message	Maria	Okay, thank you. 	
+Message	Shido	"...Hey, wait! The next class is about to begin.
+Oh... She's gone."	
+Message	Kurumi	Shouldn't you go find her?	
+Message	Shido	Yeah. Sorry, Kurumi, but for the next class...	
+Message	Kurumi	"...I'll let the teacher know that you went to the
+infirmary with Arusu-san."	
+Message	Shido	Thanks! Later...!	
+Message	Kurumi	But it's not good to be nice to everyone.	
+Message	None	"(After thinking about it, I asked Yoshino to help
+me. While everyone else was translating a long
+English sentence, I decided to plot with Yoshino.)"	
+Message	Shido	"Yoshino! I mean, Yoshino-sensei!
+I have a question..."	
+Message	Yoshino	Oh, I'll be right over...!	
+Message	None	"(All right. She seemed to have understood my
+intention. Yoshino came running over.)"	
+Message	Shido	Sorry about earlier. So I have a favor to ask you.	
+Message	Yoshino	Y-Yes... What is it?	
+Message	Yoshinon	"Hey, hey, Shido-kuuun. This time, please refrain\nfrom a killer pass where you smack the receiver's\nface with a hunk of dirt."	
+Message	Shido	"Sorry about that. I thought it through this time.
+For the next translation, can you call on Maria?"	
+Message	Yoshino	Oh. Arusu-san...?	
+Message	Shido	"Yeah, if the answer is already set, there's no way
+an issue would arise, right?"	
+Message	Yoshino	I see... Okay...	
+Message	Yoshinon	"You sure thought that one through, Shido-kun!\nGosh, you're so cunning!"	
+Message	Shido	"Hahaha, it's not that big of a deal. Anyways, I'll
+let Maria know."	
+Message	Yoshino	Okay.	
+Message	Shido	"All right, all that's left is Maria...
+Maria, you have a moment?"	
+Message	Maria	Shido... is this about earlier?	
+Message	Shido	"Yeah. This one's a long sentence. Why don't you
+try answering it?"	
+Message	Maria	...Okay.	
+Message	Shido	"Oh, good, good. Ah... Don't search for answers
+though, okay?"	
+Message	Maria	...What do you mean by that?	
+Message	Shido	If you do that, it's basically cheating, isn't it?	
+Message	Maria	You have a point. I'll... give it a shot.	
+Message	None	"(After hearing me out, Maria seemed to understand.
+Though she stumbled a bit, she was eventually able
+to translate the sentence.)"	
+Message	Shido	Thanks for earlier, Yoshino.	
+Message	Yoshino	Shido-san... Anything for you...!	
+Message	Yoshinon	"Shido-kun, you forgot about Yoshinon,\ndidn't you?"	
+Message	Shido	Ah, Yoshinon. Thank you, too.	
+Message	Maria	Shido, I need to talk to you.	
+Message	Shido	Sure. What is it, Maria?	
+Message	Maria	"I'm curious about something, so I'm going to leave
+the classroom for a little while."	
+Message	Shido	All right. See you.	
+Message	Maria	Okay, thank you. Well, then...	
+Message	Yoshino	I-I wonder what happened.	
+Message	Shido	Beats me.	
+Message	Yoshinon	"Shido-kun. Should you really hang around like\nthat? The next class is about to start. Is it okay\nto leave her alone?"	
+Message	Shido	Oh! You're right. I need to go find her.	
+Message	Yoshino	O-Oh... Shido-san...!	
+Message	Shido	What is it, Yoshino?	
+Message	Yoshino	G-Good luck...!	
+Message	Shido	Thanks, Yoshino. Well then... Later.	

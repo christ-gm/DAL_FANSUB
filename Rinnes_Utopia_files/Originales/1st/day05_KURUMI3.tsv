@@ -1,0 +1,156 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	"Kurumi, what are you thinking? Are you trying
+to eat me? Is she the enemy, or...?"	
+Message	Shido	The more I think about it, I don't get it...	
+Message	Shido	...Kurumi?	
+Message	Kurumi	Shido-san.	
+Message	Shido	What are you doing?	
+Message	Kurumi	I have been doing some thinking.	
+Message	Kurumi	...Shido-san?	
+Message	Shido	What is it?	
+Message	Kurumi	What do you think of me?	
+Message	Shido	Huh...?	
+Message	Kurumi	Would you mind telling me?	
+Message	Shido	Where is this coming from?	
+Message	Kurumi	...	
+Message	Shido	I...	
+Choice		Want to seal you.	
+Choice		Consider you as an "enemy".	
+Choice		...Don't know.	
+Message	Shido	"...want to seal your powers, so you can be a
+normal girl like the others. That's what I want."	
+Message	Kurumi	I see.	
+Message	Shido	"If we don't do that, then you will bring sadness
+to many people. Including yourself."	
+Message	Kurumi	"You may have a point. Happiness and I are
+not too well acquainted."	
+Message	Kurumi	"The past few days have been fun. Like
+something out of a dream."	
+Message	Shido	Kurumi...?	
+Message	Kurumi	Good-bye, Shido-san.	
+Message	Shido	H-Hey!	
+Message	None	"(And that's how... Kurumi disappeared into
+the night.)"	
+Message	None	"(Ever since that evening, I never saw Kurumi
+again. I don't think I'll ever see her again...)"	
+Message	None	"(Was I in the wrong...? Maybe if I had said
+something better in the moment...)"	
+Message	None	(It was a decision I'd have to live with...)	
+Message	Shido	"...probably still think of you as an enemy.
+I mean, you're still after me, aren't you?"	
+Message	Kurumi	Yes, I am.	
+Message	Shido	Then I can't trust you fully yet.	
+Message	Kurumi	...Very well.	
+Message	Shido	"So what's on your mind? What are you trying
+to do?"	
+Message	Kurumi	"It's unfortunate. I believed that being with you
+would allow me to distract myself from those
+things, but I suppose I was wrong to think so."	
+Message	Shido	Kurumi...?	
+Message	Kurumi	"Shido-san, you are currently hollow. You
+don't look too delicious, but... oh well."	
+Message	Kurumi	"You've become too much a part of me.
+So... never let yourself escape from me."	
+Message	Shido	What? What do you mean?!	
+Message	Shido	Kurumi, stop! If you continue this, you'll—!	
+Message	Kurumi	You still have me wrong.	
+Message	Kurumi	I haven't been able to return for some time.	
+Message	Shido	K-Kuru—	
+Message	Kurumi	"We can be together forever like this, Shido-san.
+I must return to where I am needed."	
+Message	Kurumi	"Hey Shido-san, please hold onto the memory
+of me. All of it, okay?"	
+Message	Kurumi	KIHIHI HIHIHIHIHIHIHIHI!	
+Message	Shido	"Honestly, I don't know. I have no idea what
+kind of person you are."	
+Message	Shido	I guess you'd be... an enemy.	
+Message	Kurumi	...	
+Message	Shido	But you're not a bad person. That, I trust.	
+Message	Shido	"So, I still don't know. Those are my honest
+feelings."	
+Message	Shido	So, would you tell me more about yourself?	
+Message	Kurumi	Well...	
+Message	Shido	"I'm not going to force it out of you now. You
+can tell me when you decide to open up to me."	
+Message	Kurumi	There is one thing I can tell you.	
+Message	Kurumi	"The shrine on the outskirts of this town.
+If you ever need to speak with me, I will
+be there."	
+Message	Shido	...I see.	
+Message	Kurumi	I will be on my way now.	
+Message	Shido	All right. You gonna be okay on your own?	
+Message	Kurumi	Haha, how comical. I'm a Spirit, remember?	
+Message	Shido	Spirit or not, you're still a girl.	
+Message	Kurumi	"Someone who needed to be escorted home
+last night needn't lecture me on the matter,
+but I appreciate the sentiment."	
+Message	Shido	R-Right...	
+Message	Shido	Kurumi, I've decided to trust you.	
+Message	Shido	Kurumi, I trust you.	
+Message	None	"(I wonder if Kurumi is opening up to me. I've
+been thinking about it, but I have yet to find
+an answer.)"	
+Message	Shido	In the end, is there nothing I can do?	
+Message	None	"(All I can do for now, is bring down Kurumi's
+walls.)"	
+Message	Shido	...I'll go on a date.	
+Message	None	(That's how I'll learn more about Kurumi.)	
+Message	Shido	"Taking my time is fine. There are days when...
+even Kurumi may appear sad. She's an ordinary
+girl."	
+Message	Shido	All right, I'm going to go to the shrine tomorrow.	
+Message	Shido	...Who is it?	
+Message	Rinne	Sorry for visiting so late.	
+Message	Shido	"Rinne? Oh, don't worry about it.
+Um, is something wrong?"	
+Message	Rinne	I wanted to ask you something, Shido.	
+Message	Shido	What is it?	
+Message	Rinne	Yes, well... It appears that you've decided.	
+Message	Shido	What are you talking about?	
+Message	Rinne	"You said, you wanted to know more about
+Tokisaki-san."	
+Message	Shido	Yeah, I do.	
+Message	Rinne	I see. So, that's your answer then, Shido?	
+Message	Shido	Yeah, it is.	
+Message	Rinne	...	
+Message	Shido	...	
+Message	Rinne	Hey, Shido. Promise me something.	
+Message	Shido	Promise...? What for?	
+Message	Rinne	"That you'll take good care of Tokisaki-san from
+now on. No matter what happens, you won't
+let her go. Promise me."	
+Message	Shido	"Wh-What's gotten into you? You don't need
+to tell me that..."	
+Message	Rinne	"Please, I want you to promise. Promise me
+that you will think only of Tokisaki-San, or
+else your heart will drift away some day."	
+Message	Shido	Rinne...	
+Message	Rinne	Please...	
+Message	Shido	"Okay, I promise. Man's word. I promise... to take
+good care of Kurumi."	
+Message	Rinne	"Okay, I knew you'd make that promise with
+me."	
+Message	Shido	Haha, seriously? What's gotten into you?	
+Message	Rinne	"I have faith in you. I trust you, Shido. Don't
+forget your promise. Don't break it either, okay?"	
+Message	Shido	Of course.	
+Message	Rinne	If you break it, then you must pay.	
+Message	Shido	I-I know.	
+Message	Rinne	I see. As long as you understand.	
+Message	Shido	"Wh-What's the big deal? Why are you threatening
+me?"	
+Message	Rinne	Hehe... Sorry.	
+Message	Rinne	But...	
+Message	Shido	...?	
+Message	Rinne	"You'll be fine, right? I'm sure if it's Shido,
+he'll be fine."	
+Message	Shido	...	
+Message	Shido	Wh-What was that just now?!	
+Message	Shido	Hey, Rinne... Did you just see―	
+Message	Shido	"Huh? Rinne's gone?
+When did she...?"	
+Message	Shido	"Well, it is pretty late...
+I should head to bed as well."	
+Message	???	"...In this dream... no one can become happy...
+Shido Itsuka... I hope your next dream will be
+a happy one..."	

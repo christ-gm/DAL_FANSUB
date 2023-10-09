@@ -1,0 +1,26 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(I was captured by a strange feeling. A space
+like one would see in movies or manga, with
+no feeling of up from down. A digital world.)"	
+Message	None	"(I had been thrown out there. I couldn't recall
+what I had been doing before. I was merely,
+suddenly floating.)"	
+Message	Shido	Is... this...?	
+Message	Shido	You are...?	
+Message	Maria	There is something that I must know.	
+Message	Shido	Could that be...?	
+Message	None	"(I can't tell for sure, but that girl looks
+familiar. I know her. And I know what she's
+about to ask, and what she wishes for...)"	
+Message	Maria	"Shido Itsuka. With you, I will be able to find
+the answer. It is because I believe this, that I
+will ask you this question."	
+Message	Maria	Will you... love me?	
+Message	None	(To that question, I―)	
+Choice		Nod.	
+Choice		Keep quiet.	
+Message	None	(I responded with a confident nod.)	
+Message	Maria	I hope this will be the last time.	
+Message	None	(I... didn't have anything to say.)	
+Message	Maria	"I see. Then, I must continue onward.
+Observing love..."	

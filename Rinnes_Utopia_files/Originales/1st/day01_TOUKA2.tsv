@@ -1,0 +1,135 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Oh, Tohka! Wait a sec.	
+Message	Tohka	Hm, what's the matter, Shido?	
+Message	Shido	I'd completely forgotten.	
+Message	Tohka	?	
+Message	Shido	"The offering for the Tengu Cow... we haven't bought it
+yet, right?"	
+Message	Tohka	Oh! That was so careless of us!	
+Message	Shido	I'll go buy it now. What will you do, Tohka?	
+Message	Tohka	Right! If it were with you Shido, I would go anywhere!	
+Message	None	(...!)	
+Message	None	"(Tohka really has a way of rattling these
+things that make my heart pound...)"	
+Message	Tohka	"Should we make the offering
+something the Tengu Cow likes?"	
+Message	Shido	"You're right... what to do? For something like
+this, maybe some kind of food is ideal."	
+Message	Tohka	So this Tengu Cow has an appetite, huh?	
+Message	Shido	"Haha, it might... alright, let's head back to
+the shopping district and buy something!"	
+Message	Tohka	"Yes, it would be good if there's something
+the Tengu Cow would be pleased with!"	
+Message	Shido	Yeah, I agree.	
+Message	Shido	"Hey, Tohka, sushi can't be it, right?
+It's not like we can't get it wrapped,
+but... Wait. Huh?!"	
+Message	Shido	Tohka?	
+Message	None	She was just here a second ago... she's gone?!	
+Message	None	(Gah! I only looked away for a second. Where'd she run off to?)	
+Message	Shido	Heeeey, Tohkaaa? Tohkaaaa?! Where are you?!	
+Message	None	(Dang, I've completely lost sight of her.)	
+Message	Shido	Reine-san?	
+Message	Reine	"Shin, has something happened to Tohka?"	
+Message	Shido	Ohh, Reine-san. I'm sorry, we got separated while shopping...	
+Message	Reine	"Hm. So that's why her stress level has risen."	
+Message	Shido	Huh?	
+Message	Reine	"Shin, hurry and find Tohka, and calm her down."	
+Message	Shido	"Well, of course I'm all for doing that, but...
+is there any way you can see where Tohka
+went on your end, Reine-san?"	
+Message	Reine	"It is currently impossible to verify her location
+with my equipment, and we're also short-staffed.
+The best I can do is analyze her mental status."	
+Message	Shido	I see...	
+Message	Reine	"Alternatively, if you consider Tohka's thought
+process, perhaps you will find the answer."	
+Message	Shido	Her thought process?	
+Message	Reine	"What would Tohka do in this situation?
+Consider this while thinking about what to do."	
+Message	Reine	Good luck, Shin.	
+Message	Shido	Hm... what would Tohka do?	
+Choice		Tohka would get hooked by the scent of food and head to food shops	
+Choice		Tohka would return to look for me	
+Message	None	"(Well, we are talking about the ravenous Tohka.
+She must have followed a tantalizing food smell
+while thinking about an offering for the Tengu Cow.)"	
+Message	None	(What sort of offering would Tohka pick for the Tengu Cow?)	
+Message	None	"(Hm... I don't know. Either way, I'll make sure to check
+the restaurants during my search.)"	
+Message	Cake Shop Worker	Welcome!	
+Message	Shido	Um...	
+Message	Cake Shop Worker	Yes, may I help you?	
+Message	Shido	Oh! Um... did a girl with long black hair come in here?	
+Message	Cake Shop Worker	I'm not sure...I don't think I've seen a girl like that...	
+Message	Shido	I-I see! Sorry to trouble you.	
+Message	Cake Shop Worker	Ah, don't even worry about it. Come back soon!	
+Message	None	"(Since I'm here already, I think I'll buy a slice of cake.
+It might be a waste to use as an offering, but...)"	
+Message	Shido	"U-Umm, sorry to bother you again, but could I get a
+slice of cake, please? This short cake right here."	
+Message	Cake Shop Worker	One slice of the short cake comin' right up!	
+Message	None	(Dang, my hunch was wrong...)	
+Message	None	"(Oh well. Nothing I can do about that now.
+I just have to keep looking.)"	
+Message	Tohka	"Rgh! Not like that! You don't need to cut it!
+Just give me the whole thing!"	
+Message	Kebab Shop Worker	Oh, I'm sorry... I'm not selling it like this...	
+Message	None	(Tohka?)	
+Message	Shido	Tohka! There you are!	
+Message	Tohka	Shido! I found it! It's the offering for the Tengu Cow!	
+Message	Shido	Huh?	
+Message	Tohka	"We must buy that rotating meat, Shido!
+Isn't that perfect?"	
+Message	Shido	?!	
+Message	Kebab Shop Worker	I'm sorry, miss... but this is...	
+Message	None	"(The kebab stand owner shrugged their shoulders,
+then looked towards me with a pained expression.)"	
+Message	Shido	......	
+Message	Tohka	"Hm, what is wrong, Shido?
+I'm sure that the Tengu Cow will take a liking to this."	
+Message	Shido	Y-Yeah, I know... I understand what you're thinking, Tohka, but...	
+Message	Tohka	?	
+Message	Shido	T-Tohka. Let's just go away for a moment... over here.	
+Message	Tohka	Hm... what's wrong?	
+Message	None	"(Hm, it'd be bad if we got separated because I went to
+look for her, so I guess I'll wait here...)"	
+Message	Tohka	Heeey! Shido!	
+Message	None	S-She really did come back... I'm glad I waited.	
+Message	Tohka	"What are you spacing out for?
+I found the offering for the Tengu Cow!"	
+Message	Shido	Huh?!	
+Message	Tohka	Let us hurry! Over here!	
+Message	Shido	W-Wait a second!	
+Message	Tohka	Look, Shido! Let's buy that!	
+Message	Shido	?!	
+Message	None	"Tohka pointed to a giant hunk of meat
+being spit-roasted... Huh? That whole thing?"	
+Message	None	"The kebab stand owner shrugged his shoulders,
+then looked towards me with a pained expression."	
+Message	Shido	......	
+Message	Tohka	Hm, how is it Shido? I'm sure he would be very pleased with this!	
+Message	None	"I mean, it does sort of feel like an offering,
+but it's a little ridiculous..."	
+Message	Shido	Tohka, let's step aside for a moment... over here.	
+Message	Tohka	?	
+Message	Shido	I-It was a pretty good thought, Tohka, but...	
+Message	Tohka	Yes! With that meat, the Tengu Cow will surely be satisfied!	
+Message	Shido	"Y-Yeah...I'm sure, but that meat's not something that
+can be sold in the first place. I mean, it can be,
+but not like that, you know?"	
+Message	Shido	"Even if he were to sell it to us, I don't have enough
+money on hand to buy such a large piece of meat."	
+Message	Tohka	Is that so?	
+Message	Shido	Yeah. I'm sorry, Tohka.	
+Message	Tohka	"N-No, it's nothing for you to apologize for, Shido!
+I wasn't thinking it through... I should apologize."	
+Message	Shido	Then... why don't you make your offering a kebab, Tohka?	
+Message	Tohka	"Oh! That's a wonderful idea!
+It might not be quite enough for the Tengu Cow,
+but with something so delicious, I'm sure it'll smile!"	
+Message	Shido	R-Right?	
+Message	Tohka	"Alright, I've decided on that for my offering!
+Let's hurry and return, Shido!"	
+Message	Shido	Right. Don't rush too much and trip, okay?	
+Message	Tohka	Alright!	

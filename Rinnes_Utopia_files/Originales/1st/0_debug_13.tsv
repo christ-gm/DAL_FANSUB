@@ -1,0 +1,286 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(We escaped from the collapsing Neo Tengu Tower, and when we
+came to, we were at Takadai Park.)"	
+Message	None	"(Tohka and the others were recovered by the Fraxinus, most likely
+for an examination. Kurumi disappeared, and Origami returned to
+AST's base.)"	
+Message	None	(And so... I was left alone, crushed by despair.)	
+Message	None	"(That's right. In the end, Rinne had disappeared.
+The ending I believed in never came. There was no easy way out, no
+happy ending.)"	
+Message	None	"(In the end, I didn't understand anything.
+Why she had created a barrier.
+And why she had tried to kill me.)"	
+Message	None	(It all ended, everything left in mystery.)	
+Message	Reine	...Are you alright, Shin?	
+Message	Shido	No, it's still getting to me.	
+Message	Reine	"Hm, I see. Then, perhaps I should find another time to discuss
+today's occurrence with you?"	
+Message	Shido	...Have you learned something?!	
+Message	Reine	"That's right. Just now, when control of the barrier left Ruler's
+hands... we were finally able to analyze the barrier."	
+Message	Shido	"R-Really?! Please tell me!
+What on earth was that barrier?!"	
+Message	Reine	......	
+Message	Shido	Reine-san!	
+Message	Reine	"This may not necessarily be the best news for you. Even so, do you
+wish to know?"	
+Message	Shido	...!	
+Message	None	"(For a moment, I flinch at Reine's intimidating words. But it's
+inevitable. If I can find out what Rinne was thinking, or even get
+closer to her...)"	
+Message	Shido	Please, go ahead.	
+Message	Reine	Mm. If you're prepared, then I will respect your wishes.	
+Message	Reine	"Firstly, I will tell you that Ruler was an existence similar yet
+different to a Spirit."	
+Message	Shido	She wasn't... a Spirit?	
+Message	Reine	"No. However, I cannot say definitively that she is an altogether
+different entity."	
+Message	Reine	"We won't know the details until we investigate further, but...
+signs point to her being the remnants of a powerful, spiritual
+energy."	
+Message	Shido	What does that mean...?	
+Message	Reine	"It may be easier to understand if I said that she has no vessel.
+Normally when Spirits are sealed, the vessel remains. Ruler,
+however..."	
+Message	Shido	...would disappear, without a body.	
+Message	Reine	Correct. It is unfortunate...	
+Message	Shido	No, it's fine. Please continue. What about the barrier?	
+Message	None	"(If I heard too much, I'd end up remembering what just happened,
+and it'd be too painful. I returned to the original topic.)"	
+Message	Reine	"From our conclusions, the barrier covering all of Tengu City,
+Eden, aside from keeping all of us trapped, had another special
+power."	
+Message	Shido	A special... power. Like everyone's Angels...?	
+Message	Reine	"Yes, something close to that. Although...
+On a completely different scale."	
+Message	Shido	Exactly what kind of power is in this barrier...?	
+Message	Reine	Mm. Eden's power... is...	
+Message	Reine	...the power to redo the world.	
+Message	Shido	R-Redo the world...?	
+Message	None	(What does that mean? It's a little heavy, tough to grasp...)	
+Message	Reine	"It's as I said. Existing within the barrier is a power to restart
+the world as many times as needed until a desired outcome is
+obtained."	
+Message	Reine	"That is Eden's power. You have fragments of memories yourself,
+don't you?"	
+Message	Shido	Ah...	
+Message	None	(Once she told me, I realized.)	
+Message	None	(I... No. Not just me. Everyone else had definitely remembered.)	
+Message	Shido	"I... remember. It's vague though. Memories spent with Tohka and
+Origami... are there.
+Could it be? Are they...?!"	
+Message	Reine	"Yes. They most likely happened. Possibilities you chose, inside of
+Eden's iterations. Endings that could have been, born of the world
+repeating."	
+Message	Shido	...?!	
+Message	None	"(All of that. Are you telling me it actually happened? The
+memories feel too vivid to be dreams or delusions. They definitely
+exist.)"	
+Message	None	"(But... there's still one thing that I don't know. I understand
+that the barrier holds unbelievable power, but...)"	
+Message	Shido	Ruler... Rinne, what was her reason for creating the barrier?	
+Message	Reine	That is...	
+Message	Reine	"From here on, I am offering only suppositions.
+Please understand that this answer is not an absolute truth."	
+Message	Shido	R...Right.	
+Message	Reine	Restarting the world, with a caveat.	
+Message	Shido	A caveat? What was it?	
+Message	Reine	"The current version of the world suddenly ends and reverts to its
+original state. Several patterns emerged, but we found one
+absolute condition."	
+Message	Reine	"In short, when a "certain something" occurs, the world rewinds to
+its original state."	
+Message	Shido	A... certain something? What is that...?	
+Message	None	(Why is... my heart pounding so fast?)	
+Message	Reine	Yes. The condition to restart the world... is...	
+Message	Reine	Shin. It would be... your death.	
+Message	Shido	What...?	
+Message	None	(Death...? Did she say... my death?)	
+Message	None	"(I don't understand. What is Reine-san saying?
+After all, I...)"	
+Message	Shido	Oh...	
+Message	None	"(That's right. That time, and that time, and the other times...
+Having lost Kotori's healing power, there were a few times I ended
+up... dead.)"	
+Message	None	"(I... had been redoing it, over and over again.
+Almost like repeatedly saving and loading, over, and over!)"	
+Message	Shido	When I died, the world would... start over?	
+Message	Reine	"Yes. The moment you died, the world would return to the day the
+barrier was created. Shin, you were the key to this world."	
+Message	Shido	"P...Please wait a second! Me, the key... why the heck would that
+be?!"	
+Message	Shido	"First of all, Ruler—er, Rinne tried to kill me, didn't she?
+Because of that, I lost the spiritual energy sealed inside of
+me—"	
+Message	Reine	Incorrect. The premise was... incorrect, from the beginning.	
+Message	Shido	Incorrect? What... do you mean?	
+Message	Reine	...Shin, do you remember Tohka losing control a while ago?	
+Message	Shido	Tohka... losing control?	
+Message	Reine	"Correct. Tohka had suddenly lost control of her powers atop the
+school's rooftop. Do you not remember?"	
+Message	None	(Losing control... on the rooftop?)	
+Message	Shido	"Wha?! That's right... When that happened, I got caught up in the
+blast, and—!"	
+Message	Reine	...That's right. Most likely, Eden activated around that time.	
+Message	Shido	H-How do you know?	
+Message	Reine	...It must have, otherwise you may have ended up dead then.	
+Message	Shido	E-Ended up dead?	
+Message	Reine	"Until recently, you were affected by poor health, weren't you?
+Before Tohka and the other Spirits lost control, that is."	
+Message	Shido	"Ah, yeah. I mostly can't feel it anymore now...
+But when I was examined on the Fraxinus, there weren't any
+abnormalities, right?"	
+Message	Reine	"It's true that nothing looked wrong. However, an abnormality was
+occurring.
+Along with a threat we didn't know of."	
+Message	Shido	"Something even the Fraxinus didn't know...
+What is that?"	
+Message	Reine	"This is mere speculation, but rather than the Spirits, it may have
+been you that was close to losing control."	
+Message	Shido	Huh...?	
+Message	Reine	"Since you met the Spirits, your day-to-day has become arduous.
+Tension and stress caused by dates with the Spirits. Risking your
+life in battle."	
+Message	Shido	"W-Wait just a second! What are you saying, Reine-san? It's almost
+like you're saying—"	
+Message	Reine	"―Yes. It's only a guess, but it's possible the barrier wasn't
+the reason the spiritual energy within your body returned to the
+Spirits."	
+Message	Reine	"There is a high probability that your sudden illness combined with
+various other factors, accidentally causing this irregularity."	
+Message	Shido	Then, that means...	
+Message	None	(The cause of the Spirit energy's return wasn't the barrier...?)	
+Message	None	"(Rinne's barrier was created at the same time as when Tohka lost
+control.)"	
+Message	None	"(Eden's power was to restart the world, so...
+my death is the catalyst for activating it.)"	
+Message	None	(The dots... were finally beginning to connect.)	
+Message	Shido	C-Could it be...? R...Rinne...	
+Message	Reine	"Where the girl Rinne Sonogami appeared from, or what sort of
+connection she has to you, I have no idea. One thing for sure,
+however, is..."	
+Message	None	"(The spiritual power sealed within me... All of it returned to the
+Spirits. Of course, Kotori's Flame of Regeneration as well.)"	
+Message	None	"(In that state, I was... pretty close to dying, and Tohka, Kotori,
+Yoshino all had their powers return. Even Origami, and the
+ever-wicked Kurumi.)"	
+Message	None	"(Between how dangerous that was... the memory of dying so many
+times, and the world restarting, the proof is all there."	
+Message	Shido	Ah... Aahh...	
+Message	None	"(Rinne... Rinne wasn't the one causing the Spirits to lose
+control...)"	
+Message	None	(She hadn't even been trapping us for any selfish reason...!)	
+Message	None	(She did it for my sake...!)	
+Message	None	"(All while she was chipping away at herself...
+To save me from dying, having lost the Flame of Regeneration, she
+was saving me!)"	
+Message	Shido	Ri...nne...	
+Message	Reine	"That's correct. Ruler, Rinne Sonogami, created this world
+solely... in order to protect you."	
+Message	Shido	Ahh... Ah, aaahhh...	
+Message	Shido	"I...I... knew... absolutely nothing...
+And I... went and... to Rinne... I... I...!"	
+Message	Reine	Please, go no further than that, Shin.	
+Message	Shido	...Reine...san...?	
+Message	Reine	"Of course, it doesn't matter if anyone despised or pitied her.
+However, Shin. For you, only you. She sacrificed her life to
+protect you. Never forget."	
+Message	Shido	...!	
+Message	Reine	"Please, Shin. Rinne Sonogami simply tried to save you. If you wish
+to repay her, then... please.
+Instead of regret or apologies, give thanks."	
+Message	Shido	Y...Yes.	
+Message	Reine	Mm, you seem all right. Then, I'll hand this over to you.	
+Message	Shido	Huh? This is...	
+Message	Reine	"When you were all escaping from Neo Tengu Tower, it got mixed in
+somehow. There seems to be something inside, but... any idea what
+it is?"	
+Message	None	(Even if you ask me, I don't have any...)	
+Message	Rinne	"I'll take good care of it."	
+Message	Shido	...	
+Message	Shido	Reine-san, um, could you... give me some time for a little bit?	
+Message	Reine	...Hmm?	
+Message	Reine	"I understand. No need to explain. However, Eden's barrier will
+soon disappear completely, and the world will return to its
+original state."	
+Message	Reine	"If you have any unfinished business, do it quickly. Then, let us
+meet again, Shin."	
+Message	Shido	Yes, thank you.	
+Message	None	"In the end, Rinne and I shared one last date.
+Even though it was only in my dreams."	
+Message	None	"The time we spent cannot be recovered.
+Rinne, who was by my side, is no longer here."	
+Message	None	"I opened the bag that Reine-san handed me.
+As I had expected, there was a familiar key inside."	
+Message	None	"That's right. This was proof that Rinne was my "childhood friend".
+The look on Rinne's face when I handed to her. Surprised, but
+elated."	
+Message	None	She was that panicked when she forgot it at home, too...	
+Message	Shido	"Didn't you promise you'd take care of it, Rinne?
+Then, take responsibility. Take it with you!"	
+Message	Shido	"Otherwise, I'll end up realizing how I won't have you to wake me
+in the morning, or ask me how your food tastes, that I'll no
+longer see your smile!"	
+Message	Shido	"Why... Why?! You said... You said we'd be childhood friends
+forever... that you wanted to be together!"	
+Message	Shido	RINNEEEEEEEEEEEEE!!	
+Message	Rinne	"Thank you, Shido. The time I spent together with you... was my\nonly true happiness."	
+Message	Tamae	"Okaaay! Homeroom is now over. Everyone, please be careful heading
+home."	
+Message	Shido	Hey Tohka, let's go home.	
+Message	Tohka	Yes!	
+Message	Shido	I feel kind of under the weather...	
+Message	Tohka	Hm? Are you all right, Shido?	
+Message	Shido	"Ah... I might just have a cold. More importantly, I'm glad you're
+fine, Tohka."	
+Message	Tohka	Apologies, Shido... I am glad you are all right.	
+Message	Shido	"No, don't worry for my sake. Luckily things have calmed down
+properly."	
+Message	None	"(Tohka almost lost control of her powers on the rooftop. However,
+perhaps because Tohka did well to endure it, things didn't get out
+of control.)"	
+Message	None	"(Even if she lost control, it was slight, and Kotori said there
+wasn't any damage. We were able to avoid the worst. What a
+relief...)"	
+Message	Tohka	Hrm...	
+Message	Shido	"Come on, don't look so depressed. It's times like these when you
+need to smile."	
+Message	Tohka	Y-Yes!	
+Message	Shido	Right, just like that.	
+Message	Shido	...Hey, Tohka?	
+Message	Tohka	Hm? What is the matter, Shido?	
+Message	Shido	Doesn't... something feel weird?	
+Message	Tohka	Hm, what does? I am perfectly fine.	
+Message	Shido	"No no. Something about this view, the city...
+Like something's missing... In fact, was it always like this?"	
+Message	Tohka	...?	
+Message	Shido	"Well, hmm. For example, over there by the train station, something
+apart from the Tengu Tower...
+wasn't there a big building of some sort?"	
+Message	Tohka	Hm, was there...?	
+Message	Shido	"I see. Maybe not. Sorry for asking such a strange question. Well,
+whatever. Do you want to stop by somewhere?"	
+Message	Tohka	Really?!	
+Message	Shido	Yeah. Anywhere you want.	
+Message	Tohka	I see! Then Shido, let's go!	
+Message	Shido	Ah, hey! Wait up! Tohka?!	
+Message	Shido	"*sigh* Jeez, but, what is it? I feel like...
+I'm forgetting one more very important thing."	
+Message	Shido	"Something really important to me...
+Something I shouldn't forget..."	
+Message	Tohka	Heeeey! Shido, hurry! Over here!	
+Message	Shido	Ah, right! I'm going now!	
+Message	None	(Well, it's probably fine if I don't think on it too much.)	
+Message	None	"(I'm sure I'll remember eventually.
+If it's something important to me, I'm sure...)"	
+Message	Rinne	......	
+Message	Rinne	"Everyone... has forgotten... No, it no longer happened. I, the
+foreign object, have vanished from this world, and normalcy has
+returned."	
+Message	Rinne	It was... It was best this way, right Shido?	
+Message	Rinne	...?	
+Message	Rinne	You... are...	
+Message	???	Good work. You fulfilled your role splendidly.	
+Message	Rinne	......	
+Message	???	At last, sleep well...	

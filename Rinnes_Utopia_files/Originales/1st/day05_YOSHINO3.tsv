@@ -1,0 +1,158 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	"Yoshino is becoming an adult, huh...
+Even if that's true, what can I do for
+Yoshino's sake?"	
+Message	None	"(I know that an answer won't come easily no matter
+how much I think about it, but I can't help but
+think about it.)"	
+Message	Shido	Hm? Someone's coming...	
+Message	Shido	Is it Yoshino?	
+Message	Yoshino	Yoshinon... Let's talk... okay...?	
+Message	Yoshinon	"......"	
+Message	Yoshino	"Why are you... staying quiet...?
+Please answer me... Please answer...!"	
+Message	Yoshino	...! ...!!	
+Message	Shido	Yoshino, let's stop.	
+Message	Yoshino	Shido...san?	
+Message	Shido	"I understand that you're worried about Yoshinon.
+But even if you do that, Yoshinon won't come back."	
+Message	Yoshino	I... know that. But... But...	
+Message	Shido	"It's painful for me, too. It's even more
+painful for you, Yoshino. I understand that...
+She's your important friend, after all."	
+Message	Yoshino	Yes...	
+Message	Shido	But Yoshino... Listen to me.	
+Choice		I'm here for you, Yoshino.	
+Choice		Let's both wait for Yoshinon.	
+Choice		Just pretend she wasn't there from the beginning.	
+Message	Shido	"Until Yoshinon comes back, you won't be alone,
+Yoshino. I said this yesterday too, but I'm
+here for you."	
+Message	Yoshino	...!!	
+Message	Shido	"Even with Yoshinon gone, please don't think you're
+alone. You have so many friends around you that
+care about you."	
+Message	Yoshino	Friends...?	
+Message	Shido	"That's right. Tohka, Kotori, Rinne...
+Even Reine-san and Kannazuki-san...
+Everyone thinks of you as important."	
+Message	Shido	"We might not be a replacement for Yoshinon...
+but we're always thinking about you. Yoshino...
+You're not alone."	
+Message	Yoshino	...Ah... Aahh...	
+Message	Shido	"A little at a time. A little at a time is fine.
+So you can welcome Yoshinon back with a smile...
+Let's do our best... together."	
+Message	Shido	Right, Yoshino?	
+Message	Yoshino	"Yes...
+Thanks to you, I... feel a little braver."	
+Message	None	"(Yoshino gave me the best smile she could at the
+moment. Her smile seemed happy, but I also felt a
+hint of loneliness as well.)"	
+Message	Shido	"It might take some time.
+But I'm sure Yoshinon will return to normal.
+After all, Yoshinon's your friend, right?"	
+Message	Yoshino	...!!	
+Message	Shido	"So I'm sure that she'll return.
+Until then, I'll wait with you. I promise."	
+Message	Yoshino	Yes...! Thank you...	
+Message	None	"(As she said this, Yoshino gave the best smile she
+could... She still seemed sad and worried, but she
+was still able to smile somehow, in gratitude.)"	
+Message	None	"(That's why, I decided... I would continue to stay
+by Yoshino's side like this.)"	
+Message	Shido	"Yoshino... You don't have to be sad anymore.
+Why don't you think instead... that Yoshinon
+wasn't here to begin with?"	
+Message	Yoshino	...!!	
+Message	Shido	"If you keep obsessing over Yoshinon, it'll end up
+breaking your heart... If that's the case, then
+it's better to..."	
+Message	Yoshino	Wh...Why...! Wh-Why... Why would I...?!	
+Message	Shido	Huh?!	
+Message	Yoshino	I can't pretend... that Yoshinon was never here!!	
+Message	Shido	...?!	
+Message	None	"(What the... There's a sudden chill...
+This is bad...!)"	
+Message	Yoshino	Just... forget it...	
+Message	Shido	Y-Yoshino...?!	
+Message	Shido	Wait, Yoshino!!	
+Message	None	"Did I say the wrong thing...? An unseasonable
+snowfall turned into a snowstorm and covered
+the city."	
+Message	None	"Yoshino's sorrow could not be stopped, and the
+snowstorm continued to rage ever stronger."	
+Message	None	Eventually, everything froze over...	
+Message	None	"(Yoshino's sadness is too great. The more I talked
+to her, the more pain she felt. Right now, she's
+like I was long ago, when I was abandoned...)"	
+Message	Shido	"At this rate, no matter what I try, it'll only be
+a temporary fix. Isn't there anything I can do...?"	
+Message	None	"(Even if I say it out loud, there's no way an
+answer would come. There were no answers
+that would help.)"	
+Message	Shido	Let's... date.	
+Message	None	"(In the end, I realized that was all I could do.
+But even if something that small could support
+Yoshino, then...)"	
+Message	Shido	"It's not because she's unstable, or to prevent her
+from losing control. I personally want to support
+her."	
+Message	Shido	"That's why tomorrow...
+I'll go on a date with Yoshino...!"	
+Message	Shido	Is that you, Yoshino?	
+Message	Rinne	Sorry, I'm not Yoshino-chan.	
+Message	Shido	"Rinne?
+No, it's fine, but... What's wrong?"	
+Message	Rinne	There was something I wanted to ask you, Shido.	
+Message	Shido	Something you wanted to ask?	
+Message	Rinne	"Yes, I wanted to ask you.
+Shido... You've decided, haven't you?"	
+Message	Shido	What are you talking about?	
+Message	Rinne	"You decided that... You want
+to support Yoshino-chan."	
+Message	Shido	"Yeah... I don't want to see Yoshino as she is
+right now. I want her to be able to smile again."	
+Message	Rinne	I see. So that's your answer, Shido.	
+Message	Shido	Yeah. That's what I've decided.	
+Message	Rinne	......	
+Message	Shido	......	
+Message	Rinne	Hey, Shido... Can you promise me something?	
+Message	Shido	Promise...? What...?	
+Message	Rinne	"Promise that from now on, you'll cherish
+Yoshino-chan. No matter what happens,
+you won't let her go... Promise me."	
+Message	Shido	"Wh-What are you talking about?
+You don't have to ask me to do that..."	
+Message	Rinne	"Please, I want you to promise me. That you'll only
+think of Yoshino-chan... Otherwise, I'm sure that
+your heart will one day distance itself from her."	
+Message	Shido	Rinne...	
+Message	Rinne	Please...	
+Message	Shido	"I understand... I promise.
+As a man, I won't take back what I've said.
+I'll... cherish Yoshino, absolutely."	
+Message	Rinne	Yeah... I knew you would promise me, Shido.	
+Message	Shido	Haha, what do you mean by that?	
+Message	Rinne	"I believe in you, Shido...
+Don't forget your promise... Don't ever break it."	
+Message	Shido	Yeah, of course.	
+Message	Rinne	If you break it, you won't get off easy, okay?	
+Message	Shido	I-I know!	
+Message	Rinne	I see... Then it's good.	
+Message	Shido	Wh-What is it? Why do you have to threaten me?	
+Message	Rinne	Hehe... Sorry.	
+Message	Rinne	But...	
+Message	Shido	...?	
+Message	Rinne	"You'll be fine.
+If it's you, you'll be fine... I'm sure of it."	
+Message	Shido	...?	
+Message	Shido	Wh-What was that just now?!	
+Message	Shido	Hey, Rinne... Did you just see―	
+Message	Shido	"Huh? Rinne's gone?
+When did she...?"	
+Message	Shido	"Well, it is pretty late...
+I should head to bed as well."	
+Message	???	"...In this dream... no one can become happy...
+Shido Itsuka... I hope your next dream will be
+a happy one..."	

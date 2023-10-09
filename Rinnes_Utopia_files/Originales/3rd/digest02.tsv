@@ -1,0 +1,345 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Finals were over, and it was just before summer
+break. I was on my way to a school retreat with
+Tohka and the girls.)"	
+Message	None	"(However, our trip quickly took a turn, thanks
+to the Deus Ex Machina, aka DEM Company, an
+organization who's after the Spirits.)"	
+Message	None	"(When we arrived to Arubi Island, I encountered
+the twin Spirits, the Yamai Sisters, who could
+manipulate the wind.)"	
+Message	Kaguya	"Hmph. What a joke. Accept me as the one and
+only true Yamai Spirit."	
+Message	Yuzuru	"Denial. I am the one who will survive. Kaguya,
+you are unfit to carry the Yamai name."	
+Message	None	"(The two were competing to be the best Yamai
+with their charm. Only one problem, I was made
+the judge. So whoever wooed me was the winner.)"	
+Message	Kaguya	Shido. Tomorrow, I want you to choose Yuzuru.	
+Message	Yuzuru	"Request. Shido, please select Kaguya as the
+winner."	
+Message	None	"(Deep down, each of them cared for the
+other. I stressed about the dilemma, so I
+decided to consult with Tohka.)"	
+Message	Kaguya・Yuzuru	WHAT THE HELL?!	
+Message	None	"(However, even as the two tried currying my
+favor, my message got through to them. They
+ended up battling until the very end.)"	
+Message	None	"(Tohka and I tried to stop then, but a wizard
+working under DEM, Ellen Mira Mathers, arrived to
+snatch Tohka away with the Bander Snatch doll.)"	
+Message	Shido	TOHKAAAAAAAAAAAAAAAA!	
+Message	None	"(When Tohka was in danger, a shining sword
+appeared. It was Tohka's Angel, Sandalphon.
+But she wasn't able to wield it.)"	
+Message	None	"(Thanks to the Fraxinus' attack on DEM's battleship,
+the Bander Snatch began to malfunction, allowing
+Tohka and I to get to the Yamai Sisters.)"	
+Message	Shido	Please... Stop fighting!	
+Message	None	"(Tohka pushed me, and I put a stop to their
+battle with Sandalphon. I cried out to them
+both...)"	
+Message	Shido	I choose... both of you!	
+Message	Shido	"Please! Trust me! Just once! Give me a chance
+to save the both of you!"	
+Message	Kaguya	"I don't want to die...
+"	
+Message	Kaguya	I want to live. I want to be with Yuzuru more.	
+Message	Yuzuru	Response. Me too.	
+Message	Yuzuru	" Statement. I do not wish to disappear.
+I want to live with Kaguya."	
+Message	None	"(Kaguya and Yuzuru made up, and I sealed
+their Spirit powers. We gained a pair of new
+friends who could now attend school with us.)"	
+Message	None	"(By the time of the Tenou Festival, I met
+my sixth Spirit.)"	
+Message	Miku	"Huh? Why are you grabbing onto me? Why
+haven't you fallen? Why haven't you died?"	
+Message	Miku	"Back away from this stage and this world
+this instant!"	
+Message	None	"(The sixth Spirit, Miku Izayoi, was just like
+Kotori. A former human. She hated men. As
+a counter-measure, Kotori had a plan...)"	
+Message	Kotori	Good luck... Onee-chan.	
+Message	None	(...It involved me dressing as a girl.)	
+Message	Miku	"Like I said, let's compete. Hm... Okay, fine.
+During the Tenou Festival, if Raizen wins,
+you can seal my Spirit. How about that?"	
+Message	None	"(Miku wasn't concerned about others unless
+it worked in her favor. She challenged me at
+the Tenou Festival, and I accepted.)"	
+Message	None	"(On the day of the festival, there was a
+big stage.)"	
+Message	None	"(Miku put on a dazzling performance, and then
+it was my turn. However, due to an unexpected
+accident, we were missing a bandmate.)"	
+Message	None	"(We invited the Yamai Sisters to join our band.
+Tohka's voice won us many fans, but we got 2nd
+place. Miku won... or so we thought.)"	
+Message	Miku	"Stop it... I-I won... I won fair and square!
+They... They weren't doing their jobs!"	
+Message	None	"(Miku's onstage victory was obvious. However,
+for the mock store portion, Raizen took the win.
+That put us ahead overall.)"	
+Message	Miku	"Friendship? Bonds...? Let me prove to you that
+none of that means anything to me!"	
+Message	None	"(Miku was unsatisfied with the result and
+activated her Angel, Gabriel.)"	
+Message	None	"(Not only did she manage to brainwash the Yamai
+sisters, but also Yoshino, Kotori, and many
+civilians who heard her voice through the speaker.)"	
+Message	None	"(Just then, Ellen intervened, once again to
+capture me and Tohka. Tohka allowed me to
+escape, but was captured by DEM.)"	
+Message	Shido	Damn it... This isn't the time for this. I...	
+Message	None	"(With my friends brainwashed, and Tohka
+taken by DEM, I couldn't do anything to fight
+back. But once again, she came to save the day.)"	
+Message	Kurumi	"Hehehe. Looking glum. You seem to be in a
+bind. Hey, Shido-san? Want to fill me in on
+what's going on?"	
+Message	Shido	Kurumi... Tokisaki?!	
+Message	None	"(I was in a desperate situation, and there
+stood the only Spirit I couldn't seal, Kurumi.)"	
+Message	None	"(Kurumi said she'd lend me a hand to fulfill
+her goal, so we formed a temporary truce and
+headed to Miku to save Tohka.)"	
+Message	Shido	"I see. Let's make a deal. Instead of me sealing
+your powers, I can change them to something
+else. But you have to listen to me."	
+Message	Miku	"What are you talking about...? That won't
+change anything―"	
+Message	Shido	I want you to help me save Tohka.	
+Message	None	"(With the help of Kurumi's power, I learned
+about Miku's past and how to communicate
+with her. I told her we needed to save Tohka.)"	
+Message	None	"(We had no choice but to leave Miku behind.
+Thanks to Kurumi's clone, we learned where
+Tohka was being kept.)"	
+Message	None	"(DEM Company's Japan branch, the first
+location. That was our destination.)"	
+Message	Kotori	Now, it's time.	
+Message	Shido	That's right.	
+Message	Kotori	Let's start our date.	
+Message	Shido	Let's start our date.	
+Message	None	"(Kurumi told me she had another mission, so we
+parted ways. Mana claimed to leave DEM, and Kotori,
+freed from Miku's control, helped me save Tohka.)"	
+Message	Miku	Hmph. How pathetic. Gabriel... SOLO!	
+Message	None	"(As I headed to Tohka, I felt ready to faint.
+But it was Miku who saved me.)"	
+Message	Shido	What? Miku... You remembered your promise?	
+Message	Miku	Don't get me mistaken, okay?	
+Message	Miku	"I toooootally don't care at all about someone
+who spreads hate!"	
+Message	Miku	"I came here because I wanted to add another
+Spirit into my collection."	
+Message	Shido	Thanks!	
+Message	None	"(Miku then told me herself about her past.
+She suffered a trauma as an idol that made
+her lose her voice. She was so confused...)"	
+Message	Shido	"Spirit powers don't matter. Even if you
+lose your voice, that doesn't mean you're
+worthless!"	
+Message	Miku	What... I don't believe you!	
+Message	Miku	" Every fan who said so never believed me!
+When I went through hard times...
+No one was there for me!"	
+Message	Shido	"I don't agree! I'm sure there are fans who
+believe in you and are waiting for you! But
+if what you said was true, I'll be there for you!"	
+Message	None	"(As I made this vow to Miku, we reached the
+final door. Beyond it... was Tohka.)"	
+Message	Shido	"I am Shido Itsuka. I've come to save Tohka!
+Let go of her immediately!"	
+Message	None	"(I barged in, but Ellen launched an attack at
+me that hurt me pretty badly.)"	
+Message	Shido	Agh...	
+Message	Tohka	"Stop! Stop! Please stop...! Anything but him!
+Anything but Shido! I care not what happens
+to me! I'll do anything! I concede!"	
+Message	Tohka	So... Please do not take Shido from me!	
+Message	None	"(My life was at risk, and Tohka fell into
+despair, which led to the worst-case
+scenario. Sephira's Inverse.)"	
+Message	None	"(DEM realized they couldn't take down Tohka
+and retreated. In order to get Tohka back to
+normal, Miku and I fought her.)"	
+Message	None	"(But we were powerless against Tohka's
+attacks. As she struck Miku, I panicked, and
+I felt energy surge in my left hand.)"	
+Message	Miku	What are you...?	
+Message	Shido	I promised.	
+Message	None	"(I used Zadkiel's power to protect Miku, and
+when Miku's brainwash abilities wore off,
+Yoshino and the Yamai Sisters came as back up.)"	
+Message	Shido	Yo, Tohka. I've come to save you.	
+Message	Tohka	Shi...do?	
+Message	None	"(I descended to where Tohka was and planted
+a soft kiss on her lips. I felt a sense of déjà vu.
+When our lips parted, Tohka returned to normal.)"	
+Message	Shido	Welcome back, Tohka.	
+Message	Tohka	I am back, Shido...	
+Message	None	"(And so, we were able to rescue Tohka
+without losing anyone. As for Miku...)"	
+Message	Miku	OH! You've come for me, darling!	
+Message	Shido	D-Darling?!	
+Message	None	"(She totally changed. I was so surprised
+when Miku kissed me gently.)"	
+Message	Miku	"Even if I lose my voice, even if no one hears
+me sing again, as long as I have you, that's all
+that matters. I will sing for you, and only you."	
+Message	None	"(Miku made this promise, and smiled from
+ear to ear.)"	
+Message	None	"(A few days after I sealed Miku, Reine-san
+called me in to test a new game.)"	
+Message	None	"(It was a virtual reality game called "My Little
+Shido 2". Unlike other games, it required me to
+enter a VR-world in order to play it.)"	
+Message	None	"(Everyone watched as I fumbled through the
+game. However, I spotted someone mysterious,
+even by video game standards.)"	
+Message	???	"...Let me ask you.
+...Love.
+...What is love?"	
+Message	None	"(I met an interesting girl named Arusu, and
+then a bug occurred inside of the game, trapping
+me by preventing me from logging out.)"	
+Message	None	"(However, in order to learn what love is, Arusu
+claimed she needed to perform simulations,
+calling in some familiar faces.)"	
+Message	None	"(The only way I could return to reality was by
+teaching Arusu love. So, I went on a ton of
+dates.)"	
+Message	Shido	"Oh... sorry. Are you the staff here? You were so
+beautiful that I thought you were a doll."	
+Message	Tohka	"My, you're very kind. I'm the owner of this shop.
+My name is Tohka."	
+Message	None	"(There was Tohka, the sophisticated store
+clerk.)"	
+Message	Shido	H-Hey. Don't put your hand in there.	
+Message	Kaguya	"Hehehe... You were bratty, but your spirit tastes
+pretty good."	
+Message	Yuzuru	"Heavenly. I feel like I'm going to melt. Hehe. Shido,
+don't worry. I won't take your life."	
+Message	None	(Kaguya and Yuzuru became succubi.)	
+Message	Shido	I'll make you forget. All your sorrows, everything.	
+Message	Yoshino	No, Shido-san! Yoshinon... is watching.	
+Message	None	"(There was Yoshino, widowed from her
+partner, Yoshinon.)"	
+Message	Kurumi	Here we go, twirly-twirly ♪	
+Message	Shido	Twirly-twirly!	
+Message	Kurumi	Twirly-twirly ♪	
+Message	Shido	Twirly! Twirly!	
+Message	None	"(And at the maid café, Kuru―no, actually,
+let's forget this one.)"	
+Message	None	"(As I went about my daily life, I met the
+black-haired Arusu.)"	
+Message	Arusu	I am Arusu. There is no doubt about it... I am Arusu.	
+Message	Shido	I see... I suppose so.	
+Message	Arusu	"Hm... Let's see. I am Arusu. But I guess I could also
+say that I'm not Arusu."	
+Message	None	"(White and black. There were two Arusus,
+leading to me naming the white version.)"	
+Message	Shido	How about Maria? Sorry, I just thought of it.	
+Message	Maria	No. I want it... Maria, Maria Arusu. My... name.	
+Message	None	"(She seemed to like her name, so from that
+moment on, she became known as Maria.)"	
+Message	None	"(Each time my love for someone grew, the
+world reset. Maria would learn something new
+about love, and soon acquired new emotions.)"	
+Message	Maria	"Yes. That is right. That is how everyone
+else conveyed their love to Shido. At the
+end of a date, you must kiss."	
+Message	Maria	"If I do that, I am sure, I will fully understand
+love. If I do that, then Shido... and the others
+will be released from this world."	
+Message	None	"(Maria had an idea, and we decided to go
+on a date together.)"	
+Message	None	"(We went to school early, walked home
+together after class. We even got closer
+with Tohka and the others.)"	
+Message	None	"(On my first full day of dating Maria,
+things took a turn... At the end of the day,
+we kissed.)"	
+Message	Maria	What is this...? My powers are, aaaah!	
+Message	Shido	Maria... Hey, Maria?!	
+Message	Arusu	"Good grief. You made me wait quite a while.
+But at long last, the time has come."	
+Message	None	"(Maria was unconsciously holding a great
+power. By learning emotions, she accidentally
+ceded control of the game to the black Arusu.)"	
+Message	Arusu	"Don't call me by her name! I have my
+own name, my actual name... Marina Arusu.
+The name my father bestowed to me!"	
+Message	Shido	Marina... That's your name?	
+Message	None	"(Marina revealed the truth. Maria was a
+copy of Marina. That's why we were trapped
+here.)"	
+Message	None	"(As a creation of DEM, her mission was to
+destroy the game and seize control of the
+Fraxinus to destroy the real Tengu City.)"	
+Message	None	"(We moved to stop her. I made it to Marina, but by
+then, she had assumed a massive amount of power.)"	
+Message	Shido	"Ngh... This might be... too much. No... I'll
+endure this! I'll protect Maria, even if it
+kills me!"	
+Message	Maria	"Please, give me the strength to protect Shido.
+I... wish to protect Shido. I do not want to
+lose him... for everyone, and for myself."	
+Message	None	"(The world responded to Maria's wish,
+allowing her to manifest an Astral Dress.
+This power turned the tide.)"	
+Message	Marina	"It would never bend in your favor! You're
+destined to disappear, like any copy would!
+I am the One who will defeat you, begone!"	
+Message	Maria	"Let us combine forces for one more powerful
+attack. Marina is likely expecting it as well."	
+Message	Shido	Got it! GOOOOOOO!!	
+Message	None	"(Thanks to Maria, I was able to summon
+Sandalphon. With Marina taken out, the
+virtual world ceased, but at a cost...)"	
+Message	None	"(Marina, now bracing for defeat, became
+unstable, and threatened to drop the Fraxinus
+on top of Tengu City.)"	
+Message	Shido	"Does that mean both of you will disappear?
+No, you absolutely can't!"	
+Message	Maria	"This is the best chance we have. For
+everyone―for you―to live."	
+Message	None	"(I wanted to stop her, even if it meant risking
+Marina's life. Maria steeled her resolve, and
+headed for Marina.)"	
+Message	None	"(I couldn't believe they would disappear. With
+Tohka and the rest of the girls' help, Maria and
+I barged into the mother room.)"	
+Message	None	Maria, Marina! It can't end like this!	
+Message	Maria	"It is too late. It is impossible to reset the
+Fraxinus' authority control and for Marina
+to disappear alone."	
+Message	None	"(No matter what, I couldn't have saved them.
+In the end, I could only let them go.)"	
+Message	Maria	Thank you, Shido. You are the kindest soul.	
+Message	Shido	Maria! MARIAAAAAAAAA!	
+Message	None	"(Marina disappeared, as did Maria. But not
+before she left me with a kiss. Then, the
+virtual world disappeared with both Arusus.)"	
+Message	None	"(I awoke to find myself back in the real
+world. Of course, the Arusus weren't there.)"	
+Message	None	"(I felt empty. In the end, I couldn't save them.
+But Maria left a message for me, detailing her
+true feelings.)"	
+Message	Maria	"Most of all, Shido. The time I spent with you, even
+the times you do not remember, are treasures to
+me. Thanks to you... I learned the answer."	
+Message	None	"(In that message was a file. It automatically
+installed into my phone. Marina's last gesture.)"	
+Message	Shido	M-Maria?! Is that really you, Maria?!	
+Message	Maria	Yes. It is your Maria.	
+Message	None	"(Before Maria disappeared, it seems Marina
+copied Maria's personality data and compiled
+an app.)"	
+Message	Maria	"I swear to devote myself to helping you,
+Shido. That is why you mustn't give up.
+Ever. Please be strong."	
+Message	Shido	Yeah, I'll do my best. I swear that I'll save them.	
+Message	None	(And even now, my date goes on...)	

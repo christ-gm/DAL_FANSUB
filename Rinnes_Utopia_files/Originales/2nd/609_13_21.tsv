@@ -1,0 +1,168 @@
+﻿Operator	Comment	Key	Translation
+Message	Arusu	"Good grief. You made me wait quite a while.
+But at long last, the time has come."	
+Message	Shido	You're... Arusu? The other, black-clothed, Arusu.	
+Message	Arusu	No no, I'm the *real* one.	
+Message	Shido	So, the one who trapped us here is...	
+Message	Arusu	"That wasn't me. The one who controls this world
+is the girl, the one you call, "Maria"."	
+Message	None	"(Arusu said this and pointed towards Maria, who
+was curled into a ball.)"	
+Message	Shido	What does that mean?	
+Message	Arusu	"Too bad, though. Now I've become the controller.
+I have been waiting. Watching your ridiculous
+farce, all for this girl to learn what love is."	
+Message	Maria	...*pant, pant*.	
+Message	Shido	Maria?! Are you okay?!	
+Message	Maria	"Yes. Nothing serious happened to me. However,
+there was an interference with the authority
+controls, most of which were taken from me."	
+Message	Arusu	But, wouldn't you call it an equivalent exchange?	
+Message	Shido	Equivalent exchange...?	
+Message	Arusu	"Well, I am the one who gave this girl everything.
+Her voice, her body... The information with which
+she operates. Otherwise, she wouldn't exist."	
+Message	Maria	"I did not always exist in this world...? Are you
+saying I was created from you, an irregularity?"	
+Message	Arusu	"That's right. Well, all things considered, it was
+not intentional. You were created through a
+distortion in this world. That is the truth."	
+Message	Shido	Wha...?	
+Message	Arusu	"Not that you need to worry or anything, but...
+Something concerning had happened."	
+Message	Shido	Something concerning?	
+Message	Arusu	"Right. The moment I infiltrated this world, a
+strong firewall was put around the Fraxinus'
+main computer, trapping me in this world."	
+Message	Shido	Trapped?	
+Message	Arusu	"Yes. For a long time, I could not escape.
+However, Shido Itsuka, you solved that problem
+for me. You freed us from this world!"	
+Message	Arusu	"But I no longer need this girl, nor you.
+You are free to vanish alongside her!"	
+Message	Shido	Arusu...! You can't be serious!	
+Message	Arusu	"Don't call me by her name! I have my
+own name, my actual name... Marina Arusu.
+The name my father bestowed to me!"	
+Message	Shido	Marina... That's your name?	
+Message	Marina	"That's right. You'll no longer confuse us, right?
+She and I are completely different people, and
+I am the original."	
+Message	Marina	"I've wasted too much time here. There's no
+need for me to take care of you. Farewell."	
+Message	Shido	"W-Wait a second! Did you think I'd just let
+you monologue then walk away?!"	
+Message	Marina	Too bad for you.	
+Message	Shido	Wha...! My body... I can't move!	
+Message	Shido	Damn it. She left... Maria, are you okay?	
+Message	Maria	"...*pant...pant...* There is something affecting
+my powers..."	
+Message	None	"(Maria was sat down, taking pained, heavy
+breaths. This is the work of the black-clothed
+Arusu... Marina.)"	
+Message	Reine	"...Shin, can you hear me?"	
+Message	Shido	This voice... Reine-san?!	
+Message	Reine	"Goodness. At last we make contact, just\nwhen the situation's taken a turn."	
+Message	Shido	"Reine-san! It's an emergency! There are
+two Arusus, and the black-clothed one has
+taken control of this world!"	
+Message	Reine	"...Shin, calm down. We saw everything from\nthe outside. Perhaps I should explain?"	
+Message	Shido	Yes... Please.	
+Message	Reine	"...Then, I'll explain. From the beginning,\nour hypothesis was flawed."	
+Message	Reine	"The Artificial Spirit is the cause of this whole\ndebacle. It was not the white-clothed Arusu,\nbut the black-clothed one, Marina Arusu."	
+Message	Shido	"I kinda got that from what she told me. So,
+about the world disappearing..."	
+Message	Reine	"Yes. The world has been seized by Marina Arusu.\nHowever, that's not all. She's entered our main\ncomputer, and seized control of the Fraxinus."	
+Message	Shido	"Seized control of the Fraxinus?! Does that
+mean Ratatoskr can't control it?!"	
+Message	Reine	"Kannazuki is doing his best, but it is proving\nhard to recover. Our firewalls once protected\nus, but have now become our biggest obstacle."	
+Message	Shido	That means, nothing can be done right now?	
+Message	Reine	"Unfortunately, that seems to be the case.\nWe are exploring all available options, but\nwe're limited. The ship can't move, after all."	
+Message	Shido	Then, what can we do...?	
+Message	Reine	"...Stop the Artificial Spirit inside of the\ndigital world. Most likely, there is no\nother way."	
+Message	Shido	"Which means defeating Marina... But if she can
+do whatever she pleases, how can we stop her?"	
+Message	Maria	...There is... a way.	
+Message	Shido	Maria?! Are you able to move?	
+Message	Maria	"Because 90% of the Fraxinus' mainframe has been
+seized, I separated myself from the system. This
+way, I can avoid Marina Arusu's influence."	
+Message	Shido	I don't really follow, but I'm happy you're okay.	
+Message	Maria	Yes. I apologize for worrying you.	
+Message	Maria	"However, what has happened is all my
+responsibility. Had I not fallen into this state,
+everything could have been avoided."	
+Message	Shido	That's not true! None of this is your fault.	
+Message	Maria	"It is. This all started because I was unable
+to counter Marina Arusu's initial attack."	
+Message	Shido	"An attack from Marina? Like, a cyber-attack
+on the Fraxinus? But then, if Marina is the
+controller, how is that connect—"	
+Message	Reine	"...Shin, your hypothesis is incorrect."	
+Message	Shido	Reine-san? What do you mean?	
+Message	None	"(Immediately after asking, I caught onto
+a vague feeling of discomfort.)"	
+Message	None	"(We had thought Maria was an AI Spirit,
+an irregularity from the outside. We helped
+her on her mission to learn what love is.)"	
+Message	None	"(However, that whole premise was wrong.
+The irregularity in this world wasn't Maria.
+It was the black-clothed Arusu: Marina.)"	
+Message	None	(If that were the case, one doubt remained.)	
+Message	None	"(The girl in front of me... Maria Arusu,
+who is she?!)"	
+Message	Reine	"...Shin, remain calm and listen. The girl\nin front of you is most likely... the Fraxinus'\ncontrol AI."	
+Message	Shido	WHA?!	
+Message	Shido	Maria is... the Fraxinus' AI?!	
+Message	None	"(Ratatoskr's aerial ship, the Fraxinus, is
+equipped with a highly-advanced AI, or so
+Kotori and Reine-san had told me.)"	
+Message	None	"(Of course. It regulated the ships controls.
+When I went on dates, it would present me with
+choices. It observed the Spirits and me closely.)"	
+Message	Maria	"Yes. When control was seized, because of the
+open lock, all information was disclosed. I am
+the ship's AI. You could say I am the Fraxinus."	
+Message	Reine	"...Because of Marina Arusu's attack, some of\nthe Fraxinus' protections were destroyed. It\nwas then that Marina Arusu entered."	
+Message	Reine	"...However, the AI trapped Marina Arusu into\na strongly-protected field, i.e. this virtually-\nsimulated reality system."	
+Message	Reine	"...Everything else from then on is as Marina\nArusu said. Because of the attack, a being called\nMaria awakened in the AI, with locked memories."	
+Message	Reine	"This is only speculation, but... most likely,\nshe was spawned to combat this unknown\nfoe. Thus, Maria was brought to life."	
+Message	Shido	"Then how do you explain Maria's quest to
+understand love? Marina suggested she was
+freed because Maria had obtained emotion."	
+Message	Reine	"...When her memories were locked by the\nsystem, her operating system's default function,\nto 'foster love', is all that remained, or..."	
+Message	Shido	Or...?	
+Message	Reine	"...There could be another cause. The Fraxinus\nAI's primary function is to support you in your\nquest to date the Spirits."	
+Message	Reine	"It tracks the Spirits' mental states, and\noffers choices. One could say the Fraxinus\nAI was born to nurture love."	
+Message	Shido	Born... to nurture love.	
+Message	Reine	"Yes. That is most likely why Arusu wished\nto learn the meaning of love."	
+Message	Reine	"...In truth, it's likely that the source of her\naspirations was one person. None other\nthan you."	
+Message	Shido	...!	
+Message	Reine	"However, this ended up becoming a huge\nweakness."	
+Message	Maria	"Yes. I had been subconsciously running the
+Fraxinus' protections. However, there is only
+one way to release them."	
+Message	Reine	"...Yes, that was by attracting the AI's heart.\nIn other words, it was her becoming more\nhuman."	
+Message	Shido	Becoming... more human.	
+Message	Maria	"However, it was a double-edged sword. When
+I let my guard down, becoming defenseless,
+I accidentally relinquished those protections."	
+Message	Shido	"Then, this isn't your fault or responsibility.
+I'm at fault, too!"	
+Message	Maria	"No, it is my responsibility. There were surely
+other ways to return you home. Even so, I gave
+into my desires, and never sought them. Blame me."	
+Message	Shido	I can't accept that!	
+Message	Maria	"Whether or not you can matters not! That is
+the truth!"	
+Message	Reine	"...Both of you, you do not have the time to\nbicker. The situation is worsening as we\nspeak."	
+Message	Shido	"Situation is worsening? What is Marina
+doing...?"	
+Message	Reine	"I previously thought her target was Ratatoskr's\ninformation and technology. However, it seems\nto be a simpler harassment."	
+Message	Shido	A simpler harassment...?	
+Message	Reine	"Just a moment ago, the Fraxinus' main cannon\nstarted up. It hasn't fully charged yet, but it\nhas the capability to wipe out an entire city."	
+Message	Shido	"The Fraxinus' main cannon?! If she does that,
+there's no telling what could happen..."	
+Message	Reine	"It would no doubt ripple around the world.\nTo be honest, it is unfathomable."	
+Message	Shido	Is there any way we can stop her?	
+Message	Reine	"Just to be upfront, it is quite difficult. Even\nso, there's no other way. We must do it.\nListen, Shin. The only way, is to..."	

@@ -1,0 +1,401 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	ACHOO!	
+Message	Tohka	Sh-Shido? What's the matter? Are you cold?	
+Message	None	"(While walking home from school, I had an
+intense sneeze, prompting Tohka to get up
+close to me.)"	
+Message	Shido	"You know, it's been getting chilly recently,
+hasn't it? You okay, Tohka?"	
+Message	Tohka	"Don't worry. I'm just warm and fuzzy from
+being with you, Shido!"	
+Message	Shido	...Ah, right!	
+Message	None	"(Tohka puffed her chest out proudly. I had
+no idea how to respond.)"	
+Message	Tohka	Hm? What's the matter, Shido?	
+Message	Shido	Oh, nothing. I was just feeling shy.	
+Message	Tohka	R-Really? Sorry...	
+Message	Shido	No, no. It's nothing to apologize for.	
+Message	None	"(I shook my head and played off the fact
+that I was taken aback.)"	
+Message	None	"(Tohka had a gift for startling me. I thought
+I'd get used to it by now, but it's still
+something I get shy over.)"	
+Message	None	"(Especially when Tohka doted upon me.
+Ever since we started dating, she's been
+willing to wait on me, hand and knee.)"	
+Message	None	"(But there are times when I can't help but
+feel shy about it. Especially when it comes
+from out of nowhere.)"	
+Message	Tohka	Shido, what is the matter? Are you ill?	
+Message	Shido	"No, I'm fine. Got some stuff on my mind.
+It's not a cold or anything."	
+Message	Tohka	"Are you certain? When temperatures drop, I
+hear it is easier to get sick. I do not want you
+to get sick."	
+Message	Shido	Yeah. I'll be careful.	
+Message	Tohka	Shido, do you have a moment?	
+Message	Shido	Hm? What is it?	
+Message	Shido	..T-Tohka?	
+Message	Tohka	Hm. You are not hot.	
+Message	Shido	Y-Yeah... Thanks.	
+Message	None	"(Tohka's cool hand felt nice on my forehead,
+but being in the middle of the street made me
+panic. At least it was just her hand...)"	
+Message	Tohka	"Shido, your face is turning red. Perhaps you
+are sick."	
+Message	Shido	"No, I'm totally fine! It really isn't a cold,
+so don't worry about it."	
+Message	Tohka	Hm. You are sure? Well, okay... BUT!	
+Message	Shido	But what?	
+Message	Tohka	"If you feel any symptoms, be sure to tell me,
+okay?"	
+Message	Shido	Thanks, Tohka. Take care of yourself too, okay?	
+Message	Tohka	Right! So long as I have you, I'll be fine!	
+Message	None	"(There she goes again with that stuff.
+I pretended to shrug it off as I continued
+walking.)"	
+Message	None	(But in truth, it warmed my heart a bit.)	
+Message	Shido	"It's only going to get colder, though. I need
+to start wearing layers."	
+Message	Shido	"Come to think of it, you don't have many
+winter clothes, do you?"	
+Message	None	"(Tohka's life is supported by Ratatoskr.
+I bet they give her new clothes, too.)"	
+Message	Tohka	"Reine gave me some, I believe. However I
+have yet to purchase some for myself."	
+Message	Shido	"All right! Then, why don't we take a look
+at some outfits tomorrow?"	
+Message	None	"(I just realized this is Tohka's first winter.
+She's never picked out winter clothes before,
+so it could be a new, fun experience for her.)"	
+Message	Tohka	Okay. It's a date! I can't wait!	
+Message	Shido	Yup. It's a date.	
+Message	None	"(Saying that still makes me blush, but I should
+be used to it. We've gone on plenty of dates
+by now.)"	
+Message	Shido	"Let's meet tomorrow at the shopping district
+at 11."	
+Message	Tohka	Understood! I am already so excited!	
+Message	Tohka	"So the plan is for Shido... to pick exactly
+whichever outfits he prefers me in, right?!"	
+Message	Shido	Hm? Did you say something?	
+Message	Tohka	N-Nothing! See you at supper!	
+Message	Shido	Okay, later.	
+Message	None	"(It was the next day, 11 on the dot. Tohka
+had arrived right on time.)"	
+Message	Tohka	Sh-Shido. I am sorry. Did I keep you waiting?	
+Message	Shido	No, I just got here too. Morning, Tohka.	
+Message	Tohka	Okay, morning!	
+Message	Tohka	So, um, what do you think? Is my outfit strange?	
+Message	None	(Tohka asked me sheepishly.)	
+Message	None	"(She wore stockings and a mini-skirt. Her
+legs were so long and alluring.)"	
+Message	None	"(Bu-But that skirt sure is short. Well, her
+outfit wasn't anything out of the ordin―)"	
+Message	None	"(What am I doing...? We're about to go on
+a date, and I'm having these thoughts.)"	
+Message	Shido	"If you were worried about being late, you
+could've just come with me."	
+Message	Tohka	"N-No, I can't! Then it would not be like a
+date, right?"	
+Message	Shido	Well, not to me...	
+Message	Tohka	"Ai and the girls had said so. They said, in
+order for it to be an official date, we must
+meet separately."	
+Message	Shido	"Sure, I guess that makes sense. Oh well.
+Whatever. Let's go."	
+Message	Tohka	Okay! On the hunt for winter clothes!	
+Message	Shido	"All right. Let's get going. I hope we can find
+you something nice."	
+Message	None	"(There were plenty of clothing stores, but I'm
+not too aware of what they sell. Guess we can
+hit stores we're used to.)"	
+Message	Tohka	Hm. A breeze keeps tingling my legs.	
+Message	Shido	Tohka, what's the matter?	
+Message	Tohka	Fue?!	
+Message	Tohka	A-About what?	
+Message	Shido	Oh. You just seemed uncomfortable.	
+Message	Tohka	Th-That's not true at all!	
+Message	Shido	You sure? If you say so.	
+Message	None	"(For some reason, Tohka's having difficulty
+walking. I wonder if her feet hurt. But I think
+she would've said something.)"	
+Message	None	"(Well, I guess I'll just keep an eye out for
+that.)"	
+Message	Shido	Oh, we're here.	
+Message	Tohka	OH! So many cute clothes.	
+Message	None	"(There was a section for winter attire, which
+immediately caught Tohka's eye.)"	
+Message	Shido	"Looks like they've got a seasonal section.
+Why don't you pick out what you like?"	
+Message	Tohka	"Hm? Just one? Kotori said I can purchase
+however much I want..."	
+Message	Shido	"Oh, sorry. That's not what I meant. I'll buy
+you one outfit myself. It's your first winter,
+right? Let's ring it in in style."	
+Message	Tohka	Are you sure about that?	
+Message	Shido	Of course. That's why we came here.	
+Message	None	"(It's a celebration. I can't afford designer
+clothes, but I can do this much for her.)"	
+Message	None	"(Kotori told me she would spot me if I didn't
+have enough, but I denied it. It's pointless if
+I can't buy it with my own money.)"	
+Message	None	"(I have to look dependable. When I said that
+to Kotori, she just laughed.)"	
+Message	Tohka	"But there are many shopgoers. I am unsure
+if I can wear it and get your opinion."	
+Message	Shido	"Go ahead and choose what you want, Tohka.
+You might find that you'll want to shop more
+in the future, too. It's all good experience."	
+Message	Tohka	Got it! I shall pick out items for myself.	
+Message	Tohka	Hey, Shido? What's this?	
+Message	Shido	Hm? Is that a scarf?	
+Message	Tohka	Scarf? What interesting fabric. How do I use it?	
+Message	Shido	"You wrap it around your shoulders, knees, or
+body. It's pretty cozy."	
+Message	Tohka	Hm. Like this?	
+Message	Shido	Right. You look great in it.	
+Message	None	"(After wrapping herself in the checkered
+scarf, Tohka looked totally different.)"	
+Message	None	"(She looked like a bookish librarian. Her long
+hair was tucked neatly inside of the scarf, which
+hugged her thin frame. Cute pattern, too.)"	
+Message	None	"(If she were reading a book, sitting beside a
+windowsill, it would be a lovely scene.)"	
+Message	Tohka	"...But Shido, this makes it difficult to eat.
+I think I would get it dirty."	
+Message	None	(Seems like she had other plans in mind.)	
+Message	Shido	"Well, you'd be wearing clothes underneath it,
+so you could just remove it before you eat."	
+Message	Tohka	Oh, I see! That should be fine, then.	
+Message	None	"(Tohka appeared satisfied, and placed the scarf
+back on the rack.)"	
+Message	Tohka	"There are too many clothes to choose from.
+Shido, what catches your eye?"	
+Message	Shido	"Um... Wait, no! Today, you're choosing for
+yourself, right Tohka?"	
+Message	Tohka	Y-Yes... That's true, but...	
+Message	Shido	You can do it.	
+Message	Tohka	Okay, I'll try! Hm...? There are shoes, too.	
+Message	None	"(Tohka stopped at the back of the store.
+Come to think of it, something was bothering
+her earlier. Maybe her shoes don't match.)"	
+Message	Shido	"Wanna try these out? Sit there. I'll grab you
+a pair."	
+Message	Tohka	Then, can you get me those boots?	
+Message	Shido	Sure. Leave it to me.	
+Message	None	(Okay, these boots.)	
+Message	Shido	Sorry for the wait.	
+Message	Tohka	Okay. Thanks Shido. Hold on.	
+Message	None	"(Tohka slipped her foot into the boots, but
+she, not being used to the high top, was
+having trouble.)"	
+Message	Tohka	Hm. These are difficult to put on.	
+Message	Tohka	Yo... Mm... Like this...? No, that's wrong.	
+Message	Tohka	Sorry, Shido. Help me.	
+Message	Shido	Okay. Hold on.	
+Message	None	"(I kneeled down in front of Tohka and took her
+shoes off. I tried reaching for her foot, but...
+I froze.)"	
+Message	Shido	...	
+Message	None	"(Obviously, Tohka had removed her shoes, and
+now I could see her toes. Seeing them wrapped
+in stockings was strangely captivating.)"	
+Message	Tohka	Hm...? What's the matter, Shido?	
+Message	Shido	Ugh... S-Sorry!	
+Message	Tohka	Huh...?	
+Message	None	(I jumped, startled by her sudden question.)	
+Message	None	"(There's no way I could tell her that I was
+mesmerized by her legs. I need to calm down.)"	
+Message	Tohka	Are you okay, Shido? Are you ill after all?	
+Message	Shido	No, I'm fine! It's nothing!	
+Message	None	"(I spat out a swift response and reached for her
+foot.)"	
+Message	Tohka	Mm...	
+Message	None	"(When I touched her, Tohka let out a small
+grunt.)"	
+Message	Tohka	Mm, Shido.. Aah...	
+Message	Shido	Whoa...	
+Message	None	"(Tohka's legs are so smooth. I can feel her
+warmth through her stockings...)"	
+Message	Tohka	Mmm.	
+Message	Tohka	"Sh-Shido, it's a bit strange to feel you touching
+my legs..."	
+Message	Shido	Hey! Don't make this weird!	
+Message	Tohka	However strange it may be... I don't mind it.	
+Message	Shido	...!	
+Message	None	(What is she saying?!)	
+Message	None	"(It almost feels like I'm doing something very
+wrong.)"	
+Message	None	"(I need to look away! If I don't look, it might
+seem less suspicious...)"	
+Message	Shido	AH?!	
+Message	None	"(On the other hand, I'm kneeling right in front
+of Tohka. Her knees are at my eye-level.)"	
+Message	None	"(I can almost see the inside of her skirt
+from between her knees. But I'm not looking!
+I'm not...!)"	
+Message	Tohka	Shido...?	
+Message	None	"(I froze, and Tohka looked down confusingly
+at me. She blushed almost immediately.)"	
+Message	Tohka	...!	
+Message	None	(Tohka clamped down her skirt.)	
+Message	Tohka	W-Were you looking, Shido...?	
+Message	Shido	No! I didn't! I couldn't!	
+Message	Tohka	Really?	
+Message	Shido	Really!	
+Message	Tohka	Really really?	
+Message	Shido	Really really!	
+Message	Tohka	Then I believe you...	
+Message	Shido	O-Okay.	
+Message	None	"(Uuunh... I feel terrible. Sorry, Tohka.
+I promise to wipe the memory...)"	
+Message	Tohka	How do they look, Shido? Are they ravishing?	
+Message	Shido	"Yeah, they are. Hey, why don't you grab that
+scarf you pulled earlier, too?"	
+Message	Tohka	Very well! I shall. How's this, Shido?	
+Message	Shido	Perfect. They pair together nicely.	
+Message	Tohka	"Then, Shido, is it okay for me to ask you if
+can purchase it for me?"	
+Message	Shido	"Sure thing. Are you sure? You can buy clothes
+if you want."	
+Message	Tohka	"Clothes can only be worn every so often,
+but these accessories can be worn with any
+outfit, understand?"	
+Message	Shido	...Got it.	
+Message	Tohka	I-Is that not okay...?	
+Message	Shido	"No. As long as you care for them, then I'm happy
+to get them for you."	
+Message	Tohka	Okay!	
+Message	None	"(*sigh* That was an ordeal, but we did what
+we came here to do. Except for buying clothes.)"	
+Message	Tohka	"Seeing the winter section was such a treat.
+I thoroughly enjoyed myself. I want to wear
+the shoes and scarf already!"	
+Message	None	"(Tohka was giddy as she exited the shop.
+It was a pleasure for both of us. I'd call it
+a successful date.)"	
+Message	Shido	"I'm sure it'll get colder, so it's good that we
+got our shopping done ahead of time."	
+Message	Tohka	Yes! I cannot wait! Mm...	
+Message	Shido	Whoa...	
+Message	None	"(Tohka was shivering. An icy gust just blew
+through the air.)"	
+Message	None	(I wonder if Tohka's cold.)	
+Choice		Casually block the gust.	
+Choice		Stay put.	
+Message	None	(I stepped in front of Tohka.)	
+Message	Tohka	Shido?	
+Message	Shido	"Oh. I was hoping to shield you from the wind
+if at all possible."	
+Message	None	"(Tohka's hair blew back from the headwind.
+The gust's intensity died down a bit, so maybe
+my act was in vain.)"	
+Message	Tohka	Shido, you are too kind.	
+Message	Shido	Not really.	
+Message	Tohka	"You don't think so? I mean, the wind slowed
+down."	
+Message	None	"(Tohka flashed a grin, and suddenly another gust
+of strong wind blew.)"	
+Message	Shido	Whoa!	
+Message	Tohka	Aaah!	
+Message	None	"(The wind messed up my balance, and I tipped
+over.)"	
+Message	Shido	S-Sorry, Tohka!	
+Message	Tohka	AAAAAAH!	
+Message	Shido	T-Tohka! I can see!	
+Message	Tohka	I thought you were blocking the wind!	
+Message	Shido	Okay! I'll do it, so just hold down your skirt!	
+Message	Tohka	Urgh... Mm...	
+Message	Tohka	Aah!	
+Message	Shido	Tohka! Your skirt flipped again!	
+Message	Tohka	NO! I told you not to look!	
+Message	Shido	S-Sorry! Just hold it down!	
+Message	Tohka	Sh-Shido, you hold it down!	
+Message	Shido	I can't do that!	
+Message	None	"(So we embraced, fighting against the frigid
+chill and her lively skirt.)"	
+Message	Tohka	Mm... It is getting rather cold.	
+Message	Shido	Oh, sorry. I know, huh?	
+Message	None	"(Tohka saying it made me realized that she
+still wasn't dressed in winter attire, so she
+no doubt would be affected by the cold.)"	
+Message	None	(It would be for the best if we went indoors.)	
+Message	Tohka	"If the wind picks up, I would not want to be
+outside."	
+Message	None	"(Just as she muttered, a sudden gust of wind
+blew.)"	
+Message	Tohka	AAAAAH!	
+Message	Shido	BU!	
+Message	None	(What I saw almost made me choke.)	
+Message	None	"(Because I was a few steps behind Tohka, it
+came into full view. Her skirt had lifted ever
+so―)"	
+Message	Tohka	"WH-WH-WH-WH-WHAT ARE YOU LOOKING AT?!
+YOU FOOL!"	
+Message	Shido	SSSSSSSSSSSORRY!	
+Message	Tohka	Yah!	
+Message	Shido	Aah!	
+Message	Tohka	Whoa!	
+Message	Shido	WHY?!	
+Message	None	(Talk about timing!)	
+Message	Tohka	"N-Not again, Shido! You had better not be
+slithering behind me on purpose!"	
+Message	Shido	Of course not! Just hurry up and fix your skirt!	
+Message	None	"(And so, we were at the mercy of the blustery
+wind.)"	
+Message	Shido	Sorry, Tohka.	
+Message	None	"(The wind slowed down, giving me time to
+apologize.)"	
+Message	None	"(Tohka was still pouty, but I couldn't blame
+her. I'm sure it'd be annoying for the wind to
+keep blowing up your skirt.)"	
+Message	Tohka	"Shido, you needn't apologize. I'm, um, sorry
+too..."	
+Message	Shido	No. You did nothing wrong. I'm the one who saw.	
+Message	Tohka	That's not it.	
+Message	Tohka	"You see, today... My skirt was shorter than
+usual."	
+Message	Shido	Huh? Really?	
+Message	None	"(I had a hunch it was shorter, and it was.
+Glancing up and down at her, I noticed her
+legs were more visible.)"	
+Message	Tohka	D-Don't ogle me!	
+Message	Shido	S-Sorry. I couldn't help it.	
+Message	Shido	"W-Were you worried about that? Is that why
+you were walking funny?"	
+Message	Tohka	"I had felt as though... the smallest thing would
+flip my skirt."	
+Message	Shido	Isn't that to be expected with a shorter skirt?	
+Message	Tohka	"I was told that, by doing so, you would be
+happier..."	
+Message	Shido	Huh...?	
+Message	Tohka	"Ai, Mai, and Mii said so. That wearing a shorter
+skirt would be alluring."	
+Message	None	"(That's...disgraceful. Seriously... They...
+Yeah, I guess I can thank them.)"	
+Message	Tohka	"They also had said that miniskirts are like
+magnets to the eyes of men."	
+Message	Tohka	Shido, um... So were your eyes glued?	
+Message	Shido	"Well, glued or not, I guess I saw under...
+Sorry."	
+Message	None	"(I was honest, but hoped it wouldn't embarrass
+her. She could react any number of ways.)"	
+Message	Tohka	"No, it's okay. It means you were looking at me,
+right Shido? I can take solace in that."	
+Message	Shido	You're not mad?	
+Message	Tohka	"Mad? Why, of course not. I did it with the
+intention of showing you. If I were mad, it
+would defeat the purpose."	
+Message	Tohka	But... I was a tad embarrassed.	
+Message	Shido	"Understandable. I'm glad then, Tohka. Thanks
+for doing all of that for me."	
+Message	Tohka	Yeah!	
+Message	None	(Tohka smiled meekly, then whispered...)	
+Message	Tohka	I am glad I mustered up the courage.	
+Message	None	(Tohka gripped her skirt.)	
+Message	Tohka	"B-But you can't stare too much! It is still
+embarrassing!"	
+Message	Shido	O-Okay, got it.	
+Message	None	"(Yeah, uh. I guess skirts are best at a moderate
+length, but short skirts are nice now and then.)"	

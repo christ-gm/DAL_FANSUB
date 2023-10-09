@@ -1,0 +1,135 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	"Phew, maybe I ate too much. But Rinne's food is
+always so delicious I can't help but eat too much."	
+Message	Shido	"There's a hint of sweetness. It's hard to explain, but
+it's so appetizing. It makes my body feel warm and
+comfortable. Just a good home-cooked meal."	
+Message	Shido	Hm? Who could be calling?	
+Message	Shido	What?! O-Origami...?	
+Message	Shido	Hello?	
+Message	Origami	"Shido?"	
+Message	Shido	Yeah. What's up?	
+Message	Origami	"I know everything about you, Shido."	
+Message	Shido	Huh?	
+Message	Origami	"Thanks for today."	
+Message	Shido	Oh... yeah. Me too, thank you.	
+Message	Origami	"..."	
+Message	Shido	Uh... so... is that it? Did you want to say anything else...	
+Message	Origami	"Not really."	
+Message	Shido	O-Oh. I see.	
+Message	Origami	"Do I need business to call you?"	
+Message	Shido	Well... that's not it.	
+Message	Origami	"I couldn't get a hold of the AST."	
+Message	Shido	What?	
+Message	Origami	"They may really be busy."	
+Message	Shido	I-I see. It must be really tough right now.	
+Message	Origami	"Mmm..."	
+Message	Shido	...	
+Message	Origami	"..."	
+Message	None	"(Our conversation has to continue! But w-what
+should we even talk about?)"	
+Message	Origami	"How's your studying going?"	
+Message	Shido	"Oh. It's not. I was going to ask Rinne
+or Origami to help me study."	
+Message	Origami	"Why did you say Rinne's name first?"	
+Message	Shido	Huh?	
+Message	Origami	Nothing. Well, I'll talk to you again later.	
+Message	Shido	O-Okay...	
+Message	None	(Ah... did I do it again?)	
+Message	None	"(Or rather... what was that all about?
+I wonder if she called me to give me information
+about the AST.)"	
+Message	None	"(OH! I didn't tell Kotori that I told Origami everything.
+I should tell her, right?)"	
+Message	None	(*sigh* I'll go report to her after I take a bath.)	
+Message	None	(Ah. I don't know why I'm so tired.)	
+Message	None	(I should soak for a long time today...)	
+Message	Shido	Oh? Someone left the light on?	
+Message	Shido	What?	
+Message	Kotori	Shi...do?	
+Message	Shido	K-Kotori...? What are you...?	
+Message	Kotori	What? Why are you in a daze?	
+Message	Shido	"Oh. Uh... u-uh... I was just wondering if we
+ran out of shampoo or not..."	
+Message	Kotori	You idiot! You idiot brother!	
+Message	Shido	S-Sorry! It wasn't on purpose!	
+Message	Kotori	You ready?	
+Message	Shido	W-Wait. Can we talk about...	
+Message	Kotori	Ugh. You're hopeless.	
+Message	Shido	"I-I said I'm sorry. We used to bathe together
+back in the day. What's the big deal?"	
+Message	Kotori	Did you say something?	
+Message	Shido	"Nothing, nothing at all!
+I actually wanted to talk to you."	
+Message	Kotori	What? Why are you changing the subject?	
+Message	Shido	I-I'm sorry...	
+Message	None	"(I told Kotori that I told Origami everything,
+and that it seemed like the AST was also
+barely functional right now.)"	
+Message	Kotori	"Shido, what's with the loose lips? I'm shocked
+to hear how easy you gave up this information."	
+Message	Shido	I-I'm sorry.	
+Message	Kotori	"Well... it's fine. Thanks to that, I may be able
+to prevent AST's situation."	
+Message	Shido	R-Really? Did you get any more information?	
+Message	Kotori	"No. We were able to observe the Spirits' reaction
+throughout Tengu City, but... that's all we know."	
+Message	Shido	Is there no way to look into it further?	
+Message	Kotori	"We would've if it was possible, but we can't
+get a hold of headquarters so there's nothing
+we can really do."	
+Message	Kotori	"We're in the middle of a big phenomenon though.
+And I think Tengu City is in the center of this big
+change. That's all I can say for sure."	
+Message	Shido	I see.	
+Message	Kotori	Don't give me that look.	
+Message	Shido	But...	
+Message	Kotori	"Shido, your job is to go on dates with Spirits and
+stabilize them. If a girl dates a guy with the face
+you're wearing, they'll only feel worse."	
+Message	Shido	Sorry. I looked that glum, huh?	
+Message	Kotori	"Kinda. Although Origami Tobiichi isn't a spirit,
+she's still pretty important. Continue to have her
+on your list as well."	
+Message	Kotori	"We'll figure out the whole mystery so you just continue
+to be yourself, or else you'll get yourself in a worse bind."	
+Message	Shido	G-Got it.	
+Message	Kotori	"And if she gives you more information, you report
+it to me immediately."	
+Message	Shido	Okay...	
+Message	Rinne	Alright, I'll be borrowing your kitchen then.	
+Message	Shido	Yeah, sorry for the trouble all the time.	
+Message	Rinne	"Hee hee, you promised not to say that, right?
+Next door neighbors help each other out, after all."	
+Message	Shido	"Of course. If there's ever anything I can help with
+at your house Rinne, you can always ask me."	
+Message	Rinne	Thanks, Shido. But I don't think there's anything right now?	
+Message	Shido	It's true, you do have it together, Rinne...	
+Message	Rinne	...Is that so? I hope so...	
+Message	Shido	Hm? What's wrong?	
+Message	Rinne	It's nothing. Alright then, I'll prepare things quickly.	
+Message	Shido	Alright, I'll be watching the pot on my end. I'll leave that side to you.	
+Message	Rinne	Okay. Leave it to me.	
+Message	Rinne	Today's meal is meat and potato stew.	
+Message	Tohka	Ohhh! This is quite the delicious smell!	
+Message	Shido	Everyone's here, right? Then, let's eat!	
+Message	Tohka	Yes!  Let us eat!	
+Message	Kotori	Yeah! Time to eat!	
+Message	Yoshino	L...Let's eat!	
+Message	Tohka	It's fluffy and delicious, Shido...!	
+Message	Shido	You're right, this is definitely a motherly flavor.	
+Message	Tohka	Motherly flavor?	
+Message	Rinne	Umm...I guess you could say it means, a nostalgic sort of taste?	
+Message	Shido	That's right. I wonder why, the taste is reassuring.	
+Message	Tohka	"Hmm. I see...
+Then I must aim for a motherly taste when I cook!"	
+Message	Shido	Huh? You, cooking...?	
+Message	Tohka	"Yes! I can do something like cooking too, Shido.
+I make such things like cookies occasionally too..."	
+Message	Shido	Oh, that's right. Sorry.	
+Message	Rinne	Oh, Tohka-chan, would you like seconds?	
+Message	Tohka	Yes Rinne, please!	
+Message	Rinne	"Hee hee, you're welcome.
+Don't rush too much and spill it."	
+Message	Tohka	Yes! Leave it to me!	
+Message	Shido	Good grief...	

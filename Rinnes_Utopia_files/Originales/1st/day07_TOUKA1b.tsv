@@ -1,0 +1,121 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	"...Tohka, I'm sorry! It looks like I got a call
+from Kotori!"	
+Message	Tohka	A call...?	
+Message	Shido	I-I'll finish up quickly, so just wait a moment!	
+Message	Kotori	"...Hey, what are you dawdling for?!"	
+Message	Shido	Y-Yeah... Sorry.	
+Message	Kotori	"It's an emergency situation. We've found the\nenemy's location."	
+Message	Shido	E-Enemy...?	
+Message	Kotori	"It seems like the Neo Tengu Tower was the\ncause of the barrier."	
+Message	Shido	"...Enemy? Neo Tengu Tower...?
+Wait a second! What are you talking about?"	
+Message	Kotori	"What? Shido, are you already going senile?\n Is something wrong with you?"	
+Message	Shido	...Huh?	
+Message	Shido	Ngh!	
+Message	Kotori	"Hey, you okay?"	
+Message	Shido	"Yeah... Sorry. Something really must have been
+wrong with me. Is what you said just now true?"	
+Message	Kotori	"Yeah. That monument you were talking about...\nAs we guessed, it's one of the footholds of the\nbarrier. The one designed to keep us trapped."	
+Message	Shido	Then, that "Guardian" was there to protect it?	
+Message	Kotori	"We had trouble analyzing it, but according to the\nresults of the test, the sacred tree and the\ntower at the lake emit the same spiritual wave."	
+Message	Shido	Huh?!	
+Message	Kotori	"The barrier was created using these three\nfootholds as an axis, and the center protected\nby this triangle—"	
+Message	Kotori	"...is the Neo Tengu Tower."	
+Message	Shido	"Th-The Neo Tengu Tower is the barrier's
+center, but doesn't that seem strange? It's
+the city's biggest landmark, and—"	
+Message	Kotori	"Most likely, that's also false. It's something\nthat was made up within this barrier. That thing\ndoesn't exist in the original Tengu City."	
+Message	Shido	What?! It's just like you said...	
+Message	Kotori	"That's right. Our conscious minds are being\nmanipulated somehow. I was careless, maybe it's\nbecause my spiritual power isn't up to form."	
+Message	Shido	Minds being... manipulated...	
+Message	Kotori	"You still don't get it? The entirety of Tengu\nCity is within the enemy's control. Our minds,\nmemories, and buildings can all be changed."	
+Message	Shido	...?!	
+Message	Kotori	"Shido, remember. I don't know why, but you're\nthe only one who felt something was off in this\nworld in the beginning. You were right..."	
+Message	Shido	"I-It can't be! But how—how could such a
+thing—?!"	
+Message	Kotori	"In order to figure that out, we'll have to go\ndirectly and ask."	
+Message	Shido	Huh?!	
+Message	Kotori	"Tohka's there, right?"	
+Message	Shido	Y-Yeah, she's here, but...?	
+Message	Kotori	"If we're going to step foot into Neo Tengu\nTower, a Spirit's power is absolutely necessary."	
+Message	Shido	Th-That may be true, but...	
+Message	None	"(We're in the middle of a date right now. Is it
+necessary to have to throw it all away to go
+right now...?)"	
+Message	Kotori	"Shido? Right now, the only one who's stable is...\nTohka. We don't know when we're being controlled\neither. Now's the only chance, do you understand?"	
+Message	Shido	...I-I understand.	
+Message	Kotori	"Please. I'm counting on you.\n ...The Fraxinus will prepare for backup.\n You absolutely shouldn't push yourself."	
+Message	Shido	Yeah, I know!	
+Message	Tohka	Hm, what is wrong, Shido? You look depressed.	
+Message	Shido	"...Tohka. I'm sorry, but we need to cancel the
+date..."	
+Message	Tohka	Hmm...? Why is that?	
+Message	Shido	"You know that there's something strange happening
+to Tengu City right now, right?"	
+Message	Tohka	Yes...	
+Message	Shido	Yeah. We figured out the cause, so—	
+Message	Tohka	Let us go, Shido.	
+Message	Shido	Huh...?	
+Message	Tohka	"Unless we do something, we can't stay this
+way, yes?"	
+Message	Shido	Y-Yeah, that's right.	
+Message	Tohka	"Then, I will fight. For myself... and for your
+sake, Shido."	
+Message	Shido	"Thank you, Tohka! Let's do something together,
+and surprise Kotori!"	
+Message	Tohka	Yes! Let's go!	
+Message	Shido	"So they're here, huh? The culprit behind
+everything..."	
+Message	Tohka	"Shido, do you notice the peculiar lack of other
+people...?"	
+Message	Shido	"Yeah. Even in the middle of the day, it's too
+quiet."	
+Message	Shido	Hmm, is it Kotori?	
+Message	Kotori	"Shido? This is bad. They may have noticed us.\nThere's not a living being around Neo Tengu\nTower. They may have warded people away."	
+Message	Shido	Even then, all we can do is go, right?	
+Message	Kotori	"Yes, that's correct. But don't let your guard\ndown."	
+Message	Shido	I got it.	
+Message	Shido	All right. We're charging in!	
+Message	Tohka	"Shido, the enemy may have caught onto us.
+Even so, are we aiming to head straight through
+the front?"	
+Message	Shido	"We have no other method, right?
+We'll just have to persuade them forward and
+openly."	
+Message	Tohka	Haha! You really are you, Shido.	
+Message	Shido	What does that mean?	
+Message	Tohka	Nothing! Now then, let's go!	
+Message	Shido	Y-Yeah!	
+Message	Shido	...?!	
+Message	Shido	You're... from my dream...?	
+Message	Tohka	Who... are you...?	
+Message	???	No one desires that ending...	
+Message	Shido	No one... desires...?	
+Message	???	"You should have stayed like this, within the
+happy slumber that I have woven..."	
+Message	Shido	What are you saying...?	
+Message	Tohka	"Is this person... a Spirit...?
+Is she really... the same as us?"	
+Message	Shido	"I don't know, but this isn't the first time I've
+met her."	
+Message	None	"(That's right, I've seen her many times in my
+dreams.)"	
+Message	???	"I am the one who controls this world, who rules
+over this paradise. If you were to refer to me by
+an identification name, it would be "Ruler.""	
+Message	Ruler	"However, there is no use in telling you this,
+for I intend to banish you."	
+Message	Tohka	Shido, stay back!	
+Message	Ruler	"I see... I will teach you. Just how much of
+a foolish and fragile being you are."	
+Message	Tohka	Urgh! At this rate—!	
+Message	Shido	Tohka?!	
+Message	Tohka	I'll be overcome!	
+Message	Ruler	Scatter.	
+Message	Tohka	Aaaaaagh!	
+Message	Shido	Tohka?! Hey! Listen! Listen to me!	
+Message	Ruler	"...Good bye, Shido Itsuka.
+I pray that next time, you have a pleasant dream."	
+Message	Ruler	"Even though you promised... you said you would
+only cherish Tohka..."	

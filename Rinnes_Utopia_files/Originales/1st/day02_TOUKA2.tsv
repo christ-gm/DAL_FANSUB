@@ -1,0 +1,129 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Oogh. I ran up so many steps today, so my thighs and calves
+ are super sore, but... I have so many dates to go on.)"	
+Message	None	(Alright, I'll have us hang out at home then.)	
+Message	Shido	"Hey Tohka? We still have some time until dinner,
+so do you want to kill some time by playing games?"	
+Message	Tohka	"Hm? Ohhh, that beep boop-ing thing that Kotori often does!
+If you wish to play, Shido, then I will as well!"	
+Message	Shido	Okay, then do you want to battle?	
+Message	Tohka	Yes, bring it on!	
+Message	Shido	Then here Tohka, use this controller.	
+Message	Tohka	Hm, this one, yes?	
+Message	Shido	"Alright, let's start with practice first.
+I've done it before so I know, but this is your first time, right Tohka?"	
+Message	Tohka	"Hmph! No, that's not so.
+I've played it before with Kotori, when she was on break."	
+Message	Shido	Huh!? I-Is that so?	
+Message	Tohka	Yes, so any time is fine. Bring it on, Shido!	
+Message	Shido	"Alright, then that makes things faster!
+It's too early to win against me, you know?"	
+Message	Tohka	Hmm! I'll take you on!	
+Message	Shido	My character is Kazuma, the master of Jyukkokuken!	
+Message	Tohka	Oh?	
+Message	Shido	Who do you use, Tohka?	
+Message	Tohka	Hm, I can win with this one!	
+Message	Shido	――!?	
+Message	None	"(The character that Tohka selected is a magician called
+"Pandabear," and as the name suggests, it's a straightforward
+cross between a bear and a panda.)"	
+Message	None	"(The hyper-realistically drawn, malicious-looking panda's face
+has red eyes that gleam from underneath its formal robe and hood.)"	
+Message	None	"(The hands sticking out of either sleeves are as rough as a bear's,
+and covered in bristly brown hair. Lastly, in his hand was a giant
+staff inlaid with red jewels.)"	
+Message	None	(No matter how anybody looks at him, he's more scary than cute, right...?)	
+Message	Shido	H-Hey Tohka. Can I ask you one thing?	
+Message	Tohka	Hm, what is it?	
+Message	Shido	"W-Why did you pick that character out of everything else?
+Weren't there cuter, or cooler-looking ones?"	
+Message	Tohka	"Hrm! Do you not know his story, Shido?
+He's a magician, and when he wins against an opponent,
+he changes them into his favorite food and eats them!"	
+Message	Shido	...A-Ahh, I see.	
+Message	None	"(...I suppose in a way, it's a very Tohka-like choice.
+...Nobody uses that character, so I completely forgot.)"	
+Message	Tohka	"Now then! Today, I will change you into a hamburg steak
+with plenty of demi-glace sauce!
+――No, wait...ponzu with radish is also quite good!"	
+Message	None	"(C-Can you choose dishes with all those ingredients?
+Where did this game invest all its resources...??)"	
+Message	Shido	"...A-Anyway, just try to win.
+If you don't win against me, you won't be able to see
+the victory screen, after all."	
+Message	Tohka	Yes, I know. Come at me from any angle!	
+Message	Shido	"――Gah!
+Who would use their special attack at this timing!?"	
+Message	Tohka	What's wrong Shido! Even Kotori was better!	
+Message	None	"(...This is bad. Tohka's been unwittingly trained by Kotori!
+If I go easy on her here, I'm in big trouble...)"	
+Message	None	"(No, wait a minute!
+If I fought honestly and Tohka's mood was worsened,
+worst-case scenario, she could possibly rampage...?)"	
+Message	None	"(No no, wait wait!
+If she finds out she didn't win fair and square,
+conversely wouldn't she get angry?)"	
+Message	Tohka	"Shido! What are you spacing out for?
+There is no need to go easy on me!"	
+Message	Shido	――Urgh!	
+Message	None	(While I was thinking she got in a really good one!)	
+Message	None	(Alright! I've made up my mind! With Tohka, I'll――)	
+Choice		Fight with her seriously.	
+Choice		Give her some slack while fighting.	
+Message	None	"(I'll fight Tohka seriously!
+This is Tohka, if I went easy on her...
+She'd easily see through it and get angry.)"	
+Message	None	"(If I do things seriously, and I end up winning fair and square,
+if that's the outcome of the match, then Tohka's sure to accept it!)"	
+Message	Shido	"Not yet! It's not over yet!
+Tohka! This is where it really begins! Let's go!"	
+Message	Tohka	Hrm!? Come at me, Shidooooooo!	
+Message	Shido	N-No way...it can't be...!	
+Message	Tohka	Ohhh! You're delicious-looking Shido! So much cheese!	
+Message	None	"(...I-It's impossible.
+In the first place, cooking a human and eating them
+is totally wrong for a kid-oriented game...)"	
+Message	Tohka	"Hmm, you seem quite stunned Shido.
+Perhaps you lack the practice to go up against me?"	
+Message	Shido	Y-Yeah...it's true that I haven't played recently...	
+Message	Tohka	Hrm...it's no good. Staring at the screen is making me hungry.	
+Message	Shido	I-It's almost dinner, after all...let's end here for today.	
+Message	Tohka	"Yes. If you wish to battle me again, just ask anytime.
+Oh! That's right!
+Next time, I will make you into ankake fried rice!"	
+Message	Shido	...I'll practice.	
+Message	None	"(No, I should go easy on her.
+ If I fought her seriously, and Tohka gets completely knocked out,
+ I have no idea what'll happen to Tohka's mood...)"	
+Message	None	"(Besides, this is technically a date, so if that's the case,
+ so I should think the top priority is making Tohka happy.)"	
+Message	Shido	Y-You're good Tohka! Your powerful attacks are amazing!	
+Message	Tohka	"Shido! This is not all of my power!
+Soon I will make you into a juicy hamburg steak!"	
+Message	Shido	"Whoah!? What is that attack!?
+I can't dodge!"	
+Message	None	"(I pretended not to know her special attack,
+ and intentionally made a small hop into taking it head-on.
+ With this, I lose.)"	
+Message	Shido	A-Are you serious...! It takes that much off your health at once!?	
+Message	Tohka	"Shido, that attack...
+Didn't you already know you could dodge that with emergency evasion?"	
+Message	Shido	Er...Well, it's been so long, I didn't remember.	
+Message	Tohka	"...I thought this was a serious match, but I am quite disappointed, Shido...
+You were going easy on me, weren't you?"	
+Message	Shido	T-Tohka!? W-What's the matter?	
+Message	Tohka	"Shido...If you are to battle me, I wish you would do so seriously.
+No matter the reason, being decieved by you...
+Well, it makes me very sad..."	
+Message	Shido	...! ...I-I'm sorry.	
+Message	Tohka	Hrm...it's no good. Staring at the screen is making me hungry.	
+Message	Shido	I-It's almost dinner, after all...let's end here for today.	
+Message	Tohka	"Hm. Hey, Shido...the next time we battle,
+I request that it'll be "all in," okay?"	
+Message	Shido	R-Right. Next time, it'll be a serious match!	
+Message	Tohka	"Yes! If I win next time, what should I change you into next?
+Should it be ankake fried rice?
+Or maybe, gomoku fried rice?"	
+Message	None	"...I guess either way it's decided I'm going to become fried rice.
+Hrrmmm..."	
+Message	None	――I wouldn't want either...yeah.	

@@ -1,0 +1,317 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(I'm glad the date yesterday with Tohka went
+well.)"	
+Message	None	"(Now that Tohka's gotten back to normal, it feels
+like the house has gotten a little brighter.)"	
+Message	None	"(It may be because of how unstable the Spirits
+had become that the dates started feeling like
+an obligation to me.)"	
+Message	None	(But I should've faced them sincerely...)	
+Message	None	"(I think for now I've cleared up any
+misunderstandings... I feel like inviting Tohka
+and having a nice date now.)"	
+Message	None	"(If it's for Tohka's sake, then it should be cool.
+...Ah, Kotori might be angry if she heard me
+saying something like that.)"	
+Message	None	"(Ahh jeez! Nothing'll happen if I think idly!
+For now, I'll try asking out Tohka!)"	
+Message	Shido	"T-Tohka! Today, um... would you want to go
+on another date?"	
+Message	Tohka	A date! Of course!	
+Message	Shido	Haha, I'm glad.	
+Message	Tohka	"Hm? I can think of no reason to reject your
+invitation. Anywhere on a date with you is
+fun after all!"	
+Message	Shido	G-Gotcha!	
+Message	None	"(I-It's a little embarrassing, but she's the usual
+Tohka.)"	
+Message	Tohka	"So, where to today? Will it be the shopping
+district for another assortment of delicious
+treats?"	
+Message	Shido	No. We did that yesterday, so...	
+Message	Tohka	"Hm. I'm fine with anywhere, so long as it's with
+you, Shido."	
+Message	None	"(...! Tohka occasionally says things casually that
+make my heart pound, but I just can't get used to
+it. But this is the Tohka I want to be with.)"	
+Message	Shido	Hey Tohka, do you remember?	
+Message	Tohka	Hmm?	
+Message	Shido	We went on a date once, to the aquarium.	
+Message	Tohka	"Ohh! The place where a bunch of un-sliced fish
+swam around, yes?!"	
+Message	Shido	"R-Right. At that time, um, things were hectic,
+and we couldn't look around quietly together,
+right?"	
+Message	Tohka	Yes. That day was, well... I was very lonely.	
+Message	Shido	I-I'm sorry...	
+Message	Tohka	"Y-You needn't apologize. Your stomach wasn't
+feeling well, yes?"	
+Message	Shido	Y-Yeah...	
+Message	None	"(...! Just remembering it makes my heart hurt!
+It was a white lie so I could leave the building.
+That's why I'm getting a re-do with Tohka!)"	
+Message	Shido	"That's why, today, let's hit the aquarium one
+more time. I regret not being able to look around.
+Of course, if you don't wanna go, that's okay."	
+Message	Tohka	Yes. I wish to go with you too, Shido!	
+Message	Shido	Thanks, Tohka. Then it's decided.	
+Message	Tohka	Shido...?	
+Message	Shido	"Hm? Oh, do you want to go eat somewhere after
+all?"	
+Message	Tohka	"Th-That's not it! Today at the aquarium, um...
+You won't flee anywhere, will you?"	
+Message	Shido	Of course not! I'll always be with you. I promise.	
+Message	Tohka	I-I see! Then, fantastic!	
+Message	Shido	Haha. Then let's hurry and go!	
+Message	Tohka	Yes!	
+Message	None	"(The summer crowds make it feel even hotter.
+I want to get into the aquarium already and cool
+down...)"	
+Message	Tohka	"Why are you glancing around, Shido? Are you
+looking for something?"	
+Message	Shido	"No, I just thought it's crowded because it's a
+Sunday, as expected. At this rate, the aquarium
+is probably crowded all week-long."	
+Message	Tohka	Hm, I see. Then...	
+Message	Shido	"...! T-Tohka?! Why are you suddenly taking
+my hand?"	
+Message	Tohka	"With this many people, we may end up getting
+separated. If we're like this, then it should be
+fine, yes?"	
+Message	Shido	Oh... Y-Yeah, you're right.	
+Message	None	"(Somehow managing to suppress my wildly
+beating heart, I properly return Tohka's hold
+with my left hand.)"	
+Message	Tohka	Yes, then let's go!	
+Message	Shido	Y-Yeah...	
+Message	None	"(Under the bright sunshine of early summer, as
+Tohka directs her smile towards me, my heart
+once more begins to race uncontrollably.)"	
+Message	None	"(Tohka's light tunic and short shorts, in this
+season, fit her lively spirit well. She was
+endlessly dazzling.)"	
+Message	Tohka	"Hm? Is something the matter? You stare so
+intently at me."	
+Message	Shido	"Er, ah, no... It's nothing, nothing at all!
+Why don't we hurry? The dolphin show's going
+to start."	
+Message	Tohka	Yes! I look forward to it!	
+Message	None	(Haha... Was I able to play it off...?)	
+Message	None	"(After looking at some of the fish exhibits, the
+show was about to begin. We sat, waiting on the
+outdoor bleachers as the seats began to fill.)"	
+Message	None	"The pool furthest from us was fashioned into a
+large stage. There were hurdles, slides, and small
+pools; most likely used for the penguin show.)"	
+Message	None	"(In front of the stage was a huge pool, and
+surrounding the pool were bowl-shaped stands.)"	
+Message	None	"(We were sat in the very front row. Talk about
+having the best luck.)"	
+Message	Tohka	"Shido! It's almost time for, what was it, the
+thing known as a "show" to start!"	
+Message	None	"(Tohka was in high Spirits, like a kid at a candy
+store.)"	
+Message	Shido	"Yeah, the opening show is apparently the
+Lovebirds penguin show."	
+Message	Tohka	"Lovebirds"? What is that?	
+Message	Shido	"Um. Do you remember what I told you before
+about marriage?"	
+Message	Tohka	"Y-Yes! It is when two people who love each other
+promise to always be together and live together,
+yes?"	
+Message	Shido	"That's right. "Lovebirds" refers to a married
+couple that stays happily together for eternity."	
+Message	Tohka	Hrm! I-I see... Then Shido, with you—	
+Message	Shido	Oh, looks like it started!	
+Message	Tohka	"Ohh! What is that strange thing waddling towards
+us?!"	
+Message	Young Lady	"Hellooo, everyone! Sorry to keep you waiting!
+Introducing the lovebird Humboldt penguins,
+Hatchan and Piichan!"	
+Message	Young Lady	"All right, please give everyone a warm welcome,
+you two! Together now, okay? Be happy!
+......Umm..."	
+Message	None	"(The two penguins performed no particular trick,
+merely poking incessantly at the hostess' legs,
+begging for food.)"	
+Message	Young Lady	"Oh, I'm sorry! I forgot to tell you all something
+very important! If these two don't eat, they can't
+be motivated to do anything!"	
+Message	Young Lady	"Yes yes, I know, I knoooow.
+Here you go! Delicious, right? See?
+Here, isn't this gooooood?"	
+Message	None	"(The hostess fed several small fish to the
+penguins from the bucket she was holding.)"	
+Message	Young Lady	"All right, please give everyone a warm welcome,
+you two! Together now, okay? Beeeee happy!"	
+Message	Young Lady	......	
+Message	None	"(After wolfing down all the fish they could, the
+two penguins couldn't muster a greeting, and
+began waddling towards the slide over the pool.)"	
+Message	Young Lady	"H-Heeey! Hatchan? Piichan? Weren't you
+listening to what I was saying?"	
+Message	Young Lady	"You're not listening, are you? Okay! I get it now!
+I forgot to tell you all something very important!
+These two in fact, can't greet at all!"	
+Message	Tohka	"Ah ha ha ha! Hey, Shido! Penguins are quite
+dull creatures, aren't they?"	
+Message	Shido	"You're right. But when you look at them together,
+they look like a real couple, don't they?"	
+Message	Tohka	Yes! Th-That is true!	
+Message	Young Lady	"Okay then! Both of you feel like using the slide,
+don't you? Then I'll give you both a generous
+amount of food!"	
+Message	Tohka	Hmm, they can use the slide?!	
+Message	None	"(As the penguins waddled towards the slide on a
+whim, the hostess cleverly scattered the small
+fish, directing them up the stairs of the slide.)"	
+Message	Young Lady	Now! The couple will now slide down!	
+Message	Young Lady	"Okay! Now, here we go this time!
+3! 2! 1! Gooo!"	
+Message	None	"(Listening to the call, the penguins dove onto
+the slide—or so we thought—instead, they walked
+down the slope and hopped off the edge.)"	
+Message	Young Lady	O-Oh, my...	
+Message	Young Lady	"Oh, my. How calm and collected of them. Well,
+these sorts of days happen. Ah ha, ha ha ha..."	
+Message	Young Lady	"By the way, this species of penguin is known as
+the Humboldt penguin!"	
+Message	Young Lady	"Once Humboldt penguins become a couple, they
+stay together forever! ...Or so they say.
+Quite the dedicated pair."	
+Message	Young Lady	"Alright! And that was Hatchan and Piichan's
+"Lovebirds Penguin Show"! Thank you so much!"	
+Message	Tohka	H-Hey, Shido...?	
+Message	Shido	Hmm?	
+Message	Tohka	D-Do you think I can also become a "lovebird"?	
+Message	Shido	...! I think it's too early to say...	
+Message	Tohka	"From here on, until eternity... I-I want to be
+with you, Shido... Is that no good?"	
+Message	Shido	...! I-I see... I-I... Tohka, with you, um...	
+Message	Shido	...?!	
+Message	Young Man	"Hello everyone! Sorry to keep you waiting! Now,
+it's time for the "Dolphin Splash Show"! Our
+dolphins are the pride of the aquarium. Enjoy!"	
+Message	Tohka	Oh... Ohhh! It started again, Shido!	
+Message	Shido	Y-Yeah!	
+Message	None	"(A host wearing a wetsuit appeared at the poolside
+stage, opening the latticed gates by both sleeves.
+Then, several dolphins swam out into the pool."	
+Message	Young Man	Now, then! First, say hello to our guests!	
+Message	None	"(The dolphins turned towards the stands and,
+while standing, stuck their upper halves out of
+the water, wiggling their fins.)"	
+Message	Tohka	"Wow! That's amazing, Shido! Dolphins can
+understand human speech?!"	
+Message	Shido	"They're apparently very smart animals.
+I'm sure they understand us."	
+Message	Tohka	"I see. Is that so?!
+Still, that's quite impressive!"	
+Message	Young Man	"Yes! Excellently done! It looks like they're in
+very good moods, having met everyone today!"	
+Message	Young Man	Oh, so much applause! Thank you very much!	
+Message	None	"(As the young man and woman answered the
+crowd's reactions, they handed out rewards
+to the dolphins that had come closer.)"	
+Message	Young Lady	"Now, as thanks for the applause, it's a little
+early, but it's service time! Hey everyone!
+Did you make sure to purchase a raincoat?"	
+Message	None	"(Hmm, a raincoat...? Oh, I guess they were selling
+some at the entrance.)"	
+Message	Tohka	Shido, what is a "raincoat"?	
+Message	Shido	"Oh, well, you see, the kids in the front row are
+wearing some. It's so they don't get wet when
+they're splashed."	
+Message	Tohka	"Hmm, I see. Is it all right that we are not
+wearing ones ourselves?"	
+Message	Shido	"P-Probably. Not too many other people bought
+one, so I'm sure it's not all that bad—"	
+Message	Young Lady	Then, here's the first greeting! Here you go!	
+Message	None	"(At the woman's beck and call, the dolphins
+began to react.)"	
+Message	Tohka	Ohhh?!	
+Message	None	"(Then, the dolphins leapt up at the very
+edge of the pool.)"	
+Message	Tohka	Oh?!	
+Message	Shido	Uwah!	
+Message	Tohka	......Hmmm?	
+Message	Shido	A-Are you okay, Tohka?!	
+Message	Tohka	"Ha ha...ha ha ha ha ha ha! This is quite funny,
+Shido! My skin has been soaked almost immediately,
+no?"	
+Message	Shido	...! T-Tohka! Y-Your clothes are—!	
+Message	Tohka	Ah?! Sh-Sh-Sh-Shido! Wh-Where are you looking?!	
+Message	Shido	Huh?! No! I-I'm not looking!	
+Message	Tohka	A-Are you sure?!	
+Message	Shido	Yes! I-I'm absolutely—	
+Message	Tohka	Urf!	
+Message	Shido	Augh?!	
+Message	Tohka	......?	
+Message	Shido	...	
+Message	Tohka	"Ah ha ha ha ha ha ha! They've done it again!
+You can't afford to let your guard down at a show!"	
+Message	Shido	"Ack! T-Tohka! I-I told you, you need to hold
+yourself—"	
+Message	Tohka	...! D-D-Don't look, Shido!	
+Message	Shido	"I-I'm not looking, I'm not!
+I'm not looking at all!"	
+Message	Tohka	H-Hrrmm!	
+Message	Tohka	Agh!	
+Message	Shido	Gah! A-Again?!	
+Message	Tohka	......?	
+Message	Shido	Pffft! Ah ha ha ha ha!	
+Message	Tohka	Rrrr! Shido! What is so funny?!	
+Message	Shido	"Sorry, sorry! You're completely soaked, Tohka!
+I just thought we hit jackpot on these seats!"	
+Message	Tohka	Hm? Is this a jackpot?!	
+Message	Shido	"In a way. If you're soaked, all you can really do
+is enjoy it, right?"	
+Message	Tohka	"Hrm. It's true that it's fun to be splooshed! I
+am starting to have fun waiting for the next
+sploosh to come!"	
+Message	Shido	Haha. That's just like you, Tohka!	
+Message	Tohka	Wh-What do you mean?!	
+Message	Shido	"Oh, no, it's nothing! Still, you really are
+sopping wet, Tohka... Pffft, hahaha!"	
+Message	Tohka	"Hey, Shido! Don't laugh! It is not as if I had
+intended to become wet."	
+Message	Tohka	Achoo...!	
+Message	Shido	"H-Hey! Are you okay?! We need to hurry and dry
+you off—"	
+Message	Tohka	Pffff, hahahahaha!	
+Message	Shido	*snerk...* Hahahahaha!	
+Message	None	"(It's childish, but this was so much fun, it
+couldn't be helped.)"	
+Message	None	"(There were misunderstandings, and differences in
+feelings. I'm sure more could still happen, yet
+I want to suffer, worry, and laugh with Tohka.)"	
+Message	None	"(Like Reine-san's story, will we one day,
+stumbling as we do, be able to find a perfect
+distance to warm each other?)"	
+Message	Shido	Hey, Tohka...?	
+Message	Tohka	Hmm, what is it?	
+Message	Shido	"T-Tohka, y-you said to me that... you always
+wanted to be together with me, right?"	
+Message	Tohka	Yes...	
+Message	Shido	"So, I'm not sure if this is what you want to hear,
+but, well... Tohka, I—!"	
+Message	Tohka	Hmm...?	
+Message	Shido	"Aah! I-I'm sorry! I'll turn it off now.
+Oh, it's Kotori..."	
+Message	None	"(I wonder why it feels like this call, of all
+moments, is especially important...)"	
+Message	None	"(But today... Today, I promised I'd stay together
+with Tohka. We're having fun right now. There's
+no reason to pick up the phone.)"	
+Message	Rinne	"Promise that from now on, you'll cherish\nTohka-chan. No matter what happens, you\nwon't let her go... Promise me."	
+Message	None	"(I suddenly remembered Rinne's words.
+That's right, I promised Rinne too, but...
+What if Kotori's call is really important?)"	
+Message	None	"(I feel strangely uneasy. Why am I anxious
+all of a sudden?)"	
+Message	Tohka	...Sh-Shido?	
+Message	Shido	Y-Yeah!	
+Message	None	"(That's right. The answer's already there inside
+of me! Of course, with this call, I'll—)"	
+Choice		Pick up.	
+Choice		Don't pick up.	

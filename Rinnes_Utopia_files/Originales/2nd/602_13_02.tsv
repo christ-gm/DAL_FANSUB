@@ -1,0 +1,401 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	It's time for lunch.	
+Message	Ai	All right. Let's do lunch.	
+Message	Mai	Tohka-chan, eat with us.	
+Message	Mii	The weather is nice, so let's go to the rooftop.	
+Message	Tohka	"Ohhh! Lunch with everyone! Then, how about
+we all exchange meals?"	
+Message	Shido	"...Tohka sure has been getting closer with those
+three lately."	
+Message	Shido	"I want to eat lunch, but I can't find Origami. I don't
+see her anywhere."	
+Message	None	(Oh, well. Guess I could eat alone.)	
+Message	Shido	Hm? Wait a minute. Tonomachi's over there.	
+Message	Tonomachi	What is it, Itsuka-kun?	
+Message	Shido	It's been a while. Wanna eat lunch together?	
+Message	Tonomachi	"Sorry, Itsuka. I don't eat lunch with guys who
+have girlfriends."	
+Message	Shido	What the heck...?	
+Message	Tonomachi	"I'm about to hit the cafeteria. Good-bye,
+Itsuka-kun. Hope your lunch is cold and sad."	
+Message	Shido	Hey, Tonomachi!	
+Message	Shido	...Where does that bastard get off?	
+Message	Shido	"Man, guess it's the classroom for me. If I can't
+find Origami, I can eat by myself."	
+Message	Shido	Hm. Where did Origami go?	
+Message	None	(In the end, I ate by myself in the inner yard.)	
+Message	None	"(Eating alone is kind of sad. I've been lucky
+enough to eat with Origami lately.)"	
+Message	None	(I seriously hope she's okay...)	
+Message	Shido	"*yawn*... Man, I'm exhausted. Nothing worse
+than the post-lunch food coma."	
+Message	None	"(I can't nap in my classroom, so maybe I can
+take a walk to get the blood flowing.)"	
+Message	None	"(I was walking aimlessly around school before
+poking my head inside of the nurse's office.)"	
+Message	Shido	"Oh, the nurse. I don't think I've looked in
+there."	
+Message	None	"(I doubt I'll find Origami here, but it wouldn't
+hurt to check.)"	
+Message	None	(Hm...? Wait a minute. Someone's inside...)	
+Message	Origami	"Are we really doing this...? What if someone
+sees us?"	
+Message	???	It'll be fine. Hurry.	
+Message	None	"(That's Origami's voice. Who else is with her?
+It sounds like a lady.)"	
+Message	Origami	Will something that long... fit?	
+Message	???	"It looks longer than it looks, but it fits better
+than you think. Now give it a shot. Hurry
+up, hop on it."	
+Message	Origami	How can I hop on it...? I'm scared.	
+Message	???	It's fine. Everyone does it.	
+Message	None	(What the... What are they doing?)	
+Message	Origami	The tip is hot.	
+Message	???	"Be gentle with it. That’s right. Now, move
+it slowly."	
+Message	None	"(What's going on? It's not good to eavesdrop,
+but I'm so curious.)"	
+Message	Origami	I'll put it in. Ready?	
+Message	???	Go ahead. Do it slow.	
+Message	Origami	...It's in.	
+Message	???	What do you think? Not too hard, right?	
+Message	Origami	"Not at all. It fit in much easier than I thought
+it would."	
+Message	None	(O-Origami... What went in?!)	
+Message	Origami	But are you sure about this?	
+Message	???	"This is nothing. I'm sure you'll do this kind
+of thing with your boyfriend some day. It's
+better to learn how to do it now."	
+Message	Origami	"With Shido... I would like... to do it...
+with Shido someday."	
+Message	???	"Right? If you spend time with him every day,
+then it is bound to happen."	
+Message	None	"(What?! What's bound to happen...?
+What did Origami... Wh-What the―?)"	
+Choice		Step inside.	
+Choice		Keep listening.	
+Message	None	"(What did Origami do...? I need to go inside
+and check at once.)"	
+Message	Shido	Origami!	
+Message	None	"(I don't know what's going on, but I need to
+find out for myself.)"	
+Message	None	"(But I'm curious about Origami. What should I
+do?)"	
+Message	None	"(Crap! Are they leaving the room? I don't
+have anywhere to hide!)"	
+Message	Origami	Shido...?	
+Message	Kusakabe	Ah. Your boyfriend.	
+Message	Shido	"Hey, you're... Origami's... Kusakabe-san?
+What are you doing here?"	
+Message	None	"(Why on earth is Origami's boss at our
+school?)"	
+Message	Kusakabe	"Oh, I held a disaster prevention seminar, and
+I stopped to chat with Origami. We were just
+reviewing the first aid items in the infirmary."	
+Message	Shido	A-And... What were you guys doing?	
+Message	Kusakabe	Mm. You know...	
+Message	Origami	"We were swapping out the fluorescent lights.
+I had to stand on top of the chair."	
+Message	Shido	S-Swapping out the fluorescent lights?!	
+Message	Kusakabe	"Yeah. They were dead, so I suggested that we
+change them. Origami thought it was dangerous
+to replace them while the switch was flipped."	
+Message	Origami	"Fluorescent lights heat up. However troubling
+they may be, we must ensure they are off."	
+Message	Kusakabe	"Yes. Origami admitted it was her first time
+changing light bulbs, so I encouraged her to
+try it out."	
+Message	Origami	It was good experience.	
+Message	Shido	"Ah, I see. But I overheard you mention that
+she might do it with me some day."	
+Message	Kusakabe	"Yes, if you are still together. It's not crazy to
+think you'll have to change light bulbs some
+day, right Mr. Boyfriend?"	
+Message	Shido	"Aah... Well, that's thinking far ahead. Who
+knows what the future holds?"	
+Message	Kusakabe	"Oh, why are you blushing? Origami talks
+about you often. Too late to be shy about
+it now."	
+Message	Shido	Gah... What have you told her, Origami?	
+Message	Origami	"I simply answered whatever questions she
+asked me."	
+Message	Kusakabe	Have you been feeling tense lately?	
+Message	Shido	"No, no, no! You've only heard one side of
+the story!"	
+Message	Origami	Well, I may have told her about my request.	
+Message	Shido	You've done too much! Where is the nurse?!	
+Message	Kusakabe	"Oh. A teacher got a sudden case of appendicitis
+and was taken to the hospital. The nurse went
+with her."	
+Message	Shido	"I see... Is it okay to change the light without
+permission?"	
+Message	Kusakabe	"We didn't do it without permission. She gave
+it to us before she left, right Origami?"	
+Message	Origami	That's right. She asked us.	
+Message	Kusakabe	See?	
+Message	Shido	That's a relief.	
+Message	Kusakabe	"If I'm not mistaken, your next class will be
+a study block. I am heading home, so good
+luck."	
+Message	Shido	"*sigh*... Okay. Thanks for stopping by,
+Kusakabe-san."	
+Message	Kusakabe	Well, see you around, Mr. Boyfriend, Origami.	
+Message	Shido	I didn't expect to run into her.	
+Message	Shido	Why don't we head to class?	
+Message	Origami	Okay, but... I have a suggestion before we do.	
+Message	Shido	What is it?	
+Message	Origami	We can head over, but it's only a study block.	
+Message	Shido	Seems like it.	
+Message	Origami	Then Shido, we should stay here in the infirmary.	
+Message	Shido	You think we should ditch?	
+Message	Origami	"If it is just a study block, then we are not
+ditching."	
+Message	Shido	"Hm. I mean, I'm not against it, but I'm shocked
+that the valedictorian Origami would suggest
+we ditch."	
+Message	Origami	I want to talk with you... Please?	
+Message	Shido	"Sure. I guess we could ditch. It's not like
+anyone actually studies in the study
+block."	
+Message	None	"(And so, we spent the next hour inside of
+the nurse's office.)"	
+Message	Shido	"It is so nice and warm in here. So how are
+we going to kill time?"	
+Message	Origami	How about we pour some coffee?	
+Message	Shido	Is there any around?	
+Message	Origami	"There's instant coffee. We can boil hot water
+with the kettle. All we need to do is add hot
+water in the cup."	
+Message	None	"(Origami emptied a packet of coffee into a
+beaker.)"	
+Message	Shido	You're going to put it in the beaker?	
+Message	Origami	"I do not think it will affect the flavor. Is this
+not to your liking?"	
+Message	Shido	"No, that's not it. Actually, it seems like a fun
+idea. It's like we're in one of those dramas,
+don't you think?"	
+Message	Origami	"You may have a point. The only other thing
+we can use would be the wash basin."	
+Message	Shido	Yeah, I'll pass on that...	
+Message	Origami	...It's done.	
+Message	None	"(I took the coffee she handed to me, and I
+looked around.)"	
+Message	Shido	"Hm. I've never had the chance to look at
+the stuff inside of the nurse's office before."	
+Message	Origami	It is certainly well-kept.	
+Message	Shido	"There are cotton swabs, alcohol, cold medicine,
+anti-diarrheal... All the basics."	
+Message	Origami	Shido, you can perform body measurements.	
+Message	None	"(Origami pointed at the device to measure
+height.)"	
+Message	Shido	Oh, that could be interesting. Let's see...	
+Message	None	"(I got on the scale and slid the measurer
+to gauge my height.)"	
+Message	Shido	What is it?	
+Message	Origami	170 cm.	
+Message	Shido	"Hasn't changed since last time. I'll weigh
+myself next."	
+Message	None	"(Then, I stepped on the scale adjacent to
+the height measurer.)"	
+Message	Origami	...100.5 kg.	
+Message	Shido	"What?! Hey, Origami! You stepped on the scale,
+didn't you?"	
+Message	Origami	No, I did not.	
+Message	Shido	Liar. Fine. You get on next, then.	
+Message	Origami	...I cannot. Regulation forbids it.	
+Message	Shido	Whose regulation?! Well, whatever...	
+Message	Origami	"What should we do next? Do you want to
+measure your sitting height?"	
+Message	Shido	"No, I'm fine now. What are other things we
+can look at?"	
+Message	None	"(I glanced at the objects around the room, and
+saw a bed nearby wrapped in white sheets.)"	
+Message	Shido	Should we rest up a bit?	
+Message	None	(I threw myself onto the white bed.)	
+Message	Origami	Shido, you're bold.	
+Message	Shido	"Well, I've never visited the nurse's office.
+It's something I always wanted to do...
+HEY ORIGAMI?!"	
+Message	Shido	Why are you taking off your blazer?!	
+Message	Origami	You said you wanted to get into the bed...	
+Message	Shido	Hey, wait. I didn't mean anything by it.	
+Message	Shido	Whoa. Hey, Origami...	
+Message	None	"(Origami started unbuttoning her blazer,
+and mounted me lying on the bed.)"	
+Message	Shido	"Origami, don't you think... this is kind of
+inappropriate?"	
+Message	Origami	"We're in an empty room. A bed. We are a man and
+a woman. Given the circumstances, I think it
+looks natural."	
+Message	None	"(Origami is sitting on top of me, pressing her
+weight into the top of my pants.)"	
+Message	Shido	Whoa. Crap. Don't sit like that.	
+Message	None	"(I tried twisting myself, but she made it
+difficult to squeeze out.)"	
+Message	Origami	Shido...	
+Message	None	"(Origami blushed, her breathing sped up.
+It was like a switch was flipped.)"	
+Message	None	"(She was starting to play with the buttons
+on her blouse. I saw her pale white skin.)"	
+Message	None	"(It was a seductive move, very enticing.
+I gulped.)"	
+Message	Origami	Shido, can I sniff you like last time?	
+Message	Shido	"O-Okay, sure. But why don't we change
+positions first...?"	
+Message	Origami	Today, I want to remain like this.	
+Message	Shido	No, but...	
+Message	None	"(This was no good. Almost unbearable. I could
+feel Origami tighten her legs around me.)"	
+Message	None	"(I felt a rush of blood going to my head.
+Come on, Shido. Keep it together!)"	
+Message	None	(I have no choice but to...)	
+Choice		Ask for forgiveness.	
+Choice		Scream for help.	
+Message	Shido	"Origami, at the very least, could you change how
+you're sitting? I'm feeling... very uncomfortable."	
+Message	Origami	...Like this?	
+Message	None	(Origami slid her hips a bit.)	
+Message	Shido	Agh... That's no good either.	
+Message	Origami	...Then, this way?	
+Message	None	(She slid herself again.)	
+Message	Shido	N-No!	
+Message	Origami	Then, like this?	
+Message	Shido	"NO! Stop moving up and down! You're
+making it worse!"	
+Message	Origami	I cannot find the right position to sit in.	
+Message	Shido	"Th-Then, let's stop! Seriously. We can't do this
+here...!"	
+Message	Origami	"No, we cannot stop. My body is on fire.
+Shido, be more dominant."	
+Message	Shido	"On fire...? Don't say it like that! Come on now,
+woman!"	
+Message	None	"(Origami sat on top of me, slowly inching her
+face closer to mine.)"	
+Message	Shido	Origami...	
+Message	None	"(I can't escape anymore. We're crossing a line
+here...)"	
+Message	None	(Just then―)	
+Message	None	(I have no choice but to scream for help.)	
+Message	Shido	S-Someoneeee! Help meeee!	
+Message	Origami	...	
+Message	Shido	...	
+Message	Origami	"We're in the middle of class right now.
+This place is far from the classroom, so
+no one will come. So give it up."	
+Message	Shido	A-Ahhh...	
+Message	Origami	Shido.	
+Message	Shido	Wh-What is it?	
+Message	Origami	Do like when people watch...?	
+Message	Shido	N-No, of course not...	
+Message	Origami	"Then, what was your plan if someone really
+had come?"	
+Message	Shido	"I-If someone came in, then maybe you'd get
+off of me?"	
+Message	Origami	"To be honest, I would be paralyzed from
+nervousness, and frozen in place."	
+Message	Shido	What?! So, if someone came...	
+Message	Origami	"They most certainly would have seen us
+like this."	
+Message	Shido	That's dangerous!	
+Message	Origami	Only kidding.	
+Message	Shido	"You were?! I guess if we're caught like this,
+I'd have to do something."	
+Message	None	"(My body froze from nervousness, almost like
+I was being bound.)"	
+Message	Origami	"If you insist, I will have no choice but to get
+up."	
+Message	Shido	"Don't make this into my fault! All right.
+Let's get up."	
+Message	None	(I tried getting up, but then―)	
+Message	Student A	Excuse meeee.	
+Message	None	"(I heard someone stepping into the nurse's
+office.)"	
+Message	Shido	Whoa! Someone's here. Crap. Hide, Origami!	
+Message	None	(We hid in the bed.)	
+Message	None	"(If someone were to catch us here, it'd be
+a mess. I hope we can get by.)"	
+Message	Shido	Hey, Origami...	
+Message	Origami	Shido, it's tight in here.	
+Message	Shido	Don't talk so loud. We'll get caught.	
+Message	Shido	O-Origami, don't move.	
+Message	Origami	But that's hard...	
+Message	Shido	Ah, if you move there, I'll... *grunt*	
+Message	Origami	Shido, be quiet or we'll get caught.	
+Message	Shido	Hey, I said don't move... A-Ah. It tickles.	
+Message	None	"(Every time Origami moved, our bodies
+rubbed together, sending a shiver down
+my spine.)"	
+Message	None	"(Luckily, the student who came in didn't
+notice and left almost immediately after.)"	
+Message	None	(All that panicking tired me out.)	
+Message	Shido	Man, that was close.	
+Message	Origami	I found it quite thrilling.	
+Message	Shido	It's because you couldn't sit still.	
+Message	Origami	Shido, you were really hard!	
+Message	Shido	Whoa! H-Hard...?	
+Message	Origami	Your stomach.	
+Message	Shido	A-Ah! My stomach! I see.	
+Message	Origami	And it was big.	
+Message	Shido	M-My chest, right?	
+Message	Origami	No.	
+Message	Shido	Then, was it...	
+Message	Origami	Your arm.	
+Message	Shido	Right! My arm!	
+Message	Origami	And it was black.	
+Message	Shido	Oh, you mean my hair?	
+Message	Origami	No. Lower.	
+Message	Shido	What?! L-Lower... What's down there...?	
+Message	Origami	Your belt.	
+Message	Shido	My belt?!	
+Message	Origami	What a stimulating day. I'm quite satisfied.	
+Message	None	(For some reason, my skin felt really glossy.)	
+Message	Shido	"Anyways, what do you want to do next? Should
+we head to class?"	
+Message	Origami	"We can do that. According to the clock, class is
+almost over."	
+Message	Shido	Then why don't we leave separately to class?	
+Message	Origami	Got it. You can go first.	
+Message	Shido	Okay.	
+Message	None	(And so, we left the nurse's office.)	
+Message	Tonomachi	"Itsuka, where were you during the study
+block?"	
+Message	Shido	Out and about.	
+Message	Tonomachi	"Come to think of it, Tobiichi wasn't there
+either."	
+Message	Shido	Er, well...	
+Message	None	"(Man, he's sharp. If we were both gone, I guess
+it was obvious.)"	
+Message	Origami	We were in the infirmary togther.	
+Message	Tonomachi	What?!	
+Message	Shido	You don't have to tell him!	
+Message	Tonomachi	Did you guys...?	
+Message	Origami	It may be true.	
+Message	Shido	We didn't do anything! Not a thing, okay?!	
+Message	Ai	"Whoa. You're such a pervert, Itsuka-kun.
+You ditched class. Where do you think he
+took Tobiichi-san?"	
+Message	Mai	Impure adultery. That's so gross.	
+Message	Mii	So you've finally crossed the line.	
+Message	Shido	N-No. Besides, Origami...	
+Message	Origami	Shido, your behavior speaks for itself.	
+Message	Shido	Th-That's not fair, Origami.	
+Message	Ai	That's so lame.	
+Message	Mai	Such a turn-off.	
+Message	Mii	Super ★ turn-off.	
+Message	Tonomachi	"Good-bye, Itsuka-kun. You and I belong to
+different leagues now."	
+Message	Shido	That's not true, you guys. Listen to me―	
+Message	None	"(Our secret got out to the whole school.
+Soon everyone had heard about my
+relationship with Origami.)"	
+Message	None	"(Of course, with rumors came a flurry of
+other things that weren't quite true.)"	
+Message	Ai	"Itsuka-kun, I hear that you like to sniff
+Tobiichi-san's underwear every day."	
+Message	Mai	"I heard he's extremely tough, hard, and
+big-headed. A beast. A walking X-rating."	
+Message	Mii	"I heard Tobiichi-san is his 100th target. He
+threw a party celebrating it the other day.
+Poor Tobiichi-san. To be with a man like that..."	
+Message	None	(Things went from bad to worse...)	
+Message	None	(Is there a light at the end of the tunnel?)	

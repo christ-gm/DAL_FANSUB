@@ -1,0 +1,160 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(Ah. Coming here is so relaxing.)	
+Message	None	(Origami... I wonder what she's up to.)	
+Message	None	"(I still can't get the image of Origami punching
+the wall of the outlet tower out of my head.)"	
+Message	None	"(I never want to see her like that again. I wish
+Origami could be more...)"	
+Message	???	Shido...	
+Message	Shido	"Whoa! O-Origami?! Wh-What are you doing
+here?!"	
+Message	Origami	Rinne Sonogami told me you would be here.	
+Message	Shido	R-Rinne said that...?	
+Message	Origami	Yes.	
+Message	None	"(Did I ever tell Rinne that I go here? Oh well.
+Now's not the time to worry about that...!)"	
+Message	Origami	Shido?	
+Message	Shido	Hm? What is it?	
+Message	Origami	"Be honest with me. What were you thinking
+just now?"	
+Message	Shido	Huh? What do you mean? Well...	
+Choice		About you, Origami.	
+Choice		Play it off.	
+Message	Shido	I-I was thinking about you, Origami.	
+Message	Origami	...Why?	
+Message	Shido	"What do you mean? I was... Um...
+I was just thinking about how I'd like to see
+your smile."	
+Message	Origami	Well, I...	
+Message	Shido	"I know. It's not like I don't know the burden
+on you. All things considered, it's no easy task."	
+Message	Shido	"Even so, I don't want you to give up. I just
+want to see you smile. That's all."	
+Message	Origami	Shido...	
+Message	Shido	"When I first invited you on dates, I did have
+ulterior motives."	
+Message	Origami	...	
+Message	Shido	"If you were to leave AST, then I didn't know
+what you'd do, so..."	
+Message	Shido	"I figured that being with me would alleviate
+your anxiety. That's why I decided to invite
+you out. Sorry."	
+Message	Origami	I don't mind.	
+Message	Shido	Huh...?	
+Message	Origami	"If I get to date you, the circumstances of how
+are unimportant."	
+Message	Shido	I-I see...	
+Message	None	(Origami is amazing...)	
+Message	Shido	"Oh! But now, I genuinely... I genuinely want
+you to smile."	
+Message	Origami	"I cannot promise you I can. Not until my
+mission is complete."	
+Message	Shido	Sure. I understand. I still won't give up.	
+Message	Origami	Shido...	
+Message	Shido	"Origami, will you go on a date with me tomorrow,
+too?"	
+Message	Origami	No problem. Dates with you are my top priority.	
+Message	Shido	"I-I see... Then let's meet at the plaza in front
+of the station tomorrow."	
+Message	Origami	Roger. I look forward to it.	
+Message	Shido	Oh!	
+Message	Shido	U-Um, uh...	
+Message	None	"(I can't tell her I was thinking about her.
+That'd be too embarrassing.)"	
+Message	Origami	Shido?	
+Message	None	(I-I need to play it off somehow—!)	
+Message	Shido	U-Uh, I was thinking about Rinne!	
+Message	Origami	I knew it... Rinne Sonogami, huh?	
+Message	Shido	Huh...?	
+Message	Origami	"From the beginning, I knew she'd be a powerful
+enemy."	
+Message	Shido	"Hm? Um... O-Origami-san? What are you
+talking abou—"	
+Message	Origami	"That's unfortunate. It was the answer I hadn't
+hoped to hear. It's all over."	
+Message	Shido	Huh...?	
+Message	Origami	"Today, I was notified of an official dishonorable
+discharge from the AST."	
+Message	Shido	?!	
+Message	Origami	"Now, not only can I not defeat the Spirits,
+but now Shido has been taken from me."	
+Message	Shido	No... Taken from you? That's a misund—	
+Message	Origami	There's no reason to live. Good-bye, Shido.	
+Message	Shido	"H-Hey, wait! Origami! Where are you going?!
+ORIGAMI?!"	
+Message	None	"(I sprinted after Origami, but no matter what
+I said, she wouldn't listen.)"	
+Message	None	"(I assumed she would speak to me once the shock
+of being dismissed had settled, so I decided to
+leave her alone.)"	
+Message	None	"(But ever since that day, Origami disappeared.
+She stopped showing up to class and moved
+away.)"	
+Message	None	(Origami had totally vanished.)	
+Message	None	"(That day, if I never felt shy, and had told her
+how I really felt, maybe Origami would've
+chosen another path...)"	
+Message	None	"(I choked up, dizzy from sadness...
+It wasn't supposed to be this way!)"	
+Message	None	"(I became a recluse, and I shut myself off
+from everyone. I don't want to think anymore.
+I don't want to feel anymore.)"	
+Message	None	(I'm tired of living...)	
+Message	None	"(All right. Today's date with Origami is
+important.)"	
+Message	None	"(I don't know what I can do to make her
+smile, but I hope it happens.)"	
+Message	Shido	Yes, come in.	
+Message	Shido	Rinne...? Why are you up so late?	
+Message	Rinne	I wanted to ask you something, Shido.	
+Message	Shido	What is it?	
+Message	Rinne	Yes. So, it appears that you have decided...	
+Message	Shido	What are you talking about?	
+Message	Rinne	"You said that... you wanted to be there
+for Tobiichi-san."	
+Message	Shido	"...I do. I... I want to change Origami.
+I want her to smile again."	
+Message	Rinne	...I see. So that's your decision, huh Shido?	
+Message	Shido	Yeah, it is.	
+Message	Rinne	...	
+Message	Shido	...	
+Message	Rinne	Hey, Shido. Promise me something.	
+Message	Shido	Promise...? What for?	
+Message	Rinne	"That you'll take good care of Tobiichi-san from
+now on. No matter what happens, you won't
+let her go. Promise me."	
+Message	Shido	"Wh-What's gotten into you? You don't need
+to tell me that..."	
+Message	Rinne	"Please, I want you to promise. Promise me
+that you will think only of Tobiichi-san, or
+else, your heart will drift away some day."	
+Message	Shido	Rinne...	
+Message	Rinne	Please...	
+Message	Shido	"Okay, I promise. Man's word. I promise... to take
+good care of Origami."	
+Message	Rinne	"Okay, I knew you'd make that promise with
+me."	
+Message	Shido	Haha, seriously? What's gotten into you?	
+Message	Rinne	"I have faith in you. I trust you, Shido. Don't
+forget your promise. Don't break it either, okay?"	
+Message	Shido	Of course.	
+Message	Rinne	If you break it, then you must pay.	
+Message	Shido	I-I know.	
+Message	Rinne	I see. As long as you understand.	
+Message	Shido	"Wh-What's the big deal? Why are you threatening
+me?"	
+Message	Rinne	Hehe... Sorry.	
+Message	Rinne	But...	
+Message	Shido	...?	
+Message	Rinne	"You'll be fine, right? I'm sure if it's Shido,
+he'll be fine."	
+Message	Shido	...	
+Message	Shido	Wh-What was that just now?!	
+Message	Shido	Hey, Rinne... Did you just see―	
+Message	Shido	"Huh? Rinne's gone?
+When did she...?"	
+Message	Shido	"Well, it is pretty late...
+I should head to bed as well."	
+Message	???	"...In this dream... no one can become happy...
+Shido Itsuka... I hope your next dream will be
+a happy one..."	

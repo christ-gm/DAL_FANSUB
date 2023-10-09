@@ -1,0 +1,129 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Kotori, I heard Yoshino collapsed! What happened?!	
+Message	Kotori	"Calm down, Shido. The Fraxinus crew is also on
+edge with all of the "situations" popping up,
+so I'd like it if you didn't add to the stress."	
+Message	Shido	Oof... S-Sorry... So, what about Yoshino...?	
+Message	Kotori	"She didn't collapse from any injury or illness.
+The spiritual power we were monitoring
+suddenly became unstable."	
+Message	Shido	Unstable? You mean... she lost control?	
+Message	Kotori	"I wouldn't put it that way just yet, but if we
+leave her as is, it could be a possibility in
+the near future."	
+Message	Shido	Was there a specific cause...?	
+Message	Kotori	"It's currently unknown. It's hard not to feel
+anxious in this situation. We'll just have to keep
+an eye on her. You have to support her as well."	
+Message	Shido	Yeah. You can leave that part to me.	
+Message	Kotori	"That confidence is what makes me so anxious...
+Whatever. Yoshino's in the infirmary, so go over
+to see her right away. Careful not to agitate her."	
+Message	Shido	R-Right.	
+Message	None	"(It's so chilly in here. There's ice forming
+everywhere... This seems pretty bad.)"	
+Message	None	"(If Yoshino ends up losing control, it'll be even
+worse. I have to hurry and calm her down...)"	
+Message	Shido	Yoshino... Are you okay?	
+Message	Yoshino	...Shido-san...?	
+Message	Shido	"It's all right now. I'm here... Could you tell
+me why you're crying?"	
+Message	Yoshino	Y-Yoshinon is...	
+Message	Shido	Yoshinon...? What's wrong with Yoshinon?	
+Message	Yoshino	Yoshinon... is gone...!	
+Message	Shido	What?!	
+Message	Yoshino	Yoshi...non...!	
+Message	None	"(It's true, Yoshinon was always on Yoshino's left
+hand, but now she's nowhere to be seen.)"	
+Message	Shido	"Yoshino, calm down. It's all right.
+Yoshinon was with you just a while ago, right?"	
+Message	Shido	So I'm sure she's somewhere in this room.	
+Message	Yoshino	B-But...	
+Message	Shido	"Yoshino, it's okay.
+I'll look for Yoshinon."	
+Message	Yoshino	...Okay.	
+Message	None	(Now then... Where to look...)	
+Choice		Look under the bed.	
+Choice		Look in the changing room.	
+Choice		Look on the medical officer's desk.	
+Message	Shido	"Maybe she fell off your hand and rolled underneath
+the bed?"	
+Message	Shido	"...I don't see her anywhere.
+Looks like she isn't under here..."	
+Message	Yoshino	......	
+Message	Shido	"Maybe you dropped her when you were changing your
+clothes before the examination...?"	
+Message	Shido	"...Yoshino, sorry, but I'm going to look in the
+changing room, okay? I-I'm not doing it for
+any indecent reason!"	
+Message	Yoshino	...Okay.	
+Message	Shido	"...I don't see her. Looks like you didn't
+drop her in the changing room..."	
+Message	Yoshino	......	
+Message	Shido	"Could it be that... when the medical officer did
+your examination, they took her?"	
+Message	Shido	This is the medical officer's desk...	
+Message	Shido	"...Looks like she's not there.
+Guess the officer didn't collect her."	
+Message	Yoshino	......	
+Message	Yoshino	Is she... not here after all...?	
+Message	Shido	Huh? Y-Yeah... I haven't found her yet.	
+Message	Yoshino	"At this rate... If I can't see
+Yoshinon anymore, I..."	
+Message	Shido	Calm down, Yoshino! I'll definitely find Yoshinon!	
+Message	Shido	"Yoshino... Stay calm and think carefully. Do you
+remember where you last took her?"	
+Message	Yoshino	I don't... know...	
+Message	Shido	"You definitely had her when you came on board the
+Fraxinus for your examination, right?"	
+Message	Yoshino	Y-Yes... We were together...	
+Message	Shido	"Then at the very least, she must be on the Fraxinus
+somewhere. When you got here,
+what did you do first?"	
+Message	Yoshino	"They said they'd... examine me... and laid
+me down... on this bed."	
+Message	Shido	You were with Yoshinon then, too...?	
+Message	Yoshino	"Yes... and then I got a little sleepy...
+And then... when I woke up..."	
+Message	Shido	"While you were sleeping in this bed, Yoshinon
+disappeared."	
+Message	None	"(Then she should be near the bed...
+Huh? Could it be?)"	
+Message	Shido	"Sorry, Yoshino... but I'm going to look under
+the mattress for a second, okay?"	
+Message	Yoshino	...!	
+Message	Shido	...I knew it.	
+Message	Shido	See? No need to worry.	
+Message	Yoshino	"Y-Yoshinon...!
+Yoshinon, Yoshinon!!"	
+Message	Yoshinon	"...Bwah!! Good grief! How horrible, Yoshino...\nYoshinon was squished under the mattress and\ncouldn't even call out!"	
+Message	Yoshino	I'm... sorry... Yoshinon...	
+Message	Shido	"She must have gotten tucked under the edge of the
+mattress. It's hard to notice when it's more
+toward the foot of the bed."	
+Message	Yoshino	Th-Thank you... so much...	
+Message	Shido	I'm glad we could find her.	
+Message	Yoshino	Y-Yeah...	
+Message	Yoshinon	"Hoo-whee, sorry for causing trouble!\nThanks to you, Shido-kun, I'm saved!"	
+Message	Shido	Yeah, I'm glad I was able to find you so quickly.	
+Message	Yoshino	Yeah... Thank you...!	
+Message	Reine	"...Hm. Apologies. This usually would have been
+a matter we'd deal with ourselves."	
+Message	Kotori	"Well, part of it was probably thanks to Shido,
+so I guess all's well that ends well."	
+Message	Kotori	"But what a surprising outcome. The Spirits... more
+specifically Yoshino, lack sufficient interaction
+with humans and are almost like kids in a sense."	
+Message	Shido	"Well, I'm really glad we were able to find her.
+Yoshinon seems to be a precious friend to her."	
+Message	Reine	...How long will you be able to say that?	
+Message	Shido	Huh? What do you mean?	
+Message	Reine	"While it's true that Yoshinon is contributing to
+Yoshino's spiritual stability, conversely, it
+shows how highly dependent on her she is."	
+Message	Reine	"As was clear with today's incident, her happiness
+hangs from the thin thread that is Yoshinon..."	
+Message	Shido	I suppose that's true...	
+Message	Kotori	"But, it's also true that we can't separate them...
+You should be a little more careful too, Shido."	
+Message	Shido	R-Right...	

@@ -1,0 +1,251 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Phew, that should do it.	
+Message	None	"(Phew. I didn't expect to have after-school duties
+today... No one's left in the classroom but me.)"	
+Message	None	"(Well, I still have to get ready for dinner, but I have
+time. I'll drop by the market to pick up some food.)"	
+Message	Shido	Oh...	
+Message	None	"(Come to think of it, Rinne said she's going to be
+handling it. Then I have nothing else I can think of
+doing. Hm... I guess I'll just go home and help Rinne.)"	
+Message	None	"(Wait a minute... Now that Rinne and Maria are here,
+not to mention tomorrow's meals, Rinne won't be able
+to buy everything on her own, huh?)"	
+Message	Tohka	Oh, Shido! I knew it! You're still here!	
+Message	Shido	Tohka? Were you waiting for me?	
+Message	Tohka	Yeah! I wanted to go home with you!	
+Message	Shido	Sorry, and thanks Tohka. Do you mind if I drop by the shopping district?	
+Message	Tohka	"Hm? Oh, you're getting food for the teppan party
+tonight? Rinne already went to get food..."	
+Message	Shido	"Yeah, but considering tomorrow's food too, I figured
+I should pick up some more."	
+Message	Tohka	"I see! Of course I'll go with you! I was just getting
+hungry."	
+Message	Shido	Well... we're not going to go to go eat...	
+Message	Yuzuru	Question. Where do you plan on going, Shido?	
+Message	Shido	"Oh, the shopping district... Whoa, Yuzuru?! Were you
+on duty today, too?"	
+Message	Yuzuru	"Affirmative. Yuzuru was also on duty. On a side note,
+Kaguya made plans to go out with Yoshino, so she
+has already graciously left us."	
+Message	Shido	"I-I see... It must be tough for you too, Yuzuru. So
+you came to check in on me, then?"	
+Message	Yuzuru	"Right answer. I figured I might be able to go home
+with you and we could hang out."	
+Message	Shido	Hang out?	
+Message	Yuzuru	"Information. Currently there is a local gourmet festival
+happening in the shopping district. Would you like to
+swing by?"	
+Message	Tohka	"Local gourmet festival? Then does that mean we get
+to eat something delicious?"	
+Message	Yuzuru	"Indeed. There are special items and dishes from
+various local regions. There are food trucks as well,
+so I'm sure you'd enjoy it, Tohka."	
+Message	Tohka	Whoa! That sounds great!	
+Message	Shido	I see. I may be able to buy something interesting.	
+Message	Yuzuru	"Wise eyes. I believe you will be bombarded with foods
+you normally do not have access to."	
+Message	Shido	All right. Let's swing by, then.	
+Message	None	"(Rinne should be buying stuff for dinner, but if I find
+something interesting, I think I'll buy it.)"	
+Message	Tohka	"I wonder what kind of food trucks there are... I can't
+wait!"	
+Message	Shido	Hey, don't forget about dinner, okay?	
+Message	Tohka	It'll be fine. I'll only just nibble.	
+Message	Shido	As long as we're clear...	
+Message	None	"(Well it's Tohka, I guess I don't have to worry about
+her.)"	
+Message	Shido	Whoa.... There are a lot of people here.	
+Message	Yuzuru	"Assumption. It must be because of the gourmet
+festival. However it appears that the placement of the
+food truck may also be contributing to the problem."	
+Message	Tohka	Oh... Shido, this place smells so good!	
+Message	Shido	"Haha. I guess it's a pro of having the food truck here,
+huh? Wow... There are so many kinds of food. It's
+really amazing."	
+Message	Tohka	"All right, then let's go check out the shop there.
+I can't wait!"	
+Message	Shido	"Hey, don't run, Tohka. We need to ask Yuzuru...
+Wait, where is she?"	
+Message	Yuzuru	Purchased. Sorry for the wait. Please eat this.	
+Message	Shido	"Yuzuru?! You were just gone for a second, and you've
+already bought something?!"	
+Message	Shido	What are you holding?	
+Message	Yuzuru	"Introducing. Yuzu juice from Shikoku. I heard it's great
+for beauty too, so please try it out."	
+Message	Tohka	"Yuzu? Oh, the sauce we used from the hot pot we
+had the other day? Wouldn't you say it's too sour to
+drink?"	
+Message	Yuzuru	"Correction. I believe you're talking about yuzu ponzu.
+That just uses yuzu juice in the ponzu sauce. This is
+a juice with yuzu juice and water."	
+Message	None	(Yuzuru brought me a cup of juice and also for Tohka.)	
+Message	Shido	These cups seem interesting...	
+Message	Yuzuru	Agreed. Supposedly all stores are using the same cup.	
+Message	Shido	"I see. Well, it is a festival, so I think unity is
+important."	
+Message	Yuzuru	Affirmative. Yuzuru also thinks this is fine.	
+Message	Tohka	"Ah, this tastes very good! The balance between sweet
+and sour is perfect!"	
+Message	Shido	"...Yeah. Tohka, you're really fast when it comes to
+these things."	
+Message	None	"(I was impressed with Tohka and tried a sip of the
+yuzu juice.)"	
+Message	Shido	"Oh, you're right, Tohka. The scent of yuzu is strong,
+but it's really mild and easy to drink."	
+Message	Tohka	Yeah. I feel energized.	
+Message	Yuzuru	"Analysis. The organic sours in the yuzu are best for
+recovering from fatigue. It also helps with heartburn
+and pains in the liver."	
+Message	Yuzuru	"Addition. There's also vitamin C and flavonoids used
+as antioxidants to prevent sickness. It's of the
+Rutaceae branch, but is stronger than the tangerine."	
+Message	Tohka	"I see... In another words, the yuzu is in the same
+family as the tangerine?"	
+Message	Shido	"Well, they're definitely related... Yuzuru, you sure
+are knowledgeable."	
+Message	Yuzuru	"Affirmative. When I battled Kaguya in the past, I
+researched various gourmet dishes across all regions."	
+Message	Shido	"I never knew you guys had such battles... How would
+you even win that kind of competition..."	
+Message	Yuzuru	Satisfied. Now let's try the black oden over there.	
+Message	Tohka	"Whoa! What is that?! It's different from the usual
+one!"	
+Message	Shido	Hey...! Wait, Tohka!	
+Message	Yuzuru	"Delicious. It's different from ordinary oden. The
+broth is delicious."	
+Message	Tohka	You're right. This is delicious. What is this powder?	
+Message	Shido	"That's broth powder. Black oden is different and
+uses broth powder. It sounds delicious, doesn't it?"	
+Message	Tohka	"Yeah! Oh, I know! Shido, you should try it. You'd
+better eat it when it's hot."	
+Message	Shido	Oh, well, I...	
+Message	Tohka	Hurry up Shido. It'll be ruined if it's cold.	
+Message	Shido	But that's...	
+Message	None	(I'm embarrassed to do it in front of others...)	
+Message	Tohka	Come on! Open your mouth! Wide! AHHH!	
+Message	Shido	O-Okay...	
+Message	None	(I guess I have to brace myself.)	
+Message	Shido	*Nom*... *chomp, chomp*...	
+Message	Tohka	What do you say? Is it good?	
+Message	Shido	Yeah. The beef tendon makes the black oden so good.	
+Message	Tohka	That's great. It's so nice to eat delicious food together!	
+Message	Shido	Yeah.	
+Message	Yuzuru	Envious. Are you favoring Tohka?	
+Message	Shido	Not at all. She just gave me a piece...	
+Message	Yuzuru	Questionable. Then you mean... you don't mind if I do the same.	
+Message	None	(And Yuzuru offered me some too.)	
+Message	Shido	Oh um... Is that how it's going to be?	
+Message	Yuzuru	Request. Please open your mouth.	
+Message	Shido	"It doesn't have to be the same thing though. We can
+go to another stand..."	
+Message	Yuzuru	"Negative. Shido, you always play it off like that. I want
+you to open wide right here."	
+Message	None	(Yuzuru won't back down... Fine.)	
+Message	Shido	Ahh...	
+Message	Yuzuru	Praise. Ahh... Good job.	
+Message	Shido	Mm... This is delicious!	
+Message	Yuzuru	Agreed. That was the most delicious among the dishes.	
+Message	Tohka	"I thought it was the most delicious, too! I wonder what
+that black thing was..."	
+Message	Yuzuru	"Thinking. I believe... it could be fishcake? But it feels
+different..."	
+Message	Shido	"It looks like it's chopped up, so it's hard to tell,
+but it is fishcake. Black oden is all about the black
+fishcake."	
+Message	Tohka	"I see. So this is fishcake! I thought I tasted it before,
+but I couldn't tell."	
+Message	Shido	"They've adjusted it for mass consumption, huh?
+Chopping it up like this makes the broth seep in
+better. You can only taste it at a place like this."	
+Message	Yuzuru	"Agreed. Compared to the black oden I know, the taste
+is seeping through. Now I understand why."	
+Message	Shido	"Well it could have been a coincidence, but if we
+attribute it to the mastery of the chef, it seems even
+more delicious."	
+Message	Yuzuru	"Impressive. That's amazing, Shido. You're not the head
+of the household for nothing."	
+Message	Shido	"Haha. Thanks. I'm glad we were able to have a nice
+snack."	
+Message	Tohka	Snack? That wasn't a snack, that was oden right?	
+Message	Yuzuru	"Answer. Depending on the location, they serve it at
+snack stands as well. Children supposedly eat black
+oden as a snack."	
+Message	Tohka	"Oden as a snack, that's interesting. But I'm kind of
+bummed that the others aren't here, especially since
+it's a rare snack."	
+Message	Shido	"Then I'll try making it next time. Then we can all eat
+it together."	
+Message	Tohka	That sounds great!	
+Message	Yuzuru	Affirmative. I'm sure everyone will be happy.	
+Message	Shido	"But we won't make it as a snack. It'll be dinner,
+okay? If I serve it as a snack, I know for certain that
+people won't be able to eat dinner."	
+Message	Tohka	"Aww... That's unfortunate. But I can't wait to eat with
+everyone!"	
+Message	Yuzuru	Excited. I look forward to eating your oden, Shido.	
+Message	Shido	"All right. So let's head home now. I'm sure we should
+be helping out with dinner."	
+Message	Yuzuru	"Halt. Wait. There's an interesting place there. Is it
+okay if I check it out?"	
+Message	Shido	Sure, but where are you going?	
+Message	Yuzuru	Rare taste. The aroma of spices is calling me.	
+Message	None	(Yuzuru, you must be affected by Tohka.)	
+Message	Yuzuru	"Discovery. I was finally able to purchase it. Let's all
+taste it."	
+Message	None	(Yuzuru brought it over with a smile. It was...)	
+Message	Shido	"Is that a curry soup ramen? It's like a ramen version
+of curry udon... But the smell is different. Wait, is
+this tonkotsu-based?"	
+Message	Yuzuru	"Affirmative. That's exactly what you said. It seems
+like an unbelievable combination, but it seems to be
+a dish made with passion. I was curious."	
+Message	Shido	"I see. But Yuzuru... Wouldn't you say that's pretty
+heavy?"	
+Message	Yuzuru	"Agreed. Hence why I bought one for the three of us
+to share. That way, it won't affect dinner too much."	
+Message	Shido	"Hmm... Well, you have a point, I guess. I guess we
+can manage."	
+Message	Tohka	I'm totally fine, Shido.	
+Message	Shido	Amazing, Tohka...	
+Message	None	"(She ate so much oden too... Actually, I wonder if I
+can eat dinner after all this.)"	
+Message	None	"(Before I knew it, Tohka had already put the noodles
+in her mouth.)"	
+Message	Tohka	Whoa. This is soooo good, Shido!	
+Message	Yuzuru	"Satisfied. The combination of spices is great. Not
+only for the nose, but it mesmerizes even the tongue...
+It's as if I were put under a spell..."	
+Message	Shido	If you put it like that I'm really curious now.	
+Message	None	(I guess I can take a bite...)	
+Message	Shido	...?! This is...?!	
+Message	Shido	"There's a lot of lard, and the soup is pretty thick,
+but that makes the umami of the curry even stronger.
+The flavors compliment each other so well...!"	
+Message	Shido	"And the spices. Just as Yuzuru said, this is crazy!
+Curry and tonkotsu ramen... Normally you'd think the
+two wouldn't go together, but I'm really surprised!"	
+Message	None	(That was truly some miraculous gourmet...)	
+Message	Shido	...Phew. My stomach's finally settled. Let's go home.	
+Message	None	"(We threw away our cans of iced tea in the trash can
+next to the vending machine, and got up from the
+bench.)"	
+Message	None	(The three of us devoured the curry ramen so quickly.)	
+Message	Tohka	Wait, Shido. I smell something odd over there.	
+Message	Shido	Hm? That area is...	
+Message	None	(I looked to follow where Tohka was pointing.)	
+Message	None	"(It's a flag. It looks like a flag waving in front of
+the food trucks.)"	
+Message	None	"(And next to the flag was a sign that read "Italian
+Yakisoba".)"	
+Message	Tohka	Italian... yakisoba? What is that?	
+Message	Yuzuru	"Analysis. I believe it's pasta sauce on top of yakisoba.
+Kind of like a westernized yakisoba. It does smell
+different."	
+Message	Tohka	"All right, let's go to that shop next! Let's go Shido,
+Yuzuru!"	
+Message	Shido	H-Hey, wait! Hey, TOHKA!	
+Message	None	"(And in the end, we ended up going to three additional
+places.)"	
+Message	None	"(Of course after eating all that, Tohka was totally
+fine.)"	

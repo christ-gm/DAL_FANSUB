@@ -1,0 +1,251 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	...Huh? What was I doing again?	
+Message	Shido	...It's quiet. Are we in the middle of class?	
+Message	Shido	"...It's hard to walk. I feel a dull pain... Wait,
+I seem to have grazed my knee."	
+Message	Shido	"I remember now! I tripped during P.E., so I'm on
+my way to the infirmary. Uh, it's... this way."	
+Message	Tamae	What's the matter, Itsuka-kun?	
+Message	Shido	Oh Tama-ch... I mean... Okamine-sensei.	
+Message	Tamae	I thought you were... in the middle of P.E. class.	
+Message	Shido	Oh, I am. But I tripped.	
+Message	Tamae	"What?! Listen to me, Itsuka-kun. Calm down.
+First, let's check if you're conscious..."	
+Message	Shido	"We're going to start from there?! I think you're
+the one who needs to calm down! It's obvious
+that I'm conscious."	
+Message	Tamae	"I-It's my first time doing CPR, but... I promise,
+um... I'll be gentle."	
+Message	None	"(She's breathing really heavily. Is that what
+she's gearing up for?!)"	
+Message	Tamae	Now then. Just relax, Itsuka-kun.	
+Message	Shido	"U-Uh, you're breathing out carbon dioxide, so I
+don't need that. Sensei, please don't come any
+closer."	
+Message	Tamae	No, this is very important.	
+Message	Shido	Look, I just skinned my knee. See?	
+Message	Tamae	Oh, is that so? That's... unfortunate.	
+Message	Shido	Are you serious?!	
+Message	Tamae	"No wonder you're here. I thought you had turned
+into a delinquent..."	
+Message	Shido	"No, no... It's not like that, don't worry.
+Anyways, I'll be going now, okay?"	
+Message	None	(Phew... That was a close one.)	
+Message	Tamae	Oh... Itsuka-kun. Hold on just a moment.	
+Message	Shido	"Huh? Y-Yes? Did you have something you wanted to
+say?"	
+Message	Tamae	Do you know Tobiichi-san in our class?	
+Message	Shido	Tobiichi... You mean Origami Tobiichi?	
+Message	Tamae	Yes. I'm glad you remember her name.	
+Message	Shido	"Well, she sits next to me... And we've been
+through some stuff together, kind of."	
+Message	Tamae	"Oh, is that so? She hasn't been to class in a
+while now..."	
+Message	Shido	Huh? Sh-She hasn't?	
+Message	Tamae	"She's been coming to school, but going straight to
+the infirmary. The seat next to you is always open
+these days, you know."	
+Message	Shido	Huh? Wait? Really?	
+Message	Tamae	"Reaaally. Tobiichi-san hasn't come to class since
+spring. Itsuka-kun, where did you see her last?"	
+Message	Shido	"Oh... Is that so? Um... come to think of it,
+maybe..."	
+Message	None	(Something feels off... I wonder what it is.)	
+Message	Shido	...	
+Message	None	"(Maybe I'm imagining things. Tama-chan was the
+one who brought it up, though.)"	
+Message	Tamae	"Tobiichi-san... She seems to not fit in with the
+classroom. She's very quiet."	
+Message	Shido	Quiet? Well, I guess she is...	
+Message	Tamae	"I've been checking in on her from time to time.
+If she's in the infirmary today, please send her
+my regards."	
+Message	Shido	U-Um... I will.	
+Message	Tamae	Thank you.	
+Message	None	(Origami... Tobiichi.)	
+Message	None	"(I feel like I've heard her name before. I kind of
+remember what she looks like...)"	
+Message	Shido	"... Huh? Wait, I guess I can't remember her. Maybe
+I just imagined it."	
+Message	None	(Well, whatever. I'll head over to the infirmary.)	
+Message	Shido	Excuse me.	
+Message	Shido	Hm...?	
+Message	None	(No one's here. What do I do?)	
+Message	None	"(Well, I'm sure no one will mind if I used some
+alcohol and a bandage.)"	
+Message	Shido	Excuse me...	
+Message	Origami	Oh?!	
+Message	Shido	Whoa!	
+Message	None	(A... girl?)	
+Message	None	"(I didn't notice because of the curtain. She
+seemed to be frozen in shock. But she's in
+uniform, so she's obviously a student here...)"	
+Message	Origami	Hahh...	
+Message	None	"(Man, she's really pretty. Wait... is she the
+Tobiichi-san who always goes to the infirmary?)"	
+Message	None	"(Hmmm. She seems familiar. I even feel like I've
+spoken to her before.)"	
+Message	None	"(Tama-chan did ask me to talk to her, so I guess
+I'll approach her.)"	
+Choice		Is the teacher not here?	
+Choice		Sorry for the wait.	
+Choice		D-Don't move. Put your hands up!	
+Message	Shido	"U-Um... is the teacher not in today? I tripped
+during P.E."	
+Message	Origami	U-Um... Um... Ahh?! I-I'm so sorry.	
+Message	Shido	Huh?	
+Message	None	(The girl blushed and ran away.)	
+Message	None	(The air is tense. Maybe I should...)	
+Message	Shido	"Hey, sorry for the wait. Is there an opening on
+the bed?"	
+Message	Origami	Huh...?! Ahh... I-I...	
+Message	None	"(Wait, did she think I was serious? She's frozen
+stiff.)"	
+Message	Origami	...Sh...	
+Message	Shido	"Whoa... Um, sorry, that was a joke. A very
+innocent joke."	
+Message	Origami	...I'm going to go take a shower.	
+Message	Shido	Okay, sure. Wait, huh? What?!	
+Message	None	(She's going along with it?!)	
+Message	None	"(She's good at going along with things... But she
+seemed serious.)"	
+Message	Shido	"D-Don't move. Put your hands up! There's an
+injured person here! Stay calm, and I won't pour
+soy sauce into your curry!"	
+Message	None	(...Hey! What the hell am I saying?!)	
+Message	Origami	H-Huh...?!	
+Message	None	(She's still frozen.)	
+Message	None	(M-Maybe I can treat myself now...)	
+Message	None	(A-All right. I'm good now.)	
+Message	Origami	U-Um...	
+Message	Shido	Hm?	
+Message	Origami	H-How long should I stay put like this?	
+Message	Shido	Huh? Oh, sorry. I-I'm good now.	
+Message	None	"(She was still this whole time?
+What a weird girl.)"	
+Message	Origami	I... I can move now?	
+Message	Shido	Um, are you...	
+Message	Origami	...Ah.	
+Message	Shido	Huh? Hey!	
+Message	Origami	S-Sorry...!	
+Message	Shido	Oh...	
+Message	Shido	Oh...	
+Message	Shido	...?!	
+Message	None	(I-I can see it...)	
+Message	None	"(No, no... Now isn't the time for that. Calm down,
+Shido.)"	
+Message	Origami	Mmm...	
+Message	Shido	A-Are you okay...?	
+Message	Origami	No... Don't come near me.	
+Message	Shido	Please don't phrase it like that. It sounds wrong.	
+Message	Origami	If you come too close... I'll... get embarrassed.	
+Message	None	"(I see... so she's just shy. The teacher did say
+she was quiet.)"	
+Message	Shido	"Anyways, just calm down. I won't do anything. You
+can get up on your own, right?"	
+Message	Origami	I just slipped... No problem.	
+Message	Shido	"I see. I'm glad. Then can you hurry up?
+Or else, um..."	
+Message	Origami	Um, what?	
+Message	Shido	"Well the way you're positioned... I guess I'm
+embarrassed to be facing you."	
+Message	Origami	Oh...	
+Message	Origami	Did you see it...?	
+Message	Shido	Ye... I mean no. I didn't see it!	
+Message	Origami	Really?	
+Message	Shido	"R-Really. So please get up. Uh, O-Origami
+Tobiichi-san... right?"	
+Message	Origami	There was a name tag inside my skirt.	
+Message	Shido	There was?! I don't remember seeing any letters...	
+Message	Origami	So you did see it.	
+Message	Shido	Oh... *grunt*... Crap...!	
+Message	Origami	Pervert...	
+Message	Shido	"*Grunt*... S-Sorry! I'm going to close my eyes, so
+please get up! I can't help but stare if you're
+like that."	
+Message	Origami	...It's fine. No need to close your eyes anymore.	
+Message	Shido	"*Sigh*... I'm glad. I'm going to open my eyes,
+then."	
+Message	Shido	Um... Are you hurt at all?	
+Message	Origami	I-It's nothing...	
+Message	Shido	"I see. I'm glad. Uh, my name is Shido Itsuka. Nice
+to meet you, Tobiichi-san."	
+Message	Origami	...I know. I've always... been watching you.	
+Message	Shido	"I see. So you already know me, huh? Wait...
+What do you mean you've always been watching
+me? You're always in the infirmary, right?"	
+Message	Origami	"I've seen you from far away with binoculars.
+I remember you."	
+Message	Shido	Oh, I see... Th-Thanks... I guess?	
+Message	None	(...She's a weird one.)	
+Message	Origami	...	
+Message	Shido	...	
+Message	None	(I wonder what this awkward silence is.)	
+Message	Origami	Squirm...	
+Message	Shido	Hm? What did you just say?	
+Message	Origami	It's my way of expressing that I'm blushing.	
+Message	Shido	Don't say it!	
+Message	None	(She's not just shy. She's really weird.)	
+Message	Origami	U-Um...	
+Message	Shido	Y-Yeah. What's the matter?	
+Message	Origami	Are you... okay? Your injury, I mean.	
+Message	Shido	"Oh, yeah, this isn't a big deal. I could just lick
+it and it'd get better."	
+Message	Origami	A-Are you going to... tell me to lick it...?	
+Message	Shido	Huh?! No, no! That was just a saying.	
+Message	Origami	A saying?	
+Message	Shido	"Um... I wanted to say it's not a big deal. See?
+All I need is a bandage and I'll be good."	
+Message	Origami	I see... I'm so glad.	
+Message	Shido	Thanks for your concern.	
+Message	Origami	...Hey, Itsuka-kun? How do you know me?	
+Message	Shido	Huh? I... don't know.	
+Message	Origami	You knew my name...	
+Message	Shido	Oh, your name? The teacher told me.	
+Message	Origami	I see...	
+Message	None	"(And thus, our conversation ended. This is so
+awkward.)"	
+Message	Shido	Uh...	
+Message	Origami	"...S-So did you crumb for me because of the
+tr-reacher?"	
+Message	Shido	You seem to be stumbling, but I don't know why.	
+Message	Origami	"S-Sorry. I don't talk to people much... I get so
+nervous, I can't speak properly."	
+Message	Shido	You don't like to talk to people?	
+Message	Origami	"Yeah... It's very embarrassing.
+Especially with you..."	
+Message	Shido	Huh? Sorry, I couldn't hear you just now.	
+Message	Origami	No, it's not a big deal. Nevermind.	
+Message	Shido	"I-I see. Well, hang in there just a bit longer.
+And on a side note, it's not because the
+teacher told me to. I just got hurt during P.E."	
+Message	Origami	R-Really?	
+Message	Shido	"Yeah. So I'm not here to pull you out or anything.
+I've stayed here long enough... Anyways, I'm going
+to go now."	
+Message	Origami	O-Okay.	
+Message	Shido	"Well... I do feel sad that you're not
+coming to class."	
+Message	Origami	Sad...? Why...?	
+Message	Shido	"Well, I like spending time in the classroom. If we
+were in class together, I'm sure it'd be fun. Sad
+isn't the right word... It's unfortunate."	
+Message	Origami	"I... I'm not good at talking to people...
+so I can't."	
+Message	Shido	But you're talking to me now.	
+Message	Origami	Mm... but...	
+Message	Shido	I'm sure you can do it. Everyone in class is nice.	
+Message	Origami	"But I'm very embarrassed right now... My heart is
+about to explode. If this is going to happen every
+day, I wouldn't be able to stand it."	
+Message	Shido	"Then, how about this? I'll visit the infirmary
+from time to time. Then maybe you'll get
+used to it eventually, no?"	
+Message	Origami	Huh...?	
+Message	Shido	Nothing will change if you stay here alone.	
+Message	Origami	Maybe just a little... from time to time.	
+Message	Shido	"I see. That's good. Later. I'll come visit
+you soon."	
+Message	Origami	Okay... later...	
+Message	None	(Origami Tobiichi-san, huh?)	
+Message	Shido	It would be fun to spend some time with her.	

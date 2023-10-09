@@ -1,0 +1,263 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(My name is Shido Itsuka. I'm an ordinary high school
+student.)"	
+Message	None	"(So what am I doing this late in the night? Don't even
+ask.)"	
+Message	None	"(Well, it's kind of a secret that I'm at the bookstore
+in front of the station to buy a book I really enjoy.)"	
+Message	Shido	"...Just kidding. I just really wanted to read the
+comic book that's coming out today."	
+Message	Shido	"It's rare that I'm out this late. I can't help but
+feel so excited... Haha."	
+Message	Shido	"Oh, well... I'll just stop messing around and hurry
+home."	
+Message	Shido	Wh-What the?! That's bright!	
+Message	Kotori	You there. You have a moment?	
+Message	Shido	Hm... This voice...	
+Message	Kotori	I'm going to have to ask you a few questions.	
+Message	Shido	"...Kotori, is that you? What are you doing dressed
+like that..."	
+Message	Kotori	...Hmph!	
+Message	Shido	Hnrg! Wh-What the hell?!	
+Message	Kotori	"And what's your problem? Talking to me like I'm your
+friend. I'm a cop that was recently stationed here.
+You watch how you speak to me."	
+Message	Shido	"Um, but you're totally Kotori! And... even if you were
+a cop, what kind of cop punches someone they just
+met?!"	
+Message	Kotori	This kind. You're looking at her.	
+Message	Shido	That's not something to be proud of!	
+Message	Kotori	What, you want to start a fight with me? Bring it on.	
+Message	Shido	...Whatever, fine. So what do you want?	
+Message	Kotori	...Hmph!	
+Message	Shido	"Oof! What the... a second time... *cough*. I didn't do
+anything!"	
+Message	Kotori	"You have an attitude problem. You're an outlier on
+the fringes of society."	
+Message	Shido	"You're the one with the attitude problem! You hit a
+random stranger twice."	
+Message	Kotori	"Stop your bitchin' already. You look like a sex
+predator. That level of grossness must be contagious."	
+Message	Shido	No way! And I'm not a sexual predator!	
+Message	Kotori	"I say one thing, and you talk back. I just asked you
+to answer some questions. Or do you have something
+to hide?"	
+Message	Shido	"Damn it. I'm supposed to be responding with the
+truth but why am I the one being sucked into this?
+You're like my little sister."	
+Message	Kotori	"I'm not talking about your super cute, wise little sister.
+Just answer my question."	
+Message	Shido	"I mean, seriously, let's be honest. You're totally
+Koto―"	
+Message	Kotori	What's that?!	
+Message	Shido	N-Nothing... So, what did you want to ask me?	
+Message	None	"(I can't expose my body to any more danger. I'm not
+going to open my mouth anymore...)"	
+Message	Kotori	"There's been a sexual predator around here lately.
+So I'm walking around asking questions."	
+Message	Shido	"I see. I didn't know that was happening. What do you
+want to ask me...?"	
+Message	Kotori	Right. Well, did you do it?	
+Message	Shido	Trust me. I didn't do anything like that.	
+Message	Shido	"Who even asks that?! Wouldn't you normally ask the
+individual if they saw anything?! Why are you asking
+if I did it?"	
+Message	Kotori	"Shut up. I just phrased it wrong. Gosh. You're so
+nitpicky."	
+Message	None	"(D-Damn it... It's not worth responding, I'll just get
+tired...)"	
+Message	Shido	"Anyways, ask me again. I don't think I'll be much
+help, though."	
+Message	Kotori	"Hmph, fine I'll ask again. So there's been a sexual
+predator lately..."	
+Message	Shido	Yeah?	
+Message	Kotori	Now's your chance to come clean.	
+Message	Shido	HOW IS THAT ANY DIFFERENT?!	
+Message	Shido	"Forget it. I'll answer first. I don't remember doing
+anything, nor have I witnessed anything. I just want
+to go home. Later."	
+Message	Kotori	Wait a minute.	
+Message	None	(I'm going to ignore her. I'll just go home.)	
+Message	Kotori	I told you to HOLD ON!	
+Message	Shido	"OUCH! What the hell are you doing?! I'm an ordinary
+civilian!"	
+Message	Kotori	"I already asked you nicely to wait. I had more questions
+to ask, but you're the one who tried to go home."	
+Message	Shido	"Even if that was the case, what cop does a round-
+house kick on a civilian?!"	
+Message	Kotori	This one. You're looking at her.	
+Message	Shido	Enough with that already! That's quite enough!	
+Message	Shido	"Jeez, what's your problem... Please, just let me go
+home."	
+Message	Kotori	"Hmph. Your attitude's starting to sound mighty
+disobedient. Fine. Then I'll just get it over with."	
+Message	Kotori	"You look like you're in high school. What are you
+doing walking around this late? I don't think it's
+appropriate for your age."	
+Message	Shido	*Grunt* You're actually asking a legitimate question.	
+Message	Kotori	"What were you doing out this late? Depending on your
+answer, I may detain you."	
+Message	Shido	Well, um...	
+Message	None	"(What do I do? I can be honest, but would Kotori be
+satisfied with that? I'd rather just get this
+conversation over with and go home.)"	
+Message	None	"(But it doesn't mean that being honest will actually
+accomplish that. I'll have to answer her in a way that
+she'd be satisfied. I want to read my comic book!)"	
+Message	Shido	So then my answer should be...	
+Choice		I was hanging out at the arcade.	
+Choice		I was looking for a cute girl like you!	
+Choice		I was buying a comic book.	
+Message	Shido	"I was hanging out at the arcade in front of the
+station. Excuse me."	
+Message	None	"(Instead of telling her the truth, I'll pretend I was up
+to no good. It'll give her something to scold me about
+and she'll get her fix...!)"	
+Message	Shido	"I was going to go home earlier, but I was super into
+it and lost track of time. I'm sorry."	
+Message	Kotori	"I see. Got it. Then let's have you come down to the
+station."	
+Message	Shido	WHY?!	
+Message	Kotori	"What do you mean, why? You were hanging out till
+this late, right? I'm going to scold you properly, so
+come with me to the station."	
+Message	Shido	No, no, no, no! That's totally messed up!	
+Message	Kotori	Excuse me? Tell me, what about it is messed up?	
+Message	Shido	"Look at the time. Can't you just scold me a bit here
+and then tell me to hurry home? I mean, that's normal!"	
+Message	Kotori	Right. If it's normal.	
+Message	Shido	"Right? Then why am I being taken to the station?
+That'll make my return home even later..."	
+Message	Kotori	"Because you don't look apologetic at all. You totally
+have that "I'll just act sorry and she'll let me off
+the hook" attitude..."	
+Message	None	(Crap... She's actually sharp.)	
+Message	Kotori	And besides...	
+Message	Shido	What?	
+Message	Kotori	"Your acting like you felt bad was gross. Almost like
+an ugly dog kissing up."	
+Message	Shido	That's so messed up!	
+Message	Shido	"Damn it, This is going nowhere. I'm just going to go
+through!"	
+Message	Kotori	Hey, wait!	
+Message	Shido	"Shut up. You're picking a fight with me. I just want
+to go home and read my comic book! You get out of
+my way!"	
+Message	Shido	AH!	
+Message	Kotori	Hyaaa!	
+Message	Shido	...Oh, um.	
+Message	Kotori	...	
+Message	Shido	Uh, that was... an accident...	
+Message	Kotori	Caught you red handed...	
+Message	Shido	Excuse me?	
+Message	Kotori	"An act of a bonafide sexual predator... Hehehe.
+Hehehehe."	
+Message	Shido	W-Wait. Let's talk about this! We can get through it!	
+Message	Shido	Hehehehehe.	
+Message	Kotori	"Wh-What's your problem? What's with that laugh all of
+a sudden?"	
+Message	Shido	Hehehehe... Uhehehe.	
+Message	Shido	"Hey, listen, hot cop. You see... I was looking for a
+cute girl like you hanging around town!"	
+Message	Kotori	AHHHHHHHHHHHHHHHHH!	
+Message	Shido	"Oh come on, what's the problem? Why don't you come
+to paradise with me!"	
+Message	Kotori	No, no, no, no! Stop!	
+Message	Shido	"Come on, now. Did I scare you? You sure did a number
+on me back there. Now it's your time, Miss Cop."	
+Message	Kotori	N-No!	
+Message	None	(...I think this is enough.)	
+Message	Shido	Just kidding.	
+Message	Shido	"I was only playing around, Miss Cop. I was just buying
+a book. There's nothing suspicious..."	
+Message	None	(Well I did put some acting into it as payback.)	
+Message	Kotori	Ah... Ah...	
+Message	Shido	What's the matter? Can't you get up?	
+Message	Kotori	*Grunt*... It was so sudden, I was just surprised...	
+Message	Shido	"Ah, you lost all feeling in your legs, huh... Sorry, I
+guess I went too far."	
+Message	Kotori	...Sorry, can you lend me a hand?	
+Message	Shido	O-Okay...	
+Message	Kotori	HMPH!	
+Message	Shido	GAH!	
+Message	Kotori	"How dare you make fun of me... Anyways... I guess we
+have no choice but to do it."	
+Message	Shido	"What am I going to do?! You just said something really
+scary!"	
+Message	Shido	I was out buying a book.	
+Message	None	"(I have nothing to hide. I'm sure if I'm honest with
+her, it'll be okay.)"	
+Message	Kotori	"I see. Content that a high school student can't buy...
+right? I mean, going out this late at night to buy it,
+it's so suspicious."	
+Message	Shido	"I knew you'd say that! I totally knew it! I'm just
+buying a comic book!"	
+Message	Kotori	"Hah, I doubt it. But if you insist, then I guess I can
+take a look. What's inside that bag?"	
+Message	Shido	Fine. But as soon as you see it, let me go, okay?	
+Message	None	"(Honestly, I don't see why I have to show her, but
+if I fight it, it'll be more of a nuisance. So I'm just
+going to show her what's inside and go home.)"	
+Message	Shido	Wait. I'll open the bag now.	
+Message	Kotori	No, I'll open it myself, so hand it over.	
+Message	Shido	I refuse. I mean, you could damage the pages.	
+Message	Kotori	"*Grunt*... Fine. Hurry up, then. Who do you think I
+am..."	
+Message	Shido	"...A violent lady who'd punch someone as soon as
+she met them?"	
+Message	Kotori	Huh?!	
+Message	Shido	...Nothing.	
+Message	Kotori	I see. Hurry up.	
+Message	None	"(*Sigh*... Seriously I want to get this over with. I
+mean, the inside of this bag is...)"	
+Message	Shido	...?!	
+Message	None	(Wh-What the. What's going on?)	
+Message	None	"(I bought a comic book at the bookstore. But why is
+the content in this bag an erotic book...?!)"	
+Message	None	"(I can't believe it. Right in front of me is an
+inappropriate book. It even has the typical lewd
+headlines.)"	
+Message	Shido	Wh-What the... Why? What happened...?!	
+Message	Kotori	I'm still waiting.	
+Message	Shido	W-Wait!	
+Message	Kotori	...?! Wh-Why are you screaming all of a sudden?	
+Message	Shido	"Well, u-um... D-Don't move. Th-The tape. It's stuck
+on the book. I'll take it off, so don't touch me, okay?"	
+Message	Kotori	*Sigh*... What's taking you so long? Hurry up.	
+Message	Shido	Y-Yeah. I'm working on it.	
+Message	Shido	"What's going on? Did the person at the register give
+me the wrong item? No, I don't even care right now.
+I have to get out of this situation."	
+Message	Shido	"The path that I thought would be the safest was the
+worst trap. This is a book bomb. And it's about to
+explode...! What are you going to do, Shido Itsuka?!"	
+Message	Shido	"I need to get out of this bind. Do I show her? Show
+her my book? That's the worst! I can't!"	
+Message	Shido	"I'll have to make an excuse. No, it's not going to
+fly. She's crazy violent. There's no way I'll survive.
+She's not going to listen to what I have to say."	
+Message	Shido	"My only choice is to just plow through. If I run for it,
+the gender difference should allow me to get away..."	
+Message	Kotori	"What are you mumbling about? Okay.. Time's up.
+Hurry up and hand it over."	
+Message	Shido	Oh...	
+Message	Kotori	"You're bag is totally open. You shoulda hurried up and
+given it to..."	
+Message	Shido	Haha... Um.	
+Message	Kotori	Oh, oh...	
+Message	Shido	"I-I'm actually into little sisters. I guess you're my
+type? Just kidding... Hahaha."	
+Message	Kotori	...I see.	
+Message	None	(I totally blew it. I think I stepped on the final mine.)	
+Message	Kotori	Public... misdemeanor...	
+Message	Shido	It's over.	
+Message	Shido	Why is this happening to me...	
+Message	None	"(The cop is shaking, breathing heavily in front of
+me.)"	
+Message	Shido	Hey Miss Cop? Please calm down and let me explain.	
+Message	Kotori	How can I stay calm?!	
+Message	Shido	"P-Please wait. I couldn't help it. I was just
+emotional. I totally feel bad!"	
+Message	Kotori	Wait a minute! I won't let you get away with it!	
+Message	None	"(That day, my screams echoed throughout the starlit
+town.)"	

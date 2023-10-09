@@ -1,0 +1,215 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	Phew, that should do it.	
+Message	None	"(Phew. I didn't expect to have after-school duties
+today... No one's left in the classroom but me.)"	
+Message	None	"(Well, I still have to get ready for dinner, but I have
+time. I'll drop by the market to pick up some food.)"	
+Message	Shido	Oh...	
+Message	None	"(Come to think of it, Rinne said she's going to be
+handling it. Then I have nothing else I can think of
+doing. Hm... I guess I'll just go home and help Rinne.)"	
+Message	None	"(Wait a minute... Now that Rinne and Maria are here,
+not to mention tomorrow's meals, Rinne won't be able
+to buy everything on her own, huh?)"	
+Message	Kurumi	My, Shido-san, you're still here?	
+Message	Shido	Kurumi...?! What are you doing here?	
+Message	Kurumi	"Hehe... Oh Shido. Why are you surprised? I'm your
+classmate, it's only natural that we meet in the
+classroom."	
+Message	Shido	Oh, you're right... Sorry.	
+Message	Kurumi	"Not at all. Anyways, Shido-san, do you have any plans
+after this?"	
+Message	Shido	Well... I guess I don't until nighttime.	
+Message	Kurumi	Then that's great. Would you come shopping with me?	
+Message	Shido	...Just the two of us?	
+Message	Kurumi	Yes, just the two of us.	
+Message	Shido	Uh...	
+Message	None	"(I feel like if I just tag along, Kotori will be mad, but...
+I guess we'll be fine now. And maybe Kurumi might
+notice something like last time.)"	
+Message	Shido	"...Got it. I'll go with you. But what are you going to
+buy?"	
+Message	Kurumi	Well, that is for you to see when we get there.	
+Message	Shido	Why do I have a bad feeling about this...	
+Message	Origami	Wait a minute.	
+Message	Shido	Whoa?! Origami?!	
+Message	Kurumi	My... Origami-san, you're still here?	
+Message	Origami	So fake. You knew I was here.	
+Message	Kurumi	Not at all. I am just a cute, ordinary girl.	
+Message	Origami	...!	
+Message	Origami	"Anyways, Shido. I can't allow you to go out alone with
+Kurumi Tokisaki."	
+Message	Shido	Wh-What's going on?	
+Message	Origami	"There's a high chance that Kurumi Tokisaki will
+approach you in a bold way. As your girlfriend, I have
+a duty to protect you from this temptation."	
+Message	Shido	Well, um―	
+Message	Origami	"We can't say it won't happen for sure. She has proved
+you wrong before."	
+Message	Kurumi	"My, my. You sure seem to be putting up your guard
+around me."	
+Message	Origami	Of course. I won't allow you to be alone with Shido.	
+Message	Kurumi	"Very well... Would you like to join us, Origami-san?
+That way, we will be sufficiently chaperoned to your
+satisfaction."	
+Message	Origami	"...There's nothing to consider. Shido would want to
+walk home alone with me."	
+Message	Kurumi	Then Shido-san, please make your decision.	
+Message	None	"(Hm... What do I do? Origami and Kurumi... I'm afraid
+of what'll happen if I decide on one over the
+other...)"	
+Message	Shido	"Hmm... Well I did make plans with Kurumi first. So,
+why don't the three of us go together? Are you okay
+with that?"	
+Message	Origami	Fine. Then I will protect you, Shido.	
+Message	Kurumi	Hehehe... This will surely become a fun excursion.	
+Message	None	(Um... Did I make the wrong decision?)	
+Message	None	"(Kurumi had brought us to a general goods store. She
+wanted to check something out here, but...)"	
+Message	Kurumi	"Shido-san, look. Wouldn't you say this is quite
+gorgeous?"	
+Message	Shido	Let me see... Wait, is that a fruit knife?	
+Message	Kurumi	"Yes. Other knives are a bit too big, so I was looking
+for the right size."	
+Message	Shido	"I see. Wow, the handle looks like a rose. I feel like
+it really suits you, Kurumi."	
+Message	Kurumi	Thank you, Shido-san. Then how about this?	
+Message	Shido	"Looks like a black wing, huh? That seems to suit you
+too, but... I would say I like the rose one better."	
+Message	Kurumi	*Giggle*... Then I'll buy the first one, then.	
+Message	Shido	Yeah, sounds good. It looks elegant.	
+Message	Kurumi	"My, my. Then I suppose it'll be a fine accessory to
+walk around with at all times."	
+Message	Shido	Yeah... Hey, wait! That's scary!	
+Message	Kurumi	"Hehe... I was only kidding. Oh Shido-san, your
+reactions are so priceless."	
+Message	Shido	Don't make fun of me...	
+Message	Kurumi	I'll be careful. I'm going to go pay, okay?	
+Message	Shido	Hm...? What are you looking at, Origami?	
+Message	Origami	This is an item we need in our life together.	
+Message	Shido	Is that a... sheet?	
+Message	Origami	"Yes. A magic sheet that repels dirt. This is a
+necessity in our future activities. If we put this on
+your bed, Shido, your family won't catch us."	
+Message	Shido	I wonder what you're planning on doing!	
+Message	Origami	"...Shido, you're so bold. To ask a lady to say such a
+thing."	
+Message	Shido	Oh, come on! That's not what I meant!	
+Message	Origami	"It's fine. Nothing about you bothers me, Shido. In
+fact, I rather welcome that side of you."	
+Message	Shido	"Hey! My bed is intended for one person! We won't be
+sleeping together!"	
+Message	Origami	...Shido, you're so shy.	
+Message	Shido	Whatever, just don't put this in my house...	
+Message	Origami	Unfortunate. Then I'll just buy one for myself.	
+Message	Shido	...You're going to buy it?	
+Message	Kurumi	Thanks to you, I was able to make a good purchase.	
+Message	Origami	"I was able to buy something awesome thanks to you
+too, Shido."	
+Message	Shido	"Yeah, what an honor to be of service. I didn't do
+much, though. So where are we going next? I know
+this isn't the end."	
+Message	Kurumi	Hmm... Origami-san, why don't we battle?	
+Message	Origami	"...Battle? Bring it on. No matter how many times we
+go, I'll win."	
+Message	Kurumi	"My, you sure seem confident. Then I look forward to
+seeing the results."	
+Message	Origami	Your confidence will be your downfall.	
+Message	None	"(This is going the wrong direction... But they do seem
+to be getting along to a certain extent.)"	
+Message	Shido	So what kind of battle are you thinking about?	
+Message	Origami	It's obvious what we're going to do.	
+Message	Kurumi	"Well in a store like this, there's only one thing to do.
+We're going to have a mini fashion show."	
+Message	Origami	Shido, you'll be the judge.	
+Message	Shido	"O-Okay. I got it, but you guys are really starting to
+act like Kaguya and Yuzuru..."	
+Message	None	"(The two glared at one another and went into their
+fitting rooms.)"	
+Message	None	"(They both have a very unique fashion sense, but not
+in a bad way. As long as I don't make any
+inappropriate comments, I should be fine.)"	
+Message	None	(...)	
+Message	Kurumi	Shido-saaaan. I'm done changing.	
+Message	Origami	I'm ready as well.	
+Message	Shido	Uh, what am I supposed to do?	
+Message	Kurumi	"I'll open the door now. Origami-san, you're ready,
+right?"	
+Message	Origami	Then together... One, two...	
+Message	Shido	You guys... What are you wearing?!	
+Message	None	"(I couldn't help but be shocked. From the narrow
+openings between my fingers, I could see their
+mesmerizing bodies.)"	
+Message	Kurumi	My, is there something wrong?	
+Message	Shido	Well, um... If I'm not mistaken... it's clearly...	
+Message	Origami	No matter how you look at it, it's underwear.	
+Message	Shido	Oh, wait a minute! You said fashion show earlier!	
+Message	Kurumi	"Shido-san. Don't be prejudiced. Underwear is totally
+part of fashion."	
+Message	Shido	That's true, but...	
+Message	None	"(I totally let my guard down. I never expected
+lingerie...)"	
+Message	Origami	"In order to be judged fairly, we chose the same
+lingerie. Shido, which looks better?"	
+Message	Kurumi	I won't allow you to say we both look good in it.	
+Message	Origami	"It's also acceptable to say which of the two you want
+to take off first."	
+Message	None	"(No, that's beyond the point. I can't... get myself to
+look at them.)"	
+Message	Kurumi	"Hehe. Shido-san, I know this isn't your first time, so
+you don't have to be so shy. When I first transferred,
+you chose lingerie for me, remember?"	
+Message	Shido	"Yeah but the circumstances were different...!
+I mean, you two look too good... I really can't
+choose."	
+Message	Kurumi	My... *giggle*.	
+Message	Origami	Shido...	
+Message	Shido	Wh-What's wrong?	
+Message	Kurumi	"No, your words were so honest, I started to feel it
+was dumb of me to be making a competition out of
+this."	
+Message	Origami	"Yes. What you said were words that came from the
+heart. I honestly am happy to hear that."	
+Message	Shido	"So I'm going to say this again. You guys both look
+great. You guys are both attractive in your own ways,
+and I can't put a number to that..."	
+Message	Kurumi	"That's very much like you, Shido-san. I don't mind
+that side of you. However, you're only going to shoot
+yourself in the foot by prolonging your decision."	
+Message	Origami	"Shido, I know you'll choose me in the end. So it's not
+going to end like this."	
+Message	Kurumi	"I believe you're just forcing your ideals onto him.
+Maybe that's a form of dependency."	
+Message	Origami	That's not true...!	
+Message	Kurumi	"I hope so. In the end, it's up to you, Shido-san.
+Right?"	
+Message	Shido	"You guys... I'm happy to chat, but can we continue
+after you change...? I don't like how people are
+watching..."	
+Message	None	"(Before we knew it, we were surrounded by girls.
+I had the feeling they were all whispering about me.)"	
+Message	Origami	Okay. Hold on.	
+Message	Kurumi	Me, too.	
+Message	None	"(In the end they both bought the lingerie they tried
+on. We left the store around nightfall.)"	
+Message	Shido	"It's pretty late. Why don't we go home? I need to
+prepare for dinner."	
+Message	Origami	"Got it. We'll end it here. Kurumi Tokisaki... We'll settle
+this eventually."	
+Message	Kurumi	Right. When the time comes, bring it on.	
+Message	Shido	You guys are still going at it....	
+Message	Origami	Next time, I'll be sure to win. Brace yourself.	
+Message	Kurumi	"There is no such thing as certainty in battle.
+Origami-san, you should be prepared to lose."	
+Message	Origami	No need.	
+Message	Shido	"How long are you two going to do this...? Anyways,
+I'm that way."	
+Message	Origami	Okay Shido, I'll see you later.	
+Message	Kurumi	Yes, Shido-san. I will see you later, okay?	
+Message	Shido	Okay.	
+Message	None	"(The two went their separate ways, and I realized
+something.)"	
+Message	Shido	What do they mean... later?	
+Message	None	"(I pondered in peace until I got home, where I
+discovered that Rinne had invited both Origami and
+Kurumi.)"	

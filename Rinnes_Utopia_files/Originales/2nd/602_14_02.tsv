@@ -1,0 +1,403 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(That day, Origami and I went to see a movie
+that was playing in town.)"	
+Message	None	"(I realized there was a definite change after
+watching the movie.)"	
+Message	Shido	"I had never heard of that movie before,
+but I actually enjoyed it."	
+Message	Origami	"Agreed. I liked the part where everyone started
+dancing by the pool after the main character
+was asked out."	
+Message	Shido	"R-Really? I thought the whole revenge sub-plot
+was the best. My hands got all sweaty."	
+Message	Origami	"This movie was a hit. Shido, do we have any
+plans after this?"	
+Message	Shido	Hm. We can go to a café... Ah...	
+Message	Shido	 AHCHOOO!	
+Message	None	"(I let out a mighty sneeze. Even while I was
+sitting in the theater, I felt a little chilly.)"	
+Message	Origami	Shido, are you okay?	
+Message	Shido	I-I'm fine. Let's go, Origami.	
+Message	None	(I didn't want to waste our time together.)	
+Message	Origami	"Shido, are you a fan of action films? You mentioned
+that your hands were sweaty during the climax."	
+Message	None	"(Urgh... I'm getting the chills for sure. My nose
+is starting to run, and my head's spinning.)"	
+Message	Origami	...Shido, are you listening?	
+Message	Shido	Hm? Oh, sorry. What'd you say?	
+Message	Origami	Shido, I think you're getting sick.	
+Message	Shido	N-No, I'm fine.	
+Message	Origami	"You seem hotter than usual, and your heart
+rate is rising too quickly."	
+Message	Shido	Can you tell just by looking?	
+Message	Origami	"Based on my observation, you are in the early
+stages of a cold."	
+Message	Shido	"I-I may be a little sick, but it's okay. It'll
+wear off in no time."	
+Message	Shido	Anyways, where should we go tomorrow?	
+Message	None	"(I wanted nothing more than to be with Origami,
+so I tried my best to ignore the symptoms.)"	
+Message	Shido	ACHOO! *whimper*...	
+Message	Origami	Shido, I think you are sick.	
+Message	Shido	Y-Yeah, you're probably right...	
+Message	Origami	You should go home and rest at once.	
+Message	Shido	Right. We have a date tomorrow, too.	
+Message	None	"(We happened to schedule consecutive dates.
+After all, I wanted to see Origami every day.)"	
+Message	Origami	You do not have to force yourself.	
+Message	Shido	It's fine. I can sleep it off.	
+Message	Origami	"Are you sure you are all right? Shido, you have
+a tendency of overdoing it."	
+Message	Shido	I promise I'm fine. See you tomorrow, okay?	
+Message	None	"(At the time, I didn't think I was pushing myself
+too hard. I thought sleeping it off would help.)"	
+Message	Origami	Okay, got it.	
+Message	Shido	Later, Origami.	
+Message	Origami	Good-bye. See you tomorrow.	
+Message	None	(But that proved to be a costly mistake.)	
+Message	Shido	Ugh...	
+Message	None	(The next morning...)	
+Message	Shido	M-My fever...	
+Message	Shido	"Oh, no. Not only am I feeling no better, but I
+feel even worse."	
+Message	Shido	"I can't go on a date in this condition. My head
+is splitting, and I'm so dizzy I can't get out of
+bed."	
+Message	Shido	Rgh... *cough*!	
+Message	None	"(I have no choice but to cancel the date.
+I feel terrible, but I need to call Origami
+and apologize.)"	
+Message	None	"(I crawled out of bed and sluggishly grabbed
+my phone. My hand trembled as I selected
+Origami in my contacts.)"	
+Message	Origami	"Hello."	
+Message	None	"(She picked up immediately, almost as if she
+were waiting by the phone, expecting me.)"	
+Message	Shido	O-Origami...	
+Message	Origami	"What's the matter, Shido?"	
+Message	Shido	"Sorry. I have a fever, so I'm going to have
+to cancel today's date. I'm so sorry..."	
+Message	Origami	"...Understood."	
+Message	Shido	Sorry, Origami. I know we made plans.	
+Message	Origami	"Do not worry. Just rest."	
+Message	Shido	Origami, are you somewhere outdoors?	
+Message	Origami	"I am at our meeting place."	
+Message	Shido	"What? But it's still morning. Did you leave
+at dawn...?"	
+Message	Origami	"It is not a problem. I woke early and was bored.\nI am heading over to your house at once."	
+Message	Shido	My house...?	
+Message	Origami	"I am going to take care of you."	
+Message	Shido	"That's sweet of you, but you don't have to do
+that."	
+Message	Origami	"There is no problem. Caring after a boyfriend\nis the sworn duty of any worthwhile girlfriend."	
+Message	Shido	H-Hey, Origami...	
+Message	None	(Origami is coming over...)	
+Message	None	"(I appreciate the sentiment since I feel lonely
+when I'm sick, but...)"	
+Message	Shido	"If Origami's coming over, I need to clean my
+room."	
+Message	None	"(U-Ugh... I can't. If I try standing, I feel
+dizzy.)"	
+Message	None	"(I guess I have no choice but to sleep and
+wait for her.)"	
+Message	None	"(I couldn't move, so I lay in bed, drifting
+in and out of sleep.)"	
+Message	Shido	*groan*...	
+Message	None	(In my daze, I heard a knock on my door.)	
+Message	Origami	Shido, may I come inside?	
+Message	Shido	Origami...?	
+Message	None	"(I sat up, all of a sudden feeling my headache
+and dizziness evaporate.)"	
+Message	Origami	Shido, are you okay?	
+Message	Shido	Sorry. My room's a mess, Origami.	
+Message	Origami	"You are sick. You cannot help it. Do not worry.
+For now, lie down."	
+Message	Shido	Thanks... I'll do that.	
+Message	None	"(My fever was high, and my joints were sore,
+so I went back to bed.)"	
+Message	Origami	Your temperature is getting higher, no?	
+Message	None	"(Origami put down the plastic bag in her hand,
+and took a seat on my bed. She placed her hand
+on my forehead.)"	
+Message	Origami	You're really hot...	
+Message	Shido	"Yeah. I was hoping to sleep it off, but it won't
+go down."	
+Message	Origami	"I bought you medicine. I want you to take it
+later."	
+Message	Shido	Okay. Thanks.	
+Message	Origami	Anyways, Shido...	
+Message	Shido	What is it...?	
+Message	Origami	"I think I know a way that could lower your
+temperature."	
+Message	Shido	"I have a bad feeling about it already, but go
+ahead."	
+Message	Origami	"They say that transferring your cold to someone
+else will alleviate your symptoms. So if you give
+it to me, you will feel better."	
+Message	Origami	To be specific, through your mouth.	
+Message	Shido	"Sorry, Origami. I'm so sick that I can't even
+react to your joke."	
+Message	Origami	I'm serious.	
+Message	Shido	"It'd be pointless for you to get sick, Origami.
+I'm rejecting your idea."	
+Message	Origami	"If the illness comes from you, it is practically
+a gift."	
+Message	Shido	Then we wouldn't be able to go on our date.	
+Message	Origami	But then you would have to care for me.	
+Message	Shido	Just... forget about it.	
+Message	None	"(But I can sense the gears turning in Origami's head.
+I'm covering myself with a blanket now.)"	
+Message	Origami	You really don't want to give it to me?	
+Message	Shido	I'm fine. Feeling better already.	
+Message	None	"(She's inspecting my face. Maybe I can try
+to distract her somehow...)"	
+Choice		I'm hungry.	
+Choice		My room is dirty.	
+Choice		I'm forgetting something...	
+Message	Shido	"I haven't eaten since this morning. Would you
+mind finding me something to eat in the kitchen?
+Can't take medicine with an empty tummy."	
+Message	Origami	Then, I will prepare you something.	
+Message	Shido	Y-You will?	
+Message	Origami	I can prepare you some porridge. Do not worry.	
+Message	Shido	"Er. Just please try not to slip anything in
+there."	
+Message	Origami	I shall not. Hang on.	
+Message	Shido	C-Can I trust you?	
+Message	Origami	Shido, it is done.	
+Message	None	"(Origami brought me a tray with a bowl
+and a glass.)"	
+Message	Origami	Porridge and water for your medicine.	
+Message	Shido	Oh. Thank you.	
+Message	None	"(I sat up so she could place the tray on my
+lap, and I checked the bowl of porridge.)"	
+Message	Shido	Looks normal enough to me.	
+Message	Origami	What are you afraid of?	
+Message	Shido	Nothing. Guess I was overthinking it.	
+Message	Origami	Now, go on. Eat.	
+Message	Shido	Okay, will do.	
+Message	Origami	"It was made fresh, so it is still hot.
+Be careful."	
+Message	None	"(I took the spoon and ate for the first time
+all day.)"	
+Message	Shido	"I-It is... hot. Normally I don't mind, but it
+stings my sore throat."	
+Message	Origami	Shido, I have a good idea.	
+Message	Shido	"Agh... No, you don't have to feed me mouth to
+mouth."	
+Message	Origami	...	
+Message	Shido	Why so quiet?	
+Message	None	(Looks like I called it.)	
+Message	Origami	It's fine. There is another way.	
+Message	Shido	There is?	
+Message	Origami	I'll blow on it.	
+Message	Shido	Huh?	
+Message	Origami	Give me the spoon, Shido.	
+Message	None	"(She snatched my spoon and scooped up a bit
+of porridge, bringing it close to her mouth and
+puckering her lips.)"	
+Message	Origami	*blow, blow*...	
+Message	Shido	Gotcha.	
+Message	None	"(I think I misinterpreted her initially. Must
+be the fever working.)"	
+Message	Origami	Okay. Open your mouth.	
+Message	None	(She fed the cooled porridge into my mouth.)	
+Message	Shido	You're going to feed me?	
+Message	Origami	It is more efficient that way.	
+Message	Shido	I-I mean, sure...	
+Message	None	"(I was feeling shy about the whole ordeal, but
+at least this way, Origami wouldn't get sick.)"	
+Message	Shido	A-Aaaah... *gulp*.	
+Message	Origami	How is it? Still hot?	
+Message	None	"(When cooled by Origami, the porridge was
+the perfect temperature to swallow in one
+gulp.)"	
+Message	Shido	No, this is fine.	
+Message	Origami	Then, let's continue. *blow*.	
+Message	None	"(She cooled it once more, and carefully
+directed the spoon into my mouth.)"	
+Message	None	"(While at first it was slightly embarrassing,
+it went on for a while longer.)"	
+Message	Shido	"Oh, I had hoped to clean my room before
+you got here, but I didn't have enough time."	
+Message	Origami	I can clean it for you.	
+Message	Shido	"Oh, really? Thanks... I feel like I'm making
+a maid out of you."	
+Message	Origami	Do not worry. You are sick, so get your rest.	
+Message	None	"(Origami stood up, and began picking up
+around my room.)"	
+Message	Origami	"Shido, are these clothes here your dirty
+laundry?"	
+Message	Shido	"No, those are washed. I was too lazy to
+fold them yesterday."	
+Message	Origami	Oh, then I will fold them.	
+Message	None	"(Origami sat on the floor and began sorting
+and folding my laundry on her lap.)"	
+Message	None	(She looked so domestic and adorable.)	
+Message	Shido	Origami, it almost seems like we're newlyweds.	
+Message	Origami	"Of course. I am your future spouse. There
+is no one else but me."	
+Message	Shido	"...So, is my future wife rubbing my folded
+laundry on her body?"	
+Message	Origami	I'm putting my scent onto it.	
+Message	Shido	What...?	
+Message	None	(Origami, as usual, made the task her own.)	
+Message	Origami	Okay then.	
+Message	Shido	"Wait, did you just sneak one of my shirts
+into your bag? Make sure everything makes
+it into my closet."	
+Message	Origami	Well done, Shido. You have an eagle's eye.	
+Message	None	(Man... That's Origami for you.)	
+Message	Shido	"Come to think of it, I've got homework to
+do. What should I do?"	
+Message	Origami	Homework?	
+Message	Shido	Yeah, I just forgot to do it...	
+Message	Origami	Then, I will do it for you.	
+Message	Shido	But...	
+Message	Origami	"If you wait for your fever to die down, there
+is no telling when it will get done. Do not
+prolong the task, or else I cannot see you later."	
+Message	Shido	Well, I think I follow you, but...	
+Message	Origami	"But I will do a preliminary draft of your
+assignment. That way, you will have something
+to turn in."	
+Message	Shido	...Got it.	
+Message	None	"(Origami took a seat at my desk and began
+my homework.)"	
+Message	Origami	Shido.	
+Message	Shido	What's the matter, Origami?	
+Message	Origami	"I may have to adjust my handwriting. Otherwise,
+you will most certainly be caught."	
+Message	Shido	"I think... if you can write like a guy, you'll be
+fine."	
+Message	Origami	Got it. I will try.	
+Message	Shido	Awesome.	
+Message	Origami	But, Shido...?	
+Message	Shido	What's up, Origami?	
+Message	Origami	"Is it okay for your answers to be identical
+to mine?"	
+Message	Shido	"Well, it's homework, so I'm sure it's expected.
+I could say I used the textbook."	
+Message	Origami	You have a point. Then I will continue.	
+Message	Shido	Sounds good.	
+Message	None	(Looks like I'm avoiding study hall.)	
+Message	Origami	What shall we do after this...?	
+Message	Shido	H-Hm... Rgh.	
+Message	Origami	What's the matter, Shido?	
+Message	Shido	"I'm sweating a lot, which is giving me the
+shivers. I want to change. Would you mind
+getting me some clothes?"	
+Message	Origami	"Got it. But if you sweat, then you will need
+someone to wipe you."	
+Message	Shido	Oh, right. Can you grab me a towel?	
+Message	Origami	No need. I can wipe your sweat.	
+Message	Shido	"What? It's fine. Just get me a towel and I
+can do the rest myself."	
+Message	Origami	No. You are sick. Be quiet and sit still.	
+Message	Shido	But...	
+Message	None	"(Origami took out a towel and stood in front
+of me.)"	
+Message	Origami	Now, sit back and get comfortable.	
+Message	None	"(W-Well, she's just doing me a favor.
+I suppose I could let it happen.)"	
+Message	Origami	Shido, you have a nice body.	
+Message	Shido	"Origami, if you keep staring, you'll make me
+self-conscious. If you're going to wipe me, do
+it quickly!"	
+Message	Origami	*gulp*...	
+Message	Origami	Shido...	
+Message	None	"(Origami's touch slightly tickled my body,
+and I felt my muscles tighten.)"	
+Message	Origami	Shido, I...	
+Message	None	(Origami got closer to my sweaty body.)	
+Message	Origami	I... cannot restrain myself.	
+Message	Shido	"H-Hey, Origami... You're just wiping my body,
+right?"	
+Message	Origami	That's right. Whatever will put you at ease.	
+Message	Origami	Mm...	
+Message	None	"(Suddenly, she pressed her soft lips against my
+body.)"	
+Message	Shido	Origami, what are you doing? Are you―	
+Message	None	"(It seemed Origami was licking me, and I felt
+something warm and wet tickle my chest.)"	
+Message	Origami	Mm, Shido...	
+Message	Shido	Origami, you're not wiping me...	
+Message	Origami	Shido, stay still... Mm...	
+Message	Shido	Origami, stop...!	
+Message	Origami	Mm... *pant*...	
+Message	Origami	It is my duty to clean you.	
+Message	None	(She looked at me as if she were in ecstasy.)	
+Message	None	"(I was at a loss for words. The fatigue from
+the sickness made it tough to push her off.)"	
+Message	None	"(I let her do as she pleased, feeling myself
+sweat with greater intensity.)"	
+Message	Origami	Shido, your body is warmer than usual.	
+Message	Shido	Well, I do have a cold.	
+Message	Origami	Perhaps that deserves more attention.	
+Message	None	"(It made no sense, but Origami put her
+lips against me once more.)"	
+Message	None	"(It was like she was a beast, licking an old wound.
+Every lick carried the weight of her undying
+affection.)"	
+Message	Origami	Mm... Mmmm....	
+Message	None	"(It was almost endearing, though. Origami's
+acts of affection made my heart melt a bit.)"	
+Message	None	"(It was the effort she put in. So precious.
+But... I still felt sick more than anything.)"	
+Message	Origami	Ah, Shido...	
+Message	Shido	O-Origami...	
+Message	None	(Oh, no. I felt ready to faint...)	
+Message	Origami	Sh-Shido, are you okay?	
+Message	Origami	Shido... Shido...	
+Message	None	"(As I shut my eyes, I heard Origami's voice
+fade into the distance.)"	
+Message	None	"(But I was too weak to respond, and I slipped
+away into the darkness.)"	
+Message	None	(...)	
+Message	None	(By the time I awoke, the sun had set.)	
+Message	None	"(I sat up, rubbing my aching temples. My
+fever seemed to have reduced, at least.)"	
+Message	Origami	Shido...	
+Message	Shido	Origami...	
+Message	None	(Origami was sitting next to me, concerned.)	
+Message	Shido	Were you here... this whole time?	
+Message	Origami	"Shido, forgive me. I should have been more
+considerate."	
+Message	Shido	"Have you been waiting all day? I'm sorry
+for passing out."	
+Message	Origami	"Not a problem. I would rather you do that
+in order to get well."	
+Message	Shido	Sure, thanks.	
+Message	Origami	"No, I feel awful. Even when you were in pain,
+I thought only of myself."	
+Message	Origami	"I realize now, that I am always imposing
+myself upon you."	
+Message	Shido	"Can't argue there. Honestly, I'm not used
+to how you behave yet, but I wouldn't say
+you impose anything on me."	
+Message	Origami	...Really?	
+Message	Shido	Yeah. It's fine. I even like that part of you.	
+Message	Shido	"So I want you to be yourself, Origami. I don't
+mind if you act spoiled or forceful sometimes.
+I accept you for who you are."	
+Message	Shido	"Go on, bother me all you want. I like being
+surprised, and―"	
+Message	Shido	"I still want you to like me because... I like
+you just as much."	
+Message	Origami	Shido, I am so sorry, and―	
+Message	Origami	"Thank you. Thank you for giving someone
+like me your time."	
+Message	Origami	"However, from now on, I will be more
+considerate for your feelings."	
+Message	Shido	"Okay, and I will also think more carefully
+about what you want."	
+Message	Origami	Shido...	
+Message	Shido	Origami?	
+Message	Origami	I love you.	
+Message	Shido	I love you too.	
+Message	Origami	Nothing can tear us apart.	
+Message	Shido	"Of course. Let's see where this takes us.
+As soon as I'm better, at least."	
+Message	Origami	Okay.	
+Message	None	"(Getting sick sucks, but at least it gave Origami
+and me a chance to get even closer.)"	

@@ -1,0 +1,15 @@
+﻿Operator	Comment	Key	Translation
+Message	Rinne	"Oh! Sorry, I have to get going soon. I'm going
+ahead. You'll be okay, right?"	
+Message	Shido	Yeah, I'm fine. Cleaning up's a piece of cake.	
+Message	Rinne	Okay, I'll leave you to it then. Bye.	
+Message	Shido	Phew...	
+Message	None	"(I wonder what this... weird feeling is...?
+Something doesn't seem right, but I can't
+quite put my finger on it.)"	
+Message	None	"(As I took a mental note of the strange
+feeling, I finished my breakfast alone.)"	
+Message	None	"(Hm. I've still got some time before I need
+to leave for school. What should I do?)"	
+Choice		Check up on Yoshino at the Fraxinus.	
+Choice		Head to school early.	

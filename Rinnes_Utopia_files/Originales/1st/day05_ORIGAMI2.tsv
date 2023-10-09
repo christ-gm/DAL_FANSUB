@@ -1,0 +1,253 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(All right! I was able to schedule an outdoor
+date with Origami!)"	
+Message	None	"(B-But that still leaves the question of where
+I should take her...)"	
+Message	Origami	...	
+Message	None	(Hm. I have to make sure she has a good time!)	
+Message	None	"(We can start by heading to the shopping district,
+and maybe window-shop?)"	
+Message	None	"(Oh, but... what would Origami like? I guess
+I could ask her, but I could imagine her not
+having much to respond with.)"	
+Message	Shido	"Hey, Origami? Would you like to visit any
+particular shop?"	
+Message	Origami	Yes.	
+Message	Shido	"I know, you probably can't think of anything,
+right? I thought so—WHAT?!"	
+Message	Shido	Y-You do?	
+Message	Origami	There's a place I frequent.	
+Message	Shido	You frequent?	
+Message	Origami	"I wanted to replenish my stock of scented
+candles. Seems like they worked last time."	
+Message	None	"(Scented candles... Oh, the ones she lit at her
+house, huh? The ones that made my brain melt
+from relaxation. They're legal, right...?)"	
+Message	Shido	I-I see... So where is this shop?	
+Message	Origami	"It's in a back alley of the shopping district.
+There's a sign above it, named "Jako"."	
+Message	None	"(Ja...Jako? Is that what it's called? It sounds
+wicked, but... isn't that an omen?)"	
+Message	Shido	Um. Well, I guess stopping by couldn't hurt?	
+Message	Origami	Mm...	
+Message	Origami	Oh, sorry Shido.	
+Message	Shido	It's fine. It may be something important.	
+Message	Origami	Mm... nng... ng...	
+Message	Origami	Hello...	
+Message	Origami	Huh? ...The Spirit? Roger!	
+Message	Shido	Origami! You just said Spirit—	
+Message	Origami	"Sorry. Something's come up. I promise to make
+up for it another time."	
+Message	Shido	"W-Wait a minute, Origami! It's a Spirit, right?!
+Then, let me go with you!"	
+Message	Origami	No. You must get to somewhere safe!	
+Message	Shido	...Hey! Origami!	
+Message	None	(*grunt*... Wh-What should I do?!)	
+Message	None	"(I know, I should contact Kotori! I don't want to
+make any rash decisions without her permission.)"	
+Message	Shido	Hello, Kotori?	
+Message	Reine	"...Shin?"	
+Message	Shido	Huh? Reine-san?! Why are you...	
+Message	Reine	"Kotori is currently preoccupied, and can't come\nto the phone. What's the matter?"	
+Message	Shido	"I-I see. Um, any chance you guys spotted a
+Spirit appearing or anything?"	
+Message	Reine	"...A Spirit?"	
+Message	Shido	"Yeah, um... I was in the middle of a date with
+Origami, and the AST reached out to her."	
+Message	Reine	"Hm. I haven't detected any spacequakes,\nbut perhaps there was a silent quake?"	
+Message	Shido	"I haven't heard many details, but I know for
+certain that Origami mentioned a Spirit, so
+they must've spotted something on the radar."	
+Message	Reine	"Hm. Let me confirm. If they were Spirit waves\nfrom the barrier, or related to that "Guardian",\nthere's a chance it's camouflaged. Can you hold?"	
+Message	Shido	"But we don't have the luxury of time right now!
+I might not catch up to her, but I'm gonna run
+after Origami."	
+Message	Reine	"...I see. Then I'll tell Kotori."	
+Message	Shido	Th-Thank you!	
+Message	None	"(I might've spoken too soon. I've completely
+lost sight of Origami. What do I do...?)"	
+Message	None	"(M-Maybe... I could wait for Reine-san's analysis.
+I'm not invincible. If something crazy happens,
+who knows what trouble I'll find myself in...)"	
+Message	None	(I've made up my mind. I will—!)	
+Choice		Wait for Reine's analysis.	
+Choice		Run after Origami.	
+Message	Shido	"I'll wait for Reine-san's analysis. That way
+I can figure out where Origami went and
+if it's dangerous, I can consult with her..."	
+Message	None	(Be safe until then, Origami!)	
+Message	Shido	Hm? Why do I have a bad feeling about this?	
+Message	Shido	"Hello? Reine-san?! Did you figure it out already?!
+I thought you'd take longer!"	
+Message	Reine	"...Shin, I have bad news for you."	
+Message	Shido	Huh? Did nothing come up?	
+Message	Reine	"I tried entering the mainframe of Tengu Garrison\nto analyze the data on AST's radar, but I just now\nintercepted an unfortunate message."	
+Message	Shido	Intercepted...?	
+Message	Reine	"...I just confirmed the death\nof Origami Tobiichi."	
+Message	Shido	What? Wh-What are you talking about...?	
+Message	Reine	"It seems she tried wearing her wiring suit\nin a remote area."	
+Message	Reine	"When she ran out into the street, she was run\nover by a truck whose driver was asleep behind\nthe wheel. She never woke up."	
+Message	Shido	Haha... You're lying, right?	
+Message	Reine	"I overheard she was killed immediately."	
+Message	Shido	I-IT'S A LIE!	
+Message	Reine	"Although she was rushing to the scene...\nShe suffered an unbefitting end. Most tragic."	
+Message	Shido	"Wh-What...? I... I... No... I-I... I refuse to
+believe it! I can't! Because... Because...
+Origami was... just with me! AAH!"	
+Message	Reine	"Shin? Shin...? What's the matter, Shin? Answer\nme."	
+Message	Shido	O...ri...gami...	
+Message	Reine	"Shin, I've sent a relief squad. Hang in there.\nShin, Shin, answer me. Shin."	
+Message	None	"(Reine-san's voice gradually faded into the distance...
+"	
+Message	None	 And everything turned black.)	
+Message	Shido	Okay! I'm gonna run after Origami!	
+Message	Shido	"She ran in the direction opposite to the station,
+but... where exactly did she go?"	
+Message	Shido	A-Anyways, I'll just go for it!	
+Message	Shido	"*pant*... *pant*... Was it this way? I thought earlier,
+I saw Origami coming down from the sky in her suit..."	
+Message	Shido	"But if she's fighting a Spirit, this won't end
+quietly, will it? Did I make the wrong choice?"	
+Message	Shido	"What should I do? It's not like I could call her
+during an emergency and ask where she is, too."	
+Message	Shido	"Hm. Wait, someone's atop the outlet tower...
+Isn't that Origami?"	
+Message	None	(...Huh? She seems different than usual.)	
+Message	Shido	What's going on? Is the battle already over?	
+Message	Shido	Hey, Ori...	
+Message	None	(?!)	
+Message	Origami	*grunt*!	
+Message	Shido	O-Ori...gami...?	
+Message	Origami	...	
+Message	Origami	"Shido, why have you come? This mission is
+dangerous. If you come, I'll be exposing you
+to that danger."	
+Message	Shido	"Sorry, I was... worried about you, Origami.
+But... I'm glad you're safe."	
+Message	Origami	False report...	
+Message	Shido	Huh...?	
+Message	Origami	There was nothing here.	
+Message	Shido	O-Oh...	
+Message	None	"(From my point of view, I'm glad nothing
+happened, but... for Origami...)"	
+Message	None	"(Did Origami get upset because she wasn't
+able to fight a Spirit? Maybe her grudge against
+Spirits is... deeper than I ever imagined.)"	
+Message	None	"(Is she fighting by herself in this vulnerable
+state? Origami is...)"	
+Message	Origami	"I cannot accept the abnormality. Investigation,
+complete. I am returning."	
+Message	Shido	Then, let's head home togethe—	
+Message	Shido	What the—?! Th-The outlet tower?!	
+Message	Origami	Wha?! Shido, get back.	
+Message	Shido	It's back?! That thing's back?!	
+Message	Shido	The G-Guardian?!	
+Message	Origami	I found you. Protect Territory, engage!	
+Message	Shido	Oh...	
+Message	None	"(The barrier Origami had cast wrapped around
+me in an instant.)"	
+Message	Shido	"Origami! That's the Spirit that's protecting
+the barrier!"	
+Message	Origami	Spirit!	
+Message	None	"(Well, at least it seems like a Spirit.
+If I go off Kotori's information, then it shouldn't
+too different from a Spirit.)"	
+Message	Origami	Razor Blade! No Pain!	
+Message	Origami	Spirits are my enemy, and...	
+Message	Origami	You are going to pay for trying to hurt Shido.	
+Message	Shido	O-Origami...?	
+Message	Origami	HU!	
+Message	???	...	
+Message	Origami	HAAAAAAAAAAAAAA!	
+Message	???	...	
+Message	Origami	Territory, apply max settings!	
+Message	Shido	"Origami! Hold on! Maybe if we fall back,
+it won't attack you! Origami, don't try to
+fight it on your own!"	
+Message	Origami	"If it's a Spirit, I cannot let it go. It also does
+not change the fact that it attacked you."	
+Message	Shido	O-Origami...?	
+Message	Origami	I'm going to end it here. HA!	
+Message	???	...	
+Message	Origami	I won't let you get away. HA!	
+Message	Origami	Territory, release. *pant, pant*... *pant, pant*.	
+Message	Shido	O-Origami... A-Are you okay...?	
+Message	Origami	No... problem... *pant*...*pant*...	
+Message	Shido	...	
+Message	Origami	...	
+Message	None	(I can't explain it.)	
+Message	None	"(No, I mean Origami isn't really one to talk,
+and there've been plenty of times where it's
+silent between us.)"	
+Message	None	"(But this time is different. It's hard to explain.
+Origami feels so... far away...)"	
+Message	None	"(She's next to me, walking beside me, but
+how can I explain it...?)"	
+Message	None	"(...I've never seen Origami show so much
+emotion.)"	
+Message	None	"(I've taken her out on dates because I wanted
+to become more acquainted with her emotions,
+but this isn't quite what I was expecting.)"	
+Message	None	"(Sure, life isn't all sunshine and roses for
+people. They feel anger, hold grudges, and get
+upset. That's natural, but this is different.)"	
+Message	None	(...This isn't the Origami I want to see.)	
+Message	Origami	...Shido?	
+Message	Shido	Huh...? Wh-What is it?	
+Message	Origami	You've been staring at me.	
+Message	Shido	Oh... S-Sorry.	
+Message	Origami	It's fine. I'm always looking at you.	
+Message	Shido	Huh? Oh... Haha... Hahaha...	
+Message	Origami	Huh...?	
+Message	Shido	H-Hey, Origami?	
+Message	Origami	What is it?	
+Message	Shido	Um, would you smile for me...?	
+Message	Origami	Why?	
+Message	Shido	"Oh, I notice that I've never seen you smile
+nor seen you look like you're having fun."	
+Message	Origami	I won't smile.	
+Message	Shido	What?	
+Message	Origami	Until I avenge my parents.	
+Message	Shido	...!	
+Message	Origami	"So long as Spirits exist in this world, I will
+not smile. I cannot smile."	
+Message	Shido	I-I see... Sorry...	
+Message	Origami	It's fine. This is my business.	
+Message	Shido	No, I was the one who was selfish for asking.	
+Message	Origami	...	
+Message	None	"(So I guess it's true. Time stopped for Origami
+five years ago. When her parents were slain
+by the Spirits.)"	
+Message	None	(She wouldn't force herself to smile...)	
+Message	None	"(Still, I don't like seeing Origami undergo
+so much pain, but I want to see her live a
+normal life, filled with fun...)"	
+Message	None	(I want Origami's smile back...)	
+Message	Kotori	"The outlet tower seems to be the base for
+the barrier. Nice of AST to come in handy
+from time to time."	
+Message	Shido	"At first nothing happened, so we tried going
+home, but when Origami, um, t-touched the
+outlet tower... the Guardian appeared."	
+Message	Kotori	"You were pursuing Origami Tobiichi, huh? If you
+take matters into your own hands, it defeats the
+purpose of calling us."	
+Message	Shido	"Sorry, but if I waited, I wouldn't have caught up,
+and we wouldn't have known about the outlet
+tower, you know?"	
+Message	Kotori	"Hmpf. Typical. Everything works out in the end,
+huh?"	
+Message	Shido	Oh!	
+Message	Kotori	"Well, I guess the two of you were safe, so I'll
+let it slide this time."	
+Message	Kotori	"I'm having Reine analyze both cornerstones. If we
+can discover the other locations, we can find the
+center of the barrier, likely the enemy's base."	
+Message	Shido	Their base, huh...	
+Message	Kotori	"I'll analyze the data, so just continue the dates,
+Shido. If anyone goes on a rampage and Tengu
+City is destroyed, our work will go to waste."	
+Message	Shido	O-Okay...	
+Message	???	"...In this dream... no one can become happy...
+Shido Itsuka... I hope your next dream will be
+a happy one..."	

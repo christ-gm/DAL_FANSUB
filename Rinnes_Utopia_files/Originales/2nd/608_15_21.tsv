@@ -1,0 +1,148 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(It's lunch time...)	
+Message	None	"(Maria listened to the rest of the lecture
+quietly, and the morning faded into noon
+like a fog.)"	
+Message	Tohka	Shido! Time for luncheon.	
+Message	Shido	"Yeah, you're right. Now that I think about
+it, though..."	
+Message	None	"(Because I didn't make breakfast today,
+I also didn't prepare myself a bento for
+lunch!)"	
+Message	Tohka	What is the matter, Shido?	
+Message	Shido	Sorry, Tohka... There's no bento for today.	
+Message	Tohka	"I-Is that so? Could that be because of the
+virtual world we are currently inside of?"	
+Message	Shido	"That might have something to do with it,
+but... Well, it's a long story."	
+Message	Shido	"No. Wait a sec. Hey, Maria. You didn't happen
+to make a bento, did you?"	
+Message	Maria	"Unfortunately, all I made was breakfast.
+I did not prepare any bento."	
+Message	Shido	"I figured as much. It didn't seem like you packed
+any bento."	
+Message	Maria	"If we have no bento, then I have a proposal.
+What if we were to visit the school store today?"	
+Message	Tohka	"Ohh, the school store! If that's the case, I
+wish to eat kinako bread, but it's hard to
+resist yakisoba bread or coronets. Hmm..."	
+Message	Origami	"You're so naïve, Tohka Yatogami. You don't know
+how much demand there is for kinako bread.
+It sells out in no time. The battle has begun."	
+Message	Tohka	Wha?! That's not fair, Origami Tobiichi!	
+Message	Shido	Good grief...	
+Message	Kurumi	Hee hee. Such a noisy bunch.	
+Message	Shido	Kurumi, are you not going over too?	
+Message	Kurumi	"Yes. Please don't worry for my sake. There
+is no reason to rush myself."	
+Message	Shido	Gotcha. Then Maria, we'd better...	
+Message	Maria	No. There is no need.	
+Message	Shido	Huh?	
+Message	Shido	There aren't... many people, surprisingly.	
+Message	Kotori	Heeey, Onii-chan!	
+Message	Shido	Kotori. You changed your ribbons.	
+Message	Kotori	"What are you talking about? This is what
+I normally wear to school."	
+Message	None	"(Hm? Right. Duh. There's no need for her to
+act like a commander when she's at school.)"	
+Message	Miku	Oh. You came to the school store too, darling?	
+Message	Shido	"Yeah, just today. This is your and Kotori's first
+time here, isn't it?"	
+Message	Miku	"That's right. My first time, but it's not as busy
+as I have been led to believe it is."	
+Message	Shido	No. It's usually way more crowded than this.	
+Message	Kaguya	"Heh. It seems they were intimidated by the
+presence of we Yamais, scattering elsewhere."	
+Message	Shido	I doubt that's why...	
+Message	Yuzuru	"Question. Why is the canteen so empty?
+Though I cannot complain, for we were
+able to purchase bread easily."	
+Message	Tohka	"Shido, the cafeteria was empty. I bought enough
+bread for you, so hurry up and eat."	
+Message	Origami	"I bought bread for Shido. He should eat mine
+instead of whatever you bought, Tohka Yatogami."	
+Message	Yoshino	Shido-san, um...	
+Message	Yoshinon	"OH! I just thought of somethin' good!\nBefore Shido-kun eats the bread, you should\nput it in your clothes to warm it up for him."	
+Message	Shido	"You're here too, Yoshino. Which means, wait?
+The only people here are ones who aren't
+NPCs."	
+Message	Origami	"It's unusual that no one else is here. Maybe
+it's a system error of some kind?"	
+Message	Shido	If that's the case, then Maria would... Hmm?	
+Message	None	"(Glancing over, I see Maria walking up,
+clutching loaves of bread in both arms.)"	
+Message	Maria	"I have purchased bread from the school store.
+This rabbit-shaped bread is interesting."	
+Message	Yoshinon	"Ooh. Those rabbit ones are a good choice."	
+Message	Maria	This part, with the red eyes, is unusual.	
+Message	Kurumi	Those are cherries, Arusu-san.	
+Message	Maria	I see. The fruit of a prunus avium tree.	
+Message	Shido	Wait a moment, Maria.	
+Message	Maria	What is the matter?	
+Message	Shido	"You mentioned before that we didn't need to
+rush. You didn't... ward everyone away from the
+store, did you?"	
+Message	Maria	Just enough... so that we would not be troubled.	
+Message	Shido	So you did!	
+Message	Maria	Yes. Otherwise, we would miss our lunches.	
+Message	Shido	"Well, that might be true, but didn't you say
+this morning that you'd keep life as normal
+as possible?"	
+Message	Maria	I believe it is no different than usual.	
+Message	Shido	I guess that makes sense... Or does it?	
+Message	Maria	"Either way, no harm has been done.
+Does this not qualify as "normal"?"	
+Message	Shido	It's complicated.	
+Message	Kurumi	"Oh, it might be related to Arusu-san's quest to
+find love. I believe there is some correlation
+between love and hunger."	
+Message	Shido	I don't know if I believe that.	
+Message	Miku	It's fine, isn't it, darling? Meals are important.	
+Message	Shido	That's true. Then, everything's okay.	
+Message	Maria	That is fine.	
+Message	Shido	No, it's not!	
+Message	Maria	But you just said it was okay...	
+Message	Shido	"Err. Well, I did, but when we don't have any
+reason to be at the school store, then make
+sure you make everything normal again."	
+Message	Maria	Yes. That is what I intended.	
+Message	None	"(Maria seems to have become more thoughtful,
+or maybe craftier? Either way, she's changed
+a bit.)"	
+Message	None	"(Hm? Has she started to change...? It's almost
+like I've been watching over Maria's progress.
+Why did I think of it that way?)"	
+Message	None	"(After all was said and done, we finished lunch.
+While it's hard to say afternoon classes went on
+without incident, it was a pretty typical day.)"	
+Message	Shido	"Whew. Classes are over. It was a lot noisier
+than usual."	
+Message	Shido	"But it was fun. Seems like you're getting
+the hang of going to school, Maria."	
+Message	Maria	Shido, with this, school is over, correct?	
+Message	Shido	"Yeah, and there are no clubs at our school.
+It was a typical day, so maybe it wasn't that
+interesting for you."	
+Message	Maria	"No, today was interesting. But...
+It was not enough."	
+Message	Shido	Not enough? What wasn't enough?	
+Message	Maria	Love.	
+Message	Shido	It's true there wasn't much of that.	
+Message	Maria	"In order to learn about love, is it not necessary
+for me to take one further step?"	
+Message	Shido	One further step?	
+Message	Maria	"Shido, please answer honestly. And then,
+can you show me?"	
+Message	Shido	Show you... what?	
+Message	Maria	"If you were to spend special time with
+another... would you and that other person
+be drawn to one another in the same way?"	
+Message	Shido	What are you saying?	
+Message	Maria	If you had to... would you choose me?	
+Message	Shido	Maria...?	
+Message	Maria	"Please choose, Shido. Will you teach me
+the ways of love?"	
+Message	Shido	I... Let's see...	
+Message	None	"(If that's what Maria wants, and given that I
+want to know about Maria, then my answer
+is...)"	

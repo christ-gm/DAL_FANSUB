@@ -1,0 +1,567 @@
+﻿Operator	Comment	Key	Translation
+Message	None	(...I'll always be watching you.)	
+Message	None	(...It's starting.)	
+Message	None	(The days will be closed...)	
+Message	None	(...It's all repetition...)	
+Message	None	(I... must protect the happy days in... Eden...)	
+Message	None	"(There must be no issues... with how Eden
+is managed. I mustn't end the dream. I can't
+let that happen...)"	
+Message	None	(...It has begun... It's all starting over.)	
+Message	None	(Huh...?)	
+Message	None	(...Whose voice is that...?)	
+Message	None	(...I feel like I know it, but I don't...)	
+Message	None	(There is... one thing I know for sure.)	
+Message	None	"(That voice was so warm...
+and filled with kindness.)"	
+Message	None	(Huh?)	
+Message	None	(I-I've seen this before...)	
+Message	None	(Uh... That was...)	
+Message	None	(When I woke up, I saw a familiar face.)	
+Message	Tohka	Shi...do...?	
+Message	Shido	Tohka...	
+Message	Tohka	Shido! Shido! Shido...!	
+Message	Shido	HNRG?!	
+Message	Shido	T-Tohka! That hurts!	
+Message	Tohka	Huh?! S-Sorry, Shido...!	
+Message	Shido	Ah! ...*pant*...*pant*...*pant*...*pant*...	
+Message	None	(Wh-What... is going on...?)	
+Message	None	(I looked around the room...)	
+Message	Tohka	"What is the matter, Shido?
+Do you... still feel sick?"	
+Message	None	"(The girl looking at me with such worry was Tohka
+Yatogami. Despite her human appearance, she is
+actually a Spirit, a being with great powers.)"	
+Message	None	"(Seeing Tohka's bright smile,
+my mind was made up.)"	
+Message	None	"(Humans and Spirits shouldn't harm one another.
+If there was no other way, I would save the
+Spirits myself.)"	
+Message	None	"(And... I sealed Tohka's powers. Come to think of
+it, my days have been filled with dates ever since
+I met her...)"	
+Message	Shido	"Uh, that's not it. I just don't know
+what's going on..."	
+Message	Shido	Hm...?	
+Message	None	"(I tried to ask her what was happening, but before
+I knew it, Tohka had stepped away from the bed
+with her back toward me.)"	
+Message	Tohka	D-During a time like this, I... Hmm, I see...	
+Message	Shido	T-Tohka...?	
+Message	Tohka	A-All right...! Sh-Shido! You stay there!	
+Message	Shido	U-Uh...? What do you mean, Tohka?	
+Message	Tohka	"Just don't move! In order to heal you... I-I'm
+going to have to sleep next to you, right?"	
+Message	Shido	W-Wait a minute!	
+Message	Tohka	Hm? What's the matter?	
+Message	Shido	"Don't what's the matter me!
+What are you doing, Tohka?!"	
+Message	Tohka	Hm? You are feeling sick, aren't you?	
+Message	Shido	Y-Yeah, I'm aching all over, but—	
+Message	Tohka	"Th-Then I have to warm your body! It's important
+to warm up! Very important!"	
+Message	Shido	Hey!	
+Message	Tohka	"If we're going to warm up, I must hug you!
+...N-Naked..."	
+Message	Shido	Wh-What, Tohka?! Stop, stop! Please, calm down!	
+Message	Tohka	"Wh-Why are you refusing me, Shido...? Are you
+saying I'm not enough to warm you up...?"	
+Message	Shido	Th-That's not the issue—	
+Message	Kotori	Shido, are you up...?!	
+Message	Shido	H-Hey, Kotori!	
+Message	Kotori	...	
+Message	Shido	Huh...?	
+Message	Kotori	Jeez... Causing trouble again.	
+Message	Shido	Kotori...?	
+Message	Shido	D-Did I do something wrong?	
+Message	Tohka	"It wasn't Shido... It was my fault.
+I'm so sorry..."	
+Message	Shido	Wh-What are you talking about?	
+Message	Tohka	What...?! Don't tell me you don't remember, Shido!	
+Message	Shido	Y-Yeah, I can't remember anything...	
+Message	None	"(Kotori looked over at Tohka briefly,
+then back at me.)"	
+Message	Kotori	...	
+Message	Kotori	"Good. Seems like you're your usual self again.
+I guess having a bad memory is kind of your thing,
+Shido."	
+Message	Shido	Hmph... W-Well excuse me!	
+Message	Kotori	"Maybe I should schedule an appointment at the
+hospital. Although since you were born with it,
+it's probably too late."	
+Message	Shido	Just forget it!	
+Message	Kotori	"Well, I'm glad you look better than I thought
+you would. Besides..."	
+Message	Shido	Hm?	
+Message	Kotori	"You just got better a second ago. What were you
+trying to do with Tohka on the bed?"	
+Message	Shido	N-No! Tohka was worried about me, and—	
+Message	Kotori	"Agh... You're horrible. Going through puberty and
+can't keep those raging hormones in check, but
+you can blame someone else, can't you?"	
+Message	Shido	Listen to me!	
+Message	Kotori	"I'm only kidding... Tohka, this idiot's all right,
+so don't worry."	
+Message	Tohka	"O-Oh really?! But Kotori, you're the one who said
+if I slept next to him, he'd recover faster."	
+Message	Kotori	"I did say that... If you still want to do it,
+you can."	
+Message	Shido	H-Hey, Kotori—?!	
+Message	Tohka	Hm! I-If it helps Shido get better sooner, then I—	
+Message	Shido	"N-No, Tohka! I'm totally fine now! It's the
+thought that counts! I feel all better now!
+Yeah! Thanks!"	
+Message	Tohka	Shido... Are you sure?	
+Message	Shido	Yeah, I promise!	
+Message	Tohka	Hmm...	
+Message	Shido	Hm? What's the matter?	
+Message	Tohka	"Nothing. So long as you're fine,
+that's all that matters!"	
+Message	Shido	So... Maybe you can tell me. What happened to me?	
+Message	Kotori	You seriously don't remember anything?	
+Message	Shido	Not at all...	
+Message	Kotori	...Maybe we should get your head checked.	
+Message	Shido	Ngh...	
+Message	None	"(This snide one is Kotori Itsuka. Otherwise known
+as my little sister.)"	
+Message	None	"(Her personality changes depending on the color
+of her ribbon.)"	
+Message	None	"(When she's wearing white, she's carefree and
+adorable, to the point where you actually kind
+of want to mess with her, but...)"	
+Message	None	"(When her ribbon is black—so her current state—
+you'd be an idiot to upset her. She has such a
+mouth on her that there's no way to win!)"	
+Message	None	"(I call this her "Commander Mode", as Kotori
+leads the organization known as Ratatoskr
+from aboard the airship called the Fraxinus.)"	
+Message	None	"(While Kotori is charged with protecting
+the Spirits as the Commander of Ratatoskr,
+she herself has Spirit powers as well.)"	
+Message	None	"(It was recently discovered that someone gave her
+the powers that turned her into a Spirit.)"	
+Message	None	"(Despite her age, Kotori bears a lot
+of responsibility from that role.)"	
+Message	None	"(I know she needs to be tough, but... seeing my
+innocent little sister turn out this way was sort
+of a shock.)"	
+Message	None	"(But... when I was struggling, Kotori stood
+by my side as family.)"	
+Message	None	"(No matter how much Kotori changed, I would do
+anything for her...)"	
+Message	Yoshinon	"Yoo-hoo, Shido-kun! You're looking\ngreat this morning!"	
+Message	Yoshino	Shido-san...!	
+Message	Shido	H-Hey! Yoshino, you were here too?	
+Message	Yoshino	Oh... U-Um... Are you really okay?	
+Message	Tohka	Yes, supposedly he's fine! Aside from his head!	
+Message	Shido	T-Tohka...	
+Message	Tohka	Hm?	
+Message	Shido	Nothing... Well, whatever.	
+Message	Yoshino	I'm... so glad y-you're safe...!	
+Message	Shido	The head part didn't concern you, did it...	
+Message	None	"(This awkward little girl is Yoshino. She was the
+second Spirit I met.)"	
+Message	None	(She's very quiet and abnormally shy.)	
+Message	None	"(She somehow managed to open up to us enough to
+talk, but it took a while to get to this place.)"	
+Message	None	(That's about it for introductions.)	
+Message	Yoshinon	"Grr..."	
+Message	Shido	Oh! Sorry, sorry. You exist too, Yoshinon.	
+Message	Yoshinon	"Yoshinon was the one who said 'hi' to you\nfirst, and you've ignored me all this time!\nMaybe that's proof that you're still sick?"	
+Message	Shido	Sorry. I was talking to Yoshino, and I forgot.	
+Message	None	(That's right, I can't forget Yoshinon.)	
+Message	None	"(Yoshinon is a rabbit puppet and Yoshino's friend.
+Yoshino's other personality is channeled through
+this little one.)"	
+Message	None	"(Yoshino would never hurt someone. She's kind...
+In fact, she's probably too kind.)"	
+Message	None	"(But, her extreme shyness makes her panic, and she
+risks freezing everything around her. She may be
+quiet, but she still has the powers of a Spirit.)"	
+Message	None	"(Yoshinon loves to talk, and is something of an
+outlet to control Yoshino so she won't
+accidentally hurt someone.)"	
+Message	None	"(I think now I'm done with
+all the introductions...)"	
+Message	Reine	How do you feel, Shin?	
+Message	Shido	R-Reine-san...?! Y-Your face! It's too close!	
+Message	Reine	Hm...?	
+Message	None	"(The one who just came in but clearly looks more
+tired than I do is Reine Murasame-san.)"	
+Message	None	"(She's a very talented analyst for Ratatoskr and
+Kotori's right-hand. She analyzes and monitors
+the Spirits and anything relating to them.)"	
+Message	None	"(She should be very intelligent... But she can
+never seem to remember my name...)"	
+Message	None	"She suddenly transferred to my school, Raizen,
+and is my assistant homeroom teacher, so I see
+her often."	
+Message	None	"(She always has a teddy bear in her chest pocket. I
+can't help but stare at it. She's mysterious, but
+generally very nice and dependable... I think.)"	
+Message	Reine	"Shin... You just recovered, so you shouldn't push
+yourself too—"	
+Message	Shido	Hey! R-Reine-san?!	
+Message	Reine	Oh, sorry... I've been lacking sleep lately.	
+Message	Shido	"I know! But shouldn't you be the one resting,
+Reine-san?"	
+Message	Reine	"Forget that, Shin... Here, drink this. It was
+prescribed by the medic on the Fraxinus. It should
+help restore some of your diminished health."	
+Message	Shido	Oh, okay. Thank you... Oh, yeah! Reine-san!	
+Message	Reine	"Hm... What's the matter? Is there a reason for
+this outburst?"	
+Message	Shido	"Don't "What's the matter" me!
+What is going on?! Explain!"	
+Message	Shido	"Tohka squeezes me awake, Kotori and Yoshino charge
+into my room, and you're giving me medicine to
+"recover"?! Did I contract some kind of awful—?!"	
+Message	Shido	(Mmrph! Mmmph!)	
+Message	Kotori	Have you calmed down?	
+Message	Shido	H-Horori! W-Wha...are you...?!	
+Message	Shido	Bwah...!	
+Message	Reine	You all right, Shin?	
+Message	Shido	"S-Sorry! I-It's not like that! H-Hey, Kotori!
+Don't just push me into Reine-san's chest
+like that...!"	
+Message	Kotori	"You looked like you were in panic mode, so I used
+a special technique. You got a problem with that?"	
+Message	Shido	"P-Problem?! Don't use Reine-san's chest like it's
+some sort of treatment center!"	
+Message	Reine	If it calms you down from hysteria, I don't mind.	
+Message	Shido	Wha...?	
+Message	Kotori	"Straight from the treatment center herself. Do you
+want to get checked in again? You kinda look
+like you want to, Shido."	
+Message	Shido	Oh no, I'm fine... Th-Thank you!	
+Message	Shido	"Forget that! Can you be serious for a second
+and tell me what's going on?!"	
+Message	Kotori	"What's going on...? Shido, do you
+really not remember?"	
+Message	Shido	Huh? No, I don't...	
+Message	None	"(When she pressed me like that, I started to get
+nervous. Clearly something had happened to me.)"	
+Message	None	"(But no matter how much I tried, I couldn't
+remember anything... Rather, I had no idea how
+I ended up like this.)"	
+Message	None	"(What I could barely remember... was that I had a
+dream...)"	
+Message	None	"(But that shouldn't have anything
+to do with this.)"	
+Message	Kotori	"Well... You've been knocked out for three days,
+so I don't blame you."	
+Message	Shido	"What?! W-Wait a minute! Three days?! D-Did you
+just say three days?!"	
+Message	Kotori	"Yeah I did. Reine, could you please explain it to
+my idiot brother?"	
+Message	Reine	"Shin... You were asleep at the infirmary of the
+Fraxinus. For three whole days."	
+Message	Kotori	"You seemed to stabilize and got approved for
+discharge, so we brought you to your bed this
+morning."	
+Message	Kotori	"It was really tough... Tohka was bawling, thinking
+it was all her fault, Yoshino almost went
+berserk... This is all your fault, Shido."	
+Message	Shido	"But... I mean, what do you want me to say...?
+And why was I out for so long? I don't remember
+doing anything leading up to that..."	
+Message	Tohka	Shido... You tried to save me... I went berserk...	
+Message	Shido	"Tohka... You went berserk?
+What do you mean by that?"	
+Message	Shido	—?!	
+Message	Shido	...	
+Message	None	(I remembered.)	
+Message	None	(That's right. Back then, I...)	
+Message	None	"(It was when I was chatting with
+Tohka in the classroom.)"	
+Message	None	"(We were talking about how I had been sick lately,
+and how there was a new item at the bread shop
+I liked... We were just chatting about nothing...)"	
+Message	None	"(Just then, Tohka looked like she was in pain
+and ran out of the classroom!)"	
+Message	None	"(I rushed to follow her and ran up the stairs
+to the rooftop... And there I found Tohka...)"	
+Message	Tohka	Sh-Shido... R-Run...!	
+Message	Shido	There's no way I can!	
+Message	Tohka	"Y-You can't come... If you're with me,
+even you will..."	
+Message	Shido	Even if you don't want me—	
+Message	Shido	I... I will never let you be alone—	
+Message	Tohka	Shido...! I... don't... want to... kill... you!	
+Message	Shido	TOHHKAAAAAAAA!	
+Message	Tohka	SHIDOOOOOOOO!	
+Message	Kotori	...Seems like you remembered.	
+Message	Shido	Y-Yeah...	
+Message	Kotori	Gosh, you're reckless... Don't you get it?	
+Message	Kotori	It's a miracle that you're alive right now!	
+Message	Shido	S-Sorry...	
+Message	Tohka	Shido...	
+Message	Shido	But I couldn't just leave Tohka alone like that.	
+Message	Shido	"And besides, my body can take damage...
+Well, I guess sometimes it can't—"	
+Message	Shido	Urgh?!	
+Message	Kotori	Hmph. You keep on justifying it to yourself.	
+Message	Shido	"Wh-What are you doing?! A corkscrew...
+in my gut... that's dangerous! *cough* *cough*!"	
+Message	Kotori	"You don't even know the limits of your recovery,
+yet still have blind confidence in your abilities.
+You're so dumb. I'll have to show you by force."	
+Message	Shido	Ugh...	
+Message	None	"(Kotori was referring to my abnormal ability to
+heal from damage whenever I got hurt. Her power
+was sealed inside me, which made it possible.)"	
+Message	None	"(Until now, I relied on this power almost
+carelessly. But I honestly didn't know how much
+healing I could actually do.)"	
+Message	Shido	S-Sorry... That was my fault completely.	
+Message	Kotori	"Well, I guess you being dumb enough to go
+and help her is what makes you Shido."	
+Message	Shido	...I have no words.	
+Message	Kotori	"Listen to me. You'd better not
+be reckless anymore."	
+Message	Shido	...?	
+Message	Kotori	In your current state, you could easily die.	
+Message	Shido	Huh? But I thought I had your powers, Kotori...?	
+Message	Kotori	"I got you with the Fraxinus when you were
+unconscious and looked into you."	
+Message	Reine	"The results of the analysis showed that
+miraculously, there wasn't much damage
+from her rampage. But there was another problem."	
+Message	Shido	Problem...?	
+Message	Reine	"Yeah... Shin, magic is counter-currenting into
+your body. All the sealed power up until now."	
+Message	Shido	"B-But this isn't the first time
+it's happened, is it...?"	
+Message	Kotori	"No, this counter-current phenomenon isn't new, and
+we knew it to be a temporary thing, right?"	
+Message	Kotori	"It was something we anticipated, so that wasn't
+a problem, but... this case is different from that
+time."	
+Message	Kotori	"I'm still investigating, but we're completely at a
+loss. We have no idea what's going on."	
+Message	Kotori	"Looking at Tohka or Yoshino, it doesn't seem like
+it was caused from the Spirits being stressed...
+Shido, do you have any idea what it could be?"	
+Message	Shido	"No... I have no idea. I just felt the power inside
+me leave... That's all."	
+Message	Reine	"Hmm... Did you feel any abnormalities
+in your body?"	
+Message	Shido	Hmmm... I guess I was a little tired that day...	
+Message	Kotori	"It doesn't seem like that would affect it...
+Nothing showed up when we were examining you
+on the Fraxinus."	
+Message	Reine	"That's right... I mean, we did some rigorous
+testing, so I'm sure the results are accurate."	
+Message	Shido	"I'm sorry. I know it's my body and all, but
+I can't seem to give any useful feedback..."	
+Message	Kotori	"No need to apologize. This was kind of an
+accident, after all."	
+Message	Reine	"Shin, you can safely say that all Spirits are now
+unstable. As long as you're losing your powers,
+you no longer have the divine protection of them."	
+Message	Shido	So, that means...?	
+Message	Kotori	"You're not invincible anymore. If there's anything
+that could put your life in danger, it will do so.
+And next time around, you'll definitely die."	
+Message	Shido	What?!	
+Message	Kotori	You finally get it, don't you?	
+Message	Shido	"So you're telling me... one wrong move,
+and I could have died?"	
+Message	Kotori	"Exactly. Jeez, you're always worrying us,
+every single time."	
+Message	Tohka	"If you die, Shido... If I can't be with you...
+then... that will make me very, very sad...!"	
+Message	Shido	"Oh... D-Don't worry about it, Tohka! See, look!
+I'm completely safe!"	
+Message	Kotori	"Shido, you should worry at least a little.
+I'm telling you now, Tohka isn't the only
+one who went berserk."	
+Message	Shido	What?!	
+Message	Kotori	Yoshino went berserk at the same time Tohka did.	
+Message	Shido	What?! Yoshino?!	
+Message	Kotori	"Just like with Tohka, we don't know what caused
+it. It may be related, but the Spirit mansion
+is frozen on every floor, and we can't use it."	
+Message	Yoshino	I...I'm... so sorry...!	
+Message	Shido	"It's fine, Yoshino. Don't worry about that.
+Are you okay?"	
+Message	Yoshino	Y-Yes...! I... I... am fine.	
+Message	Shido	I see. That's good.	
+Message	Yoshinon	"Yeah... Even Yoshinon was surprised!"	
+Message	Yoshinon	"All of a sudden, there was this huge surge of\npower, and it wouldn't stop!"	
+Message	Shido	I'm sorry... This is all my fault.	
+Message	Yoshinon	"Ahahaha. It's totally fine!\nI mean we're friends, right?"	
+Message	Shido	Y-Yeah... Thanks, Yoshinon.	
+Message	Kotori	"They've stabilized plenty, but Tohka and Yoshino
+need to undergo a few more tests. After that... I
+guess they'll be staying at our house for a while."	
+Message	Shido	Oh, okay. Yeah... Wait, what?!	
+Message	Kotori	"What's the big deal? Tohka used to live with us
+just a little while ago."	
+Message	Shido	"Well I know, but... don't you think it's
+inappropriate...? In so many ways..."	
+Message	Kotori	"Oh, you seem to be rattled. Were you perhaps
+expecting something in particular?"	
+Choice		No, I'm not!	
+Choice		Maybe just a little...?	
+Message	Shido	"I-I wasn't expecting anything specific! It's just,
+you know! It would be an issue for any healthy
+male in high school!"	
+Message	Shido	Well, um... Maybe just a little... Yeah, right!	
+Message	Kotori	...	
+Message	Yoshino	...	
+Message	Shido	*Groan*! D-Don't look at me like that!	
+Message	Shido	"I-I wasn't expecting anything specific! It's just,
+you know! It would be an issue for any healthy
+male in high school!"	
+Message	Kotori	What? You're going to turn them out on the street?	
+Message	Shido	"No. I was just wondering if there was any other
+way. I didn't mean it like that..."	
+Message	Kotori	"Oh, I had no idea... I guess you're the type of
+guy to abandon someone in distress, just for
+your own convenience."	
+Message	Shido	What...	
+Message	Tohka	Hmm...	
+Message	Yoshino	Oh...	
+Message	Yoshinon	"Mm..."	
+Message	Shido	Okay, I was wrong.	
+Message	Kotori	"Oh, really? I mean, I could get
+another place ready..."	
+Message	Shido	Whatever! I'll be responsible for them both!	
+Message	Tohka	Shido!	
+Message	Yoshino	Th-Thank you...!	
+Message	Yoshinon	"Aren't you a lucky one? You get to live with the\ncute Yoshinon!"	
+Message	Shido	Y-Yeah...	
+Message	Kotori	"Well, it's the first time Yoshino's staying over,
+but I'm sure it'll be fine. It's safer this way."	
+Message	Tohka	I get to be with Shido again...	
+Message	Tohka	"Hm... I think that's a good idea!
+Yoshino is with us!"	
+Message	Yoshino	Y-Yes!	
+Message	Shido	Y-Yeah... You're right.	
+Message	None	(Wh-Why does it feel so awkward...)	
+Message	Kotori	"What's with that look on your face? Seems like
+something's cooking in that noggin of yours."	
+Message	Shido	What?!	
+Message	Kotori	"Maybe I should call the cops
+instead of the hospital."	
+Message	Shido	Don't!	
+Message	Tohka	Hehe... Shido!	
+Message	Shido	Hm? What's the matter, Tohka?	
+Message	Tohka	It's a pleasure!	
+Message	Shido	Yeah, you too.	
+Message	Tohka	Yeah!	
+Message	Shido	"That's right, do you want to eat anything?
+I'll prepare something."	
+Message	Tohka	"Really?! Oh, hmm... Oh, I know! How about that
+caviar and foie gras thingy? I saw it on TV.
+Supposedly it is truly amazing!"	
+Message	Shido	Sorry, Tohka... Not that.	
+Message	Tohka	Oh, really...? Then, I wonder what's good...	
+Message	Kotori	"Seems like as long as Tohka is with Shido,
+she'll be stable..."	
+Message	Reine	"Yeah... I don't think we'll have any issues with
+her current state."	
+Message	Yoshino	I... I am also... happy that I'm with Shido.	
+Message	Shido	R-Really?	
+Message	Yoshino	Y-Yes! Very!	
+Message	Shido	I forgot to ask, but... How about you, Kotori?	
+Message	Kotori	Huh?	
+Message	Shido	"You seem to be totally fine, but you're a Spirit
+too, right? Are you okay?"	
+Message	Kotori	"Oh... I-I'm fine. Compared to Tohka and Yoshino,
+I'm pretty stable."	
+Message	Shido	"Oh, really? I thought it would be good that you're
+with us too, but..."	
+Message	Kotori	What?! What are you saying?	
+Message	Shido	"Oh, I just thought you might be even more stable
+if I'm nearby, too. I wanted to check with you,
+but..."	
+Message	Kotori	W-Well... Uh...	
+Message	Reine	I'm 100% sure she will be stable.	
+Message	Shido	R-Really?	
+Message	Shido	Agh!	
+Message	Shido	"Wh-What are you doing, Kotori?! I mean,
+who dropkicks a sick person?!"	
+Message	Kotori	"I just want to make sure you don't get any funny
+ideas! How much of a sister complex do you have?
+I feel like I'm in danger..."	
+Message	Shido	What?! I-I would never do anything like that!	
+Message	Kotori	...	
+Message	Shido	Oh, um... Kotori?	
+Message	None	(Why does she look so sad...?)	
+Message	Shido	W-Well... I said it for you...	
+Message	Shido	If I can protect you, wouldn't that be better?	
+Message	Kotori	"Gosh... Times like these, it surprises me when you
+don't say something completely idiotic."	
+Message	Shido	That's pretty messed up.	
+Message	Reine	"Shin... Don't worry. It seems like your affection
+level is off the charts."	
+Message	Shido	Huh?	
+Message	Kotori	"Reine... Milk crepes from Salon du Bonheur.
+Ten of them..."	
+Message	Reine	Well, despite her appearances, Kotori is...	
+Message	Kotori	Old enough.	
+Message	Reine	Sorry, Shin... This was all a misunderstanding.	
+Message	Shido	Oh, come on! Don't be bribed right in front of me.	
+Message	Reine	Bribed? What are you talking about?	
+Message	Shido	Uh... Nevermind.	
+Message	Reine	I see...	
+Message	Shido	"But... no matter how stable you are, there's
+a chance that you'd go berserk too, right, Kotori?
+Then—"	
+Message	Kotori	"I-I know that! I'll be fine... If I need you,
+I'll rely on you or whatever."	
+Message	Shido	O-Okay...	
+Message	Kotori	"But just remember this: Tohka and Yoshino aren't
+as good at controlling their emotions as I am.
+So you need to prioritize them first. Got it?"	
+Message	Shido	G-Got it...	
+Message	Reine	"Shin... I think you should rest soon. You just
+recovered. You shouldn't overdo it."	
+Message	Reine	"Before you return to the Fraxinus, let's get your
+temperature. Lie down on the bed."	
+Message	Shido	Oh, okay...	
+Message	None	"(Reine-san clearly looks more unhealthy than I do,
+but she took out a thermometer.)"	
+Message	Reine	Oh, we should clean your body...	
+Message	Reine	"Kotori, you take Shin's clothes off
+and wipe him down."	
+Message	Kotori	Wha—?! H-Hey, Reine?!	
+Message	Reine	"Hm? What's the matter? You did it everyday on the
+Fraxinus, didn't you?"	
+Message	Kotori	"Th-That's... I think you're so tired you're
+starting to see things!"	
+Message	Reine	No, you were taking care of him so much beside—	
+Message	Kotori	Ten custard strawberry millefeuilles!	
+Message	Reine	"Shin, I believe I was daydreaming. Today we'll
+have Tohka or Yoshino bathe you."	
+Message	Tohka	Hm?	
+Message	Yoshino	...?	
+Message	Shido	"R-Reine-san! U-Um, I can wash up and get changed
+by myself—!"	
+Message	None	"(I sprung up, and saw the room
+spinning around me.)"	
+Message	Shido	(Ah!)	
+Message	Shido	(Mmmph! Mrmmph!)	
+Message	Reine	...Shin, you all right?	
+Message	Shido	"Bwah! I-I'm not all right! Not only did I almost
+lose consciousness, I thought I'd never come back!"	
+Message	Reine	I see... Then lie down.	
+Message	Shido	O-Okay...	
+Message	None	"(I guess we'll forget whose fault this was...
+I lost the energy to fight back and just
+weakly lay down to rest.)"	
+Message	Kotori	...	
+Message	None	(Kotori was just watching it all unfold.)	
+Message	Reine	"So, what do we do? Seems like it would be a bit
+hard for Yoshino... Tohka, do you think you can
+take care of Shin?"	
+Message	Tohka	"Y-Yes! Leave it to me!
+So, what am I supposed to do?"	
+Message	Reine	"Well, take Shin's clothes off
+and wipe down his body."	
+Message	Tohka	What...?! I-I must take his clothes off?	
+Message	Shido	T-Tohka, it's okay! I'll wash myself—!	
+Message	Tohka	Sh-Shido, you just sit there!	
+Message	Shido	O-Okay...	

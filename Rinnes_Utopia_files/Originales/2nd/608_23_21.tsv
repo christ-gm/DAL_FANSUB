@@ -1,0 +1,256 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(That afternoon, in between classes—no, even
+during classes—I explained the situation to
+each girl, hoping to improve their moods.)"	
+Message	None	"(But it took my entire day, right up to when
+school ended.)"	
+Message	Shido	Maria, are you there?	
+Message	Maria	Yes, I am.	
+Message	Shido	Thank goodness. You came after all.	
+Message	Maria	"However, why did you ask me to meet you
+behind the school?"	
+Message	Shido	"Um, it could be chaotic if we're seen together
+again."	
+Message	Maria	"While that may be true, could we not have
+met somewhere outside in the first place?"	
+Message	Shido	"Yeah, but you don't have a cellphone or
+anything, right Maria? If something were
+to happen, it might be hard to reach you."	
+Message	Maria	I see. That is true.	
+Message	Shido	"Well, that's how it is, so let's head out the
+back gate."	
+Message	Maria	"Yes. This means you will go on a date with
+me as well today, yes?"	
+Message	Shido	Yup, that's right. Let's have a date.	
+Message	None	"(I'm worried about the other Spirits, and for
+now I'll prioritize Maria. I do want clues on
+how to escape this world, too.)"	
+Message	None	"(Moreover, I want to show Maria even more
+things.)"	
+Message	Shido	"So today, I thought we could head near the
+train station and look at all of the shops.
+What do you say?"	
+Message	Maria	Yes. I look forward to it.	
+Message	Shido	I see. Then, let's go.	
+Message	Maria	They have such a vast selection of items.	
+Message	Shido	"Right? See anything that catches your
+eye?"	
+Message	Maria	Everything looks so enticing. What is this one?	
+Message	Shido	"I think that's a coaster? You rest your cups
+on top of them."	
+Message	Maria	"My records indicate that they are normally
+composed of paper or cloth, but it appears
+some are made with metal as well."	
+Message	Shido	Sure, but those aren't too common.	
+Message	Maria	Shido, would this coaster be made of paper?	
+Message	Shido	"Lemme see... This is a menko. Kind of a strange
+thing to be selling still. Who still uses menkos?"	
+Message	Maria	"Menko, you said? From what I see, it is a toy.
+Although it seems one could use it as a coaster
+too. Can you not rest your cup upon it?"	
+Message	Shido	"Technically you could, but... that's not what
+it was made for."	
+Message	Maria	"How peculiar. While their intended purposes
+are different, are they not used similarly for
+functional reasons?"	
+Message	Shido	"No, I don't think so. It's like you said, Maria,
+it's the thickness of the menko's paper that
+makes it similar to a coaster."	
+Message	Maria	"With their similarities, one could be used as
+a substitute for the other. A simple concept,
+but quite amazing."	
+Message	Shido	"It is. Japanese people seem to value that
+quality too. In fact Maria, if there's something
+you wanna get, just tell me. I'll buy it for you."	
+Message	Maria	For now, I will refrain.	
+Message	Shido	You don't have to hold back, ya know?	
+Message	Maria	"No. I have never been shopping before, so
+when asked to buy something suddenly, I
+am at a loss for what to buy."	
+Message	Shido	"I guess that's true. Then, if you find anything,
+tell me, okay?"	
+Message	Maria	Okay.	
+Message	Shido	"Cool. Next time we come here, let's invite the
+others to come with us."	
+Message	Maria	The others? Why should we?	
+Message	Shido	"It's fun to browse when everyone's pointing
+things out, you know? Besides, I gotta make it
+up to them somehow. Since it's my fault."	
+Message	Maria	...Yes. I would like to experience that.	
+Message	Shido	Right. Then, let's do that. It's a promise.	
+Message	Maria	Yes, it is a promise.	
+Message	Clerk	Welcome!	
+Message	Maria	"This is a clothing shop, yes? Do you plan on
+buying clothes here?"	
+Message	Shido	"No, I didn't have anything in mind. I just
+figured girls liked looking around in stores
+like this."	
+Message	Maria	It is very interesting.	
+Message	Shido	I see. That's good then.	
+Message	None	"(As I thought, Maria spent time looking through
+every nook and cranny of the shop. I'll leave
+her be.)"	
+Message	Clerk	"Are you siblings? Your younger sister there is
+adorable."	
+Message	Shido	Huh? Er, ha ha ha...	
+Message	Clerk	If you'd like, I can search for something.	
+Message	Shido	"Um. Sorry, we're just looking around to get
+an idea."	
+Message	Clerk	"I see. If you find something you like, please
+call me."	
+Message	Maria	What were you speaking about?	
+Message	Shido	"Apparently, that person thought we were
+siblings."	
+Message	Maria	Siblings?	
+Message	Shido	"Yeah. Guess so. Even though we look nothing
+alike. Well, that store clerk is an NPC, so it
+might be an automated response or something."	
+Message	Shido	Hmm?	
+Message	Maria	No. It is nothing. Let us go, Shido.	
+Message	None	"(Maybe it's my imagination, but ever since
+we left the store, Maria's been quiet... It's
+a little awkward.)"	
+Message	Shido	Maria, where to next... Hm?	
+Message	None	"(All of a sudden, Maria stopped and looked
+upwards. Her eye was caught on a giant poster
+for a movie that was playing.)"	
+Message	None	"(On the poster, there were a man and a woman
+smiling, locked in embrace. Is it a romance?
+...This is perfect.)"	
+Message	Shido	Maria. Let's go to that movie theater.	
+Message	Maria	Movie... Right now?	
+Message	None	"(In a theater, awkward silences can be smoothed
+over. When it's over, I bet her mood will be
+better.)"	
+Message	Shido	"Yeah. Seems like a short movie. Shouldn't take
+more than an hour. It won't be that late."	
+Message	Maria	I understand.	
+Message	Shido	...I was tricked.	
+Message	None	"(There were some romantic scenes, but it was
+a horror movie. What the hell was up with that
+poster...?)"	
+Message	Shido	Sorry, Maria. You okay...?	
+Message	Maria	Yes, but that was rather intense...	
+Message	Shido	"Yeah. It took me for a ride too. All right,
+then. Let's go."	
+Message	Maria	Yes. Um, Shido...?	
+Message	Shido	What's wrong?	
+Message	Maria	Would it be okay to lock arms while we walk?	
+Choice		Walk with locked arms.	
+Choice		Walk with hands held.	
+Message	Shido	All right, here. Grab on.	
+Message	Maria	Yes. Thank you.	
+Message	None	"(Maria timidly wraps her arm around mine,
+and we begin to walk.)"	
+Message	Shido	"Sorry. I didn't expect it to be that kind of
+movie. Did you have a bad time?"	
+Message	Maria	No, that is not the case.	
+Message	Shido	Huh? Then, why...?	
+Message	Maria	"Even like this, do you think we look like
+siblings?"	
+Message	Shido	...Huh?	
+Message	None	(What? Could it be...?)	
+Message	Shido	"Maria, was your reason for looking at the
+movie poster not because you wanted to
+see the film, but instead..."	
+Message	Maria	"Because the man and woman were linking
+arms."	
+Message	None	"(It's true, they had a romantic side plot in
+the story.)"	
+Message	None	"(Which means the reason Maria wanted
+to link arms wasn't because she was scared.)"	
+Message	Maria	Shido, how do you see us right now?	
+Message	Shido	W-Well, hahaha... I wonder.	
+Message	None	"(Siblings who walk with linked arms...
+aren't exactly uncommon, I suppose.)"	
+Message	Shido	Sorry, Maria. Then, why don't we hold hands?	
+Message	Maria	Hold... hands?	
+Message	Shido	Yeah. Do you not want to, Maria?	
+Message	Maria	"I am not opposed to it. In fact, I am glad.
+But, this is..."	
+Message	Shido	Hm? What's wrong?	
+Message	Maria	"Would it not appear like a younger sister being
+pulled around by her older brother?"	
+Message	Shido	Huh? Um, I don't think so?	
+Message	Shido	"Maria, is what that person said at the store
+still bothering you?"	
+Message	Maria	"That is not the case, but if we are on a date,
+then I wish to look like a couple."	
+Message	Shido	"Hm. Well, I don't think it matters what other
+people think, you know? We are who we are.
+Their opinion doesn't change anything."	
+Message	Maria	"Is that so? Couldn't one say that the first time
+an outsider acknowledges your relationship is
+when it becomes official?"	
+Message	Shido	Hm. Is it... really like that? I don't think so.	
+Message	Maria	Very well. You are surprisingly cold, Shido.	
+Message	Shido	"C-Cold... I didn't mean it the way it might
+have come out."	
+Message	Maria	"No, you are cold. You are like ice. Surely
+your mind and body are similarly frigid."	
+Message	Shido	C'mon, now... Hm. Here, take my hand.	
+Message	Maria	Ah...	
+Message	Shido	Isn't it warm?	
+Message	Maria	Yes, very warm.	
+Message	None	(I took Maria's hand, and started walking.)	
+Message	Shido	Where do you want to go next?	
+Message	Maria	"Let me see. If we are going to have dinner,
+there is a restaurant I have been wanting to
+try."	
+Message	Maria	"I have seen one near the station that offers
+a full-course special, popular amongst couples."	
+Message	Shido	"Huh?! That's a little... Sorry, but I don't have
+that kind of cash in my wallet."	
+Message	Maria	Hee hee.	
+Message	Maria	That was just a joke, Shido.	
+Message	Shido	Ah, Maria... You were kidding me?	
+Message	Maria	"Hee hee. I apologize. For some reason, I
+wanted to pull a fast one on you."	
+Message	Shido	"Well, that's okay, but I'm surprised to see
+you attempt a joke, Maria."	
+Message	Maria	Really?	
+Message	Shido	"Yeah. It was unexpected.
+...So, where do you really want to go?"	
+Message	Maria	Let me see...	
+Message	Maria	"Why not find a place where the two of us
+can relax?"	
+Message	Shido	Relax... That isn't some euphemism, right?	
+Message	Maria	...? What do you mean?	
+Message	Shido	Err, sorry. Forget about it...	
+Message	Maria	...?	
+Message	Shido	"It's fine. Wait, let's try stopping by Takadai
+Park before going home. We can relax there.
+If we go now, we'll make it in time for sunset."	
+Message	Maria	Yes. Then let us go.	
+Message	Shido	Now then, let's go home, Maria.	
+Message	Maria	Um, Shido. Today was fun.	
+Message	Shido	"Yeah. I had fun, too. To be honest, I'm kinda
+exhausted."	
+Message	None	"(While taking a stretch, I gazed out at the
+sunset. So much has happened over the course
+of the day.)"	
+Message	Shido	What a beautiful sunset.	
+Message	Maria	"Yes, it is. The sky is gorgeous. I can feel
+it inside me."	
+Message	Shido	"The sky seems to go on forever. I'm trapped
+in this world, aren't I? It doesn't feel that way
+at all."	
+Message	Maria	Do you wish to return to the real world, Shido?	
+Message	Shido	"Yeah. I do. I can't stay like this forever, after
+all."	
+Message	Maria	This is true...	
+Message	Shido	The real world, huh?	
+Message	None	"(It's fine if things go back to normal,
+but then... What would happen to Maria?)"	
+Message	None	(Will she end up alone in this world?)	
+Message	None	"(If that's the case, I wonder what I should do
+to save Maria.)"	
+Message	Maria	Shido, we should go home.	
+Message	Shido	Hm...? Ahh, you're right.	
+Message	None	"(No. If everything within the game is fixed,
+then we should be able to log in at any time.
+If that works, then we can still visit Maria.)"	
+Message	Shido	All right. Let's go home. To our house.	
+Message	Maria	Yes. Let us return.	
+Message	None	"(Maria answered, and for a moment, I thought
+I saw a hint of loneliness in her eyes.)"	

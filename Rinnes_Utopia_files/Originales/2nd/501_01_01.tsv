@@ -1,0 +1,317 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	...Huh? Where am I...?	
+Message	Shido	School...? When did I get to school?	
+Message	Shido	...Uh.	
+Message	None	"(That's right. I think... I finished class, and...
+uhh, it's... that's right. Lunch time.)"	
+Message	None	"(I left home as usual and I should have... come to
+school alone...)"	
+Message	Shido	"That's right. Nothing's... out of the ordinary,
+right?"	
+Message	None	"(Something feels really off. My head feels
+hazy...)"	
+Message	Shido	...Something feels weird.	
+Message	Tonomachi	What's the matter, Itsuka?	
+Message	Shido	Oh... Tonomachi...	
+Message	Tonomachi	"Hey... You don't look too good, man.
+What's going on?"	
+Message	Shido	"Oh... I just feel... weird. Like... my head feels
+like... I'm in a daze..."	
+Message	Tonomachi	You up late last night or something?	
+Message	Shido	"I slept really well, so I don't think that's it.
+I just felt dizzy when I was walking just now."	
+Message	Tonomachi	Hmm... I see.	
+Message	Shido	"Oh... And I feel chills, and I have a runny nose,
+and my head's aching."	
+Message	Tonomachi	Wait, Itsuka... Those symptoms sound familiar.	
+Message	Shido	Hm...? What could it be...	
+Message	Tonomachi	It's definitely... a cold.	
+Message	Shido	O-Oh... You might be right.	
+Message	None	(...Come to think of it, it is a cold.)	
+Message	None	"(But I don't remember being like this earlier in
+the morning. Maybe I can't remember 'cause
+everything's hazy, but I probably do have a cold.)"	
+Message	Tonomachi	I guess you get colds too, huh?	
+Message	Shido	Hey, what do you mean by that?	
+Message	Tonomachi	"I mean, you know the saying, "Itsuka doesn't catch
+colds?""	
+Message	Shido	There's no saying like... *a-choo*!	
+Message	None	(Okay... This is definitely a cold.)	
+Message	Tonomachi	"Ah, I see. A cold. Yes, of course... So you've
+gotten sick. I see, I see."	
+Message	None	(...Why's this idiot looking so happy?)	
+Message	Tonomachi	"In a time like this, I personally must take you to
+the infirmary. That's the duty of a sworn friend."	
+Message	Tonomachi	"Man, and I had plans, too... but you're my friend,
+you know? This sucks so bad... friendship
+suuuuucks."	
+Message	Tonomachi	...Hehehe.	
+Message	Shido	"You just laughed, didn't you?
+In such a creepy way..."	
+Message	Tonomachi	"What are you talking about, Itsuka-kun? How could
+I be happy when a dear friend is ill? Now then,
+let's go to the dream infirmary!"	
+Message	Shido	...Huh? What dream infirmary?	
+Message	Tonomachi	"Are you that dumb, Itsuka-kun?! The infirmary
+means Tohka-sensei!"	
+Message	Shido	...Tohka-sensei?	
+Message	Tonomachi	"Yes. The mistress of the infirmary, Tohka
+Yatogami-sensei!"	
+Message	Shido	"Oh... I-Is that so? The young teacher that just
+joined the school, right...?"	
+Message	None	"(I don't remember when she first started, but
+she's a young and pretty teacher who became
+popular among the students.)"	
+Message	None	"(I heard the infirmary's been more crowded than
+usual because of her.)"	
+Message	Tonomachi	"Hey, seriously, you really do seem sick. Forget
+what I want. I'll go with you."	
+Message	Shido	"You just admitted that you have ulterior motives!
+It's fine. I can go to the infirmary on my own."	
+Message	Shido	Besides, class is about to start.	
+Message	Shido	...See, there's the bell.	
+Message	Tonomachi	B-But, Itsuka! Are you really all right?	
+Message	Shido	Yeah, I don't think it's that bad...	
+Message	Tonomachi	"Grr... Damn it! Then I'll tell the teacher that
+you went to the infirmary. I don't want you
+to faint or anything."	
+Message	None	"(I guess despite his ulterior motives, he really
+was worried.)"	
+Message	Shido	Okay. Thanks.	
+Message	Tonomachi	"Take care. And you'd better tell me about Tohka-
+sensei tomorrow!"	
+Message	None	(I guess... he's still worried about me?)	
+Message	Shido	...I feel like my fever's going down.	
+Message	None	"(But just walking to the infirmary was tiring.
+Maybe it's because of this cold.)"	
+Message	Shido	"Well, I guess I can take some meds and sleep it
+off... Excuse me."	
+Message	Tohka	Hm? Oh, Shido-kun. What's the matter?	
+Message	None	"(So this is Tohka Yatogami-sensei. She's pretty,
+smart, and down-to-earth. A great teacher.)"	
+Message	Shido	I feel a bit sick... Is it okay if I rest here?	
+Message	Tohka	What? A cold? That's not good.	
+Message	Shido	It's just a normal cold...	
+Message	Tohka	"You shouldn't underestimate it. You know...
+illnesses are... the root of... you know?"	
+Message	Shido	...The root of many illnesses?	
+Message	Tohka	Yeah! That!	
+Message	None	"(...Huh? My image of her was smart and capable for
+some reason...)"	
+Message	Tohka	"But fear not. Just leave it to me, Shido! I mean,
+Shido-kun!"	
+Message	Shido	"I was thinking that earlier, but now I'm suddenly
+worried."	
+Message	Tohka	"Hm. That's not good. Your condition must have
+worsened."	
+Message	Shido	"What, are you serious?! It's clearly not a symptom
+of a cold!"	
+Message	Tohka	"Heh... The cold is making you say such nonsense,
+Shido-kun. I said so, so it must be true. Besides,
+I am the nurse! And I have glasses on!"	
+Message	Shido	I don't think the glasses do anything...	
+Message	Tohka	It's fine, just stay put. Got it?	
+Message	Shido	...O-Okay.	
+Message	None	(Tohka-sensei put her hand on my forehead.)	
+Message	Shido	Oh...	
+Message	None	"(Her cool hand and how close she was made my heart
+pound.)"	
+Message	Tohka	Hm... You do seem to have a fever.	
+Message	Shido	"Oh... I knew it. And my head hurts, I have a runny
+nose... *a-choo*!... And I'm sneezing."	
+Message	Tohka	I see. This is pretty bad.	
+Message	Shido	It is?!	
+Message	Tohka	"Yes, it is. We need to have you treated
+this instant."	
+Message	Shido	"Th-Then... Um, if I can take some meds and just
+lie down..."	
+Message	Tohka	"Now, wait. First, I must examine you. You sit
+there, Shido-kun."	
+Message	Shido	*Sigh*... Okay.	
+Message	Tohka	"Hmmm... Your complexion seems a bit flushed. Now
+open your mouth."	
+Message	Shido	Okay... Ahhh....	
+Message	Tohka	"Hm... Okay... It doesn't look like you have any
+cavities."	
+Message	Shido	"Why are you looking for cavities?! You should be
+checking for a swollen throat!"	
+Message	Tohka	"Oh, really?! Yes, you're right. Okay. It doesn't
+seem swollen."	
+Message	None	"(...Is she really a capable teacher? I've only
+seen reasons to worry thus far...)"	
+Message	Tohka	"Next, we're going to take your temperature!
+Judging from one's hand isn't enough!"	
+Message	Shido	Okay. Then... can I get a thermometer...	
+Message	Shido	Wait, Tohka-sensei?!	
+Message	None	(*Thunk*... She put her forehead on mine.)	
+Message	Shido	S-So close...!	
+Message	None	"(Tohka-sensei's porcelain cheeks and plump lips
+are right in front of me...!)"	
+Message	Tohka	"Stay still, Shido-kun. This is the best way to
+take your temperature."	
+Message	Shido	Th-There's no way...	
+Message	Tohka	Hm. 99 degrees.	
+Message	Shido	Is that accurate?!	
+Message	Tohka	"My forehead has the ability to measure accurate
+temperatures. Because I am the nurse!"	
+Message	Shido	I've never heard of a nurse having those abilities!	
+Message	Tohka	Okay... Next, show me your stomach, Shido-kun.	
+Message	Shido	She's not even listening... Okay, fine.	
+Message	None	"(I've talked so much, I feel like my condition's
+getting worse...)"	
+Message	None	"(I lifted my shirt, and Tohka-sensei put her
+stethoscope on my chest―)"	
+Message	Shido	...Ah!	
+Message	Tohka	Hmm, hmm. Uh-huh...	
+Message	Shido	"Um, excuse me?! Where are you putting that
+stethoscope?! I totally made a weird noise
+just now."	
+Message	Tohka	"D-Don't worry. I-I am a teacher. Of course I can
+handle seeing your bare body! I'm not nervous
+at all!"	
+Message	Shido	"Wait, you're totally looking in the other
+direction! You have to check me thoroughly!"	
+Message	Tohka	"S-So you want me to... look? If you say so,
+Shido-kun... I will cooperate and look at all
+the areas you find embarrassing...!"	
+Message	Shido	"Wait, you're making me sound like I'm requesting
+something weird!"	
+Message	Shido	"I...It's fine, sensei. Please, just give me some
+meds and I'll sleep it off."	
+Message	Shido	*A-choo*!	
+Message	Tohka	"...! I knew it. You're in grave condition,
+Shido-kun... Don't worry! I can treat you!"	
+Message	Shido	"No, like I said, it's just a cold... Um,
+Tohka-sensei? Why are you taking
+gauze out of the cabinet?"	
+Message	Tohka	"When things are as grave as this, it's natural to
+use gauze! This is how I will treat you,
+Shido-kun!"	
+Message	Shido	But, it's pointless to use that on a cold!	
+Message	Tohka	You'll be all right now. Leave it to me.	
+Message	Tohka	"So I do this... and then this... huh? How odd...?
+No, if I do this here... Hm? ARGH! HERE!"	
+Message	Shido	W-Wait... Sensei...!	
+Message	Tohka	Hm...? Hmmm, what's going on...	
+Message	Shido	H-Hey! What are you doing?!	
+Message	Tohka	"I-It's fine. I'll take this hand and... hm, that's
+weird. But this time this is... Aww... mmm. AHHH!"	
+Message	Tohka	"Then I'll use this...! Mm... Ah... mmm... Hmm...
+Th-This is odd..."	
+Message	Shido	S-Sensei, let me help you.	
+Message	Tohka	"I-It's fine! I'm the teacher... Mm... kuu... Mm.
+Shido-kun... Y-You... just watch... there..."	
+Choice		Just watch without helping.	
+Choice		Help Tohka.	
+Message	Shido	O-Okay... Whatever you say.	
+Message	Tohka	"Mm... Th-That's it... There―Mmph! Y-You watch!
+I-I'll undo it right now... Ah!"	
+Message	None	(Wh-Why is she making those sounds...)	
+Message	Tohka	"Sh-Shido kun, you... just... watch...
+there... Ooh."	
+Message	Shido	"Um, sensei... I feel like I'm about to see a lot
+of things I shouldn't..."	
+Message	Tohka	Hm...?!	
+Message	Tohka	D-Don't look! Don't look, Shido-kun!	
+Message	Shido	O-Okay!	
+Message	None	(I hastily turned my back toward her.)	
+Message	Tohka	"Hu... *grunt*... I-If I can take this off... Ah!
+No! This time, this side is... hyah! Oof!"	
+Message	Tohka	"I-It's digging in... A...ha...a...a! I-I can't...
+this isn't... Nooo!"	
+Message	None	"(Gosh... Not being able to see what's going on
+makes it sound even worse...!)"	
+Message	Tohka	"Mm...! ...F...nn...NNNN! AH! M...mmmmm...!
+*pant, pant*..."	
+Message	None	(...)	
+Message	Tohka	"Oh... Ya...! No! This is... m...mmm...
+*pant, pant*...!"	
+Message	None	(...)	
+Message	Tohka	"...Mua...m...ah...ha...mmm! ...*pant*...
+Sh-Shido...kun."	
+Message	Shido	...Yes?	
+Message	Tohka	H...Help me, please...	
+Message	None	(I knew she'd say that...)	
+Message	Tohka	"...Th-That's right. Right there... more... mm!
+Ah... *pant*... Yes... th-there...!"	
+Message	Tohka	No... More... gently... please.	
+Message	Tohka	*Pant*... Mm... A-Aaaaah...	
+Message	Shido	This is the last one...!	
+Message	Tohka	Ah... Ha... Mmm!	
+Message	Shido	"Seriously, this is impossible for you to get out
+of alone. I'll help!"	
+Message	Tohka	Aww... B-But, I'm the teacher...	
+Message	None	"(Tohka-sensei moved her body about for a moment
+before promptly giving up...)"	
+Message	Tohka	"...I don't think I can get out on my own...
+Shido-kun, please help me..."	
+Message	Shido	"If you're that tangled up, of course you can't.
+Let me help you now."	
+Message	Shido	"Um... where should we start...
+...Oh."	
+Message	Tohka	"What's the matter, Shido-kun? You must hurry and
+get me out of this."	
+Message	Shido	"Um... well... I feel like I might see a lot of
+inappropriate things..."	
+Message	Tohka	"Hm...?
+...
+...!"	
+Message	Tohka	D-Don't look, Shido-kun!	
+Message	Shido	B-But... I need to see, or I can't help you...	
+Message	Tohka	"*Whimper*... Th-Then... Try not to look so much
+while you help me."	
+Message	Shido	I-I'll... try.	
+Message	None	"(That's going to be super difficult. But I can't
+just stare at her like this.)"	
+Message	None	"(I tried my best to not look at her as I reached
+out toward the gauze.)"	
+Message	Tohka	"Haah! N-Not there... If you pull on that, it won't
+be good... a-ahhh!"	
+Message	Shido	S-S-S-Sorry! Then, how about here?	
+Message	Tohka	"Ahh! Sh-Shido-kun... It's rubbing up against me...
+It's no good...!"	
+Message	Shido	Th-Then, here...?!	
+Message	Tohka	Yahh! *pant*...	
+Message	Shido	Then, here...!	
+Message	Tohka	"Ah...mmm... You can't do so much there.
+Th-That tickles...?!"	
+Message	None	"(*Whimper* I'm looking away, so I don't really
+know what I'm doing. But I know for sure it's
+inappropriate!)"	
+Message	Shido	Th-Then, how about this...!	
+Message	Tohka	"Hah... ha...ah...mmm! Mmm...*pant*!
+Ah, ahhh... haaah!"	
+Message	Shido	Argh! How about this?!	
+Message	Tohka	Hey... Don't pull so hard... Nooo!	
+Message	Shido	U...Uggh!	
+Message	Shido	Somehow... I managed to do it...!	
+Message	Tohka	Yeah... Um... Shido-kun. Th-Thank... you...	
+Message	Shido	No... I'm sorry about that.	
+Message	Tohka	"N-No... It's fine. I-I'm the one... who should
+be... apologizing."	
+Message	Shido	Well... um... fa...	
+Message	Tohka	...Fa?	
+Message	Shido	...Fa...*FACHOOO*!	
+Message	Tohka	Shido-kun?!	
+Message	Shido	Aww... M-My head... hurts...	
+Message	None	"(That's right. I have a cold. Moving so much
+is only going to aggravate it.)"	
+Message	Shido	C-Crap... I'm feeling cold...	
+Message	Tohka	"Shido-kun...?! We can't help it... We'll have to
+go into surgery!"	
+Message	Shido	We can't do that! Give me some meds! MEDS, please!	
+Message	Tohka	"B-But... It got worse because of me. I feel like
+it's not enough to just give you some medication."	
+Message	Shido	"No, giving me the medication and letting me
+sleep... is something I'd appreciate the most...
+P-Please..."	
+Message	Tohka	Hmm... F-Fine...	
+Message	Shido	F-Finally... I can rest...	
+Message	None	"(That was horrible... I lay down on the bed and
+closed my eyes.)"	
+Message	None	"(Next to the bed, Tohka-sensei sat and watched
+over me. I closed my eyes and felt like I could
+still see her expression.)"	
+Message	Tohka	"Hurry up and get better, Shido-kun. I'll watch
+over you."	
+Message	None	(Haha... Tohka... is Tohka no matter what―.)	

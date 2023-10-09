@@ -1,0 +1,17 @@
+﻿Operator	Comment	Key	Translation
+Message	None	"(Phew. Still seems pretty early. That monument
+Kotori mentioned... I'm curious.)"	
+Message	None	"(Phew. Still seems pretty early. That monument
+Kotori mentioned... I'm curious.)"	
+Message	None	(It's a little far, but maybe I could drop by.)	
+Message	None	"(Or so Kotori says, but that doesn't pique
+my curiosity.)"	
+Message	None	(HMM! I feel like I can't let it go!)	
+Message	None	"(Maybe I should check on it again and
+investigate.)"	
+Choice		Take Tohka.	
+Choice		Take Yoshino.	
+Choice		Go with Kotori.	
+Choice		Go with Origami.	
+Choice		Go alone.	
+Choice		Take Tohka.	

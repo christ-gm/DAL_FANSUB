@@ -1,0 +1,217 @@
+﻿Operator	Comment	Key	Translation
+Message	Shido	"I see. Karaoke, huh? Didn't expect this.
+You like karaoke, Maria?"	
+Message	Maria	"I also wished to try singing together with
+you, Shido."	
+Message	None	"(Hm? What does she mean by "also"? Does
+she mean like regular students?)"	
+Message	Maria	Now then, Shido. Let us try singing.	
+Message	Shido	Right. Um...	
+Message	None	(Maria wasn't browsing though the songlist...)	
+Message	Shido	"Maria, just to confirm, you know what to do
+at karaoke, right?"	
+Message	Maria	"Of course. You choose a song with this small
+device. When it travels to the main device,
+your selection will play."	
+Message	Shido	"Oh, so you do know. Then, if you have a song
+in mind, you're free to input it."	
+Message	Maria	"I have records of songs you've sung previously
+with your friends, but choosing one myself
+is rather difficult."	
+Message	Shido	"Songs I've sung previously? But this is our
+first time together at karaoke, isn't it, Maria?"	
+Message	Maria	"Ah... Um, yes. Um...
+I meant from past data."	
+Message	Shido	Ohh, I see.	
+Message	None	"(Now that she mentions it, we are inside
+of a game created by Ratatoskr. Guess it's
+not weird that she'd know that.)"	
+Message	Shido	So, what next?	
+Message	Maria	"May I... leave it to you? I request a song
+that a regular girl would sing."	
+Message	Shido	"Um, how about... This new one? Or maybe
+a famous pop song."	
+Message	Maria	"Would it be okay for you to choose the
+specific song?"	
+Message	Shido	I see. Then, I'll pick a good one.	
+Message	None	"(Not that I'm knowledgeable of what songs
+are good. I'll flip through the catalogue.)"	
+Choice		Pick a mellow ballad.	
+Choice		Pick a cheery pop song.	
+Message	Shido	For now, how's this?	
+Message	Maria	"Light of the Snow, is it? This title...
+I see. A slow tempo ballad, yes?"	
+Message	Shido	"Right. It's a slow song, so I thought it might
+be easier to sing."	
+Message	Maria	"There is no problem. I have heard this song
+before.
+"	
+Message	Maria	But, um, is it a problem for you, Shido?	
+Message	Shido	What do you mean? I don't have any problem...	
+Message	Maria	"I see. If you have no problem, then neither
+do I."	
+Message	Shido	"I don't really understand, but if you're ready,
+let's play this song. Okay, I'll press it."	
+Message	None	"(After I made the selection, the intro began
+playing immediately.)"	
+Message	Maria	Then Shido, for a brief moment, pardon me.	
+Message	Shido	Huh? Wha, Maria...?!	
+Message	Maria	Could it be that I am too heavy?	
+Message	Shido	"No. You're not heavy at all. I'm just surprised.
+But, what's wrong, Maria?"	
+Message	Maria	"This is a love song, so I thought this to be
+appropriate. When couples sing, my records
+indicate it is best to sit very close together."	
+Message	Shido	"Err. Well, Maria... That's what regular couples
+do, and..."	
+Message	Maria	Could it be, Shido, that you do not like this?	
+Message	Shido	No, I don't mind. I don't mind at all.	
+Message	Maria	"I see. How very reassuring. Oh, the song is
+about to begin."	
+Message	None	"(Was I pushed into this situation? Maria doesn't
+seem to be giving much into her singing, but I
+can't tell from the side of her face.)"	
+Message	Maria	――♪	
+Message	Maria	"Um, I am not accustomed to singing, so was
+I singing out of key?"	
+Message	Shido	No, not at all.	
+Message	None	"(Surprisingly, though she's not had much
+experience, she sings quite well. Though I
+think she could've used more spirit.)"	
+Message	None	"(But it wasn't like she was emotionless.
+Each word shot through my heart, just from
+me sitting next to her.)"	
+Message	Maria	Next is your turn, Shido.	
+Message	Shido	R-Right!	
+Message	Shido	"Whew, it's finally over. It felt both brief
+and like an eternity, all at once."	
+Message	Maria	"You were quite enthusiastic. You seemed to
+sweat a bit. Are you all right?"	
+Message	Shido	Yeah, it's nothing! Really!	
+Message	Maria	I hope that is the case.	
+Message	Shido	"Then, I think a pop song is the best choice.
+The words are easy to understand, making
+them easy to sing."	
+Message	None	"(Looking at the title of the song I chose,
+Maria nodded in agreement.)"	
+Message	Maria	It is fine. I believe I can sing this song.	
+Message	Shido	"Okay. I'll put in a couple similar ones too,
+so think of it as practice."	
+Message	None	(Then, the intro began to play...)	
+Message	Shido	Whew...	
+Message	None	"(We sang a few songs, but Maria doesn't
+seem satisfied. Her expression hasn't changed
+in a while.)"	
+Message	Shido	Hey, Maria. Are you not having fun?	
+Message	Maria	No, that is incorrect. This is very fun.	
+Message	Shido	"Is it? You've had this troubled look on your
+face for a while now."	
+Message	Maria	To be honest, I was deep in thought.	
+Message	Shido	"Hm, I figured. If you'd like, we can talk
+about it?"	
+Message	Maria	"Our conversation would pertain to what I am
+thinking... yes?"	
+Message	Shido	"Yeah. We're on a date after all. I want you to
+have fun if at all possible, Maria. If something
+is bothering you, it'd help if you told me."	
+Message	Maria	"...I understand. Shido, would this be called a
+date?"	
+Message	Shido	Huh? It is a date... I think.	
+Message	Maria	"Factually, it is. But to me, it does not quite
+feel like a date."	
+Message	Shido	"Hm. I don't think you need to worry too much
+about that, you know? If you just let loose,
+then..."	
+Message	Maria	"No. I was wondering if the reason it does
+not feel like a date lies with me. I kept on
+asking myself... why that might be."	
+Message	Shido	But karaoke was fun, wasn't it?	
+Message	Maria	Yes. Very much so.	
+Message	Shido	"Then focus on that. Instead of worrying about
+stuff, it's better to sit back and enjoy the
+moment."	
+Message	Maria	I see... Okay.	
+Message	None	"(It seems like Maria isn't fully convinced.
+If it bothers her, I should probably do
+something about it.)"	
+Message	Shido	We could do something like a couple...	
+Message	Maria	Shido, I have a suggestion... Is that all right?	
+Message	Shido	Yeah. Let's hear it.	
+Message	Maria	"What if we held hands while we sing? If we
+did that, it could feel more like a date... As if
+we were a couple?"	
+Message	Shido	Got it. Let's try.	
+Message	Maria	"Yes. My records indicate that, when holding
+hands while singing, you can pull your
+partner's heart closer to you... so they say."	
+Message	Shido	"Th-That seems a little specific, but I don't
+know if that's true or not..."	
+Message	Maria	You do, Shido.	
+Message	Shido	...I do? You seem pretty certain, huh?	
+Message	Maria	Yes. There should be no mistake.	
+Message	Shido	Well, if you insist, Maria... Let's try it.	
+Message	Maria	Yes. Let us do so, Shido.	
+Message	None	(For now, I requested another song.)	
+Message	Shido	Um, so I should hold your hand, right?	
+Message	Maria	Er, ah...!	
+Message	Shido	Hm, Maria?	
+Message	Maria	"I apologize. It was so sudden, I surprised
+myself. Um. If the song has begun, I am ready."	
+Message	Shido	I-I see. Sorry for touching you so suddenly.	
+Message	Maria	No. It is fine.	
+Message	Shido	"Oh, there's the title. It's going to connect.
+Are you ready?"	
+Message	Maria	Yes... Please go ahead.	
+Message	None	"(Maria's hand was gentle and soft. It was
+also kinda warm. Might be my imagination,
+but her face seems more flushed than before.)"	
+Message	Maria	Um, Shido... You keep looking at me, why?	
+Message	Shido	Ack! S-Sorry!	
+Message	None	"(Maria's outfit was pretty, so I couldn't help
+from sneaking a peek.)"	
+Message	None	"(It's true. I shouldn't be ogling a girl...
+Concentrate, concentrate on the song...)"	
+Message	Maria	It is over.	
+Message	Shido	Yeah, how was it?	
+Message	Maria	"Like your warmth has transferred to me, Shido.
+I believe this was a couple-like activity."	
+Message	Shido	"If you're satisfied, Maria, then I'm glad.
+Should we keep going to the next song?"	
+Message	Maria	Er, well...	
+Message	Shido	"Er, ah. I guess not. Time's almost up, so let's
+head home. I'll gather our belongin—"	
+Message	Maria	That is no good, either.	
+Message	Shido	Huh? Um, Maria?	
+Message	None	"(What am I supposed to do in situations
+like these? Let go of her hand? Or should
+I keep holding onto it?)"	
+Message	Maria	Would you... like to go home like this?	
+Message	Shido	Like this?	
+Message	Maria	"While still holding hands, I mean. Let us
+continue our couple-like date until the end."	
+Message	Shido	Right... You're right.	
+Message	None	"(Maria's smile was sunny, and I answered
+hastily, trying to repress how quickly my
+heart was beating.)"	
+Message	Maria	"Today was enjoyable. Going shopping with the
+group, eating sweets, and going to karaoke
+with you, Shido..."	
+Message	Maria	These are truly memories to cherish.	
+Message	Shido	I see. Glad to hear it.	
+Message	Maria	"I dearly enjoy spending time with you and
+everyone else. I have been tending to this
+thought often."	
+Message	Shido	I'm happy for you, Maria.	
+Message	Maria	You are?	
+Message	Shido	"People naturally want to spend time with
+others. I think it means you're getting closer
+to love, Maria."	
+Message	Maria	"I am getting closer to love. Is this because
+I have changed?"	
+Message	Maria	"You are surely the person who brought\ncolor to my world."	
+Message	Shido	Huh, Maria?! That's...	
+Message	Maria	"A line from the song we sang. I am beginning
+to change now, thanks to you and the others.
+I sincerely believe it."	
+Message	Shido	Nice. If you think so Maria, then it's true.	
+Message	Maria	Yes.	
