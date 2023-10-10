@@ -1,6 +1,16 @@
 # Importar Librerias
 import deepl
 import pandas as pd
+import os
+
+def explorar(basedir, lista):
+    with os.scandir(basedir) as it:
+        for entry in it:
+            if (entry.is_dir()):
+                explorar(entry, lista)
+            else:
+                lista.append(entry.name)
+    return lista
 
 def Traducir(archivo):
     df = pd.read_csv(archivo, delimiter="\t")
@@ -21,3 +31,6 @@ def Traducir(archivo):
     for i in range(0,len(Dialogos_Traducidos)):
         df.iloc[i,3] = str(Dialogos_Traducidos[i])
     return df
+
+def exportar(df ,ruta):
+    df.to_csv(ruta, sep="\t", index=False)
