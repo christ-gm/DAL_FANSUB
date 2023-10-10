@@ -18,7 +18,7 @@ def Traducir(archivo):
     Dialogos = df['Key']
     #Traducir Dialogos con Deepl
     #!!!!!NO TOCAR!!!!!!
-    auth_key = "894818a4-a49a-6b8c-e1c6-8ccd29cbf5b3:fx"
+    auth_key = "Inserta_tu_token_de_deepl"
     translator = deepl.Translator(auth_key)
     # Obtener lista con los dialogos
     Dialogos_Traducidos = []
