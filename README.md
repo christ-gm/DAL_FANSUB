@@ -17,4 +17,7 @@ Sin su valiosa ayuda, este proyecto no sería una realidad.
 
 - [Repositorio original de DALTools](https://github.com/thesupersonic16/DALTools)
 
+## Anexo
+Debemos aclarar que solo somos 2 personas actualmente trabajando en este proyecto y sacarlo adelante durante nuestro tiempo libre, asi que pedimos su paciencia.
+
 ¡Gracias por tu interés en nuestro proyecto! Esperamos que este parche en español haga que "Date A Live: Rio Reincarnation" sea más accesible y disfrutable para la comunidad de habla hispana.
