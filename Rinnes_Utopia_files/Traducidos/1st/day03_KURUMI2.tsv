@@ -1,0 +1,88 @@
+Operator	Comment	Key	Translation
+Message	Shido	The Neo Tengu Tower is almost complete.	La Torre Neo Tengu está casi terminada.
+Message	Shido	"Man, it sure looks grand. Who would've
+ever thought such a nice building would be
+built in Tengu City?"	Vaya, parece grandioso. ¿Quién hubiera pensado que se construiría un edificio tan bonito en Ciudad Tengu?
+Message	Shido	"It's so tall that you could spot it anywhere
+in town. Truly the icon of Tengu City."	Es tan alto que se puede ver en cualquier parte de la ciudad. Verdaderamente el icono de Ciudad Tengu.
+Message	Shido	Hm...?	¿Hm...?
+Message	Kurumi	Oh...?	Oh...
+Message	Shido	Kurumi...?	¿Kurumi...?
+Message	Kurumi	What a pleasant coincidence, Shido-san.	Qué agradable coincidencia, Shido-san.
+Message	Shido	...You're like a phantom.	...Eres como un fantasma.
+Message	Kurumi	Did you come to look at Neo Tengu Tower?	¿Has venido a ver la Torre Neo Tengu?
+Message	Shido	"Y-Yeah, kinda. How about you? Did you come
+to check out the new hotspot?"	Sí, más o menos. ¿Qué hay de ti? ¿Has venido a ver el nuevo hotspot?
+Message	Kurumi	"Yes, well... I was rather curious about
+something."	Sí, bueno... Tenía curiosidad por algo.
+Message	Shido	"Curious...? Wait, don't tell me you're some
+kind of industrial spy."	¿Curioso...? Espera, no me digas que eres una especie de espía industrial.
+Message	Kurumi	Hehehe. Of course not.	Jejeje. Por supuesto que no.
+Message	Shido	"R-Right, thought so. I guess you wouldn't
+do that."	Correcto, eso pensé. Supongo que no lo harías.
+Message	Kurumi	Anyways Shido-san, I want to ask you something.	De todos modos Shido-san, quiero preguntarte algo.
+Message	Shido	Hm? What is it?	¿Qué? ¿Qué es esto?
+Message	Kurumi	What do you think... about Neo Tengu Tower?	¿Qué opinas... de la Torre Neo Tengu?
+Message	Shido	"Neo Tengu Tower, huh...? Hm. Everyone's
+buzzing in town and at school about how
+it's going to be the hottest tourist spot."	Torre Neo Tengu, ¿eh...? Hm. Todo el mundo está hablando en la ciudad y en la escuela acerca de cómo va a ser el punto turístico más caliente.
+Message	Shido	"Well. I'm sure it'll become the new symbol
+of Tengu City, so I don't blame them, but..."	Bueno... Estoy seguro de que se convertirá en el nuevo símbolo de Ciudad Tengu, así que no les culpo, pero...
+Message	Kurumi	But... what?	Pero... ¿qué?
+Message	Shido	Well, um...	Bueno...
+Message		"(Why does my heart feel funny? Almost gross.
+Like, strangely uncomfortable.)"	(¿Por qué mi corazón se siente raro? Casi asqueroso. Como, extrañamente incómodo).
+Message	Kurumi	You don't have to panic. I won't rush you.	No tienes que entrar en pánico. No te meteré prisa.
+Message	Shido	Um...	Um...
+Message		"(But can I even say it...? It's troubling.
+I just don't know how to explain it.)"	(¿Pero puedo siquiera decirlo...? Es preocupante.  No sé cómo explicarlo).
+Message	Kotori	Shido, you can't just gift her information.	Shido, no puedes regalarle información.
+Message	Shido	K-Kotori...?	¿K-Kotori...?
+Message	Kotori	Kurumi is a wild card. Be careful. She might\npull something in Neo Tengu Tower. If we mess\nup, it might involve people like last time.	Kurumi es un comodín. Tened cuidado. Ella podría hacer algo en la Torre Neo Tengu. Si nos equivocamos, podría involucrar a gente como la última vez.
+Message	Shido	...?!	¡...?!
+Message	Kotori	I'm sure it's no coincidence that Kurumi\nshowed up. There has to be a reason.	Estoy seguro de que no es coincidencia que Kurumi apareciera. Tiene que haber una razón.
+Message	Shido	Then, what do you suggest I do?	Entonces, ¿qué sugieres que haga?
+Message	Kotori	Beats me. Just watch what you say in front\nof her, got it?	Ni idea. Sólo ten cuidado con lo que dices delante de ella, ¿entendido?
+Message	Shido	Okay, got it.	Vale, entendido.
+Message	Kurumi	...	...
+Message	Shido	W-Well...	Bueno...
+Choice		I think this will be Tengu City's pride and joy.	Creo que esto será el orgullo de Ciudad Tengu.
+Choice		Something's off.	Algo está mal.
+Message	Shido	"I really think this'll be the pride and joy of
+Tengu City. Having such a symbolic landmark
+built... is pretty mesmerizing."	Realmente creo que esto será el orgullo de Ciudad Tengu. Construir un hito tan simbólico... es bastante fascinante.
+Message	Kurumi	...I see.	...ya veo.
+Message	Shido	Sorry. That wasn't too fun of an answer.	Lo siento. No ha sido una respuesta muy divertida.
+Message	Kurumi	"No. As a person who lives here, it's only
+natural for you to be excited about it."	No. Como persona que vive aquí, es natural que te entusiasme.
+Message	Shido	Y-Yeah.	Sí.
+Message	Kurumi	Thank you for your time. I must be going now.	Gracias por su tiempo. Ahora debo irme.
+Message	Shido	Oh, Kurumi...	Oh, Kurumi...
+Message	Kurumi	Good day...	Buenos días...
+Message	Shido	What was that all about?	¿Qué fue todo eso?
+Message	Kotori	No clue. Let's just say nothing happened.	Ni idea. Digamos que no pasó nada.
+Message	Shido	Sure, I guess...	Claro, supongo...
+Message	Shido	It's hard to explain, but something feels off.	Es difícil de explicar, pero hay algo que no encaja.
+Message	Kurumi	"My, off you say? What ever could you be
+feeling?"	¿Qué dices? ¿Qué puedes estar sintiendo?
+Message	Shido	"It's hard to explain, but something about
+it looks out of place in this town. As if it
+doesn't really belong."	Es difícil de explicar, pero hay algo que parece fuera de lugar en esta ciudad. Como si realmente no perteneciera.
+Message	Kurumi	I see. What an intriguing perspective.	Ya veo. Qué perspectiva tan intrigante.
+Message	Shido	"I don't know if I'm making sense, but
+it came out of nowhere."	No sé si lo que digo tiene sentido, pero salió de la nada.
+Message	Shido	Maybe I'm just not used to it yet.	A lo mejor es que aún no me he acostumbrado.
+Message	Kurumi	I think that's fine.	Me parece bien.
+Message	Shido	Huh...?	¿Eh...?
+Message	Kurumi	Shido-san, don't forget that feeling.	Shido-san, no olvides ese sentimiento.
+Message	Shido	What do you mean?	¿A qué te refieres?
+Message	Kurumi	"Who knows? I pray the answer comes to you
+on its own."	¿Quién sabe? Rezo para que la respuesta te llegue por sí sola.
+Message	Shido	Huh...?	¿Eh...?
+Message	Kurumi	Well, I'll be off now. Good day, Shido-san.	Bueno, ya me voy. Buenos días, Shido-san.
+Message	Shido	Kurumi...	Kurumi...
+Message	Kotori	Hey, Shido. What are you doing?	Eh, Shido. ¿Qué haces?
+Message	Shido	"S-Sorry. I just can't shake the feeling that
+something's off."	Lo siento. No puedo quitarme la sensación de que algo está mal.
+Message	Kotori	I see. If that's how you feel, Shido, then\nit must be true, but that's for you to decide.	Ya veo. Si eso es lo que sientes, Shido, entonces debe ser verdad, pero eso lo decides tú.
+Message	Shido	Aw.	Aw.

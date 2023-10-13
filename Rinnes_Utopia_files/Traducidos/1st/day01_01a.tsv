@@ -1,0 +1,657 @@
+Operator	Comment	Key	Translation
+Message		"(...How strange. How can the memory of a
+world long passed still exist...?)"	(...Qué extraño. ¿Cómo puede seguir existiendo el recuerdo de un mundo que pasó hace tiempo?)
+Message		(Did something happen to Eden...?)	(¿Le pasó algo a Edén...?)
+Message		"(Was the reset incomplete? Or were all of
+the resets finally too much to handle...?)"	(¿El reinicio fue incompleto? ¿O todos los reinicios fueron finalmente demasiado para manejar...?)
+Message		"(There's a chance that this might cause an
+issue with managing Eden...)"	(Existe la posibilidad de que esto cause un problema con la gestión de Eden...)
+Message		(No, that can't happen. It mustn't...)	(No, eso no puede pasar. No debe...)
+Message	Rinne	...do... Shido...	...do... Shido...
+Message		(Huh...?)	(¿Eh...?)
+Message	Rinne	"...rry up and wake...p...
+You...unning out of...ime..."	...rry up and wake...p... Te...desvelas...fuera de...tiempo...
+Message	Shido	Mm... Mmmm.	Mm... Mmmm.
+Message	Rinne	Hehe... You awake?	Hehe... ¿Estás despierto?
+Message	Shido	Mm, Rinne... Morning.	Mm, Rinne... Buenos días.
+Message	Rinne	Yeah... Morning, Shido.	Sí... Buenos días, Shido.
+Message	Shido	Hm? You seem down.	¿Qué? Pareces deprimido.
+Message	Rinne	"Not at all! You're one to talk, Shido.
+You were groaning in your sleep.
+How are you feeling? Can you get up?"	¡En absoluto! Eres de los que hablan, Shido. Gemías mientras dormías. ¿Cómo te sientes? ¿Puedes levantarte?
+Message	Shido	Huh? Oh, I'm totally fine! I'll get up now.	¿Eh? ¡Oh, estoy totalmente bien! Me levantaré ahora.
+Message	Rinne	"Good. I've made breakfast, so come down
+after you change, okay?"	Bien. He hecho el desayuno, así que baja después de cambiarte, ¿vale?
+Message	Shido	Rinne...	Rinne...
+Message	Rinne	Huh?	¿Eh?
+Message	Shido	"Oh... Nothing. Just thinking about how
+amazing you are..."	Oh... Nada. Sólo pensaba en lo increíble que eres...
+Message	Rinne	Hehe... You finally up?	Hehe... ¿Por fin te has levantado?
+Message	Shido	Mm, oh... Rinne. Morning...	Mm, oh... Rinne. Buenos días...
+Message	Rinne	Good morning, Shido. Another beautiful day.	Buenos días, Shido. Otro hermoso día.
+Message	Shido	Yeah. Seems like it.	Sí. Eso parece.
+Message	Rinne	"You were tossing and turning all night.
+You okay? Think you can get up?"	Estuviste dando vueltas en la cama toda la noche. ¿Estás bien? ¿Crees que podrás levantarte?
+Message	Shido	Yeah. I'm fine... I'll get up.	Sí. Estoy bien... Me levantaré.
+Message	Rinne	"Good. I've made breakfast, so come down
+after you get changed, okay?"	Bien. He hecho el desayuno, así que baja después de cambiarte, ¿vale?
+Message	Shido	Rinne... You're really one-in-a-million.	Rinne... Eres realmente uno en un millón.
+Message	Rinne	"Hehe. Thanks. Be careful, though. Someone
+might think you're trying to flirt with me."	Jeje. Gracias. Ten cuidado, sin embargo. Alguien podría pensar que estás tratando de coquetear conmigo.
+Message	Shido	"No, I'm serious. I wish that... I could be
+like you."	No, hablo en serio. Desearía que... pudiera ser como tú.
+Message	Rinne	I'm flattered, but the praise is undeserved.	Me siento halagado, pero los elogios son inmerecidos.
+Message	Rinne	"Besides, you shouldn't want to be anyone
+else. Just focus on being yourself."	Además, no deberías querer ser nadie más. Céntrate en ser tú mismo.
+Message	Shido	Mm, but I'm as average as can be...	Mm, pero soy lo más normal posible...
+Message	Rinne	"Not at all. I can think of plenty likeable
+things about you."	En absoluto. Puedo pensar en muchas cosas agradables sobre ti.
+Message	Shido	Huh?	¿Eh?
+Message	Rinne	"?! Oh, um... I was just talking to myself...
+Nothing to see here."	¡?! Oh, um... Estaba hablando solo... No hay nada que ver aquí.
+Message	Shido	Uh... Okay?	Uh... ¿Vale?
+Message	Rinne	...	...
+Message	Shido	...Rinne?	...¿Rinne?
+Message	Rinne	"H-Hey, if we talk too much, you'll be late.
+Shido, hurry up and get ready!"	H-Hey, si hablamos demasiado, llegarás tarde. ¡Shido, date prisa y prepárate!
+Message	Rinne	"?! Oh, um... I was just talking to myself...
+Yeah."	¡?! Oh, um... Estaba hablando solo... Sí.
+Message	Shido	Uh... Okay?	Uh... ¿Vale?
+Message	Rinne	"H-Hey, if we talk too much, you'll be late.
+Shido, hurry up and get ready!"	H-Hey, si hablamos demasiado, llegarás tarde. ¡Shido, date prisa y prepárate!
+Message	Shido	"Oh yeah, huh? Guess I'll get dressed
+right away then."	Ah, sí, ¿eh? Supongo que me vestiré de inmediato entonces.
+Message	Rinne	"Aah! Hey Shido! Don't start stripping down!
+I'm still here!"	¡Aah! ¡Hey Shido! ¡No empieces a desnudarte! ¡Aún estoy aquí!
+Message	Shido	Oh... R-Right. Sorry Rinne!	Oh... Correcto. ¡Lo siento Rinne!
+Message	Rinne	"I-It's okay. Just make it quick, okay? I'll go
+on ahead!"	Está bien. Sólo hazlo rápido, ¿de acuerdo? ¡Me adelantaré!
+Message	Shido	H-Hey, Rinne!	¡H-Hey, Rinne!
+Message	Shido	"...Rinne sure is acting weird.
+Or am I imagining things?"	...Rinne está actuando raro. ¿O me estoy imaginando cosas?
+Message		"(Crap, I did it again...
+I guess old habits die hard.)"	(Mierda, lo he vuelto a hacer... Supongo que los viejos hábitos son difíciles de erradicar).
+Message		"(Well, anyways... I'd better hurry up and get
+dressed.)"	(Bueno, de todos modos... Será mejor que me dé prisa y me vista).
+Message	Tohka	"Shidoooo! How much longer do you plan on
+sleeping?!"	¡Shidoooo! ¡¿Cuánto tiempo más piensas dormir?!
+Message	Shido	T-Tohka?	¿T-Tohka?
+Message	Tohka	Oh!! Shido! Are you already awake?!	¡Oh! ¡Shido! ¡¿Ya estás despierto?!
+Message	Tohka	Grr...	Grr...
+Message	Shido	Why do you look so upset?	¿Por qué pareces tan disgustado?
+Message	Tohka	"It came to my attention that you enjoy
+being dropkicked awake!"	Me he enterado de que te gusta que te despierten a patadas.
+Message	Shido	WHAT?!	¡¿QUÉ?!
+Message		(Kotori, what have you been telling her?!)	(Kotori, ¡¿qué le has estado contando?!)
+Message	Tohka	Grr... Seems as though I was too late...	Grr... Parece que llegué demasiado tarde...
+Message	Shido	No, Tohka. You heard wrong.	No, Tohka. Has oído mal.
+Message	Tohka	Hm? How do you mean?	¿Cómo? ¿Qué quieres decir?
+Message	Shido	"Uh, you see... It's because I prefer to be woken
+up gently."	Verás... Es porque prefiero que me despierten suavemente.
+Message	Tohka	"Hm. Understood. Then I'll be sure to do so
+next time."	Hm. Entendido. Entonces me aseguraré de hacerlo la próxima vez.
+Message	Shido	Right.	Bien.
+Message	Yoshino	Shido-san... Good morning!	Shido-san... ¡Buenos días!
+Message	Yoshinon	Hey hey, Shido! You're up!	¡Eh, eh, Shido! ¡Arriba!
+Message	Shido	Oh. It's Yoshino and Yoshinon. Mornin'.	Oh. Son Yoshino y Yoshinon. Buenos días.
+Message	Yoshino	Y... Yes!	Y... ¡Sí!
+Message	Yoshinon	Heeeeey. Real sorry to see that happened to\nyou, Shido. If you slept for just a bit longer,\nYoshino might've been the one to wake you.	Heeeeey. Siento mucho lo que te ha pasado, Shido. Si hubieras dormido un poco más, Yoshino podría haber sido quien te despertara.
+Message	Yoshino	...	...
+Message	Shido	"R-Right. At least I'll have that to look forward
+to next time."	Correcto. Al menos tendré que esperar a la próxima vez.
+Message	Tohka	Mm...	Mm...
+Message	Shido	Hm? What's up, Tohka?	¿Eh? ¿Qué pasa, Tohka?
+Message	Tohka	Shido... I want you to tell me something.	Shido... Quiero que me digas algo.
+Message	Shido	What is it?	¿De qué se trata?
+Message	Tohka	"What exactly is a dropkick""? How does dropping come into play?"""	"¿Qué es exactamente una ""dropkick""? ¿Cómo entra en juego el ""dropkick""?"""
+Message	Shido	Huh?	¿Eh?
+Message	Shido	"Tohka... What were you planning to do if I
+had still been asleep...?"	Tohka... ¿Qué pensabas hacer si aún hubiera estado dormido...?
+Message	Tohka	Hm. Well, you see, there's the dilemma.	Hm. Bueno, verás, ahí está el dilema.
+Message	Shido	What do you mean?	¿A qué te refieres?
+Message	Tohka	"Well, I wasn't sure if I was supposed to suck
+on a gumdrop while kicking you, or if I was
+supposed to shove one in your mouth first."	Bueno, no estaba seguro de si debía chupar un chicle mientras te pateaba, o si debía meterte uno en la boca primero.
+Message	Shido	Uh... Well... Hm...	Uh... Bueno... Hm...
+Message	Tohka	"If you're so hesitant to answer... Is it because
+a real dropkick is far more dangerous?!"	Si tienes tantas dudas para responder... ¡¿Es porque un dropkick real es mucho más peligroso?!
+Message	Shido	"No, it's not like that. Uh, how do I put this?
+I think it's a different kind of danger than
+the one you're thinking of, Tohka."	No, no es así. ¿Cómo lo digo? Creo que es un tipo de peligro diferente al que estás pensando, Tohka.
+Message	Tohka	Hmm...? What do you mean?	¿Hmm...? ¿A qué te refieres?
+Message	Tohka	"*gasp*! Don't tell me they poisoned
+the gumdrop?!"	¡*gasp*! ¡¿No me digas que envenenaron a la gominola?!
+Message	Shido	"No... It's not like that either! Simply put, a
+dropkick is a two-footed kick delivered in
+mid-air."	No... ¡Tampoco es así! En pocas palabras, una dropkick es una patada con los dos pies en el aire.
+Message	Tohka	Hm... Is that so?	Hm... ¿Es así?
+Message	Shido	Yeah.	Sí.
+Message	Tohka	"I see. It makes sense that one would be easily
+awoken from that!"	Ya veo. ¡Tiene sentido que uno se despierte fácilmente de eso!
+Message	Shido	"Wait, that wasn't an invitation
+to do it, though!"	Espera, ¡eso no era una invitación a hacerlo!
+Message	Tohka	H-Huh...?	¿H-Huh...?
+Message	Shido	"Anyway, Tohka and Yoshino...
+I'm going to get dressed, so would you two mind
+going on ahead?"	En fin, Tohka y Yoshino... Voy a vestirme, ¿os importaría ir delante?
+Message	Tohka	Be quick about it, okay? Breakfast is prepared.	Date prisa, ¿vale? El desayuno está preparado.
+Message	Yoshino	...	...
+Message	Shido	Uh... Yoshino?	Uh... ¿Yoshino?
+Message	Yoshino	Y-Yes?!	¿Sí?
+Message	Shido	Would you mind joining her downstairs?	¿Te importaría acompañarla abajo?
+Message	Yoshino	...Okay.	...de acuerdo.
+Message	Yoshinon	Gosh, Shido. You're so shy.	Dios, Shido. Eres tan tímido.
+Message	Shido	"Finally, they're gone... When everyone's here,
+the mornings are pure chaos."	Finalmente, se han ido... Cuando todos están aquí, las mañanas son puro caos.
+Message		"(But there's some comfort to be found in
+this kind of chaos, I suppose.)"	(Pero se puede encontrar cierto consuelo en este tipo de caos, supongo).
+Message		"(Neatly laid out on the dining table was the
+breakfast Rinne had prepared.)"	(En la mesa del comedor estaba el desayuno que Rinne había preparado).
+Message		"(White rice, miso soup with tofu and green
+onion, fried fish, and an omelette. She even
+had natto, seaweed, and pickles as sides...)"	(Arroz blanco, sopa de miso con tofu y cebolla verde, pescado frito y una tortilla. Incluso tenía natto, algas y encurtidos como guarnición...).
+Message		"(All the makings of a traditional Japanese
+breakfast. I could never whip up a meal this
+elaborate by myself.)"	(Todos los ingredientes de un desayuno tradicional japonés. Nunca podría preparar una comida tan elaborada yo sola).
+Message	Rinne	"Seems like everyone's seated. Now, let's
+dig in!"	Parece que todo el mundo está sentado. Ahora, ¡a comer!
+Message	Tohka	Okay! I shall dive right in!	¡Vale! ¡Voy a sumergirme de lleno!
+Message	Tohka	Delicious! Today's breakfast is exquisite!	¡Delicioso! ¡El desayuno de hoy es exquisito!
+Message	Tohka	"Mmm! This omelette... So fluffy on the outside.
+Yet, the warm broth flows out once you take a
+bite!"	¡Mmm! Esta tortilla... Tan esponjosa por fuera. ¡Sin embargo, el caldo caliente fluye hacia fuera una vez que usted toma un bocado!
+Message	Tohka	"Add in some of the rice, and... *nom*...
+Mmm. You've outdone yourself this time!"	Añade un poco de arroz, y... *nom*... Mmm. ¡Te has superado esta vez!
+Message	Rinne	"Hehe... Oh, Tohka-chan. You won't get anything
+from flattering me."	Jeje... Oh, Tohka-chan. No conseguirás nada adulándome.
+Message	Tohka	"R-Rinne... Does that mean seconds are out of
+the question?"	R-Rinne... ¿Significa eso que los segundos están descartados?
+Message	Rinne	Huh? Seconds...	¿Eh? Segundos...
+Message	Shido	"You said, You won't get anything."" That's what Tohka's worried about."""	"Dijiste: ""No conseguirás nada"". Eso es lo que le preocupa a Tohka""."
+Message	Rinne	"Oh, I see what you mean. No need to worry,
+Tohka-chan. I've prepared seconds. Just make
+sure to chew before you swallow, okay?"	Oh, ya veo lo que quieres decir. No te preocupes, Tohka-chan. He preparado segundos. Sólo asegúrate de masticar antes de tragar, ¿vale?
+Message	Tohka	Okay! Another helping, please!	¡Muy bien! ¡Otra ración, por favor!
+Message	Shido	Hey, Tohka... You know...	Oye, Tohka... Sabes...
+Message	Rinne	Ahahahaha...	Ahahahaha...
+Message	Yoshino	Um. Thank you... for the meal!	Gracias... ¡por la comida!
+Message	Rinne	Okay. Yoshino-chan, eat up, okay?	Vale. Yoshino-chan, come, ¿vale?
+Message	Yoshino	Okay!	¡Vale!
+Message	Rinne	"Oh. You aren't good with hot food, right?
+I tried cooling the miso soup beforehand.
+Is it all right?"	Oh. No eres bueno con la comida caliente, ¿verdad? Intenté enfriar la sopa de miso de antemano. ¿Está bien?
+Message	Yoshino	Th-Thank... you...	Gracias... a ti...
+Message	Yoshinon	Boy, Rinne. You're so thoughtful. You'd make\nthe ideal wife!	Chico, Rinne. Eres tan considerado. ¡Serías la esposa ideal!
+Message	Shido	"You can say that again. Who knows where I'd
+be without her housework."	Puedes repetirlo. Quién sabe dónde estaría yo sin sus tareas domésticas.
+Message	Tohka	"Indeed, and she sure knows her way around the
+kitchen."	Efectivamente, y seguro que sabe moverse por la cocina.
+Message	Rinne	"Gosh... What's with all the compliments today,
+you two...? You're going to make me blush..."	Dios... ¿Qué pasa con todos los cumplidos hoy, ustedes dos...? Me vais a hacer sonrojar...
+Message	Kotori	"Hmm. Onii-chan has been hitting on Rinne
+since this morning! Rinne's not gonna like that!"	Hmm. ¡Onii-chan ha estado coqueteando con Rinne desde esta mañana! ¡A Rinne no le va a gustar eso!
+Message	Rinne	"Oh, it's not like that, Kotori! I'm flattered.
+Not upset."	¡Oh, no es eso, Kotori! Me siento halagado. No molesto.
+Message	Yoshinon	Ahahaha! Rinne, you're adorable. Looks like\nyou'll be Yoshino's biggest rival!	¡Ajajaja! Rinne, eres adorable. ¡Parece que vas a ser la mayor rival de Yoshino!
+Message	Yoshino	...Yoshinon?!	...¡¿Yoshinon?!
+Message	Shido	Rival? Are you two gearing up for battle?	¿Rival? ¿Os estáis preparando para la batalla?
+Message	Yoshinon	*Sigh*... What am I to do with you, Shido?\nGoodness. I fear what's to come...	*Suspira*... ¿Qué voy a hacer contigo, Shido? Dios mío. Temo lo que está por venir...
+Message	Kotori	Hahaha! That's just Onii-chan being Onii-chan.	¡Jajaja! Eso es sólo Onii-chan siendo Onii-chan.
+Message		"(I may not know what's going on, but I can tell
+when I'm being mocked. Wear that ribbon all
+you want, little sister. You're still evil...)"	(Puede que no sepa lo que pasa, pero sé cuando se burlan de mí. Ponte ese lazo todo lo que quieras, hermanita. Sigues siendo malvada...)
+Message	Shido	"Hey Kotori, you'd better not be a bad influence
+on Tohka."	Oye Kotori, será mejor que no seas una mala influencia para Tohka.
+Message	Kotori	"What do you mean, ""bad influence""?"	"¿Qué quieres decir con ""mala influencia""?"
+Message	Shido	"If I get dropkicked while I'm sleeping, then
+there'll be hell to pay."	Si me dan una paliza mientras duermo, habrá que pagar un infierno.
+Message	Kotori	Whaaaaat? You could totally handle it.	¿Qué? Podrías manejarlo perfectamente.
+Message	Shido	Jeez...	Jeez...
+Message	Tohka	Hm. Shido, what's the matter?	Hm. Shido, ¿qué pasa?
+Message	Shido	"Nothing! Don't mind us, Tohka. Just enjoy
+your breakfast."	¡Nada! No te preocupes por nosotros, Tohka. Sólo disfruta de tu desayuno.
+Message	Tohka	Hm, if you say so.	Hm, si tú lo dices.
+Message	Kotori	Oh, Rinne. Your miso soup is just delightful!	Oh, Rinne. ¡Tu sopa de miso es deliciosa!
+Message	Rinne	Really? I'm so happy you like it.	¿De verdad? Me alegro mucho de que te guste.
+Message	Kotori	"Oh, Onii-chan! If you don't want your omelette,
+then could I have it?"	¡Oh, Onii-chan! Si no quieres tu tortilla, ¿podría quedármela yo?
+Message	Shido	Huh? Oh, sure... It's all yours, Kotori.	¿Eh? Oh, claro... Es todo tuyo, Kotori.
+Message	Kotori	Ohhhh. Thank you, Onii-chan! I love you!	Ohhhh. ¡Gracias, Onii-chan! ¡Te quiero!
+Message	Shido	Right...	Bien...
+Message	Rinne	"Oh, but then that wouldn't be enough food for
+you, Shido. You can have one of mine."	Oh, pero entonces no sería suficiente comida para ti, Shido. Puedes tomar uno de los míos.
+Message	Shido	But then you'll be hungry, won't you, Rinne?	Pero entonces tendrás hambre, ¿verdad, Rinne?
+Message	Rinne	It's fine. I want you to have mine.	Está bien. Quiero que tengas el mío.
+Message	Shido	B-But...	P-Pero...
+Message	Rinne	"Here you go, Shido. Say, ""Aah."""	"Aquí tienes, Shido. Di, ""Aah""."
+Message	Shido	Ahhh...	Ahhh...
+Message	Rinne	Hehe. Thanks.	Jeje. Gracias.
+Message	Tohka	Hm? No fair, Rinne! I want to feed Shido, too!	¿Hm? ¡No es justo, Rinne! ¡Yo también quiero alimentar a Shido!
+Message	Yoshino	Oh... I'd like to... feed him, as well...	Oh... me gustaría... alimentarlo, también...
+Message	Kotori	Oh? Then let me have a go, too!	¿Oh? ¡Entonces déjame intentarlo a mí también!
+Message	Yoshinon	You're amazing, Shido.	Eres increíble, Shido.
+Message	Rinne	"H... Hey guys? What do we do, Shido? I...
+I might have made a mistake."	H... ¿Hey chicos? ¿Qué hacemos, Shido? I... Puede que haya cometido un error.
+Message	Shido	"Anyways, we can all take turns next time, okay?
+If everyone gets a turn, I'll be late!"	De todos modos, todos podemos tomar turnos la próxima vez, ¿de acuerdo? Si todo el mundo tiene un turno, ¡llegaré tarde!
+Message	Tohka	"Oh... I can't risk being tardy, so we will have
+to table it for next time. Promise!"	Oh... No puedo arriesgarme a llegar tarde, así que tendremos que dejarlo para la próxima vez. ¡Lo prometo!
+Message	Kotori	Same here!	Lo mismo digo.
+Message	Yoshino	M-Me too...	Yo también...
+Message	Shido	Okay. If—and only IF—the time comes...	Vale. Si -y sólo SI- llega el momento...
+Message		"(Thank God... Seems like those girls really
+went for it...)"	(Gracias a Dios... Parece que esas chicas realmente fueron a por ello...)
+Message	Rinne	"Shido, next time, how about being mindful of
+where you're looking next...? It's so obvious
+you were trying to play it off."	Shido, la próxima vez, ¿qué tal si eres consciente de a dónde miras después...? Es tan obvio que intentabas disimular.
+Message	Shido	Grr... I'll be careful.	Grr... Tendré cuidado.
+Message	Rinne	Good.	Bien.
+Message	Shido	"Hahaha... Come to think of it, I haven't checked
+the weather yet today."	Jajaja... Ahora que lo pienso, todavía no he comprobado el tiempo hoy.
+Message	Rinne	Gosh, Shido... Fine.	Dios, Shido... Bien.
+Message	Shido	Thanks, Rinne.	Gracias, Rinne.
+Message	Rinne	"You're welcome. Stop blabbering, and make
+sure to eat, okay?"	De nada. Deja de parlotear, y asegúrate de comer, ¿de acuerdo?
+Message	Shido	Yeah, yeah. I know.	Sí, sí. Sí, lo sé.
+Message	Newscaster	—An owner of the zoo in Tengu City...	-Un propietario del zoo de Ciudad Tengu...
+Message		Hm...?	¿Hm...?
+Message		"(My ears couldn't help from perking up,
+as I'd recognized the name of the city on
+the news.)"	(Mis oídos no pudieron evitar aguzarse, ya que había reconocido el nombre de la ciudad en las noticias).
+Message	Newscaster	...Three days have passed since the 56-year-old\nman was first reported as missing.	...Han pasado tres días desde que se informó por primera vez de la desaparición del hombre de 56 años.
+Message	Shido	Ah... Looks like they haven't found him yet.	Ah... Parece que aún no lo han encontrado.
+Message	Rinne	"Without the owner, who knows how bananas
+the zoo must be..."	Sin el dueño, quién sabe lo loco que debe estar el zoo...
+Message	Newscaster	It is believed that foul play could be\ninvolved, and so the authorities are continuing\ntheir investigations...	Se cree que podría haber juego sucio, por lo que las autoridades continúan investigando...
+Message		"(Apart from the spacequakes, I figured this
+town was pretty peaceful, but lately, it seems
+like we've gotten nothing but depressing news.)"	(Aparte de los terremotos espaciales, creía que esta ciudad era bastante tranquila, pero últimamente parece que sólo recibimos noticias deprimentes).
+Message	Newscaster	Onto our next story, multiple reports of\nmissing pets have been popping up\nthroughout Tengu City.	En nuestra siguiente historia, múltiples informes de mascotas desaparecidas han estado apareciendo por toda Ciudad Tengu.
+Message	Shido	"Man, first a missing zookeeper, and now pets?
+What's going on?"	Tío, primero un cuidador de zoo desaparecido, ¿y ahora mascotas? ¿Qué es lo que pasa?
+Message	Kotori	"Aah. Don't tell me they're being abducted
+by aliens or something..."	Aah. No me digas que están siendo abducidos por extraterrestres o algo así...
+Message	Shido	I'm sure that's not the case.	Estoy seguro de que no es así.
+Message	Rinne	"Weird... Maybe it's like the Pied Piper of
+Hamelin?"	Raro... ¿Quizás es como el Flautista de Hamelin?
+Message	Shido	"I don't know. It could be an omen...
+Sure seems like one."	No lo sé. Podría ser un presagio... Seguro que lo parece.
+Message	Kotori	"Oh! The curtain for battle will soon rise...
+It's the fate of the world!"	¡Oh! El telón de la batalla pronto se levantará... ¡Es el destino del mundo!
+Message	Tohka	Battle?! Is there an enemy coming, Kotori?!	¡¿Batalla?! ¡¿Viene un enemigo, Kotori?!
+Message	Yoshinon	Tohka's said it, so it's bound to happen!\nYippie!	Tohka lo ha dicho, ¡así que está destinado a suceder!
+Message	Shido	Don't say stuff like that!	¡No digas esas cosas!
+Message	Rinne	Tohka, it's a joke. Calm down, okay...?	Tohka, es una broma. Cálmate, ¿vale...?
+Message	Tohka	Oh... It was a joke?	Oh... ¿Era una broma?
+Message	Shido	"Well, at least we won't have to worry about
+being attacked... I think."	Bueno, al menos no tendremos que preocuparnos de ser atacados... Creo.
+Message	Tohka	Hm... Got it! Rinne, seconds please!	Hm... ¡Lo tengo! Rinne, ¡segundos por favor!
+Message	Rinne	"Suuuuure. Tohka, you eat so much that I never
+hesitate about making big portions."	Suuuuure. Tohka, comes tanto que nunca dudo en hacer porciones grandes.
+Message	Tohka	"Your cooking is just too good, Rinne.
+I can't help myself."	Tu cocina es demasiado buena, Rinne. No puedo evitarlo.
+Message	Rinne	Teehee... Tohka, you're not so bad yourself.	Teehee... Tohka, tú tampoco estás tan mal.
+Message	Tohka	Hm? But I didn't cook...	¿Hm? Pero yo no cociné...
+Message	Rinne	"No, that's not what I meant... Never mind.
+Forget it... Tohka, do you want a large helping?"	No, no me refería a eso... No importa. Olvídalo... Tohka, ¿quieres una ración grande?
+Message	Tohka	Yeah! PLEAS—	¡Sí! PLEAS-
+Message	Shido	Tohka?!	¡¿Tohka?!
+Message	Rinne	Tohka?!	¡¿Tohka?!
+Message		(Is she having a spiritual rampage?!)	(¡¿Está teniendo un ataque espiritual?!)
+Message	Tohka	I... I'm fine!	I... ¡Estoy bien!
+Message	Kotori	"MMM! Are you all right? Did you choke on
+your food?"	¡MMM! ¿Estás bien? ¿Te has atragantado con la comida?
+Message	Tohka	Yeah. Sorry for worrying you, Kotori. I'm fine.	Sí. Siento haberte preocupado, Kotori. Estoy bien.
+Message	Kotori	Mm. Goodie. Right, Onii-chan?	Mm. Bien. ¿Verdad, Onii-chan?
+Message	Shido	Y-Yeah...	S-Sí...
+Message		"(I think it was Kotori's way of telling me to
+keep my cool. Rinne doesn't know Tohka's a
+Spirit, and if we overreact, her cover's blown.)"	(Creo que era la forma que tenía Kotori de decirme que mantuviera la calma. Rinne no sabe que Tohka es un Espíritu, y si exageramos, su tapadera quedará descubierta).
+Message	Shido	I was just caught off-guard, is all...	Me pilló con la guardia baja, eso es todo...
+Message	Yoshino	M-Me too...	Yo también...
+Message	Yoshinon	Tohka-chan, you okay? Even Yoshinon was\nstartled by that.	Tohka-chan, ¿estás bien? Incluso Yoshinon se asustó por eso.
+Message	Rinne	"You sure you're all right? Did you cut your
+hand or anything?"	¿Seguro que estás bien? ¿Te has cortado la mano o algo?
+Message	Tohka	Well, I'm fine, but...	Bueno, estoy bien, pero...
+Message	Shido	What's the matter, Tohka?	¿Qué pasa, Tohka?
+Message	Tohka	Sorry, Shido... I broke the bowl!	Lo siento, Shido... ¡Rompí el tazón!
+Message	Rinne	"What are you talking about? Who cares about
+the bowl? Your well-being is more important.
+I'm just glad you weren't hurt."	¿De qué estás hablando? ¿A quién le importa el cuenco? Tu bienestar es más importante. Me alegro de que no te hicieran daño.
+Message	Tohka	"B-But Rinne! Th... This bowl... Shido bought
+it for me! I promised him I'd take good care
+of it..."	¡Pero Rinne! Este... Este cuenco... ¡Shido lo compró para mí! Le prometí que lo cuidaría bien...
+Message	Rinne	"S-Sorry... I didn't mean it like that...
+What do we do? What can we do?"	Lo siento... No quise decir eso... ¿Qué podemos hacer? ¿Qué podemos hacer?
+Message	Shido	"It's fine, Tohka. We can buy another one
+together."	Está bien, Tohka. Podemos comprar otro juntos.
+Message	Tohka	R-Really?	¿En serio?
+Message	Shido	Of course. Anyways, how are you feeling?	Por supuesto. De todos modos, ¿cómo te sientes?
+Message	Tohka	Like I said earlier, I feel totally fine.	Como dije antes, me siento totalmente bien.
+Message	Rinne	...Shido, you're so great.	...Shido, eres genial.
+Message	Shido	Hm...? What makes you say that?	¿Hm...? ¿Qué te hace decir eso?
+Message	Rinne	No reason. That's just so like you.	Por nada. Eso es tan propio de ti.
+Message	Shido	...?	...?
+Message	Tohka	All right, moving on... Rinne, seconds please!	Muy bien, sigamos... Rinne, ¡segundos por favor!
+Message	Shido	Wh-What?!	¿Qué?
+Message		"(Held in Tohka's right hand was a brand new
+bowl, raised high for seconds. After everything
+that happened, Tohka still wants to eat?!)"	(En la mano derecha de Tohka había un cuenco nuevo, levantado en alto para repetir. Después de todo lo que ha pasado, ¡¿Tohka todavía quiere comer?!)
+Message	Yoshino	T-Tohka-san... D-Don't push yourself!	T-Tohka-san... ¡No te presiones!
+Message	Tohka	Hm? Why would you say that?	¿Hm? ¿Por qué dices eso?
+Message	Yoshinon	Now now, Tohka-chan. Take it easy, and\nmaybe go for a smaller portion, okay?	Vamos, Tohka-chan. Tómalo con calma, y tal vez pide una porción más pequeña, ¿de acuerdo?
+Message	Rinne	"Yoshino-chan has a point. If you overeat
+and become sick, that wouldn't be good."	Yoshino-chan tiene razón. Si comes en exceso y enfermas, eso no sería bueno.
+Message	Shido	She's right... Tohka, maybe hold off on seconds?	Tiene razón... Tohka, ¿quizás esperar unos segundos?
+Message	Tohka	GRRRRRRR!	¡GRRRRRRR!
+Message	Rinne	"Tohka, I'll prepare your favorite dish tomorrow.
+How about that?"	Tohka, mañana prepararé tu plato favorito. ¿Qué te parece?
+Message	Tohka	Really?! What are you going to make for me?!	¡¿En serio?! ¡¿Qué vas a hacer para mí?!
+Message	Rinne	"It's a secret, but I guarantee you that it'll be
+extra delicious, so get ready."	Es un secreto, pero te garantizo que será extra delicioso, así que prepárate.
+Message	Tohka	OHHH! You promise, Rinne?	¡OHHH! ¿Lo prometes, Rinne?
+Message	Rinne	Yup! Promise!	¡Sí! ¡Lo prometo!
+Message	Tohka	Okay! Then, I'll be a good girl today!	¡Está bien! ¡Entonces, seré una buena chica hoy!
+Message	Yoshino	Tohka-san... You're always a good girl!	Tohka-san... ¡Siempre eres una buena chica!
+Message	Tohka	Yeah!	¡Sí!
+Message	Rinne	"With that said, everyone's finished eating
+so why don't we start clearing the table?"	Dicho esto, todo el mundo ha terminado de comer, así que ¿por qué no empezamos a recoger la mesa?
+Message	Shido	Oh, let me help.	Déjame ayudarte.
+Message	Rinne	Don't worry. Leave it to me.	No se preocupe. Déjamelo a mí.
+Message	Shido	"That's no fair. It'll be faster if we all do it
+together."	No es justo. Será más rápido si lo hacemos todos juntos.
+Message	Tohka	Allow me to help, too!	Permítanme que les ayude.
+Message	Rinne	"Thanks, Shido and Tohka-chan, but I'm more
+than willing to handle it myself."	Gracias, Shido y Tohka-chan, pero estoy más que dispuesto a manejarlo yo mismo.
+Message	Shido	"I don't mind at all! Let's all clean up and
+head for school!"	¡No me importa en absoluto! ¡Limpiemos y vayamos a la escuela!
+Message	Rinne	"Okay. Thank you. Tohka-chan, just don't
+push yourself too much, okay?"	De acuerdo. Gracias. Tohka-chan. Tohka-chan, no te presiones demasiado, ¿vale?
+Message	Tohka	Yes, of course! Leave the rest to me.	Sí, por supuesto. Déjame el resto a mí.
+Message	Rinne	Hehe...	Jeje...
+Message	Kotori	Mmm... Rinne-oneechan? Are you sure you're okay?	Mmm... ¿Rinne-oneechan? ¿Seguro que estás bien?
+Message	Rinne	"Yes. I always do this.
+In fact, I'm in my element."	Sí. Siempre hago esto. De hecho, estoy en mi elemento.
+Message	Kotori	"No, I was talking about clearing the table...
+Don't you need to leave soon? Won't you
+be late for practice?"	No, estaba hablando de limpiar la mesa... ¿No tienes que irte pronto? ¿No llegarás tarde al entrenamiento?
+Message	Rinne	Huh?! WHAAAAAT?! Is it already that time?!	¡¿Eh?! ¡¿QUÉ?! ¡¿Ya es esa hora?!
+Message	Shido	Practice...? What are you talking about?	¿Practicar...? ¿De qué estás hablando?
+Message	Kotori	"Jeez, Onii-chan. Rinne-oneechan is one of the
+star players on the lacrosse team! Did you
+forget again?"	Vaya, Onii-chan. ¡Rinne-oneechan es uno de los jugadores estrella del equipo de lacrosse! ¿Te has vuelto a olvidar?
+Message	Shido	Oh... Really?	Oh... ¿En serio?
+Message		"(I dug into the deep recesses of my mind for
+any kind of confirmation... Oh, yeah. I guess I
+somewhat recall Rinne heading out early...)"	(Hurgué en los recovecos profundos de mi mente en busca de cualquier tipo de confirmación... Ah, sí. Creo recordar que Rinne se marchó temprano...)
+Message	Rinne	"Sorry, Shido! I feel terrible because I was the
+one who insisted upon clearing the table, but
+could I leave the rest to you?"	¡Lo siento, Shido! Me siento fatal porque fui yo quien insistió en recoger la mesa, pero ¿podría dejarte el resto a ti?
+Message	Shido	"Yup! You can count on me. Besides, it's my job.
+Rinne, you really do spoil us."	¡Sí! Puedes contar conmigo. Además, es mi trabajo. Rinne, realmente nos mimas.
+Message	Rinne	"Like I said, I enjoy doing it,
+but thanks anyway."	Como he dicho, disfruto haciéndolo, pero gracias de todos modos.
+Message	Shido	Yeah, don't worry about it. Get going.	Sí, no te preocupes. Andando.
+Message	Rinne	Tohka-chan, just make sure not to push yourself!	Tohka-chan, ¡asegúrate de no forzarte!
+Message	Tohka	Noted. Don't worry!	Tomo nota. No se preocupe.
+Message	Rinne	Hehe... Okay, see you later!	Jeje... Vale, ¡hasta luego!
+Message	Shido	All right. Later.	De acuerdo. Hasta luego.
+Message	Rinne	Okay.	Vale, vale, vale.
+Message	Tohka	"Shido! Hurry up! Rinne has been waiting
+outside for you!"	¡Shido! ¡Date prisa! ¡Rinne te ha estado esperando fuera!
+Message	Tohka	Shido! Come on, get a move on!	¡Shido! ¡Vamos, muévete!
+Message	Shido	Okay! I'll be right out.	¡Vale! Enseguida salgo.
+Message	Kotori	Shido, wait a minute.	Shido, espera un minuto.
+Message	Shido	"Hm? What is it, Koto—wait, when'd you put that
+ribbon on?"	¿Hm? ¿Qué pasa, Koto? Espera, ¿cuándo te has puesto esa cinta?
+Message	Kotori	"Forget the ribbon. I wanted to tell you
+something."	Olvida la cinta. Quería decirte algo.
+Message		Huh? What do you want to tell me?	¿Qué? ¿Qué quieres decirme?
+Message	Tohka	Shido, hurryyyyy!	¡Shido, date prisa!
+Message	Shido	"Actually, Tohka, go outside without me and
+wait with Rinne. I'll be right out."	En realidad, Tohka, sal sin mí y espera con Rinne. Saldré enseguida.
+Message	Shido	"Actually, Tohka, go on ahead and wait outside.
+I'll be right out."	En realidad, Tohka, adelántate y espera fuera. Ahora salgo.
+Message	Tohka	"Grr... Fine. Just make sure not to take too
+long, understood?"	Grr... Bien. Sólo asegúrese de no tomar demasiado tiempo, ¿entendido?
+Message	Shido	Yeah, got it.	Sí, lo tengo.
+Message	Shido	So, what's up?	Entonces, ¿qué pasa?
+Message	Kotori	Shido... You know what you have to do, right?	Shido... Sabes lo que tienes que hacer, ¿verdad?
+Message	Shido	"Yeah, but... Wait. Don't tell me a new Spirit's
+emerged."	Sí, pero... Espera. No me digas que ha surgido un nuevo Espíritu.
+Message	Kotori	No.	No.
+Message	Shido	Then, what do you mean?	Entonces, ¿qué quieres decir?
+Message	Kotori	You saw how Tohka was earlier, didn't you?	Viste cómo estaba Tohka antes, ¿verdad?
+Message	Shido	Yeah...	Sí...
+Message	Kotori	"She's appeared fine for a while, but I'm
+starting to see signs of instability. Not just
+Tohka, either. Even Yoshino or I might go rogue."	Ha parecido estar bien durante un tiempo, pero empiezo a ver signos de inestabilidad. No sólo Tohka, tampoco. Incluso Yoshino o yo podríamos volvernos rebeldes.
+Message	Kotori	"I know it's you... but you know what you have
+to do, right?"	Sé que eres tú... pero sabes lo que tienes que hacer, ¿verdad?
+Message	Shido	...	...
+Message	Kotori	"There's no other way. Ratatoskr is going through
+some issues, so there's no way to manage the
+Spirits. Ratatoskr's an island in the sky, now."	No hay otra manera. Ratatoskr está pasando por algunos problemas, así que no hay manera de manejar a los Espíritus. Ratatoskr es una isla en el cielo, ahora.
+Message	Shido	What's going on over there?	¿Qué está pasando ahí?
+Message	Kotori	"We're currently looking into it. As long as
+we've got the Fraxinus, we can manage, but I
+need your cooperation to stabilize the Spirits."	Lo estamos investigando. Mientras tengamos el Fraxinus, podremos arreglárnoslas, pero necesito su cooperación para estabilizar a los Espíritus.
+Message	Kotori	"Didn't I tell you? The Spirits seem the most
+stable when they're with you, Shido."	¿No te lo dije? Los Espíritus parecen más estables cuando están contigo, Shido.
+Message	Shido	Right...	Bien...
+Message	Kotori	"Especially when they're on a date. The results
+are remarkable. That's why, Shido, I need you
+to go on more dates."	Especialmente cuando están en una cita. Los resultados son notables. Por eso, Shido, necesito que tengas más citas.
+Message	Shido	"I know that, but why does it feel like I'm
+getting déjà vu..."	Lo sé, pero ¿por qué siento como si tuviera un déjà vu...
+Message	Kotori	"Hello, are you really concerned about that?
+As we speak, Tohka and Yoshino could explode
+at any minute. So, it's your job to save 'em."	Hola, ¿de verdad te preocupa eso? Mientras hablamos, Tohka y Yoshino podrían explotar en cualquier momento. Así que es tu trabajo salvarlos.
+Message	Shido	"You're right. We all have to do our part.
+If there's anything I can do, then you bet
+I'll do it."	Tienes razón. Todos tenemos que poner de nuestra parte. Si puedo hacer algo, claro que lo haré.
+Message	Kotori	"Yeah. That's the spirit! I'll leave them to you,
+but..."	Sí. ¡Ese es el espíritu! Te los dejo, pero...
+Message	Kotori	"Be extra careful this time. You're not
+invincible. If you make any mistakes,
+you're dead. Be mindful of that."	Ten mucho cuidado esta vez. No eres invencible. Si cometes algún error, estás muerto. Tenlo en cuenta.
+Message	Shido	"Even so... I'm the only one who can save you,
+Tohka, and Yoshino, right? Guess I have no
+choice."	Aún así... Soy el único que puede salvarte a ti, a Tohka y a Yoshino, ¿verdad? Supongo que no tengo elección.
+Message	Kotori	Well... It's for your benefit, too.	Bueno... Es para tu beneficio, también.
+Message	Shido	How so...?	¿Cómo...?
+Message	Kotori	"Stabilizing Spirits helps prevent your body
+from going rogue as well, Shido. This is our
+best method of limiting that chance."	Estabilizar Espíritus también ayuda a prevenir que tu cuerpo se vuelva rebelde, Shido. Este es nuestro mejor método para limitar esa posibilidad.
+Message	Shido	...	...
+Message	Kotori	"But... Listen carefully. Next time you're in a
+situation where you feel out of your depth,
+don't think twice. Just run for it."	Pero... Escucha con atención. La próxima vez que te encuentres en una situación en la que te sientas desbordado, no te lo pienses dos veces. Simplemente corre.
+Message	Shido	WHAT?!	¡¿QUÉ?!
+Message	Kotori	"You promised, remember? That you wouldn't
+overdo it."	Lo prometiste, ¿recuerdas? Que no exagerarías.
+Message	Shido	Right... I'll do my best.	Bien... Haré lo que pueda.
+Message	Kotori	"Good. Now, if you keep those girls waiting
+any longer, I'm sure Tohka will be concerned.
+Go ahead."	Bien. Si haces esperar más a esas chicas, seguro que Tohka se preocupará. Adelante.
+Message	Shido	"Got it. Kotori, try not to overdo it too,
+okay?"	Entendido. Kotori, intenta no exagerar demasiado, ¿vale?
+Message	Kotori	"Who do you think you're talking to?
+Unlike my stupid brother, I'm aware
+of my own limits, so don't worry."	¿Con quién crees que estás hablando? A diferencia de mi estúpido hermano, soy consciente de mis propios límites, así que no te preocupes.
+Message	Shido	Urgh... Oh.	Urgh... Oh.
+Message	Kotori	Good. Anyways, take this.	Bien. De todos modos, toma esto.
+Message	Shido	...Keys?	...¿Llaves?
+Message	Kotori	"I've given a set to Tohka as well, so please
+give the other one to Rinne."	También le he dado un juego a Tohka, así que por favor dale el otro a Rinne.
+Message	Shido	Okay, sure. What do they unlock, though?	De acuerdo, claro. ¿Pero qué desbloquean?
+Message	Kotori	"They're for our house. Duh. I changed all of
+the locks yesterday for added security."	Son para nuestra casa. Sí. Cambié todas las cerraduras ayer para mayor seguridad.
+Message	Shido	...But why?	...¿Pero por qué?
+Message	Kotori	"Man, use your brain. They might be Spirits, but
+it's still a bunch of girls living in a house
+together. Anything could happen."	Hombre, usa tu cerebro. Puede que sean Espíritus, pero siguen siendo un montón de chicas viviendo juntas en una casa. Podría pasar cualquier cosa.
+Message	Kotori	"Consider the fact that the patriarch of
+the house is a useless wimp whose only
+redeeming quality is his harmlessness..."	Considera el hecho de que el patriarca de la casa es un pelele inútil cuya única cualidad redentora es su inofensividad...
+Message	Shido	Only redeeming quality is his harmlessness...\nHey, are you talking about me?!	La única cualidad redentora es su inofensividad... ¡¿Eh, estás hablando de mí?!
+Message	Kotori	Who else???	¿Quién más?
+Message	Shido	"Gah... Huh? Wait... These keys look awfully
+cutesy."	Gah ... ¿Eh? Espera... Estas teclas se ven terriblemente cursi.
+Message	Kotori	"It's intentional. It's harder to lose track of
+them that way, right?"	Es intencionado. Así es más difícil perderlos de vista, ¿no?
+Message	Shido	"Guess you have a point there. They're not
+really my style though, are they?"	Supongo que tienes razón. Pero no son mi estilo, ¿verdad?
+Message	Kotori	"Quit complaining. I had Ratatoskr make them,
+so they're practically indestructible."	Deja de quejarte. Hice que Ratatoskr los hiciera, así que son prácticamente indestructibles.
+Message	Shido	Wow... Okay, got it.	Vaya... Vale, lo tengo.
+Message	Kotori	"Anyways, if we keep Tohka waiting, you'll
+be in big trouble. Get going. Now, let the
+dates commence!"	De todas formas, si hacemos esperar a Tohka, tendrás un gran problema. En marcha. ¡Ahora, que comiencen las citas!
+Message	Kotori	Okay, Shido. Let's begin our (war) date.	De acuerdo, Shido. Comencemos nuestra cita (de guerra).
+Message	Rinne	Oh, here he is!	¡Aquí está!
+Message	Tohka	GEEZ! You're so late, Shido!	¡GEEZ! ¡Llegas tarde, Shido!
+Message	Shido	"Sorry, Tohka and Rinne! Let's hurry, or we'll
+be late!"	¡Lo siento, Tohka y Rinne! ¡Démonos prisa o llegaremos tarde!
+Message	Shido	Sorry! Let's hurry, or we'll be late!	¡Perdón! ¡Démonos prisa o llegaremos tarde!
+Message	Tohka	Shido... What did you discuss with Kotori?	Shido... ¿Qué discutiste con Kotori?
+Message	Shido	Hm? Oh... Nothing important.	¿Hm? Oh... Nada importante.
+Message	Tohka	Oh. My interest is piqued.	Oh. Mi interés se ha despertado.
+Message	Shido	"Well, there's nothing to be interested in. It
+has nothing to do with you, Tohka."	Bueno, no hay nada que te interese. No tiene nada que ver contigo, Tohka.
+Message		"(Not like I could tell her that she's unstable
+to her face.)"	(No es que pudiera decirle a la cara que es inestable).
+Message	Tohka	You sure? You'd better not be lying to me.	¿Seguro? Será mejor que no me estés mintiendo.
+Message	Shido	Yeah. Trust me, Tohka.	Sí. Confía en mí, Tohka.
+Message	Tohka	Very well! If you say so, I'll trust you.	¡Muy bien! Si tú lo dices, confiaré en ti.
+Message		(Why am I feeling sentimental all of a sudden?)	(¿Por qué me pongo sentimental de repente?)
+Message		"(It's not just for Tohka's sake—it's for mine,
+too. Don't worry, Tohka. I promise to save
+all of you.)"	(No es sólo por el bien de Tohka, sino también por el mío. No te preocupes, Tohka. Prometo salvaros a todos).
+Message	Rinne	"Come on, you two! Get a move on. We're
+going to be so late!"	¡Vamos, ustedes dos! Muévanse. ¡Vamos a llegar muy tarde!
+Message	Shido	"Oh, wait a second, Rinne. Let me give this
+to you."	Oh, espera un segundo, Rinne. Déjame darte esto.
+Message	Rinne	Huh? A key? What for?	¿Eh? ¿Una llave? ¿Para qué?
+Message	Shido	"Yeah. We decided to change the locks at home.
+Don't you want to enter the house on your own?"	Sí. Decidimos cambiar las cerraduras de casa. ¿No quieres entrar a la casa por tu cuenta?
+Message	Rinne	What? Is it okay for me to have this, though?	¿Qué? ¿Está bien que yo tenga esto?
+Message	Shido	"Haha. What do you mean? You're like family,
+Rinne. If you have a spare key, then you can
+come in whenever you like, right?"	Jaja. ¿Qué quieres decir? Eres como de la familia, Rinne. Si tienes una llave de repuesto, entonces puedes entrar cuando quieras, ¿verdad?
+Message	Rinne	"Oh... Right. Yes. You have a point.
+Thank you, Shido. I'll take good care of it."	Oh... Cierto. Sí. Tienes razón. Gracias, Shido. Lo cuidaré bien.
+Message	Shido	Okay.	Vale, vale, vale.
+Message	Shido	"Tohka, make sure to hold onto yours too,
+okay?"	Tohka, asegúrate de aferrarte a la tuya también, ¿de acuerdo?
+Message	Tohka	"HEY! I'm well-aware! I'll take care of mine
+as well!"	¡HEY! ¡Estoy bien enterado! ¡Yo también me ocuparé de los míos!
+Message	Shido	I see. All right, then! Let's be on our way!	Ya veo. ¡Muy bien, entonces! ¡En marcha!
+Message	Tohka	Right!	¡Muy bien!
+Message	Rinne	Okay!	¡Vale!
+Message		"(As I sped down the street towards my school,
+Tohka and Rinne followed me from behind.)"	(Mientras aceleraba por la calle en dirección a mi escuela, Tohka y Rinne me seguían por detrás).
+Message		"(Not even five minutes had passed, and my shirt
+was stuck to my back from sweat. Cicadas buzzed
+all around me as if to confirm the summer heat.)"	(No habían pasado ni cinco minutos y ya tenía la camiseta pegada a la espalda por el sudor. Las cigarras zumbaban a mi alrededor como para confirmar el calor del verano).
+Message	Tohka	Shido... I'm feeling hot!	Shido... ¡Tengo calor!
+Message	Shido	"Don't say that; it'll make it even hotter.
+Welcome to summer in Japan."	No digas eso; hará aún más calor. Bienvenido al verano en Japón.
+Message	Tohka	Summer in Japan?	¿Verano en Japón?
+Message	Rinne	"That's right, Tohka. This is Japan's hottest
+season."	Así es, Tohka. Esta es la estación más calurosa de Japón.
+Message	Shido	Actually, it'll get even hotter than this.	En realidad, se pondrá aún más caliente que esto.
+Message	Tohka	"Aw... Could it really get much hotter?
+That sounds awful."	Aw... ¿Podría realmente hacer mucho más calor? Suena horrible.
+Message	Shido	"Yeah. It's only June, so I'm afraid of what's
+to come."	Sí. Sólo estamos en junio, así que tengo miedo de lo que está por venir.
+Message		"(As I sped down the street towards my school,
+Tohka was right behind me.)"	(Mientras bajaba a toda velocidad por la calle en dirección a mi colegio, Tohka iba justo detrás de mí).
+Message		"(Not even five minutes had passed, and my shirt
+was stuck to my back from sweat. Cicadas buzzed
+all around me as if to confirm the summer heat.)"	(No habían pasado ni cinco minutos y ya tenía la camiseta pegada a la espalda por el sudor. Las cigarras zumbaban a mi alrededor como para confirmar el calor del verano).
+Message	Tohka	Shido... I'm feeling hot!	Shido... ¡Tengo calor!
+Message	Shido	"Don't say that; it'll make it even hotter.
+Welcome to summer in Japan."	No digas eso; hará aún más calor. Bienvenido al verano en Japón.
+Message	Tohka	Summer in Japan?	¿Verano en Japón?
+Message	Shido	"That's right. It's this country's hottest
+season. Well, at least the start of it.
+It'll only get hotter from here."	Así es. Es la estación más calurosa de este país. Bueno, al menos al principio. Sólo se pondrá más caliente desde aquí.
+Message	Tohka	"Aw... Could it really get much hotter?
+That sounds awful."	Aw... ¿Podría realmente hacer mucho más calor? Suena horrible.
+Message	Shido	"Yeah. It's only June, so I'm afraid of what's
+to come."	Sí. Sólo estamos en junio, así que tengo miedo de lo que está por venir.
+Message	Shido	Huh? Is that true?!	¿Eh? ¡¿Es eso cierto?!
+Message	Rinne	Did you find something?	¿Has encontrado algo?
+Message	Shido	"Tohka! Rinne! Wait up for me, you guys!
+I'll be right back!"	¡Tohka! ¡Rinne! ¡Esperadme, chicos! ¡Ya vuelvo!
+Message	Tohka	HEY! Where do you think you're going?! SHIDO!	¡Hey! ¡¿Dónde crees que vas?! ¡SHIDO!
+Message	Rinne	What?! Shido, what's gotten over you?	¡¿Qué?! Shido, ¿qué te pasa?
+Message	Tohka	Hm? Is something wrong, Shido?	¿Qué? ¿Pasa algo, Shido?
+Message	Shido	Tohka! Wait right here! I'll be back!	¡Tohka! ¡Espera aquí! ¡Ya vuelvo!
+Message	Tohka	HEY! Where are you going?! SHIDO!	¡Hey! ¡¿Dónde vas?! ¡SHIDO!
+Message	Shido	*pant, pant* *pant, pant*!	¡*pantalón, pantalón* *pantalón, pantalón*!
+Message		"(That's weird... I know I saw her...
+But she's gone...)"	(Qué raro... Sé que la vi... Pero ya no está...)
+Message	Kurumi	Oh, are you looking for something, Shido-san?	¿Buscas algo, Shido-san?
+Message	Shido	Aaaah!	¡Aaaah!
+Message	Kurumi	Hehe... Sorry, did I scare you?	Jeje... Perdona, ¿te he asustado?
+Message	Shido	Kurumi! I knew it was you...	¡Kurumi! Sabía que eras tú...
+Message	Kurumi	"Oh, did you recognize me? What an honor
+to have Shido-san recognize me."	Oh, ¿me has reconocido? Qué honor que Shido-san me reconozca.
+Message	Shido	Urgh!	¡Urgh!
+Message	Kurumi	"I apologize, though. Today, there's someone
+else I'm looking for."	Sin embargo, me disculpo. Hoy, hay alguien más que estoy buscando.
+Message	Shido	Who are you looking for?	¿A quién busca?
+Message	Kurumi	Phew...	Uf...
+Message	Shido	Whoa!	¡Vaya!
+Message	Kurumi	"Hehe... Did you think it was you? Well, I
+suppose I wouldn't mind looking for you."	Jeje... ¿Pensaste que eras tú? Bueno, supongo que no me importaría buscarte.
+Message	Shido	"I was just—! But you're... looking for someone
+besides me."	¡Sólo estaba...! Pero estás... buscando a alguien además de mí.
+Message	Kurumi	"Hehe. As much as I wish to continue speaking
+with you, Shido-san, I must excuse myself."	Jeje. Por mucho que desee seguir hablando con usted, Shido-san, debo excusarme.
+Message	Shido	...?	...?
+Message	Tohka	HEY! Shido!	¡HEY! ¡Shido!
+Message	Kurumi	Very well then, Shido-san. Until next time...	Muy bien entonces, Shido-san. Hasta la próxima...
+Message	Shido	Hey! Waaaait!	¡Eh, sopla!
+Message	Tohka	What happened, Shido?	¿Qué ha pasado, Shido?
+Message	Shido	Oh... Nothing...	Oh... Nada...
+Message		"(Should I tell Tohka that I bumped into Kurumi?
+No, that'd just stress her out unnecessarily...
+She didn't seem like she wanted to hurt me.)"	(¿Debería decirle a Tohka que me encontré con Kurumi? No, eso la estresaría innecesariamente... No parecía que quisiera hacerme daño.)
+Message	Tohka	Hm? You okay, Shido?	¿Hm? ¿Estás bien, Shido?
+Message	Shido	"Yeah! See, I used to have this childhood cat,
+but it got out and never came back. I thought
+it was my cat, so I decided to run after it."	¡Sí! Verás, solía tener un gato de la infancia, pero se escapó y nunca volvió. Pensé que era mi gato, así que decidí correr tras él.
+Message	Tohka	Oh, really? How did that go?	¿En serio? ¿Cómo ha ido?
+Message	Shido	Huh? What do you mean?	¿Qué? ¿Qué quieres decir?
+Message	Tohka	"What? You said you ran after the cat, right?
+Were you able to catch it?"	¿Qué? Dijiste que corriste tras el gato, ¿verdad? ¿Pudiste atraparlo?
+Message	Shido	"Oh, well... Uh... Yeah, I did! But...
+It wasn't the same cat."	Oh, bueno... Uh... ¡Sí, lo hice! Pero... No era el mismo gato.
+Message	Tohka	It wasn't? Oh. How unfortunate.	¿No lo era? Oh. Que desafortunado.
+Message	Tohka	"However, the cat may return to you someday.
+Don't let it get you down too much, okay, Shido?"	Sin embargo, el gato puede volver a ti algún día. No dejes que te deprima demasiado, ¿vale, Shido?
+Message		"(Ugh... Maybe I shouldn't have lied.
+Now I feel sorta guilty...)"	(Uf... Quizá no debería haber mentido. Ahora me siento un poco culpable...)
+Message	Rinne	Hey, you guys! Don't leave me behind!	¡Eh, chicos! ¡No me dejéis atrás!
+Message	Shido	Oh? Rinne!	¿Ah, sí? ¡Rinne!
+Message	Tohka	Oh, that's right!	¡Ah, sí!
+Message	Rinne	"Gosh. The heck was that about... Even Tohka ran
+off."	Cielos. Qué demonios fue eso... Incluso Tohka salió corriendo.
+Message	Tohka	Sorry, Rinne...	Lo siento, Rinne...
+Message	Shido	"I'm sorry, Rinne! I saw a cat... Enough about
+that! This is no time to be side-tracked, right?"	¡Lo siento, Rinne! Vi un gato... ¡Ya basta! No es momento de desviarse, ¿verdad?
+Message	Tohka	Huh?! What's the matter?!	¡¿Eh?! ¡¿Qué pasa?!
+Message	Rinne	Huh? Well... This time... It's time.	¿Eh? Bueno... Esta vez... Es la hora.
+Message	Shido	"If you don't want to be late, stop asking
+questions! Let's sprint to school!"	¡Si no quieres llegar tarde, deja de hacer preguntas! ¡Vamos corriendo a la escuela!
+Message	Tohka	WHAT?!	¡¿QUÉ?!
+Message	Rinne	Okaaaay. I'll do my best.	Okaaaay. Lo haré lo mejor que pueda.
+Message	Shido	Okay, right.	Vale, de acuerdo.
+Message	Tohka	Huh? What's the matter?	¿Eh? ¿Cuál es el problema?
+Message	Shido	"If you don't want to be late, stop asking
+questions! Let's sprint to school!"	¡Si no quieres llegar tarde, deja de hacer preguntas! ¡Vamos corriendo a la escuela!
+Message	Tohka	WHAT?! That's right! Let's go, Shido!	¡¿QUÉ?! ¡Eso es! ¡Vamos, Shido!
+Message	Shido	Right!	¡Muy bien!

@@ -1,0 +1,206 @@
+Operator	Comment	Key	Translation
+Message		"(Huh...? Where did Rinne go?
+I thought she just walked out of the classroom, but...)"	(¿Eh...? ¿Dónde ha ido Rinne?  Pensé que acababa de salir del aula, pero...)
+Message		"(In actuality, I should probably go on a date with Tohka
+and the others, but... when I realized, I've been following
+Rinne around with my eyes...)"	(En realidad, probablemente debería ir a una cita con Tohka y los demás, pero... cuando me di cuenta, he estado siguiendo a Rinne con la mirada...)
+Message		(...Why am I so concerned about her?)	(...¿Por qué estoy tan preocupado por ella?)
+Message		(Oh, there she is. Hmm... Rinne?)	(Oh, ahí está. Hmm... ¿Rinne?)
+Message	Rinne	......	......
+Message		"(T-This doesn't seem the right mood to talk to her...
+I wonder what's wrong?)"	(No parece el ambiente adecuado para hablar con ella...  Me pregunto qué pasa)
+Message		"(No... Actually, I should invite her on a date, for a
+change of pace... Rinne's always helping me out, so
+I should help her out too when she's troubled.)"	(No... En realidad, debería invitarla a una cita, para variar... Rinne siempre me ayuda, así que debería ayudarla a ella también cuando tiene problemas).
+Message	Shido	H-Hey, Rinne...!	¡H-Hey, Rinne...!
+Message	Rinne	Oh, Shido...	Oh, Shido...
+Message	Shido	Um... Well, you see―	Um... Bueno, verás...
+Message	Rinne	Could it be... an invitation to a date?	¿Podría ser... una invitación a una cita?
+Message	Shido	...! Y-You're correct...	¡...! T-Tienes razón...
+Message	Rinne	...Today too? But you should invite the other girls rather than me...	...¿hoy también? Pero deberías invitar a las otras chicas en vez de a mí...
+Message	Shido	B-But―	P-Pero-
+Message	Rinne	Oh, look. Speaking of which... Tobiichi-san!	Oh, mira. Hablando de eso... ¡Tobiichi-san!
+Message	Shido	Huh?	¿Eh?
+Message	Origami	...What?	...¿Qué?
+Message	Rinne	It seems like Shido's looking for someone to go on a date with.	Parece que Shido está buscando a alguien con quien tener una cita.
+Message	Origami	I see. Then it's decided that it will be me.	Ya veo. Entonces se decide que seré yo.
+Message	Shido	Wait wait wait...	Espera, espera, espera...
+Message	Origami	...You don't want to?	...¿No quieres?
+Message	Shido	Huh...? 	¿Eh...?
+Message	Origami	Then, it's decided you'll go with me.	Entonces, se decide que irás conmigo.
+Message	Shido	Wait, hang on.	Espera.
+Message	Origami	This has already been decided. It cannot be overturned.	Esto ya se ha decidido. No puede anularse.
+Message	Shido	*sigh*...	*suspiro*...
+Message	Rinne	All right, you two go on ahead...	Muy bien, ustedes dos adelante...
+Message	Origami	Are you not coming as well, Rinne Sonogami?	¿No vienes tú también, Rinne Sonogami?
+Message	Rinne	Huh?	¿Eh?
+Message	Origami	"That was how I had understood the agreement.
+Of course, I wouldn't be opposed to Shido and me
+being alone. In fact, that would be preferable."	Así había entendido yo el acuerdo.  Por supuesto, no me opondría a que Shido y yo estuviéramos solos. De hecho, sería preferible.
+Message	Shido	N-No, you're not wrong, all three of us! Right?	N-No, no te equivocas, ¡los tres! ¿Verdad?
+Message	Rinne	Huh? B-But...	¿Eh? P-Pero...
+Message	Shido	"Rinne! I feel like I'm in danger if I'm alone with Origami,
+so p-please!"	¡Rinne! Siento que estoy en peligro si estoy a solas con Origami, ¡así que p-por favor!
+Message	Rinne	"...I-If you say that to me Shido, then I'm weak...
+ All right, I'll go then, okay?"	...Si me dices eso Shido, entonces soy débil...   Está bien, me iré entonces, ¿de acuerdo?
+Message	Shido	All right! Then it's decided!	¡Muy bien! ¡Entonces está decidido!
+Message	Rinne	Huh? Y-Yeah...	¿Eh? S-Sí...
+Message		"(Maybe that was a little forceful, but I was somehow
+able to make it into a three-person date with Rinne
+and Origami.)"	(Quizá haya sido un poco contundente, pero de algún modo pude convertirlo en una cita a tres con Rinne y Origami).
+Message	Rinne	So then, what should we do?	Entonces, ¿qué debemos hacer?
+Message	Shido	...Um, is there any place you'd like to go?	...Um, ¿hay algún lugar al que te gustaría ir?
+Message	Rinne	Um, could it be, you hadn't thought of anything?	¿Podría ser que no se te hubiera ocurrido nada?
+Message	Shido	Oogh, w-well, yeah...	Oogh, b-bueno, sí...
+Message	Rinne	...Good grief, Shido. That's a bad habit, you know?	...Santo cielo, Shido. Es una mala costumbre, ¿sabes?
+Message	Shido	S-Sorry...	Lo siento...
+Message	Origami	I will follow you anywhere.	Te seguiré a cualquier parte.
+Message	Shido	Then, um...	Entonces...
+Message		(In the end, nothing brilliant would come to mind...)	(Al final, no se me ocurriría nada brillante...)
+Message		"(Since a test was coming close, and with my suggestion
+that we study, we ended up going to Origami's house.)"	(Como se acercaba un examen, y con mi sugerencia de que estudiáramos, acabamos yendo a casa de Origami).
+Message	Origami	Please, come in.	Por favor, pasen.
+Message	Shido	P-Please excuse us...	P-Por favor, discúlpenos...
+Message	Rinne	So this is your apartment, Tobiichi-san? It's very clean.	¿Así que este es tu apartamento, Tobiichi-san? Está muy limpio.
+Message	Origami	I only have the bare minimum that I need.	Sólo tengo lo mínimo que necesito.
+Message	Rinne	It must be tough living alone...	Debe ser duro vivir solo...
+Message	Origami	"It's all right, I've gotten used to it.
+For now, just relax."	No pasa nada, ya me he acostumbrado.  Por ahora, relájate.
+Message	Shido	R-Right... Thank you, Origami.	Bien... Gracias, Origami.
+Message	Origami	Oh...	Oh...
+Message	Shido	What's wrong, Origami?	¿Qué pasa, Origami?
+Message	Origami	...Nothing. It's probably just my imagination.	...nada. Probablemente es sólo mi imaginación.
+Message	Shido	...?	...?
+Message	Origami	Wait a moment. Once I change, I'll prepare tea.	Espera un momento. En cuanto me cambie, prepararé el té.
+Message	Shido	Ah, right, don't worry about us...	Ah, claro, no te preocupes por nosotros...
+Message		(...? Origami was a little weird just now―)	(...? Origami estaba un poco raro ahora-)
+Message	Shido	...!	¡...!
+Message	Rinne	...Shido? What's wrong?	...¿Shido? ¿Qué te pasa?
+Message	Shido	"Huh...? Er, uh... it's nothing.
+F-For now, let's just sit somewhere around here."	¿Eh...? Er, uh... no es nada.  Por ahora, sentémonos por aquí.
+Message	Rinne	Y-Yeah.	Sí.
+Message	Origami	Here you go.	Aquí tienes.
+Message	Shido	Thanks.	Gracias.
+Message	Rinne	Thank you.	Gracias, señor.
+Message	Shido	H-Hey, Origami...	H-Hey, Origami...
+Message	Origami	What?	¿Cómo?
+Message	Shido	"This might be a weird thing to ask, but...
+This is the first time we've studied for a test together, right?"	Puede que sea raro preguntar esto, pero...  Es la primera vez que estudiamos juntos para un examen, ¿verdad?
+Message	Origami	...I was thinking of asking you the same thing.	...pensaba preguntarte lo mismo.
+Message	Shido	Huh...?	¿Eh...?
+Message	Origami	"So you too felt the same feeling of deja vu, Shido?
+This might be serious..."	¿Así que tú también tuviste la misma sensación de deja vu, Shido?  Esto podría ser serio...
+Message	Shido	"You're right. If it was only one of us, then it could
+just be misremembering, but..."	Tienes razón. Si fue sólo uno de nosotros, entonces podría ser sólo un error de memoria, pero...
+Message	Origami	We've studied together here before.	Hemos estudiado juntos aquí antes.
+Message	Shido	Yeah, most likely...	Sí, lo más probable...
+Message	Rinne	H-Hey, you two? What's wrong all of a sudden?	H-Hey, ¿vosotros dos? ¿Qué pasa de repente?
+Message	Shido	S-Sorry...	Lo siento...
+Message	Rinne	"Tobiichi-san went through the trouble of making us tea,
+so let's talk while we drink it, okay?"	Tobiichi-san se tomó la molestia de prepararnos té, así que hablemos mientras lo bebemos, ¿vale?
+Message	Origami	...?	...?
+Message	Origami	...Sorry, excuse me for a moment.	...Lo siento, discúlpeme un momento.
+Message	Shido	O-Origami? Where are you going?	¿O-Origami? ¿Adónde vas?
+Message	Origami	To clip some flowers.	Para cortar algunas flores.
+Message	Shido	Oh, sorry.	Lo siento.
+Message	Origami	It's all right...	Está bien...
+Message	Shido	Whew...	Uf...
+Message		"(Yesterday, and today, there've been so many weird things
+happening. Could it be some sort of harbinger? Or could it
+have something to do with the barrier Kotori's investigating?)"	(Ayer, y hoy, han pasado muchas cosas raras. ¿Podría ser algún tipo de presagio? ¿O podría tener algo que ver con la barrera que Kotori está investigando?)
+Message	Rinne	...Shido? Are you okay?	...¿Shido? ¿Te encuentras bien?
+Message	Shido	Huh?	¿Eh?
+Message	Shido	Wha! Hey-! W-W-W-What's going on, Rinne?!	¡Que! ¡Hey! ¡¿Qu-Qu-Qué está pasando, Rinne?!
+Message	Rinne	"Shido, you don't seem well, and your face is pale...
+You might have a fever."	Shido, no pareces estar bien, y tu cara está pálida...  Puede que tengas fiebre.
+Message	Shido	"Huh, what...?!  What're you saying? I-I'm fine!
+I don't have a fever! What's wrong, Rinne?!"	¿Eh, qué...?  ¿Qué estás diciendo? ¡Estoy bien!  ¡No tengo fiebre! ¡¿Qué pasa, Rinne?!
+Message	Rinne	"Hee hee. What do you mean, what's wrong...?
+Checking you for a fever by touching foreheads...
+We used to do it in the past all the time, right?"	Hee hee. ¿Qué quieres decir?  Comprobar si tienes fiebre tocándote la frente...  Solíamos hacerlo en el pasado todo el tiempo, ¿verdad?
+Message	Shido	D-Did we do that...?	¿Hicimos eso...?
+Message	Rinne	Did you forget...?	¿Olvidaste...?
+Message	Shido	"No, I mean, we may have done it...
+But since we're in school―"	No, quiero decir, puede que lo hayamos hecho...  Pero ya que estamos en la escuela-
+Message	Rinne	"It'll be over soon, okay? You're a good kid, so
+close your eyes..."	Pronto terminará, ¿de acuerdo? Eres un buen chico, así que cierra los ojos...
+Message	Shido	"Wait! But, you know!
+I-If Origami comes back, what on earth will she say―"	¡Espera!  Si Origami regresa, ¿qué diablos dirá...?
+Message		(More importantly, if I closed my eyes now, it looks like you'll kiss me!)	(Y lo que es más importante, si ahora cerrara los ojos, ¡parecería que me vas a besar!)
+Message	Rinne	Don't worry, Tobiichi-san won't come back for a while...	No te preocupes, Tobiichi-san no volverá por un tiempo...
+Message	Shido	...Huh?	...¿Eh?
+Message	Rinne	So, here, come on?	Entonces, aquí, ¿vamos?
+Message	Shido	Ah...	Ah...
+Message		(Wh-What is this feeling...?)	(¿Qué es este sentimiento...?)
+Message		"(My head feels cold... I feel calmer somehow...
+It's like, something is falling away―)"	(Siento frío en la cabeza... Me siento más tranquilo de alguna manera...  Es como si algo se estuviera cayendo-)
+Message	Shido	―!?	-!?
+Message	Rinne	...Ah...	...Ah...
+Message	Origami	What are you doing?	¿Qué estás haciendo?
+Message	Shido	Um! This is, well―!	¡Um! Esto es, ¡bueno!
+Message	Rinne	Shido wasn't looking too well, so I was checking for a fever.	Shido no tenía muy buen aspecto, así que comprobé si tenía fiebre.
+Message	Origami	I see...	Ya veo...
+Message	Rinne	"But thank goodness. It looks like you don't have one.
+You've only just got better, so don't push yourself,
+all right?"	Pero gracias a Dios. Parece que no tienes.  Acabas de mejorar, así que no te presiones, ¿de acuerdo?
+Message	Shido	Y-Yeah...	S-Sí...
+Message	Origami	......	......
+Message	Rinne	"Sorry Shido, I just remembered something I have to do.
+I'm sorry, but would it be okay for me to go home first?"	Lo siento Shido, acabo de recordar algo que tengo que hacer.  Lo siento, ¿pero estaría bien que me fuera a casa primero?
+Message	Shido	Huh...? I-I see... Well, if you have something to do, it can't be helped.	¿Eh...? Ya veo... Bueno, si tienes algo que hacer, no se puede evitar.
+Message	Rinne	I'm sorry, Tobiichi-san, even though we were just about to start.	Lo siento, Tobiichi-san, aunque estábamos a punto de empezar.
+Message	Origami	There's no problem. I should apologize for not hosting you properly.	No hay ningún problema. Debería disculparme por no hospedarte adecuadamente.
+Message	Rinne	"No, you were perfectly fine.
+Thank you for the tea. Okay then, I'll be going now.
+I'll see you at school tomorrow, Tobiichi-san. See you later, Shido!"	No, estuviste perfectamente bien.  Gracias por el té. Bien entonces, me voy.  Te veré mañana en la escuela, Tobiichi-san. ¡Hasta luego, Shido!
+Message	Shido	R-Right...	Derecha...
+Message	Shido	Whew... Okay then, let's study...	Uf... Bien entonces, vamos a estudiar...
+Message	Origami	Study what?	¿Estudiar qué?
+Message	Shido	Er... What?	Er... ¿Qué?
+Message	Origami	As in study for a test? Or an alternative form of studying?	¿Estudiar para un examen? ¿O una forma alternativa de estudiar?
+Message	Shido	Alternative, meaning?	Alternativa, ¿qué significa?
+Message	Origami	Lo―	Lo-
+Message	Shido	Y-You don't have to say it! We're doing normal studying!	¡No hace falta que lo digas! ¡Estamos estudiando normal!
+Message	Origami	I see. Shame...	Ya veo. Lástima...
+Message		"(A-As I thought, I sense danger to myself when alone with
+Origami...)"	(Como pensaba, me siento en peligro cuando estoy a solas con Origami...)
+Message		"(I wonder if something happened with Rinne.
+I feel like she was acting different than usual...)"	(Me pregunto si ha pasado algo con Rinne.  Siento que ella estaba actuando diferente de lo habitual...)
+Message	Origami	"Shido, I have memories of studying here in the same way
+before."	Shido, tengo recuerdos de haber estudiado aquí de la misma manera antes.
+Message	Shido	Huh?	¿Eh?
+Message	Origami	"This problem, your answer. I'm pretty sure it's exactly the same.
+When I studied here with you..."	Este problema, su respuesta. Estoy bastante seguro de que es exactamente la misma.  Cuando estudié aquí contigo...
+Message	Shido	"Huh?! Now that you mention it, you're right.
+We've studied together before, haven't we?"	¡¿Eh?! Ahora que lo mencionas, tienes razón.  Hemos estudiado juntos antes, ¿no?
+Message	Origami	Definitely.	Por supuesto.
+Message	Shido	"Yeah, I figured... But, I can't put my finger on it...
+When did I come to your house? When did we study?
+I was asleep in bed, so that should be impossible..."	Sí, me lo imaginaba... Pero, no puedo poner mi dedo en la llaga...  ¿Cuándo fui a tu casa? ¿Cuándo estudiamos?  Estaba durmiendo en la cama, así que eso debería ser imposible...
+Message	Origami	That I also don't know.	Eso tampoco lo sé.
+Message	Shido	That's kinda scary...	Eso da un poco de miedo...
+Message	Origami	Something may be happening.	Algo puede estar pasando.
+Message	Shido	"Yeah, you might be right.
+For now, I'll be leaving for today.
+There's something I need to think about too."	Sí, puede que tengas razón.  Por ahora, me iré por hoy.  Hay algo en lo que necesito pensar también.
+Message	Origami	I see...	Ya veo...
+Message	Shido	S-Sorry, even though I was the one who invited you...	Lo siento, aunque fui yo quien te invitó...
+Message	Origami	It's no problem. There's something that's bothering me slightly too.	No es ningún problema. Hay algo que también me preocupa un poco.
+Message	Shido	I-I see... Then, see you later!	Ya veo... Entonces, ¡hasta luego!
+Message	Origami	...Shido.	...Shido.
+Message	Shido	Hm? What's wrong?	¿Qué? ¿Qué es lo que pasa?
+Message	Origami	I'd be happy if you invited me again.	Me alegraría que me invitaras de nuevo.
+Message	Shido	Y-Yeah. Leave it to me.	Sí. Déjamelo a mí.
+Message		(*sigh*... Really, what's going on...?)	(*suspiro*... En serio, ¿qué está pasando...?)
+Message		"(If it were just me, I could assume it had something to
+do with my head after recovering, but if Origami has the
+same memory, then it might've happened...)"	(Si fuera sólo yo, podría suponer que tiene algo que ver con mi cabeza después de recuperarme, pero si Origami tiene el mismo recuerdo, entonces podría haber pasado...)
+Message		"(No. Maybe there's a chance that two people can experience
+the same déjà vu.)"	(No. Quizá exista la posibilidad de que dos personas experimenten el mismo déjà vu).
+Message		(Man, I have no idea...)	(Hombre, no tengo ni idea...)
+Message		"(And I'm worried about Rinne...
+She seemed kinda strange...)"	(Y estoy preocupado por Rinne... Parecía un poco extraña...)
+Message		"(If something's troubling her, she could just tell me.
+We are childhood friends after all...)"	(Si algo le preocupa, podría decírmelo.  Después de todo, somos amigos de la infancia...)
+Message		"(She said something came up all of a sudden, but
+I wonder what it is...)"	(Dijo que le había surgido algo de repente, pero me pregunto qué será...)

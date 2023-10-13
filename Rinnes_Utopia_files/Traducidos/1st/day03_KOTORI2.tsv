@@ -1,0 +1,115 @@
+Operator	Comment	Key	Translation
+Message	Shido	"I'm done with errands. Now I've got plenty
+of time to go on a date."	He terminado con los recados. Ahora tengo tiempo de sobra para ir a una cita.
+Message	Shido	"I wonder if Kotori's already home. I guess
+I could stop by the house."	Me pregunto si Kotori ya estará en casa. Supongo que podría pasarme por casa.
+Message	Shido	Huh...? A transmission from the Fraxinus?	¿Eh...? ¿Una transmisión del Fraxinus?
+Message	Kannazuki	Hey, Shido-kun. How are you?	Hey, Shido-kun. ¿Qué tal estás?
+Message	Shido	"Kannazuki-san...? What's the matter?
+Is something wrong?"	¿Kannazuki-san...? ¿Qué ocurre?  ¿Pasa algo malo?
+Message	Kannazuki	You see... I would love it if you could\nassist me with something, Shido-kun.	Verás... Me encantaría que pudieras ayudarme con algo, Shido-kun.
+Message	Shido	What is it?	¿De qué se trata?
+Message	Kannazuki	"Well... I would like to ask you to
+participate in an experiment."	Bueno... Me gustaría pedirle que participe en un experimento.
+Message	Shido	Uh... I have a bad feeling about this.	Uh... Tengo un mal presentimiento sobre esto.
+Message	Kannazuki	Now, don't be like that. It's an important\nexperiment that could determine the\nfuture of the Fraxinus.	No seas así. Es un importante experimento que podría determinar el futuro del Fraxinus.
+Message	Shido	So, what kind of experiment is it?	Entonces, ¿qué tipo de experimento es?
+Message	Kannazuki	Well, I have personally put a lot of thought\ninto developing a new date A.I. system...	Bueno, personalmente he pensado mucho en desarrollar un nuevo sistema de inteligencia artificial...
+Message	Shido	Personally...?	¿Personalmente...?
+Message	Kannazuki	The Fraxinus' ship A.I. is highly advanced,\nbut just in case it shuts down, we will need\na back-up plan, or else...!	La I.A. de la nave Fraxinus es muy avanzada, pero en caso de que se apague, necesitaremos un plan de respaldo, ¡o si no...!
+Message	Kannazuki	Should that happen, I was thinking of having\na failsafe system developed.	En caso de que eso ocurra, estaba pensando en tener\na sistema a prueba de fallos desarrollado.
+Message	Shido	"Uh. I've got a seriously bad feeling about
+this."	Uh. Tengo un serio mal presentimiento sobre esto.
+Message	Kannazuki	Now, now. Don't be like that! You will be\nfully supported and protected by the Fraxinus'\nprized technicians.	Ya, ya. ¡No seas así! Usted será apoyado y protegido por los técnicos de Fraxinus.
+Message	Shido	"How is that supposed to comfort me?!
+What system is it, anyway?"	¡¿Cómo se supone que eso va a consolarme?!  ¿Qué sistema es?
+Message	Kannazuki	It's based on the ultimate moe game.\nA title they say will stand the test of time.	Se basa en el juego moe definitivo.\NUn título que dicen que resistirá el paso del tiempo.
+Message	Kannazuki	"It's considered to be a masterpiece of the\ntsundere genre. It's called, Big Brother, Bad!"""	"Se la considera una obra maestra del género de los ntsundere. Se titula: ""¡Gran Hermano, Malo!""."
+Message	Shido	"From the name alone, it doesn't sound
+like a healthy game!"	Sólo por el nombre, no parece un juego saludable.
+Message	Kannazuki	Come now, don't be like that...\nThe commander approved it herself.	Vamos, no seas así... La comandante lo aprobó ella misma.
+Message	Shido	What... Kotori has?	¿Qué... ¿Kotori tiene?
+Message	Kannazuki	That's right. The commander gave her approval\nof this system in case of emergency.	Así es. El comandante le dio su aprobación para este sistema en caso de emergencia.
+Message		"(Kotori did...? If that's true, will there be
+consequences if I fail to comply...?)"	(¿Kotori lo hizo...? Si eso es cierto, ¿habrá consecuencias si no cumplo...?)
+Message	Shido	"Um, so this simulation... When do I have
+to do it, and who's the target?"	Um, así que esta simulación... ¿Cuándo tengo que hacerlo, y quién es el objetivo?
+Message	Kannazuki	Immediately, of course! And the target\nis our idol, the commander!	¡Inmediatamente, por supuesto! ¡Y el objetivo es nuestro ídolo, el comandante!
+Message	Shido	Why does this feel rigged to fail?!	¡¿Por qué esto parece amañado para fracasar?!
+Message	Kannazuki	It'll be fine! The commander's already\nreturned home!	¡Saldrá bien! ¡El comandante ya ha vuelto a casa!
+Message	Shido	What...? O-Oh, I see...	¿Qué...? O-Oh, ya veo...
+Message	Kannazuki	The commander gave the go-ahead whenever\nyou're ready. Please, give it your all.	El comandante dio el visto bueno siempre que estén listos. Por favor, denlo todo.
+Message	Shido	"Okay... So I should head over to Kotori's
+place...?"	Bueno... ¿Entonces debería ir a casa de Kotori...?
+Message	Kannazuki	Thank you!	Gracias.
+Message		(To be honest, I'm terrified...)	(Para ser sincero, estoy aterrorizado...)
+Message	Shido	Hey, Kotori...?	Oye, Kotori...
+Message	Kotori	What is it...?	¿Qué es...?
+Message		(Whoa... She already looks cranky.)	(Vaya... Ya parece malhumorada.)
+Message	Shido	Kannazuki-san, I've made it to Kotori's.	Kannazuki-san, he llegado a casa de Kotori.
+Message	Kannazuki	Understood. Location: Home.\nTime: Pre-supper. Prepping!\nOne moment, please!	Entendido. Lugar: En casa: Pre-supper. ¡Preparando! ¡Un momento, por favor!
+Message	Kotori	Hey, what are you sneaking around for?	Oye, ¿por qué andas a escondidas?
+Message	Shido	O-Oh... Nothing.	O-Oh... Nada.
+Message	Kannazuki	Ohhh! The simulated results have generated!\nYou'll have one of two choices...	¡Ohhh! ¡Los resultados simulados se han generado! Tendrás una de dos opciones...
+Message	Kannazuki	One, I can't fight these feelings. Hug her!\nTwo, see me for who I really am. Strip down!\nOkay Shido-kun, go ahead and choose!	Uno, no puedo luchar contra estos sentimientos. ¡Abrázala! Dos, mírame como realmente soy. ¡Desnúdate! ¡Bien Shido-kun, adelante y elige!
+Message	Shido	What... the heck?!	¡¿Qué... demonios?!
+Message	Kotori	"Hey! I'm the one who should be saying that!
+You call for me, and you've got nothing to say?"	¡Eh! ¡Soy yo quien debería decir eso!  ¿Me llamas y no tienes nada que decir?
+Message	Kannazuki	Shido-kun, act quickly. The commander is\nangry...	Shido-kun, actúa rápido. El comandante está enfadado...
+Message	Shido	...Argh!	...¡Argh!
+Choice		I can't fight these feelings. Hug her!	No puedo luchar contra estos sentimientos. ¡Abrázala!
+Choice		See me for who I really am. Strip down!	Mírame como realmente soy. ¡Desnúdate!
+Message	Shido	K-Kotori... I'm sorry!	K-Kotori... ¡Lo siento!
+Message	Kotori	Aaah!	¡Aaah!
+Message	Shido	K-Kotori, is this okay?!	K-Kotori, ¡¿esto está bien?!
+Message	Kotori	"Wh-What are you talking about?!
+You freaking pervert!"	¡¿De qué estás hablando?!  ¡Maldito pervertido!
+Message	Shido	GAH!	¡GAH!
+Message	Kotori	Wh-What's gotten into you?!	¡¿Qué te pasa?!
+Message	Shido	"W-Well, Kannazuki-san said he's performing
+an experiment for a new A.I. system..."	Bueno, Kannazuki dijo que está realizando un experimento para un nuevo sistema de inteligencia artificial...
+Message	Kotori	"Experiment? New A.I. system? Kannazuki?
+Y-You... went along with his experiment to
+subject me to this...?"	¿Experimento? ¿Nuevo sistema de inteligencia artificial? ¿Kannazuki?  Tú... ¿hiciste su experimento para someterme a esto...?
+Message	Shido	Yeah. I heard you approved it.	Sí. Oí que lo aprobaste.
+Message	Kotori	"I only approved this supposed new system,
+but I didn't bother to hear all the details."	Sólo aprobé este supuesto nuevo sistema, pero no me molesté en escuchar todos los detalles.
+Message	Shido	S-Sorry...	Lo siento...
+Message	Kotori	Anyways, Shido...	De todos modos, Shido...
+Message	Shido	Yes, imouto-sama?	¿Sí, imouto-sama?
+Message	Kotori	There will be no next time. Remember that.	No habrá próxima vez. Recuérdalo.
+Message	Shido	O...O...Okay...	O...O...Ok...
+Message	Kannazuki	The commander's cold gaze, coupled with\nher scathing response. Incredible! This\nsystem is already yielding fantastic results!	La fría mirada del comandante, unida a su mordaz respuesta. ¡Increíble! ¡Este sistema ya está dando resultados fantásticos!
+Message	Shido	"Excuse me?! Wait, the purpose of this
+system is..."	¡¿Perdón?! Espera, el propósito de este sistema es...
+Message	Kannazuki	Obviously, it's an intuitive simulation\nplatform designed to coax extreme\nemotional responses from women!	Obviamente, se trata de una plataforma de simulación intuitiva diseñada para obtener respuestas emocionales extremas de las mujeres.
+Message	Shido	GET RID OF IT THIS INSTANT!	¡DESHAZTE DE ÉL AHORA MISMO!
+Message	Shido	K-Kotori... I want you to see all of me!	K-Kotori... ¡Quiero que veas todo de mí!
+Message	Kotori	"What the—? Wh-Why are you taking your
+clothes off?!"	¿Qué...? ¡¿Por qué te estás quitando la ropa?!
+Message	Shido	K-Kotori! D-Do you like this?!	¡K-Kotori! ¡¿Te gusta esto?!
+Message	Kotori	Wh-What are you talking about?! You pervert!	¡¿De qué estás hablando?! ¡Pervertido!
+Message	Shido	GAH!	¡GAH!
+Message	Kotori	Wh-What has gotten into you?!	¡¿Qué te pasa?!
+Message	Shido	"W-Well, Kannazuki-san said he's performing
+an experiment for a new A.I. system..."	Bueno, Kannazuki dijo que está realizando un experimento para un nuevo sistema de inteligencia artificial...
+Message	Kotori	"Experiment? New A.I. system? Kannazuki?
+Y-You... went along with his experiment to
+subject me to this...?"	¿Experimento? ¿Nuevo sistema de inteligencia artificial? ¿Kannazuki?  Tú... ¿hiciste su experimento para someterme a esto...?
+Message	Shido	Yeah. I heard you approved it.	Sí. Oí que lo aprobaste.
+Message	Kotori	"I only approved this supposed new system,
+but I didn't bother to hear all the details."	Sólo aprobé este supuesto nuevo sistema, pero no me molesté en escuchar todos los detalles.
+Message	Shido	"But I was given the options either to hug you,
+or strip off my clothes, so I figured at least
+taking off my clothes would only embarrass me."	Pero me dieron la opción de abrazarte o desnudarme, así que pensé que al menos desnudarme sólo me avergonzaría.
+Message	Kotori	So, you chose to remove your clothing?	Entonces, ¿elegiste quitarte la ropa?
+Message	Shido	"Y-Yeah... I thought it'd be better than
+forcing contact onto you."	S-Sí... Pensé que sería mejor que forzar el contacto contigo.
+Message	Kotori	"B-But you've hugged me plenty of times...
+You idiot."	P-Pero me has abrazado muchas veces...  Idiota.
+Message	Shido	Man, she stormed off...	Tío, se fue enfadada...
+Message	Shido	"Besides, how the hell did I end up like this?
+Hey, wait! I thought this was a simulation,
+Kannazuki-san?!"	Además, ¿cómo demonios he acabado así?  ¡Eh, espera! ¡¿Pensé que esto era una simulación, Kannazuki-san?!
+Message	Kannazuki	Obviously, it's an intuitive simulation\nplatform designed to coax extreme\nemotional responses from women!	Obviamente, se trata de una plataforma de simulación intuitiva diseñada para obtener respuestas emocionales extremas de las mujeres.
+Message	Shido	I got the butt end of the stick here!!	¡Aquí me tocó la peor parte!

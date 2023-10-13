@@ -1,0 +1,135 @@
+Operator	Comment	Key	Translation
+Message	Shido	"Phew, maybe I ate too much. But Rinne's food is
+always so delicious I can't help but eat too much."	Uf, tal vez comí demasiado. Pero la comida de Rinne es siempre tan deliciosa que no puedo evitar comer demasiado.
+Message	Shido	"There's a hint of sweetness. It's hard to explain, but
+it's so appetizing. It makes my body feel warm and
+comfortable. Just a good home-cooked meal."	Hay un toque de dulzura. Es difícil de explicar, pero es muy apetecible. Hace que mi cuerpo se sienta cálido y confortable. Una buena comida casera.
+Message	Shido	Hm? Who could be calling?	¿Hm? ¿Quién podría estar llamando?
+Message	Shido	What?! O-Origami...?	¡¿Qué?! ¿O-Origami...?
+Message	Shido	Hello?	Hola?
+Message	Origami	Shido?	¿Shido?
+Message	Shido	Yeah. What's up?	Sí. ¿Qué hay de nuevo?
+Message	Origami	I know everything about you, Shido.	Lo sé todo sobre ti, Shido.
+Message	Shido	Huh?	¿Eh?
+Message	Origami	Thanks for today.	Gracias por hoy.
+Message	Shido	Oh... yeah. Me too, thank you.	Oh... sí. Yo también, gracias.
+Message	Origami	...	...
+Message	Shido	Uh... so... is that it? Did you want to say anything else...	Entonces... ¿eso es todo? ¿Querías decir algo más ...
+Message	Origami	Not really.	La verdad es que no.
+Message	Shido	O-Oh. I see.	O-Oh. Ya veo.
+Message	Origami	Do I need business to call you?	¿Necesito un negocio para llamarte?
+Message	Shido	Well... that's not it.	Bueno... no es eso.
+Message	Origami	I couldn't get a hold of the AST.	No pude contactar con el AST.
+Message	Shido	What?	¿Cómo?
+Message	Origami	They may really be busy.	Puede que estén muy ocupados.
+Message	Shido	I-I see. It must be really tough right now.	Ya veo. Debe ser muy duro ahora mismo.
+Message	Origami	Mmm...	Mmm...
+Message	Shido	...	...
+Message	Origami	...	...
+Message		"(Our conversation has to continue! But w-what
+should we even talk about?)"	(¡Nuestra conversación tiene que continuar! ¿Pero de qué deberíamos hablar?)
+Message	Origami	How's your studying going?	¿Cómo van tus estudios?
+Message	Shido	"Oh. It's not. I was going to ask Rinne
+or Origami to help me study."	Oh. No lo es. Iba a pedirle a Rinne o a Origami que me ayudaran a estudiar.
+Message	Origami	Why did you say Rinne's name first?	¿Por qué has dicho primero el nombre de Rinne?
+Message	Shido	Huh?	¿Eh?
+Message	Origami	Nothing. Well, I'll talk to you again later.	Nada. Bueno, hablaremos más tarde.
+Message	Shido	O-Okay...	Vale...
+Message		(Ah... did I do it again?)	(Ah... ¿lo he vuelto a hacer?)
+Message		"(Or rather... what was that all about?
+I wonder if she called me to give me information
+about the AST.)"	(O mejor dicho... ¿de qué iba todo eso?  Me pregunto si me llamó para darme información sobre la AST).
+Message		"(OH! I didn't tell Kotori that I told Origami everything.
+I should tell her, right?)"	(¡OH! No le he dicho a Kotori que se lo conté todo a Origami.  Debería decírselo, ¿verdad?)
+Message		(*sigh* I'll go report to her after I take a bath.)	(*suspiro* Iré a informarle después de bañarme).
+Message		(Ah. I don't know why I'm so tired.)	(Ah. No sé por qué estoy tan cansado.)
+Message		(I should soak for a long time today...)	(Hoy debería ponerme en remojo durante mucho tiempo...)
+Message	Shido	Oh? Someone left the light on?	¿Oh? ¿Alguien dejó la luz encendida?
+Message	Shido	What?	¿Cómo?
+Message	Kotori	Shi...do?	¿Shi...do?
+Message	Shido	K-Kotori...? What are you...?	¿K-Kotori...? ¿Qué estás...?
+Message	Kotori	What? Why are you in a daze?	¿Por qué estás aturdido? ¿Por qué estás aturdido?
+Message	Shido	"Oh. Uh... u-uh... I was just wondering if we
+ran out of shampoo or not..."	Oh. Uh ... u-uh ... Me preguntaba si nos quedamos sin champú o no ...
+Message	Kotori	You idiot! You idiot brother!	¡Idiota! ¡Hermano idiota!
+Message	Shido	S-Sorry! It wasn't on purpose!	¡Lo siento! ¡No fue a propósito!
+Message	Kotori	You ready?	¿Estás listo?
+Message	Shido	W-Wait. Can we talk about...	E-Espera. ¿Podemos hablar de...
+Message	Kotori	Ugh. You're hopeless.	Ugh. No tienes remedio.
+Message	Shido	"I-I said I'm sorry. We used to bathe together
+back in the day. What's the big deal?"	Dije que lo siento. Solíamos bañarnos juntos hace tiempo. ¿Cuál es el problema?
+Message	Kotori	Did you say something?	¿Has dicho algo?
+Message	Shido	"Nothing, nothing at all!
+I actually wanted to talk to you."	¡Nada, nada de nada!  En realidad quería hablar contigo.
+Message	Kotori	What? Why are you changing the subject?	¿Por qué cambias de tema? ¿Por qué cambias de tema?
+Message	Shido	I-I'm sorry...	Lo siento...
+Message		"(I told Kotori that I told Origami everything,
+and that it seemed like the AST was also
+barely functional right now.)"	(Le dije a Kotori que se lo había contado todo a Origami, y que parecía que el AST tampoco funcionaba ahora mismo).
+Message	Kotori	"Shido, what's with the loose lips? I'm shocked
+to hear how easy you gave up this information."	Shido, ¿qué pasa con los labios sueltos? Me sorprende oír lo fácil que has dado esta información.
+Message	Shido	I-I'm sorry.	Lo siento.
+Message	Kotori	"Well... it's fine. Thanks to that, I may be able
+to prevent AST's situation."	Bueno... está bien. Gracias a eso, puedo ser capaz de prevenir la situación de AST.
+Message	Shido	R-Really? Did you get any more information?	¿En serio? ¿Conseguiste más información?
+Message	Kotori	"No. We were able to observe the Spirits' reaction
+throughout Tengu City, but... that's all we know."	No. Pudimos observar la reacción de los Espíritus en toda Ciudad Tengu, pero... eso es todo lo que sabemos.
+Message	Shido	Is there no way to look into it further?	¿No hay forma de seguir investigando?
+Message	Kotori	"We would've if it was possible, but we can't
+get a hold of headquarters so there's nothing
+we can really do."	Lo habríamos hecho si fuera posible, pero no podemos contactar con la sede, así que no podemos hacer nada.
+Message	Kotori	"We're in the middle of a big phenomenon though.
+And I think Tengu City is in the center of this big
+change. That's all I can say for sure."	Pero estamos en medio de un gran fenómeno.  Y creo que Ciudad Tengu está en el centro de este gran cambio. Eso es todo lo que puedo decir con seguridad.
+Message	Shido	I see.	Ya veo.
+Message	Kotori	Don't give me that look.	No me mires así.
+Message	Shido	But...	Pero...
+Message	Kotori	"Shido, your job is to go on dates with Spirits and
+stabilize them. If a girl dates a guy with the face
+you're wearing, they'll only feel worse."	Shido, tu trabajo es ir a citas con Espíritus y estabilizarlos. Si una chica sale con un chico con la cara que llevas, solo se sentirán peor.
+Message	Shido	Sorry. I looked that glum, huh?	Perdonadme. Parecía tan triste, ¿eh?
+Message	Kotori	"Kinda. Although Origami Tobiichi isn't a spirit,
+she's still pretty important. Continue to have her
+on your list as well."	Algo así. Aunque Origami Tobiichi no es un espíritu, sigue siendo bastante importante. Continúa teniéndola también en tu lista.
+Message	Kotori	"We'll figure out the whole mystery so you just continue
+to be yourself, or else you'll get yourself in a worse bind."	Averiguaremos todo el misterio para que sigas siendo tú mismo, o te meterás en un lío peor.
+Message	Shido	G-Got it.	Lo tengo.
+Message	Kotori	"And if she gives you more information, you report
+it to me immediately."	Y si te da más información, me la comunicas inmediatamente.
+Message	Shido	Okay...	Bueno...
+Message	Rinne	Alright, I'll be borrowing your kitchen then.	De acuerdo, entonces tomaré prestada tu cocina.
+Message	Shido	Yeah, sorry for the trouble all the time.	Sí, perdón por las molestias todo el tiempo.
+Message	Rinne	"Hee hee, you promised not to say that, right?
+Next door neighbors help each other out, after all."	Prometiste no decir eso, ¿verdad?  Los vecinos de al lado se ayudan, después de todo.
+Message	Shido	"Of course. If there's ever anything I can help with
+at your house Rinne, you can always ask me."	Por supuesto. Si alguna vez hay algo en lo que pueda ayudar en tu casa Rinne, siempre puedes pedírmelo.
+Message	Rinne	Thanks, Shido. But I don't think there's anything right now?	Gracias, Shido. Pero no creo que haya nada ahora mismo...
+Message	Shido	It's true, you do have it together, Rinne...	Es verdad, lo tienes todo junto, Rinne...
+Message	Rinne	...Is that so? I hope so...	...¿Es así? Eso espero...
+Message	Shido	Hm? What's wrong?	¿Qué? ¿Qué es lo que pasa?
+Message	Rinne	It's nothing. Alright then, I'll prepare things quickly.	No es nada. Muy bien entonces, voy a preparar las cosas rápidamente.
+Message	Shido	Alright, I'll be watching the pot on my end. I'll leave that side to you.	De acuerdo, vigilaré la olla por mi parte. Te dejaré ese lado a ti.
+Message	Rinne	Okay. Leave it to me.	De acuerdo. Déjamelo a mí.
+Message	Rinne	Today's meal is meat and potato stew.	La comida de hoy es estofado de carne y patatas.
+Message	Tohka	Ohhh! This is quite the delicious smell!	¡Ohhh! ¡Es un olor delicioso!
+Message	Shido	Everyone's here, right? Then, let's eat!	Todos están aquí, ¿verdad? Entonces, ¡a comer!
+Message	Tohka	Yes!  Let us eat!	¡Sí!  ¡Dejadnos comer!
+Message	Kotori	Yeah! Time to eat!	¡Sí! ¡Hora de comer!
+Message	Yoshino	L...Let's eat!	L... ¡A comer!
+Message	Tohka	It's fluffy and delicious, Shido...!	¡Es esponjoso y delicioso, Shido...!
+Message	Shido	You're right, this is definitely a motherly flavor.	Tienes razón, este es definitivamente un sabor maternal.
+Message	Tohka	Motherly flavor?	¿Sabor maternal?
+Message	Rinne	Umm...I guess you could say it means, a nostalgic sort of taste?	Umm... Supongo que se podría decir que significa, ¿un tipo de sabor nostálgico?
+Message	Shido	That's right. I wonder why, the taste is reassuring.	Así es. Me pregunto por qué, el sabor es tranquilizador.
+Message	Tohka	"Hmm. I see...
+Then I must aim for a motherly taste when I cook!"	Hmm. Ya veo...  ¡Entonces debo aspirar a un sabor maternal cuando cocine!
+Message	Shido	Huh? You, cooking...?	¿Eh? ¿Tú, cocinando...?
+Message	Tohka	"Yes! I can do something like cooking too, Shido.
+I make such things like cookies occasionally too..."	¡Sí! Yo también puedo hacer algo como cocinar, Shido.  Yo también hago cosas como galletas de vez en cuando...
+Message	Shido	Oh, that's right. Sorry.	Ah, es verdad. Lo siento.
+Message	Rinne	Oh, Tohka-chan, would you like seconds?	Oh, Tohka-chan, ¿quieres segundos?
+Message	Tohka	Yes Rinne, please!	¡Sí Rinne, por favor!
+Message	Rinne	"Hee hee, you're welcome.
+Don't rush too much and spill it."	De nada.  No se apresure demasiado y derramarlo.
+Message	Tohka	Yes! Leave it to me!	¡Sí! ¡Déjamelo a mí!
+Message	Shido	Good grief...	Santo cielo...

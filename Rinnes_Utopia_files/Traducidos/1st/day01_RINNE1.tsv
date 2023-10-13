@@ -1,0 +1,221 @@
+Operator	Comment	Key	Translation
+Message	Shido	A date, huh? I'm really not feeling up to it.	Una cita, ¿eh? No me apetece mucho.
+Message	Shido	"And lately... something about Rinne's been
+bothering me."	Y últimamente... algo de Rinne me ha estado molestando.
+Message	Rinne	Shido, did you call me?	Shido, ¿me has llamado?
+Message	Shido	Whoa! R-Rinne?!	¡Guau! ¡¿R-Rinne?!
+Message	Rinne	Yes?	¿Sí?
+Message	Shido	Er, um... sorry, but I really didn't call for you or anything.	Er, um... lo siento, pero realmente no te llamé ni nada.
+Message	Rinne	Aw, really? I thought you were going to take me out.	¿En serio? Pensé que ibas a sacarme.
+Message	Shido	H-How did you know I wanted to take you on a date?	¿Cómo sabías que quería llevarte a una cita?
+Message	Rinne	Um, well... I just said that for the heck of it. You wanna take me out, huh?	Bueno... Sólo lo dije porque sí. ¿Quieres llevarme a cabo, ¿eh?
+Message	Shido	Uh...	Uh...
+Message	Rinne	"Hehe, you're really proactive, aren't you?
+But seriously, do you really wanna go out
+with someone like me?"	Jeje, eres muy proactivo, ¿verdad?  Pero en serio, ¿de verdad quieres salir con alguien como yo?
+Message	Shido	That's...	Eso es...
+Message	Rinne	Hehe, if you want to take it back, now's your chance.	Jeje, si quieres retractarte, esta es tu oportunidad.
+Message	Shido	I-It's you. I want to go with you.	Eres tú. Quiero ir contigo.
+Message	Rinne	Huh?! Y-You really... w-wanna go with me?	¡¿Eh?! ¿De verdad... quieres venir conmigo?
+Message	Shido	Y-Yeah.	Sí.
+Message		"(In all honesty... it's true that I'm curious about her.
+Besides, it'll be nice to relax with Rinne.)"	(Sinceramente... es verdad que siento curiosidad por ella.  Además, será agradable relajarse con Rinne).
+Message	Rinne	"Um... instead of someone like me, it'd be better
+to invite someone else..."	Um... en lugar de alguien como yo, sería mejor invitar a alguien más...
+Message	Shido	R-Really?	¿En serio?
+Message	Rinne	Yeah. Oh, look! Tohka-chaaan!	Sí. ¡Oh, mira! ¡Tohka-chaaan!
+Message	Tohka	Hm? What is the matter?	¿Qué? ¿Cuál es el problema?
+Message	Rinne	Shido wants to go on a date with you.	Shido quiere tener una cita contigo.
+Message	Shido	Huh?! Rinne!	¡¿Eh?! ¡Rinne!
+Message	Tohka	Oh! Is that right, Shido?	¡Oh! ¿Es cierto, Shido?
+Message	Shido	Er, w-well you see...	Verá...
+Message	Tohka	"Shido, could it be that you do not wish to date me?
+Is it possible... you're still upset about what happened
+at lunch?"	Shido, ¿es posible que no quieras salir conmigo?  ¿Es posible... que aún estés disgustado por lo que pasó en la comida?
+Message	Shido	No, not at all. It's fine.	No, para nada. Está bien.
+Message	Tohka	"Sorry, Shido. I was so worried. I stayed so long in the
+infirmary that they threw me out. I'm glad you're alright."	Lo siento, Shido. Estaba tan preocupada. Estuve tanto tiempo en la enfermería que me echaron. Me alegro de que estés bien.
+Message	Shido	I-I see...	Ya veo...
+Message		(If I turn her down here, it'll definitely worsen her mood.)	(Si la rechazo aquí, seguro que empeorará su humor).
+Message	Shido	Let's go on a date, Tohka!	¡Tengamos una cita, Tohka!
+Message	Tohka	Yes! It is decided!	¡Sí! ¡Está decidido!
+Message	Shido	Y-Yep!	¡Sí!
+Message	Tohka	Okay, let us go right away! All three of us!	¡Vale, vámonos ahora mismo! ¡Los tres!
+Message	Shido	Huh?	¿Eh?
+Message	Rinne	Three of us?	¿Nosotros tres?
+Message	Tohka	Why, yes! Aren't you coming, Rinne?	¡Claro que sí! ¿No vienes, Rinne?
+Message	Rinne	Huh?! No, I...	¡¿Eh?! Bueno, yo...
+Message	Tohka	Let's go already!	¡Vamos ya!
+Message	Rinne	Ah! T-Tohka-chan?!	¡Ah! ¡¿T-Tohka-chan?!
+Message	Shido	......	......
+Message	Tohka	Hey! What's taking so long, Shido?	¡Eh! ¿Por qué tardas tanto, Shido?
+Message	Shido	Right, right! I'm coming!	¡Vale, vale! ¡Ya voy!
+Message		"(And that's how, for some reason, the three of us
+ended up going on a date.)"	(Y así fue como, por alguna razón, los tres acabamos teniendo una cita).
+Message	Tohka	Hm... would you like to see a movie, Rinne?	¿Te gustaría ver una película, Rinne?
+Message	Rinne	"Huh? Um... I thought it was implied a date
+involved a movie... w-was I wrong?"	¿Eh? Um... pensé que estaba implícito que una cita involucraba una película... ¿me equivoqué?
+Message	Shido	"No, you're right. I think going to a movie
+is pretty standard."	No, tienes razón. Creo que ir al cine es bastante normal.
+Message	Rinne	I-I see. That sounds good to me then.	Ya veo. Me parece bien entonces.
+Message	Rinne	Oh, look!	¡Oh, mira!
+Message	Shido	"Hm? Lemme see, a 3D blockbuster...
+Oh, that one is a romance movie, huh?"	¿Eh? Déjame ver, una superproducción en 3D...  Oh, esa es una película romántica, ¿eh?
+Message	Rinne	Tohka-chan, I think this looks like something you'd like.	Tohka-chan, creo que esto te gustaría.
+Message	Shido	I feel like she'd pick either one.	Siento que elegiría cualquiera de los dos.
+Message	Tohka	Hrm. I do not really wish to see this one.	Hrm. No tengo muchas ganas de ver esto.
+Message	Shido	What?	¿Cómo?
+Message	Rinne	...?	...?
+Message		(I totally thought Tohka would've wanted to see this.)	(Pensé que Tohka habría querido ver esto).
+Message	Shido	Out of curiosity... why not?	Por curiosidad... ¿por qué no?
+Message	Tohka	I have seen this movie before.	He visto esta película antes.
+Message	Shido	What?! Y-You went to see it alone?	¡¿Qué?! ¿Fuiste a verla solo?
+Message	Tohka	What do you mean, Shido? We watched it together.	¿Qué quieres decir, Shido? Lo vimos juntos.
+Message	Shido	Huh?	¿Eh?
+Message	Rinne	R-Really?! You could have told me that...	¡¿En serio?! Podrías habérmelo dicho...
+Message	Shido	"I-I really don't remember... but now that you mention
+it, I think we did go out... when was that again?"	Realmente no lo recuerdo... pero ahora que lo mencionas, creo que salimos... ¿cuándo fue eso?
+Message	Tohka	Hmph! Shido, have you forgotten the day you spent with me?	¡Hmph! Shido, ¿has olvidado el día que pasaste conmigo?
+Message	Shido	S-Sorry.	Lo siento.
+Message	Tohka	Try to remember. It was...	Trata de recordar. Era...
+Message	Shido	Hm? When was it?	¿Hm? ¿Cuándo fue?
+Message	Tohka	Um... w-when was that exactly?	¿Cuándo fue eso exactamente?
+Message	Shido	Are you okay, Tohka?	¿Estás bien, Tohka?
+Message	Tohka	Erm! I-I have most definitely seen it! With you, Shido!	¡Erm! Definitivamente lo he visto. ¡Contigo, Shido!
+Message	Shido	R-Right... we really saw it, right? I feel like we did.	R-Right ... realmente lo vimos, ¿verdad? Siento que lo hicimos.
+Message	Tohka	Yes!	¡Sí!
+Message	Shido	Oh, it's Kotori. Excuse me, I'm gonna take this really quick.	Oh, es Kotori. Perdona, voy a coger esto muy rápido.
+Message	Tohka	Alright. Hurry back, okay?	De acuerdo. Vuelve pronto, ¿vale?
+Message	Rinne	We'll be waiting.	Estaremos esperando.
+Message	Shido	Right, just a minute.	Bien, un momento.
+Message	Shido	Hello, Kotori?	¿Hola, Kotori?
+Message	Kotori	As usual, you sound like something losing its carbonation.	Como siempre, suenas como algo que pierde la carbonatación.
+Message	Shido	"What's with the attitude?! I know you didn't call me
+just to tell me that, so... what's up?"	¿A qué viene esa actitud? Sé que no me llamaste sólo para decirme eso, así que... ¿qué pasa?
+Message	Kotori	Do I seriously need to spell it out for you?\nHow's the dating going? Did you get any takers?	¿De verdad tengo que deletreártelo? ¿Cómo van las citas? ¿Conseguiste algún interesado?
+Message	Shido	Oogh... well, yeah, but...	Oogh... bueno, sí, pero...
+Message	Kotori	But you're having some trouble again?\nHow is it that you get in trouble so often?	¿Pero estás teniendo problemas otra vez? ¿Cómo es que te metes en problemas tan a menudo?
+Message	Shido	"T-That's none of your business! Besides,
+it's not like I wanna get in these situations!"	¡E-Eso no es asunto tuyo! Además, ¡no es que quiera meterme en estas situaciones!
+Message	Kotori	Whatever. So what kind of trouble is it today?	Lo que sea. Entonces, ¿qué clase de problema es hoy?
+Message		"(Ugh... this is hard to even talk about because here
+I am asking Rinne out when she's not even a Spirit...)"	(Uf... es difícil incluso hablar de esto porque aquí estoy invitando a Rinne a salir cuando ni siquiera es un Espíritu...)
+Message	Shido	"S-So, I'm taking Tohka on a date, but... well...
+Rinne is with us too, and..."	Así que, voy a llevar a Tohka a una cita, pero... bueno...  Rinne está con nosotros también, y...
+Message	Kotori	What?! Why on earth is Rinne with you?!	¡¿Qué?! ¡¿Por qué demonios está Rinne contigo?!
+Message	Shido	T-That's what I wanna know!	¡E-Eso es lo que quiero saber!
+Message	Kotori	If your carelessness gets Tohka so jealous that she...\nWait. Actually, Tohka's mental state isn't so bad.	Si tu descuido pone a Tohka tan celosa que ella... Espera. En realidad, el estado mental de Tohka no es tan malo.
+Message	Shido	That makes sense. She's the one who made this happen.	Eso tiene sentido. Ella es la que hizo que esto sucediera.
+Message	Kotori	Huh? Wow. I see. Interesting.\nOkay, then you should just continue.	¿Eh? Vaya. Ya veo. Interesante. Bien, entonces deberías continuar.
+Message	Shido	What?	¿Cómo?
+Message	Kotori	If it was Tohka's idea, and she's happy with it,\nthere really isn't anything wrong here.	Si fue idea de Tohka, y ella está contenta con ello, realmente no hay nada malo aquí.
+Message	Shido	I see. Alright, but...	Ya veo. De acuerdo, pero...
+Message	Kotori	What? Is there something else?	¿Qué? ¿Hay algo más?
+Message	Shido	"Well, Rinne suggested we come see a movie,
+but I don't think Tohka wants to."	Bueno, Rinne sugirió que fuéramos a ver una película, pero no creo que Tohka quiera.
+Message	Kotori	Are they arguing about what to do for your date?	¿Están discutiendo sobre qué hacer para tu cita?
+Message	Shido	"No, it's not that serious. But forcing Tohka to see
+a movie would stress her out so I thought maybe
+we should do something else."	No, no es tan grave. Pero obligar a Tohka a ver una película la estresaría, así que pensé que quizá deberíamos hacer otra cosa.
+Message	Kotori	What about the pool? The movie theater's nice,\nbut going to the pool is a total summer date.\nPlus, some eye candy wouldn't hurt, right?	¿Y la piscina? El cine está bien, pero ir a la piscina es una cita veraniega total. Además, un poco de caramelo para la vista no vendría mal, ¿verdad?
+Message	Shido	What?! I wouldn't... no, that doesn't—	¡¿Qué?! Yo no... no, eso no...
+Message	Kotori	I know. I'm already aware that you're a genus lower\nthan vegetation, who can't even hold an impure thought,\non the edge of extinction.	Lo sé, lo sé. Ya soy consciente de que eres un género inferior a la vegetación, que ni siquiera puede sostener un pensamiento impuro, al borde de la extinción.
+Message	Shido	Excuse you.	Con permiso.
+Message	Kotori	I'm just telling it like it is. Tohka has a swimsuit,\nso it'll work just fine. Oh, but her room in the Spirit\nhouse is still out, huh?	Sólo digo las cosas como son. Tohka tiene un traje de baño, así que funcionará bien. Oh, pero su habitación en la casa de los espíritus sigue sin funcionar, ¿eh?
+Message	Kotori	Go pick out something new for her at the Twin\nBuilding B in front of the train station.	Ve a comprarle algo nuevo al Twin\nBuilding B, frente a la estación de tren.
+Message	Shido	Got it.	Entendido.
+Message	Kotori	Shido, last thing: watch yourself, okay? You're\nalready in an unstable situation and you don't\nwant to say or do anything reckless.	Shido, una última cosa: ten cuidado, ¿vale? Ya estás en una situación inestable y no quieres decir o hacer nada imprudente.
+Message	Shido	Right. Understood.	De acuerdo. Entendido.
+Message		"(Phew. Now that I think about it, it's a good
+thing Tohka is here. If I was dating Rinne, I'm
+not sure I could've made an excuse...)"	(Uf. Ahora que lo pienso, menos mal que Tohka está aquí. Si estuviera saliendo con Rinne, no estoy seguro de haber podido inventar una excusa...)
+Message	Tohka	Hrm. You took forever, Shido.	Hrm. Has tardado una eternidad, Shido.
+Message	Shido	I'm sorry! That lasted longer than I thought it would.	¡Lo siento! Eso duró más de lo que pensé que duraría.
+Message	Rinne	Is everything okay? That must've been an important call.	¿Va todo bien? Debe haber sido una llamada importante.
+Message	Shido	"I'm fine, I'm fine. It wasn't anything too important.
+Hey... would you two rather go to the pool?"	Estoy bien, estoy bien. No era nada demasiado importante.  Eh... ¿preferís ir a la piscina?
+Message	Tohka	Oh! The pool! It's quite fun there!	¡Oh! ¡La piscina! ¡Es muy divertido allí!
+Message	Shido	I think so, too. Rinne?	Yo también lo creo. ¿Rinne?
+Message	Rinne	Um... well, I don't have a swimsuit, so...	Um... bueno, no tengo bañador, así que...
+Message	Shido	"We can go to the department store in front of
+the train station. I'm sure they have a sale going
+on right now, too."	Podemos ir a los grandes almacenes que hay frente a la estación de tren. Seguro que ahora también tienen rebajas.
+Message	Tohka	"Hm? But I already have a swimsuit, remember?
+The one you picked out for me."	¿hm? Pero ya tengo un traje de baño, ¿recuerdas?  El que elegiste para mí.
+Message	Shido	"I know, but the apartment... it's currently, um...
+going through renovations so we can't... go in."	Lo sé, pero el apartamento... está actualmente... en reformas así que no podemos... entrar.
+Message	Tohka	Renovations?	¿Renovaciones?
+Message	Shido	"Yeah. Basically, it needs some repairs, or I guess
+it's in the middle of them rather, so we won't be
+able to get to your room until it's done."	Sí. Básicamente, necesita algunas reparaciones, o supongo que está en medio de ellas más bien, así que no podremos llegar a tu habitación hasta que esté hecho.
+Message	Tohka	Oh! That's right!	¡Oh! ¡Así es!
+Message	Shido	"Okay, so let's head towards the train station.
+Does that sound good, Rinne?"	Bien, dirijámonos a la estación de tren.  ¿Te parece bien, Rinne?
+Message	Rinne	Um, yes... I suppose we could go check out that store.	Um, sí... Supongo que podríamos ir a ver esa tienda.
+Message	Shido	Alright! Let's get going!	¡Muy bien! ¡Andando!
+Message	Tohka	Yes!	¡Sí!
+Message		"(We went to the Twin Building B in front of the train station,
+bought swimsuits and towels, then headed to the pool...)"	(Fuimos al Edificio Gemelo B, frente a la estación de tren, compramos bañadores y toallas, y luego nos dirigimos a la piscina...)
+Message	Tohka	Shido! Hurry! Let us hurry to the pool!	¡Shido! ¡Deprisa! ¡Démonos prisa hacia la piscina!
+Message	Shido	Yeah!	¡Sí!
+Message	Shido	Oh, Rinne... were you really alright with that swimsuit?	Oh, Rinne... ¿de verdad estabas bien con ese bañador?
+Message	Rinne	"Yeah. The one you chose for me was the best.
+Thanks."	Sí. El que elegiste para mí fue el mejor.  Gracias.
+Message	Shido	Y-You're welcome. Then, should we go?	De nada. Entonces, ¿nos vamos?
+Message	Rinne	Yeah!	¡Sí!
+Message	Tohka	Heeeey! Riiiiinne! I'm over heeere! Hurry oveeeer!	¡Heeey! ¡Riiiiiiinne! ¡Estoy aquí! ¡Date prisa!
+Message	Rinne	Oh, Tohka-chan! You shouldn't run around so much!	¡Oh, Tohka-chan! ¡No deberías correr tanto!
+Message		"(I got to the pool after quickly changing into
+my swimsuit. When I got there, I heard Tohka
+and Rinne's voices echoing off the domed roof.)"	(Llegué a la piscina después de ponerme rápidamente el bañador. Cuando llegué, oí las voces de Tohka y Rinne resonando en el techo abovedado).
+Message		(Those two are fast...)	(Esos dos son rápidos...)
+Message		"(Before I knew it, the two were climbing the
+water slide made to look like a rock formation
+at the far end of the huge pool.)"	(Antes de que me diera cuenta, los dos estaban subiendo por el tobogán de agua hecho para parecer una formación rocosa en el extremo más alejado de la enorme piscina).
+Message	Tohka	Rinne! We slide from here into that lake!	¡Rinne! ¡Nos deslizamos desde aquí hasta ese lago!
+Message	Rinne	Huh? W-We're already going? But...	¿Eh? ¿Ya nos vamos? Pero...
+Message	Tohka	"What's the matter? You don't want to slide?
+This is very fun, you know. Once you try it,
+you won't be able to stop!"	¿Cuál es el problema? ¿No quieres deslizarte?  Esto es muy divertido. Una vez que lo pruebes, ¡no podrás parar!
+Message	Rinne	But this is a date with Shido, so we should wait for...	Pero es una cita con Shido, así que deberíamos esperar...
+Message	Rinne	Huh? Kyaaa!	¿Eh? ¡Kyaaa!
+Message	Rinne	Kyaaaaaaaaaaaa!!!!	¡¡¡¡Kyaaaaaaaaaaaaaa!!!!
+Message	Shido	Ah! R-Rinne! Are you okay?!	¡Ah! ¡R-Rinne! ¡¿Estás bien?!
+Message	Rinne	*Gasp*	*gasp*
+Message	Rinne	T-That... I wasn't expecting that...	E-Eso... No me lo esperaba...
+Message	Shido	Rinne! Are you alright?	¡Rinne! ¿Estás bien?
+Message	Rinne	"I-I'm fine! It was a lot faster than
+I thought it would be, but it was fun."	¡Estoy bien! Fue mucho más rápido de lo que pensé que sería, pero fue divertido.
+Message	Shido	"Oh, that's... R-Rinne!
+Er, your um, swimsuit..."	Oh, eso es... ¡R-Rinne!  Er, tu um, traje de baño...
+Message	Rinne	Huh?	¿Eh?
+Message	Rinne	Oh!	¡Oh!
+Message	Shido	H-Hurry! You have to fix it!	¡Deprisa! ¡Tienes que arreglarlo!
+Message	Rinne	Oh, right. Yeah... you're probably right.	Ah, cierto. Sí... probablemente tengas razón.
+Message	Shido	What?	¿Cómo?
+Message	Rinne	Shido... it doesn't bother me if you look, you know.	Shido... no me molesta que mires, ¿sabes?
+Message	Shido	Rinne?	¿Rinne?
+Message	Rinne	"But then you'll be in quite a predicament,
+won't you, Shido?"	Pero entonces estarás en un buen aprieto, ¿verdad, Shido?
+Message	Shido	What?! You dummy! What are you saying?!	¡¿Qué?! ¡Tonto! ¡¿Qué estás diciendo?!
+Message	Rinne	"Tohka-chan's not looking right now.
+It might be our chance."	Tohka-chan no está mirando ahora.  Podría ser nuestra oportunidad.
+Message	Shido	Our c-chance?! Rinne, cut it out!	¡¿Nuestra c-oportunidad?! Rinne, ¡basta ya!
+Message	Rinne	Shido... look at me.	Shido... mírame.
+Message	Tohka	"Heeey! Riiiinne! How was iiiit?!
+I'm neeeext!"	¡Heeey! ¡Riiiinne! ¡¿Cómo estuvo?!  ¡Soy el siguiente!
+Message	Shido	What?! R-Rinne! H-Hurry and fix it already!	¡¿Qué?! ¡R-Rinne! ¡Date prisa y arréglalo ya!
+Message	Rinne	Aaallright. Hehe... were you shocked?	Muy bien. Jeje... ¿te has quedado de piedra?
+Message	Shido	I thought my heart was going to stop...	Pensé que mi corazón se iba a parar...
+Message	Rinne	Good grief, Shido. You're such a wimp... hehe.	Santo cielo, Shido. Eres un debilucho... jeje.
+Message		(No, that's not the problem here...)	(No, ese no es el problema aquí...)
+Message	Rinne	Shido, how does it look? Is it tied right?	Shido, ¿cómo se ve? ¿Está bien atado?
+Message	Shido	I-It looks fine.	Se ve bien.
+Message	Tohka	Ahahaha!	¡Ajajaja!
+Message	Tohka	Woo! Hahaha! Shido, this is quite fun!	¡Woo! ¡Jajaja! ¡Shido, esto es muy divertido!
+Message	Shido	Yeah, it looks like it! It's my turn!	¡Sí, eso parece! ¡Es mi turno!
+Message	Rinne	Shido... just now...	Shido... justo ahora...
+Message	Shido	Huh?	¿Eh?
+Message	Rinne	Never mind.	No importa.
+Message	Shido	Er... okay.	Eh... vale.
+Message		(What's with Rinne?)	(¿Qué pasa con Rinne?)

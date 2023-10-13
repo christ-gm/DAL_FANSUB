@@ -1,0 +1,135 @@
+Operator	Comment	Key	Translation
+Message	Shido	Oh, Tohka! Wait a sec.	¡Oh, Tohka! Espera un segundo.
+Message	Tohka	Hm, what's the matter, Shido?	¿Qué pasa, Shido?
+Message	Shido	I'd completely forgotten.	Lo había olvidado por completo.
+Message	Tohka	?	?
+Message	Shido	"The offering for the Tengu Cow... we haven't bought it
+yet, right?"	La ofrenda por la Vaca Tengu... aún no la hemos comprado, ¿verdad?
+Message	Tohka	Oh! That was so careless of us!	¡Oh! ¡Eso fue tan descuidado de nuestra parte!
+Message	Shido	I'll go buy it now. What will you do, Tohka?	Iré a comprarlo ahora. ¿Qué vas a hacer, Tohka?
+Message	Tohka	Right! If it were with you Shido, I would go anywhere!	¡Vale! ¡Si fuera contigo Shido, iría a cualquier parte!
+Message		(...!)	(...!)
+Message		"(Tohka really has a way of rattling these
+things that make my heart pound...)"	(Tohka realmente tiene una manera de hacer sonar estas cosas que hacen que mi corazón lata con fuerza...)
+Message	Tohka	"Should we make the offering
+something the Tengu Cow likes?"	¿Deberíamos hacer la ofrenda algo que le guste a la Vaca Tengu?
+Message	Shido	"You're right... what to do? For something like
+this, maybe some kind of food is ideal."	Tienes razón... ¿qué hacer? Para algo así, tal vez algún tipo de comida es ideal.
+Message	Tohka	So this Tengu Cow has an appetite, huh?	Así que esta vaca Tengu tiene apetito, ¿eh?
+Message	Shido	"Haha, it might... alright, let's head back to
+the shopping district and buy something!"	Jaja, puede ser... ¡bien, volvamos al distrito comercial y compremos algo!
+Message	Tohka	"Yes, it would be good if there's something
+the Tengu Cow would be pleased with!"	¡Sí, sería bueno que hubiera algo que complaciera a la Vaca Tengu!
+Message	Shido	Yeah, I agree.	Sí, estoy de acuerdo.
+Message	Shido	"Hey, Tohka, sushi can't be it, right?
+It's not like we can't get it wrapped,
+but... Wait. Huh?!"	Oye, Tohka, el sushi no puede ser, ¿verdad?  No es que no podamos envolverlo, pero... Espera.
+Message	Shido	Tohka?	¿Tohka?
+Message		She was just here a second ago... she's gone?!	Estaba aquí hace un segundo... ¡¿se ha ido?!
+Message		(Gah! I only looked away for a second. Where'd she run off to?)	(¡Ay! Sólo aparté la vista un segundo. ¿Adónde se ha ido corriendo?)
+Message	Shido	Heeeey, Tohkaaa? Tohkaaaa?! Where are you?!	Heeeey, ¿Tohkaaa? ¡¿Tohkaaaa?! ¡¿Dónde estás?!
+Message		(Dang, I've completely lost sight of her.)	(Vaya, la he perdido de vista por completo).
+Message	Shido	Reine-san?	¿Reina-san?
+Message	Reine	Shin, has something happened to Tohka?	Shin, ¿le ha pasado algo a Tohka?
+Message	Shido	Ohh, Reine-san. I'm sorry, we got separated while shopping...	Ohh, Reine-san. Lo siento, nos separamos mientras comprábamos...
+Message	Reine	Hm. So that's why her stress level has risen.	Hm. Así que por eso su nivel de estrés ha aumentado.
+Message	Shido	Huh?	¿Eh?
+Message	Reine	Shin, hurry and find Tohka, and calm her down.	Shin, date prisa y encuentra a Tohka, y cálmala.
+Message	Shido	"Well, of course I'm all for doing that, but...
+is there any way you can see where Tohka
+went on your end, Reine-san?"	Bueno, por supuesto que estoy a favor de hacer eso, pero... ¿hay alguna forma de que puedas ver a dónde fue Tohka por tu parte, Reine-san?
+Message	Reine	"It is currently impossible to verify her location
+with my equipment, and we're also short-staffed.
+The best I can do is analyze her mental status."	Actualmente es imposible verificar su ubicación con mi equipo, y también estamos cortos de personal.  Lo mejor que puedo hacer es analizar su estado mental.
+Message	Shido	I see...	Ya veo...
+Message	Reine	"Alternatively, if you consider Tohka's thought
+process, perhaps you will find the answer."	Alternativamente, si considera el proceso de pensamiento de Tohka, quizá encuentre la respuesta.
+Message	Shido	Her thought process?	¿Su proceso de pensamiento?
+Message	Reine	"What would Tohka do in this situation?
+Consider this while thinking about what to do."	¿Qué haría Tohka en esta situación?  Considera esto mientras piensas qué hacer.
+Message	Reine	Good luck, Shin.	Buena suerte, Shin.
+Message	Shido	Hm... what would Tohka do?	Hm... ¿qué haría Tohka?
+Choice		Tohka would get hooked by the scent of food and head to food shops	Tohka se enganchaba al olor de la comida y se dirigía a las tiendas de alimentación.
+Choice		Tohka would return to look for me	Tohka volvería a buscarme
+Message		"(Well, we are talking about the ravenous Tohka.
+She must have followed a tantalizing food smell
+while thinking about an offering for the Tengu Cow.)"	(Bueno, estamos hablando de la voraz Tohka.  Debe de haber seguido un tentador olor a comida mientras pensaba en una ofrenda para la Vaca Tengu).
+Message		(What sort of offering would Tohka pick for the Tengu Cow?)	(¿Qué tipo de ofrenda elegiría Tohka para la Vaca Tengu?)
+Message		"(Hm... I don't know. Either way, I'll make sure to check
+the restaurants during my search.)"	(Hm... No lo sé. En cualquier caso, me aseguraré de comprobar los restaurantes durante mi búsqueda).
+Message	Cake Shop Worker	Welcome!	Bienvenido.
+Message	Shido	Um...	Um...
+Message	Cake Shop Worker	Yes, may I help you?	Sí, ¿puedo ayudarle?
+Message	Shido	Oh! Um... did a girl with long black hair come in here?	¡Oh! Um... ¿ha entrado aquí una chica con el pelo largo y negro?
+Message	Cake Shop Worker	I'm not sure...I don't think I've seen a girl like that...	No estoy seguro... No creo haber visto a una chica así...
+Message	Shido	I-I see! Sorry to trouble you.	¡Ya veo! Siento molestarle.
+Message	Cake Shop Worker	Ah, don't even worry about it. Come back soon!	Ah, no te preocupes. ¡Vuelve pronto!
+Message		"(Since I'm here already, I think I'll buy a slice of cake.
+It might be a waste to use as an offering, but...)"	(Como ya estoy aquí, creo que compraré un trozo de tarta.  Puede que sea un desperdicio usarlo como ofrenda, pero...)
+Message	Shido	"U-Umm, sorry to bother you again, but could I get a
+slice of cake, please? This short cake right here."	U-Umm, siento molestarle de nuevo, pero ¿podría darme un trozo de tarta, por favor? Este corto pastel de aquí.
+Message	Cake Shop Worker	One slice of the short cake comin' right up!	¡Una rebanada del pastel corto en camino!
+Message		(Dang, my hunch was wrong...)	(Vaya, mi corazonada era errónea...)
+Message		"(Oh well. Nothing I can do about that now.
+I just have to keep looking.)"	(Bueno, ya no puedo hacer nada al respecto, tendré que seguir buscando).
+Message	Tohka	"Rgh! Not like that! You don't need to cut it!
+Just give me the whole thing!"	¡Rgh! ¡Así no! ¡No necesitas cortarlo!  ¡Sólo dámelo entero!
+Message	Kebab Shop Worker	Oh, I'm sorry... I'm not selling it like this...	Oh, lo siento... No voy a venderlo así...
+Message		(Tohka?)	(¿Tohka?)
+Message	Shido	Tohka! There you are!	¡Tohka! ¡Ahí estás!
+Message	Tohka	Shido! I found it! It's the offering for the Tengu Cow!	¡Shido! ¡Lo encontré! ¡Es la ofrenda para la Vaca Tengu!
+Message	Shido	Huh?	¿Eh?
+Message	Tohka	"We must buy that rotating meat, Shido!
+Isn't that perfect?"	¡Debemos comprar esa carne giratoria, Shido!  ¿No es perfecto?
+Message	Shido	?!	¡?!
+Message	Kebab Shop Worker	I'm sorry, miss... but this is...	Lo siento, señorita... pero esto es...
+Message		"(The kebab stand owner shrugged their shoulders,
+then looked towards me with a pained expression.)"	(El dueño del puesto de kebab se encogió de hombros y luego miró hacia mí con expresión de dolor).
+Message	Shido	......	......
+Message	Tohka	"Hm, what is wrong, Shido?
+I'm sure that the Tengu Cow will take a liking to this."	¿Qué pasa, Shido?  Estoy seguro de que a la Vaca Tengu le gustará esto.
+Message	Shido	Y-Yeah, I know... I understand what you're thinking, Tohka, but...	S-Sí, lo sé... Entiendo lo que estás pensando, Tohka, pero...
+Message	Tohka	?	?
+Message	Shido	T-Tohka. Let's just go away for a moment... over here.	T-Tohka. Vámonos un momento... por aquí.
+Message	Tohka	Hm... what's wrong?	Hm... ¿qué pasa?
+Message		"(Hm, it'd be bad if we got separated because I went to
+look for her, so I guess I'll wait here...)"	(Hm, sería malo que nos separáramos porque fui a buscarla, así que supongo que esperaré aquí...)
+Message	Tohka	Heeey! Shido!	¡Shido!
+Message		S-She really did come back... I'm glad I waited.	Realmente volvió... Me alegro de haber esperado.
+Message	Tohka	"What are you spacing out for?
+I found the offering for the Tengu Cow!"	¿Por qué te estás espaciando?  ¡Encontré la ofrenda para la Vaca Tengu!
+Message	Shido	Huh?!	¡¿Eh?!
+Message	Tohka	Let us hurry! Over here!	¡Démonos prisa! ¡Por aquí!
+Message	Shido	W-Wait a second!	¡Espera un segundo!
+Message	Tohka	Look, Shido! Let's buy that!	¡Mira, Shido! ¡Compremos eso!
+Message	Shido	?!	¡?!
+Message		"Tohka pointed to a giant hunk of meat
+being spit-roasted... Huh? That whole thing?"	Tohka señaló un trozo gigante de carne que estaba siendo asado... ¿Eh? ¿Todo eso?
+Message		"The kebab stand owner shrugged his shoulders,
+then looked towards me with a pained expression."	El dueño del puesto de kebab se encogió de hombros y miró hacia mí con expresión de dolor.
+Message	Shido	......	......
+Message	Tohka	Hm, how is it Shido? I'm sure he would be very pleased with this!	Hm, ¿cómo está Shido? ¡Estoy seguro de que estará encantado con esto!
+Message		"I mean, it does sort of feel like an offering,
+but it's a little ridiculous..."	Quiero decir, se siente como una ofrenda, pero es un poco ridículo...
+Message	Shido	Tohka, let's step aside for a moment... over here.	Tohka, vamos a apartarnos un momento... por aquí.
+Message	Tohka	?	?
+Message	Shido	I-It was a pretty good thought, Tohka, but...	Fue una buena idea, Tohka, pero...
+Message	Tohka	Yes! With that meat, the Tengu Cow will surely be satisfied!	¡Sí! ¡Con esa carne, la Vaca Tengu seguramente estará satisfecha!
+Message	Shido	"Y-Yeah...I'm sure, but that meat's not something that
+can be sold in the first place. I mean, it can be,
+but not like that, you know?"	S-Sí... estoy seguro, pero esa carne no es algo que se pueda vender en primer lugar. Quiero decir, puede ser, pero no así, ¿sabes?
+Message	Shido	"Even if he were to sell it to us, I don't have enough
+money on hand to buy such a large piece of meat."	Aunque nos lo vendiera, no tengo dinero suficiente para comprar un trozo de carne tan grande.
+Message	Tohka	Is that so?	¿Es así?
+Message	Shido	Yeah. I'm sorry, Tohka.	Sí. Lo siento, Tohka.
+Message	Tohka	"N-No, it's nothing for you to apologize for, Shido!
+I wasn't thinking it through... I should apologize."	N-No, ¡no es nada por lo que debas disculparte, Shido!  No lo estaba pensando bien... Debería disculparme.
+Message	Shido	Then... why don't you make your offering a kebab, Tohka?	Entonces... ¿por qué no haces de tu ofrenda un kebab, Tohka?
+Message	Tohka	"Oh! That's a wonderful idea!
+It might not be quite enough for the Tengu Cow,
+but with something so delicious, I'm sure it'll smile!"	¡Oh! ¡Es una idea maravillosa!  Puede que no sea suficiente para la Vaca Tengu, pero con algo tan delicioso, ¡seguro que sonreirá!
+Message	Shido	R-Right?	¿Verdad?
+Message	Tohka	"Alright, I've decided on that for my offering!
+Let's hurry and return, Shido!"	¡Muy bien, he decidido eso para mi ofrenda!  ¡Démonos prisa y volvamos, Shido!
+Message	Shido	Right. Don't rush too much and trip, okay?	Bien. No te apresures demasiado y tropieces, ¿de acuerdo?
+Message	Tohka	Alright!	¡Muy bien!

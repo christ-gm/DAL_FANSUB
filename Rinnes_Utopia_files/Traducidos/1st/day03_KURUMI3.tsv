@@ -1,0 +1,76 @@
+Operator	Comment	Key	Translation
+Message	Shido	"All right, now that I'm done with dinner,
+I should rest a little."	Muy bien, ahora que he terminado de cenar, debería descansar un poco.
+Message	Shido	Hm...? What's that sound...?	¿Hm...? ¿Qué es ese sonido...?
+Message	Shido	Is it coming from outside the window?	¿Viene de fuera de la ventana?
+Message	Shido	Who's outside? Rinne...? No, can't be.	¿Quién está afuera? ¿Rinne...? No, no puede ser.
+Message	Shido	Hmm...?	¿Hmm...?
+Message	Shido	What, Kurumi?! What are you doing here?!	¡¿Qué, Kurumi?! ¡¿Qué estás haciendo aquí?!
+Message	Shido	"Is she inviting me out? I guess I should go...
+Well, but..."	¿Me está invitando a salir? Supongo que debería ir...  Bueno, pero...
+Message	Shido	Should I stay, or should I go?	¿Me quedo o me voy?
+Message	Shido	...	...
+Message	Shido	I should ask Kotori.	Debería preguntarle a Kotori.
+Message	Kotori	...Hello? What do you want?	...¿Hola? ¿Qué desea?
+Message	Shido	Oh, Kotori? You aren't home, are you?	Oh, ¿Kotori? No estás en casa, ¿verdad?
+Message	Kotori	What is it, Shido? What happened?	¿Qué pasa, Shido? ¿Qué ha pasado?
+Message	Shido	Kurumi's outside of our house.	Kurumi está fuera de nuestra casa.
+Message	Kotori	I see, so Kurumi is outside of—WAIT, WHAT?!	Ya veo, así que Kurumi está fuera de... ¡¿QUÉ?!
+Message	Shido	"Seems like she wants me to meet her. Is it
+okay for me to go?"	Parece que quiere que la conozca. ¿Está bien que vaya?
+Message	Kotori	If it's Kurumi you're dealing with, it\nsounds suspicious...	Si se trata de Kurumi, suena sospechoso...
+Message	Shido	But, we can't just let her be, can we?	Pero no podemos dejarla estar, ¿verdad?
+Message	Kotori	I've said this many times, but you currently\nlack the ability to heal yourself. If you go,\nyou're exposing yourself to danger!	Lo he dicho muchas veces, pero actualmente no tienes la capacidad de curarte a ti mismo. ¡Si te vas, te expones al peligro!
+Message	Shido	Yeah, I know, but...	Sí, lo sé, pero...
+Message	Reine	Kotori, I think you should let Shin decide.	Kotori, creo que deberías dejar que Shin decida.
+Message	Shido	Reine-san?	¿Reina-san?
+Message	Kotori	H-Hey, Reine! Why are you butting into the\ntransmission?!	¡H-Hey, Reine! ¡¿Por qué te metes en la transmisión?!
+Message	Reine	Truthfully, I see no issue with him going.	La verdad, no veo ningún problema en que se vaya.
+Message	Shido	Reine-san!	¡Reina-san!
+Message	Kotori	Reine, what are you saying? There's no\nway I could put him in dang—	Reine, ¿qué estás diciendo? No hay manera de que pueda ponerlo en peligro...
+Message	Reine	No. In my honest opinion, Kurumi wouldn't\nhurt Shin.	No. En mi honesta opinión, Kurumi no le haría daño a Shin.
+Message	Kotori	How did you come to that conclusion?	¿Cómo ha llegado a esa conclusión?
+Message	Reine	I have extrapolated my decision from recent\ndevelopments. She has had many chances to\nattack Shin, but he's still safe, isn't he?	He extrapolado mi decisión de los recientes acontecimientos. Ha tenido muchas oportunidades de atacar a Shin, pero aún está a salvo, ¿no?
+Message	Kotori	You've got a point, but—	Tienes razón, pero...
+Message	Shido	Um, so what should I do?	¿Qué debo hacer?
+Message	Kotori	Hm. Well, as Reine suggested, I'll leave\nit to you, Shido.	Hm. Bueno, como sugirió Reine, te dejaré a ti, Shido.
+Message	Shido	Oh, man... What should I do?	Oh, tío... ¿Qué debo hacer?
+Message	Kurumi	...	...
+Message	Shido	Okay, fine!	¡Vale, de acuerdo!
+Choice		Don't go.	No te vayas.
+Choice		Go.	Vamos.
+Message	Shido	"I'm dealing with Kurumi here. Who knows
+what she's got planned?"	Estoy tratando con Kurumi. ¿Quién sabe lo que tiene planeado?
+Message	Shido	"Yeah. I shouldn't be rash. I'll just ignore
+Kurumi for now."	Sí. No debería precipitarme. Ignoraré a Kurumi por ahora.
+Message	Kotori	Finally. I think that's a smart choice.	Por fin. Creo que es una elección inteligente.
+Message	Shido	...	...
+Message	Shido	She's probably left by now, right?	Probablemente ya se haya ido, ¿no?
+Message	Shido	She's gone. Now I feel guilty...	Se ha ido. Ahora me siento culpable...
+Message	Kotori	Then you should've gone. I didn't stop you.	Entonces deberías haberte ido. Yo no te detuve.
+Message	Shido	No, it's fine. Thanks, Kotori.	No, está bien. Gracias, Kotori.
+Message	Kotori	Whatever's fine. I'll return home shortly.	Lo que sea está bien. Volveré a casa en breve.
+Message	Shido	Kurumi... What could she have wanted?	Kurumi... ¿Qué podría haber querido?
+Message	Shido	...I'll go.	...me iré.
+Message	Shido	"It's night time. Kurumi might be full of
+surprises, but I can't just stand her up
+like that."	Es de noche. Kurumi puede estar llena de sorpresas, pero no puedo dejarla plantada así.
+Message	Reine	I see. Then be sure to provide a full report.	Ya veo. Entonces asegúrese de proporcionar un informe completo.
+Message	Kurumi	"Hehehe. Nice of you to finally show up,
+Shido-san."	Hehehe. Qué bien que por fin hayas aparecido, Shido-san.
+Message	Shido	Kurumi, what are you doing here so late?	Kurumi, ¿qué haces aquí tan tarde?
+Message	Kurumi	"I forgot to mention something to you this
+afternoon."	Olvidé mencionarte algo esta tarde.
+Message	Shido	"Afternoon? Like, when I bumped into you
+in town?"	¿Por la tarde? ¿Como cuando me encontré contigo en la ciudad?
+Message	Kurumi	"Yes. The time in which you helped me up,
+Shido-san."	Sí. La vez que me ayudaste a levantarme, Shido-san.
+Message	Shido	Y-Yeah. I remember.	Sí. Lo recuerdo.
+Message	Kurumi	Hehehe. Thank you for that.	Jejeje. Gracias.
+Message	Shido	Wha-What's gotten into you?	¿Qué te pasa?
+Message	Kurumi	I realized I hadn't properly thanked you.	Me di cuenta de que no te había dado las gracias adecuadamente.
+Message	Shido	Oh, well. Sure.	Ah, bueno. Sí, claro.
+Message	Kurumi	Well, I'll be on my way.	Bueno, seguiré mi camino.
+Message	Shido	Wha... What was that all about?	¿Qué...? ¿Qué fue todo eso?
+Message	Reine	Seems as though there is nothing to report.	Parece que no hay nada que informar.
+Message	Shido	Haha... Hahaha...	Jajaja... Jajaja...

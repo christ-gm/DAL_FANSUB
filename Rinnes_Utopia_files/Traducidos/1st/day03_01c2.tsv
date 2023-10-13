@@ -1,0 +1,61 @@
+Operator	Comment	Key	Translation
+Message	Shido	Oh, Tohka...	Oh, Tohka...
+Message		"(So, Tohka really did head to class early.
+How unlike her...)"	(Así que Tohka sí que iba pronto a clase. Qué raro...)
+Message	Tohka	Zzz...zzz...	Zzz...zzz...
+Message	Shido	"Oh. Tohka, it's nice of you to come early,
+but not if you're asleep."	Oh. Tohka, es muy amable de tu parte venir temprano, pero no si estás durmiendo.
+Message		"(Was she up that late last night...?
+Yet she's here at school so early.)"	(¿Estuvo despierta hasta tan tarde anoche...? Y sin embargo está aquí en la escuela tan temprano).
+Message		(Hmm, I don't get her.)	(Hmm, no la entiendo.)
+Message		"(But man... She's so carefree.
+I guess that's what makes her
+so cute...)"	(Pero hombre... Es tan despreocupada. Supongo que eso es lo que la hace tan mona...)
+Message		"(Oh... I guess I'll pretend that I didn't see
+the drool coming out of her mouth...)"	(Oh... supongo que fingiré que no vi la baba que salía de su boca...)
+Message		"(Hm?! Wh-What is that?! It feels like I'm
+being watched all of a sudden!)"	(¡¿Qué es eso?! ¡Me siento como si me estuvieran observando de repente!)
+Message	Origami	...	...
+Message	Shido	?!	¡?!
+Message	Shido	Y-Yo... Oh, it's you, Origami! Morning.	Y-Yo... ¡Oh, eres tú, Origami! Buenos días.
+Message	Origami	Morning.	Por la mañana.
+Message		(Is it me, or does she seem angry?)	(¿Soy yo o parece enfadada?)
+Message		"(All right. Made it past my afternoon class
+despite feeling ready to doze off!)"	(De acuerdo. He pasado la clase de la tarde a pesar de estar a punto de dormirme).
+Message	Tohka	*snore*... Zzzz...*snore*... Zzz...	*snore*... Zzzz...*snore*... Zzz...
+Message		"(T-Tohka... ended up sleeping through the
+whole class. Oh well, guess I can wake her
+up so we can eat lunch together.)"	(T-Tohka... terminó durmiendo toda la clase. Oh bueno, supongo que puedo despertarla para que podamos almorzar juntas).
+Message	Shido	Hey Tohka, wake up already. Wanna eat lunch?!	Hey Tohka, despierta ya. ¿Quieres comer?
+Message	Tohka	*yawn*...	*yawn*...
+Message	Shido	"You slept through the whole class, yet you're
+still tired?"	¿Te has dormido toda la clase y sigues cansado?
+Message	Tohka	Hm?! Sh-Shido?! What time is it?!	¡¿Hm?! ¡¿Sh-Shido?! ¡¿Qué hora es?!
+Message	Shido	It's lunch time. Rinne made us lu—	Es hora de comer. Rinne nos hizo lu-
+Message	Tohka	HM?! Lunch, you say?! Wait, Shido!	¡¿HM?! ¡¿Almuerzo, dices?! ¡Espera, Shido!
+Message	Shido	Hm? What is it?	¿Qué? ¿Qué es esto?
+Message	Tohka	Sh-Shido! Eat this at once!	¡Sh-Shido! ¡Cómete esto de una vez!
+Message	Shido	What's this...?	¿Qué es esto...?
+Message		"(Tohka handed me what appeared to be
+a hastily-packed bento box, with a ribbon
+that was sloppily tied.)"	(Tohka me entrega lo que parece ser una caja de bento empaquetada a toda prisa, con una cinta atada de forma descuidada).
+Message	Tohka	I-I tried making lunch!	¡Intenté hacer la comida!
+Message	Shido	"What?! To-Tohka, you made this? All by
+yourself?"	¡¿Qué?! To-Tohka, ¿has hecho esto? ¿Tú sola?
+Message	Tohka	Y-Yes!	¡Sí!
+Message		"(Oh...! Wait... So the one moving about
+downstairs last night was Tohka?!)"	(¡Oh...! Espera... ¡¿Así que la que se movía por las escaleras anoche era Tohka?!)
+Message	Tohka	"Sh...Shido, do you not want to eat
+the lunch I made?"	Sh... Shido, ¿no quieres comer el almuerzo que hice?
+Message	Shido	No! It's not that, but...	¡No! No es eso, pero...
+Message		"(What do I do?! We also have Rinne's bento,
+who made them in the middle of her morning
+rush...)"	(¡¿Qué hago?! También tenemos el bento de Rinne, que los hizo en medio de sus prisas matutinas...)
+Message		"(But Tohka—judging from how she's acting—
+must've spent all night making this, and she
+left just before Rinne came downstairs.)"	(Pero Tohka -a juzgar por cómo actúa- debe de haberse pasado toda la noche haciendo esto, y se fue justo antes de que Rinne bajara).
+Message		"(Tohka worked so hard for my sake...
+C-Could I really betray her...?)"	(Tohka trabajó tan duro por mi bien... ¿Realmente podría traicionarla...?)
+Choice		Eat Tohka's bento.	Cómete el bento de Tohka.
+Choice		Offer her Rinne's bento.	Ofrécele el bento de Rinne.
+Choice		Run for it.	Corre.
