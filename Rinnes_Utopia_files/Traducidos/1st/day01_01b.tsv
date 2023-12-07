@@ -3,24 +3,31 @@ Message	Shido	*pant, pant*... Phew, finally made it.	*pant, pant*... Uf, finalme
 Message	Tohka	Shido! We arrived earlier than we thought!	¡Shido! ¡Llegamos antes de lo que pensábamos!
 Message	Rinne	Right. What a relief, but now we're so sweaty.	Bien. Qué alivio, pero ahora estamos sudados.
 Message	Shido	"Yeah. My back's sticky. It feels gross. Now that
-my body's cooling down, I'm starting to shiver."	Sí. Mi espalda está pegajosa. Se siente asqueroso. Ahora que mi cuerpo se está enfriando, estoy empezando a temblar.
+my body's cooling down, I'm starting to shiver."	"Sí. Mi espalda está pegajosa. Se siente asqueroso.
+Ahora que mi cuerpo se está enfriando, estoy
+empezando a temblar."
 Message	Rinne	"Hey, Shido. Make sure not to catch a cold.
-You've just finally gotten better."	Eh, Shido. Asegúrate de no resfriarte. Por fin has mejorado.
+You've just finally gotten better."	"Eh, Shido. Asegúrate de no resfriarte.
+Por fin has mejorado."
 Message	Shido	Yeah... You're right. I'll be careful.	Sí... Tienes razón. Tendré cuidado.
 Message	Tohka	Hm? Shido, have you fallen ill again?	¿Hm? Shido, ¿has vuelto a caer enfermo?
 Message	Shido	Oh... I'm fine. Don't worry, Tohka.	Oh... Estoy bien. No te preocupes, Tohka.
 Message	Tohka	"Well, as long as you're okay! If you fall ill,
 you had better say something immediately,
-okay?"	¡Bueno, mientras estés bien! Si te pones enfermo, será mejor que digas algo inmediatamente, ¿vale?
-Message	Shido	R-Right... Got it.	R-Derecha... Entendido.
+okay?"	"¡Bueno, mientras estés bien!
+Si te pones enfermo, será mejor que digas
+algo inmediatamente, ¿vale?"
+Message	Shido	R-Right... Got it.	B-Bueno… Entendido.
 Message	Rinne	Hehehe. Oh, Tohka-chan.	Jejeje. Oh, Tohka-chan.
 Message	Shido	"(If I don't want to worry Tohka, I have to do
-whatever it takes not to catch a cold...)"	(Si no quiero preocupar a Tohka, tengo que hacer lo que sea para no resfriarme...)
+whatever it takes not to catch a cold...)"	"(Si no quiero preocupar a Tohka, tengo que
+Hacer lo que sea para no resfriarme...)"
 Message	Tohka	Shido! We arrived earlier than we thought!	¡Shido! ¡Llegamos antes de lo que pensábamos!
 Message	Rinne	"What's wrong with you, Shido? You're drenched
 in sweat."	¿Qué te pasa, Shido? Estás empapado en sudor.
 Message	Shido	"Um... I left home late. Did you make it to
-practice in time?"	Um... Salí tarde de casa. ¿Llegaste a tiempo al entrenamiento?
+practice in time?"	"Um... Salí tarde de casa. ¿Llegaste a
+tiempo al entrenamiento?"
 Message	Rinne	Ummm... I was close.	Ummm... Estuve cerca.
 Message	Shido	Close?	¿Cerca?
 Message	Rinne	...But I was late. Haha...	...Pero llegué tarde. Jaja...
@@ -28,44 +35,63 @@ Message	Shido	Ah, I had a feeling... Sorry about that, Rinne.	Ah, tenía un pres
 Message	Tohka	Aw... Don't worry. It's my fault, isn't it?	Aw... No se preocupe. Es mi culpa, ¿no?
 Message	Rinne	"No, it's not, Tohka-chan! I enjoy spending time
 with you and Shido. I have to accept the blame.
-I wasn't paying attention to the time."	¡No, no lo es, Tohka-chan! Disfruto pasando el tiempo contigo y con Shido. Tengo que aceptar la culpa. No estaba prestando atención a la hora.
+I wasn't paying attention to the time."	"No, ¡no lo es, Tohka-chan! Me gusta pasar tiempo
+contigo y con Shido. Tengo que aceptar la culpa.
+No me fijé en la hora."
 Message	Rinne	Don't let it get to you... Okay?	No dejes que te afecte... ¿De acuerdo?
 Message	Tohka	Okay... Thank you for always taking care of me.	Bueno... Gracias por cuidar siempre de mí.
 Message	Shido	"You say that, but... Rinne, I feel like you
-should have a little more time to yourself."	Dices eso, pero... Rinne, siento que deberías tener un poco más de tiempo para ti.
+should have a little more time to yourself."	"Dices eso, pero... Rinne, siento que deberías
+Tener un poco más de tiempo para ti."
 Message	Rinne	"Hmm. Well, I'm only doing what feels natural
 though."	Hmm. Bueno, sólo hago lo que me parece natural.
 Message	Shido	"Hey, I know I'm not one to talk, but you should
-try limiting your need to care for others—"	Oye, sé que no soy nadie para hablar, pero deberías intentar limitar tu necesidad de cuidar a los demás...
+try limiting your need to care for others—"	"Oye, sé que no soy nadie para hablar, pero deberías
+intentar limitar tu necesidad de cuidar a los demás..."
 Message	Tonomachi	YAH!	¡YAH!
 Message	Shido	OOW!	¡OOW!
 Message	Tonomachi	"Yo, you seem pretty energetic for someone
-who only just recovered!"	Oye, ¡pareces muy enérgico para alguien que acaba de recuperarse!
+who only just recovered!"	"Oye, ¡pareces muy enérgico para alguien
+Que acaba de recuperarse!"
 Message	Shido	Hey, that hurt, Tonomachi! What the hell?!	¡Eh, eso duele, Tonomachi! ¡¿Qué demonios?!
 Message	Tonomachi	"What do you mean what am I doing?
-Showing you some love, obviously."	¿Qué quieres decir con qué estoy haciendo? Mostrándote algo de amor, obviamente.
+Showing you some love, obviously."	"¿Qué quieres decir con qué estoy haciendo?
+Mostrándote algo de amor, obviamente."
 Message	Shido	"Since when was a dropkick an expression
-of love?!"	¡¿Desde cuándo una dropkick es una expresión de amor?!
-Message	Tohka	Drop?!	¡¿Tíralo?!
+of love?!"	"¡¿Desde cuándo una patada voladora es
+Una expresión de amor?!"
+Message	Tohka	Drop?!	¡¿Voladora?!
 Message	Tonomachi	"Because! You've got Tohka-chan and Rinne-chan
 tagging alongside you in the morning. I was hot
-with jealousy... *sniff*..."	¡Porque sí! Tienes a Tohka-chan y Rinne-chan acompañándote por la mañana. Estaba caliente de celos... *sniff*...
+with jealousy... *sniff*..."	"¡Porque sí! Tienes a Tohka-chan y Rinne-chan
+acompañándote Por la mañana. Estaba
+caliente de celos... *sniff*..."
 Message	Shido	"Well, that's your own damn problem! Since
-when are you so sensitive, anyway?"	Bueno, ¡ese es tu maldito problema! ¿Desde cuándo eres tan sensible?
+when are you so sensitive, anyway?"	"Bueno, ¡ese es tu maldito problema!
+¿Desde cuándo eres tan sensible?"
 Message		"(He's Hiroto Tonomachi. A friend of mine who
 holds some of my biggest secrets. Except for
-the Spirits, that is.)"	(Es Hiroto Tonomachi. Un amigo mío que guarda algunos de mis mayores secretos. Excepto para los Espíritus, claro).
+the Spirits, that is.)"	"(Es Hiroto Tonomachi. Un amigo mío que guarda
+algunos de mis mayores secretos.
+Excepto para los Espíritus, claro)."
 Message		"(Every time a girl approaches me, he asks me to
 hook her up with him. It gets annoying, but he's
-a good guy. We do go way back after all...)"	(Cada vez que una chica se me acerca, me pide que la junte con él. Es molesto, pero es un buen tipo. Nos conocemos desde hace mucho tiempo, después de todo...)
+a good guy. We do go way back after all...)"	"(Cada vez que una chica se me acerca, me pide que la
+junte con él. Es molesto, pero es un buen tipo. Nos
+conocemos desde hace mucho tiempo, después de todo...)"
 Message	Rinne	You two are so close.	Ustedes dos son tan cercanos.
 Message	Tonomachi	"Oh yeah?! You think so too, Rinne-chan?
-Guess I might have to date Itsuka-kun then!"	¿Ah, sí? ¿Tú también lo crees, Rinne-chan? ¡Supongo que tendré que salir con Itsuka-kun entonces!
+Guess I might have to date Itsuka-kun then!"	"¿Ah, sí? ¿Tú también lo crees, Rinne-chan?
+¡Supongo que tendré que salir con Itsuka-kun entonces!"
 Message	Shido	"Only in your wildest dreams! Stop grabbing
-onto me! That's gross!"	¡Sólo en tus sueños más salvajes! ¡Deja de agarrarte a mí! ¡Eso es asqueroso!
+onto me! That's gross!"	"¡Sólo en tus sueños más salvajes!
+¡Deja de agarrarte a mí!
+¡Eso es asqueroso!"
 Message	Tonomachi	"Aw, don't be like that, Itsuka. Didn't you hear
 that the Fujoshis ranked us the 2nd-cutest
-couple in school?"	No seas así, Itsuka. ¿No has oído que los Fujoshis nos clasificaron como la segunda pareja más guapa de la escuela?
+couple in school?"	"No seas así, Itsuka. ¿No has oído que los Fujoshis
+nos clasificaron como la segunda pareja más
+guapa de la escuela?"
 Message	Shido	I heard, but I'd rather forget!	¡Lo he oído, pero prefiero olvidarlo!
 Message	Tohka	"Hm? Shido... Is there something going on between
 you and Tonomachi?!"	¿Hm? Shido... ¡¿Hay algo entre tú y Tonomachi?!
@@ -73,194 +99,278 @@ Message	Shido	NO! NOTHING'S GOING ON! THERE'S NO WAY!	¡NO! ¡NO PASA NADA! ¡NO
 Message	Tohka	Oh... I see.	Oh... Ya veo.
 Message	Tonomachi	"Aww. Cold. Cold-blooded, Itsuka-kun. It breaks
 my heart to see you act like it meant nothing
-to you. You go through men like dirty rags!"	Aww. Frío. Sangre fría, Itsuka-kun. Me rompe el corazón verte actuar como si no significara nada para ti. ¡Pasas de los hombres como de trapos sucios!
+to you. You go through men like dirty rags!"	"Aww. Frío. Sangre fría, Itsuka-kun. Me rompe el
+corazón verte actuar como si no significara nada para ti.
+¡Pasas de los hombres como de trapos sucios!"
 Message	Shido	"CUT IT OUT ALREADY! Everyone's looking at us
 weird!"	¡BASTA YA! ¡Todos nos miran raro!
 Message	Tonomachi	"NAHAHAHA! Stop worrying! It doesn't faze me
-one bit!"	¡NAHAHAHA! ¡Deja de preocuparte! ¡No me preocupa en absoluto!
+one bit!"	"¡NAHAHAHA! ¡Deja de preocuparte!
+¡No me preocupa en absoluto!"
 Message	Shido	Well, it should! Forget it, go home everyone!	Bueno, ¡debería! ¡Olvídenlo, váyanse todos a casa!
 Message	Tonomachi	"I can't go home... Itsuka, did you see the news
-this morning?"	No puedo ir a casa... Itsuka, ¿has visto las noticias de esta mañana?
+this morning?"	"No puedo ir a casa... Itsuka, ¿has visto las
+noticias de esta mañana?"
 Message	Shido	Hm? Just for a sec... Why do you ask?	¿Hm? Sólo un segundo... ¿Por qué lo preguntas?
 Message		(The conversation took a visible turn.)	(La conversación dio un giro visible).
 Message	Tonomachi	"You know how pets have gone missing all over
-Tengu City, and now the news is all over it?"	¿Sabes que han desaparecido mascotas por toda Ciudad Tengu y ahora las noticias están por todas partes?
+Tengu City, and now the news is all over it?"	"¿Sabes que han desaparecido mascotas por toda
+Ciudad Tengu y ahora las noticias están por todas partes?"
 Message	Shido	Yeah. What about it?	Sí. ¿Qué te parece?
 Message	Tonomachi	Supposedly... It's the curse of the Tengu Cow.	Supuestamente... Es la maldición de la Vaca Tengu.
 Message	Shido	Huh? Curse of the Tengu Cow? What's that?	¿Eh? ¿Maldición de la Vaca Tengu? ¿Qué es eso?
 Message	Tonomachi	"A loooooong time ago, before Tengu City was
-even a thought..."	Hace muchísimo tiempo, antes de que Ciudad Tengu fuera siquiera una idea...
+even a thought..."	"Hace muchísimo tiempo, antes de que
+Ciudad Tengu fuera siquiera una idea..."
 Message	Tonomachi	"There lived a monster, with two cowhorns and a
-long snout, near a village on top of a mountain."	Vivía un monstruo, con dos cuernos de vaca y un largo hocico, cerca de una aldea en la cima de una montaña.
+long snout, near a village on top of a mountain."	"Vivía un monstruo, con dos cuernos de vaca y un
+Largo hocico, cerca de una aldea en la cima
+de una montaña."
 Message	Tohka	...	...
 Message	Tonomachi	"The villagers began calling this nasty beast
-the Tengu Cow..."	Los aldeanos empezaron a llamar a esta desagradable bestia la Vaca Tengu...
+the Tengu Cow..."	"Los aldeanos empezaron a llamar a esta
+Desagradable bestia la Vaca Tengu..."
 Message	Tonomachi	"Whenever the Tengu Cow came out to feed, it
 snuck into the village to devour the livestock
-and young children, frightening the villagers..."	Cada vez que la Vaca Tengu salía a alimentarse, se colaba en la aldea para devorar al ganado y a los niños pequeños, asustando a los aldeanos...
+and young children, frightening the villagers..."	"Cada vez que la Vaca Tengu salía a alimentarse,
+se colaba en la aldea para devorar al ganado y a
+los niños pequeños, asustando a los aldeanos…"
 Message	Tohka	"Hm... Was there no one who could vanquish this
-so-called Tengu Cow?"	Hm... ¿No había nadie que pudiera derrotar a la llamada Vaca Tengu?
+so-called Tengu Cow?"	"Hm... ¿No había nadie que pudiera derrotar
+A la llamada Vaca Tengu?"
 Message	Tonomachi	"Nope. Villagers feared that the entire village
 would be eaten by the Tengu Cow. They held
-numerous discussions, but they did nothing."	No. Los aldeanos temían que todo el pueblo fuera devorado por la Vaca Tengu. Mantuvieron numerosas discusiones, pero no hicieron nada.
+numerous discussions, but they did nothing."	"No. Los aldeanos temían que todo el pueblo fuera
+devorado por la Vaca Tengu. Mantuvieron numerosas
+discusiones, pero no hicieron nada."
 Message	Tohka	Oh...	Oh...
-Message		(Wow. Sounds like total bull to me.)	(Vaya. A mí me parece una gilipollez total).
+Message		(Wow. Sounds like total bull to me.)	(Vaya. A mí me parece una tonteria total).
 Message	Tonomachi	"One hot day in June, a samurai wandered into
 their village. He was so noble and courageous,
-vowing to ease the villagers' fears."	Un caluroso día de junio, un samurái entró en su aldea. Era muy noble y valiente, y prometió aliviar los temores de los aldeanos.
+vowing to ease the villagers' fears."	"Un caluroso día de junio, un samurái entró en su aldea.
+Era muy noble y valiente, y prometió aliviar
+Los temores de los aldeanos."
 Message	Tohka	...!	¡...!
 Message	Tonomachi	"The samurai devised a plan, advising the
-villagers to leave the Tengu Cow to him."	El samurái ideó un plan, aconsejando a los aldeanos que le dejaran a él la Vaca Tengu.
+villagers to leave the Tengu Cow to him."	"El samurái ideó un plan, aconsejando a los aldeanos
+Que le dejaran a él la Vaca Tengu."
 Message	Tonomachi	"He instructed the villagers to gather all of the
 alcohol in the village, then to lock themselves
-at home. He then waited alone for the Tengu Cow."	Ordenó a los aldeanos que reunieran todo el alcohol del pueblo y se encerraran en casa. Luego esperó solo a la Vaca Tengu.
+at home. He then waited alone for the Tengu Cow."	"Ordenó a los aldeanos que reunieran todo el alcohol del
+pueblo y se encerraran en casa.
+Luego esperó solo a la Vaca Tengu."
 Message	Tonomachi	"On June 11th, the Tengu Cow emerged once
 more to the village."	El 11 de junio, la Vaca Tengu emergió de nuevo a la aldea.
 Message	Shido	You know the date?	¿Sabes la fecha?
 Message	Tonomachi	"There are records of the date. Like the
-samurai's will..."	Hay registros de la fecha. Como el testamento del samurai...
+samurai's will..."	"Hay registros de la fecha.
+Como el testamento del samurai..."
 Message	Shido	Huh?	¿Eh?
 Message	Tohka	Will? What's that?	¿Will? ¿Qué es eso?
 Message	Shido	"Um... It's like a letter of intent someone
-writes before they die."	Um... Es como una carta de intenciones que alguien escribe antes de morir.
+writes before they die."	"Um... Es como una carta de intenciones
+Que alguien escribe antes de morir."
 Message	Tohka	What...? The samurai's going to die?	¿Qué...? ¿El samurai va a morir?
 Message	Tonomachi	"Now, don't be so impatient. The villagers hid in
 their homes. No one made a peep. The samurai
-saw the Tengu Cow, and invited it for a drink."	No seas tan impaciente. Los aldeanos se escondieron en sus casas. Nadie dijo ni pío. El samurai vio a la Vaca Tengu y la invitó a beber.
+saw the Tengu Cow, and invited it for a drink."	"No seas tan impaciente. Los aldeanos se escondieron en
+sus casas. Nadie dijo ni pío. El samurai vio a la Vaca
+Tengu y la invitó a beber."
 Message	Tonomachi	"At first, the Tengu Cow was shocked. It never
 met a human that wasn't afraid of it, and it
-accepted his offer to drink."	Al principio, la Vaca Tengu se sorprendió. Nunca había conocido a un humano que no le tuviera miedo, y aceptó su oferta de beber.
+accepted his offer to drink."	"Al principio, la Vaca Tengu se sorprendió.
+Nunca había conocido a un humano que no le tuviera
+miedo, y aceptó su oferta de beber."
 Message	Tonomachi	"As they drank together, the Tengu Cow let
 its guard down, recognizing the kindness in the
-old samurai, and it began to open up."	Mientras bebían juntos, la Vaca Tengu bajó la guardia, reconociendo la bondad en el viejo samurái, y empezó a abrirse.
+old samurai, and it began to open up."	"Mientras bebían juntos, la Vaca Tengu bajó la
+guardia, reconociendo la bondad en el viejo samurái,
+Y empezó a abrirse."
 Message	Tonomachi	"It was something not even the samurai could've
 anticipated."	Era algo que ni siquiera el samurái podría haber previsto.
 Message	Tonomachi	"Little did he know that the Tengu Cow actually
 had a good heart. It only appeared in the area
-because humans had driven it from its mountain."	No sabía que la Vaca Tengu tenía buen corazón. Sólo apareció en la zona porque los humanos la habían expulsado de su montaña.
+because humans had driven it from its mountain."	"No sabía que la Vaca Tengu tenía buen corazón.
+Sólo apareció en la zona porque los humanos la
+Habían expulsado de su montaña."
 Message	Tohka	Oh... I sort of know where it's coming from.	Oh... más o menos sé de dónde viene.
-Message		(Oh man. She's glued to his story...)	(Oh tío. Está pegada a su historia...)
+Message		(Oh man. She's glued to his story...)	(Oh. Está pegada a su historia...)
 Message	Tonomachi	"So... The original plan was to get the Tengu Cow
 drunk, tie it up, then drown it in the lake, but
-the samurai decided to drink with it instead."	Así que... El plan original era emborrachar a la Vaca Tengu, atarla y luego ahogarla en el lago, pero el samurái decidió beber con ella en su lugar.
-Message	Tonomachi	"There's that phrase You are the company you keep"", so the samurai asked the Tengu Cow if it would travel the world with him."""	"Existe la frase ""Eres la compañía que tienes"", así que el samurái preguntó a la Vaca Tengu si viajaría por el mundo con él""."
+the samurai decided to drink with it instead."	"Así que... El plan original era emborrachar a la Vaca
+Tengu, atarla y luego ahogarla en el lago, pero el
+Samurái decidió beber con ella en su lugar."
+Message	Tonomachi	"There's that phrase You are the company you keep"", so the samurai asked the Tengu Cow if it would travel the world with him."""	"Existe la frase ""Eres la compañía que tienes"", así que el
+Samurái preguntó a la Vaca Tengu si viajaría
+Por el mundo con él""."
 Message	Tohka	OHHHH! What a brilliant idea!	¡OHHHH! ¡Qué idea tan brillante!
 Message	Tonomachi	"That's right. The Tengu Cow was so moved by his
 invitation that it couldn't hide its surprise.
-Who could blame him? It was unbelievable!"	Así es. La Vaca Tengu estaba tan conmovida por su invitación que no pudo ocultar su sorpresa. ¿Quién podía culparle? Era increíble.
-Message	Tonomachi	But I've got such a big appetite. Is that okay?\nMy hideous looks make traveling with me\nnothing but trouble. Are you sure?	Pero tengo mucho apetito. ¿Está bien? Mi horrible aspecto hace que viajar conmigo no sea más que un problema. ¿Estás segura?
+Who could blame him? It was unbelievable!"	"Así es. La Vaca Tengu estaba tan conmovida por su
+invitación que no pudo ocultar su sorpresa.
+¿Quién podía culparle? Era increíble."
+Message	Tonomachi	But I've got such a big appetite. Is that okay?\nMy hideous looks make traveling with me\nnothing but trouble. Are you sure?	"Pero tengo mucho apetito. ¿Está bien? Mi horrible
+aspecto hace que viajar conmigo no sea más
+que un problema. ¿Estás segura?"
 Message	Tonomachi	"The beast hunched over, curling its back as it
 offered its question timidly, but the samurai
-reached out his hand and said, Come with me."""""	"La bestia se encorvó, curvando el lomo mientras ofrecía su pregunta tímidamente, pero el samurái extendió la mano y dijo: ""Ven conmigo""""."
+reached out his hand and said, Come with me."""""	"La bestia se encorvó, curvando el lomo mientras
+ofrecía su pregunta tímidamente, pero el samurái
+extendió la mano Y dijo: ""Ven conmigo""""."
 Message	Tohka	?!	¡?!
 Message	Tonomachi	"The Tengu Cow cried its eyes out and took his
 hand."	La Vaca Tengu lloró a moco tendido y le cogió la mano.
-Message	Tonomachi	"Hey, don't grab my hand too tightly, cried the\nsamurai. ""I'll break,"" and the two shared hefty\nlaughter."	"Eh, no me agarres la mano tan fuerte, gritó el\nsamurai. ""Me romperé"", y los dos compartieron una sonora carcajada."
+Message	Tonomachi	"Hey, don't grab my hand too tightly, cried the\nsamurai. ""I'll break,"" and the two shared hefty\nlaughter."	"Eh, no me agarres la mano tan fuerte, gritó el
+Samurai. ""Me romperé"", y los dos compartieron
+Una sonora carcajada."
 Message	Shido	"What's up with the sob story? It's not like
-anyone would cry about such a dumb—"	¿Qué pasa con la triste historia? No es como si alguien llorara por una tontería...
+anyone would cry about such a dumb—"	"¿Qué pasa con la triste historia? No es como si
+Alguien llorara por una tontería..."
 Message	Tohka	U...u...u... UWAAAAAH!	Uh...u...u... ¡UWAAAAAAH!
 Message	Shido	WHAAAAAAAAAAT?!	¡¿QUÉ?!
 Message	Tohka	*sniff, sniff* What a beautiful tale...	*sniff, sniff* Qué hermoso cuento...
 Message		(Does she really think so...? I-I don't know...)	(¿Realmente piensa eso...? No lo sé...)
 Message	Shido	"So, what does the curse of the Tengu Cow have
-anything to do with it?"	Entonces, ¿qué tiene que ver la maldición de la Vaca Tengu?
+anything to do with it?"	"Entonces, ¿qué tiene que ver la maldición
+de la Vaca Tengu?"
 Message	Tonomachi	"Now now, Itsuka-chan. You gotta work for it
-before I give it to you."	Vamos, Itsuka-chan. Tienes que trabajar por ello antes de que te lo dé.
+before I give it to you."	"Vamos, Itsuka-chan. Tienes que trabajar
+Por ello antes de que te lo dé."
 Message	Shido	Whoa. Come on, don't take it there.	Guau. Vamos, no lo lleves allí.
 Message	Tonomachi	"Itsuka-kun, calm down. This is where things
-take a turn."	Itsuka-kun, cálmate. Aquí es donde las cosas toman un giro.
+take a turn."	"Itsuka-kun, cálmate. Aquí es donde
+las cosas toman un giro."
 Message		"(...I'm starting to think being Tonomachi's
-classmate is the real curse.)"	(...Empiezo a pensar que ser compañero de clase de Tonomachi es la verdadera maldición).
+classmate is the real curse.)"	"(...Empiezo a pensar que ser compañero de clase
+De Tonomachi es la verdadera maldición)."
 Message	Tohka	Huh...?	¿Eh...?
 Message	Tonomachi	"The Tengu Cow and the samurai were beyond
 drunk by this point, and the beast fell asleep.
-Then..."	La Vaca Tengu y el samurai estaban más que borrachos en este punto, y la bestia se durmió. Entonces...
+Then..."	"La Vaca Tengu y el samurai estaban más que borrachos
+En este punto, y la bestia se durmió. Entonces..."
 Message	Tonomachi	"The villagers slowly left their houses to gather
 around the Tengu Cow. Then, they began to tie
-it up, following the samurai's original plan."	Los aldeanos salieron lentamente de sus casas para reunirse alrededor de la Vaca Tengu. Entonces, empezaron a atarla, siguiendo el plan original del samurái.
+it up, following the samurai's original plan."	"Los aldeanos salieron lentamente de sus casas para
+reunirse alrededor de la Vaca Tengu. Entonces,
+empezaron a Atarla, siguiendo el plan original del samurái."
 Message	Tohka	Wha? Couldn't the samurai have done anything?	¿Qué? ¿No podían haber hecho nada los samuráis?
 Message	Tonomachi	"He pleaded with the villagers, of course, saying
 that things had changed, but several of the
-villagers lost family members to the Tengu Cow."	Suplicó a los aldeanos, por supuesto, diciendo que las cosas habían cambiado, pero varios de ellos perdieron familiares a manos de la Vaca Tengu.
+villagers lost family members to the Tengu Cow."	"Suplicó a los aldeanos, por supuesto, diciendo que las
+cosas habían cambiado, pero varios de ellos perdieron
+familiares a manos de la Vaca Tengu."
 Message	Tohka	...	...
 Message	Tonomachi	"Fire burned in the villagers' eyes, and as the
 samurai begged them to stop, they tied him up
-to a nearby pillar."	El fuego ardía en los ojos de los aldeanos y, mientras el samurái les suplicaba que se detuvieran, lo ataron a una columna cercana.
+to a nearby pillar."	"El fuego ardía en los ojos de los aldeanos y, mientras el
+samurái les suplicaba que se detuvieran, lo ataron
+a una columna cercana."
 Message	Tonomachi	"The samurai could only scream as he watched
 the villagers drag the Tengu Cow towards the
-lake."	El samurái sólo pudo gritar mientras veía cómo los aldeanos arrastraban a la Vaca Tengu hacia el lago.
+lake."	"El samurái sólo pudo gritar mientras veía cómo los
+Aldeanos arrastraban a la Vaca Tengu hacia el lago."
 Message	Tonomachi	"They hopped aboard a raft the samurai had
 advised to build, attached weights to the
-Tengu Cow, and tossed it right into the lake."	Subieron a una balsa que el samurái había aconsejado construir, ataron pesos a la Vaca Tengu y la lanzaron directamente al lago.
+Tengu Cow, and tossed it right into the lake."	"Subieron a una balsa que el samurái había aconsejado
+construir, ataron pesos a la Vaca Tengu y la lanzaron
+Directamente al lago."
 Message	Tonomachi	"Then, from the bottom lake, they heard a
-horrific scream, GROOOOOO!"" It echoed all around the area."""	"Entonces, desde el fondo del lago, oyeron un grito espantoso: ¡GROOOOOO!"". Resonó por toda la zona""."
+horrific scream, GROOOOOO!"" It echoed all around the area."""	"Entonces, desde el fondo del lago, oyeron un grito
+Espantoso: ¡GROOOOOO!"". Resonó por toda la zona""."
 Message	Tonomachi	"Since then, the Tengu Cow was never seen
 again..."	Desde entonces, no se ha vuelto a ver a la Vaca Tengu...
 Message	Tohka	That is horrible!	¡Eso es horrible!
 Message	Tonomachi	"When all was said and done, they untied the
 samurai, and he felt the same horror that you
-do..."	Cuando todo estuvo dicho y hecho, desataron al samurai, y sintió el mismo horror que tú...
-Message	Tonomachi	"On his will, he wrote, The real monster lives elsewhere,"" and he slaughtered all of the villagers and drowned himself in the lake."""	"En su testamento escribió: ""El verdadero monstruo vive en otra parte"", masacró a todos los aldeanos y se ahogó en el lago""."
+do..."	"Cuando todo estuvo dicho y hecho, desataron al
+samurai, y sintió el mismo horror que tú…"
+Message	Tonomachi	"On his will, he wrote, The real monster lives elsewhere,"" and he slaughtered all of the villagers and drowned himself in the lake."""	"En su testamento escribió: ""El verdadero monstruo
+vive en otra parte"", masacró a todos los aldeanos
+y se ahogó en el lago""."
 Message	Tohka	...	...
 Message	Tonomachi	"It rained every day for a month afterwards, like
 the heavens shed tears from the clouds. They
-say the village was completely submerged."	Después llovió todos los días durante un mes, como si el cielo derramara lágrimas desde las nubes. Dicen que el pueblo quedó completamente sumergido.
+say the village was completely submerged."	"Después llovió todos los días durante un mes, como
+si el cielo derramara lágrimas desde las nubes.
+Dicen que el pueblo quedó completamente sumergido."
 Message	Tonomachi	"Itsuka, you know the lake north of the train
 station? Supposedly, the Tengu Cow sleeps
-at the bottom of that lake."	Itsuka, ¿conoces el lago al norte de la estación de tren? Supuestamente, la Vaca Tengu duerme en el fondo de ese lago.
+at the bottom of that lake."	"Itsuka, ¿conoces el lago al norte de la estación de tren?
+Supuestamente, la Vaca Tengu duerme en el
+fondo de ese lago."
 Message	Tonomachi	"A shrine sits near the lake in order to appease
 the Tengu Cow's spirit, and on June 11th, people
-must give it offerings."	Cerca del lago hay un santuario para apaciguar el espíritu de la Vaca Tengu, y el 11 de junio la gente debe hacerle ofrendas.
+must give it offerings."	"Cerca del lago hay un santuario para apaciguar el espíritu
+de la Vaca Tengu, y el 11 de junio la gente
+debe hacerle ofrendas."
 Message	Shido	What? I've never heard that.	¿Qué? Nunca he oído eso.
 Message	Rinne	Unfortunately, neither have I...?	Desgraciadamente, yo tampoco...
 Message	Tonomachi	"*Ahem*! Itsuka-kun, Rinne-chan, you don't
 even know the history of your own town? You
-two have a long way to go."	*¡Ahem*! Itsuka-kun, Rinne-chan, ¿ni siquiera conocéis la historia de vuestra propia ciudad? Ustedes dos tienen un largo camino por recorrer.
+two have a long way to go."	"*¡Ahem*! Itsuka-kun, Rinne-chan, ¿ni siquiera conocen
+la historia de su propia ciudad?
+Ustedes dos tienen un largo camino por recorrer."
 Message	Shido	Just where the hell do you get off?	¿Dónde diablos te metes?
 Message	Tonomachi	"Listen to me. Tengu City got its name from
 the Tengu Cow, just so people never forgot
-about what transpired."	Escuchadme. La Ciudad Tengu debe su nombre a la Vaca Tengu, para que la gente nunca olvide lo que ocurrió.
+about what transpired."	"Escuchenme. La Ciudad Tengu debe su nombre a la
+Vaca Tengu, para que la gente nunca olvide lo que ocurrió."
 Message	Tonomachi	"It's our responsibility to atone for the pain
-that the Tengu Cow experienced."	Es nuestra responsabilidad expiar el dolor que sufrió la Vaca Tengu.
+that the Tengu Cow experienced."	"Es nuestra responsabilidad expiar el dolor
+Que sufrió la Vaca Tengu."
 Message	Shido	What...?	¿Qué...?
 Message		"(Who would even believe that story...? It wasn't
 just long, it was annoying. The fact he's so
-proud of it annoys me even more.)"	(¿Quién se creería esa historia...? No sólo era larga, era molesta. El hecho de que esté tan orgulloso de ello me molesta aún más).
+proud of it annoys me even more.)"	"(¿Quién se creería esa historia...? No sólo era larga,
+era molesta. El hecho de que esté tan orgulloso de
+ello me molesta aún más)."
 Message	Rinne	If what you said was true, then how sad...	Si lo que has dicho es verdad, qué triste...
 Message	Shido	HEY RINNE! Not you, too!	¡HEY RINNE! ¡Tú también no!
 Message	Tonomachi	"Oh and as a sidenote, if you flip over the kanji
 for the date, June 11th, it looks like two horns
-and a long snout. Just like the Tengu, right?"	Ah, y como nota al margen, si le das la vuelta al kanji de la fecha, 11 de junio, parecen dos cuernos y un largo hocico. Igual que el Tengu, ¿verdad?
+and a long snout. Just like the Tengu, right?"	"Ah, y como nota al margen, si le das la vuelta al kanji
+de la fecha, 11 de junio, parecen dos cuernos y un
+Largo hocico. Igual que el Tengu, ¿verdad?"
 Message	Tonomachi	"Kinda spooky. It looks like the Tengu Cow
-after it was thrown into the lake."	Un poco espeluznante. Se parece a la vaca Tengu después de ser arrojada al lago.
+after it was thrown into the lake."	"Un poco espeluznante. Se parece a la vaca Tengu
+Después de ser arrojada al lago."
 Message	Shido	Uh. That's such an obvious afterthought.	Uh. Eso es una idea obvia de última hora.
 Message	Tonomachi	If only it ended there...	Si sólo terminara ahí...
 Message	Shido	Huh?	¿Eh?
 Message	Tonomachi	"The 11... If you combine the kanji for ten and
-one, it resembles the kanji for samurai""."""	"El 11... Si combinas los kanji de diez y uno, se parece al kanji de samurai""."
+one, it resembles the kanji for samurai""."""	"El 11... Si combinas los kanji de diez y
+Uno, se parece al kanji de samurai""."
 Message	Tohka	Wow!	¡Vaya!
 Message	Rinne	Wow!	¡Vaya!
 Message	Tonomachi	Gives you chills... doesn't it?	Da escalofríos... ¿verdad?
 Message	Shido	Uh, sounds a little forced to me...	Uh, me suena un poco forzado...
 Message	Tonomachi	"Everyone, just like Itsuka, forgot about the
 offerings, so I think the Tengu Cow is rising
-from the dead, eating everyone's pets!"	Todo el mundo, al igual que Itsuka, se olvidó de las ofrendas, ¡así que creo que la Vaca Tengu está resucitando y comiéndose las mascotas de todos!
+from the dead, eating everyone's pets!"	"Todo el mundo, al igual que Itsuka, se olvidó de
+las ofrendas, ¡así que creo que la Vaca Tengu está
+Resucitando y comiéndose las mascotas de todos!"
 Message	Tonomachi	"We gotta do somethin' about the curse!
-Wouldn't ya say, Itsuka-kun?"	¡Tenemos que hacer algo con la maldición! ¿No te parece, Itsuka-kun?
+Wouldn't ya say, Itsuka-kun?"	"¡Tenemos que hacer algo con la maldición!
+¿No te parece, Itsuka-kun?"
 Message	Shido	Hey Tonomachi, come closer!	¡Eh, Tonomachi, acércate!
 Message	Tonomachi	OH! Are you finally confessing your love to me?!	¡OH! ¡¿Finalmente me estás confesando tu amor?!
 Message	Shido	NEVER! JUST GET OVER HERE!	¡NUNCA! ¡VEN AQUÍ!
 Message	Tonomachi	AAH! Hey, don't blow in my ear!	¡AHH! ¡Eh, no me soples en la oreja!
 Message	Shido	"Just shut up a second! Jeez... What was all
-that about? Is that whole legend true?"	¡Cállate un segundo! Jeez... ¿Qué fue todo eso? ¿Toda esa leyenda es cierta?
+that about? Is that whole legend true?"	"¡Cállate un segundo! Jeez... ¿Qué fue todo eso?
+¿Toda esa leyenda es cierta?"
 Message	Tonomachi	Oh, no.	Oh, no.
 Message	Shido	"I knew you were lying... You'd better apologize.
-I won't let you get away with this."	Sabía que estabas mintiendo... Será mejor que te disculpes. No dejaré que te salgas con la tuya.
+I won't let you get away with this."	"Sabía que estabas mintiendo... Será mejor que te
+disculpes. No dejaré que te salgas con la tuya."
 Message	Tonomachi	"Now, now. Leave it to me! Let's make this
-summer one to remember!"	Ya, ya. ¡Déjamelo a mí! ¡Hagamos de este verano uno para recordar!
+summer one to remember!"	"Ya, ya. ¡Déjamelo a mí! ¡Hagamos de este
+Verano uno para recordar!"
 Message	Tonomachi	"With that said, after consulting with Itsuka,
 in order to prevent the curse, I wanna deliver
-some offerings to the shrine of the Tengu Cow!"	Dicho esto, tras consultarlo con Itsuka, para evitar la maldición, ¡quiero entregar algunas ofrendas al santuario de la Vaca Tengu!
+some offerings to the shrine of the Tengu Cow!"	"Dicho esto, tras consultarlo con Itsuka, para evitar
+la maldición, ¡quiero entregar algunas ofrenda
+Al santuario de la Vaca Tengu!"
 Message	Shido	"What?! Who said I'd do that?! No one's
 going with you—"	¡¿Qué?! ¡¿Quién dijo que haría eso?! Nadie va contigo-
 Message	Tohka	Well done, Shido!	¡Bien hecho, Shido!
@@ -269,20 +379,26 @@ Message	Tohka	Surely the Tengu Cow has been furious!	¡Seguramente la Vaca Tengu
 Message	Shido	Uh, Tohka. That was all Tonomachi's...	Uh, Tohka. Eso fue todo de Tonomachi...
 Message	Tonomachi	Amazing, Tohka-chan! You're a sweetheart!	¡Increíble, Tohka-chan! ¡Eres un encanto!
 Message	Tohka	"Of course! Let's all do our part to appease the
-Tengu Cow!"	¡Claro que sí! ¡Hagamos todos nuestra parte para apaciguar a la Vaca Tengu!
+Tengu Cow!"	"¡Claro que sí! ¡Hagamos todos nuestra parte
+Para apaciguar a la Vaca Tengu!"
 Message	Origami	If Shido's going, I'm going, too.	Si Shido va, yo también voy.
 Message	Shido	Origami?! Where'd you come from?!	¡¿Origami?! ¡¿De dónde has salido?!
 Message	Tohka	"Grr. Hello, you harpy. What cat dragged you
 here?"	Grr. Hola, arpía. ¿Qué gato te arrastró hasta aquí?
 Message	Rinne	"Okay, okay... Let's all relax. If everyone else
-is going, then I'll go too. Sounds fun."	Vale, vale... Vamos a relajarnos. Si todos los demás van, entonces yo también iré. Suena divertido.
+is going, then I'll go too. Sounds fun."	"Vale, vale... Vamos a relajarnos. Si todos
+Los demás van, entonces yo también iré. Suena divertido."
 Message	Shido	Not you too, Rinne.	Tú también no, Rinne.
 Message	Tonomachi	"All right. It's settled. Tonight, we're meeting
 at the haunted hou—er, to drop off our
-offerings at the lake!"	De acuerdo. Está decidido. ¡Esta noche, nos reuniremos en la casa embrujada, para dejar nuestras ofrendas en el lago!
+offerings at the lake!"	"De acuerdo. Está decidido. ¡Esta noche, nos reuniremos
+En la casa embrujada, para dejar nuestras
+ofrendas en el lago!"
 Message	Tonomachi	"Like my plan, Itsuka? Haunted houses are the
 best in summer! That's where you-know-what
-happens! Tonight, we become men!"	¿Te gusta mi plan, Itsuka? ¡Las casas encantadas son lo mejor en verano! ¡Ahí es donde ya sabes lo que pasa! ¡Esta noche, nos convertiremos en hombres!
+happens! Tonight, we become men!"	"¿Te gusta mi plan, Itsuka? ¡Las casas encantadas son lo
+mejor en verano! ¡Ahí es donde ya sabes lo que pasa!
+¡Esta noche, nos convertiremos en hombres!"
 Message	Shido	Sounds like you've got it all figured out!	Parece que lo tienes todo planeado.
 Message	Tonomachi	Oh, please. You're making me blush!	Por favor. ¡Me estás haciendo sonrojar!
 Message	Shido	That was sarcasm!	¡Eso fue sarcasmo!
@@ -297,90 +413,120 @@ Message	Tohka	Shido, what is this offering you speak of?	Shido, ¿qué es esa of
 Message		(Damn... I knew she'd ask.)	(Maldita sea... Sabía que preguntaría.)
 Message	Shido	"I'm gonna assume flowers or food of some kind,
 something the Tengu Cow would like. Then, we
-can offer our prayers at the shrine, cool?"	Voy a suponer que flores o comida de algún tipo, algo que le gustaría a la Vaca Tengu. Entonces, podemos ofrecer nuestras oraciones en el santuario, ¿bien?
+can offer our prayers at the shrine, cool?"	"Voy a suponer que flores o comida de algún tipo, algo
+que le gustaría a la Vaca Tengu. Entonces, Podemos
+ofrecer nuestras oraciones en el santuario, ¿bien?"
 Message	Tohka	Ah, I see.	Ah, ya veo.
 Message	Rinne	Tohka-chan, what are you planning to take?	Tohka-chan, ¿qué piensas llevarte?
 Message	Tohka	"Hmm. Nothing's come to mind yet. What do you
-propose, Rinne?"	Hmm. Todavía no se me ha ocurrido nada. ¿Qué propones, Rinne?
+propose, Rinne?"	"Hmm. Todavía no se me ha ocurrido nada.
+¿Qué propones, Rinne?"
 Message	Rinne	"Hmm. I wonder what would be appropriate
-as an offering for a situation like this."	Hmm. Me pregunto qué sería apropiado como ofrenda para una situación como ésta.
+as an offering for a situation like this."	"Hmm. Me pregunto qué sería apropiado como
+Ofrenda para una situación como ésta."
 Message		(...Is this really happening?)	(...¿Esto está pasando de verdad?)
 Message	Shido	"Hey Origami, you sure about this? Don't
-feel obligated to come along."	Oye Origami, ¿estás seguro de esto? No te sientas obligado a venir.
+feel obligated to come along."	"Oye Origami, ¿estás seguro de esto?
+No te sientas obligado a venir."
 Message	Origami	It's fine. This is my chance...	Está bien. Esta es mi oportunidad...
 Message	Shido	Huh?	¿Eh?
 Message	Origami	To do you-know-what. Hehehe.	Para hacer ya sabes qué. Jejeje.
 Message	Shido	Is that what you want out of this?!	¡¿Es eso lo que quieres de esto?!
 Message	Origami	"Hopefully it would take me a step further
-than how arranged dates have gone for me."	Espero que me lleve un paso más allá de cómo me han ido las citas concertadas.
+than how arranged dates have gone for me."	"Espero que me lleve un paso más allá de cómo
+Me han ido las citas concertadas."
 Message	Shido	What...? What do you mean by a step further?	¿Qué...? ¿Qué quiere decir con un paso más allá?
 Message	Origami	Huh?	¿Eh?
 Message	Shido	"Oh, uh... You were talking about those dates.
-Sorry for being so busy."	Oh, uh... Estabas hablando de esas citas. Lo siento por estar tan ocupado.
+Sorry for being so busy."	"Oh, uh... Estabas hablando de esas citas.
+Lo siento por estar tan ocupado."
 Message	Origami	It's okay. I enjoyed your warm presence, Shido.	No pasa nada. Disfruté de tu cálida presencia, Shido.
 Message	Shido	Uh, Origami? I think you're mistak—	Uh, ¿Origami? Creo que te equivocas-
 Message	Shido	...	...
 Message	Tamae	"Hello hello, everyone. Please be seated.
-It's time for homeroom to begin."	Hola a todos. Por favor, siéntense. Es hora de que empiece la clase.
+It's time for homeroom to begin."	"Hola a todos. Por favor, siéntense.
+Es hora de que empiece la clase."
 Message		"(That's Tamae Okamine, a.k.a. Tama-chan,
 our social studies teacher who doubles as our
-homeroom advisor. She's quite adorable.)"	(Esa es Tamae Okamine, también conocida como Tama-chan, nuestra profesora de estudios sociales que también es nuestra consejera. Es adorable).
+homeroom advisor. She's quite adorable.)"	"(Esa es Tamae Okamine, también conocida como
+Tama-chan, nuestra profesora de estudios sociales
+que también es Nuestra consejera. Es adorable)."
 Message	Tamae	"Greetings, everyone. Good morning to you all.
 We're scheduled to begin testing, but how are
-everyone's studies going?"	Saludos a todos. Buenos días a todos. Estamos programados para comenzar las pruebas, pero ¿cómo van los estudios de todos?
+everyone's studies going?"	"Saludos a todos. Buenos días a todos. Estamos
+programados para comenzar las pruebas, pero
+¿cómo van los estudios de todos?"
 Message	Tamae	"Itsuka, I know you've been absent so you've
-got a lot on your plate, but good luck."	Itsuka, sé que has estado ausente, así que tienes mucho trabajo, pero buena suerte.
+got a lot on your plate, but good luck."	"Itsuka, sé que has estado ausente, así que tienes
+Mucho trabajo, pero buena suerte."
 Message	Shido	Oh, okay...	Oh, vale...
 Message	Tamae	"Unfortunately, I have some bad news
 regarding the sports festival that was
-scheduled for tomorrow..."	Desgraciadamente, tengo malas noticias en relación con el festival deportivo previsto para mañana...
+scheduled for tomorrow..."	"Desgraciadamente, tengo malas noticias en relación
+con el festival deportivo previsto para mañana..."
 Message		"(That's right. I've been out for a while, so I'm
 pretty far behind. Testing's gonna be rough. I
-wonder if Rinne or Origami could tutor me.)"	(Así es. He estado fuera por un tiempo, así que estoy bastante atrasado. Los exámenes van a ser duros. Me pregunto si Rinne u Origami podrían darme clases particulares).
+wonder if Rinne or Origami could tutor me.)"	"(Así es. He estado fuera por un tiempo, así que estoy bastante
+atrasado. Los exámenes van a ser duros. Me pregunto si
+Rinne u Origami podrían darme clases particulares)."
 Message		"(In fact, do I even have time to see this stupid
-haunted house?)"	(De hecho, ¿tengo tiempo siquiera para ver esta estúpida casa encantada?)
+haunted house?)"	"(De hecho, ¿tengo tiempo siquiera para ver esta estúpida
+Casa encantada?)"
 Message		"(Maybe it had just been a while, but I
-couldn't keep up with class.)"	(Tal vez sólo había pasado un tiempo, pero no podía seguir el ritmo de la clase).
+couldn't keep up with class.)"	"(Tal vez sólo había pasado un tiempo, pero no
+podía seguir el ritmo de la clase)."
 Message	Tohka	Shido! Time for lunch!	¡Shido! ¡Hora de comer!
 Message	Origami	Shido, come with me.	Shido, ven conmigo.
 Message	Tohka	"Hey! Origami Tobiichi, I was the first to invite
 him!"	¡Eh! Origami Tobiichi, ¡fui el primero en invitarle!
 Message	Origami	"It doesn't matter who spoke first. I can't
 trust you to care for Shido, who's still
-recovering."	No importa quién habló primero. No puedo confiar en que cuides de Shido, que aún se está recuperando.
+recovering."	"No importa quién habló primero. No puedo confiar en que
+Cuides de Shido, que aún se está recuperando."
 Message	Tohka	"GRRRR! Shido will be just fine with me!
-I even wiped the sweat from his brow!"	¡GRRRR! ¡Shido estará bien conmigo! ¡Incluso le limpié el sudor de la frente!
+I even wiped the sweat from his brow!"	"¡GRRRR! ¡Shido estará bien conmigo!
+¡Incluso le limpié el sudor de la frente!"
 Message	Shido	"Hey, Tohka! What are you telling people in
 class?!"	¡Eh, Tohka! ¡¿Qué le estás diciendo a la gente en clase?!
 Message	Origami	Well, I had to stick a thermometer in his—	Bueno, tuve que meter un termómetro en su...
 Message	Shido	STOP! Origami, STOP!	¡PARA! Origami, ¡PARA!
 Message	Origami	"If you insist Shido, I guess I can save this
 story for another time. But sooner or later,
-the truth will come out."	Si insistes Shido, supongo que puedo dejar esta historia para otro momento. Pero tarde o temprano, la verdad saldrá a la luz.
+the truth will come out."	"Si insistes Shido, supongo que puedo dejar esta
+historia para otro momento. Pero tarde o temprano,
+La verdad saldrá a la luz."
 Message	Shido	Well, um, I... don't remember too much.	Bueno, yo... no recuerdo demasiado.
 Message	Tohka	"Hehe... Well, I wiped Shido's body from head
-to toe!"	Jeje... ¡Bueno, limpié el cuerpo de Shido de pies a cabeza!
+to toe!"	"Jeje... ¡Bueno, limpié el cuerpo de Shido
+de pies a cabeza!"
 Message	Shido	Tohka! You're exaggerating!	¡Tohka! ¡Estás exagerando!
 Message	Origami	"...I knew that's all it was.
 That all you've got?"	...sabía que eso era todo. ¿Es todo lo que tienes?
 Message	Tohka	"Huh? How do you mean ""that's all it was""?"	"¿Eh? ¿Qué quieres decir con ""eso era todo""?"
 Message	Origami	"I wouldn't have wiped his sweat. With all
-the sweat Shido emits, I would—"	Yo no le habría limpiado el sudor. Con todo el sudor que emite Shido, yo...
+the sweat Shido emits, I would—"	"Yo no le habría limpiado el sudor.
+Con todo el sudor que emite Shido, yo..."
 Message	Shido	"Hey, wait. Origami?!
 What are you talking about?!"	Eh, espera. ¡¿Origami?! ¡¿De qué estás hablando?!
 Message	Origami	I'm talking about how to care for you.	Hablo de cómo cuidarte.
 Message	Shido	"Just don't spread rumors about something
-that didn't happen, okay?!"	Pero no difundas rumores sobre algo que no ha ocurrido, ¿vale?
+that didn't happen, okay?!"	"Pero no difundas rumores sobre algo
+que no ha ocurrido, ¿vale?"
 Message	Tonomachi	"*sigh* Here we go again. Another morning where
-Pretty Boi Itsuka is surrounded by girls!"	*suspiro* Ya estamos otra vez. ¡Otra mañana donde Pretty Boi Itsuka está rodeado de chicas!
-Message	Shido	Enough with the nicknames!	¡Basta de motes!
+Pretty Boi Itsuka is surrounded by girls!"	"*suspiro* Ya estamos otra vez. ¡Otra mañana donde
+Pretty Boi Itsuka está rodeado de chicas!"
+Message	Shido	Enough with the nicknames!	¡Basta de apodos!
 Message	Tonomachi	"Come on, don't be so upset. You'll wrinkle
-that sex animal face of yours."	Vamos, no te enfades tanto. Vas a arrugar esa cara de animal sexual que tienes.
+that sex animal face of yours."	"Vamos, no te enfades tanto. Vas a arrugar esa
+Cara de animal sexual que tienes."
 Message	Shido	"WHO'S GOT A SEX ANIMAL FACE?! What does
-that even mean?!"	¡¿QUIÉN TIENE CARA DE ANIMAL SEXUAL?! ¡¿Qué significa eso?!
+that even mean?!"	"¡¿QUIÉN TIENE CARA DE ANIMAL SEXUAL?!
+¡¿Qué significa eso?!"
 Message	Tonomachi	"Chill out. Jokes aside, let's hurry up and
 get some grub. We can eat together, too!
-Let's head to the cafeteria already!"	Relájate. Bromas aparte, vamos a darnos prisa y conseguir algo de comida. ¡Podemos comer juntos también! ¡Vamos a la cafetería ya!
+Let's head to the cafeteria already!"	"Relájate. Bromas aparte, vamos a darnos prisa y
+conseguir algo de comida. ¡Podemos comer
+juntos también! ¡Vamos a la cafetería ya!"
 Message	Origami	Shido, hurry. All of the seats will be taken.	Shido, date prisa. Todos los asientos estarán ocupados.
 Message	Tohka	"Fear not, Shido. I'll be sure to save you a
 seat."	No temas, Shido. Me aseguraré de guardarte un sitio.
@@ -390,45 +536,57 @@ Message	Tonomachi	Oh, what is it, Itsuka? My dear friend.	¿Qué pasa, Itsuka? M
 Message	Shido	You're gross.	Eres asqueroso.
 Message	Tonomachi	Agh!	¡Agh!
 Message	Rinne	"Yeah... Jury's still out on your personality,
-too."	Sí... El jurado sigue deliberando sobre tu personalidad, también.
+too."	"Sí... El jurado sigue deliberando sobre tu
+personalidad, también."
 Message	Tonomachi	GUOOO!	¡GUOOO!
 Message	Shido	"Well, let's get going. Rinne, you're coming
-with, right?"	Bueno, pongámonos en marcha. Rinne, vienes con nosotros, ¿verdad?
-Message	Rinne	Oh, um... I—	Oh, um... I-
+with, right?"	"Bueno, pongámonos en marcha. Rinne,
+Vienes con nosotros, ¿verdad?"
+Message	Rinne	Oh, um... I—	Oh, um... yo-
 Message	Tohka	SHIDO! The seats are filling!	¡SHIDO! ¡Los asientos se están llenando!
 Message	Shido	Coming! Rinne, let's go!	¡Ya voy! Rinne, ¡vamos!
 Message	Rinne	"Um... I think I'll refrain for today. I brought
 lunch."	Um... Creo que me abstendré por hoy. Traje el almuerzo.
 Message	Shido	"Can't you take your lunch to the cafeteria
-and eat it there? Tons of people do that."	¿No puedes llevarte el almuerzo a la cafetería y comértelo allí? Mucha gente lo hace.
+and eat it there? Tons of people do that."	"¿No puedes llevarte el almuerzo a la cafetería
+Y comértelo allí? Mucha gente lo hace."
 Message	Rinne	Yeah, but... I'll refrain for today.	Sí, pero... Me abstendré por hoy.
 Message	Shido	Huh?	¿Eh?
 Message		"(Did I see Rinne hiding two lunch boxes behind
-her back? Or was it just my imagination?)"	(¿He visto a Rinne escondiendo dos fiambreras a sus espaldas? ¿O era sólo mi imaginación?)
+her back? Or was it just my imagination?)"	"(¿He visto a Rinne escondiendo dos fiambreras
+A sus espaldas? ¿O era sólo mi imaginación?)"
 Message	Shido	"Oh, do you have plans with someone already?
-If so, then sorry for springing this on you."	¿Ya tienes planes con alguien? Si es así, siento haberte soltado esto.
+If so, then sorry for springing this on you."	"¿Ya tienes planes con alguien? Si es así,
+Siento haberte soltado esto."
 Message	Rinne	"Huh?! Oh, not at all! It's not like that...
 Sorry."	¡¿Eh?! ¡Oh, para nada! No es así... Lo siento.
 Message	Shido	Okay. Got it. Then, I'm gonna go eat lunch.	De acuerdo. Entendido. Entonces, voy a almorzar.
 Message	Rinne	Okay... Bye.	Bueno... Adiós... Adios.
 Message	Shido	Okay, later.	Vale, más tarde.
-Message	Tonomachi	Man, Rinne-chan's one heck of a girl...	Tío, Rinne-chan es una chica increíble...
+Message	Tonomachi	Man, Rinne-chan's one heck of a girl...	Man, Rinne-chan es una chica increíble...
 Message	Shido	"What makes you say that? She wasn't acting
-any different than usual."	¿Qué te hace decir eso? Ella no estaba actuando diferente de lo habitual.
+any different than usual."	"¿Qué te hace decir eso? Ella no estaba
+Actuando diferente de lo habitual."
 Message	Tonomachi	"But that's what makes her so amazing! She
-gives off the perfect wife material"" vibe!"""	"¡Pero eso es lo que la hace tan increíble! ¡Ella emite el perfecto material de esposa"" vibra!"""
+gives off the perfect wife material"" vibe!"""	"¡Pero eso es lo que la hace tan increíble!
+¡Ella emite el perfecto material de esposa"" vibra!"""
 Message	Shido	Give it a rest...	Dale un descanso...
 Message	Tonomachi	"Don't you agree? Rinne-chan is the model
 Japanese woman. Adorable, mindful, and
-adorable."	¿No estás de acuerdo? Rinne-chan es el modelo de mujer japonesa. Adorable, atenta y adorable.
-Message	Shido	"You said adorable"" twice... Well, I guess Rinne is pretty adorable."""	"Dijiste ""adorable"" dos veces... Bueno, supongo que Rinne es bastante adorable""."
+adorable."	"¿No estás de acuerdo? Rinne-chan es el modelo de
+Mujer japonesa. Adorable, atenta y adorable."
+Message	Shido	"You said adorable"" twice... Well, I guess Rinne is pretty adorable."""	"Dijiste ""adorable"" dos veces... Bueno,
+Supongo que Rinne es bastante adorable""."
 Message		"(She's adorable, a great chef, kind, tidy, and
 she loves taking care of people. We don't even
-have to say anything for her to act adorably...)"	(Es adorable, una gran cocinera, amable, ordenada y le encanta cuidar de la gente. Ni siquiera tenemos que decir nada para que actúe de forma adorable...).
+have to say anything for her to act adorably...)"	"(Es adorable, una gran cocinera, amable, ordenada y
+le encanta cuidar de la gente. Ni siquiera tenemos
+Que decir nada para que actúe de forma adorable...)."
 Message		(...Whoa. Now I'm starting to sound like him.)	(...Guau. Ahora empiezo a sonar como él.)
 Message	Shido	"Well, you've got a point. If you want to get
 married, it'd be great to have a wife like
-Rinne."	Bueno, tienes razón. Si quieres casarte, sería genial tener una esposa como Rinne.
+Rinne."	"Bueno, tienes razón. Si quieres casarte,
+Sería genial tener una esposa como Rinne."
 Message	Origami	...	...
 Message		"(Wh-Why does it look like Origami's
 glaring at me?)"	(¿Por qué parece que Origami me está mirando?)
@@ -438,19 +596,23 @@ your concern."	Ese es mi futuro y el de Shido. Así que no es asunto tuyo.
 Message	Tohka	WHAT?!	¡¿QUÉ?!
 Message	Shido	"Uh... It's a promise that two people make
 when they love each other and want to be
-together forever, I guess."	Uh... Es una promesa que hacen dos personas cuando se aman y quieren estar juntas para siempre, supongo.
+together forever, I guess."	"Uh... Es una promesa que hacen dos personas cuando
+Se aman y quieren estar juntas para siempre, supongo."
 Message	Tohka	Together... forever...	Juntos... para siempre...
 Message	Shido	Hm. What's up, Tohka?	Hm. ¿Qué pasa, Tohka?
 Message	Tohka	Oh, nothing. It's just...	Oh, nada. Es que...
 Message	Shido	Oh.	Oh.
 Message		"(Huh? What's going on? The air feels thick
-all of a sudden...)"	(¿Eh? ¿Qué está pasando? El aire se siente espeso de repente...)
+all of a sudden...)"	"(¿Eh? ¿Qué está pasando? El aire se
+siente espeso de repente...)"
 Message	Tohka	Shido! Carrots!	¡Shido! ¡Zanahorias!
 Message	Origami	"Forget the carrots. You should try the pickled
-daikon."	Olvídate de las zanahorias. Deberías probar el daikon en escabeche.
+daikon."	"Olvídate de las zanahorias. Deberías
+Probar el daikon en escabeche."
 Message	Shido	Hey, wait a minute! What's going on, you two?!	¡Eh, un momento! ¡¿Qué está pasando, vosotros dos?!
 Message	Tohka	"Nothing! We simply want you to eat your
-vegetables, Shido!"	¡Nada! ¡Simplemente queremos que comas tus verduras, Shido!
+vegetables, Shido!"	"¡Nada! ¡Simplemente queremos que
+comas tus verduras, Shido!"
 Message	Origami	Vitamin C intake is important.	La ingesta de vitamina C es importante.
 Message		(NNNG!)	(NNNG!)
 Message	Tohka	Have some cucumbers too, Shido!	¡Toma unos pepinos también, Shido!
@@ -461,51 +623,67 @@ Message	Girl Student A	Oh goodness, what's going on over there?	Dios mío, ¿qu�
 Message	Girl Student B	Maybe it's a new kind of foreplay?	¿Quizás sea un nuevo tipo de juego previo?
 Message	Guy Student A	Well, that's one way to diet.	Bueno, esa es una forma de hacer dieta.
 Message	Guy Student B	"Damn it... DAMN IT! I want cute girls to shove
-vegetables in my mouth!"	Maldita sea... ¡MALDITA SEA! ¡Quiero chicas guapas que me metan verduras en la boca!
+vegetables in my mouth!"	"Maldita sea... ¡MALDITA SEA! ¡Quiero chicas
+Guapas que me metan verduras en la boca!"
 Message	Guy Student A	"Looks like feeding is not only an animal
-trait, but a human one as well."	Parece que alimentarse no es sólo un rasgo animal, sino también humano.
+trait, but a human one as well."	"Parece que alimentarse no es sólo un
+Rasgo animal, sino también humano."
 Message	Girl Student A	Look, he's practically pale now.	Mira, ahora está prácticamente pálido.
 Message	Girl Student B	He's happy.	Está contento.
 Message	Girl Student A	You think?	¿Tú crees?
 Message	Girl Student B	That face looks desperate to me.	Esa cara me parece desesperada.
-Message	Shido	P...Ple...ase... O...o...rigami!	P...Ple...ase... ¡O...o...rigami!
+Message	Shido	P...Ple...ase... O...o...rigami!	P...Por...favor… ¡O...o...rigami!
 Message		(I can't breathe... I can't...)	(No puedo respirar... No puedo...)
 Message	Origami	...Shido?!	...¡¿Shido?!
 Message	Tohka	"SHIDO! Are you okay?! What's the matter,
 Shido?!"	¡SHIDO! ¡¿Estás bien?! ¡¿Qué pasa, Shido?!
 Message		"(Tohka and Origami's voices were fading
-in the distance...)"	(Las voces de Tohka y Origami se desvanecían en la distancia...)
+in the distance...)"	"(Las voces de Tohka y Origami se
+desvanecían en la distancia...)"
 Message	Shido	Oh...	Oh...
 Message		(That's right. That sure was something...)	(Así es. Eso sí que fue algo...)
 Message		"(The direction of the clock's hands tell me that
 it's time to go home. I slept so long, it seems
-I'm the last one left in the classroom...)"	(La dirección de las agujas del reloj me indican que es hora de volver a casa. He dormido tanto que parece que soy el último que queda en el aula...)
+I'm the last one left in the classroom...)"	"(La dirección de las agujas del reloj me indican que es
+hora de volver a casa. He dormido tanto que parece
+que soy el último que queda en el aula...)"
 Message		"(I appreciate Tohka and Origami's intentions,
 but I wish they'd respect my personal space.
-Though, that might be asking too much.)"	(Aprecio las intenciones de Tohka y Origami, pero me gustaría que respetaran mi espacio personal. Aunque quizá sea pedir demasiado).
+Though, that might be asking too much.)"	"(Aprecio las intenciones de Tohka y Origami, pero me
+gustaría que respetaran mi espacio personal.
+Aunque quizá sea pedir demasiado)."
 Message		(Hm? Kotori?)	(¿Hm? ¿Kotori?)
 Message	Shido	Yo, what's up, Kotori?	¿Qué pasa, Kotori?
 Message	Kotori	"Right back at ya. What've you been up to?
-I couldn't get ahold of you."	Lo mismo digo. ¿Qué has estado haciendo? No pude localizarte.
+I couldn't get ahold of you."	"Lo mismo digo. ¿Qué has estado haciendo?
+No pude localizarte."
 Message	Shido	Oh... Well, stuff happened.	Oh... Bueno, pasaron cosas.
 Message	Kotori	"You upset Tohka again, didn't you?
-Nice, real mature of you."	Has vuelto a enfadar a Tohka, ¿verdad? Muy maduro por tu parte.
+Nice, real mature of you."	"Has vuelto a enfadar a Tohka, ¿verdad?
+Muy maduro por tu parte."
 Message	Shido	Ah! It's a long story, okay?	¡Ah! Es una larga historia, ¿vale?
 Message	Kotori	"Oh. Boy, you're such a sad sack. If they
 ranked the saddest sacks, you'd be number
-one for sure!"	Oh. Chico, eres un saco triste. Si clasificaran a los sacos más tristes, ¡seguro que serías el número uno!
+one for sure!"	"Oh. Chico, eres un saco triste. Si clasificaran a los sacos
+Más tristes, ¡seguro que serías el número uno!"
 Message	Shido	Leave me alone!	¡Déjame en paz!
 Message	Kotori	"Well, if you had any game, Shido, it wouldn't
-be this difficult to make the seal happen."	Bueno, si tuvieras algo de juego, Shido, no sería tan difícil conseguir el sello.
+be this difficult to make the seal happen."	"Bueno, si tuvieras algo de juego, Shido,
+No sería tan difícil conseguir el sello."
 Message	Shido	Excuse me?	¿Perdón?
 Message	Kotori	"Anyway... Remember what I told you?
-Don't tell me you forgot."	En fin... ¿Recuerdas lo que te dije? No me digas que lo olvidaste.
+Don't tell me you forgot."	"En fin... ¿Recuerdas lo que te dije? No me
+digas que lo olvidaste."
 Message	Shido	I know. You want me... to go on a date, right?	Lo sé, lo sé. Quieres que... tenga una cita, ¿verdad?
 Message	Kotori	"That's right. If you stabilize the Spirit, then
 that'll prevent her from going rogue. That's
-the most important thing. For your sake, too."	Así es. Si estabilizas al Espíritu, evitarás que se vuelva rebelde. Eso es lo más importante. Por tu bien, también.
+the most important thing. For your sake, too."	"Así es. Si estabilizas al Espíritu, evitarás que se
+vuelva rebelde. Eso es lo más importante.
+Por tu bien, también."
 Message	Shido	I know.	Lo sé.
 Message	Kotori	"Then hurry up and find the girls to do
 what you need to do. Escort them, you
-hear me?"	Entonces date prisa y encuentra a las chicas para hacer lo que tienes que hacer. Escóltalas, ¿me oyes?
-Message		(Now... Where to go?)	(Ahora... ¿A dónde ir?)
+hear me?"	"Entonces date prisa y encuentra a las chicas
+para hacer lo que tienes que hacer.
+Escóltalas, ¿me oyes?"
+Message		(Now... Where to go?)	(Ahora... ¿A dónde vamos?)

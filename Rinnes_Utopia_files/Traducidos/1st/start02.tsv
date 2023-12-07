@@ -27,7 +27,7 @@ Message	Tohka	Shido! Shido! Shido...!	¡Shido! ¡Shido! ¡Shido...!
 Message	Shido	HNRG?!	¡¿HNRG?!
 Message	Shido	T-Tohka! That hurts!	¡T-Tohka! ¡Eso duele!
 Message	Tohka	Huh?! S-Sorry, Shido...!	¡¿Eh?! ¡Lo siento, Shido...!
-Message	Shido	Ah! ...*pant*...*pant*...*pant*...*pant*...	¡Ah! ... *pant*... *pant*... *pant*... *pant*...
+Message	Shido	Ah! ...*pant*...*pant*...*pant*...*pant*...	¡Ah! ... *jadeo*... *jadeo*... *jadeo*... *jadeo*…
 Message		(Wh-What... is going on...?)	(¿Qué... está pasando...?)
 Message		(I looked around the room...)	(Miré alrededor de la habitación...)
 Message	Tohka	"What is the matter, Shido?
@@ -35,17 +35,17 @@ Do you... still feel sick?"	"¿Qué pasa, Shido?
 ¿Todavía... te sientes mal?"
 Message		"(The girl looking at me with such worry was Tohka
 Yatogami. Despite her human appearance, she is
-actually a Spirit, a being with great powers.)"	"(La chica que me miraba con tanta preocupación era Tohka
-Yatogami. A pesar de su apariencia humana
+actually a Spirit, a being with great powers.)"	"(La chica que me miraba con tanta preocupación era
+Tohka Yatogami. A pesar de su apariencia humana
 en realidad un Espíritu, un ser con grandes poderes)."
 Message		"(Seeing Tohka's bright smile,
 my mind was made up.)"	"(Al ver la brillante sonrisa de Tohka,
 me decidí.)"
 Message		"(Humans and Spirits shouldn't harm one another.
 If there was no other way, I would save the
-Spirits myself.)"	"(Los humanos y los espíritus no deberían hacerse daño mutuamente.
-Si no hubiera otra manera, yo mismo salvaría a los
-Espíritus yo mismo)."
+Spirits myself.)"	"(Los humanos y los espíritus no deberían hacerse daño
+mutuamente. Si no hubiera otra manera, yo mismo
+salvaría a los Espíritus yo mismo)."
 Message		"(And... I sealed Tohka's powers. Come to think of
 it, my days have been filled with dates ever since
 I met her...)"	"(Y... Sellé los poderes de Tohka. Ahora que lo pienso
@@ -57,8 +57,8 @@ lo que está pasando..."
 Message	Shido	Hm...?	¿Hm...?
 Message		"(I tried to ask her what was happening, but before
 I knew it, Tohka had stepped away from the bed
-with her back toward me.)"	"(Intenté preguntarle qué pasaba, pero antes de que me diera cuenta, Tohka se había alejado de la cama.
-de darme cuenta, Tohka se había alejado de la cama
+with her back toward me.)"	"(Intenté preguntarle qué pasaba, pero antes de que me
+diera cuenta,  Tohka se había alejado de la cama
 dándome la espalda)."
 Message	Tohka	D-During a time like this, I... Hmm, I see...	D-Durante un tiempo como este, yo... Hmm, ya veo...
 Message	Shido	T-Tohka...?	¿T-Tohka...?
@@ -173,9 +173,11 @@ you'd be an idiot to upset her. She has such a
 mouth on her that there's no way to win!)"	"(Cuando su cinta es de color negro-por lo que su estado actual-
 serías un idiota si la molestaras. Tiene tal
 boca que no hay manera de ganar)."
-Message		"(I call this her Commander Mode"", as Kotori"	"(Yo llamo a esto su ""Modo Comandante"", como Kotori"
-leads the organization known as Ratatoskr			nan
-"from aboard the airship called the Fraxinus.)"""			nan
+Message		"(I call this her Commander Mode"", as Kotori
+leads the organization known as Ratatoskr
+from aboard the airship called the Fraxinus.)"""	"(Yo llamo a esto su ""Modo Comandante"", ya que Kotori
+lidera la organización conocida como Ratatoskr desde
+a bordo del dirigible llamado Fraxinus.)"
 Message		"(While Kotori is charged with protecting
 the Spirits as the Commander of Ratatoskr,
 she herself has Spirit powers as well.)"	"(Mientras Kotori se encarga de proteger
@@ -189,9 +191,9 @@ of responsibility from that role.)"	"(A pesar de su edad, Kotori carga con mucha
 responsabilidad de ese papel)."
 Message		"(I know she needs to be tough, but... seeing my
 innocent little sister turn out this way was sort
-of a shock.)"	"(Sé que necesita ser dura, pero... ver a mi inocente hermanita
-inocente hermana pequeña convertirse de esta manera fue una especie
-de shock.)"
+of a shock.)"	"(Sé que necesita ser dura, pero... ver a mi inocente
+hermana pequeña convertirse de esta manera
+fue una especie de shock.)"
 Message		"(But... when I was struggling, Kotori stood
 by my side as family.)"	"(Pero... cuando estaba luchando, Kotori estaba
 a mi lado como de la familia)."
@@ -213,27 +215,30 @@ second Spirit I met.)"	"(Esta niña torpe es Yoshino. Fue la segunda
 segundo Espíritu que conocí)."
 Message		(She's very quiet and abnormally shy.)	(Es muy callada y anormalmente tímida).
 Message		"(She somehow managed to open up to us enough to
-talk, but it took a while to get to this place.)"	"(De alguna manera se las arregló para abrirse a nosotros lo suficiente como para hablar, pero le llevó un tiempo llegar a este punto).
-hablar, pero le llevó un tiempo llegar a este punto)."
+talk, but it took a while to get to this place.)"	"(De alguna manera logró abrirse lo suficiente como
+para hablar con nosotros, pero tomó un tiempo
+llegar a este punto.)"
 Message		(That's about it for introductions.)	(Hasta aquí las presentaciones).
 Message	Yoshinon	Grr...	Grr...
 Message	Shido	Oh! Sorry, sorry. You exist too, Yoshinon.	¡Oh! Perdón, perdón. Tú también existes, Yoshinon.
-Message	Yoshinon	Yoshinon was the one who said 'hi' to you\nfirst, and you've ignored me all this time!\nMaybe that's proof that you're still sick?	"Yoshinon fue quien te dijo ""hola"" primero, ¡y me has ignorado todo este tiempo! ¿Quizás eso es prueba de que sigues enfermo?"
+Message	Yoshinon	Yoshinon was the one who said 'hi' to you\nfirst, and you've ignored me all this time!\nMaybe that's proof that you're still sick?	"Yoshinon fue quien te dijo ""hola"" primero, ¡y me has
+ignorado todo este tiempo! ¿Quizás eso es prueba
+de que sigues enfermo?"
 Message	Shido	Sorry. I was talking to Yoshino, and I forgot.	Perdona. Estaba hablando con Yoshino y lo olvidé.
 Message		(That's right, I can't forget Yoshinon.)	(Así es, no puedo olvidar a Yoshinon).
 Message		"(Yoshinon is a rabbit puppet and Yoshino's friend.
 Yoshino's other personality is channeled through
-this little one.)"	"(Yoshinon es una marioneta de conejo y amigo de Yoshino.
-La otra personalidad de Yoshino se canaliza a través de
-este pequeño)."
+this little one.)"	"(Yoshinon es una marioneta de conejo y amigo de
+Yoshino. La otra personalidad de Yoshino se
+canaliza a través de este pequeño)."
 Message		"(Yoshino would never hurt someone. She's kind...
 In fact, she's probably too kind.)"	"(Yoshino nunca haría daño a nadie. Ella es amable...
 De hecho, probablemente es demasiado amable.)"
 Message		"(But, her extreme shyness makes her panic, and she
 risks freezing everything around her. She may be
-quiet, but she still has the powers of a Spirit.)"	"(Pero, su extrema timidez le hace entrar en pánico, y ella
-corre el riesgo de congelar todo a su alrededor. Puede que sea
-tranquila, pero sigue teniendo los poderes de un Espíritu)."
+quiet, but she still has the powers of a Spirit.)"	"(Sin embargo, su extrema timidez la hace entrar en pánico,
+y corre el riesgo de congelar todo a su alrededor. Puede
+ser callada, pero aún posee los poderes de un Espíritu.)"
 Message		"(Yoshinon loves to talk, and is something of an
 outlet to control Yoshino so she won't
 accidentally hurt someone.)"	"(A Yoshinon le encanta hablar, y es una especie de
@@ -263,12 +268,12 @@ y es mi profesora ayudante, así que la veo
 a menudo."
 Message		"(She always has a teddy bear in her chest pocket. I
 can't help but stare at it. She's mysterious, but
-generally very nice and dependable... I think.)"	"(Siempre lleva un osito de peluche en el bolsillo del pecho. I
-no puedo evitar mirarlo. Es misteriosa, pero
-en general muy agradable y confiable... creo)."
+generally very nice and dependable... I think.)"	"(Siempre lleva un osito de peluche en el bolsillo del pecho.
+no puedo evitar mirarlo. Es misteriosa, pero en
+general muy agradable y confiable... creo)."
 Message	Reine	"Shin... You just recovered, so you shouldn't push
-yourself too—"	"Shin... Acabas de recuperarte, así que no deberías presionarte...
-demasiado."
+yourself too—"	"Shin... Acabas de recuperarte, así que no deberías
+presionarte… demasiado."
 Message	Shido	Hey! R-Reine-san?!	¡Hey! ¡¿R-Reine-san?!
 Message	Reine	Oh, sorry... I've been lacking sleep lately.	Oh, lo siento... He estado falto de sueño últimamente.
 Message	Shido	"I know! But shouldn't you be the one resting,
@@ -283,13 +288,14 @@ Message	Shido	Oh, okay. Thank you... Oh, yeah! Reine-san!	Ah, vale. Gracias... �
 Message	Reine	"Hm... What's the matter? Is there a reason for
 this outburst?"	"Hm... ¿Qué pasa? ¿Hay alguna razón para
 este arrebato?"
-Message	Shido	"Don't What's the matter"" me!"	¡No me digas qué me pasa!
-"What is going on?! Explain!"""			nan
+Message	Shido	"Don't What's the matter"" me!
+What is going on?! Explain!"""	"¡No me digas ""¿Qué pasa?""!
+¿Qué está pasando? ¡Explica!"
 Message	Shido	"Tohka squeezes me awake, Kotori and Yoshino charge
 into my room, and you're giving me medicine to
-recover""?! Did I contract some kind of awful—?!"""	"Tohka me despierta a empujones, Kotori y Yoshino cargan
-a mi habitación, y tú me das medicinas para recuperarme""?
-¡recuperarme""?! ¡¿Contraje algún tipo de horrible...?!"""
+recover""?! Did I contract some kind of awful—?!"""	"¡Tohka me despierta, Kotori y Yoshino entran corriendo,
+¿y me das medicina para recuperarme?
+¿Contraje alguna enfermedad terrible?"
 Message	Shido	(Mmrph! Mmmph!)	(Mmrph! Mmmph!)
 Message	Kotori	Have you calmed down?	¿Te has calmado?
 Message	Shido	H-Horori! W-Wha...are you...?!	H-Horori! W-Wha...are you...?!
@@ -304,15 +310,15 @@ Message	Kotori	"You looked like you were in panic mode, so I used
 a special technique. You got a problem with that?"	"Parecía que estabas en modo pánico, así que usé
 una técnica especial. ¿Tienes algún problema con eso?"
 Message	Shido	"P-Problem?! Don't use Reine-san's chest like it's
-some sort of treatment center!"	"¡¿Problema?! ¡No uses el pecho de Reine-san como si fuera
-¡una especie de centro de tratamiento!"
+some sort of treatment center!"	"¡¿Problema?! ¡No uses el pecho de Reine-san como si
+fuera ¡una especie de centro de tratamiento!"
 Message	Reine	If it calms you down from hysteria, I don't mind.	Si te calma la histeria, no me importa.
 Message	Shido	Wha...?	Wha...?
 Message	Kotori	"Straight from the treatment center herself. Do you
 want to get checked in again? You kinda look
-like you want to, Shido."	"Directamente del propio centro de tratamiento. ¿Quieres
-¿quieres que te vuelva a registrar? Parece
-como si quisieras, Shido."
+like you want to, Shido."	"Directamente desde el centro de tratamiento ella misma.
+¿Quieres volver a ser examinado?
+Parece que lo deseas, Shido."
 Message	Shido	Oh no, I'm fine... Th-Thank you!	Oh no, estoy bien... ¡G-Gracias!
 Message	Shido	"Forget that! Can you be serious for a second
 and tell me what's going on?!"	"¡Olvídalo! ¡¿Puedes ser serio por un segundo
@@ -375,9 +381,9 @@ Tohka in the classroom.)"	"(Fue cuando estaba charlando con
 Tohka en el aula)."
 Message		"(We were talking about how I had been sick lately,
 and how there was a new item at the bread shop
-I liked... We were just chatting about nothing...)"	"(Estábamos hablando de cómo había estado enfermo últimamente,
-y cómo había un nuevo artículo en la tienda de pan
-que me gustaba... Estábamos charlando de nada...)"
+I liked... We were just chatting about nothing...)"	"(Hablábamos de mi reciente enfermedad y de un nuevo
+producto en la panadería que me gusta…
+simplemente charlábamos de tonterías.)"
 Message		"(Just then, Tohka looked like she was in pain
 and ran out of the classroom!)"	"(Justo en ese momento, Tohka parecía estar sufriendo
 y salió corriendo del aula)."
@@ -460,8 +466,9 @@ time."	"Era algo que anticipamos, así que no fue
 un problema, pero ... este caso es diferente de ese
 tiempo."
 Message	Kotori	"I'm still investigating, but we're completely at a
-loss. We have no idea what's going on."	"Todavía estoy investigando, pero estamos completamente en una
-pérdida. No tenemos ni idea de lo que está pasando."
+loss. We have no idea what's going on."	"Todavía estoy investigando, pero estamos
+completamente en una pérdida. No tenemos
+ni idea de lo que está pasando."
 Message	Kotori	"Looking at Tohka or Yoshino, it doesn't seem like
 it was caused from the Spirits being stressed...
 Shido, do you have any idea what it could be?"	"Mirando a Tohka o Yoshino, no parece que...
@@ -481,18 +488,19 @@ No apareció nada cuando te estábamos examinando
 en el Fraxinus."
 Message	Reine	"That's right... I mean, we did some rigorous
 testing, so I'm sure the results are accurate."	"Así es... Quiero decir, hicimos algunas rigurosas
-pruebas, así que estoy seguro de que los resultados son exactos."
+pruebas, así que estoy seguro de que los
+resultados son exactos."
 Message	Shido	"I'm sorry. I know it's my body and all, but
 I can't seem to give any useful feedback..."	"Lo siento. Sé que es mi cuerpo y todo eso, pero...
 parece que no puedo dar ninguna respuesta útil..."
 Message	Kotori	"No need to apologize. This was kind of an
-accident, after all."	"No hay necesidad de disculparse. Esto fue una especie de
-accidente, después de todo."
+accident, after all."	"No hay necesidad de disculparse. Esto fue una
+especie de accidente, después de todo."
 Message	Reine	"Shin, you can safely say that all Spirits are now
 unstable. As long as you're losing your powers,
-you no longer have the divine protection of them."	"Shin, se puede decir con seguridad que todos los Espíritus son ahora
-inestables. Mientras estés perdiendo tus poderes,
-ya no tienes la protección divina de ellos."
+you no longer have the divine protection of them."	"Shin, se puede decir con seguridad que todos los Espíritus
+son ahora inestables. Mientras estés perdiendo tus
+poderes, ya no tienes la protección divina de ellos."
 Message	Shido	So, that means...?	Entonces, ¿eso significa...?
 Message	Kotori	"You're not invincible anymore. If there's anything
 that could put your life in danger, it will do so.
@@ -530,18 +538,20 @@ Message	Yoshino	I...I'm... so sorry...!	Yo... lo... siento mucho...
 Message	Shido	"It's fine, Yoshino. Don't worry about that.
 Are you okay?"	"Está bien, Yoshino. No te preocupes por eso.
 ¿Te encuentras bien?"
-Message	Yoshino	Y-Yes...! I... I... am fine.	S-Sí... I... Yo... estoy bien.
+Message	Yoshino	Y-Yes...! I... I... am fine.	S-Sí…! Yo… Yo... estoy bien.
 Message	Shido	I see. That's good.	Ya veo. Muy bien.
 Message	Yoshinon	Yeah... Even Yoshinon was surprised!	Sí... ¡Incluso Yoshinon se sorprendió!
-Message	Yoshinon	All of a sudden, there was this huge surge of\npower, and it wouldn't stop!	De repente, hubo una gran oleada de energía, ¡y no paraba!
+Message	Yoshinon	All of a sudden, there was this huge surge of\npower, and it wouldn't stop!	"De repente, hubo una gran oleada de energía,
+¡y no paraba!"
 Message	Shido	I'm sorry... This is all my fault.	Lo siento... Todo esto es culpa mía.
-Message	Yoshinon	Ahahaha. It's totally fine!\nI mean we're friends, right?	Ahahaha. ¡Está totalmente bien! Quiero decir, somos amigos, ¿verdad?
+Message	Yoshinon	Ahahaha. It's totally fine!\nI mean we're friends, right?	"Ahahaha. ¡Está totalmente bien! Quiero decir,
+somos amigos, ¿verdad?"
 Message	Shido	Y-Yeah... Thanks, Yoshinon.	S-Sí... Gracias, Yoshinon.
 Message	Kotori	"They've stabilized plenty, but Tohka and Yoshino
 need to undergo a few more tests. After that... I
-guess they'll be staying at our house for a while."	"Se han estabilizado bastante, pero Tohka y Yoshino
-necesitan someterse a algunas pruebas más. Después de eso... I
-supongo que se quedarán en nuestra casa por un tiempo."
+guess they'll be staying at our house for a while."	"Han mejorado, pero Tohka y Yoshino aún necesitan
+más pruebas. Después... se quedarán en
+casa por un tiempo."
 Message	Shido	Oh, okay. Yeah... Wait, what?!	Ah, vale. Sí... Espera, ¿qué?
 Message	Kotori	"What's the big deal? Tohka used to live with us
 just a little while ago."	"¿Cuál es el problema? Tohka vivía con nosotros
@@ -562,10 +572,10 @@ varón sano en el instituto."
 Message	Shido	Well, um... Maybe just a little... Yeah, right!	Bueno... Tal vez sólo un poco... ¡Sí, claro!
 Message	Kotori	...	...
 Message	Yoshino	...	...
-Message	Shido	*Groan*! D-Don't look at me like that!	¡*Groan*! D-¡No me mires así!
+Message	Shido	*Groan*! D-Don't look at me like that!	¡*Quejido*! N-¡No me mires así!
 Message	Shido	"I-I wasn't expecting anything specific! It's just,
 you know! It would be an issue for any healthy
-male in high school!"	"¡No esperaba nada en concreto! Es que..,
+male in high school!"	"¡No esperaba nada en concreto! Es que,
 ¡ya sabes! Sería un problema para cualquier
 varón sano en el instituto."
 Message	Kotori	What? You're going to turn them out on the street?	¿Qué? ¿Vas a echarlos a la calle?
@@ -588,7 +598,8 @@ otro lugar listo..."
 Message	Shido	Whatever! I'll be responsible for them both!	¡Como quieras! ¡Seré responsable de los dos!
 Message	Tohka	Shido!	¡Shido!
 Message	Yoshino	Th-Thank you...!	¡G-Gracias...!
-Message	Yoshinon	Aren't you a lucky one? You get to live with the\ncute Yoshinon!	¿No eres afortunado? ¡Tienes la oportunidad de vivir con el Yoshinon de Ancute!
+Message	Yoshinon	Aren't you a lucky one? You get to live with the\ncute Yoshinon!	"¿No eres afortunado? ¡Tienes la suerte de
+vivir con la linda Yoshinon!"
 Message	Shido	Y-Yeah...	S-Sí...
 Message	Kotori	"Well, it's the first time Yoshino's staying over,
 but I'm sure it'll be fine. It's safer this way."	"Bueno, es la primera vez que Yoshino se queda a dormir,
@@ -763,4 +774,4 @@ y límpiale el cuerpo."
 Message	Tohka	What...?! I-I must take his clothes off?	¡¿Qué...?! ¿Tengo que quitarle la ropa?
 Message	Shido	T-Tohka, it's okay! I'll wash myself—!	¡T-Tohka, está bien! ¡Me lavaré!
 Message	Tohka	Sh-Shido, you just sit there!	¡Sh-Shido, quédate ahí sentado!
-Message	Shido	O-Okay...	Vale...
+Message	Shido	O-Okay...	O-Okay...

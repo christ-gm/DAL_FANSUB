@@ -1,6 +1,7 @@
 Operator	Comment	Key	Translation
 Message	Shido	"Ah. Class is over. Now, I gotta think of what
-to do after schoool. Hm...?"	Ah. Se acabó la clase. Ahora, tengo que pensar qué hacer después de la escuela. ¿Hm...?
+to do after schoool. Hm...?"	"Ah. Se acabó la clase. Ahora, tengo que pensar qué hacer
+Después de la escuela. ¿Hm...?"
 Message	Kotori	Oh, Onii-chan! Hey! Hey!	¡Oh, Onii-chan! ¡Eh! ¡Eh!
 Message	Shido	Kotori? What are you doing at my school?	¿Kotori? ¿Qué haces en mi escuela?
 Message	Kotori	I needed to talk to Reine. I'm about to head home.	Necesitaba hablar con Reine. Estoy a punto de volver a casa.
@@ -8,60 +9,81 @@ Message	Shido	I see... Oh? Your ribbon... it's white today?	Ya veo... ¿Oh? Tu c
 Message	Kotori	Yup.	Sí.
 Message		"(I haven't seen that in a while.
 Her carefree way about her right now...
-It feels kind of nostalgic.)"	(Hacía tiempo que no veía eso.  Su despreocupación en este momento...  Se siente un poco nostálgico).
+It feels kind of nostalgic.)"	"(Hacía tiempo que no veía eso.
+Su despreocupación en este momento... 
+Se siente un poco nostálgico)."
 Message	Shido	"And you're dressed like that out seeing
-Reine-san. What are you trying to pull?"	Y estás vestido así para ver a Reine-san. ¿Qué intentas hacer?
+Reine-san. What are you trying to pull?"	"Y estás vestida así para ver a Reine-san.
+¿Qué intentas hacer?"
 Message	Kotori	"If you're always so nervous like that,
-one day you're going to pop."	Si siempre estás así de nervioso, un día vas a reventar.
+one day you're going to pop."	"Si siempre estás así de nervioso,
+Un día vas a reventar."
 Message	Shido	I see...	Ya veo...
 Message	Kotori	Is there a problem?	¿Hay algún problema?
 Message	Shido	"Oh no, no...
-I'm glad you're having fun, Kotori."	Oh no, no...  Me alegro de que te diviertas, Kotori.
+I'm glad you're having fun, Kotori."	"Oh no, no... 
+Me alegro de que te diviertas, Kotori."
 Message	Kotori	...	...
 Message	Shido	Hm? What's the matter?	¿Qué? ¿Cuál es el problema?
 Message	Kotori	I've always wanted to ask you, Onii-chan...	Siempre he querido preguntarte, Onii-chan...
 Message	Shido	What is it?	¿De qué se trata?
 Message	Kotori	"Which version of me do you like better?
-The me now or when I'm at the control room?"	¿Qué versión de mí te gusta más?  ¿La de ahora o la de cuando estoy en la sala de control?
+The me now or when I'm at the control room?"	"¿Qué versión de mí te gusta más?
+¿La de ahora o la de cuando estoy en la sala de control?"
 Message		"(What?! Wait... why is she asking me which
-version of her I like better? Hm...)"	(¡¿Qué?! Espera... ¿por qué me pregunta qué versión de ella me gusta más? Hm...)
+version of her I like better? Hm...)"	"(¡¿Qué?! Espera... ¿por qué me pregunta qué versión
+De ella me gusta más? Hm...)"
 Message	Shido	U-Uh...	U-Uh...
-Choice		The light Kotori.	La luz Kotori.
-Choice		The dark Kotori.	La oscura Kotori.
+Choice		The light Kotori.	La Kotori blanca.
+Choice		The dark Kotori.	La Kotori oscura.
 Choice		I like them both the same.	Me gustan los dos por igual.
 Message	Shido	If I were to choose, I'd say you now...	Si tuviera que elegir, diría que ahora...
 Message	Kotori	Really? Why do you say that?	¿De verdad? ¿Por qué dices eso?
-Message	Shido	What do you mean why... Well your version now won't leave a deep scar in my heart.	Qué quieres decir con por qué... Bueno tu versión ahora no dejará una cicatriz profunda en mi corazón.
+Message	Shido	What do you mean why... Well your version now won't leave a deep scar in my heart.	"Qué quieres decir con por qué... Bueno tu versión ahora
+No dejará una cicatriz profunda en mi corazón."
 Message	Shido	"When I see you in your light mode, I feel like we're
 in the goold old days. I remember when we were
-kids and life was so easy."	Cuando te veo en tu modo ligero, me siento como si estuviéramos en los viejos tiempos. Recuerdo cuando éramos niños y la vida era tan fácil.
+kids and life was so easy."	"Cuando te veo en tu modo blanco, me siento como si
+estuviéramos en los viejos tiempos. Recuerdo cuando
+Éramos niños y la vida era tan fácil."
 Message	Kotori	So you have a weird sister complex.	Así que tienes un extraño complejo de hermana.
 Message	Shido	What?! Sister complex?!	¡¿Qué?! ¡¿Complejo de hermana?!
 Message	Kotori	"Also, why are you thinking of when we
-were young? Isn't that weird to you?"	Además, ¿por qué piensas en cuando éramos jóvenes? ¿No te parece raro?
+were young? Isn't that weird to you?"	"Además, ¿por qué piensas en cuando éramos jóvenes?
+¿No te parece raro?"
 Message	Shido	What? No, wait, I'm talking about...	¿De qué? No, espera, estoy hablando de...
-Message	Kotori	Nice! My brother has a weird sister complex!	¡Qué bonito! ¡Mi hermano tiene un extraño complejo de hermana!
+Message	Kotori	Nice! My brother has a weird sister complex!	"¡Qué bonito! ¡Mi hermano tiene un extraño
+Complejo de hermana!"
 Message	Shido	Hey! Wait! That's not true at all!	¡Eh! ¡Espera! ¡Eso no es cierto en absoluto!
-Message	Shido	...Why?! I thought light Kotori would never hurt me!	...¡¿Por qué?! ¡Pensé que Kotori la ligera nunca me haría daño!
+Message	Shido	...Why?! I thought light Kotori would never hurt me!	"...¡¿Por qué?! ¡Pensé que la Kotori blanca
+Nunca me haría daño!"
 Message	Shido	"I... I don't mind the you now but I guess I don't mind the
-pretty hard words you say when you're at Ratatoskr."	I... No me importa el tú ahora pero supongo que no me importan las palabras tan duras que dices cuando estás en Ratatoskr.
+pretty hard words you say when you're at Ratatoskr."	"I... No me importa el tú ahora pero supongo que no me
+importan las palabras tan duras que dices
+Cuando estás en Ratatoskr."
 Message	Kotori	"So, that makes you a super masochistic hentai man
-who gets excited with hardcore things?"	Entonces, ¿eso te convierte en un súper masoquista hentai que se excita con cosas duras?
+who gets excited with hardcore things?"	"Entonces, ¿eso te convierte en un súper masoquista
+Pervertido que se excita con cosas duras?"
 Message	Shido	Huh? Wait! How did you come up with that?	¿Eh? ¡Espera! ¿Cómo se te ocurrió eso?
 Message	Kotori	"What a let down, Onii-chan! I'm going to reconsider
-how I deal with you from now on!"	¡Qué decepción, Onii-chan! ¡Voy a reconsiderar cómo te trato a partir de ahora!
+how I deal with you from now on!"	"¡Qué decepción, Onii-chan!
+¡Voy a reconsiderar cómo te trato a partir de ahora!"
 Message	Shido	Wait, that's not what I meant.	Espera, no me refería a eso.
-Message	Kotori	Ah! My brother is a super masochistic hentai guy!	¡Ah! ¡Mi hermano es un hentai super masoquista!
+Message	Kotori	Ah! My brother is a super masochistic hentai guy!	¡Ah! ¡Mi hermano es un pervertido super masoquista!
 Message	Shido	No! I'm not!	¡No!
 Message	Shido	Honestly, I can't choose.	Sinceramente, no puedo elegir.
 Message	Kotori	Hm. Why?	Hm. ¿Por qué?
 Message	Shido	"Well, either way, you're still my little sister.
-I like you whatever type of person you are."	Bueno, de cualquier manera, sigues siendo mi hermana pequeña.  Me gustas seas el tipo de persona que seas.
+I like you whatever type of person you are."	"Bueno, de cualquier manera, sigues siendo mi
+hermana pequeña. Me gustas seas el tipo de
+Persona que seas."
 Message	Kotori	O-Onii-chan... who told you to say that?	O-Onii-chan... ¿quién te ha dicho que digas eso?
-Message	Shido	I don't like that! I like any version of you, got it?	¡Eso no me gusta! Me gusta cualquier versión de ti, ¿entendido?
+Message	Shido	I don't like that! I like any version of you, got it?	"¡Eso no me gusta!
+Me gusta cualquier versión de ti, ¿entendido?"
 Message	Kotori	"H-Hm. You putting it to words like that
 is gonna make me blush."	H-Hm. Si lo pones en palabras así me vas a sonrojar.
 Message	Shido	"Well... I guess I'm embarrassed
-saying it, too, but it's the truth."	Bueno... Supongo que a mí también me da vergüenza decirlo, pero es la verdad.
+saying it, too, but it's the truth."	"Bueno... Supongo que a mí también me da
+Vergüenza decirlo, pero es la verdad."
 Message	Kotori	Nwaaaah?! W-Well, let's do this again soon! Bye!	¡¿Nwaaaah?! ¡Bueno, hagámoslo de nuevo pronto! ¡Adiós!
 Message	Shido	What the? Kotori's so weird...	¿Qué? Kotori es tan rara...

@@ -1,0 +1,229 @@
+Operator	Comment	Key	Translation
+Message		"(I know. I'll go with Origami. I think I'd just
+worry the others more.)"	"(Lo sé. Me quedo con Origami.
+Creo que preocuparía más a los demás)."
+Message		(Uh... Origami's number is...)	(Uh... El número de Origami es...)
+Message	Shido	Hello? Origami?	Hola? ¿Origami?
+Message	Origami	Yes. Shido?	Sí. ¿Shido?
+Message	Shido	"Yeah. I-I was gonna take a stroll and head
+towards Tengu Tower, but—"	"Sí. Iba a dar un paseo y dirigirme
+hacia la Torre Tengu, pero-"
+Message	Origami	Roger.	Entendido.
+Message	Shido	Huh...? Uh... I didn't say everything yet.	¿Eh...? Uh ... No he dicho todo todavía.
+Message	Origami	A scenic date. To see it one last time.	Una cita panorámica. Para verlo por última vez.
+Message	Shido	Oh, yeah...	Oh, sí...
+Message	Origami	No problem. I'll head over to the location now.	No hay problema. Me dirigiré a la ubicación ahora.
+Message	Shido	Okay...	Bueno...
+Message		"(Sometimes I can't keep up with Origami's
+brain. Yeah, maybe I'm just imagining things.
+Haha...)"	"(A veces no puedo seguirle el ritmo al
+cerebro de Origami. Sí, tal vez me
+estoy imaginando cosas. Jaja...)"
+Message		"(Because I left right away, maybe I'll get
+there first.)"	"(Como me fui enseguida,
+a lo mejor llego antes)."
+Message		"(There's still people waiting in line. I hope
+we can get in before it closes.)"	"(Todavía hay gente haciendo cola.
+Espero que podamos entrar antes de que cierre)."
+Message		"(What should I do? Maybe I should start
+lining up. Or should I wait for Origami...?)"	"(¿Qué debo hacer? Quizá debería empezar a
+hacer cola. ¿O debería esperar a Origami...?)"
+Message		"(No, I should probably take a look around the
+monument. I mean, that's the whole reason I
+came here.)"	"(No, probablemente debería echar un
+vistazo al monumento. Quiero decir,
+esa es la razón por la que vine aquí)."
+Message		"(Man, seeing it in person... I'm not sure if I
+remember seeing any of this, but... that's
+weird, right? Why doesn't it look familiar?)"	"(Hombre, verlo en persona... No estoy seguro de si 
+ecuerdo haber visto algo de esto, pero... qué raro,
+¿no? ¿Por qué no me suena?)"
+Message		"(All right! Maybe I'll go nearer to get a closer
+look!)"	"(¡Muy bien! ¡Quizás me acerque
+para verlo más de cerca!)"
+Message		(Hm... I don't g—)	(Hm... Yo no g-)
+Message	Origami	Shido, stand back!	¡Shido, apártate!
+Message	Shido	Huh?! O-Origami?!	¡¿Eh?! ¡¿O-Origami?!
+Message		(—Whoa! What's that?!)	(-¡Whoa! ¡¿Qué es eso?!)
+Message	Origami	"*grunt*! Identification! AST Origami Tobiichi!
+Basic Realizer, ignite! Wiring suit, open!"	"¡*gruñir*! ¡Identificación! ¡AST Origami Tobiichi!
+¡Realizador básico, encendido! Traje de cableado, ¡abrir!"
+Message	Origami	Th-That's... Could it be?!	Eso es... ¡¿Podría ser?!
+Message	Shido	O-Origami?! Wh-What's going on?!	¡¿O-Origami?! ¡¿Qu-Qué está pasando?!
+Message	Origami	Shido, it's dangerous here. Step away.	Shido, esto es peligroso. Aléjate.
+Message	Shido	B-But—!	¡P-Pero...!
+Message	Origami	"This place... is the ""enemy's"" territory."	"Este lugar... es territorio del ""enemigo""."
+Message	Shido	T-Territory?	¿T-Territorio?
+Message		(Just then, I was wrapped by a strange feeling.)	(Justo entonces, me envolvió una extraña sensación).
+Message		"(It was as if I were quickly engulfed by liquid,
+thickening in the air around me. It was
+unbelievably peculiar.)"	"(Era como si me viera rápidamente envuelto en líquido,
+espesándose en el aire a mi alrededor.
+Era increíblemente peculiar)."
+Message		"(This sensation... Have I felt it before?!
+Oh, that's right! Origami's cast a protective
+shield over me!)"	"(Esta sensación... ¡¿La he sentido antes?!
+¡Oh, es cierto! ¡El Origami ha lanzado
+un escudo protector sobre mí!)"
+Message	???	...	...
+Message	Origami	...! A Spirit?!	¡...! ¡¿Un Espíritu?!
+Message	Shido	Wh-What is that...?	¿Qué es eso...?
+Message	Origami	It's coming!	¡Ya viene!
+Message	Origami	?!	¡?!
+Message	Shido	Whoa?!	¡¿Whoa?!
+Message	Origami	Shido! Are you safe?!	¡Shido! ¡¿Estás a salvo?!
+Message	Shido	"Yeah! It whizzed past me on the left, but I'm
+safe. How about you, Origami?"	"¡Sí! Me pasó zumbando por la izquierda,
+pero estoy a salvo. ¿Y tú, Origami?"
+Message	Origami	I'm fine. Shido, fall further back!	Estoy bien. ¡Shido, retrocede más!
+Message	Shido	O-Okay!	¡Vale!
+Message	???	...	...
+Message	Shido	"I-It's attacking out of the blue! What is it?!
+Is it running after us?!"	"¡Está atacando de repente! ¡¿Qué es eso?!
+¡¿Nos está persiguiendo?!"
+Message	Origami	Calm down. I promise to protect you.	Tranquilízate. Prometo protegerte.
+Message	Shido	O-Origami...?	¿O-Origami...?
+Message	???	...	...
+Message	Shido	"I-It's coming! Wh-Why is it after us?! Does it
+think we're its enemy or something?! Maybe
+we can convince it—"	"¡Ya viene! ¡¿Por qué nos persigue?!
+¡¿Cree que somos sus enemigos o algo así?!
+Tal vez podamos convencerlo..."
+Message	Origami	Shido, get down! The second wave is coming!	¡Shido, agáchate! ¡Viene la segunda oleada!
+Message	Origami	Protection Territory, max output!	Territorio de protección, salida máxima
+Message	Shido	WHOA!	¡WHOA!
+Message		"(Origami's saving my skin again... Damn it.
+I hate being a burden at a time like this!)"	"(Origami me está salvando el pellejo otra vez…
+Maldita sea. Odio ser una carga en un momento así)."
+Message	Origami	...Shido. This is non-negotiable.	...Shido. Esto no es negociable.
+Message	Shido	...!	¡...!
+Message	Origami	We can't wait until it reaches its limit!	¡No podemos esperar a que llegue a su límite!
+Message	Shido	O-Origami?	¿O-Origami?
+Message	Origami	Shido. Don't leave this place.	Shido. No te vayas de aquí.
+Message	Origami	Razor Blade! No Pain!	¡Cuchilla afilada! ¡Sin dolor!
+Message	Origami	HAAAAA!	¡HAAAAA!
+Message	Origami	Now is my time.	Ahora es mi momento.
+Message	Origami	HM!	¡HM!
+Message	Shido	What the—?!	¡¿Qué...?!
+Message		"(Origami used the No Pain stored on her hip.
+Then, a wave emitted from her body, cutting
+through the enemy"".)"""	"(Origami utilizó el No Dolor almacenado en su cadera.
+Entonces, una onda salió de su cuerpo,
+cortando al enemigo"")""."
+Message	Shido	It disappeared...? H-How's Origami?	¿Desapareció...? ¿Cómo está Origami?
+Message	Origami	*pant, pant*... *pant, pant*...	*jadear, jadear*... *jadear, jadear*...
+Message	Shido	O-Origami! Are you okay?!	¡O-Origami! ¡¿Estás bien?!
+Message	Origami	I'm fine... No problem.	Estoy bien... No hay problema.
+Message	Shido	I-I see...	Ya veo...
+Message	Origami	I'm glad that you're safe though.	Me alegro de que estés a salvo.
+Message	Shido	Y-Yeah, thanks to you. I'm fine.	S-Sí, gracias a ti. Estoy bien.
+Message	Origami	I don't mind. Your life is top priority.	No me importa. Tu vida es la máxima prioridad.
+Message	Shido	"Okay, but what was that...? No one around
+us seemed to notice."	"Vale, ¿pero qué era eso...? Nadie a
+nuestro alrededor parecía darse cuenta."
+Message	Origami	"I believe we're in the thick of this enemy's
+territory. It might have been isolated."	"Creo que estamos en el centro del territorio enemigo
+Podría haber sido aislado."
+Message	Shido	Isolated...?	¿Aislado...?
+Message	Origami	"There's a chance that the radius of the barrier
+has shifted."	"Es posible que el radio de la
+barrera se haya desplazado."
+Message	Shido	"...?! That can happen?! Then, do you think
+the barrier has something to do with Tengu
+City?"	"¡...?! ¡¿Eso puede pasar?! Entonces,
+¿crees que la barrera tiene algo
+que ver con Ciudad Tengu?"
+Message	Origami	I don't know...	No sé...
+Message	Origami	Just...	Sólo...
+Message	Shido	Just what?	¿Sólo qué?
+Message	Origami	"The enemy's attack earlier... could have been
+a warning."	"El ataque enemigo de antes…
+podría haber sido una advertencia."
+Message	Shido	W-Warning?	¿Advertencia?
+Message	Origami	"The enemy blocked all of my attacks, but
+you'll notice that the trajectory of its own
+attacks was far from us."	"El enemigo bloqueó todos mis ataques, pero te
+darás cuenta de que la trayectoria de sus
+propios ataques estaba lejos de nosotros."
+Message	Shido	What?!	¡¿Qué?!
+Message	Origami	"One can assume it missed intentionally. In short,
+it was either a warning or a threat."	"Cabe suponer que falló intencionadamente.
+En resumen, fue una advertencia o una amenaza."
+Message	Shido	"So there's some secret they don't want us
+to uncover here?"	"¿Así que hay algún secreto que no
+quieren que descubramos aquí?"
+Message	Origami	"Based on the timing, I believe it was because
+of our proximity to the monument."	"Basándome en el momento, creo que fue
+por nuestra proximidad al monumento."
+Message	Shido	Th-The monument? So something's there?	¿El monumento? ¿Así que hay algo ahí?
+Message	Origami	"It is unclear. Especially whether or not it is
+an enemy."	"No está claro. Especialmente
+si es o no un enemigo."
+Message	Shido	Was it a Spirit?	¿Era un Espíritu?
+Message	Origami	"I have received no information on that kind of
+Spirit at the AST."	"No he recibido información sobre
+ese tipo de Spirit en la AST."
+Message	Shido	"I-I see, but when it disappeared... it looked
+close to how the Astral Dress disappears, too."	"Ya veo, pero cuando desapareció... se parecía mucho
+a cómo desaparece el Vestido Astral, también."
+Message	Origami	You're right, but we cannot let our guards down.	Tienes razón, pero no podemos bajar la guardia.
+Message	Shido	R-Right...	B-Bueno…
+Message		"(I need to report this to Kotori and have her
+look into it.)"	"(Tengo que informar de esto a
+Kotori para que lo investigue)."
+Message	Shido	"Origami, sorry. Let's end our date here for now.
+I'm sad we couldn't hit the rooftop."	"Origami, lo siento. Terminemos nuestra cita aquí por
+ahora.  Me entristece que no pudiéramos ir a la azotea."
+Message	Origami	"Not a problem. We must first prioritize learning
+what this thing's motivations are."	"No es un problema. Primero debemos priorizar aprender
+cuáles son las motivaciones de esta cosa."
+Message	Shido	"Y-Yeah, but I'm really glad you were here with
+me. If I were alone, there would've been no way
+I could've handled that."	"Sí, pero me alegro mucho de que estuvieras aquí
+conmigo. Si hubiera estado solo, no habría
+habido manera de que pudiera manejar eso."
+Message	Shido	Thanks, Origami!	¡Gracias, Origami!
+Message	Origami	I do not mind. I will do anything for you.	No me importa. Haré cualquier cosa por ti.
+Message	Shido	O-Okay...	O-Okay...
+Message	Shido	...So thanks to Origami, I made it home safe.	...Así que gracias a Origami, llegué a casa a salvo.
+Message	Kotori	...So?	...¿Y?
+Message	Shido	Uh. That's it, really.	Uh. Eso es todo, de verdad.
+Message	Kotori	"So just because you're good, you think
+everything's fine?"	"¿Así que sólo porque eres bueno
+crees que todo está bien?"
+Message	Kotori	What the hell, brother?!	¡¿Qué demonios, hermano?!
+Message	Shido	Ugh!	¡Uf!
+Message	Kotori	"Why are you going around like that without
+telling me? What would you do if something
+happened to you?!"	"¿Por qué vas por ahí así sin decírmelo?
+¡¿Qué harías si te pasara algo?!"
+Message	Shido	S-Sorry... I-I didn't mean to worry you.	Lo siento... No quería preocuparte.
+Message	Kotori	"Do you have any idea what your body is going
+through right now?! I don't even have powers!
+How many times have I told you?!"	"¡¿Tienes idea de lo que tu cuerpo está pasando
+ahora mismo?! ¡Ni siquiera tengo poderes!
+¡¿Cuántas veces te lo he dicho?!"
+Message	Shido	S-Sorry, it's all my fault.	Lo siento, todo es culpa mía.
+Message	Kotori	Well, at least you're safe.	Bueno, al menos estás a salvo.
+Message	Shido	Yeah...	Sí...
+Message	Kotori	"I'll have people investigate the monument
+immediately, but..."	"Haré que investiguen el monumento
+inmediatamente, pero..."
+Message	Kotori	"Because of your reckless actions, there's a
+chance the Spirits might go berserk. Next
+time, be sure to consult with me."	"Debido a tus acciones imprudentes, existe la
+posibilidad de que los Espíritus se vuelvan locos.
+La próxima vez, asegúrate de consultarme."
+Message	Shido	O-Okay... I promise.	Vale... Lo prometo.
+Message	Kotori	"As long as you know. The barrier covering Tengu
+City seems related to this, but we won't know
+until we get some results."	"Mientras lo sepas. La barrera que cubre Ciudad Tengu
+parece estar relacionada con esto, pero no lo sabremos
+hasta que obtengamos algunos resultados."
+Message	Shido	Right... 	Bien...
+Message	Kotori	"Okay. I hope you'll make some progress, then.
+Leave the situation to us. Shido, just continue
+looking after the Spirits."	"Bien. Espero que hagas algún progreso, entonces.
+Déjanos la situación a nosotros. Shido, sigue
+cuidando de los Espíritus."
+Message	Shido	Right. Got it.	De acuerdo. Entiendo.

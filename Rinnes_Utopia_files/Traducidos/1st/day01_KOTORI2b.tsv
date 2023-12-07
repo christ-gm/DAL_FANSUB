@@ -1,43 +1,57 @@
 Operator	Comment	Key	Translation
 Message	Shido	"Man, this is no use... It seems like Kotori
 won't be going out any time soon. Her
-schedule must be packed."	Tío, esto no sirve de nada... Parece que Kotori no saldrá pronto. Su agenda debe estar repleta.
+schedule must be packed."	"Dios, esto no sirve de nada... Parece que Kotori
+No saldrá pronto. Su agenda debe estar repleta."
 Message	Shido	"*sigh* There's no point in waiting here.
-Guess I could head home and wait for her there."	*No tiene sentido esperar aquí. Supongo que podría ir a casa y esperarla allí.
-Message	Shido	It's 7... She should be home any time now.	Son las 7... Debería estar en casa en cualquier momento.
+Guess I could head home and wait for her there."	"*suspiro* No tiene sentido esperar aquí.
+Supongo que podría ir a casa y esperarla allí."
+Message	Shido	It's 7... She should be home any time now.	"Son las 7... Debería estar en casa en
+Cualquier momento."
 Message	Shido	Oh. Speak of the devil...	Oh. Hablando del diablo...
 Message	Shido	Welcome back, Kotori.	Bienvenida, Kotori.
 Message	Kotori	Yup, I'm back. Where are the others?	Sí, he vuelto. ¿Dónde están los demás?
 Message	Shido	"They've all had dinner, so they went up to
-kill time in their rooms."	Todos han cenado, así que han subido a matar el tiempo a sus habitaciones.
+kill time in their rooms."	"Todos han cenado, así que han subido a matar
+El tiempo a sus habitaciones."
 Message	Kotori	Seems a little early for them... So...?	Parece un poco pronto para ellos... ¿Entonces...?
 Message	Shido	Huh...? What?	¿Eh...? ¿Qué cosa?
 Message	Kotori	"I'm asking if you did it or not. You know, um...
-Dating the others."	Te pregunto si lo hiciste o no. Ya sabes, um... Salir con los otros.
+Dating the others."	"Te pregunto si lo hiciste o no. Ya sabes, um…
+Salir con los otros."
 Message	Shido	Oh. Sorry, but I didn't.	Oh. Lo siento, pero no lo hice.
 Message	Kotori	"What?! Then what the hell have you been
-doing?"	¡¿Qué?! Entonces, ¿qué demonios has estado haciendo?
+doing?"	"¡¿Qué?! Entonces, ¿qué demonios has
+Estado haciendo?"
 Message	Shido	Um... Making dinner, I guess.	Um... Haciendo la cena, supongo.
 Message	Kotori	I-I didn't think you could be this stupid...	No pensé que pudieras ser tan estúpido...
 Message	Shido	Ugh... Do you have to lay into me like that?	Ugh... ¿Tienes que poner en mí de esa manera?
 Message	Kotori	"Why should I be mindful of someone who
-isn't mindful of his responsibilities?"	¿Por qué debería estar atento a alguien que no está atento a sus responsabilidades?
+isn't mindful of his responsibilities?"	"¿Por qué debería estar atento a alguien que no
+Está atento a sus responsabilidades?"
 Message	Kotori	"What you have to do right now is go on a
-date with the Spirits—"	Lo que tienes que hacer ahora mismo es ir a una cita con los Espíritus...
+date with the Spirits—"	"Lo que tienes que hacer ahora mismo es ir a
+Una cita con los Espíritus..."
 Message	Shido	"I know that. But... I was worried about you,
-Kotori. I can't help it."	Ya lo sé. Pero... Estaba preocupado por ti, Kotori. No puedo evitarlo.
+Kotori. I can't help it."	"Ya lo sé. Pero... Estaba preocupado por ti,
+Kotori. No puedo evitarlo."
 Message	Shido	"I decided to make your favorite dish and
 eat dinner with you. I guess this wouldn't
-qualify as much of a date for you."	Decidí preparar tu plato favorito y cenar contigo. Supongo que esto no calificaría como una cita para ti.
+qualify as much of a date for you."	"Decidí preparar tu plato favorito y cenar contigo.
+Supongo que esto no calificaría como
+Una cita para ti."
 Message	Kotori	What...?	¿Qué...?
 Message	Kotori	*sigh*...	*suspiro*...
 Message	Kotori	"You have a serious ""sister complex"", Shido."	"Tienes un serio ""complejo de hermana"", Shido."
 Message	Shido	Y-You know what...	Sabes qué...
 Message	Kotori	"Well, whatever. There's nothing to say about
 it now. Not like you could go on a date tonight
-anyway."	Bueno, da igual. No hay nada que decir al respecto ahora. No es como si pudieras tener una cita esta noche de todos modos.
+anyway."	"Bueno, da igual. No hay nada que decir al
+respecto ahora. No es como si pudieras tener
+Una cita esta noche de todos modos."
 Message	Shido	"That's right. It's all good. Now, go on and take
-a seat. Let me prepare your dinner."	Así es. Está todo bien. Ahora, ve y toma asiento. Déjame preparar tu cena.
+a seat. Let me prepare your dinner."	"Así es. Está todo bien. Ahora, ve y toma asiento.
+Déjame preparar tu cena."
 Message	Kotori	...	...
 Message	Shido	...	...
 Message	Kotori	So, why are you staring at me so much?	¿Por qué me miras tanto?
@@ -45,19 +59,26 @@ Message	Shido	"Oh. I was just wondering if you liked it
 or not..."	Oh. Me preguntaba si te gustaba o no...
 Message	Kotori	"It's not about whether or not I like it!
 I gotta eat or else I can't work, so I'm
-just eating!"	¡No se trata de si me gusta o no! Tengo que comer o no puedo trabajar, ¡así que sólo como!
+just eating!"	"¡No se trata de si me gusta o no! Tengo que
+Comer o no puedo trabajar, ¡así que sólo como!"
 Message	Shido	"If that's how you feel, then maybe it's not
-worth making. You used to say, I love when you make me dinner, Onii-chan!"""""	"Si es así como te sientes, entonces quizá no merezca la pena hacerla. Solías decir: ""¡Me encanta cuando me preparas la cena, Onii-chan!"""""
+worth making. You used to say, I love when you make me dinner, Onii-chan!"""""	"Si es así como te sientes, entonces quizá no
+merezca la pena hacerla. Solías decir:""¡Me
+Encanta cuando me preparas la cena, Onii-chan!"""
 Message	Kotori	"Sh-Shut up! I didn't say it wasn't delicious,
 though! Shido, your meals are... Well, I'm
-just used to them..."	¡Cállate! ¡No dije que no estuviera delicioso! Shido, tus comidas son... Bueno, estoy acostumbrado a ellas...
+just used to them..."	"¡Cállate! ¡No dije que no estuviera delicioso!
+Shido, tus comidas son... Bueno, estoy
+Acostumbrado a ellas..."
 Message	Shido	"Well, it's not like I did anything different
-than usual..."	Bueno, no es que haya hecho nada diferente de lo habitual...
+than usual..."	"Bueno, no es que haya hecho nada diferente
+De lo habitual..."
 Message	Kotori	But I do... like the meals you make, Shido.	Pero... me gustan las comidas que haces, Shido.
 Message	Shido	Cool. That's nice, even if you don't mean it.	Guay. Eso está bien, aunque no lo digas en serio.
 Message	Kotori	O-Oh. Well, it's not like that...	O-Oh. Bueno, no es así...
 Message	Shido	"Haha. It's all good. There's more, so eat as
-much as you'd like, okay? Don't hold back!"	Jaja. Está todo bueno. Hay más, así que come todo lo que quieras, ¿vale? ¡No te contengas!
+much as you'd like, okay? Don't hold back!"	"Jaja. Está todo bueno. Hay más, así que come
+Todo lo que quieras, ¿vale? ¡No te contengas!"
 Message	Kotori	"What's your problem? Are you trying to fatten
 me up?"	¿Cuál es tu problema? ¿Intentas engordarme?
 Message	Shido	"You're in the middle of a growth spurt. What
@@ -67,42 +88,53 @@ Message	Shido	...	...
 Message	Kotori	"Hey, you're still staring...
 Cut it out, would ya?"	Oye, sigues mirando... Basta, ¿quieres?
 Message	Shido	"O-Oh. Sorry. I just feel like it's been a while
-since we've spoken like this."	O-Oh. Lo siento. Siento que hace tiempo que no hablamos así.
-Message	Kotori	I know, huh. I've been busy lately.	Lo sé. He estado ocupado últimamente.
+since we've spoken like this."	"O-Oh. Lo siento. Siento que hace tiempo
+Que no hablamos así."
+Message	Kotori	I know, huh. I've been busy lately.	Lo sé. He estado ocupada últimamente.
 Message	Shido	Have you been investigating... the incident?	¿Has estado investigando... el incidente?
 Message	Kotori	Yeah, but nothing. Nothing is progressing.	Sí, pero nada. Nada está progresando.
 Message	Shido	I see...	Ya veo...
 Message	Kotori	There are too many variables, too many unknowns.	Hay demasiadas variables, demasiadas incógnitas.
-Message	Shido	Gotcha. Seems like all we can do is wait, huh?	Te tengo. Parece que todo lo que podemos hacer es esperar, ¿eh?
+Message	Shido	Gotcha. Seems like all we can do is wait, huh?	"Te tengo. Parece que todo lo que podemos
+Hacer es esperar, ¿eh?"
 Message	Kotori	"Yup. In the meantime, it's your job to keep the
 Spirits from going rogue. Pretty big
-responsibility."	Sí. Mientras tanto, tu trabajo es evitar que los Espíritus se rebelen. Una gran responsabilidad.
+responsibility."	"Sí. Mientras tanto, tu trabajo es evitar que los
+Espíritus se rebelen. Una gran responsabilidad."
 Message	Shido	Yeah... I'll keep that mind.	Sí... lo tendré en cuenta.
 Message	Kotori	So, have the others eaten dinner yet?	¿Ya cenaron los demás?
 Message	Shido	Hm? Yeah.	¿Hm? Sí.
 Message	Kotori	"Oh. D-Did... you say something so we'd
-be alone?"	Oh. ¿D... dijiste algo para que estuviéramos solos?
+be alone?"	"Oh. ¿D... dijiste algo para que
+Estuviéramos solos?"
 Message	Shido	"Oh. We're going to a spooky area today.
-We decided to eat early in anticipation."	Oh. Hoy vamos a una zona espeluznante. Decidimos comer temprano en previsión.
+We decided to eat early in anticipation."	"Oh. Hoy vamos a una zona espeluznante.
+Decidimos comer temprano en previsión."
 Message	Kotori	What...? S-Spooky area?	¿Qué...? ¿Zona espeluznante?
 Message	Shido	Yup yup. Oh. Did you want to come with?	Yup yup. Oh. ¿Quieres venir?
 Message	Kotori	I-I refuse.	Me niego.
 Message	Shido	W-Well, you sure answered quick.	Bueno, respondiste rápido.
-Message	Shido	Wait... You've never liked ghosts, have you?	Espera... Nunca te han gustado los fantasmas, ¿verdad?
+Message	Shido	Wait... You've never liked ghosts, have you?	"Espera... Nunca te han gustado los fantasmas,
+¿verdad?"
 Message	Kotori	What?! I-It's not like that!	¡¿Qué?! ¡No es así!
 Message	Kotori	"I just don't believe in that crap! It's not
-like I'm scared to go or something!"	¡No creo en esa mierda! ¡No es que tenga miedo de ir o algo así!
+like I'm scared to go or something!"	"¡No creo en esa mierda! ¡No es que tenga miedo
+De ir o algo así!"
 Message	Shido	Then, let's go together!	Entonces, ¡vamos juntos!
 Message	Kotori	Well, I-I don't know...	Bueno, no sé...
 Message	Shido	"I'm sure it would be even more fun
-if you tagged along. Come on!"	Seguro que sería aún más divertido si me acompañaras. ¡Anímate!
+if you tagged along. Come on!"	"Seguro que sería aún más divertido si me
+Acompañaras. ¡Anímate!"
 Message	Kotori	...Okay, fine.	...Vale, bien.
 Message	Kotori	"Th-Then if something happens, it'll be all your
 fault, okay?! You better take responsibility and
-protect me!"	¡Entonces si algo pasa, será todo culpa tuya, ¿vale?! ¡Será mejor que asumas tu responsabilidad y me protejas!
+protect me!"	"¡Entonces si algo pasa, será todo culpa tuya,
+¿vale?! ¡Será mejor que asumas tu
+Responsabilidad y me protejas!"
 Message	Shido	Yeah, I know.	Sí, lo sé.
 Message	Tohka	Shido, I'm ready! Let's depart now!	¡Shido, estoy listo! ¡Partamos ahora!
 Message	Yoshino	Me too... I can leave any time now.	Yo también... Puedo irme en cualquier momento.
 Message	Shido	"Oh, seems like everyone's ready. Come on,
-Kotori. Hurry up and get ready."	Oh, parece que todos están listos. Vamos, Kotori. Date prisa y prepárate.
-Message	Kotori	F...Fine!	¡Bien!
+Kotori. Hurry up and get ready."	"Oh, parece que todos están listos. Vamos, Kotori.
+Date prisa y prepárate."
+Message	Kotori	F...Fine!	B...¡Bien!

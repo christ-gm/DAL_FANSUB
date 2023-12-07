@@ -1,56 +1,75 @@
 Operator	Comment	Key	Translation
 Message	Shido	"All right. I've got a date today with Yoshino.
 How should I meet up with her? I could ask
-Reine-san for help, or I could pick her up."	De acuerdo. Hoy tengo una cita con Yoshino.  ¿Cómo debería encontrarme con ella? Podría pedirle ayuda a Reine-san, o podría recogerla.
+Reine-san for help, or I could pick her up."	"De acuerdo. Hoy tengo una cita con Yoshino. ¿Cómo
+debería encontrarme con ella? Podría pedirle ayuda
+a Reine-san, o podría recogerla. "
 Message	Yoshino	Sh-Shido-san!	¡Sh-Shido-san!
 Message	Shido	...Huh? What, Yoshino? Wh-Why are you here?	...¿Eh? ¿Qué, Yoshino? ¿Por qué estás aquí?
 Message	Yoshino	I-I thought... I could cheer everyone on.	Pensé... Podría animar a todo el mundo.
 Message	Shido	O-Oh, makes sense. Thanks.	O-Oh, tiene sentido. Gracias.
 Message	Yoshino	"Y-Yeah... I-I was just... watching from the
-corner, though..."	S-Sí... Yo sólo... miraba desde la esquina, aunque...
+corner, though..."	"S-Sí... Yo sólo…
+miraba desde la esquina, aunque..."
 Message	Shido	Haha. You could've said something to us.	Jaja. Podrías habernos dicho algo.
 Message	Yoshino	I-I'm sorry...	Lo siento...
 Message	Shido	Hey there, you don't have to apologize.	Hola, no tienes que disculparte.
-Message	Yoshinon	Yoshino is pretty shy, after all. She's keeping\nher eye on what everyone's doing today.	Yoshino es bastante tímida, después de todo. Ella está manteniendo\nher ojo en lo que todo el mundo está haciendo hoy.
+Message	Yoshinon	Yoshino is pretty shy, after all. She's keeping\nher eye on what everyone's doing today.	"Yoshino es bastante tímida, después de todo.
+Está pendiente de lo que hace todo el mundo hoy."
 Message	Shido	Ha. Haha... I see. Thanks.	Ha. Jaja... Ya veo. Gracias.
 Message	Yoshino	...	...
-Message	Yoshinon	More importantly, Shido-kun, isn't there\nsomething you'd like to say?	Más importante, Shido-kun, ¿no hay algo que te gustaría decir?
+Message	Yoshinon	More importantly, Shido-kun, isn't there\nsomething you'd like to say?	"Más importante, Shido-kun,
+¿no hay algo que te gustaría decir?"
 Message	Shido	Huh?	¿Eh?
-Message	Yoshinon	Yoshino was waiting a long time for you\nat the front gates, you know? Don't you\nhave something you wanna ask?	Yoshino te estuvo esperando mucho tiempo en la puerta principal, ¿sabes? ¿No tienes algo que preguntar?
+Message	Yoshinon	Yoshino was waiting a long time for you\nat the front gates, you know? Don't you\nhave something you wanna ask?	"Yoshino te estuvo esperando mucho tiempo en la 
+puerta principal, ¿sabes? ¿No tienes algo que preguntar?"
 Message	Shido	Ahh. Umm...	Ahh. Umm...
-Message	Yoshinon	Ya know, that thing! You gotta ask her if she\nwants that fun thing that starts with a 'D'!	Ya sabes, esa cosa. ¡Tienes que preguntarle si quiere esa cosa divertida que empieza con 'D'!
+Message	Yoshinon	Ya know, that thing! You gotta ask her if she\nwants that fun thing that starts with a 'D'!	"Ya sabes, esa cosa. ¡Tienes que preguntarle si
+quiere esa cosa divertida que empieza con 'D'! "
 Message	Shido	"Uh... Ah, right. I get it. Actually, the thought
-just crossed my mind."	Uh... Ah, cierto. Entiendo. En realidad, el pensamiento acaba de cruzar mi mente.
+just crossed my mind."	"Uh... Ah, cierto. Entiendo. En realidad,
+el pensamiento acaba de cruzar mi mente. "
 Message	Yoshinon	Really?!	¿En serio?
 Message	Shido	"Yeah. In fact, your timing couldn't be better,
-Yoshino."	Sí. De hecho, tu momento no podría ser mejor, Yoshino.
+Yoshino."	"Sí. De hecho, tu momento no podría ser mejor,
+Yoshino."
 Message	Yoshino	...?	...?
 Message	Shido	Yoshino, since you're here, let's go on a date.	Yoshino, ya que estás aquí, tengamos una cita.
 Message	Yoshino	...!!	¡¡...!!
 Message	Shido	"You're not attending school, so you don't
-get out much, do you?"	No vas a la escuela, así que no sales mucho, ¿verdad?
+get out much, do you?"	"No vas a la escuela,
+así que no sales mucho, ¿verdad?"
 Message	Yoshino	Get out much...?	¿Salir mucho...?
 Message	Shido	"Like, on the way home from school, eating
 and playing around, or talking. Stuff like that.
-Does that not sound fun?"	Como, de camino a casa desde el colegio, comiendo y jugando, o hablando. Cosas así.  ¿No suena divertido?
+Does that not sound fun?"	"Como, de camino a casa desde el colegio, comiendo
+y jugando, o hablando. Cosas así.
+¿No suena divertido?"
 Message	Yoshino	N-No... It does.	N-No... Lo hace.
 Message	Shido	"Yeah, of course. All right. If you're up for it,
-Yoshino, then it's decided! Let's have a blast!"	Sí, por supuesto. De acuerdo. Si te apetece, Yoshino, ¡está decidido! ¡Vamos a divertirnos!
+Yoshino, then it's decided! Let's have a blast!"	"Sí, por supuesto. De acuerdo. Si te apetece, Yoshino,
+¡está decidido! ¡Vamos a divertirnos!"
 Message	Yoshino	Okay!	¡Vale!
-Message	Yoshinon	A date! It's a daaate!	¡Una cita! ¡Es una daaate!
+Message	Yoshinon	A date! It's a daaate!	¡Una cita! ¡Es una ciiitaa!
 Message	Shido	"Now, then. Yoshino, do you wanna eat?
-Or we can play some games at the arcade?"	Bien. Yoshino, ¿quieres comer?  ¿O podemos jugar a algo en los recreativos?
+Or we can play some games at the arcade?"	"Bien. Yoshino, ¿quieres comer?
+¿O podemos jugar a algo en los recreativos?"
 Message	Yoshino	U-Ummm...	U-Ummm...
 Message	Shido	"There are plenty of other places, too. We
 could go shopping. I mean, I'm a little short
-on cash, so nothing too expensive, but..."	También hay muchos otros sitios. Podríamos ir de compras. Quiero decir, estoy un poco corto de dinero, así que nada demasiado caro, pero...
+on cash, so nothing too expensive, but..."	"También hay muchos otros sitios. Podríamos ir de
+compras. Quiero decir, estoy un poco corto de dinero,
+así que nada demasiado caro, pero… "
 Message	Yoshinon	Shido-kuuuun! You shouldn't rush a lady!	¡Shido-kuuuun! ¡No deberías apresurar a una dama!
 Message	Shido	"Oh, sorry. I didn't mean to. Yoshino, please
-take your time and decide."	Lo siento. No era mi intención. Yoshino, por favor, tómate tu tiempo y decide.
+take your time and decide."	"Lo siento. No era mi intención. Yoshino, por favor,
+tómate tu tiempo y decide. "
 Message	Yoshino	Ah, y-yes. Thank you.	Ah, s-sí. Gracias.
-Message	Yoshinon	Oh boy. Yoshino, I'm pretty excited.\nWhat should we do? Hey, whaddya think?!	Oh, vaya. Yoshino, estoy muy emocionado. ¿Qué deberíamos hacer? ¡¿Qué te parece?!
+Message	Yoshinon	Oh boy. Yoshino, I'm pretty excited.\nWhat should we do? Hey, whaddya think?!	"Oh, vaya. Yoshino, estoy muy emocionado.
+¿Qué deberíamos hacer? ¡¿Qué te parece?!"
 Message	Shido	"Hey, hey. Now you're the one rushing her,
-aren't you, Yoshinon?"	Eh, eh. Ahora eres tú el que la apura, ¿verdad, Yoshinon?
+aren't you, Yoshinon?"	"Eh, eh. Ahora eres tú el que la apura,
+¿verdad, Yoshinon?"
 Message	Yoshinon	Yoshinon's fine! Right, Yoshino!	¡Yoshinon está bien! ¡Bien, Yoshino!
 Message	Yoshino	Yoshinon is always like this...	Yoshinon siempre es así...
 Message	Yoshinon	So many people! It's so lively! Look\nat all the different shops!	¡Cuánta gente! ¡Qué animado! ¡Mira todas las tiendas!
@@ -60,55 +79,76 @@ Message	Shido	That...? Oh, an ice pop, huh?	¿Eso...? Oh, un helado, ¿eh?
 Message	Yoshino	Ice... pop?	¿Hielo... pop?
 Message	Shido	"Yeah, it's like frozen juice on a stick. Kinda
 hard to explain, I guess. For now, why don't
-you try it for yourself?"	Sí, es como zumo congelado en un palo. Un poco difícil de explicar, supongo. Por ahora, ¿por qué no lo pruebas por ti mismo?
+you try it for yourself?"	"Sí, es como zumo congelado en un palo. Un poco difícil
+de explicar, supongo. Por ahora,
+¿por qué no lo pruebas por ti mismo?"
 Message	Yoshino	Okay...	Bueno...
 Message	Shido	"All right, I'll buy one. Yoshino, what flavor
-would you like?"	De acuerdo, compraré uno. Yoshino, ¿de qué sabor te gustaría?
+would you like?"	"De acuerdo, compraré uno. Yoshino,
+¿de qué sabor te gustaría?"
 Message	Yoshino	Oh... U-Um, well...	Oh... U-Um, bueno...
 Message	Shido	What's wrong...?	¿Qué pasa...?
 Message	Yoshino	Um, I-I want to try...	Quiero probar...
 Message	Shido	...Huh?	...¿Eh?
-Message	Yoshinon	Yoshino, use your outside voice, or Shido-kun\nwon't be able to hear you.	Yoshino, usa tu voz exterior, o Shido-kun no podrá oírte.
-Message	Yoshino	"I-I... I'd like to try and order—"""	"YO... Me gustaría intentar pedir..."""
+Message	Yoshinon	Yoshino, use your outside voice, or Shido-kun\nwon't be able to hear you.	"Yoshino, usa tu voz exterior, o
+Shido-kun no podrá oírte."
+Message	Yoshino	"I-I... I'd like to try and order—"""	YO... Me gustaría intentar pedir…
 Message	Yoshinon	Ooooh! Yoshino, so energetic!	¡Ooooh! ¡Yoshino, tan enérgico!
 Message	Shido	I-I don't mind, but why all of a sudden?	No me importa, pero ¿por qué de repente?
 Message	Yoshino	"I think I need to be more active... so
-that I don't cause you any trouble."	Creo que debo ser más activo... para no causarte problemas.
-Message	Yoshinon	Well, it seems less like a date and more like\na guardian taking a child out, huh?	Bueno, parece menos una cita y más un tutor sacando a un niño, ¿eh?
+that I don't cause you any trouble."	"Creo que debo ser más activo…
+para no causarte problemas. "
+Message	Yoshinon	Well, it seems less like a date and more like\na guardian taking a child out, huh?	"Bueno, parece menos una cita y más un tutor
+sacando a un niño, ¿eh? "
 Message	Shido	"...Got it. Well, I wouldn't mind being a
-guardian, but..."	...lo tengo. Bueno, no me importaría ser un guardián, pero...
+guardian, but..."	"...lo tengo. Bueno, no me importaría ser
+un guardián, pero… "
 Message	Yoshino	I don't... want that...	Yo no... quiero eso...
 Message	Shido	Huh?	¿Eh?
-Message	Yoshinon	Ah geez, you still don't get it, do you\nShido-kun? You've still got so much to learn.	Ah cielos, todavía no lo entiendes, ¿verdad Shido-kun? Todavía tienes mucho que aprender.
-Message	Shido	I-Is that so...? I'm sorry.	¿Es así...? Perdona.
-Message	Yoshinon	Yoshino is working up the courage to enter\na shop all by herself! Show some support,\nwhy don't you?!	¡Yoshino se está armando de valor para entrar en una tienda ella sola! Muéstrale algo de apoyo, ¡¿por qué no lo haces?!
+Message	Yoshinon	Ah geez, you still don't get it, do you\nShido-kun? You've still got so much to learn.	"Ah cielos, todavía no lo entiendes, ¿verdad Shido-kun?
+Todavía tienes mucho que aprender."
+Message	Shido	I-Is that so...? I'm sorry.	¿E-Es así...? Perdona.
+Message	Yoshinon	Yoshino is working up the courage to enter\na shop all by herself! Show some support,\nwhy don't you?!	"¡Yoshino se está armando de valor para entrar en una
+tienda ella sola! Muéstrale algo de apoyo,
+¡¿por qué no lo haces?!"
 Message	Shido	You're right...	Tienes razón...
 Choice		Experience is everything. Cheer her on.	La experiencia lo es todo. Anímala.
 Choice		It's still worrying. Buy them yourself.	Sigue siendo preocupante. Cómpralos tú mismo.
 Message	Shido	"All right! Go ahead! Experience is
 everything after all! If that's what you
-want, then I'll cheer you on!"	¡Adelante! ¡Adelante! Después de todo, la experiencia lo es todo. ¡Si eso es lo que quieres, entonces te animaré!
+want, then I'll cheer you on!"	"¡Adelante! ¡Adelante! Después de todo, la experiencia
+lo es todo. ¡Si eso es lo que quieres, entonces
+te animaré! "
 Message	Yoshino	Y-Yes!	¡Sí!
 Message	Shido	"Just don't run off with any strangers!
-After you buy it, come right back here!"	¡No te vayas con ningún extraño!  Después de comprarlo, ¡vuelve aquí!
+After you buy it, come right back here!"	"¡No te vayas con ningún extraño!
+Después de comprarlo, ¡vuelve aquí!"
 Message	Yoshino	O-Okay...	Vale...
-Message	Yoshinon	Haha, Shido-kun. You're such a helicopter\nparent.	Jaja, Shido-kun. Eres todo un helicóptero.
+Message	Yoshinon	Haha, Shido-kun. You're such a helicopter\nparent.	Jaja, Shido-kun. Eres muy sobreprotector.
 Message	Shido	No, I'm still worried... I'll come with.	No, todavía estoy preocupado... Iré contigo.
 Message	Yoshino	Wha? B-But...	¿Qué? P-Pero...
 Message	Shido	"I thought that maybe going together would
 keep you from being overwhelmed. Do you
-disagree?"	Pensé que tal vez ir juntos evitaría que te sintieras abrumado. ¿No estás de acuerdo?
-Message	Yoshinon	Tsk tsk, this is textbook bad parenting,\nShido-kun.	Tsk tsk, esto es un libro de texto de mala crianza, Shido-kun.
+disagree?"	"Pensé que tal vez ir juntos evitaría que te sintieras
+abrumado. ¿No estás de acuerdo? "
+Message	Yoshinon	Tsk tsk, this is textbook bad parenting,\nShido-kun.	"Tsk tsk, esto es un libro de texto de
+mala crianza, Shido-kun. "
 Message	Shido	Huh?!	¡¿Eh?!
-Message	Yoshinon	Listen, Shido-kun. Right now, Yoshino is trying\nto buy something by herself, right?	Escucha, Shido-kun. Ahora mismo, Yoshino está intentando comprar algo por su cuenta, ¿verdad?
-Message	Yoshinon	If you joined her, wouldn't that sap Yoshino's\nconfidence?	Si te unieras a ella, ¿no minaría eso la confianza de Yoshino?
+Message	Yoshinon	Listen, Shido-kun. Right now, Yoshino is trying\nto buy something by herself, right?	"Escucha, Shido-kun. Ahora mismo, Yoshino está
+intentando comprar algo por su cuenta,
+¿verdad?"
+Message	Yoshinon	If you joined her, wouldn't that sap Yoshino's\nconfidence?	"Si te unieras a ella,
+¿no minaría eso la confianza de Yoshino?"
 Message	Shido	U-Urgh...	U-Urgh...
 Message		"(The puppet's right. Yoshinon's got a good
 point.)"	(La marioneta tiene razón. Yoshinon tiene razón.)
-Message	Yoshinon	Wouldn't it be better to respect Yoshino's\nwishes, and perhaps watch warmly from the\nback?	¿No sería mejor respetar los deseos de Yoshino, y tal vez mirar calurosamente desde atrás?
+Message	Yoshinon	Wouldn't it be better to respect Yoshino's\nwishes, and perhaps watch warmly from the\nback?	"¿No sería mejor respetar los deseos de
+Yoshino, y tal vez mirar calurosamente desde atrás?"
 Message	Shido	"Ugh. Y-You're right. I... was wrong. All right,
 Yoshino. Don't worry about me. Go ahead!
-I'll keep an eye out from back here!"	Ugh. T-Tienes razón. Yo... estaba equivocado. Está bien, Yoshino. No te preocupes por mí. ¡Adelante!  ¡Vigilaré desde aquí atrás!
+I'll keep an eye out from back here!"	"Ugh. T-Tienes razón. Yo... estaba equivocado.
+Está bien, Yoshino. No te preocupes por mí.
+¡Adelante!  ¡Vigilaré desde aquí atrás!"
 Message	Yoshino	Y-Yes!	¡Sí!
 Message	Yoshino	All right... I'll go...!	Muy bien... ¡Iré...!
 Message	Shido	R-Right... D-Do your best, Yoshino!	Bien... ¡Hazlo lo mejor que puedas, Yoshino!
@@ -118,13 +158,16 @@ Message	Yoshinon	You can do it, Yo～shi～no～!	¡Puedes hacerlo, Yo～shi～n
 Message		(Do your best, Yoshino...!)	(¡Hazlo lo mejor que puedas, Yoshino...!)
 Message	Kotori	Look at you... Seems like you're getting\nalong.	Mírate... Parece como si te estuvieras volviendo loco.
 Message	Shido	"Hey, Kotori. I'm surprised. Yoshino's really
-coming into her own."	Hola, Kotori. Estoy sorprendida. Yoshino realmente se está haciendo a sí misma.
-Message	Kotori	You're right. She's changed quite a bit.\nJust don't push her, got it? If anything\nhappens, you'd better support her.	Sí, tienes razón. Ella ha cambiado bastante. Sólo no la presiones, ¿entiendes? Si pasa algo, será mejor que la apoyes.
+coming into her own."	"Hola, Kotori. Estoy sorprendida.
+Yoshino realmente se está haciendo a sí misma."
+Message	Kotori	You're right. She's changed quite a bit.\nJust don't push her, got it? If anything\nhappens, you'd better support her.	"Sí, tienes razón. Ella ha cambiado bastante.
+Sólo no la presiones, ¿entiendes? Si pasa algo,
+será mejor que la apoyes. "
 Message	Shido	I know.	Lo sé.
 Message	Kotori	Then that's settled. Okay, do your best\nout there.	Entonces está decidido. Bien, haz lo mejor que puedas.
 Message	Shido	Right. See ya.	De acuerdo. Nos vemos.
 Message	Clerk	Welcome! May I take your order?	Bienvenido. ¿Puedo tomar su pedido?
-Message	Yoshino	...! U-Um... E-Excuse me!	¡...! U-Um ... E-Disculpe!
+Message	Yoshino	...! U-Um... E-Excuse me!	¡...! U-Um ... D-Disculpe!
 Message	Clerk	Yes, how may I help you?	Sí, ¿en qué puedo ayudarle?
 Message	Yoshino	U-Umm... I-I'd like an ice pop...	U-Umm... Me gustaría un helado...
 Message	Clerk	Of course. What flavor would you like?	Por supuesto. ¿Qué sabor le gustaría?
@@ -134,98 +177,124 @@ popular!"	Sí. ¡Hoy en día, el plátano tropical es bastante popular!
 Message	Yoshino	Um, one of those, please...	Um, uno de esos, por favor...
 Message	Clerk	Okay, one tropical banana, coming up!	Vale, un plátano tropical, ¡ya va!
 Message		(Ohh, Yoshino... You did it!)	(Ohh, Yoshino... ¡Lo lograste!)
-Message	Yoshinon	Way to go, Yoshino! You ordered all by\nyourself!	¡Así se hace, Yoshino! ¡Lo has pedido todo tú solo!
+Message	Yoshinon	Way to go, Yoshino! You ordered all by\nyourself!	¡Así se hace, Yoshino! ¡Lo has pedido todo tú sola!
 Message	Yoshino	...Yeah!	...¡Sí!
 Message	Clerk	Is there anything else you'd like to order?	¿Desea pedir algo más?
 Message	Yoshino	...Huh? ...Huh?	...¿Eh? ...¿Eh?
 Message	Clerk	"If you have someone with you, I'd recommend
-our summer special, which is limited."	Si te acompaña alguien, te recomiendo nuestro especial de verano, que es limitado.
+our summer special, which is limited."	"Si te acompaña alguien, te recomiendo
+nuestro especial de verano, que es limitado. "
 Message	Yoshino	U-Umm...	U-Umm...
 Message	Clerk	"Also, our pineapple fruit mix has been
-popular as well."	También ha sido muy popular nuestra mezcla de frutas con piña.
+popular as well."	"También ha sido muy popular 
+nuestra mezcla de frutas con piña."
 Message	Yoshino	U-Umm... Aah...	U-Umm... Aah...
-Message		(Oh dear...)	(Oh dear...)
+Message		(Oh dear...)	(Oh querida..)
 Message	Clerk	Thank you very much!	¡Muchas gracias!
 Message	Shido	Ahh... Yoshino...	Ahh... Yoshino...
 Message	Yoshino	U-Umm... W-Well...	U-Umm... B-Bueno...
 Message	Yoshinon	Uh oh, we maaay have bought too many.	Puede que hayamos comprado demasiados.
 Message	Yoshino	I-I'm sorry...	Lo siento...
 Message	Shido	"No, it's all right. You did your best, Yoshino.
-Good job."	No, está bien. Hiciste lo que pudiste, Yoshino.  Buen trabajo.
+Good job."	"No, está bien. Hiciste lo que pudiste,
+Yoshino. Buen trabajo."
 Message	Yoshino	Y-Yeah...	S-Sí...
 Message	Shido	"Well, it doesn't look like one person could
-eat all of this..."	Bueno, no parece que una persona pueda comerse todo esto...
+eat all of this..."	"Bueno, no parece que una persona
+pueda comerse todo esto… "
 Message	Yoshino	Yeah...	Sí...
 Message	Shido	"For now, since you bought it and everything,
-why don't we eat it before it melts?"	De momento, ya que lo has comprado y todo, ¿por qué no nos lo comemos antes de que se derrita?
+why don't we eat it before it melts?"	"De momento, ya que lo has comprado y todo,
+¿por qué no nos lo comemos antes de que se derrita?"
 Message	Yoshino	...Y-You're right.	...Tienes razón.
 Message	Shido	Hey, sure looks good!	¡Seguro que tiene buena pinta!
 Message	Yoshino	Y-Yes...!	S-Sí...
 Message	Shido	Oooh... It's cold and delicious!	Oooh... ¡Está frío y delicioso!
-Message	Yoshino	Yesh... Ish very ghood...	Yesh ... Ish muy ghood...
+Message	Yoshino	Yesh... Ish very ghood...	Shi ... eshta muy buedno…
 Message	Shido	"Sometimes if you eat ice pops, you can get
-brain freeze, so watch out, okay?"	A veces, si comes polos helados, se te puede congelar el cerebro, así que ten cuidado, ¿vale?
-Message	Yoshino	Y-Yesh...	Y-Yesh...
+brain freeze, so watch out, okay?"	"A veces, si comes polos helados, se te puede congelar
+el cerebro, así que ten cuidado, ¿vale? "
+Message	Yoshino	Y-Yesh...	S-Shiii…
 Message	Shido	Here. This one looks good, too.	Toma. Este también tiene buena pinta.
 Message	Yoshino	Ohkay!	¡Vale!
 Message	Yoshino	I-It's starting to get difficult...	Empieza a ser difícil...
-Message	Yoshinon	Keep going, Yoshino! Ice is your field of\nspecialty, so it'll work out!	¡Sigue adelante, Yoshino! El hielo es tu especialidad, ¡así que saldrá bien!
+Message	Yoshinon	Keep going, Yoshino! Ice is your field of\nspecialty, so it'll work out!	"¡Sigue adelante, Yoshino! El hielo es tu especialidad,
+¡así que saldrá bien!"
 Message	Shido	"Ahh, this one's melting, too! Gotta hurry and
-eat it!"	¡Ahh, este también se está derritiendo! ¡Tengo que darme prisa y comérmelo!
-Message	Yoshino	Y-Yeshf!!	¡¡¡Y-Yeshf!!!
-Message	Shido	Whew. We managed to eat them all somehow...	Uf. Nos las arreglamos para comer todos de alguna manera ...
+eat it!"	"¡Ahh, este también se está derritiendo!
+¡Tengo que darme prisa y comérmelo!"
+Message	Yoshino	Y-Yeshf!!	¡¡¡S-Sii!!!
+Message	Shido	Whew. We managed to eat them all somehow...	"Uf. Nos las arreglamos para
+comer todos de alguna manera … "
 Message	Yoshino	Y-Yeah... It was hard...	S-Sí... Fue duro...
 Message	Shido	O-Oogh!	¡O-Oogh!
 Message	Yoshino	A-Are you, okay?	¿Estás bien?
 Message	Shido	"M-My head... I ate too many cold things at once.
-I've got an intense headache all of a sudden..."	M-Mi cabeza... Comí demasiadas cosas frías a la vez.  Tengo un intenso dolor de cabeza de repente...
+I've got an intense headache all of a sudden..."	"M-Mi cabeza... Comí demasiadas cosas frías a la vez.
+Tengo un intenso dolor de cabeza de repente..."
 Message	Yoshino	A-Are you okay?	¿Estás bien?
-Message	Yoshinon	This is an emergency, Yoshino! We have to\n do something, or Shido-kun's in a jam!	¡Esto es una emergencia, Yoshino! ¡Tenemos que hacer algo, o Shido-kun estará en un aprieto!
+Message	Yoshinon	This is an emergency, Yoshino! We have to\n do something, or Shido-kun's in a jam!	"¡Esto es una emergencia, Yoshino! ¡Tenemos que hacer
+algo, o Shido-kun estará en un aprieto! "
 Message	Yoshino	U-Ummm... Umm... Oh!	U-Ummm... Umm... ¡Oh!
 Message	Yoshinon	Oooh, did you think of something?	¿Se te ha ocurrido algo?
 Message	Yoshino	Y-Yah...!	¡Y-Yah...!
 Message	Yoshinon	Bwah?!	¡¿Bwah?!
 Message	Shido	"(Hmm, huh? For some reason, the side of
-my head is warm...)"	(¿Hmm, eh? Por alguna razón, el lado de mi cabeza está caliente...)
+my head is warm...)"	"(¿Hmm, eh?
+Por alguna razón, el lado de mi cabeza está caliente...)"
 Message	Shido	U-Umm... Yoshino? What is...?	U-Umm... ¿Yoshino? ¿Qué es...?
 Message	Yoshino	I-I thought I could... warm up your head.	Pensé que podría... calentarte la cabeza.
 Message	Yoshinon	Hee hee, Yoshino's warm, isn't sheeee?	Je, je, Yoshino es cálida, ¿verdad?
 Message	Shido	Umm... Y-Yeah... Thanks. So warm.	Umm... S-Sí... Gracias. Tan cálido.
 Message	Yoshino	Y-Yeah. I'm glad I can... be of help.	Sí. Me alegro de poder... ser de ayuda.
 Message	Shido	"I guess it's hazardous to eat too many
-cold things at once."	Supongo que es peligroso comer demasiadas cosas frías a la vez.
+cold things at once."	"Supongo que es peligroso comer
+demasiadas cosas frías a la vez. "
 Message	Yoshino	Y-Yeah... I'll be careful, too...	S-Sí... Yo también tendré cuidado...
 Message	Shido	But, it was delicious.	Pero estaba delicioso.
 Message	Yoshino	Yes... it was!	Sí... ¡lo era!
 Message	Shido	All right, let's head home.	Muy bien, vamos a casa.
 Message	Yoshino	...Yeah.	Sí.
 Message	Shido	"By the way, do you know about the
-Neo Tengu Tower, Yoshino?"	Por cierto, ¿sabes algo de la Torre Neo Tengu, Yoshino?
+Neo Tengu Tower, Yoshino?"	"Por cierto, ¿sabes algo de la Torre
+Neo Tengu, Yoshino?"
 Message	Yoshino	Neo Tengu... Tower...?	Neo Tengu... ¿Torre...?
 Message	Shido	"Yeah. It's got a somewhat strange design.
 It's taller than the Tengu Tower, and lately
-it's been noted for being a symbol of the city."	Sí. Tiene un diseño un tanto extraño.  Es más alta que la Torre Tengu, y últimamente destaca por ser un símbolo de la ciudad.
+it's been noted for being a symbol of the city."	"Sí. Tiene un diseño un tanto extraño. Es más alta que la
+Torre Tengu, y últimamente destaca por ser un
+símbolo de la ciudad. "
 Message	Yoshinon	Yahooo! That sounds super interesting!\nIt'd be neat to climb it.	¡Yahoo! ¡Suena muy interesante! Sería genial escalarlo.
 Message	Shido	Yeah. I'd like to check it out, too.	Sí. A mí también me gustaría comprobarlo.
 Message	Yoshinon	Okie dokes. Let's go, let's go!	Okie dokes. ¡Vamos, vamos!
-Message	Shido	Go... You mean, right now?	Ve... ¿Quieres decir, ahora mismo?
-Message	Yoshinon	Yeah! Tall skyscrapers are practically\nasking to be climbed, aren't they?! Am\nI wrong? Whaddya think, Shido-kun?!	Sí. Los rascacielos altos están prácticamente pidiendo ser escalados, ¿no? ¿Estoy equivocado? ¡¿Qué piensas, Shido-kun?!
+Message	Shido	Go... You mean, right now?	Vamos… ¿Quieres decir, ahora mismo?
+Message	Yoshinon	Yeah! Tall skyscrapers are practically\nasking to be climbed, aren't they?! Am\nI wrong? Whaddya think, Shido-kun?!	"¡Sí! ¡Los rascacielos altos prácticamente piden que los
+escalen, ¿verdad?! ¿Me equivoco?
+¡¿Qué piensas, Shido-kun?!"
 Message	Shido	"I understand how you feel, but...
-I don't think it's open yet..."	Entiendo cómo te sientes, pero...  No creo que esté abierto todavía...
-Message	Yoshinon	Shido-kun. If you keep sweating the details,\nyou'll never be popular!	Shido-kun. ¡Si sigues preocupándote por los detalles, nunca serás popular!
+I don't think it's open yet..."	"Entiendo cómo te sientes, pero…
+No creo que esté abierto todavía..."
+Message	Yoshinon	Shido-kun. If you keep sweating the details,\nyou'll never be popular!	"Shido-kun. ¡Si sigues preocupándote por
+los detalles, nunca serás popular! "
 Message	Shido	"Hey, that's none of your business! Well,
 I'm unsure if we're allowed inside, but
-we can stop by on our way home."	¡Eh, eso no es asunto tuyo! Bueno, no estoy seguro de si se nos permite entrar, pero podemos pasar de camino a casa.
+we can stop by on our way home."	"¡Eh, eso no es asunto tuyo! Bueno, no estoy seguro
+de si se nos permite entrar, pero podemos pasar
+de camino a casa. "
 Message	Shido	Yoshino, what do you want to do?	Yoshino, ¿qué quieres hacer?
 Message	Yoshino	Let's... go!	¡Vamos!
 Message	Shido	All right. Then let's stop by for a bit.	De acuerdo. Entonces pasemos un rato.
 Message	Shido	"This is Neo Tengu Tower...
-Just as I guessed, it looks closed."	Esta es la Torre Neo Tengu...  Tal como lo supuse, parece cerrada.
-Message	Yoshinon	It's sooo biiiig! I wanna reach the top so\nbadly! It's a shame we can't climb it!	¡Es tan grande! ¡Quiero llegar a la cima! Es una pena que no podamos subir.
+Just as I guessed, it looks closed."	"Esta es la Torre Neo Tengu…
+Tal como lo supuse, parece cerrada."
+Message	Yoshinon	It's sooo biiiig! I wanna reach the top so\nbadly! It's a shame we can't climb it!	"¡Es tan grande! ¡Quiero llegar a la cima!
+Es una pena que no podamos subir."
 Message	Yoshino	...Yes, it's tall.	...Sí, es alto.
 Message	Shido	"If we can't go inside, then there's no point in
 being here, so we should just head home.
-Let's come back again when it's open."	Si no podemos entrar, no tiene sentido estar aquí, así que deberíamos irnos a casa.  Volvamos cuando esté abierto.
+Let's come back again when it's open."	"Si no podemos entrar, no tiene sentido estar aquí,
+así que deberíamos irnos a casa.
+Volvamos cuando esté abierto."
 Message	Yoshino	Yeah...	Sí...
 Message	Yoshinon	You promise, right?	Lo prometes, ¿verdad?
 Message	Shido	Yup. It's a promise.	Sí. Es una promesa.

@@ -3,71 +3,101 @@ Message	Shido	―Ow!	-¡Ow!
 Message	Rinne	Shido! What's wrong?!	¡Shido! ¡¿Qué pasa?!
 Message	Shido	I-I'm okay... Just sore muscles.	Estoy bien... Sólo músculos doloridos.
 Message	Rinne	"I see, thank goodness.
-I'll bring a compress, so sit down."	Ya veo, menos mal.  Traeré una compresa, así que siéntese.
+I'll bring a compress, so sit down."	"Ya veo, menos mal.
+Traeré una compresa, así que siéntese."
 Message	Shido	All right... Sorry.	Está bien... Perdón.
 Message	Rinne	Here, it should be okay now.	Aquí, debería estar bien ahora.
 Message	Shido	Ah, thank you.	Ah, gracias.
 Message	Rinne	"Are you okay? You were in a deep sleep, and
-then you tried to go to Takadai Park..."	¿Te encuentras bien? Estabas en un sueño profundo, y luego intentaste ir al Parque Takadai...
+then you tried to go to Takadai Park..."	"¿Te encuentras bien? Estabas en un sueño profundo,
+y luego intentaste ir al Parque Takadai..."
 Message	Shido	"Ah, yeah. It's just as you say...
 Oh, that's right..."	Ah, sí. Es justo como dices...  Ah, es verdad...
 Message	Shido	Rinne, have you ever gone to the top?	Rinne, ¿has ido alguna vez a la cima?
 Message	Rinne	"Huh? Um... I got lost halfway and turned back
 around. Ahaha... but sometimes I think about
-seeing the view from up there."	¿Eh? Um... me perdí a mitad de camino y di la vuelta. Ahaha... pero a veces pienso en ver la vista desde allí arriba.
+seeing the view from up there."	"¿Eh? Um... me perdí a mitad de camino y
+di la vuelta. Ahaha... pero a veces pienso
+en ver la vista desde allí arriba."
 Message	Shido	"Huh, I see. I know how you feel. Being able to
 look down at the entire city is... I guess it's
-kinda nice."	Ya veo. Sé cómo te sientes. Ser capaz de mirar hacia abajo en toda la ciudad es ... Supongo que es algo agradable.
+kinda nice."	"Ya veo. Sé cómo te sientes. Ser capaz de
+mirar hacia abajo en toda la ciudad es…
+Supongo que es algo agradable."
 Message	Rinne	"Yeah. To be able to see what the city we live
-in looks like. I like that thought."	Sí. Poder ver cómo es la ciudad en la que vivimos. Me gusta ese pensamiento.
+in looks like. I like that thought."	"Sí. Poder ver cómo es la ciudad en la que
+vivimos. Me gusta ese pensamiento."
 Message	Shido	"Oh, but Rinne? It's probably best that you don't
-go near there for a while."	Oh, ¿pero Rinne? Probablemente sea mejor que no te acerques por allí durante un tiempo.
+go near there for a while."	"Oh, ¿pero Rinne? Probablemente sea mejor
+que no te acerques por allí durante un tiempo."
 Message	Rinne	Huh? What do you mean?	¿Qué? ¿Qué quieres decir?
 Message	Shido	Well you see, um, it's not normal, and...	Bueno, verás, no es normal, y...
 Message	Rinne	"Oh, if you're talking about sore muscles, I'm
-all trained up from lacrosse, so it's fine."	Oh, si te refieres a músculos doloridos, estoy todo entrenado por el lacrosse, así que está bien.
+all trained up from lacrosse, so it's fine."	"Oh, si te refieres a músculos doloridos, estoy todo
+entrenado por el lacrosse, así que está bien."
 Message	Shido	No, that's not what I mean...	No, no me refiero a eso...
 Message		"(How do I explain it to her? The only way
-to put it is that it's... strange.)"	(¿Cómo se lo explico? La única forma de decirlo es que es... extraño).
+to put it is that it's... strange.)"	"(¿Cómo se lo explico? La única forma
+de decirlo es que es... extraño)."
 Message	Rinne	"You don't have to worry, Shido. It seems like we
-won't be able to go there for a while anyway."	No tienes que preocuparte, Shido. Parece que no podremos ir allí por un tiempo de todos modos.
+won't be able to go there for a while anyway."	"No tienes que preocuparte, Shido. Parece que no
+podremos ir allí por un tiempo de todos modos."
 Message	Shido	Huh...?	¿Eh...?
 Message	Rinne	"We can still go to Takadai Park, but the viewing
 point past it will be under reconstruction,
-so it'll be off-limits for a while."	Todavía podemos ir al Parque Takadai, pero el mirador que hay más allá estará en reconstrucción, así que estará fuera de los límites durante un tiempo.
+so it'll be off-limits for a while."	"Todavía podemos ir al Parque Takadai, pero el mirador
+que hay más allá estará en reconstrucción, así que
+estará fuera de los límites durante un tiempo."
 Message	Shido	Really?!	¿En serio?
 Message	Rinne	"Seems like it... Oh, there―on the news. Isn't that
-what they're talking about?"	Parece que... Oh, ahí en las noticias. ¿No es eso de lo que están hablando?
-Message	Newscaster	Construction of the viewing platform began\nearlier today; a result of City efforts to prevent\nany accidents caused by falling off of the...	La construcción del mirador ha comenzado hoy, gracias a los esfuerzos del Ayuntamiento por evitar accidentes causados por caídas...
+what they're talking about?"	"Parece que... Oh, ahí en las noticias.
+¿No es eso de lo que están hablando?"
+Message	Newscaster	Construction of the viewing platform began\nearlier today; a result of City efforts to prevent\nany accidents caused by falling off of the...	"La construcción del mirador ha comenzado hoy,
+gracias a los esfuerzos del Ayuntamiento por
+evitar accidentes causados por caídas..."
 Message	Shido	Today...?!	¿Hoy...?
 Message		"(It was too much of a coincidence. The TV
-practically echoed what Rinne said just now.)"	(Fue demasiada coincidencia. La televisión prácticamente se hizo eco de lo que acababa de decir Rinne).
+practically echoed what Rinne said just now.)"	"(Fue demasiada coincidencia. La televisión
+prácticamente se hizo eco de lo que acababa
+de decir Rinne)."
 Message		"(The mayor of Tengu City was shown on screen
 speaking to a crowd of residents in front of the
-train station.)"	(El alcalde de Ciudad Tengu aparece en pantalla dirigiéndose a una multitud de residentes frente a la estación de tren).
+train station.)"	"(El alcalde de Ciudad Tengu aparece en pantalla
+dirigiéndose a una multitud de residentes frente
+a la estación de tren)."
 Message	Shido	"There weren't any signs that they'd be doing
-construction up there."	No había señales de que fueran a hacer obras ahí arriba.
+construction up there."	"No había señales de que fueran
+a hacer obras ahí arriba."
 Message	Rinne	"That's not true. They had it fenced
 off and everything."	Eso no es verdad. Lo tenían vallado y todo.
-Message	Shido	Huh? Really?	¿De verdad? ¿De verdad?
+Message	Shido	Huh? Really?	¿Huh? ¿De verdad?
 Message	Rinne	"Yeah. Not as many people visit because the view's
 obstructed. I guess the view itself will change
-from now on."	Sí. No viene tanta gente porque la vista está obstruida. Supongo que la vista en sí cambiará a partir de ahora.
+from now on."	"Sí. No viene tanta gente porque la vista está
+obstruida. Supongo que la vista en sí
+cambiará a partir de ahora."
 Message	Rinne	"You should watch local news once in a while. They
 talk about some pretty important things that end
-up being useful information."	Deberías ver las noticias locales de vez en cuando. Hablan de cosas muy importantes que acaban siendo información útil.
+up being useful information."	"Deberías ver las noticias locales de vez en cuando.
+Hablan de cosas muy importantes que acaban
+siendo información útil."
 Message	Shido	Yeah, you're right. I'll be careful from now on.	Sí, tienes razón. Tendré cuidado a partir de ahora.
 Message	Rinne	"But it's kind of a shame that we can't go up
 there... Yesterday you wanted to take Tohka there,
-right?"	Pero es una pena que no podamos subir... Ayer querías llevar a Tohka allí, ¿verdad?
+right?"	"Pero es una pena que no podamos subir…
+Ayer querías llevar a Tohka allí, ¿verdad?"
 Message	Shido	"Umm, yeah. I thought we could go see the
-whole city together."	Umm, sí. Pensé que podríamos ir a ver toda la ciudad juntos.
+whole city together."	"Umm, sí. Pensé que podríamos ir
+a ver toda la ciudad juntos."
 Message	Rinne	I see...	Ya veo...
 Message	Shido	"Well, it's not like we'll never
-be able to go again..."	Bueno, no es que no podamos volver a ir...
+be able to go again..."	"Bueno, no es que no
+podamos volver a ir..."
 Message	Rinne	"But... If that were the case...
-What would you do, Shido?"	Pero... Si ese fuera el caso...  ¿Qué harías, Shido?
+What would you do, Shido?"	"Pero... Si ese fuera el caso…
+¿Qué harías, Shido?"
 Message	Shido	What would I do...? Would that even be possible?	¿Qué haría yo...? ¿Sería posible?
 Message	Rinne	"Hehe, I'm just kidding. I'm sure there's no way
-that would happen."	Jeje, es broma. Estoy seguro de que no hay manera de que eso suceda.
+that would happen."	"Jeje, es broma. Estoy seguro de que
+no hay manera de que eso suceda."
 Message	Shido	Yeah...	Sí...

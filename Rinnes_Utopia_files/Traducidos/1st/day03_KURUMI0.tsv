@@ -1,72 +1,92 @@
 Operator	Comment	Key	Translation
 Message	Shido	"Oh! I-I'm so sorry, Tohka! I just remembered
-something! I-I'll see you later!"	¡Oh! ¡Lo siento mucho, Tohka! ¡Acabo de recordar algo! ¡Te veré luego!
+something! I-I'll see you later!"	"¡Oh! ¡Lo siento mucho, Tohka!
+¡Acabo de recordar algo! ¡Te veré luego!"
 Message	Tohka	"Hm?! Wh-What do you mean?! Where are you
-going, Shido?!"	¡¿Hm?! ¡¿Qu-Qué quieres decir?! ¡¿A dónde vas, Shido?!
+going, Shido?!"	"¡¿Hm?! ¡¿Qu-Qué quieres decir?!
+¡¿A dónde vas, Shido?!"
 Message	Shido	No one's following me, right...?	Nadie me está siguiendo, ¿verdad...?
 Message	Shido	"I was sure rude to Tohka... Then again, I felt
-bad eating Rinne's bento in front of her..."	Fui muy grosero con Tohka... Por otra parte, me sentí mal comiéndome el bento de Rinne delante de ella...
+bad eating Rinne's bento in front of her..."	"Fui muy grosero con Tohka... Por otra parte,
+me sentí mal comiéndome el bento de Rinne delante de ella..."
 Message	Shido	I'm starving, so I'll eat it...	Me muero de hambre, así que me lo comeré...
 Message	Kurumi	Oh, Shido-san. Hello.	Oh, Shido-san. Hola.
 Message	Shido	...Hm? Kurumi?	...¿Hm? ¿Kurumi?
 Message	Kurumi	Are you alone?	¿Estás solo?
 Message	Shido	"N-Not because I don't have anyone to eat
-with. I-I just had a situation to deal with..."	N-No porque no tenga con quien comer. Yo-yo sólo tenía una situación con la que lidiar...
+with. I-I just had a situation to deal with..."	"N-No porque no tenga con quien comer.
+Yo-yo sólo tenía una situación con la que lidiar..."
 Message	Kurumi	"Hehe... I wasn't saying anything.
-...May I sit next to you?"	Jeje... No estaba diciendo nada. ...¿Puedo sentarme a tu lado?
+...May I sit next to you?"	"Jeje... No estaba diciendo nada.
+…¿Puedo sentarme a tu lado?"
 Message	Shido	Huh...? S-Sure, I don't mind...	¿Eh...? S-Seguro, no me importa...
 Message	Kurumi	Then, excuse me.	Entonces, discúlpame.
 Message	Shido	...	...
 Message	Kurumi	"My... Don't mind me. You can go ahead
-and eat."	Mi... No me hagas caso. Puedes seguir adelante y comer.
-Message	Shido	O-Okay... Sorry.	O-Okay... Lo siento, lo siento, lo siento, lo siento.
+and eat."	"No… No me hagas caso.
+Puedes seguir adelante y comer."
+Message	Shido	O-Okay... Sorry.	O-Okay... Lo siento.
 Message	Kurumi	No problem.	No hay problema.
 Message	Shido	...	...
 Message	Kurumi	...	...
 Message	Shido	"It's hard for me to eat when you're staring
 like that."	Es difícil para mí comer cuando estás mirando así.
 Message	Kurumi	"Why? Who cares? It's not like you've got
-anything to lose."	¿A quién le importa? ¿A quién le importa? No es como si tuvieras algo que perder.
+anything to lose."	"¿A quién le importa?
+No es como si tuvieras algo que perder."
 Message	Shido	Yeah, but...	Sí, pero...
 Message		"(Having her stare at me while I eat is
 uncomfortable. Maybe I should change
-the topic...)"	(Tenerla mirándome mientras como es incómodo. Quizá debería cambiar de tema...).
+the topic...)"	"(Tenerla mirándome mientras como es incómodo.
+Quizá debería cambiar de tema...)."
 Message	Shido	U-Um... about that thing, the other day...	U-Um... sobre esa cosa, el otro día...
 Message	Kurumi	...Oh, about that time at the lake?	...Oh, ¿sobre esa vez en el lago?
 Message	Shido	Yeah... That was... a crocodile, right?	Sí... Eso era... un cocodrilo, ¿verdad?
 Message	Kurumi	Yes. It had escaped from the zoo.	Sí. Se había escapado del zoo.
 Message	Shido	"Wait, the zoo was on the news... The one
-whose owner had died...?"	Espera, el zoo estaba en las noticias... ¿El cuyo dueño había muerto...?
+whose owner had died...?"	"Espera, el zoo estaba en las noticias…
+¿El cuyo dueño había muerto...?"
 Message	Kurumi	"That's right. Something odd is going on in
 that zoo."	Así es. Algo raro está pasando en ese zoo.
 Message	Shido	Odd?	¿Raro?
 Message	Kurumi	"It's not a big deal. Besides, the crocodile is
-doing fine. I've taken it under my wing..."	No es para tanto. Además, el cocodrilo está bien. Lo he tomado bajo mi ala...
+doing fine. I've taken it under my wing..."	"No es para tanto. Además, el cocodrilo está bien.
+Lo he tomado bajo mi ala..."
 Message	Shido	"Under your wing...? That big thing? Shouldn't
-you hurry up and return it to the zoo?"	¿Bajo tu ala...? ¿Esa cosa grande? ¿No deberías darte prisa y devolverla al zoo?
+you hurry up and return it to the zoo?"	"¿Bajo tu ala...? ¿Esa cosa grande?
+¿No deberías darte prisa y devolverla al zoo?"
 Message	Kurumi	I... refuse to do so.	Yo... me niego a hacerlo.
 Message	Shido	Huh...?	¿Eh...?
 Message	Kurumi	It's too sad to put it back in the small cage.	Es demasiado triste volver a meterlo en la jaula pequeña.
 Message	Shido	Okay, but...	Vale, pero...
 Message	Kurumi	"Living within confines, watching every moment
 of your life pass you by. How is that any
-different from death?"	Vivir confinado, viendo pasar cada momento de tu vida. ¿En qué se diferencia eso de la muerte?
+different from death?"	"Vivir confinado, viendo pasar cada
+momento de tu vida. ¿En qué se
+diferencia eso de la muerte?"
 Message	Shido	I guess you have a point, to an extent...	Supongo que tienes razón, hasta cierto punto...
 Message	Kurumi	"If possible, I would like to find a place where
-it can be set free..."	Si es posible, me gustaría encontrar un lugar donde pueda liberarse...
+it can be set free..."	"Si es posible, me gustaría encontrar
+un lugar donde pueda liberarse..."
 Message	Shido	"You shouldn't. Do you want the zoo to go
 out of business? Besides, can zoo animals
-even re-enter the wild?"	No deberías. ¿Quieres que el zoo quiebre? Además, ¿pueden los animales del zoo volver a la vida salvaje?
+even re-enter the wild?"	"No deberías. ¿Quieres que el zoo quiebre?
+Además, ¿pueden los animales del
+zoo volver a la vida salvaje?"
 Message	Kurumi	"Hehe... I wonder about that. It may be
-a part of nature."	Jeje... Me lo pregunto. Puede ser parte de la naturaleza.
+a part of nature."	"Jeje... Me lo pregunto.
+Puede ser parte de la naturaleza."
 Message		"(That's too cruel. Even for cats and dogs,
 once they experience being fed, they can't
-just go back to living on the street.)"	(Eso es demasiado cruel. Incluso para los gatos y los perros, una vez que experimentan ser alimentados, no pueden volver a vivir en la calle).
+just go back to living on the street.)"	"(Eso es demasiado cruel. Incluso para los gatos
+y los perros, una vez que experimentan ser alimentados,
+no pueden volver a vivir en la calle)."
 Message	Shido	Oh, crap... Lunch time's over.	Oh, mierda... Se acabó la hora de comer.
 Message	Kurumi	Oh, that went by fast...	Oh, eso pasó rápido...
 Message	Shido	"Well, I'll be off now. What are you going to
 do, Kurumi?"	Bueno, ya me voy. ¿Qué vas a hacer, Kurumi?
 Message	Kurumi	"Hm... Good question. It's not like I can
-sneak into class, so I'll be on my way."	Hm... Buena pregunta. No es como si pudiera colarme en clase, así que seguiré mi camino.
+sneak into class, so I'll be on my way."	"Hm... Buena pregunta. No es como si pudiera
+colarme en clase, así que seguiré mi camino."
 Message	Shido	I see. Well, later, Kurumi.	Ya veo. Bueno, hasta luego, Kurumi.
-Message	Kurumi	Okay, goodbye...	Vale, adiós...
+Message	Kurumi	Okay, goodbye...	Okay, adiós...

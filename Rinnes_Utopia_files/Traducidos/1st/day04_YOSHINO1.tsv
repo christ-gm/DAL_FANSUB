@@ -1,0 +1,392 @@
+Operator	Comment	Key	Translation
+Message		(All right. I'll take Yoshino out to have fun!)	(Muy bien. ¡Sacaré a Yoshino a divertirse!)
+Message	Shido	I'm home!	¡Estoy en casa!
+Message		"(Huh... No greeting from Yoshino? Is it possible
+she's not here...?) "	"(Huh... ¿Ningún saludo de Yoshino?
+¿Es posible que no esté aquí...?)"
+Message		"(I thought maybe I'd take her to the amusement
+park for once, but...)"	"(Pensé en llevarla al parque de
+atracciones por una vez, pero...)"
+Message	Yoshino	Shido-san... Welcome... home...	Shido-san... Bienvenido... a casa...
+Message	Shido	Oh, so you were here.	Oh, así que estabas aquí.
+Message	Yoshinon	Yoo-hoo, Shido-kun!	¡Yoo-hoo, Shido-kun!
+Message		(Yoshinon is energetic as usual...)	(Yoshinon es enérgico como de costumbre...)
+Message	Shido	H-Hey... I'm home, Yoshinon.	H-Hey... Estoy en casa, Yoshinon.
+Message	Shido	"I wanted to ask... Do you know what an amusement
+park is, Yoshino?"	"Quería preguntarte... ¿Sabes lo que es
+un parque de atracciones, Yoshino?"
+Message	Yoshino	"Shido-san... Welcome... home...
+U-Umm..."	"Shido-san... Bienvenido... a casa…
+U-Umm..."
+Message	Yoshinon	Yoo-hoo, Shido-kun! Don't you have something you\nwant to say～?	¡Yoo-hoo, Shido-kun! ¿No tienes nada que decir?
+Message	Shido	Something I want to say...?	¿Algo que quiera decir...?
+Message	Yoshino	......	......
+Message	Yoshinon	......	......
+Message	Shido	"O-Oh, right...
+Yeah, I do have something to say."	O-Oh, cierto... Sí, tengo algo que decir.
+Message	Shido	"Thank you, Yoshino and Yoshinon.
+The bunny in the bento made me happy."	"Gracias, Yoshino y Yoshinon.
+El conejito del bento me hizo feliz."
+Message	Yoshino	Y-Yes!	¡S-Sí!
+Message	Yoshinon	Good for you, huh, Yoshino!	¡Bien por ti, Yoshino!
+Message	Shido	"...Since you made such a cute bento for me,
+I have to thank you somehow."	"...Ya que me has hecho un bento tan lindo,
+tengo que agradecértelo de alguna manera."
+Message	Yoshino	N-No... You don't have to...	N-No... No tienes que...
+Message	Shido	"You don't have to hold back.
+I want to thank you both."	"No tienes que contenerte.
+Quiero darle las gracias a las dos."
+Message	Yoshino	B-But...	P-Pero...
+Message	Yoshinon	Now now, no need to be so modest, Yoshino.\nOh, Shido-kun. Yoshino's just being shy!\nOf course we're happy for a thank you!	"Ahora, no hay necesidad de ser tan modesta, Yoshino.
+Oh, Shido-kun. ¡Yoshino sólo está siendo tímida!
+¡Por supuesto que estamos felices por un gracias!"
+Message	Yoshino	......	......
+Message	Shido	"Hmm... As thanks... Let me see...
+Yoshino, do you know what an amusement park is?"	"Hmm... Como agradecimiento... Déjame ver... Yoshino,
+¿sabes lo que es un parque de atracciones?"
+Message	Yoshino	Th-The amusement park?!	¡¿El parque de atracciones?!
+Message	Shido	Oh, so you do know it.	Oh, así que lo sabes.
+Message	Yoshino	"I-I saw it... on TV, before.
+I-It said it's... a very fun place..."	"Lo vi... en la tele, antes. Decía que es…
+un lugar muy divertido..."
+Message	Shido	"That's right. That amusement park.
+Do you want to go today, together?"	"Así es. Ese parque de atracciones.
+¿Quieres ir hoy, juntos?"
+Message	Yoshino	Huh?!	¡¿Eh?!
+Message	Shido	"It's to thank you for today's bunny...
+If you really don't want to accept,
+then I won't push it..."	"Es para agradecerte por el conejito de hoy…
+Si realmente no quieres aceptar,
+entonces no te presionaré..."
+Message	Shido	"Well, I know you're not good with crowds, Yoshino.
+But I thought it might be good to change things up
+once in a while and go have some fun."	"Bueno, sé que no se te dan bien las multitudes,
+Yoshino. Pero pensé que sería bueno cambiar
+las cosas de vez en cuando e ir a divertirnos."
+Message	Shido	"It's important to get used to people, too...
+Of course, if you really don't want to,
+then I won't push it..."	"También es importante acostumbrarse a la gente…
+Por supuesto, si realmente no quieres,
+entonces no te presionaré..."
+Message	Yoshino	Ahh... Ohh... Wh-What should I do, Yoshinon...?	Ahh... Ohh... ¿Qué debo hacer, Yoshinon...?
+Message	Yoshinon	There's no point in asking me～ You're the one\nwho's getting invited, so you have to decide for\nyourself～	"No tiene sentido que me preguntes a mí.
+Tú eres la invitada, así que tienes que
+decidir por ti misma."
+Message	Shido	"That's not true. It's just as much an
+invite to thank you too, Yoshinon."	"Eso no es verdad. También es una invitación
+a darte las gracias, Yoshinon."
+Message	Yoshinon	Really?! How charming of you, Shido-kun.\nEven Yoshinon might end up falling for you～	"¿De verdad? Qué encantador por tu parte, Shido-kun.
+Incluso Yoshinon podría acabar enamorándose de ti."
+Message	Shido	Hahaha... So, what do you want to do?	Jajaja... Entonces, ¿qué quieres hacer?
+Message	Yoshino	U-Umm...	U-Umm...
+Message	Yoshinon	Yoshino, let's be honest with ourselves.\nShido-kun's being honest too, you know?	"Yoshino, seamos honestos con nosotros mismos.
+Shido-kun también está siendo honesto, ¿sabes?"
+Message	Yoshino	I-I'll, go! Please... t-take me there.	¡Yo, yo, iré! Por favor... llévame allí.
+Message	Shido	"All right. Then, it's decided.
+Go ahead and get ready. Let's get going!"	"De acuerdo. Entonces, está decidido.
+Adelante y prepárense. ¡En marcha!"
+Message	Yoshino	Y-Yes!	¡S-Sí!
+Message	Yoshino	A-Aahh...	A-Aahh...
+Message	Shido	There are a lot of people here...	Hay mucha gente aquí...
+Message	Yoshino	Y-Yes, there are...	S-Sí, hay...
+Message	Yoshino	Wh-What... should I do, Yoshinon...?	¿Qué... debo hacer, Yoshinon...?
+Message	Yoshinon	...I don't think there's really anything Yoshinon\ncan do～	...no creo que haya nada que Yoshinon pueda hacer...
+Message	Yoshino	"Wh-Wha...?
+Don't say that... Yoshinon..."	"¿Qué...? No digas eso…
+Yoshinon..."
+Message	Yoshinon	Rather than rely on me, there's someone else here\nyou should rely on first, isn't there～?	"En lugar de confiar en mí, hay alguien más aquí
+en quien deberías confiar primero, ¿no es así?"
+Message	Yoshino	Huh...?	¿Eh...?
+Message	Shido	Yoshino.	Yoshino.
+Message	Yoshino	...Huh?	...¿Eh?
+Message	Shido	It's all right. Give me your hand.	No pasa nada. Dame la mano.
+Message	Yoshino	Oh...	Oh...
+Message	Shido	Here... If we hold hands, then you can't get lost.	"Aquí... Si nos tomamos de la mano,
+entonces no puedes perderte."
+Message	Yoshino	Ah... Y-Yes.	Ah... S-Sí.
+Message	Yoshino	"Shido-san, your hand... is warm... it makes
+me feel better."	"Shido-san, tu mano... está caliente…
+me hace sentir mejor."
+Message	Shido	"...I see, that's good.
+Then, let's get going.
+Keep a tight grip!"	"... Ya veo, eso es bueno. Entonces,
+pongámonos en marcha.
+¡Agárrate fuerte!"
+Message	Yoshino	Yes...!	¡Sí...!
+Message	Yoshinon	......	......
+Message	Shido	You too, Yoshinon! Right?	¡Tú también, Yoshinon! ¿Verdad?
+Message	Yoshinon	Of course!	¡Claro que sí!
+Message	Shido	"Well, a date at the amusement park... There are
+lots of different rides, but which one to get
+on...?"	"Bueno, una cita en el parque de atracciones…
+Hay muchas atracciones diferentes, pero
+¿a cuál subirse...?"
+Message	Kannazuki	Hello there, Shido-kun. It seems you were\nsuccessful in taking Yoshino out on a date.\nFrom here on is the true battle!	"Hola, Shido-kun. Parece que tuviste éxito en
+llevar a Yoshino a una cita. ¡A partir de
+aquí es la verdadera batalla!"
+Message	Shido	Kannazuki-san?!	¡¿Kannazuki-san?!
+Message	Kannazuki	Shido-kun, have you decided which attraction\nyou'll be guiding Yoshino through?	"Shido-kun, ¿has decidido por qué
+atracción guiarás a Yoshino?"
+Message	Shido	"No, I haven't really decided or anything yet...
+Could it be... a choice selection?"	"No, en realidad aún no me he decidido ni nada…
+¿Podría ser... una selección de elección?"
+Message	Kannazuki	No, unfortunately the Fraxinus' functions haven't\nfully returned, so we are not able to formulate\npotential choices with our distinguished AI.	"No, desgraciadamente las funciones del Fraxinus no
+han vuelto del todo, así que no podemos formular
+posibles opciones con nuestra distinguida IA."
+Message	Shido	...That's good.	...Eso es bueno.
+Message	Kannazuki	But rest assured! An expert in the field will\noffer you advice... And that would be me!	"Pero no se preocupe. Un experto en la
+materia te aconsejará... ¡Y ése seré yo!"
+Message	Shido	What?! Is that... really all right?	¡¿Qué?! ¿Está... realmente bien?
+Message	Kannazuki	What are you saying? Leave everything to me!	¿Qué estás diciendo? ¡Déjamelo todo a mí!
+Message	Shido	R-Right...	E-Entiendo…
+Message	Shido	I'm worried...	Estoy preocupado...
+Message	Kannazuki	This time around, it's an amusement park date...\nThere are two potential approaches.	"Esta vez, es una cita en un parque de atracciones…
+Hay dos enfoques potenciales."
+Message	Shido	I see... What are the two approaches?	Ya veo... ¿Cuáles son los dos enfoques?
+Message	Kannazuki	The first is haunted house tour! Is this pounding\nof the heart from fear or from love? Either way,\nthis is sure to draw you two closer together!	"¡La primera es la visita a la casa encantada!
+¿Los latidos del corazón son de miedo o de amor?
+En cualquier caso, ¡esto seguro que los unirá más!"
+Message	Shido	"Is that the Suspension Bridge effect?
+I've heard of that."	"¿Es el efecto del puente colgante?
+He oído hablar de eso."
+Message	Kannazuki	At the right moment, if you let out a scream and\nhold onto Yoshino, she's sure to unleash a rolling\nsobat, and you'll be able to ascend!	"En el momento adecuado, si sueltas un grito y te
+aferras a Yoshino, seguramente desatará un
+llanto rodante, ¡y podrás ascender!"
+Message	Shido	"I'm the one who's holding onto her?! More
+importantly, this is Yoshino, remember? She's not
+Kotori. She wouldn't counterattack like that..."	"¡¿Yo soy el que se está aferrando a ella?! Más
+importante, ella es Yoshino, ¿recuerdas? Ella
+no es Kotori. Ella no contraatacaría así..."
+Message	Kannazuki	Oh... Of course I knew that. Don't you worry.	Oh... Por supuesto que lo sabía. No te preocupes.
+Message	Shido	"You just said, ""Oh,"" didn't you?! Can't you take
+this seriously?!"	"¡¿Acabas de decir ""Oh"", no?!
+¡¿No puedes tomarte esto en serio?!"
+Message	Kannazuki	The other approach is to set the stage for a\npeaceful time together. Ride the ferris wheel and\ntalk of love while gazing at the distant sky...	"La otra opción es preparar el terreno para pasar un
+rato tranquilo juntos. Suban a la noria y hablen de
+amor mientras contemplan el cielo lejano..."
+Message	Shido	"Don't ignore me!
+But, well, I see... Putting aside the love part,
+that does sound fun on its own."	"¡No me ignores! Pero, bueno, ya veo…
+Dejando a un lado la parte del amor,
+eso suena divertido por sí mismo."
+Message	Kannazuki	If circumstances allow, you may find yourself\nembracing Yoshino, only to have her kick you out\nof the window and watch you dive from its peak!	"Si las circunstancias lo permiten, puede que te
+encuentres abrazado a Yoshino, ¡sólo para que
+te eche por la ventana y te vea tirarte desde el pico!"
+Message	Shido	Didn't I say that's more Kotori?!	¡¿No dije que era más Kotori?!
+Message	Kannazuki	Either way, there's no mistake that you should\nsteal Yoshino's heart! The choice is yours,\nShido-kun!	"¡De cualquier manera, no hay duda de que debes
+robar el corazón de Yoshino! ¡La elección
+es tuya, Shido-kun!"
+Message		(Why is my heart... full of uncertainty...?)	(¿Por qué mi corazón... está lleno de incertidumbre...?)
+Choice		Go to the haunted house!	¡Ve a la casa encantada!
+Choice		Go on the Ferris Wheel!	Suba a la noria
+Message	Shido	"Yoshino...
+Would you like to go to the haunted house for now?"	"Yoshino... ¿Te gustaría ir a la
+casa encantada por ahora?"
+Message	Yoshino	Haunted... house...? Isn't that... scary...?	¿Casa... encantada...? ¿No da... miedo...?
+Message	Shido	"Well, I suppose it is scary... But it's the fun
+kind of scary. I'll be with you the whole time,
+but... do you not want to go?"	"Bueno, supongo que da miedo... Pero es el tipo
+divertido de miedo. Estaré contigo todo el tiempo,
+pero... ¿no quieres ir?"
+Message	Yoshino	"I-I'll... go...
+If I'm... with you, Shido-san... I'll be fine!"	"Yo... iré... Si estoy... contigo,
+Shido-san... ¡Estaré bien!"
+Message	Shido	All right, let's go!	¡Muy bien, vamos!
+Message	Yoshino	...!!	¡¡...!!
+Message	Yoshino	...Ohh!!	...¡¡Ohh!!
+Message	Yoshino	...Eeek!!	...Eeek!!
+Message	Shido	Yoshino, it's all right...	Yoshino, está bien...
+Message	Yoshino	Yes...	Sí...
+Message	Yoshinon	Ahh, getting handsy in here, Shido-kun?!\nJust because it's dark!	"Ahh, ¿te estás metiendo mano aquí, Shido-kun?
+¡Sólo porque está oscuro!"
+Message	Shido	Wha... Er, no. Sorry, I... Yoshino, your hand...	Qu… Eh, no. Lo siento, yo... Yoshino, tu mano...
+Message	Yoshinon	Good grief! I can see your lewd intentions from\nhere! How concerning... Here, go to the other\nside!	"¡Vaya! Puedo ver tus intenciones lascivas
+desde aquí. ¡Qué preocupante!
+Aquí, ve al otro lado."
+Message	Shido	R-Right... Sorry... Thanks, Yoshinon.	Correcto... Perdón... Gracias, Yoshinon.
+Message	Yoshino	...Oh...	...Oh...
+Message	Yoshinon	*Whistle*～! You two are such a cute match!	*Silbido* ¡Ustedes dos hacen una pareja tan linda!
+Message		"(Yoshino's hand grabbed mine so tightly, I could
+almost feel her heart beat in her hand...)"	"(La mano de Yoshino agarró la mía con tanta fuerza que
+casi pude sentir el latido de su corazón en su mano...)"
+Message		"Either way, it looks like the haunted
+house was a success."	"En cualquier caso, parece que la
+casa encantada fue un éxito."
+Message	Shido	For now, let's get on the ferris wheel...	Por ahora, subamos a la noria...
+Message	Yoshino	Ferris... wheel...?	¿Noria...?
+Message	Shido	"Yeah, look... It's that big wheel over there.
+If you go up to the top, you can see a really
+nice view."	"Sí, mira... Es esa gran rueda de ahí.
+Si subes a la cima, puedes ver
+una vista muy bonita."
+Message	Yoshino	"Yes... If it's... where you're going, Shido-san...
+Anywhere is fine..."	"Sí... Si es... a donde vas, Shido-san…
+Cualquier sitio está bien..."
+Message		(...All right! That feels good!)	(...¡Muy bien! ¡Eso sienta bien!)
+Message	Shido	Okay, then let's go.	Bien, entonces vamos.
+Message	Yoshino	......	......
+Message	Shido	"See? How is it, Yoshino? The ground is getting
+farther away."	"¿Lo ves? ¿Cómo es, Yoshino?
+El suelo se está alejando."
+Message	Yoshino	...Y-Yes, it is.	...S-Sí, lo es.
+Message	Shido	"Look, you can see Neo Tengu Tower
+over there, too..."	Mira, puedes ver la Torre Neo Tengu por allí, también...
+Message	Yoshino	...Yes.	...Sí.
+Message	Shido	H-How is it? Isn't it fun?	¿Cómo es? ¿No es divertido?
+Message	Yoshino	Y-Yes...	S-Sí...
+Message		"(Hmm, it's kinda awkward when she won't respond
+back... I have to liven things up somehow...)"	"(Hmm, es un poco incómodo cuando ella no responde…)
+Tengo que animar las cosas de alguna manera...)"
+Message	Shido	Whoa!	¡Whoa!
+Message	Yoshino	Sh-Shido-san...! Are you okay...?	¡Sh-Shido-san...! ¿Estás bien...?
+Message	Shido	"Y-Yeah... I'm totally fine.
+H-How was it, Yoshino? Was it fun?"	"S-Sí... Estoy totalmente bien. ¿Cómo estuvo,
+Yoshino? ¿Fue divertido?"
+Message	Yoshino	The sky... was pretty...	El cielo... era bonito...
+Message		(That's sort of a roundabout response...)	(Es una especie de respuesta indirecta...)
+Message	Yoshino	"If I'm... with you, Shido-san...
+I'm always... having fun..."	"Si estoy... contigo, Shido-san…
+Siempre... me divierto..."
+Message	Shido	O-Oh, really?!	¿En serio?
+Message	Yoshino	Yes, it... doesn't have to be... a high place...	Sí, no... tiene que ser... un lugar alto...
+Message	Shido	I-I see. Hahaha... I'm glad to hear that...	Ya veo. Jajaja... Me alegra oír eso...
+Message	Shido	"All right, then, let's try getting
+on something else."	"Muy bien, entonces, vamos a tratar
+de conseguir en otra cosa."
+Message	Yoshino	Y-Yes...!	S-Sí...
+Message	Yoshino	A...Aahh...	A... Aahh...
+Message	Shido	"Whoa! A-Are you okay, Yoshino?
+Are you scared of the rollercoaster?"	"¡Vaya! ¿Estás bien, Yoshino?
+¿Tienes miedo de la montaña rusa?"
+Message	Yoshino	I-I'm... fine...	Estoy... bien...
+Message	Shido	"Whew, the rollercoaster was a bit much.
+Even I got a little scared."	"Uf, la montaña rusa fue demasiado.
+Incluso yo me asusté un poco."
+Message	Shido	"All right... Next, let's go to Labyrinth Busters.
+We can have a laser-tag battle!"	"Muy bien... A continuación, vamos a Labyrinth Busters.
+¡Podemos tener una batalla láser!"
+Message	Shido	"Hey, you're pretty good!
+Your aim is true. I can't lose, either..."	"¡Eh, eres muy buena! Tu puntería es cierta.
+Yo tampoco puedo perder..."
+Message	Yoshinon	Go! Do your best, Yoshino!\nShido-kun ran off that way! Take him down!	"¡Vamos! ¡Hazlo lo mejor que puedas, Yoshino!
+¡Shido-kun huyó por ese camino! ¡Atrápenlo!"
+Message	Yoshino	...!	¡...!
+Message	Shido	"...Whew. I completely lost.
+You're surprisingly good at this, Yoshino."	"...Uf. Perdí completamente. Eres sorprendentemente
+buena en esto, Yoshino."
+Message	Yoshino	"Th-That's... not true.
+Yoshinon... did her best too, so..."	"Eso... no es verdad. Yoshinon... hizo su
+mejor esfuerzo también, así que..."
+Message	Shido	Right, I see. Yoshino, are you having fun?	Bien, ya veo. Yoshino, ¿te estás divirtiendo?
+Message	Yoshino	"Yes... I'm very happy...
+that I came to... the amusement park with you...!"	"Sí... ¡Estoy muy feliz... de haber venido…
+al parque de atracciones contigo...!"
+Message	Shido	"All right, then I'll stay here with you for the
+rest of the day!"	"¡Muy bien, entonces me quedaré
+aquí contigo el resto del día!"
+Message	Yoshino	...Yes!	...¡Sí!
+Message	Yoshino	Ah... Ohhh... Wh-Whoa...	Ah... Ohhh... Wh-Whoa...
+Message	Shido	Here, Yoshino! Step on the brakes here!	¡Aquí, Yoshino! ¡Pisa el freno aquí!
+Message	Yoshino	Y-Yes... Go!	S-Sí... ¡Vamos!
+Message	Shido	Oh, looking good! You're great at this!	¡Oh, qué buena pinta! ¡Eres genial en esto!
+Message	Shido	"Hey, you're catching on!
+All right. Here goes!"	"¡Oye, te estás dando cuenta! De acuerdo.
+¡Allá vamos!"
+Message	Yoshino	Yah...! Yah...!	¡Yah...! ¡Yah...!
+Message	Shido	I won't let you! Come on, I'm gonna pass you!	¡No te dejaré! ¡Vamos, voy a pasarte!
+Message	Yoshino	"Shido-san, there were... a lot of firsts for me...
+and it was a lot of fun!"	"Shido-san, hubo... muchas primeras veces para mí…
+¡y fue muy divertido!"
+Message	Shido	"Yeah, I had tons of fun, too.
+Right, Yoshinon? You think so too, right?"	"Sí, yo también me divertí mucho. ¿Verdad, Yoshinon?
+Tú también lo crees, ¿verdad?"
+Message	Yoshinon	......	......
+Message	Yoshino	...Yoshinon?	...¿Yoshinon?
+Message	Shido	Huh? Did he not hear?	¿Eh? ¿No se ha enterado?
+Message	Yoshinon	Yeah, you're right... It was fun, Yoshino...	Sí, tienes razón... Fue divertido, Yoshino...
+Message	Yoshino	Yeah...	Sí...
+Message	Shido	"All right, let's get back into
+it for the last lap!"	¡Muy bien, volvamos a la última vuelta!
+Message	Yoshino	I was able to... ride a lot of rides!	Pude... ¡montar en muchas atracciones!
+Message	Shido	"Yeah, you look like you're satisfied. If you're
+happy, Yoshino, then it was worth coming here."	"Sí, parece que estás satisfecho. Si estás contento,
+Yoshino, entonces valió la pena venir aquí."
+Message	Yoshino	Yes...	Sí...
+Message	Shido	"You were a little quiet today, Yoshinon. I thought
+you'd comment more on Yoshino's driving..."	"Hoy has estado un poco callado, Yoshinon. Pensé que
+comentarías más sobre la conducción de Yoshino..."
+Message	Shido	It's kinda unusual, what's up?	Es un poco inusual, ¿qué pasa?
+Message	Yoshinon	...Well, you know～	...Bueno, ya sabes...
+Message	Shido	Hmm...?	¿Hmm...?
+Message	Yoshinon	...Yoshino's... fine now, isn't she...?	...Yoshino está... bien ahora, ¿verdad...?
+Message	Yoshino	...Yoshinon?	...¿Yoshinon?
+Message	Shido	"...It looks like you're really trusted.
+Good thing, huh, Yoshino?"	"... Parece que realmente confían en ti.
+Buena cosa, ¿verdad, Yoshino?"
+Message	Yoshino	......	......
+Message	Shido	Oops, it's already late. We'd better head home.	Uy, ya es tarde. Será mejor que nos vayamos a casa.
+Message	Shido	"Before that... Yoshino, could you wait here for
+just a moment?"	"Antes de eso... Yoshino,
+¿podrías esperar aquí un momento?"
+Message	Yoshino	Huh? Wh-Where... are you going?	¿Eh? ¿A dónde... vas?
+Message	Shido	Er, just over there...	Er, justo ahí...
+Message	Yoshino	I-I'll... come with you...!	¡Yo... iré contigo...!
+Message	Shido	Ah... Er... Sorry, Yoshino...	Ah... Er... Lo siento, Yoshino...
+Message	Yoshino	Why not...?	¿Por qué no...?
+Message	Shido	"Well... I can't take you to the
+men's restroom, right?"	"Bueno... No puedo llevarte al
+baño de hombres, ¿verdad?"
+Message	Yoshino	Huh? Oh...!	¿Eh? Oh...
+Message	Yoshino	Th-The bathroom.... S-Sorry...	E-El baño.... Lo siento...
+Message	Shido	Yeah, so I'll be right back...	Sí, ahora vuelvo...
+Message	Yoshino	Y-Yes...	S-Sí...
+Message	Shido	Whew... All right, Yoshino is... Oh, there she is.	Uf... Muy bien, Yoshino está... Oh, ahí está.
+Message	Shido	Hm?	¿Hm?
+Message	Yoshino	U-Umm...	U-Umm...
+Message	Yoshinon	...So that's how it is～	...Así que así es～
+Message		"(Yoshino and Yoshinon are talking? I wonder why it
+feels like it's a complicated conversation...)"	"(¿Yoshino y Yoshinon están hablando? Me pregunto
+por qué parece que es una conversación complicada...)"
+Message		"(I kinda feel like I shouldn't interrupt... But
+still, I wonder what they're talking about...?)"	"(Siento que no debería interrumpir... Pero aún así,
+me pregunto de qué estarán hablando...)"
+Message	Yoshinon	Hey, Yoshino. You're still a kid, aren't you～?	Eh, Yoshino. Todavía eres una niña, ¿verdad?
+Message	Yoshino	Y-Yeah...	S-Sí...
+Message	Yoshinon	Yoshino, do you still want to stay a kid?\nOr do you want to become an adult～?	"Yoshino, ¿quieres seguir siendo una niña?
+¿O quieres convertirte en adulto?"
+Message	Yoshino	I... think I... want to be an adult...	Yo... creo que... quiero ser un adulto...
+Message	Yoshinon	...I see～	...ya veo...
+Message	Yoshino	Yoshinon...?	¿Yoshinon...?
+Message	Yoshinon	You want to be an adult\nbecause of this, right...?	Quieres ser adulto por esto, ¿verdad?
+Message	Yoshino	"...?!
+T-That's, um... Well..."	¡...?! E-Eso es, um... Bueno...
+Message	Yoshinon	Yoshino, do you know how a kid is able to become\nan adult～?	"Yoshino, ¿sabes cómo un niño es capaz
+de convertirse en un adulto?"
+Message	Yoshino	I-I don't know...	No sé...
+Message	Yoshinon	Yoshinon thinks it's probably like this～	Yoshinon piensa que probablemente es así～
+Message	Yoshinon	When you're relying on your parents,\nyou're still a kid...	Cuando dependes de tus padres, sigues siendo un niño...
+Message	Yoshino	Parents...?	¿Padres...?
+Message	Yoshinon	Yup, that's right～\nI think you might have started to realize too,\nYoshino. That it's... almost time...	"Sí, es cierto～Creo que tú también has
+empezado a darte cuenta, Yoshino.
+Que es... casi la hora..."
+Message		(Sh-Shoot...)	(Oh-Oh…)
+Message	Yoshinon	...Hm?	...¿Hm?
+Message		(...Yoshinon noticed me!)	(...¡Yoshinon se fijó en mí!)
+Message	Yoshinon	...Oh, Shido-kun. You're already back～?\nYou should have told us if you were back～	"...Oh, Shido-kun. ¿Ya has vuelto～? Deberías
+habernos dicho si habías vuelto～"
+Message	Shido	Ah, er... Sorry, did I get in the way?	Ah, er... Lo siento, ¿me he metido en medio?
+Message	Yoshinon	No, it's fine, it's fine～ We were just gossiping\nabout you, Shido-kun.	"No, está bien, está bien～ Sólo estábamos
+cotilleando sobre ti, Shido-kun."
+Message	Shido	...I-I see.	...ya veo.
+Message	Yoshino	......	......
+Message	Yoshinon	Man, today was lots of fun～\nLet's go home now!	Dios, hoy ha sido muy divertido. ¡Vamos a casa!
+Message	Shido	"Y-Yeah, you're right.
+All right, Yoshino... Let's go home."	"S-Sí, tienes razón. Muy bien, Yoshino…
+Vámonos a casa."
+Message	Yoshino	...Yes.	...Sí.
+Message	Yoshinon	Boy, today was a really fun day!\nYoshinon probably won't ever forget about today!\nYoshino looked so happy...	"¡Vaya, hoy ha sido un día muy divertido! ¡Yoshinon
+probablemente nunca olvidará el día de hoy!
+Yoshino parecía tan feliz..."
+Message	Yoshinon	I wonder what Yoshinon's happiness is.	Me pregunto cuál es la felicidad de Yoshinon.
+Message	Yoshinon	"""I wonder if Yoshino's happiness is really\nYoshinon's happiness, too…"	"Me pregunto si la felicidad de Yoshino es
+realmente también la felicidad de Yoshinon..."

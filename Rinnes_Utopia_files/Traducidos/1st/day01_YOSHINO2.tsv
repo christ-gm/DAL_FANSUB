@@ -1,100 +1,128 @@
 Operator	Comment	Key	Translation
 Message	Shido	"Alright, the rice is finished so whenever
-you're ready to eat, we can..."	Muy bien, el arroz está terminado así que cuando estés listo para comer, podemos...
+you're ready to eat, we can..."	"Muy bien, el arroz está terminado así que cuando
+Estés lista para comer, podemos…"
 Message	Yoshino	......	......
 Message	Shido	Hey, what's wrong?	Eh, ¿qué pasa?
 Message	Yoshino	Um... I want... to help...	Quiero... ayudar...
 Message	Shido	With what? Oh, with dinner?	¿Con qué? Oh, ¿con la cena?
 Message	Yoshino	Yes.	Sí.
-Message	Yoshinon	Yeah! Help, help, help!	¡Sí! ¡Ayuda, ayuda, ayuda!
+Message	Yoshinon	Yeah! Help, help, help!	¡Sí! ¡Ayudar, ayudar, ayudar!
 Message	Shido	"Haha, you're more than welcome to help
 me out. But, what should I have you
-help with? I'm almost done..."	Jaja, eres más que bienvenido a ayudarme. Pero, ¿con qué debería ayudarte? Ya casi termino...
+help with? I'm almost done..."	"Jaja, eres más que bienvenida a ayudarme. Pero,
+¿con qué deberías ayudarme? Ya casi termino..."
 Message	Yoshino	Ah!	¡Ah!
 Message	Shido	"Maybe you can set the dishes on the table.
 And could you bring out the silverware
-from that shelf over there?"	Tal vez puedas poner los platos en la mesa.  Y ¿podrías sacar los cubiertos de esa estantería de ahí?
+from that shelf over there?"	"Tal vez puedas poner los platos en la mesa.
+Y ¿podrías sacar los cubiertos de esa estantería de ahí?"
 Message	Yoshino	Okay.	Vale, vale, vale.
 Message	Yoshinon	Set the dishes! Set the dishes!	¡Pon los platos! ¡Pon los platos!
 Message		"(How nice of her to help me like this.
-Okay, time to clean up over here...)"	(Qué amable por su parte ayudarme así. Vale, hora de limpiar por aquí...)
+Okay, time to clean up over here...)"	"(Qué amable por su parte ayudarme así.
+Vale, hora de limpiar por aquí...)"
 Message	Shido	Ah?! What the?!	¡¿Ah?! ¡¿Qué?!
 Message	Yoshino	......	......
 Message	Shido	A-Are you okay?!	¡¿Estás bien?!
 Message	Yoshino	I'm sorry... I broke... a plate...	Lo siento... Rompí... un plato...
 Message	Shido	"Oh, no, don't apologize!
-It's not a big deal at all!"	¡Oh, no, no te disculpes!  No es para tanto.
+It's not a big deal at all!"	¡Oh, no, no te disculpes! No es para tanto.
 Message	Yoshino	......	......
 Message	Kotori	"Shido, Yoshino's mental state is going
-a little nuts. What the heck did you do?"	Shido, el estado mental de Yoshino se está volviendo un poco loco. ¿Qué demonios has hecho?
+a little nuts. What the heck did you do?"	"Shido, el estado mental de Yoshino se está volviendo
+Un poco loco. ¿Qué demonios has hecho?"
 Message	Shido	"Ah, well... Yoshino was helping me set the
-table, but she dropped a plate. It broke."	Ah, bueno... Yoshino me estaba ayudando a poner la mesa, pero se le cayó un plato. Se rompió.
+table, but she dropped a plate. It broke."	"Ah, bueno... Yoshino me estaba ayudando a poner la mesa,
+Pero se le cayó un plato. Se rompió."
 Message	Kotori	"Ugh, you... Why are you even having
 Yoshino putting away the dishes?"	Ugh, tú... ¿Por qué tienes a Yoshino guardando los platos?
 Message	Shido	"Oh... but, Yoshino said she wanted
-to help on her own, so..."	Oh... pero, Yoshino dijo que quería ayudar por su cuenta, así que...
+to help on her own, so..."	"Oh... pero, Yoshino dijo que quería ayudar
+Por su cuenta, así que..."
 Message	Kotori	"Seriously? Use that brain of yours.
-She's wearing Yoshinon..."	¿En serio? Usa tu cerebro.  Lleva Yoshinon...
+She's wearing Yoshinon..."	¿En serio? Usa tu cerebro. Lleva a Yoshinon...
 Message	Shido	Oh.. sorry...	Oh .. lo siento ...
 Message	Kotori	"Do you get it? The Spirits are unstable.
-You have to take the utmost care not to shock them."	¿Lo entiendes? Los Espíritus son inestables.  Tienes que tener el máximo cuidado para no conmocionarlos.
+You have to take the utmost care not to shock them."	"¿Lo entiendes? Los Espíritus son inestables. Tienes que
+Tener el máximo cuidado para no conmocionarlos."
 Message	Shido	I-I got it... I'll be careful.	Lo tengo... Tendré cuidado.
 Message	Kotori	"Careful not to aggravate Yoshino.
-If you really understand... then act accordingly."	Cuidado de no agravar a Yoshino.  Si realmente lo entiendes... entonces actúa en consecuencia.
-Message	Shido	R-Right.	Derecha.
+If you really understand... then act accordingly."	"Cuidado de no agravar a Yoshino. Si realmente lo entiendes…
+Entonces actúa en consecuencia."
+Message	Shido	R-Right.	E-Entendido.
 Choice		A mistake can't be helped. Just keep comforting her.	Un error no se puede evitar. Sigue consolándola.
 Choice		A miss is a miss. Just give a little warning.	Un fallo es un fallo. Sólo hay que avisar un poco.
 Message	Shido	Yoshino, it's alright. Try to calm down, okay?	Yoshino, está bien. Intenta calmarte, ¿vale?
-Message	Yoshino	I'm... so sorry... I...	Lo... siento mucho... I...
+Message	Yoshino	I'm... so sorry... I...	Lo... siento mucho... Lo…
 Message	Shido	"Everyone makes mistakes. I really don't care.
 I just don't want to see you stress yourself
-out like this."	Todo el mundo comete errores. Realmente no me importa.  Sólo no quiero verte estresarte así.
+out like this."	"Todo el mundo comete errores.
+Realmente no me importa.
+Sólo no quiero verte estresarte así."
 Message	Yoshino	"I just... I wanted to help you...
-I'm so pathetic..."	Yo sólo... Quería ayudarte...  Soy tan patética...
-Message	Yoshinon	Don't beat yourself, Yoshino!\nYou tried your best and that's what counts!	¡No te castigues, Yoshino! ¡Has hecho lo que has podido y eso es lo que cuenta!
+I'm so pathetic..."	"Yo sólo... Quería ayudarte... 
+Soy tan patética..."
+Message	Yoshinon	Don't beat yourself, Yoshino!\nYou tried your best and that's what counts!	"¡No te castigues, Yoshino!
+¡Has hecho lo que has podido y eso es lo que cuenta!"
 Message	Shido	"That's right! I was just happy that
-you were willing to help at all."	¡Así es! Estaba feliz de que estuvieras dispuesto a ayudar.
+you were willing to help at all."	"¡Así es! Estaba feliz de que
+Estuvieras dispuesto a ayudar."
 Message	Yoshino	Huh?	¿Eh?
 Message	Shido	"Feel free to make mistakes. That's how you learn.
 You just keep doing it and doing it and eventually
-you get better."	No dudes en equivocarte. Así es como se aprende.  Sigue haciéndolo y haciéndolo y al final mejorarás.
+you get better."	"No dudes en equivocarte. Así es como se aprende.
+Sigue haciéndolo y haciéndolo y al final mejorarás."
 Message	Yoshino	Shido-san...	Shido-san...
 Message	Shido	"Don't sweat it, okay?
 It's almost dinner time, to let's have a nice
-meal and forget any of this happened."	No te preocupes, ¿vale?  Es casi la hora de cenar, así que vamos a tener una buena comida y olvidar todo esto sucedió.
+meal and forget any of this happened."	"No te preocupes, ¿vale? Es casi la hora de cenar,
+así que vamos a tener una buena comida y
+Olvidar todo esto sucedió."
 Message	Yoshino	Thank you...	Gracias...
-Message	Yoshinon	Ooh, nice save, Shido-kun!	¡Buena parada, Shido-kun!
+Message	Yoshinon	Ooh, nice save, Shido-kun!	¡Buena salvada, Shido-kun!
 Message	Shido	Thanks!	Gracias.
 Message	Shido	I think I did pretty good...	Creo que lo hice bastante bien...
 Message	Kotori	"Not bad, Shido. Yoshino's mental state
-seems to be stabilizing."	No está mal, Shido. El estado mental de Yoshino parece estabilizarse.
+seems to be stabilizing."	"No está mal, Shido. El estado mental de
+Yoshino parece estabilizarse."
 Message	Shido	Thank goodness...	Gracias a Dios...
 Message	Kotori	"Listen, don't forget what just happened okay?
 You do not upset the Spirits, plain and simple.
-Dumbass."	Escucha, no olvides lo que acaba de pasar, ¿de acuerdo?  No se molesta a los Espíritus, simple y llanamente.  Idiota.
+Dumbass."	"Escucha, no olvides lo que acaba de pasar, ¿de acuerdo?
+No se molesta a los Espíritus, simple y llanamente.
+Idiota."
 Message	Shido	G-Got it.	Lo tengo.
 Message	Shido	"Look, I'm glad you didn't get hurt,
-but watch it next time."	Mira, me alegro de que no te hicieras daño, pero ten cuidado la próxima vez.
+but watch it next time."	"Mira, me alegro de que no te hicieras daño,
+Pero ten cuidado la próxima vez."
 Message	Yoshino	I'm... sorry!	Yo... ¡lo siento!
 Message	Yoshinon	Too cruel, Shido-kun! Too cruel!	¡Demasiado cruel, Shido-kun! ¡Demasiado cruel!
 Message	Shido	Huh?	¿Eh?
-Message	Yoshinon	Yoshino tried her hardest, you know!\nDon't you think you're being a little harsh?	¡Yoshino lo intentó con todas sus fuerzas! ¿No crees que estás siendo un poco duro?
+Message	Yoshinon	Yoshino tried her hardest, you know!\nDon't you think you're being a little harsh?	"¡Yoshino lo intentó con todas sus fuerzas!
+¿No crees que estás siendo un poco duro?"
 Message	Shido	Well... sure, but next time... we have to...	Bueno... claro, pero la próxima vez... tenemos que...
-Message	Yoshino	Yeah, it's because... I did something wrong... the plate!	Sí, es porque... Hice algo mal... ¡la placa!
+Message	Yoshino	Yeah, it's because... I did something wrong... the plate!	Sí, es porque... Hice algo mal... ¡el plato!
 Message	Shido	Hey, don't take it so seriously, okay?	Oye, no te lo tomes tan en serio, ¿vale?
 Message	Yoshinon	Yoshino, don't let it bother you so much. It's alright!	Yoshino, no dejes que te moleste tanto. ¡No pasa nada!
 Message	Shido	"Yeah... maybe you should take it easy for
-a little while. Don't worry about it."	Sí... tal vez deberías tomártelo con calma por un tiempo. No te preocupes.
+a little while. Don't worry about it."	"Sí... tal vez deberías tomártelo con calma por un tiempo.
+No te preocupes."
 Message	Yoshino	Okay... I'm really sorry...	Bueno... Lo siento mucho...
 Message	Shido	Ugh... I could've handled that better...	Ugh... Podría haberlo manejado mejor...
 Message	Kotori	"Shido, you've got slugs for brains. How stupid
-can you be? Are you freaking serious right now?"	Shido, tienes babosas por cerebro. ¿Cómo puedes ser tan estúpido? ¿Estás hablando en serio?
+can you be? Are you freaking serious right now?"	"Shido, tienes babosas por cerebro.
+¿Cómo puedes ser tan estúpido? ¿Estás hablando en serio?"
 Message	Shido	Whoa! What are you talking about, Kotori?	¡Vaya! ¿De qué estás hablando, Kotori?
 Message	Kotori	"Your response just now was a total failure.
 Of course your dumbass didn't notice, but
-she was really upset just now."	Tu respuesta de hace un momento fue un fracaso total.  Por supuesto que tu idiota no se dio cuenta, pero ella estaba realmente molesta hace un momento.
+she was really upset just now."	"Tu respuesta de hace un momento fue un fracaso total.
+Por supuesto que tu idiota no se dio cuenta,
+Pero ella estaba realmente molesta hace un momento."
 Message	Shido	Sorry. I wasn't thinking at all.	Perdona. No estaba pensando en absoluto.
 Message	Kotori	"You already know the Spirits' mental states are
 in your hands. Keep this up and I'll make sure
-everyone on the planet knows your little secret."	Ya sabes que los estados mentales de los Espíritus están en tus manos. Sigue así y me aseguraré de que todo el planeta conozca tu pequeño secreto.
+everyone on the planet knows your little secret."	"Ya sabes que los estados mentales de los Espíritus están
+en tus manos. Sigue así y me aseguraré de que todo el
+Planeta conozca tu pequeño secreto."
 Message	Shido	I'm really sorry...	Lo siento mucho...

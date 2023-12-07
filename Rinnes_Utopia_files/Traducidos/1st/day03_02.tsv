@@ -1,48 +1,69 @@
 Operator	Comment	Key	Translation
 Message	Shido	"I wonder what's gotten into Rinne today...
 She mentioned she's going to run errands
-this morning, but she's late."	Me pregunto qué le pasa a Rinne hoy...  Mencionó que iba a hacer recados esta mañana, pero llega tarde.
+this morning, but she's late."	"Me pregunto qué le pasa a Rinne hoy…
+Mencionó que iba a hacer recados
+esta mañana, pero llega tarde."
 Message	Shido	Hm?	¿Hm?
 Message	Rinne	"Shido, sorry for taking so much time!
-How's the dinner prep going?"	¡Shido, siento haber tardado tanto!  ¿Cómo va la preparación de la cena?
+How's the dinner prep going?"	"¡Shido, siento haber tardado tanto!
+¿Cómo va la preparación de la cena?"
 Message	Shido	"Oh... Yeah, I figured you'd be late, so I took
 care of everything. It's been a while so it was
-enjoyable. But, how's everything going with you?"	Oh... Sí, me imaginé que llegarías tarde, así que me encargué de todo. Ha pasado un tiempo así que fue agradable. Pero, ¿cómo va todo contigo?
+enjoyable. But, how's everything going with you?"	"Oh... Sí, me imaginé que llegarías tarde, así que me
+encargué de todo. Ha pasado un tiempo así que fue
+agradable. Pero, ¿cómo va todo contigo?"
 Message	Rinne	"Oh, fine. Just fine. I just had an important
-matter to attend to."	Oh, bien. Está bien. Sólo tenía un asunto importante que atender.
+matter to attend to."	"Oh, bien. Está bien. Sólo tenía un
+asunto importante que atender."
 Message	Shido	I see. Were you able to take care of it, then?	Ya veo. ¿Pudiste ocuparte de ello, entonces?
 Message	Rinne	"Y-Yeah, somehow. Sorry for not reaching out
-to you..."	S-Sí, de alguna manera. Lo siento por no llegar a ti...
+to you..."	"S-Sí, de alguna manera.
+Lo siento por no llegar a ti..."
 Message	Shido	"Oh, don't worry about it. This is how it
 should be."	No te preocupes. Así es como debe ser.
 Message	Rinne	But...	Pero...
 Message	Shido	"Rinne, you don't have to always think of
 our home, you know? Besides, it seems like
-we're starting to depend on you too much."	Rinne, no tienes que pensar siempre en nuestro hogar, ¿sabes? Además, parece que empezamos a depender demasiado de ti.
+we're starting to depend on you too much."	"Rinne, no tienes que pensar siempre en nuestro hogar,
+¿sabes? Además, parece que empezamos a
+depender demasiado de ti."
 Message	Rinne	"I-It's not like that at all! I'm only doing
-it because I want to..."	¡No es así en absoluto! Sólo lo hago porque quiero...
+it because I want to..."	"¡No es así en absoluto!
+Sólo lo hago porque quiero..."
 Message	Shido	"Well, even if that were the case, it's test
 week, so it's not good for us to rely on you
-so often."	Bueno, aunque así fuera, estamos en semana de exámenes, así que no es bueno que dependamos de ti tan a menudo.
+so often."	"Bueno, aunque así fuera, estamos en semana de
+exámenes, así que no es bueno que
+dependamos de ti tan a menudo."
 Message	Rinne	What...?	¿Qué...?
 Message	Shido	"So I've been thinking... During test week,
-I should be the one to step up."	Así que he estado pensando... Durante la semana de exámenes, yo debería ser el que dé el paso.
+I should be the one to step up."	"Así que he estado pensando... Durante la semana de
+exámenes, yo debería ser el que dé el paso."
 Message	Rinne	"Oh... I see. It appears I was out
-of line then..."	Oh... ya veo. Parece que me pasé de la raya entonces...
+of line then..."	"Oh... ya veo. Parece que me
+pasé de la raya entonces..."
 Message	Shido	"No, not at all! I can't thank you enough
-for what you've done for us, Rinne!"	¡No, en absoluto! ¡No puedo agradecerte lo suficiente lo que has hecho por nosotros, Rinne!
+for what you've done for us, Rinne!"	"¡No, en absoluto! ¡No puedo agradecerte lo suficiente
+lo que has hecho por nosotros, Rinne!"
 Message	Rinne	...	...
 Message	Shido	"But I also think it's important to have time
 for yourself, Rinne. Besides, I can't start to
-lose my touch, too."	Pero también creo que es importante tener tiempo para ti misma, Rinne. Además, no puedo empezar a perder mi toque, también.
+lose my touch, too."	"Pero también creo que es importante tener tiempo para ti
+misma, Rinne. Además, no puedo empezar
+a perder mi toque, también."
 Message	Rinne	"I see. Very well, Shido. Once you've made up
-your mind, I can tell there's no convincing you."	Ya veo. Muy bien, Shido. Una vez que te has decidido, sé que no hay forma de convencerte.
+your mind, I can tell there's no convincing you."	"Ya veo. Muy bien, Shido. Una vez que te has decidido,
+sé que no hay forma de convencerte."
 Message	Shido	"Impressive, Rinne. You know me too well.
-Makes everything easy."	Impresionante, Rinne. Me conoces demasiado bien.  Hace que todo sea fácil.
+Makes everything easy."	"Impresionante, Rinne. Me conoces demasiado bien.
+Hace que todo sea fácil."
 Message	Rinne	But... you could lean back on me, you know?	Pero... podrías apoyarte en mí, ¿sabes?
 Message	Shido	Hm? Did you say something?	¿Hm? ¿Dijiste algo?
 Message	Rinne	"No, nothing. Anyways, let me wash the dishes.
-I'm allowed to help, right?"	No, nada. De todos modos, déjame lavar los platos.  Se me permite ayudar, ¿verdad?
+I'm allowed to help, right?"	"No, nada. De todos modos, déjame lavar los platos.
+Se me permite ayudar, ¿verdad?"
 Message	Shido	"Yeah. If we tackle it together, we can finish
-faster. Thanks."	Sí. Si lo abordamos juntos, podemos terminar más rápido. Gracias.
+faster. Thanks."	"Sí. Si lo abordamos juntos, podemos
+terminar más rápido. Gracias."
 Message	Rinne	Hehe... Leave it to me.	Jeje... Déjamelo a mí.

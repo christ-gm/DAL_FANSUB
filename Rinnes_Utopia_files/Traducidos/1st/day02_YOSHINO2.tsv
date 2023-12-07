@@ -2,7 +2,8 @@ Operator	Comment	Key	Translation
 Message	Shido	Today was fun, Yoshino.	Hoy ha sido divertido, Yoshino.
 Message	Yoshino	...Yes!	...¡Sí!
 Message	Shido	"It's already evening. I'd better prepare dinner
-as soon as I get home... Huh? That's..."	Ya es de noche. Será mejor que prepare la cena en cuanto llegue a casa... ¿Eh? Eso es...
+as soon as I get home... Huh? That's..."	"Ya es de noche. Será mejor que prepare la cena en
+cuanto llegue a casa... ¿Eh? Eso es..."
 Message	Yoshino	...	...
 Message	Shido	Yoshino? Heeey, Yoshino!	¿Yoshino? ¡Hey, Yoshino!
 Message	Yoshino	...! Ah... Shido-san...?	¡...! Ah... ¿Shido-san...?
@@ -10,48 +11,62 @@ Message	Yoshinon	Yoohoo! Shido-kun, what a coinkydink\nto see you here!	¡Yoooho
 Message	Shido	"What's wrong, Yoshino? Walking around alone
 here..."	¿Qué pasa, Yoshino? Caminando sola por aquí...
 Message	Yoshino	"U-Um... I thought it would be around the time
-you would be coming home..."	U-Um... Pensé que sería alrededor de la hora en que volverías a casa...
+you would be coming home..."	"U-Um... Pensé que sería alrededor de la hora
+en que volverías a casa..."
 Message	Shido	Ohh, you came to pick me up? Thanks.	Ohh, ¿viniste a recogerme? Gracias.
-Message	Yoshino	I-It's... no problem.	I-It's... no problem.
+Message	Yoshino	I-It's... no problem.	N-No hay problema.
 Message	Shido	All right, then let's head home together.	Muy bien, entonces vayamos juntos a casa.
 Message	Yoshino	Y-Yeah...	S-Sí...
 Message	Yoshinon	All right, let's go! Let's go home!	¡Muy bien, vámonos! ¡Vamos a casa!
 Message	Shido	Yoshino, is there any chance you're hungry?	Yoshino, ¿es posible que tengas hambre?
-Message	Yoshino	Ah, I'm... still... fine...	Ah, estoy... todavía... bien...
+Message	Yoshino	Ah, I'm... still... fine...	Ah, todavía... estoy... bien...
 Message	Shido	"I see. I'm getting a little peckish. See?
-Can't you smell that yummy aroma?"	Ya veo. Tengo un poco de hambre. ¿Lo ves?  ¿No puedes oler ese delicioso aroma?
+Can't you smell that yummy aroma?"	"Ya veo. Tengo un poco de hambre. ¿Lo ves?
+¿No puedes oler ese delicioso aroma?"
 Message	Yoshino	Huh...? Oh... I smell something delicious.	¿Eh...? Oh... Huelo algo delicioso.
 Message	Shido	"Right? It smells like sweet sauce...
-Where is it?"	¿Verdad? Huele a salsa dulce...  ¿Dónde está?
+Where is it?"	"¿Verdad? Huele a salsa dulce...
+¿Dónde está?"
 Message	Shido	Oh, see there. It's an okonomiyaki stand.	Oh, mira ahí. Es un puesto de okonomiyaki.
 Message	Yoshino	...Okonomiyaki?	...¿Okonomiyaki?
 Message	Shido	"Ah, have you never eaten one before?
 There's still some time before dinner.
-Do you want to sample some?"	Ah, ¿nunca has comido uno antes?  Todavía queda algo de tiempo antes de la cena.  ¿Quieres probar un poco?
+Do you want to sample some?"	"Ah, ¿nunca has comido uno antes?
+Todavía queda algo de tiempo antes de la cena.
+¿Quieres probar un poco?"
 Message	Yoshino	I'm... fine.	Estoy... bien.
 Message	Shido	"Gotcha. Well, I'll get one, and you can taste
 it yourself. Excuse me, sir, one okonomiyaki,
-please!"	Te tengo. Bueno, cogeré uno, y podrás probarlo tú mismo. Disculpe, señor, ¡un okonomiyaki, por favor!
+please!"	"Te tengo. Bueno, cogeré uno, y
+podrás probarlo tú mismo.
+Disculpe, señor, ¡un okonomiyaki, por favor!"
 Message	Food Cart Attendant	You got it! One okonomiyaki comin' up!	¡Ya lo tienes! ¡Viene un okonomiyaki!
 Message	Food Cart Attendant	"You're lucky, I just fried one up!
-Here ya go!"	¡Tienes suerte, acabo de freír uno!  ¡Aquí tienes!
+Here ya go!"	"¡Tienes suerte, acabo de freír uno!
+¡Aquí tienes!"
 Message	Shido	"Hoff hoff... This piping hot cabbage and
 egg... And the smell of the sweet sauce as
-it spreads in the mouth..."	Hoff hoff... Este huevo con col bien caliente... Y el olor de la salsa dulce mientras se extiende en la boca...
+it spreads in the mouth..."	"Hoff hoff... Este huevo con col bien caliente...
+Y el olor de la salsa dulce mientras se
+extiende en la boca..."
 Message	Yoshinon	Oooh, it looks delicious!	Tiene una pinta deliciosa.
 Message	Shido	"Oh, sorry.
-Here, try some, Yoshino."	Oh, perdona.  Toma, prueba un poco, Yoshino.
+Here, try some, Yoshino."	"Oh, perdona.
+Toma, prueba un poco, Yoshino."
 Message	Yoshino	...O-Okay!	...¡Vale!
 Message	Shido	It's hot, so be careful.	Hace calor, así que ten cuidado.
 Message	Yoshino	"Y-Yes... Hoff!
-Hoff... Huff... Iff hoht!"	S-Sí... ¡Hoff!  Hoff... Huff... ¡Iff hoht!
+Hoff... Huff... Iff hoht!"	S-Sí... ¡Hoff!  Hoff... Huff... ¡Iff caliente!
 Message	Shido	"Oh, sorry. Maybe I should have waited until
-it was cooler."	Lo siento. Tal vez debería haber esperado hasta que estuviera más fresco.
-Message	Yoshino	Ahh... Hoff... Ish okay...	Ahh... Hoff... Ish ok...
+it was cooler."	"Lo siento. Tal vez debería haber esperado
+hasta que estuviera más fresco."
+Message	Yoshino	Ahh... Hoff... Ish okay...	Ahh... Hoff... eshta bien...
 Message	Yoshino	Whew...	Uf...
 Message	Shido	How was your first okonomiyaki?	¿Cómo fue tu primer okonomiyaki?
 Message	Yoshino	Y-Yeah... it was... delicious.	Sí... estaba... delicioso.
 Message	Shido	"I see. That's good. When we get home, let's
 make sure to eat plenty of dinner. This is our
-little secret, okay?"	Ya veo. Muy bien. Cuando lleguemos a casa, asegurémonos de cenar bien. Este es nuestro pequeño secreto, ¿de acuerdo?
+little secret, okay?"	"Ya veo. Muy bien. Cuando lleguemos a casa,
+asegurémonos de cenar bien.
+Este es nuestro pequeño secreto, ¿de acuerdo?"
 Message	Yoshino	...Yeah!	...¡Sí!

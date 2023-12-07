@@ -2,14 +2,17 @@ Operator	Comment	Key	Translation
 Message	Shido	Hm? Is that Tohka over there?	¿Eh? ¿Ese de ahí es Tohka?
 Message	Tohka	Shido...	Shido...
 Message	Shido	Oh, were you waiting for me?	¿Me estabas esperando?
-Message	Tohka	Mhm. I thought I should apologize for what happened at lunch.	Mhm. Pensé que debía disculparme por lo que pasó en el almuerzo.
+Message	Tohka	Mhm. I thought I should apologize for what happened at lunch.	"Mhm. Pensé que debía disculparme por lo que pasó
+En el almuerzo."
 Message	Shido	"Oh. It's all right. I just thought I saw the light at
-the end of the tunnel... that's all."	Oh. No pasa nada. Me pareció ver la luz al final del túnel... eso es todo.
+the end of the tunnel... that's all."	"Oh. No pasa nada. Me pareció ver la luz al final
+Del túnel... eso es todo."
 Message	Tohka	I-I apologize, Shido... I put too much of my all into it...	Me disculpo, Shido... Puse demasiado de mi todo en ello...
 Message		(Is that really the issue here?)	(¿Se trata realmente de eso?)
 Message	Tohka	But I am glad you're alright, Shido!	¡Pero me alegro de que estés bien, Shido!
 Message	Tohka	"I stayed so long in the infirmary that they
-threw me out, and I was worried about you."	Estuve tanto tiempo en la enfermería que me echaron, y estaba preocupada por ti.
+threw me out, and I was worried about you."	"Estuve tanto tiempo en la enfermería que me echaron,
+Y estaba preocupada por ti."
 Message	Shido	I-I see...	Ya veo...
 Message	Tohka	Mhm! Alright then, let us head home!	¡Mhm! Muy bien entonces, ¡vamos a casa!
 Message	Shido	Oh, um... Tohka?	Oh, um... ¿Tohka?
@@ -18,137 +21,183 @@ Message	Shido	If you'd like to, well... do you want to stop by someplace?	Si te 
 Message	Tohka	Hm? Stop by... a place?	¿Hm? ¿Pasar por... un sitio?
 Message	Shido	What I mean to say is... let's go on a date.	Lo que quiero decir es... tengamos una cita.
 Message	Tohka	Oh! Y-Yes! I think that is a great idea!	¡Oh! ¡Sí! ¡Creo que es una gran idea!
-Message	Shido	I guess suggesting it was a good idea. I'm glad you're into it!	Supongo que sugerirlo fue una buena idea. Me alegro de que te guste.
+Message	Shido	I guess suggesting it was a good idea. I'm glad you're into it!	"Supongo que sugerirlo fue una buena idea.
+Me alegro de que te guste."
 Message	Tohka	Oh, yes! A date with Shido! A date, a date!	¡Ah, sí! ¡Una cita con Shido! ¡Una cita, una cita!
 Message	Shido	H-Hey, Tohka, calm down...	H-Hey, Tohka, cálmate...
-Message	Guy Student A	Woo, buddy! A date after school with this cutie, huh?	¡Woo, colega! Una cita después de la escuela con este bombón, ¿eh?
+Message	Guy Student A	Woo, buddy! A date after school with this cutie, huh?	"¡Woo, colega! Una cita después de la escuela con
+Este bombón, ¿eh?"
 Message	Guy Student B	Scandalous! Simply scandalous!	¡Escandaloso! ¡Simplemente escandaloso!
 Message	Girl Student A	Explode... explode... just explode and die!	Explotar... explotar... ¡explotar y morir!
 Message	Girl Student B	S-Senpai?	¿Senpai?
 Message	Tohka	"Shidooo! What are you doing?
-Let us hurry and go on our date!"	¡Shidooo! ¿Qué estáis haciendo?  ¡Démonos prisa y vayamos a nuestra cita!
-Message	Shido	Yeah, I get it! But, um, why don't we try being a little quieter?	Sí, lo entiendo. Pero, ¿por qué no intentamos ser un poco más silenciosos?
+Let us hurry and go on our date!"	"¡Shidooo! ¿Qué estáis haciendo? ¡Démonos prisa
+Y vayamos a nuestra cita!"
+Message	Shido	Yeah, I get it! But, um, why don't we try being a little quieter?	"Sí, lo entiendo. Pero, ¿por qué no intentamos ser
+Un poco más silenciosos?"
 Message	Tohka	Hm? Why?	¿Por qué? ¿Por qué?
 Message	Shido	"W-Well that's... um, it's kind of awkward
-to explain when you ask me so bluntly..."	Bueno... es un poco incómodo de explicar cuando me lo preguntas tan claramente...
+to explain when you ask me so bluntly..."	"Bueno... es un poco incómodo de explicar cuando
+Me lo preguntas tan claramente..."
 Message	Shido	"Why are you so excited in the first place?
-It's not the first time we've gone on a date, you know."	¿Por qué estás tan emocionado en primer lugar?  No es la primera vez que tenemos una cita, sabes.
+It's not the first time we've gone on a date, you know."	"¿Por qué estás tan emocionado en primer lugar? No es
+La primera vez que tenemos una cita, sabes."
 Message	Tohka	"Of course I'm happy!
-I'm going on a date with you, after all!"	¡Claro que estoy feliz!  ¡Voy a tener una cita contigo, después de todo!
+I'm going on a date with you, after all!"	"¡Claro que estoy feliz!  ¡Voy a tener una cita contigo,
+Después de todo!"
 Message	Shido	R-Right.	Derecha.
 Message		(Why is it so embarrassing for her to say that?)	(¿Por qué le da tanta vergüenza decir eso?)
 Message	Girl Student A	I need to buy some pins on my way home...	Necesito comprar algunos alfileres de camino a casa...
 Message	Girl Student B	S-Senpai... you're really scaring me today!	S-Senpai... ¡me estás asustando de verdad hoy!
 Message	Shido	"T-Tohka... I feel like we're gonna get cursed
-if we stay here any longer."	T-Tohka... Siento que nos van a maldecir si nos quedamos aquí más tiempo.
+if we stay here any longer."	"T-Tohka... Siento que nos van a maldecir si nos
+Quedamos aquí más tiempo."
 Message	Tohka	"Hm! Is there an enemy that can curse us?!
-That's quite dangerous..."	¡Hm! ¡¿Hay algún enemigo que pueda maldecirnos?!  Eso es bastante peligroso...
+That's quite dangerous..."	"¡Hm! ¡¿Hay algún enemigo que pueda maldecirnos?!
+Eso es bastante peligroso..."
 Message	Shido	"Uh, well it's not exactly an enemy, per se,
-but I am sensing some hostility..."	Uh, bueno, no es exactamente un enemigo, per se, pero estoy sintiendo cierta hostilidad ...
+but I am sensing some hostility..."	"Uh, bueno, no es exactamente un enemigo, per se,
+Pero estoy sintiendo cierta hostilidad ..."
 Message	Tohka	"Hm? What's this?
-Shido! Over here!"	¿Qué? ¿Qué es esto?  ¡Shido! ¡Ven aquí!
+Shido! Over here!"	"¿Qué? ¿Qué es esto?
+¡Shido! ¡Ven aquí!"
 Message	Shido	Huh? What is it?	¿Qué? ¿Qué es esto?
 Message	Tohka	Just come over here!	¡Ven aquí!
 Message	Shido	Hey!	¡Eh!
-Message	Shido	*Pant, pant* The... shopping district?	*Pant, pant* ¿El... distrito comercial?
+Message	Shido	*Pant, pant* The... shopping district?	*suspirar, suspirar* ¿El... distrito comercial?
 Message	Tohka	Yes!	¡Sí!
 Message	Shido	"Why the shopping district?
-There are plenty of other places for a date..."	¿Por qué el distrito comercial?  Hay muchos otros lugares para una cita...
+There are plenty of other places for a date..."	"¿Por qué el distrito comercial?  Hay muchos otros
+Lugares para una cita..."
 Message	Tohka	The smell!	¡El olor!
 Message	Shido	The s-smell?	¿El olor?
 Message	Tohka	"It smells so good! From there...
-and over there... this must be heaven!"	¡Huele tan bien! Desde allí... y por allí... ¡esto debe ser el paraíso!
+and over there... this must be heaven!"	"¡Huele tan bien! Desde allí... y por allí…
+¡esto debe ser el paraíso!"
 Message		(Ah. She meant the smell of food...)	(Ah. Se refería al olor de la comida...)
 Message	Shido	"Well, I don't know about heaven, but...
-since we're here, why don't we eat?"	Bueno, no sé si en el cielo, pero... ya que estamos aquí, ¿por qué no comemos?
+since we're here, why don't we eat?"	"Bueno, no sé si en el cielo, pero... ya que estamos
+Aquí, ¿por qué no comemos?"
 Message	Tohka	Ooh! Are you truly alright with that, Shido?	¿De verdad estás de acuerdo con eso, Shido?
 Message	Shido	"I guess so. This might be more of a
-food sampling than a date, though..."	Supongo que sí. Aunque esto podría ser más una muestra de comida que una cita...
+food sampling than a date, though..."	"Supongo que sí. Aunque esto podría ser más una
+Muestra de comida que una cita..."
 Message	Tohka	Hm? What did you say?	¿Qué? ¿Qué has dicho?
 Message	Shido	Oh, nothing. What did you want to eat?	Oh, nada. ¿Qué querías comer?
-Message	Tohka	Mmm... well, Shido, I do not have very much currency...	Mmm... bueno, Shido, no tengo mucha moneda...
+Message	Tohka	Mmm... well, Shido, I do not have very much currency...	Mmm... bueno, Shido, no tengo mucho dinero...
 Message	Shido	"Don't worry about it. I can cover you,
-so let's just eat, alright?"	No te preocupes. Puedo cubrirte, así que vamos a comer, ¿de acuerdo?
+so let's just eat, alright?"	"No te preocupes. Puedo pagar, así que
+vamos a comer, ¿de acuerdo?"
 Message	Tohka	Is that truly alright?!	¡¿Está realmente bien?!
-Message	Shido	A date is when a man is supposed to show off.	Una cita es cuando se supone que un hombre debe presumir.
+Message	Shido	A date is when a man is supposed to show off.	"Una cita es cuando se supone que un
+Hombre debe presumir."
 Message	Tohka	"Ah... is that so? I understand! Then,
-I will gladly allow you to treat me!"	Ah... ¿es así? ¡Entiendo! Entonces, ¡con gusto le permitiré que me trate!
+I will gladly allow you to treat me!"	"Ah... ¿es así? ¡Entiendo! Entonces,
+¡con gusto le permitiré que me trate!"
 Message	Shido	Perfect. So, what do you want to eat?	Perfecto. Entonces, ¿qué quieres comer?
 Message	Tohka	Mmm... let us go there first!	Mmm... ¡vayamos allí primero!
 Message		(Tohka pointed enthusiastically towards a takoyaki stand's sign.)	(Tohka señala con entusiasmo el cartel de un puesto de takoyaki).
 Message	Shido	"Takoyaki, huh? Sounds good.
-Wait, did you say first""?"""	"Takoyaki, ¿eh? Suena bien.  Espera, ¿has dicho ""primero""?"""
-Message	Tohka	Let us go, Shido!	¡Déjanos ir, Shido!
-Message	Shido	Ah, hey! Tohka――	¡Ah, hola! Tohka--
+Wait, did you say first""?"""	"Takoyaki, ¿eh? Suena bien.  Espera,
+¿has dicho ""primero""?"
+Message	Tohka	Let us go, Shido!	¡Vamos, Shido!
+Message	Shido	Ah, hey! Tohka――	¡Ah, hey! Tohka--
 Message	Shido	Ack! I-If you stick so many in your mouth at once then――	¡Ack! Si te metes tantos en la boca a la vez...
-Message	Tohka	Urph! Hoff, hoff! T-Thiff iph—	¡Urph! ¡Esperanza, esperanza! T-Thiff iph-
+Message	Tohka	Urph! Hoff, hoff! T-Thiff iph—	¡Urph! ¡Esperanza, esperanza! iph-
 Message	Shido	You okay?!	¡¿Estás bien?!
 Message	Tohka	"Mmm... the outside is so fluffy and crisp!
-The inside is hot and melty!"	Mmm... ¡el exterior es tan esponjoso y crujiente!  ¡El interior está caliente y derretido!
+The inside is hot and melty!"	"Mmm... ¡el exterior es tan esponjoso y crujiente!
+¡El interior está caliente y derretido!"
 Message	Shido	Hahaha, that's what's delicious about takoyaki.	Jajaja, eso es lo delicioso del takoyaki.
-Message	Tohka	*Munch*	*Munch*
-Message	Tohka	*Munch snarf*	*Munch snarf*
-Message	Tohka	*Munch munch munch*	*Munch munch munch*
+Message	Tohka	*Munch*	*mascar*
+Message	Tohka	*Munch snarf*	*mascar gruñir*
+Message	Tohka	*Munch munch munch*	*mascar mascar mascar*
 Message	Shido	H-Hey... Tohka?	H-Hey... ¿Tohka?
 Message	Tohka	Mmm! That was quite delicious!	¡Mmmm! ¡Eso estuvo delicioso!
-Message	Shido	I'm glad you liked it. Next time I'll buy—	Me alegro de que te haya gustado. La próxima vez compraré...
+Message	Shido	I'm glad you liked it. Next time I'll buy—	"Me alegro de que te haya gustado.
+La próxima vez compraré..."
 Message	Tohka	Shido, what is that?!	Shido, ¿qué es eso?
-Message	Shido	Hm? Oh, that. It's a kebab sandwich st―	¿Qué? Ah, eso. Es un sándwich de kebab st-
+Message	Shido	Hm? Oh, that. It's a kebab sandwich st―	¿Qué? Ah, eso. Es un sándwich de kebab-
 Message	Tohka	"Kebab? It smells wonderful!
-Shido, let's go there next!"	¿Kebab? ¡Huele de maravilla!  ¡Shido, vamos allí ahora!
+Shido, let's go there next!"	"¿Kebab? ¡Huele de maravilla!
+¡Shido, vamos allí ahora!"
 Message	Shido	H-Hey! Just wait a second!	¡H-Hey! ¡Espera un segundo!
 Message	Shido	Here, this is a kebab.	Toma, esto es un kebab.
 Message		"(While Tohka couldn't tear her eyes away from the giant chunk of
 meat being spit-roasted, I gently handed her a kebab sandwich,
-so that the sauce wouldn't spill out.)"	(Mientras Tohka no podía apartar los ojos del gigantesco trozo de carne que se estaba asando, le pasé suavemente un bocadillo de kebab, para que no se derramara la salsa).
+so that the sauce wouldn't spill out.)"	"(Mientras Tohka no podía apartar los ojos del gigantesco
+trozo de carne que se estaba asando, le pasé suavemente
+Un bocadillo de kebab, para que no se derramara la salsa)."
 Message	Tohka	"Hmm, so you sandwich meat and vegetables?
-Mmm... mmmph?!"	Hmm, ¿así que sandwich de carne y verduras?  ¡¿Mmm... mmmph?!
+Mmm... mmmph?!"	"Hmm, ¿así que sandwich de carne y verduras?
+¡¿Mmm... mmmph?!"
 Message	Tohka	"Oh... oh my! Juicy meat, lightly charred...
 crisp vegetables... and this sauce...
-this is an absolute masterpiece!"	¡Madre mía! Carne jugosa, ligeramente carbonizada... verduras crujientes... y esta salsa... ¡es una obra maestra absoluta!
+this is an absolute masterpiece!"	"¡Madre mía! Carne jugosa, ligeramente carbonizada..
+ verduras crujientes... y esta salsa…
+¡es una obra maestra absoluta!"
 Message	Shido	You like it, huh?	Te gusta, ¿eh?
 Message	Tohka	"Yes! One could get addicted to this taste!
-Hm? Shido, what restaurant is that over there?"	¡Sí! ¡Uno podría volverse adicto a este sabor!  ¿Qué? Shido, ¿qué restaurante es ese de ahí?
+Hm? Shido, what restaurant is that over there?"	"¡Sí! ¡Uno podría volverse adicto a este sabor! 
+¿Qué? Shido, ¿qué restaurante es ese de ahí?"
 Message	Shido	Oh, that? That's a revolving sushi place.	Ah, ¿eso? Es un sitio de sushi giratorio.
 Message	Tohka	"Hm, so this time this ""sushi"" is being rotated?!"	"Hm, ¡¿así que esta vez este ""sushi"" está rotando?!"
 Message	Shido	"W-Well, something like that. They put a bunch
- of different sushi on a plate and―"	Bueno, algo así. Ponen un montón de sushi en un plato y...
+ of different sushi on a plate and―"	"Bueno, algo así. Ponen un montón de sushi
+En un plato y..."
 Message	Tohka	Alright! Let's go, Shido!	¡Venga! ¡Vamos, Shido!
 Message	Shido	I-I said just wait up a sec!	¡He dicho que esperes un segundo!
 Message	Tohka	"Hmm! This sushi is quite refereshing,
-I could have eaten many more plates!"	¡Hmm! Este sushi es bastante refrescante, ¡podría haber comido muchos platos más!
+I could have eaten many more plates!"	"¡Hmm! Este sushi es bastante refrescante,
+¡podría haber comido muchos platos más!"
 Message	Shido	No, I don't think I... could have. Oogh...	No, no creo que... pudiera. Oogh...
 Message	Tohka	Really? Then, next is...	¿De verdad? Entonces, lo siguiente es...
 Message	Shido	"Just a second! Why don't we take
-a small break? I'm getting really full..."	¡Un momento! ¿Por qué no tomamos un pequeño descanso? Me estoy llenando...
+a small break? I'm getting really full..."	"¡Un momento! ¿Por qué no tomamos un pequeño
+Descanso? Me estoy llenando..."
 Message	Tohka	Are you alright, Shido?!	¡¿Estás bien, Shido?!
 Message	Shido	"You don't have to worry that much.
-I just ate too much, so if I rest a bit..."	No tienes que preocuparte tanto.  Sólo comí demasiado, así que si descanso un poco...
+I just ate too much, so if I rest a bit..."	"No tienes que preocuparte tanto.  Sólo comí
+Demasiado, así que si descanso un poco..."
 Message		"(What's not alright is the contents of my
 wallet but I did say I'd treat her, so that's
-hard to bring up...)"	(Lo que no está bien es el contenido de mi cartera, pero dije que la invitaría, así que es difícil sacar el tema...)
+hard to bring up...)"	"(Lo que no está bien es el contenido de mi cartera,
+pero dije que la invitaría, así que es
+Difícil sacar el tema...)"
 Message		"(After a lot of deliberation, we entered an air-conditioned
-game center, and decided to take a break while cooling down.)"	(Tras muchas deliberaciones, entramos en un centro de juegos con aire acondicionado y decidimos tomarnos un descanso mientras nos refrescábamos).
+game center, and decided to take a break while cooling down.)"	"(Tras muchas deliberaciones, entramos en un centro
+de juegos con aire acondicionado y decidimos
+Tomarnos un descanso mientras nos refrescábamos)."
 Message		"(Tohka ended up stopping in front of a crane game.
-Inside, a bunch of cute stuffed animals were heaped inside.)"	(Tohka acabó parándose delante de un juego de grúas.  En su interior se amontonaban un montón de simpáticos peluches).
+Inside, a bunch of cute stuffed animals were heaped inside.)"	"(Tohka acabó parándose delante de un juego de grúas.
+En su interior se amontonaban un montón de
+Simpáticos peluches)."
 Message	Shido	Do you want one?	¿Quieres uno?
 Message	Tohka	Er, ah... you do not want one, Shido?	Er, ah... ¿no quieres uno, Shido?
 Message		"(Hm... Tohka definitely looks like she wants one.
-Is she trying to hold herself back?)"	(Hm... Tohka definitivamente parece que quiere uno.  ¿Está tratando de contenerse?)
+Is she trying to hold herself back?)"	"(Hm... Tohka definitivamente parece que quiere uno.
+¿Está tratando de contenerse?)"
 Message	Shido	"I mean, they are pretty cute.
-Alright, I'll give it a go!"	Quiero decir, son bastante lindos.  Está bien, ¡lo intentaré!
+Alright, I'll give it a go!"	"Quiero decir, son bastante lindos.
+Está bien, ¡lo intentaré!"
 Message		"(Operating the button to move vertical, then operating the
-button to move horizontal. Then, aim carefully...)"	(Accionar el botón para desplazarse verticalmente, luego accionar el botón para desplazarse horizontalmente. Luego, apunta con cuidado...)
+button to move horizontal. Then, aim carefully...)"	"(Accionar el botón para desplazarse verticalmente, luego
+accionar el botón para desplazarse horizontalmente.
+Luego, apunta con cuidado...)"
 Message		(Ah?!)	(¡¿Ah?!)
 Message	Tohka	Hrm.	Hrm.
 Message		"(The crane grabbed at the stuffed animal's head as if giving
 a playful bite, then just as easily let go, before returning
-to its original position, dangling limply.)"	(La grulla agarró la cabeza del peluche como si le diera un mordisco juguetón, y luego la soltó con la misma facilidad, antes de volver a su posición original, colgando sin fuerzas).
-Message		(Rgh. Just a little more, but it's surprisingly hard to get.)	(Rgh. Sólo un poco más, pero es sorprendentemente difícil de conseguir).
-Message	Shido	T-Tohka! I'm going to give it my all, so watch closely!	¡T-Tohka! Voy a darlo todo, ¡así que estad atentos!
+to its original position, dangling limply.)"	"(La grúa agarró la cabeza del peluche como si le diera
+un mordisco juguetón, y luego la soltó con la misma facilidad,
+Antes de volver a su posición original, colgando sin fuerzas)."
+Message		(Rgh. Just a little more, but it's surprisingly hard to get.)	"(Rgh. Sólo un poco más, pero es sorprendentemente
+Difícil de conseguir)."
+Message	Shido	T-Tohka! I'm going to give it my all, so watch closely!	¡T-Tohka! Voy a darlo todo, ¡así que atenta!
 Message	Tohka	Of course! I will leave it to you, Shido!	¡Claro que sí! ¡Te lo dejo a ti, Shido!
 Message		"The crane started moving towards its target,
-as if possessed by my will..."	La grúa empezó a moverse hacia su objetivo, como poseída por mi voluntad...
+as if possessed by my will..."	"La grúa empezó a moverse hacia su objetivo,
+Como poseída por mi voluntad..."
 Message	Tohka	S-Shido... it's okay... don't push yourself.	S-Shido... está bien... no te presiones.
 Message	Shido	This is my battle! My battle!	¡Esta es mi batalla! ¡Mi batalla!
 Message	Tohka	Shido?	¿Shido?
@@ -157,49 +206,66 @@ Message	Tohka	Hrm...	Hrm...
 Message	Tohka	Shido...	Shido...
 Message	Shido	It's fine, it's fine. Just believe in me like you did before.	Está bien, está bien. Sólo cree en mí como lo hiciste antes.
 Message	Shido	Rgh!	¡Rgh!
-Message		Just a little more, just a little more...calm down, and concentrate!	Sólo un poco más, sólo un poco más... ¡Cálmate y concéntrate!
+Message		Just a little more, just a little more...calm down, and concentrate!	"Sólo un poco más, sólo un poco más…
+¡Cálmate y concéntrate!"
 Message	Shido	Haaaah...	Haaaah...
 Message		(I can see it, the drop of water!)	(¡Puedo verlo, la gota de agua!)
 Message	Shido	THEEEERE!	¡AQUÍ!
-Message	Shido	I... DID IT! I did it, Tohka!	I... ¡LO HICE! ¡Lo hice, Tohka!
+Message	Shido	I... DID IT! I did it, Tohka!	LO… ¡LO HICE! ¡Lo hice, Tohka!
 Message	Tohka	Oh, wow! You did it, Shido!	¡Oh, vaya! ¡Lo has conseguido, Shido!
 Message	Shido	Yeah... here, you take it.	Sí... toma, cógelo tú.
 Message	Tohka	Hm? Shido? But why?	¿Hm? ¿Shido? ¿Pero por qué?
 Message	Shido	"It was lots of fun. This was just a bonus.
-It's my gift to you."	Fue muy divertido. Esto fue sólo un bono.  Es mi regalo para ti.
+It's my gift to you."	"Fue muy divertido. Esto fue sólo un bono.
+Es mi regalo para ti."
 Message	Tohka	"Hehe, thank you, Shido!
 Aw, there there..."	Jeje, ¡gracias, Shido!  Aw, ahí ahí...
 Message		"(I thought we spent quite a lot of time at the game center,
-but actually it wasn't so long. The sun hadn't set yet.)"	(Pensé que habíamos pasado bastante tiempo en el centro de juegos, pero en realidad no fue tanto. Aún no se había puesto el sol).
+but actually it wasn't so long. The sun hadn't set yet.)"	"(Pensé que habíamos pasado bastante tiempo en el
+centro de juegos, pero en realidad no fue tanto.
+Aún no se había puesto el sol)."
 Message		"(But thanks to that, the contents of my wallet were running low.
-This expense is nothing if I get to see Tohka's smile though, right?)"	(Pero gracias a eso, el contenido de mi cartera se estaba agotando.  Aunque este gasto no es nada si consigo ver la sonrisa de Tohka, ¿verdad?).
+This expense is nothing if I get to see Tohka's smile though, right?)"	"(Pero gracias a eso, el contenido de mi cartera se estaba
+agotando.  Aunque este gasto no es nada si consigo
+Ver la sonrisa de Tohka, ¿verdad?)."
 Message	Tohka	"Hey, Shido, I am a bit hungry.
-Why don't we have some kinako bread?"	Eh, Shido, tengo un poco de hambre.  ¿Por qué no comemos un poco de pan kinako?
+Why don't we have some kinako bread?"	"Eh, Shido, tengo un poco de hambre.
+¿Por qué no comemos un poco de pan kinako?"
 Message		"Oogh. A-Are you serious?!
-My stomach's still full from before..."	Oogh. ¡¿En serio?!  Todavía tengo el estómago lleno de antes...
+My stomach's still full from before..."	"Oogh. ¡¿En serio?!  Todavía tengo el estómago
+Lleno de antes..."
 Message		"If I keep following Tohka like this,
-my wallet and my stomach won't last..."	Si sigo siguiendo a Tohka así, mi cartera y mi estómago no durarán...
+my wallet and my stomach won't last..."	"Si sigo siguiendo a Tohka así, mi cartera
+Y mi estómago no durarán..."
 Choice		A-Any more food is gonna be too much for me...	Más comida va a ser demasiado para mí...
 Choice		Then, why don't we stop by the bakery?	Entonces, ¿por qué no pasamos por la panadería?
 Message	Shido	"Actually... do you mind if we hold off on food?
-We're gonna have dinner later too."	En realidad... ¿te importa si posponemos la comida?  Vamos a cenar más tarde también.
+We're gonna have dinner later too."	"En realidad... ¿te importa si posponemos la comida?
+Vamos a cenar más tarde también."
 Message	Tohka	"Hrm... y-you're right! Actually, I really didn't
-want to eat it that bad anyway so... yeah!"	Tienes razón. En realidad, no tenía tantas ganas de comérmelo, así que... ¡sí!
+want to eat it that bad anyway so... yeah!"	"Tienes razón. En realidad, no tenía tantas ganas
+De comérmelo, así que... ¡sí!"
 Message	Shido	"You really wanted that kinako bread, huh?
 I'm sorry..."	Realmente querías ese pan kinako, ¿eh?  Lo siento...
 Message	Tohka	"N-No... it's fine. Please just take care
-of yourself. No need to worry about me."	N-No... está bien. Por favor, cuídate. No tienes que preocuparte por mí.
+of yourself. No need to worry about me."	"N-No... está bien. Por favor, cuídate.
+No tienes que preocuparte por mí."
 Message	Shido	"Alright. Hey, you've been holding that plushie
-this whole time. You must really like it."	De acuerdo. Hey, has estado sosteniendo ese peluche todo este tiempo. Debe gustarte mucho.
+this whole time. You must really like it."	"De acuerdo. Hey, has estado sosteniendo ese peluch
+ Todo este tiempo. Debe gustarte mucho."
 Message	Tohka	"Yes! You worked so hard to get it, after all!
-I will most definitely take care of it!"	¡Sí! ¡Trabajaste muy duro para conseguirlo, después de todo!  Definitivamente me ocuparé de ello.
+I will most definitely take care of it!"	"¡Sí! ¡Trabajaste muy duro para conseguirlo, después
+De todo!  Definitivamente me ocuparé de ello."
 Message	Shido	Hah, yeah. It was worth it.	Sí. Valió la pena.
 Message		"(Well, my wallet's contents depleted heavily,
-but as a result it was a huge success.)"	(Bueno, el contenido de mi cartera se agotó en gran medida, pero el resultado fue un gran éxito).
+but as a result it was a huge success.)"	"(Bueno, el contenido de mi cartera se agotó en gran
+Medida, pero el resultado fue un gran éxito)."
 Message		"(All's well that ends well! I guess we
-were able to have a decent date... right?)"	(¡Todo está bien si acaba bien! Supongo que pudimos tener una cita decente... ¿no?)
+were able to have a decent date... right?)"	"(¡Todo está bien si acaba bien! Supongo que pudimos
+Tener una cita decente... ¿no?)"
 Message		"Well, I suppose if we've come this far,
-it doesn't make a difference if we eat or not..."	Bueno, supongo que si hemos llegado hasta aquí, da igual si comemos o no...
+it doesn't make a difference if we eat or not..."	"Bueno, supongo que si hemos llegado hasta aquí,
+Da igual si comemos o no..."
 Message	Shido	Alright, then let's head to the bakery!	¡Muy bien, entonces vamos a la panadería!
 Message	Tohka	Yes!	¡Sí!
 Message	Bakery Worker	Welcome!	Bienvenido.
@@ -208,34 +274,46 @@ Message	Bakery Worker	I'm terribly sorry. We're all sold out for today.	Lo sient
 Message	Tohka	Oh! What?!	¿Qué?
 Message	Shido	I-I see... then we'll come by another time.	Ya veo... entonces vendremos en otra ocasión.
 Message	Bakery Worker	"Oh, sir! It may not be exactly a replacement,
-but why not try our new item, whipped cream bread?"	¡Oh, señor! Puede que no sea exactamente un sustituto, pero ¿por qué no prueba nuestro nuevo artículo, pan de nata montada?
+but why not try our new item, whipped cream bread?"	"¡Oh, señor! Puede que no sea exactamente un sustituto,
+pero ¿por qué no prueba nuestro nuevo artículo,
+Pan de nata montada?"
 Message	Bakery Worker	"It's just been baked, I highly recommend it!
-What do you think, would you like to try?"	Se acaba de hornear, ¡lo recomiendo encarecidamente!  ¿Qué te parece, te gustaría probar?
+What do you think, would you like to try?"	"Se acaba de hornear, ¡lo recomiendo encarecidamente!
+¿Qué te parece, te gustaría probar?"
 Message	Shido	Hm... then two of those, please.	Hm... entonces dos de esos, por favor.
 Message	Tohka	"Curse them... to think they've been all bought up...
 as expected of kinako bread... such a devilish taste
-that tempts humanity..."	Malditos sean... pensar que han sido todos comprados... como se espera del pan kinako... un sabor tan diabólico que tienta a la humanidad...
+that tempts humanity..."	"Malditos sean... pensar que han sido todos comprados…
+como se espera del pan kinako... un sabor tan diabólico
+Que tienta a la humanidad..."
 Message	Shido	No, it was just a coincidence. These things happen sometimes.	No, sólo fue una coincidencia. Estas cosas pasan a veces.
 Message	Tohka	Is that so? That is a shame.	¿Es así? Es una pena.
 Message	Shido	"Don't make that face. Here, have this.
-The clerk pushed it so much, so I'm sure it's delicious."	No pongas esa cara. Toma esto.  El dependiente lo empujó mucho, así que seguro que está delicioso.
+The clerk pushed it so much, so I'm sure it's delicious."	"No pongas esa cara. Toma, toma esto. El empleado lo
+Presionó mucho, así que estoy seguro de que está delicioso."
 Message	Tohka	So this is whipped cream bread...	Así que esto es pan de nata montada...
 Message	Shido	"Doesn't it smell sweet and fragrant?
-It seems delicious, right?"	¿No huele dulce y fragante?  Parece delicioso, ¿verdad?
+It seems delicious, right?"	"¿No huele dulce y fragante?
+Parece delicioso, ¿verdad?"
 Message	Tohka	"Its scent does stimulate my appetite.
-I'll try it right now..."	Su aroma me estimula el apetito.  Lo probaré ahora mismo...
-Message	Tohka	*munch* Hm?!	*munch* ¡¿Hm?!
+I'll try it right now..."	"Su aroma me estimula el apetito.
+Lo probaré ahora mismo..."
+Message	Tohka	*munch* Hm?!	*mascar* ¡¿Hm?!
 Message	Tohka	"What an indelible sweetness!
-It's unfortunate that I can eat only one!"	¡Qué dulzura indeleble!  ¡Lástima que sólo pueda comer uno!
+It's unfortunate that I can eat only one!"	"¡Qué dulzura indeleble!
+¡Lástima que sólo pueda comer uno!"
 Message	Shido	I-I'm glad you like it...	Me alegro de que te guste...
 Message		(Her appetite is really staggering...)	(Su apetito es realmente asombroso...)
 Message	Tohka	Hm, what's wrong? Will you not eat, Shido?	Hm, ¿qué pasa? ¿No vas a comer, Shido?
 Message	Shido	Oh, no... hey Tohka, it's sticky all around your mouth.	Oh, no... hey Tohka, está pegajoso alrededor de tu boca.
 Message	Tohka	Hm? Here?	¿Eh? ¿Aquí?
 Message	Shido	"Hey! If you wipe it with your sleeve,
-you're gonna get your uniform all dirty!"	¡Oye! ¡Si lo limpias con la manga, te ensuciarás todo el uniforme!
+you're gonna get your uniform all dirty!"	"¡Oye! ¡Si lo limpias con la manga,
+Te ensuciarás todo el uniforme!"
 Message	Shido	Here, look here for a second.	Aquí, mira aquí por un segundo.
 Message	Tohka	Mm! I-I apologize!	¡Mm! ¡Me disculpo!
 Message	Shido	It's okay...	Está bien...
 Message		"(I feel like I was pulled around the whole time by
-Tohka, but this sort of date isn't so bad.)"	(Me siento como si Tohka me hubiera tirado de los pelos todo el tiempo, pero este tipo de cita no está tan mal).
+Tohka, but this sort of date isn't so bad.)"	"(Me siento como si Tohka me hubiera tirado de los
+pelos todo el tiempo, pero este tipo de cita no
+Está tan mal)."

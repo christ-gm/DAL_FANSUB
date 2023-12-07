@@ -1,0 +1,106 @@
+Operator	Comment	Key	Translation
+Message		"(It's too much work to find somewhere to eat,
+so I guess I'll just eat in the classroom today.)"	"(Es demasiado trabajo encontrar un sitio para comer,
+así que supongo que hoy comeré en el aula)."
+Message		"(Come to think of it, I forgot to give Tohka
+her lunch.)"	"(Ahora que lo pienso, olvidé darle a
+Tohka su almuerzo)."
+Message	Shido	Hey Tohka.	Hola Tohka.
+Message	Tohka	Hm? What is it?	¿Qué? ¿Qué es esto?
+Message	Shido	"Here ya go, your lunch. This is the most
+important time of day for you, right?"	"Aquí tienes, tu almuerzo. Este es el momento
+más importante del día para ti, ¿verdad?"
+Message	Tohka	"Hey! The most important time of day is when
+I'm with you, Shido! Not lunch!"	"¡Oye! ¡El momento más importante del día es cuando
+estoy contigo, Shido! ¡No en el almuerzo!"
+Message	Shido	Oh!	¡Oh!
+Message	Tohka	"A-About what I said—! It's the truth, got it?!
+I was only stating the obvious; not expecting
+anything from it!"	"¡Sobre lo que dije...! Es la verdad,
+¡¿entiendes?!  Sólo estaba diciendo
+lo obvio; ¡no esperaba nada de ello!"
+Message	Tohka	Nuuuu!	¡Nuuuu!
+Message	Shido	"T-Tohka! Don't say any more! Things will
+only get more complicated!"	"¡T-Tohka! ¡No digas nada más!
+¡Las cosas sólo se complicarán más!"
+Message	Tohka	Huh?! O-Oh...	¡¿Eh?! O-Oh...
+Message	Shido	J-Just calm down... Let's eat our lunch, okay?	"Sólo cálmate... Vamos a comer nuestro almuerzo,
+¿de acuerdo?"
+Message	Tohka	O-Okay.	De acuerdo.
+Message	Origami	"Oh no. I've dropped my lunch. I can't eat it
+anymore. How unfortunate. No more lunch
+for me. Big problem."	"Oh, no. Se me ha caído el almuerzo. Ya no
+puedo comerlo. Que desafortunado. No más
+almuerzo para mí. Gran problema."
+Message	Shido	"O-Origami! Are you okay? I'll give you some of
+my lunch. Do you want to eat with us?"	"¡O-Origami! ¿Estás bien? Te daré un poco de
+mi comida. ¿Quieres comer con nosotros?"
+Message	Origami	I will do that. Thank you, Shido.	Lo haré. Gracias, Shido.
+Message	Tohka	O-Origami Tobiichi! You did that on purpose.	¡O-Origami Tobiichi! Lo has hecho a propósito.
+Message	Origami	"Unfounded accusations. What an unfortunate
+soul. Only a twisted heart makes twisted
+matters from such an innocuous thing."	"Acusaciones infundadas. Qué alma tan
+desafortunada. Sólo un corazón retorcido
+hace cosas retorcidas de algo tan inocuo."
+Message	Tohka	WHAT?! Did you call me an unfortunate soul?!	¡¿QUÉ?! ¡¿Me has llamado alma desafortunada?!
+Message	Origami	"A rotten apple spoils the barrel. Shido, if you
+continue to associate with Tohka Yatogami, we
+will become unfortunate souls as well. Be warned."	"Una manzana podrida estropea el barril. Shido, si continúas
+asociándote con Tohka Yatogami, nos convertiremos en
+almas desafortunadas también. Te lo advierto."
+Message	Shido	Well, um—	Bueno...
+Message	Tohka	GRRRR! You set me up, Origami Tobiichi!	¡GRRRR! ¡Me has tendido una trampa, Origami Tobiichi!
+Message		(ARGH! WHY DOES THIS ALWAYS HAPPEN?!)	(¡ARGH! ¡¿POR QUÉ SIEMPRE PASA ESTO?!)
+Message	Rinne	"T-Tohka-chan, calm down! Okay? Here,
+why don't we... all eat together?"	"¡T-Tohka-chan, cálmate! ¿Vale? Toma,
+¿por qué no... comemos todos juntos?"
+Message	Tohka	*grunt* I-If you say so, Rinne...	*gruñido* Si tú lo dices, Rinne...
+Message	Rinne	Tobiichi-san, what do you think?	Tobiichi-san, ¿qué piensas?
+Message	Origami	I don't mind. If Shido wishes it.	No me importa. Si Shido lo desea.
+Message	Shido	Yes. I think that's a great idea!	Sí. ¡Creo que es una gran idea!
+Message	Rinne	"Oh, what a relief! Let's all put our desks
+together and eat! Come on."	"¡Oh, qué alivio! ¡Juntemos nuestros
+pupitres y comamos! Venga, vamos."
+Message	Shido	Phew... That was a close one. Thanks, Rinne.	Uf... Eso estuvo cerca. Gracias, Rinne.
+Message	Rinne	You're welcome.	De nada.
+Message	Rinne	"Hehe. I guess being too popular has its
+downside."	"Jeje. Supongo que ser demasiado
+popular tiene su lado negativo."
+Message	Shido	Hm? Did you say something?	¿Hm? ¿Dijiste algo?
+Message	Rinne	Nothing at all... Hehe.	Nada de nada... Jeje.
+Message	Shido	"Hey Origami, feel free to take anything you
+want from my lunch."	"Oye Origami, siéntete libre de tomar
+lo que quieras de mi almuerzo."
+Message	Rinne	"Oh, Tobiichi-san, I don't know if you'd like it,
+but you can also eat from my lunch as well."	"Oh, Tobiichi-san, no sé si te gustaría, pero
+también puedes comer de mi almuerzo."
+Message	Origami	No need. I'm just fine with Shido's lunch.	No hace falta. Estoy bien con el almuerzo de Shido.
+Message	Rinne	O-Oh, really...?	¿En serio?
+Message	Shido	"I don't think I've got enough food here.
+Don't be shy, take some from Rinne."	"Creo que no tengo suficiente comida aquí.
+No seas tímida, toma un poco de Rinne."
+Message	Origami	If you say so, Shido.	Si tú lo dices, Shido.
+Message	Rinne	Here you go, Tobiichi-san.	Aquí tienes, Tobiichi-san.
+Message	Tohka	W-Wait!	¡Espera!
+Message	Shido	Hm?	¿Hm?
+Message	Origami	...	...
+Message	Tohka	"Goodness. Very well, Origami Tobiichi...
+Y-You can have some of mine, too..."	"Bien. Muy bien, Origami Tobiichi... P-Puedes
+tomar un poco del mío, también..."
+Message	Shido	T-Tohka...?	¿T-Tohka...?
+Message	Origami	...Is it poisoned?	...¿Está envenenado?
+Message	Tohka	"Goodness! Wh-Who would poison you!
+I was trying to be courteous like Rinne!"	"¡Dios mío! ¡Quién te envenenaría!
+¡Intentaba ser cortés como Rinne!"
+Message	Rinne	Huh? Like me?	¿Eh? ¿Como yo?
+Message	Tohka	"Never mind! I-I was just being kind, okay?!
+So just shut up, and take some!"	"¡No importa! Sólo estaba siendo amable, ¿vale?
+¡Así que cállate y toma un poco!"
+Message	Origami	...	...
+Message	Shido	"Origami, Tohka insists, so why don't you
+take some from her. I think indulging her
+might be enough."	"Origami, Tohka insiste, así que por qué
+no coges un poco de ella. Creo que
+complacerla podría ser suficiente."
+Message	Origami	If you say so, Shido.	Si tú lo dices, Shido.
+Message	Shido	Uh huh.	Uh huh.

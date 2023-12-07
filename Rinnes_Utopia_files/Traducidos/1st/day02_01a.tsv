@@ -1,9 +1,11 @@
 Operator	Comment	Key	Translation
 Message		Why...?	¿Por qué...?
 Message		"All these memories... they're all still here?
-That means the reset is becoming incomplete..."	Todos estos recuerdos... ¿todavía están aquí?  Eso significa que el reinicio se está volviendo incompleto...
+That means the reset is becoming incomplete..."	"Todos estos recuerdos... ¿todavía están aquí?
+Eso significa que el reinicio se está volviendo incompleto..."
 Message		"The powers of Eden are destabilizing...
-Why is this happening?"	Los poderes del Edén se están desestabilizando...  ¿Por qué ocurre esto?
+Why is this happening?"	"Los poderes del Edén se están desestabilizando…
+¿Por qué ocurre esto?"
 Message		At this rate, I won't be able offer my protection...	A este paso, no podré ofrecer mi protección...
 Message		But I can't let that happen... no matter the cost...	Pero no puedo dejar que eso suceda... no importa el costo...
 Message		(Who are you?)	(¿Quién eres?)
@@ -13,53 +15,67 @@ Message		(Not this dream again...)	(No este sueño otra vez...)
 Message		Everything is already decided...	Ya está todo decidido...
 Message		Just go with the flow...	Déjate llevar...
 Message		(Seriously, who are you?)	(En serio, ¿quién eres?)
-Message	Rinne	Shi...do... get up... Hey... Shido, wake up. It's morning.	Shi... do... levántate... Eh... Shido, despierta. Es por la mañana.
+Message	Rinne	Shi...do... get up... Hey... Shido, wake up. It's morning.	"Shi... do... levántate... Eh... Shido, despierta.
+Es por la mañana."
 Message	Shido	Hm? R-Rinne?	¿hm? ¿R-Rinne?
 Message	Rinne	Good morning, Shido.	Buenos días, Shido.
 Message	Shido	Morning, Rinne...	Buenos días, Rinne...
 Message	Rinne	What's wrong? Are you sick?	¿Qué te pasa? ¿Estás enfermo?
 Message	Shido	"I'm okay, just a little groggy. I guess a lot
 happened yesterday and I'm just feeling
-a little tired."	Estoy bien, sólo un poco aturdido. Supongo que ayer pasaron muchas cosas y me siento un poco cansado.
-Message	Rinne	Y-Yeah. A lot happened.	Sí. Pasaron muchas cosas.
+a little tired."	"Estoy bien, sólo un poco aturdido. Supongo que
+ayer pasaron muchas cosas y me siento
+Un poco cansado."
+Message	Rinne	Y-Yeah. A lot happened.	S-Sí. Pasaron muchas cosas.
 Message	Shido	"You're seriously wondering if I'm sick?
-I'm really just recovering..."	¿En serio te preguntas si estoy enfermo?  En realidad sólo me estoy recuperando...
+I'm really just recovering..."	"¿En serio te preguntas si estoy enfermo?
+En realidad sólo me estoy recuperando..."
 Message	Rinne	You sure looked like you were having fun.	Parecía que te lo estabas pasando bien.
 Message	Shido	"What? Oh... sorry. I guess it's just been
-a while since something like that happened."	¿Qué? Oh... lo siento. Supongo que ha pasado un tiempo desde que pasó algo así.
+a while since something like that happened."	"¿Qué? Oh... lo siento. Supongo que ha pasado
+Un tiempo desde que pasó algo así."
 Message	Rinne	"Heh. You're right. Don't overdo it, okay?
 You should probably take it easy and
-just watch the Sports Day activities."	Je. Tienes razón. No exageres, ¿de acuerdo?  Probablemente deberías tomártelo con calma y limitarte a ver las actividades del Día del Deporte.
+just watch the Sports Day activities."	"Je. Tienes razón. No exageres, ¿de acuerdo?
+Probablemente deberías tomártelo con calma
+Y limitarte a ver las actividades del Día del Deporte."
 Message	Shido	Ah. Maybe that's a good call.	Ah. Tal vez sea una buena decisión.
 Message	Rinne	Goodness, Shido... oh!	Dios, Shido... ¡oh!
 Message	Shido	What is it?	¿De qué se trata?
 Message	Rinne	"I thought you'd get up sooner. I forgot
-to turn off the fire on the pot. Haha!"	Pensé que te levantarías antes. Olvidé apagar el fuego de la olla. ¡Jajaja!
+to turn off the fire on the pot. Haha!"	"Pensé que te levantarías antes. Olvidé apagar
+El fuego de la olla. ¡Jajaja!"
 Message	Shido	Fire safety is no laughing matter!	La seguridad contra incendios no es cosa de risa.
 Message	Rinne	"Sorry, Shido. I need to go turn it off, but
-don't fall back asleep, okay? Get up!"	Lo siento, Shido. Tengo que ir a apagarlo, pero no vuelvas a dormirte, ¿vale? ¡Levántate!
+don't fall back asleep, okay? Get up!"	"Lo siento, Shido. Tengo que ir a apagarlo,
+Pero no vuelvas a dormirte, ¿vale? ¡Levántate!"
 Message	Shido	Rinne... Honestly, I'm more worried about you...	Rinne... Honestamente, estoy más preocupado por ti...
 Message	Shido	She can be a little ditzy sometimes...	Puede ser un poco tonta a veces...
-Message	Shido	I better hurry up before she starts nagging.	Será mejor que me dé prisa antes de que empiece a dar la lata.
-Message	Rinne	The pot was okay. Did you change y—	La olla estaba bien. ¿Cambiaste y-
+Message	Shido	I better hurry up before she starts nagging.	"Será mejor que me dé prisa antes de que
+Empiece a regañar."
+Message	Rinne	The pot was okay. Did you change y—	La olla estaba bien. ¿Cambiaste tú-
 Message	Shido	...	...
 Message	Rinne	...	...
 Message	Shido	Uh...	Uh...
 Message	Rinne	Am I... supposed to scream now?	¿Debo... gritar ahora?
 Message	Shido	"Hold on. Cool it. You don't need to make
-fun of me. And you already screamed!"	Espera. Cálmate. No necesitas burlarte de mí. ¡Y ya has gritado!
+fun of me. And you already screamed!"	"Espera. Cálmate. No necesitas burlarte de mí.
+¡Y ya has gritado!"
 Message	Rinne	S-Sorry.	Lo siento.
 Message	Tohka	Was that you screaming, Rinne?	¿Eras tú la que gritaba, Rinne?
 Message	Kotori	Onii-chan, did something funny happen?	Onii-chan, ¿ha pasado algo gracioso?
 Message	Yoshino	S-Shido-san?!	¡¿S-Shido-san?!
-Message	Yoshinon	Shido-kun... that's a big yikes.	Shido-kun... eso es un gran yikes.
+Message	Yoshinon	Shido-kun... that's a big yikes.	Shido-kun... eso es un gran ¡AY!.
 Message	Shido	"Hold on. There's a perfectly reasonable
 explanatation for this and... wait, are you
-all coming in, too?!"	Un momento. Hay una explicación perfectamente razonable para esto y... espera, ¡¿tú también vas a entrar?!
+all coming in, too?!"	"Un momento. Hay una explicación perfectamente
+razonable para esto y... espera,
+¡¿tú también vas a entrar?!"
 Message	Rinne	Um... Shido, do you have a moment?	Um... Shido, ¿tienes un momento?
 Message	Shido	W-What is it, Rinne?!	¡¿Qué pasa, Rinne?!
 Message	Rinne	"I feel bad, but it won't be good if we can't
-keep it underwraps so... sorry?"	Me siento mal, pero no será bueno si no podemos mantenerlo en secreto así que... ¿perdón?
+keep it underwraps so... sorry?"	"Me siento mal, pero no será bueno si no podemos
+Mantenerlo en secreto así que... ¿perdón?"
 Message	Shido	Huh?	¿Eh?
 Message	Shido	Ouch...	Ouch...
 Message	Rinne	S-Sorry. I didn't know I was so strong...	Lo siento. No sabía que era tan fuerte...
@@ -67,114 +83,150 @@ Message	Shido	You don't need to apologize. It's my fault.	No necesitas disculpar
 Message	Kotori	"Onii-chan, did you want to show your body
 to Rinne?"	Onii-chan, ¿querías enseñarle tu cuerpo a Rinne?
 Message	Shido	"Kotori, come on. Can you not treat me like
-I'm some hentai gentleman?"	Kotori, vamos. ¿Puedes no tratarme como si fuera un caballero hentai?
+I'm some hentai gentleman?"	"Kotori, vamos. ¿Puedes no tratarme como si
+Fuera un caballero pervertido?"
 Message	Kotori	"What? Why not? Hahaha, Onii-chan,
-you are the ultimate hentai gentleman!"	¿Por qué no? ¿Que por qué no? Jajaja, Onii-chan, ¡eres el caballero hentai definitivo!
-Message	Shido	Don't call me a hentai gentleman!	¡No me llames caballero hentai!
-Message	Yoshinon	Shido-kun, you have to admit that much of\nyour life resembles that of a hentai guy.	Shido-kun, tienes que admitir que gran parte de tu vida se parece a la de un chico hentai.
+you are the ultimate hentai gentleman!"	"¿Por qué no? ¿Que por qué no? Jajaja, Onii-chan,
+¡eres el caballero pervertido definitivo!"
+Message	Shido	Don't call me a hentai gentleman!	¡No me llames caballero pervertido!
+Message	Yoshinon	Shido-kun, you have to admit that much of\nyour life resembles that of a hentai guy.	"Shido-kun, tienes que admitir que gran parte de tu
+Vida se parece a la de un chico de un hentai."
 Message	Shido	That's not fair!	¡No es justo!
 Message	Yoshinon	Oh, really? What do you think, Yoshino?	¿Ah, sí? ¿Qué te parece, Yoshino?
 Message	Yoshino	I-I... I'm positive Shido-san... isn't!	YO... Estoy seguro de que Shido-san... ¡no lo es!
 Message	Shido	Yoshino, you're the only one who believes in me!	¡Yoshino, eres el único que cree en mí!
 Message	Yoshino	Of course! Thank you.	Por supuesto. Muchas gracias.
 Message	Shido	"All right... Good. Wow, Yoshino really is a good girl,
-isn't she, Kotori?"	Muy bien... Bien. Vaya, Yoshino es realmente una buena chica, ¿verdad, Kotori?
+isn't she, Kotori?"	"Muy bien... Bien. Vaya, Yoshino es realmente
+Una buena chica, ¿verdad, Kotori?"
 Message	Kotori	...YAH!	...¡YAH!
 Message	Shido	What the?!	¡¿Qué?!
-Message		(An encyclopedia?! She could've taken my head off!)	(¡¿Una enciclopedia?! ¡Podría haberme arrancado la cabeza!)
+Message		(An encyclopedia?! She could've taken my head off!)	"(¡¿Una enciclopedia?!
+¡Podría haberme arrancado la cabeza!)"
 Message	Tohka	"Hey, Kotori. Isn't that a pretty dangerous thing
-to throw around like that?"	Oye, Kotori. ¿No es muy peligroso decir algo así?
+to throw around like that?"	Oye, Kotori. ¿No es muy peligroso tirar algo así?
 Message	Kotori	Haha, yeah, but it's totally fine. It's Onii-chan.	Jaja, sí, pero está totalmente bien. Es Onii-chan.
 Message	Rinne	Now, now, Kotori. He hasn't fully recovered yet.	Ya, ya, Kotori. Aún no se ha recuperado del todo.
 Message	Kotori	"Okaaay... Sorry, Rinne. It was worth the face
-Onii-chan made, though. It was so funny."	Okaaay... Lo siento, Rinne. Aunque valió la pena la cara que puso Onii-chan. Fue tan gracioso.
+Onii-chan made, though. It was so funny."	"Okaaay... Lo siento, Rinne. Aunque valió la pena
+La cara que puso Onii-chan. Fue tan gracioso."
 Message	Shido	You know what...?	¿Sabes qué...?
 Message	Rinne	"Why don't we have breakfast now that we're all here?
-Come on, everyone."	¿Por qué no desayunamos ahora que estamos todos aquí?  Vamos, todos.
+Come on, everyone."	"¿Por qué no desayunamos ahora que
+Estamos todos aquí?
+Vamos, todos."
 Message	Shido	You're right. The food's gonna get cold soon.	Tienes razón. La comida se va a enfriar pronto.
 Message	Tohka	Oh! I thought I smelled something good. What is it?	¡Oh! Pensé que olía algo bueno. ¿Qué es?
 Message	Rinne	"Hehe, well I thought it might be too early for something
 this heavy, but I made your favorite, Tohka... Hamburg!
-Just like I promised."	Jeje, bueno, pensé que podría ser demasiado pronto para algo tan pesado, pero hice tu favorito, Tohka... ¡Hamburgo!  Justo como lo prometí.
+Just like I promised."	"Jeje, bueno, pensé que podría ser demasiado pronto
+para algo tan pesado, pero hice tu favorito,
+Tohka... ¡Hamburguesa!  Justo como lo prometí."
 Message	Rinne	"I'm honestly not too confident that it tastes very good
-though. Please, have some before it cools."	Sin embargo, no estoy muy seguro de que sepa muy bien. Por favor, toma un poco antes de que se enfríe.
+though. Please, have some before it cools."	"Sin embargo, no estoy muy seguro de que sepa muy bien.
+Por favor, toma un poco antes de que se enfríe."
 Message	Tohka	"Wow, it's shaped pretty oddly! Whoa, look at all
-the juice coming out of it. It looks great!"	¡Vaya, tiene una forma bastante extraña! Whoa, mira todo el jugo que sale de ella. ¡Se ve genial!
+the juice coming out of it. It looks great!"	"¡Vaya, tiene una forma bastante extraña! Whoa,
+Mira todo el jugo que sale de ella. ¡Se ve genial!"
 Message	Yoshinon	Ah. Rinne, that's amazing! Isn't that right, Yoshino?	Ah. Rinne, ¡es increíble! ¿No es así, Yoshino?
-Message	Yoshino	I'm worried that... I may not be able to eat it all.	Me preocupa que... Puede que no sea capaz de comer todo.
+Message	Yoshino	I'm worried that... I may not be able to eat it all.	"Me preocupa que... Puede que no
+Sea capaz de comer todo."
 Message	Kotori	I'm so excited!	¡Estoy tan emocionada!
 Message	Rinne	"Hehe, eat it before it goes cold, Yoshino. You too,
-Kotori. I made you both special plates."	Jeje, cómetelo antes de que se enfríe, Yoshino. Tú también, Kotori. Os he hecho platos especiales.
+Kotori. I made you both special plates."	"Jeje, cómetelo antes de que se enfríe, Yoshino.
+Tú también, Kotori. Les hice platos especiales."
 Message		(Rinne's cooking skills are divine!)	(¡Las habilidades culinarias de Rinne son divinas!)
 Message	Kotori	Oh! I'm going to eat it while it's still juicy!	¡Oh! ¡Voy a comérmelo mientras aún esté jugoso!
-Message	Yoshino	Ah... time to dig in!	Ah... ¡es hora de cavar!
-Message	Rinne	Hehe. It just makes me happy that you all like it.	Jeje. Me hace feliz que os guste a todos.
+Message	Yoshino	Ah... time to dig in!	Ah... ¡es hora de comer!
+Message	Rinne	Hehe. It just makes me happy that you all like it.	Jeje. Me hace feliz que les guste a todos.
 Message	Shido	Rinne, you're so considerate. I really think that's great.	Rinne, eres tan considerada. Realmente creo que es genial.
 Message	Rinne	H-Hey, Shido, quit it. You're making me blush!	H-Hey, Shido, déjalo. ¡Me estás haciendo sonrojar!
 Message	Shido	Haha... Sorry.	Jaja... Lo siento.
-Message		(But... when did Rinne get so close with everyone? Huh...?)	(Pero... ¿desde cuándo Rinne se lleva tan bien con todo el mundo? ¿Eh...?)
+Message		(But... when did Rinne get so close with everyone? Huh...?)	"(Pero... ¿desde cuándo Rinne se lleva tan
+Bien con todo el mundo? ¿Eh...?)"
 Message	Kotori	Hm. What's the matter, Onii-chan?	Hm. ¿Qué pasa, Onii-chan?
-Message	Shido	Just... Um, Rinne? Where did you meet Tohka?	Sólo... Um, ¿cuneta? ¿Dónde conociste a Tohka?
+Message	Shido	Just... Um, Rinne? Where did you meet Tohka?	Sólo... Um, ¿Rinne? ¿Dónde conociste a Tohka?
 Message	Rinne	Huh? Well... at school I guess?	Huh, bueno... ¿en la escuela supongo?
 Message	Shido	O-Oh... You guess, huh?	O-Oh... Adivinaste, ¿eh?
 Message	Rinne	Yeah, on the day I transferred. Right, Tohka?	Sí, el día que me transfirieron. ¿Verdad, Tohka?
 Message	Tohka	"Hm? I think so. Rinne was so kind to me from the
-moment we met. She's super nice!"	¿Eh? Creo que sí. Rinne fue muy amable conmigo desde el momento en que nos conocimos. ¡Es super amable!
+moment we met. She's super nice!"	"¿Eh? Creo que sí. Rinne fue muy amable conmigo
+desde el momento en que nos conocimos.
+¡Es super amable!"
 Message	Shido	O-Oh...	O-Oh...
 Message		"(I don’t get it. Something feels off. What was Rinne
 doing then? I thought it was hard for Tohka to
-blend into the class in the beginning...)"	(No lo entiendo. Algo no encaja. ¿Qué hacía Rinne entonces? Pensé que era difícil para Tohka mezclarse en la clase al principio...)
+blend into the class in the beginning...)"	"(No lo entiendo. Algo no encaja. ¿Qué hacía Rinne
+entonces? Pensé que era difícil para Tohka
+Mezclarse en la clase al principio...)"
 Message	Rinne	Shido, why are you bringing this up? Is everything okay?	Shido, ¿por qué sacas este tema? ¿Va todo bien?
 Message	Shido	What about Yoshino?	¿Y Yoshino?
 Message	Rinne	Huh?	¿Eh?
-Message	Shido	Rinne, when did you and Yoshino meet?	Rinne, ¿cuándo os conocisteis Yoshino y tú?
+Message	Shido	Rinne, when did you and Yoshino meet?	Rinne, ¿cuándo se conocieron Yoshino y tú?
 Message	Rinne	Yoshino-chan? Um...	¿Yoshino-chan? Um...
-Message	Yoshino	W-Where... did we meet again?	¿Dónde... nos encontramos de nuevo?
+Message	Yoshino	W-Where... did we meet again?	D-¿Dónde... nos encontramos de nuevo?
 Message	Rinne	"I think it was when you moved next to Shido's
 apartment, Yoshino-chan. Remember? You dropped
-by to say hi."	Creo que fue cuando te mudaste al lado del apartamento de Shido, Yoshino-chan. ¿Te acuerdas? Pasaste a saludar.
+by to say hi."	"Creo que fue cuando te mudaste al lado del apartamento
+de Shido, Yoshino-chan. ¿Te acuerdas?
+Pasaste a saludar."
 Message	Yoshino	Huh? Oh... Yes! I-I think that's it!	¿Eh? Oh... ¡Sí! ¡Creo que es eso!
-Message	Yoshinon	Yeah! That time you made us food because\nyou said it was a housewarming tradition!	¡Sí! ¡Aquella vez que nos hiciste comida porque dijiste que era una tradición de inauguración!
+Message	Yoshinon	Yeah! That time you made us food because\nyou said it was a housewarming tradition!	"¡Sí! ¡Aquella vez que nos hiciste comida porque
+Dijiste que era una tradición de inauguración!"
 Message	Shido	Is that so?	¿Es así?
 Message		"(Yoshino was living in the Spirit house? I don't know
 why, but I keep feeling like something happened
-to my memory...)"	(¿Yoshino vivía en la casa Spirit? No sé por qué, pero tengo la sensación de que algo le ha pasado a mi memoria...)
+to my memory...)"	"(¿Yoshino vivía en la casa Spirit? No sé por qué,
+pero tengo la sensación de que algo
+Le ha pasado a mi memoria...)"
 Message	Yoshinon	Wow, Shido-kun. Still feeling kinda hazy?	Vaya, Shido-kun. ¿Todavía te sientes un poco confuso?
 Message	Shido	No, no, I'm fine. Sorry if I'm acting weird.	No, no, estoy bien. Lo siento si estoy actuando raro.
 Message	Rinne	It's okay, but hurry and eat. You'll be late.	Está bien, pero date prisa y come. Llegarás tarde.
 Message	Shido	Okay.	Vale, vale, vale.
 Message		"(I still don't feel at ease about this, but I guess
 there's no point in wasting time thinking about
-it. I won't get the answers I want right now.)"	(Sigo sin sentirme a gusto con esto, pero supongo que no tiene sentido perder el tiempo pensando en ello. Ahora mismo no obtendré las respuestas que quiero).
+it. I won't get the answers I want right now.)"	"(Sigo sin sentirme a gusto con esto, pero supongo que no
+tiene sentido perder el tiempo pensando en ello.
+Ahora mismo no obtendré las respuestas que quiero)."
 Message	Rinne	"Alright then, I'll be heading out soon. You guys
-take care of the rest, okay?"	De acuerdo entonces, saldré pronto. Ustedes encárguense del resto, ¿de acuerdo?
+take care of the rest, okay?"	"De acuerdo entonces, saldré pronto.
+Ustedes encárguense del resto, ¿de acuerdo?"
 Message	Shido	"Huh? You still have some time, don't you?
-You barely touched your food."	¿Eh? Todavía tienes algo de tiempo, ¿no?  Apenas tocaste tu comida.
+You barely touched your food."	"¿Eh? Todavía tienes algo de tiempo, ¿no?
+Apenas tocaste tu comida."
 Message	Rinne	"Um... I have to get ready for morning practice.
-Sorry!"	Um... Tengo que prepararme para la práctica de la mañana.  ¡Lo siento!
+Sorry!"	"Um... Tengo que prepararme para la práctica
+de la mañana. ¡Lo siento!"
 Message	Kotori	Okay, Rinne! Have a nice day!	¡Muy bien, Rinne! ¡Que tengas un buen día!
 Message	Rinne	Okaaay. Bye!	Okaaay. ¡Adiós!
 Message	Shido	...	...
-Message	Tohka	Hm? Shido, what's the matter?	¿Qué? Shido, ¿qué pasa?
+Message	Tohka	Hm? Shido, what's the matter?	¿Hm? Shido, ¿qué pasa?
 Message	Shido	"Rinne was in a hurry... I was wondering if
-everything was okay with her."	Rinne tenía prisa... Me preguntaba si todo estaba bien con ella.
+everything was okay with her."	"Rinne tenía prisa... Me preguntaba si todo
+Estaba bien con ella."
 Message	Tohka	Hm? I didn't really notice...	¿Hm? Realmente no me di cuenta...
 Message	Tohka	"Oh... OH?! Shido, this hamburg steak is
-extraordinary!"	Oh... ¡¿OH?! ¡Shido, este filete de hamburguesa es extraordinario!
+extraordinary!"	"Oh... ¡¿OH?! ¡Shido, esta hamburguesa
+es extraordinaria!"
 Message	Tohka	"The aftertaste creeps up on you with a total umami
-overload! It's so tasty! What do you think, Yoshino?"	El regusto es una sobrecarga total de umami. ¡Es tan sabroso! ¿Qué te parece, Yoshino?
+overload! It's so tasty! What do you think, Yoshino?"	"El regusto es una sobrecarga total de umami.
+¡Es tan sabroso! ¿Qué te parece, Yoshino?"
 Message	Yoshino	Y-Yes! It's very delicious.	¡Sí! Es muy delicioso.
 Message	Shido	Haha, I'm sure Rinne would like to have heard that.	Jaja, seguro que a Rinne le hubiera gustado oír eso.
 Message	Tohka	"Yeah. As always, Rinne's cooking is the best. Shido,
 hurry up and eat! It'll be such a waste if you just
-let it get cold."	Sí. Como siempre, la cocina de Rinne es la mejor. ¡Shido, date prisa y come! Será un desperdicio si dejas que se enfríe.
+let it get cold."	"Sí. Como siempre, la cocina de Rinne es la mejor.
+¡Shido, date prisa y come! Será un desperdicio
+Si dejas que se enfríe."
 Message	Shido	O-Okay.	De acuerdo.
 Message		(Tohka really likes to eat...)	(A Tohka le gusta mucho comer...)
 Message	Shido	"Oh! I-It's amazing! This is the best hamburg
-steak ever!"	¡Es increíble! ¡Este es el mejor filete de hamburguesa de la historia!
+steak ever!"	"¡Es increíble! ¡Este esla mejor hamburguesa
+De la historia!"
 Message	Tohka	Yeah! It really is, huh?	¡Sí! Realmente lo es, ¿eh?
 Message	Shido	"The man who marries Rinne will be so lucky.
-He'll be eating meals like this every day."	El hombre que se case con Rinne será muy afortunado.  Comerá así todos los días.
+He'll be eating meals like this every day."	"El hombre que se case con Rinne será muy afortunado.
+Comerá así todos los días."
 Message	Tohka	?!	¡?!
 Message	Tohka	S-Shido? Do you like girls who can cook?	¿S-Shido? ¿Te gustan las chicas que saben cocinar?
 Message	Shido	Hm? What did you say, Tohka?	¿Qué? ¿Qué has dicho, Tohka?
@@ -185,122 +237,166 @@ a darn thing behind, I tell ya what!"	¡Claro que sí! ¡Nadie va a dejar nada a
 Message	Shido	W-What kind of accent are you even trying to do?	¿Qué clase de acento estás intentando poner?
 Message	Rinne	Forget it. Hurry up and eat or you'll be late.	Olvídalo. Date prisa y come o llegarás tarde.
 Message	Shido	Okay.	Vale, vale, vale.
-Message	Shido	Oh! I-It's amazing! This is the best hamburg ever!	¡Es increíble! ¡Esta es la mejor hamburguesa de la historia!
+Message	Shido	Oh! I-It's amazing! This is the best hamburg ever!	"¡Es increíble! ¡Esta es la mejor hamburguesa
+De la historia!"
 Message	Tohka	Yeah! It really is, huh?	¡Sí! Realmente lo es, ¿eh?
 Message	Shido	Yeah! Wow, this makes the rice taste so good.	¡Sí! Esto hace que el arroz sepa tan bien.
 Message	Rinne	Uh, Shido... You should chew your food.	Uh, Shido... Deberías masticar tu comida.
 Message	Shido	"Oh come on, I know this. Hey, Kotori, you shouldn't
-skip out on the rice. Eat that, too. It's great."	Oh vamos, ya lo sé. Oye, Kotori, no deberías saltarte el arroz. Come eso también. Está buenísimo.
+skip out on the rice. Eat that, too. It's great."	"Oh vamos, ya lo sé. Oye, Kotori, no deberías saltarte
+El arroz. Come eso también. Está buenísimo."
 Message	Kotori	"You betcha! Ain't nobody gon' leave
 a darn thing behind, I tell ya what!"	¡Claro que sí! ¡Nadie dejará nada atrás, te lo aseguro!
 Message	Shido	W-What kind of accent are you even trying to do?	¿Qué clase de acento estás intentando poner?
 Message	Rinne	Hehehe...	Jejeje...
 Message	Shido	"Oh, yeah. It's Sports Day, isn't it? I might play it safe
-and just watch. Are you gonna go play tennis, Tohka?"	Ah, sí. Es el Día del Deporte, ¿no? Puede que vaya a lo seguro y me limite a mirar. ¿Vas a ir a jugar al tenis, Tohka?
+and just watch. Are you gonna go play tennis, Tohka?"	"Ah, sí. Es el Día del Deporte, ¿no? Puede que vaya a lo
+seguro y me limite a mirar. ¿Vas a ir a jugar
+al tenis, Tohka?"
 Message	Tohka	Yep. Are you not feeling okay, Shido?	Sí. ¿No te sientes bien, Shido?
-Message	Shido	I'm okay, but I just recovered so I'm taking it easy.	Estoy bien, pero acabo de recuperarme, así que me lo estoy tomando con calma.
+Message	Shido	I'm okay, but I just recovered so I'm taking it easy.	"Estoy bien, pero acabo de recuperarme,
+Así que me lo estoy tomando con calma."
 Message	Tohka	Oh, alright. You do what you gotta do, I guess.	Oh, está bien. Haces lo que tienes que hacer, supongo.
 Message	Shido	Rinne, you were going to play... lacrosse?	Rinne, ¿ibas a jugar... lacrosse?
 Message	Rinne	"Yep, that's right! I'm on the lacrosse team.
-I play so much I don't think I can lose!"	Sí, así es. Estoy en el equipo de lacrosse.  ¡Juego tanto que no creo que pueda perder!
+I play so much I don't think I can lose!"	"Sí, así es. Estoy en el equipo de lacrosse.
+¡Juego tanto que no creo que pueda perder!"
 Message	Shido	Alright then, good luck!	Muy bien, ¡buena suerte!
 Message	Rinne	"Hehe, thanks. As long as everyone's having fun
 out there, I'm happy."	Gracias. Mientras todos se diviertan ahí fuera, soy feliz.
 Message	Shido	Haha, such a Rinne answer.	Jaja, una respuesta tan Rinne.
 Message	Rinne	Really? I thought everyone thought that way...	¿De verdad? Creía que todo el mundo pensaba así...
 Message	Shido	"Now, now... anyway, this is a great opportunity
-for you. Have fun out there."	Ahora, ahora... de todos modos, esta es una gran oportunidad para ti. Diviértete ahí fuera.
+for you. Have fun out there."	"Ahora, ahora... de todos modos, esta es una gran
+Oportunidad para ti. Diviértete ahí fuera."
 Message	Tohka	Yeah, Rinne! Do your best!	¡Sí, Rinne! ¡Hazlo lo mejor que puedas!
-Message	Rinne	Alright. Thanks, you two. I'll try my hardest.	De acuerdo. Gracias a los dos. Lo intentaré con todas mis fuerzas.
+Message	Rinne	Alright. Thanks, you two. I'll try my hardest.	"De acuerdo. Gracias a los dos. Lo intentaré
+Con todas mis fuerzas."
 Message	Tohka	...	...
-Message	Shido	Tohka? Why are you so dazed?	¿Tohka? ¿Por qué estás tan aturdido?
+Message	Shido	Tohka? Why are you so dazed?	¿Tohka? ¿Por qué estás tan aturdida?
 Message	Tohka	Ah, nothing. Just had something on my mind.	Ah, nada. Sólo tenía algo en mente.
 Message	Shido	"Oh. If you're worried about something, you
-know you can talk to me, right?"	Oh. Si te preocupa algo, sabes que puedes hablar conmigo, ¿verdad?
+know you can talk to me, right?"	"Oh. Si te preocupa algo, sabes que puedes
+Hablar conmigo, ¿verdad?"
 Message	Tohka	Yeah... well, I'm going to school early!	Sí... bueno, ¡me voy a la escuela temprano!
 Message	Shido	O-Okay.	De acuerdo.
 Message		(She seemed a little off...)	(Parecía un poco apagada...)
-Message	Tamae	Good morning. Time for homeroom.	Buenos dias. Hora de la clase.
+Message	Tamae	Good morning. Time for homeroom.	Buenos días. Hora de la clase.
 Message	Tamae	It's finally time for Sports Day.	Por fin ha llegado la hora del Día del Deporte.
 Message	Tamae	"Testing is just around the corner, so make sure
-to make the most of this and sweat the stress out."	Los exámenes están a la vuelta de la esquina, así que aprovéchalos al máximo y suda el estrés.
-Message	Shido	Um... Teacher?	Um... ¿Profesor?
+to make the most of this and sweat the stress out."	"Los exámenes están a la vuelta de la esquina,
+Así que aprovechen al máximo y suden el estrés."
+Message	Shido	Um... Teacher?	Um... ¿Profesora?
 Message	Tamae	Itsuka-kun? What's up?	¿Itsuka-kun? ¿Qué pasa?
 Message	Shido	"Sorry... I'm not feeling too hot.
-Do you mind if I sit this one out?"	Lo siento... No me siento muy bien.  ¿Te importa si me siento este?
+Do you mind if I sit this one out?"	"Lo siento... No me siento muy bien.
+¿Le importa si me quedo fuera de esto?"
 Message	Tamae	"Whoa, really? That's unfortunate, but sure.
-Go rest up at the infirmary if you need to."	¿En serio? Eso es lamentable, pero seguro.  Ve a descansar a la enfermería si lo necesitas.
+Go rest up at the infirmary if you need to."	"¿En serio? Eso es lamentable, pero seguro.
+Ve a descansar a la enfermería si lo necesitas."
 Message	Shido	"Thanks. I'll just be watching if that's okay.
-If I get worse, I'll be sure to go rest."	Gracias, gracias. Estaré vigilando si te parece bien.  Si empeoro, me aseguraré de ir a descansar.
+If I get worse, I'll be sure to go rest."	"Gracias, gracias. Estaré vigilando si te parece bien.
+Si empeoro, me aseguraré de ir a descansar."
 Message	Tamae	Sure, just don't overdo it.	Claro, pero no te pases.
-Message	Shido	Thank you.	Gracias, señor.
-Message	Tonomachi	*cough*! *cough* *cough*! T-Teacher!	¡*cough*! ¡*cough* *cough*! ¡Profesor!
+Message	Shido	Thank you.	Gracias.
+Message	Tonomachi	*cough*! *cough* *cough*! T-Teacher!	¡*cough*! ¡*cough* *cough*! ¡Profesora!
 Message	Tamae	W-What's the matter, Tonomachi-kun?	¿Qué pasa, Tonomachi-kun?
 Message	Tonomachi	"M-My chronic tuberculosis seems to have come
-out of remission... I'm relapsing! *cough* *cough*!"	M-Mi tuberculosis crónica parece haber salido de la remisión... ¡Estoy recayendo! ¡*cough* *cough*!
+out of remission... I'm relapsing! *cough* *cough*!"	"M-Mi tuberculosis crónica parece haber salido de
+La remisión... ¡Estoy recayendo! ¡*cough* *cough*!"
 Message		"(H-Hey, wise guy. Chronic tuberculosis? Really?
-That is one sorry excuse, even for―)"	(H-Hey, sabelotodo. ¿Tuberculosis crónica? ¿De verdad?  Esa es una excusa lamentable, incluso para-)
+That is one sorry excuse, even for―)"	"(H-Hey, sabelotodo. ¿Tuberculosis crónica? ¿De verdad? 
+Esa es una excusa lamentable, incluso para-)"
 Message	Tamae	"O-Oh no! That isn't good at all!
-Tonomachi-kun, we need to go to the hospital right away!"	¡O-Oh no! ¡Eso no es nada bueno!  ¡Tonomachi-kun, tenemos que ir al hospital de inmediato!
+Tonomachi-kun, we need to go to the hospital right away!"	"¡O-Oh no! ¡Eso no es nada bueno! ¡Tonomachi-kun,
+Tenemos que ir al hospital de inmediato!"
 Message	Tonomachi	W-Whaaaat?!	¡¿Qué?!
 Message	Tamae	"Medicine's come a long way. I'm sure we can find a cure!
 I know it's an ancient disease, but if you don't deal
-with it now, you'll regret it later!"	La medicina ha avanzado mucho. ¡Estoy seguro de que podemos encontrar una cura!  Sé que es una enfermedad antigua, pero si no te ocupas de ella ahora, ¡te arrepentirás después!
+with it now, you'll regret it later!"	"La medicina ha avanzado mucho. ¡Estoy seguro de que
+podemos encontrar una cura! Si no te ocupas de ella
+Ahora, ¡te arrepentirás después!"
 Message	Tonomachi	"W-Well... I don't think I'm relapsing anymore...
-Yeah, I think it's going away..."	B-Bueno... Creo que ya no estoy recayendo...  Sí, creo que está desapareciendo...
+Yeah, I think it's going away..."	"B-Bueno... Creo que ya no estoy recayendo…
+Sí, creo que está desapareciendo..."
 Message	Tamae	"Tonomachi-kun? You know, tuberculosis is becoming
 a lot more common with the younger generations,
-what with everyone refusing vaccinations now."	¿Tonomachi-kun? Sabes, la tuberculosis es cada vez más común entre las nuevas generaciones, ya que ahora todo el mundo rechaza las vacunas.
+what with everyone refusing vaccinations now."	"¿Tonomachi-kun? Sabes, la tuberculosis es cada vez más
+común entre las nuevas generaciones, ya que ahora
+Todo el mundo rechaza las vacunas."
 Message	Tamae	"But don't worry! I'm with you! Let's get to the
-hospital and finally get you the help you need!"	¡Pero no te preocupes! Estoy contigo. ¡Vayamos al hospital y consigamos por fin la ayuda que necesitas!
+hospital and finally get you the help you need!"	"¡Pero no te preocupes! Estoy contigo. ¡Vayamos al
+Hospital y consigamos por fin la ayuda que necesitas!"
 Message	Tonomachi	"Tama-chan?! I m-mean, Okamine-sensei...
-do you really care about this student so much?!"	¡¿Tama-chan?! Quiero decir, Okamine-sensei... ¡¿De verdad te preocupas tanto por esta estudiante?!
-Message	Tamae	Y-Yes?!	¿Sí?
-Message	Tonomachi	I think your special care for your students is healing me!	¡Creo que su especial cuidado por sus alumnos me está curando!
+do you really care about this student so much?!"	"¡¿Tama-chan?! Quiero decir, Okamine-sensei…
+¡¿De verdad te preocupas tanto por este estudiante?!"
+Message	Tamae	Y-Yes?!	¿S-Sí?
+Message	Tonomachi	I think your special care for your students is healing me!	"¡Creo que su especial cuidado por sus
+Alumnos me está curando!"
 Message	Tamae	Huh?	¿Eh?
-Message	Tonomachi	Look! Wow! It's a miracle! I'm totally healed!	¡Mirad! ¡Guau! ¡Es un milagro! ¡Estoy totalmente curado!
+Message	Tonomachi	Look! Wow! It's a miracle! I'm totally healed!	"¡Miren! ¡Guau! ¡Es un milagro!
+¡Estoy totalmente curado!"
 Message		"(Did he hit his head? He must be having mental issues.
-To feel fine after a disease like that... it's obvious!)"	(¿Se ha golpeado la cabeza? Debe tener problemas mentales.  Sentirse bien después de una enfermedad como esa... ¡es obvio!)
+To feel fine after a disease like that... it's obvious!)"	"(¿Se ha golpeado la cabeza? Debe tener problemas
+Mentales. Sentirse bien después de una enfermedad
+como esa… ¡es obvio!)"
 Message	Tonomachi	"Look! Thanks to you, I have courage again!
-Yah! Yah! Yah!"	¡Mirad! ¡Gracias a ti, tengo coraje de nuevo!  ¡Yah! ¡Yah! ¡Yah!
+Yah! Yah! Yah!"	"¡Mire! ¡Gracias a ti, tengo coraje de nuevo!
+¡Yah! ¡Yah! ¡Yah!"
 Message	Tamae	B-But...	P-Pero...
 Message	Tonomachi	I'm okay. I promise I'll visit the hospital later.	Estoy bien. Prometo visitar el hospital más tarde.
 Message	Tonomachi	"It's all thanks to you that my condition has healed.
 If it's okay with you though, I'd like to play it safe
-today and just be an observer."	Es gracias a ti que mi enfermedad se ha curado.  Pero si te parece bien, hoy me gustaría ir a lo seguro y limitarme a observar.
+today and just be an observer."	"Es gracias a ti que mi enfermedad se ha curado.
+Pero si te parece bien, hoy me gustaría ir a lo seguro
+Y limitarme a observar."
 Message	Tamae	O-Okay... sure. Just make sure to get a check-up soon.	Vale... claro. Sólo asegúrate de hacerte un chequeo pronto.
 Message	Tonomachi	Okay, okay!	¡Vale, vale!
 Message	Tamae	"Okay, everyone, we decided on which sports
 we'll be playing, so make sure to check what
-you're supposed to be playing today."	Bien, ya hemos decidido a qué deportes vamos a jugar, así que asegúrate de comprobar a qué te toca jugar hoy.
+you're supposed to be playing today."	"Bien, ya hemos decidido a qué deportes vamos a jugar,
+Así que asegúrate de comprobar a qué te toca jugar hoy."
 Message		(That actually worked? Oh, Tama-chan...)	(¿De verdad funcionó? Oh, Tama-chan...)
 Message		(Tonomachi just forced her to believe him. I feel awful.)	(Tonomachi acaba de obligarla a creerle. Me siento fatal.)
 Message	Tonomachi	"Hey, Itsuka! Did you see the magic old Tonomachi
 just performed?! I won't let you be the only one
-to play hooky today."	¡Eh, Itsuka! ¡¿Has visto la magia que acaba de hacer el viejo Tonomachi?! No dejaré que seas el único que haga novillos hoy.
+to play hooky today."	"¡Eh, Itsuka! ¡¿Has visto la magia que acaba de hacer el
+viejo Tonomachi?! No dejaré que seas el único
+Que haga novillos hoy."
 Message	Shido	"Some nerve. Don't think we're doing the same thing
 here. Besides, if it was anyone else besides Tama-chan,
-you would've never been able to pull that off."	Qué descaro. No creas que estamos haciendo lo mismo. Además, si fuera cualquier otra persona aparte de Tama-chan, nunca habrías sido capaz de hacer eso.
+you would've never been able to pull that off."	"Qué descaro. No creas que estamos haciendo lo mismo.
+Además, si fuera cualquier otra persona aparte de
+Tama-chan, nunca habrías sido capaz de hacer eso."
 Message	Tonomachi	"What's your problem, Itsuka? Are you jealous
-of my sweet, sweet skills?"	¿Cuál es tu problema, Itsuka? ¿Estás celosa de mis dulces, dulces habilidades?
+of my sweet, sweet skills?"	"¿Cuál es tu problema, Itsuka? ¿Estás celosa de mis dulces,
+Dulces habilidades?"
 Message	Shido	"You really should think about going to the hospital.
-You probably should get your head checked out."	Deberías pensar en ir al hospital.  Probablemente deberías hacerte revisar la cabeza.
+You probably should get your head checked out."	"Deberías pensar en ir al hospital. Probablemente deberías
+Hacerte revisar la cabeza."
 Message	Tonomachi	"Oh, come on. Don't do me like that. Here, I'll let
 you even use my excuse next time you're trying
-to get out of doing something. It's on the house!"	Oh, vamos. No me hagas eso. Te dejaré usar mi excusa la próxima vez que intentes librarte de hacer algo. ¡Invita la casa!
+to get out of doing something. It's on the house!"	"Oh, vamos. No me hagas eso. Te dejaré usar mi excusa
+La próxima vez que intentes librarte de hacer algo.
+¡Invita la casa!"
 Message	Shido	"Why are you like this? Who on earth would feel
-comfortable using an excuse like that?!"	¿Por qué eres así? ¡¿Quién en la tierra se sentiría cómodo usando una excusa como esa?!
+comfortable using an excuse like that?!"	"¿Por qué eres así? ¡¿Quién en la tierra se sentiría
+Cómodo usando una excusa como esa?!"
 Message	Tohka	"HEYYY! *cough* *cough*! *groan*! *cough* *cough*
-I said *couuugh* and *wheeze*!"	¡HEYYY! ¡*cough* *cough*! ¡*groan*! *cough* *cough* ¡Dije *couuugh* y *wheeze*!
+I said *couuugh* and *wheeze*!"	"¡HEYYY! ¡*cough* *cough*! ¡*groan*! *cough* *cough*
+¡Dije *couuugh* y *wheeze*!"
 Message	Shido	What...?	¿Qué...?
 Message	Tamae	Y-Yatogami-san?! W-What is it?!	¡¿Y-Yatogami-san?! ¡¿Q-Qué pasa?!
 Message	Tohka	"O-Oh no! Tonomachi... I must have caught his terrible
-tuberculosis disease! Can I sit out, too? I don't feel well."	¡Oh, no! Tonomachi... ¡Debo haberme contagiado su terrible enfermedad tuberculosa! ¿Puedo sentarme también? No me encuentro bien.
+tuberculosis disease! Can I sit out, too? I don't feel well."	"¡Oh, no! Tonomachi... ¡Debo haberme contagiado su
+terrible enfermedad tuberculosa!
+¿Puedo sentarme también? No me encuentro bien."
 Message	Shido	H-Hey, Tohka! You should play!	¡H-Hey, Tohka! ¡Deberías jugar!
 Message	Tohka	Grr! But I want to watch with you, Shido!	¡Grr! ¡Pero quiero mirar contigo, Shido!
 Message	Shido	!	¡!
 Message	Tamae	"Uh... Y-Yatogami-san? Are you really okay?
-I mean, with all the coughing and everything..."	Uh... ¿Y-Yatogami-san? ¿Estás realmente bien?  Quiero decir, con toda la tos y todo...
+I mean, with all the coughing and everything..."	"Uh... ¿Y-Yatogami-san? ¿Estás realmente bien?
+Quiero decir, con toda la tos y todo..."
 Message	Tohka	Hm? Y-Yeah! Huh?!	¿Hm? ¡S-Si! ¡¿Eh?!
 Message	Tohka	C-*cough* *cough*! *cough* *cough*! How's that?	¡C-*cough* *cough*! ¡*cough* *cough*! ¿Qué te parece?
 Message	Tamae	Oh. This isn't good at all.	Oh. Esto no es nada bueno.
@@ -310,7 +406,9 @@ Message	Rinne	Don't play dumb.	No te hagas el tonto.
 Message	Tohka	*Grunt*	*Grunt*
 Message	Shido	"Tohka, don't put the teacher through all this.
 You said you were looking forward to tennis too,
-since it was your first time and all..."	Tohka, no hagas pasar al profesor por todo esto.  Tú también dijiste que tenías ganas de jugar al tenis, ya que era tu primera vez y todo eso...
+since it was your first time and all..."	"Tohka, no hagas pasar al profesor por todo esto.
+Tú también dijiste que tenías ganas de jugar al tenis,
+Ya que era tu primera vez y todo eso..."
 Message	Tohka	Well... that's true, but...	Bueno... eso es verdad, pero...
 Message	Tonomachi	Hm? What's the matter, Tohka-chan?	¿Qué? ¿Qué pasa, Tohka-chan?
 Message	Tohka	Why can't I be the one sitting with Shido?!	¡¿Por qué no puedo ser yo quien se siente con Shido?!
@@ -318,86 +416,119 @@ Message	Tonomachi	AH!	¡AH!
 Message	Origami	I am not happy with what I just heard.	No estoy contento con lo que acabo de oír.
 Message	Tohka	Origami Tobiichi?!	¡¿Origami Tobiichi?!
 Message	Origami	"A person who cannot even fulfill a task they were
-given has no right to spend time with Shido."	Una persona que ni siquiera puede cumplir una tarea que se le encomendó no tiene derecho a pasar tiempo con Shido.
+given has no right to spend time with Shido."	"Una persona que ni siquiera puede cumplir una tarea
+que se le encomendó no tiene derecho a
+Pasar tiempo con Shido."
 Message	Tohka	W-What are you talking about?	¿De qué estás hablando?
 Message	Origami	"Only winners can spend time with Shido.
-It's Sports Day, after all."	Sólo los ganadores pueden pasar tiempo con Shido.  Es el Día del Deporte, después de todo.
-Message	Shido	Excuse me?	¿Disculpe?
+It's Sports Day, after all."	"Sólo los ganadores pueden pasar tiempo con Shido. 
+Es el Día del Deporte, después de todo."
+Message	Shido	Excuse me?	¿Disculpa?
 Message	Rinne	Oh... I get it. That sounds fun!	Oh... lo entiendo. ¡Suena divertido!
 Message	Shido	What?!	¡¿Qué?!
 Message	Origami	"If you choose to forego this challenge, then the one
-who will be spending time with Shido is... me."	Si decides renunciar a este reto, entonces el que pasará tiempo con Shido seré... yo.
+who will be spending time with Shido is... me."	"Si decides renunciar a este reto, entonces la que
+Pasará tiempo con Shido seré... yo."
 Message	Tohka	"What?! Okay then... I will attempt this... tennis...
-and try my very best to win."	¡¿Qué?! De acuerdo entonces... Intentaré esto... tenis... e intentaré ganar lo mejor que pueda.
+and try my very best to win."	"¡¿Qué?! De acuerdo entonces... Intentaré esto... tenis…
+E intentaré ganar lo mejor que pueda."
 Message	Origami	"No need to try your best.
-We know who will be victorious in the end."	No hace falta que te esfuerces.  Sabemos quién saldrá victorioso al final.
+We know who will be victorious in the end."	"No hace falta que te esfuerces.
+Sabemos quién saldrá victorioso al final."
 Message	Tohka	"Shut up! Just shut up! I'm gonna participate
-in Sports Day, do my best, and be the winner!"	¡Cállate! ¡Sólo cállate! ¡Voy a participar en el Día del Deporte, dar lo mejor de mí, y ser el ganador!
+in Sports Day, do my best, and be the winner!"	"¡Cállate! ¡Sólo cállate! ¡Voy a participar en el Día del
+Deporte, dar lo mejor de mí, y ser el ganador!"
 Message	Origami	As you wish. I won't lose.	Como quieras. No perderé.
 Message	Tohka	Grrr... I won't be the one to lose...	Grrr... No seré yo quien pierda...
 Message	Rinne	Hehe. Seems like we managed to get through this.	Jeje. Parece que nos las arreglamos para salir de esta.
 Message	Shido	"Easy for you to say, isn't it? And when did I become
-the prize? Nobody even asked me how I felt about that!"	Para ti es fácil decirlo, ¿no? ¿Y cuándo me convertí en el premio? ¡Nadie me preguntó cómo me sentía al respecto!
+the prize? Nobody even asked me how I felt about that!"	"Para ti es fácil decirlo, ¿no? ¿Y cuándo me convertí en el
+Premio? ¡Nadie me preguntó cómo me sentía al respecto!"
 Message	Rinne	It's for Tohka-chan. Give it up.	Es para Tohka-chan. Déjalo.
 Message	Shido	Fine...	Bien...
 Message	Shido	"Tohka, just try your best at tennis, okay? I'm not sure
-if I'll make it in time, but I'll try to see your match!"	Tohka, da lo mejor de ti en el tenis, ¿vale? No sé si llegaré a tiempo, ¡pero intentaré ver tu partido!
+if I'll make it in time, but I'll try to see your match!"	"Tohka, da lo mejor de ti en el tenis, ¿vale? No sé si
+Llegaré a tiempo, ¡pero intentaré ver tu partido!"
 Message	Tohka	Right! Wait, really?	¡Vale! Espera, ¿en serio?
 Message	Shido	Yes, really.	Sí, de verdad.
 Message	Tohka	I'll be waiting for you!	¡Te estaré esperando!
 Message	Shido	"I'm not sure I'll make it to yours either, Origami,
 but good luck with volleyball! Make our class proud,
-okay?"	Yo tampoco estoy seguro de llegar a la tuya, Origami, pero ¡buena suerte con el voleibol! Haz que nuestra clase se sienta orgullosa, ¿vale?
+okay?"	"Yo tampoco estoy seguro de llegar a la tuya, Origami,
+pero ¡buena suerte con el voleibol! Haz que nuestra
+Clase se sienta orgullosa, ¿vale?"
 Message	Origami	Anything you want, Shido.	Lo que quieras, Shido.
 Message	Shido	And thanks for stopping Tohka...	Y gracias por detenerte Tohka...
 Message	Origami	"No need for that. If we let her get in the way of
-homeroom any longer, it will affect today's progress."	No es necesario. Si dejamos que se interponga en la clase por más tiempo, afectará el progreso de hoy.
+homeroom any longer, it will affect today's progress."	"No es necesario. Si dejamos que se interponga en la
+Clase por más tiempo, afectará el progreso de hoy."
 Message	Shido	I-I see...	Ya veo...
-Message		(Anyways, I'm glad Tohka didn't go rogue...)	(De todas formas, me alegro de que Tohka no se haya vuelto rebelde...)
+Message		(Anyways, I'm glad Tohka didn't go rogue...)	"(De todas formas, me alegro de que Tohka
+No se haya vuelto rebelde...)"
 Message	Shido	*sigh*...	*suspiro*...
 Message	Tonomachi	"Feeling tired after being fought over by all of these
-cute girls, Mr. Nice Guy? Give me a break!"	¿Te sientes cansado después de haberte peleado con todas estas chicas guapas, Sr. Buen Tipo? ¡Dame un respiro!
+cute girls, Mr. Nice Guy? Give me a break!"	"¿Te sientes cansado después de haberte peleado con
+todas estas chicas guapas, Sr. Buen Tipo?
+¡Dame un respiro!"
 Message	Shido	"The only reason any of this happened is because
-you pretended to have tuberculosis today!"	¡La única razón por la que ha pasado todo esto es porque hoy has fingido tener tuberculosis!
+you pretended to have tuberculosis today!"	"¡La única razón por la que ha pasado todo esto es
+Porque hoy has fingido tener tuberculosis!"
 Message	Tonomachi	"You're right. To think Tohka-chan would use the ol'
-Tonomachi Magic... I've gotta say, I'm impressed."	Tienes razon. Pensar que Tohka-chan usaría la vieja Magia Tonomachi... Tengo que decir que estoy impresionado.
+Tonomachi Magic... I've gotta say, I'm impressed."	"Tienes razon. Pensar que Tohka-chan usaría la vieja
+Magia Tonomachi... Tengo que decir
+Que estoy impresionado."
 Message	Shido	Can you please stop being a bad influence on Tohka?	¿Puedes dejar de ser una mala influencia para Tohka?
-Message		(I'm seriously gonna kick your ass if you keep it up.)	(En serio, voy a patearte el culo si sigues así).
+Message		(I'm seriously gonna kick your ass if you keep it up.)	(En serio, voy a patearle el trasero si sigues así).
 Message	Tamae	Uh... Itsuka-kun?	Uh... ¿Itsuka-kun?
-Message	Shido	Y-Yes?!	¿Sí?
+Message	Shido	Y-Yes?!	¿S-Sí?
 Message	Tamae	"So... you and Tonomachi-kun will be the ones
-sitting out, right?"	Así que... tú y Tonomachi-kun seréis los que se queden fuera, ¿verdad?
+sitting out, right?"	"Así que... tú y Tonomachi-kun seréis los
+Que se queden fuera, ¿verdad?"
 Message	Tonomachi	Yes! That's right. Thank you!	Sí. Sí, gracias. ¡Muchas gracias!
 Message		"(Your magic totally wore off and you're acting
-way too healthy for someone who just had TB.)"	(Tu magia se desvaneció por completo y estás actuando demasiado saludable para alguien que acaba de tener tuberculosis).
-Message	Tamae	O-Okay. Um... you two were on the soccer team, right?	Vale. Um... vosotros dos estabais en el equipo de fútbol, ¿verdad?
+way too healthy for someone who just had TB.)"	"(Tu magia se desvaneció por completo y estás actuand
+ demasiado saludable para alguien que acaba
+De tener tuberculosis)."
+Message	Tamae	O-Okay. Um... you two were on the soccer team, right?	"Vale. Um... vosotros dos estaban en el equipo de fútbol,
+¿verdad?"
 Message	Shido	Y-Yes...	S-Sí...
 Message	Tamae	"I'll contact the sports committee and get replacements
 for you. Please adjust the team rosters with the
-new members."	Me pondré en contacto con el comité de deportes y os conseguiré sustitutos. Por favor, ajusta las listas de los equipos con los nuevos miembros.
+new members."	"Me pondré en contacto con el comité de deportes y les
+conseguiré sustitutos. Por favor, ajusta las listas
+De los equipos con los nuevos miembros."
 Message	Shido	I-I'm so sorry for all of this.	Siento mucho todo esto.
 Message	Tamae	"It's totally fine. You two just focus on your health.
-If you feel better, just make sure to cheer everyone on."	Está bien. Ustedes dos concéntrense en su salud.  Si te sientes mejor, asegúrate de animar a todos.
+If you feel better, just make sure to cheer everyone on."	"Está bien. Ustedes dos concéntrense en su salud.
+Si te sientes mejor, asegúrate de animar a todos."
 Message	Tonomachi	Okay! Leave it to me!	¡De acuerdo! ¡Déjamelo a mí!
-Message	Shido	O-Okay...	Vale...
-Message	Tamae	Class 2-4! Let's do our best and get this victory!	¡Clase 2-4! ¡Hagámoslo lo mejor posible y consigamos esta victoria!
+Message	Shido	O-Okay...	O-Okay...
+Message	Tamae	Class 2-4! Let's do our best and get this victory!	"¡Clase 2-4! ¡Hagámoslo lo mejor posible y
+Consigamos esta victoria!"
 Message	Tohka	Yeah! Leave it to me!	¡Sí! ¡Déjamelo a mí!
 Message		(Phew, Tohka finally is pumped.)	(Uf, Tohka por fin se anima.)
 Message	Rinne	Hehe... Tohka-chan we can't lose now can we?	Hehe... Tohka-chan no podemos perder ahora ¿verdad?
 Message	Tohka	"Yeah, but I'm not losing to you either, Rinne!
-I'm giving it my all, so you better be, too!"	¡Sí, pero tampoco voy a perder contigo, Rinne!  ¡Lo estoy dando todo, así que mejor que tú también!
+I'm giving it my all, so you better be, too!"	"¡Sí, pero tampoco voy a perder contigo, Rinne
+¡Lo estoy dando todo, así que tú también!"
 Message	Rinne	U-Um... I'll do my best!	U-Um... ¡Haré lo que pueda!
 Message	Tohka	Okay!	¡Vale!
 Message		"(Rinne's playing lacrosse... Origami, volleyball...
 Tohka's in tennis... hm. I hope I'll be able to see
-everyone play, but that might be a challenge.)"	(Rinne está jugando lacrosse... Origami, voleibol...  Tohka está en tenis... hm. Espero poder ver jugar a todos, pero puede ser un reto).
+everyone play, but that might be a challenge.)"	"(Rinne está jugando lacrosse... Origami, voleibol... 
+Tohka está en tenis... hm. Espero poder ver jugar a todos,
+Pero puede ser un reto)."
 Message	Rinne	"What?! Um... I'll try my best. I mean, I am on the
 lacrosse team as it is... and that's the sport I'm
-playing today..."	¡¿Qué?! Um... Haré lo que pueda. Quiero decir, estoy en el equipo de lacrosse como es... y ese es el deporte que estoy jugando hoy...
+playing today..."	"¡¿Qué?! Um... Haré lo que pueda. Quiero decir, estoy en
+el equipo de lacrosse como es... y ese es el deporte
+Que estoy jugando hoy..."
 Message	Tohka	Gotcha.	Entendido.
 Message		"(Oh, right. Rinne was in lacrosse, wasn't she?
 I want to go cheer for everyone, but I don't think
-I'll be able to go to every match.)"	(Oh, cierto. Rinne estaba en lacrosse, ¿no?  Quiero ir a animar a todos, pero no creo que pueda ir a todos los partidos).
+I'll be able to go to every match.)"	"(Oh, cierto. Rinne estaba en lacrosse, ¿no?
+Quiero ir a animar a todos, pero no creo que
+Pueda ir a todos los partidos)."
 Message	Tohka	So, Shido...	Entonces, Shido...
 Message	Shido	Huh? What is it?	¿Qué? ¿Qué es esto?
 Message	Tohka	What do I do... in this tennis thing...?	¿Qué hago... en esto del tenis...?
@@ -405,15 +536,20 @@ Message	Shido	Oh...	Oh...
 Message	Tonomachi	Alright, Itsuka! Let's go feast our eyes on paradise!	¡Muy bien, Itsuka! ¡Vamos a deleitarnos con el paraíso!
 Message	Shido	"No, no. We need to head to the soccer field
 because there are people who have to suffer
-on account of us sitting out."	No, no. Tenemos que ir al campo de fútbol porque hay gente que tiene que sufrir por nuestra ausencia.
+on account of us sitting out."	"No, no. Tenemos que ir al campo de fútbol porque
+Hay gente que tiene que sufrir por nuestra ausencia."
 Message	Tonomachi	"You kidding me, bro? What about the girls?!
-We gotta get a good look at them!"	¿Me tomas el pelo, hermano? ¡¿Qué pasa con las chicas?!  ¡Tenemos que verlas bien!
+We gotta get a good look at them!"	"¿Me tomas el pelo, hermano? ¡¿Qué pasa con las chicas?!
+¡Tenemos que verlas bien!"
 Message	Shido	"No, we really don't. All we need to do
-is make sure we cheer them on."	No, la verdad es que no. Lo único que tenemos que hacer es animarles.
+is make sure we cheer them on."	"No, la verdad es que no. Lo único que tenemos
+Que hacer es animarles."
 Message	Tonomachi	"Oh, don't be such a dweeb, Itsuka.
-Okay, who do you want to go watch?"	Oh, no seas tan bobo, Itsuka.  Vale, ¿a quién quieres ir a ver?
+Okay, who do you want to go watch?"	"Oh, no seas tan bobo, Itsuka.
+Vale, ¿a quién quieres ir a ver?"
 Message		"(*sigh* He's always like this.
-Anyway, who should I go cheer for?)"	(*suspira* Siempre es así. De todas formas, ¿a quién debería ir a animar?)
-Choice		Cheer for Tohka	Ánimo para Tohka
-Choice		Cheer for Origami	Ánimo para Origami
-Choice		Cheer for Rinne	Anima a Rinne
+Anyway, who should I go cheer for?)"	"(*suspira* Siempre es así. De todas formas,
+¿a quién debería ir a animar?)"
+Choice		Cheer for Tohka	Ánima a Tohka
+Choice		Cheer for Origami	Ánima a Origami
+Choice		Cheer for Rinne	Ánima a Rinne

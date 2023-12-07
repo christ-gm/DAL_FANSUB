@@ -1,23 +1,31 @@
 Operator	Comment	Key	Translation
 Message		"(Oogh. I ran up so many steps today, so my thighs and calves
- are super sore, but... I have so many dates to go on.)"	(Oogh. Hoy he subido muchos escalones, así que tengo los muslos y las pantorrillas muy doloridos, pero... Tengo tantas citas a las que ir).
+ are super sore, but... I have so many dates to go on.)"	"(Oogh. Hoy he subido muchos escalones, así que tengo 
+los muslos y las pantorrillas muy doloridos, pero…
+Tengo tantas citas a las que ir). "
 Message		(Alright, I'll have us hang out at home then.)	(De acuerdo, entonces pasaremos el rato en casa).
 Message	Shido	"Hey Tohka? We still have some time until dinner,
-so do you want to kill some time by playing games?"	Eh, ¿Tohka? Aún nos queda algo de tiempo hasta la cena, ¿quieres matar el tiempo jugando?
+so do you want to kill some time by playing games?"	"Eh, ¿Tohka? Aún nos queda algo de tiempo hasta la
+cena, ¿quieres matar el tiempo jugando? "
 Message	Tohka	"Hm? Ohhh, that beep boop-ing thing that Kotori often does!
-If you wish to play, Shido, then I will as well!"	¿Hm? Ohhh, ¡ese pitido que hace Kotori a menudo! ¡Si quieres jugar, Shido, yo también lo haré!
+If you wish to play, Shido, then I will as well!"	"¿Eh? ¡Oh, eso de hacer beep boop que a menudo hace
+Kotori! Si quieres jugar, Shido, ¡entonces yo también lo haré!"
 Message	Shido	Okay, then do you want to battle?	Vale, ¿entonces quieres luchar?
 Message	Tohka	Yes, bring it on!	¡Sí, adelante!
 Message	Shido	Then here Tohka, use this controller.	Entonces aquí Tohka, usa este mando.
 Message	Tohka	Hm, this one, yes?	Hm, este, ¿sí?
 Message	Shido	"Alright, let's start with practice first.
-I've done it before so I know, but this is your first time, right Tohka?"	Muy bien, empecemos primero con la práctica. Yo lo he hecho antes, así que lo sé, pero esta es tu primera vez, ¿verdad Tohka?
+I've done it before so I know, but this is your first time, right Tohka?"	"Muy bien, empecemos primero con la práctica.
+Yo lo he hecho antes, así que lo sé, pero esta es
+tu primera vez, ¿verdad Tohka? "
 Message	Tohka	"Hmph! No, that's not so.
-I've played it before with Kotori, when she was on break."	¡Hmph! No, no es así. Ya lo he jugado antes con Kotori, cuando estaba de descanso.
+I've played it before with Kotori, when she was on break."	"¡Hmph! No, no es así. Ya lo he jugado antes con
+Kotori, cuando estaba de descanso."
 Message	Shido	Huh!? I-Is that so?	¿¡Eh!? ¿Es así?
 Message	Tohka	Yes, so any time is fine. Bring it on, Shido!	Sí, en cualquier momento está bien. ¡Vamos, Shido!
 Message	Shido	"Alright, then that makes things faster!
-It's too early to win against me, you know?"	¡Muy bien, entonces eso acelera las cosas! Es demasiado pronto para ganar contra mí, ¿sabes?
+It's too early to win against me, you know?"	"¡Muy bien, entonces eso acelera las cosas!
+Es demasiado pronto para ganar contra mí, ¿sabes?"
 Message	Tohka	Hmm! I'll take you on!	¡Hmmm! ¡Yo te llevaré!
 Message	Shido	My character is Kazuma, the master of Jyukkokuken!	Mi personaje es Kazuma, ¡el maestro del Jyukkokuken!
 Message	Tohka	Oh?	¿Ah, sí?
@@ -26,104 +34,154 @@ Message	Tohka	Hm, I can win with this one!	Hm, ¡puedo ganar con esto!
 Message	Shido	――!?	¡--!
 Message		"(The character that Tohka selected is a magician called
 Pandabear,"" and as the name suggests, it's a straightforward
-cross between a bear and a panda.)"""	"(El personaje que seleccionó Tohka es un mago llamado Pandabear"" y, como su nombre indica, es un sencillo cruce entre un oso y un panda)""."
+cross between a bear and a panda.)"""	"(El personaje que seleccionó Tohka es un mago llamado
+""Pandabear"" y, como su nombre indica, es un sencillo
+cruce entre un oso y un panda). "
 Message		"(The hyper-realistically drawn, malicious-looking panda's face
-has red eyes that gleam from underneath its formal robe and hood.)"	(La cara del panda, dibujada con hiperrealismo y aspecto malicioso, tiene ojos rojos que brillan bajo su túnica y capucha formales).
+has red eyes that gleam from underneath its formal robe and hood.)"	"(La cara del panda, dibujada con hiperrealismo y aspecto
+malicioso, tiene ojos rojos que brillan bajo su túnica y
+capucha formales). "
 Message		"(The hands sticking out of either sleeves are as rough as a bear's,
 and covered in bristly brown hair. Lastly, in his hand was a giant
-staff inlaid with red jewels.)"	(Las manos que sobresalen de ambas mangas son ásperas como las de un oso y están cubiertas de pelo castaño erizado. Por último, en la mano llevaba un gigantesco bastón con incrustaciones de joyas rojas).
-Message		(No matter how anybody looks at him, he's more scary than cute, right...?)	(Se mire por donde se mire, da más miedo que mono, ¿no?).
+staff inlaid with red jewels.)"	"(Las manos asomando de las mangas son ásperas y peludas
+como las de un oso. Además, sostenía un gigantesco
+bastón incrustado con joyas rojas en su mano.) "
+Message		(No matter how anybody looks at him, he's more scary than cute, right...?)	"(No importa cómo lo mire cualquier persona,
+¿verdad que da más miedo que ternura...?)"
 Message	Shido	H-Hey Tohka. Can I ask you one thing?	H-Hey Tohka. ¿Puedo preguntarte una cosa?
 Message	Tohka	Hm, what is it?	¿Qué pasa?
 Message	Shido	"W-Why did you pick that character out of everything else?
-Weren't there cuter, or cooler-looking ones?"	¿Por qué elegiste ese personaje entre todos los demás? ¿No había otros más bonitos o más guapos?
+Weren't there cuter, or cooler-looking ones?"	"¿Por qué elegiste ese personaje entre todos los demás?
+¿No había otros más bonitos o más guapos?"
 Message	Tohka	"Hrm! Do you not know his story, Shido?
 He's a magician, and when he wins against an opponent,
-he changes them into his favorite food and eats them!"	¡Hrm! ¿No conoces su historia, Shido? Es un mago, y cuando gana a un oponente, ¡lo transforma en su comida favorita y se lo come!
+he changes them into his favorite food and eats them!"	"¡Hrm! ¿No conoces su historia, Shido? Es un mago, y
+cuando gana a un oponente, ¡lo transforma en su
+comida favorita y se lo come! "
 Message	Shido	...A-Ahh, I see.	...A-Ahh, ya veo.
 Message		"(...I suppose in a way, it's a very Tohka-like choice.
-...Nobody uses that character, so I completely forgot.)"	(...Supongo que, en cierto modo, es una elección muy al estilo Tohka. ...Nadie usa ese personaje, así que lo olvidé por completo).
+...Nobody uses that character, so I completely forgot.)"	"(...Supongo que, en cierto modo, es una elección muy al
+estilo Tohka. ...Nadie usa ese personaje, así que lo
+olvidé por completo). "
 Message	Tohka	"Now then! Today, I will change you into a hamburg steak
 with plenty of demi-glace sauce!
-――No, wait...ponzu with radish is also quite good!"	¡Ahora! ¡Hoy te cambiaré por un filete de hamburguesa con mucha salsa demi-glace! --No, espera ... ponzu con rábano también es bastante bueno!
+――No, wait...ponzu with radish is also quite good!"	"¡Ahora! ¡Hoy te cambiaré por un filete de hamburguesa con
+mucha salsa demi-glace! --No, espera ... ponzu con rábano
+también es bastante bueno! "
 Message		"(C-Can you choose dishes with all those ingredients?
-Where did this game invest all its resources...??)"	(¿Se pueden elegir platos con todos esos ingredientes? ¿Dónde invirtió este juego todos sus recursos...?)
+Where did this game invest all its resources...??)"	"(¿Se pueden elegir platos con todos esos ingredientes?
+¿Dónde invirtió este juego todos sus recursos...?)"
 Message	Shido	"...A-Anyway, just try to win.
 If you don't win against me, you won't be able to see
-the victory screen, after all."	...De todos modos, intenta ganar. Si no ganas contra mí, no podrás ver la pantalla de la victoria, después de todo.
+the victory screen, after all."	"...De todos modos, intenta ganar. Si no ganas contra mí,
+No podrás ver la pantalla de la victoria, después de todo."
 Message	Tohka	Yes, I know. Come at me from any angle!	Sí, lo sé. ¡Ven a mí desde cualquier ángulo!
 Message	Shido	"――Gah!
 Who would use their special attack at this timing!?"	--¡Gah! ¿Quién usaría su ataque especial en este momento?
 Message	Tohka	What's wrong Shido! Even Kotori was better!	¡Qué pasa Shido! ¡Incluso Kotori era mejor!
 Message		"(...This is bad. Tohka's been unwittingly trained by Kotori!
-If I go easy on her here, I'm in big trouble...)"	(...Esto es malo. ¡Tohka ha sido entrenada por Kotori sin saberlo! Si no soy duro con ella, me meteré en un buen lío...)
+If I go easy on her here, I'm in big trouble...)"	"(...Esto es malo. ¡Tohka ha sido entrenada por Kotori sin
+saberlo! Si no soy duro con ella, me meteré en
+un buen problema…)"
 Message		"(No, wait a minute!
 If I fought honestly and Tohka's mood was worsened,
-worst-case scenario, she could possibly rampage...?)"	(¡No, espera un momento! Si luchara honestamente y el humor de Tohka empeorara, en el peor de los casos, ella podría desbocarse...)
+worst-case scenario, she could possibly rampage...?)"	"(¡No, espera un momento! Si luchara honestamente y el
+humor de Tohka empeorara, en el peor de los casos,
+ella podría desbocarse…) "
 Message		"(No no, wait wait!
 If she finds out she didn't win fair and square,
-conversely wouldn't she get angry?)"	(¡No, no, espera, espera! Si descubre que no ganó limpiamente, ¿no se enfadará?)
+conversely wouldn't she get angry?)"	"(¡No, no, espera, espera! Si descubre que no ganó
+limpiamente, ¿no se enfadará?) "
 Message	Tohka	"Shido! What are you spacing out for?
-There is no need to go easy on me!"	¡Shido! ¿Por qué te estás espaciando? ¡No hay necesidad de ser suave conmigo!
+There is no need to go easy on me!"	"¡Shido! ¿Por qué te estás espaciando?
+¡No hay necesidad de ser suave conmigo!"
 Message	Shido	――Urgh!	--¡Urgh!
 Message		(While I was thinking she got in a really good one!)	(¡Mientras yo pensaba que se había metido una buena!)
 Message		(Alright! I've made up my mind! With Tohka, I'll――)	(¡Muy bien! ¡Me he decidido! Con Tohka, yo...)
 Choice		Fight with her seriously.	Pelea con ella en serio.
-Choice		Give her some slack while fighting.	Dale un poco de caña mientras lucha.
+Choice		Give her some slack while fighting.	Dale un poco de margen mientras luchas.
 Message		"(I'll fight Tohka seriously!
 This is Tohka, if I went easy on her...
-She'd easily see through it and get angry.)"	(¡Pelearé con Tohka en serio! Se trata de Tohka, si fuera fácil con ella... Fácilmente se daría cuenta y se enfadaría.)
+She'd easily see through it and get angry.)"	"(¡Pelearé con Tohka en serio! Se trata de Tohka, si fuera
+fácil con ella... Fácilmente se daría cuenta y
+se enfadaría.) "
 Message		"(If I do things seriously, and I end up winning fair and square,
-if that's the outcome of the match, then Tohka's sure to accept it!)"	(Si hago las cosas en serio y acabo ganando limpiamente, si ese es el resultado del partido, ¡seguro que Tohka lo acepta!).
+if that's the outcome of the match, then Tohka's sure to accept it!)"	"(Si hago las cosas en serio y acabo ganando limpiamente,
+si ese es el resultado del partido, ¡seguro que
+Tohka lo acepta!)."
 Message	Shido	"Not yet! It's not over yet!
-Tohka! This is where it really begins! Let's go!"	¡Todavía no! ¡Todavía no ha terminado! ¡Tohka! ¡Aquí es donde realmente comienza! ¡Adelante!
+Tohka! This is where it really begins! Let's go!"	"¡Todavía no! ¡Todavía no ha terminado! ¡Tohka!
+¡Aquí es donde realmente comienza! ¡Adelante!"
 Message	Tohka	Hrm!? Come at me, Shidooooooo!	¿¡Hrm!? ¡Ven a mí, Shidooooooo!
 Message	Shido	N-No way...it can't be...!	¡De ninguna manera... no puede ser...!
 Message	Tohka	Ohhh! You're delicious-looking Shido! So much cheese!	¡Ohhh! ¡Tienes un aspecto delicioso Shido! ¡Cuánto queso!
 Message		"(...I-It's impossible.
 In the first place, cooking a human and eating them
-is totally wrong for a kid-oriented game...)"	(...Es imposible. En primer lugar, cocinar a un humano y comérselo está totalmente mal para un juego orientado a niños...).
+is totally wrong for a kid-oriented game...)"	"(...Es imposible. En primer lugar, cocinar a un humano y
+comérselo está totalmente mal para un juego
+orientado a niños...). "
 Message	Tohka	"Hmm, you seem quite stunned Shido.
-Perhaps you lack the practice to go up against me?"	Hmm, pareces bastante aturdido Shido. ¿Quizás te falta práctica para enfrentarte a mí?
+Perhaps you lack the practice to go up against me?"	"Hmm, pareces bastante aturdido Shido.
+¿Quizás te falta práctica para enfrentarte a mí?"
 Message	Shido	Y-Yeah...it's true that I haven't played recently...	Sí... es verdad que no he jugado últimamente...
 Message	Tohka	Hrm...it's no good. Staring at the screen is making me hungry.	Hrm... no es bueno. Mirar la pantalla me está dando hambre.
 Message	Shido	I-It's almost dinner, after all...let's end here for today.	Es casi la cena, después de todo... terminemos aquí por hoy.
 Message	Tohka	"Yes. If you wish to battle me again, just ask anytime.
 Oh! That's right!
-Next time, I will make you into ankake fried rice!"	Sí. Si deseas luchar contra mí de nuevo, sólo pídelo cuando quieras. ¡Oh! ¡Así es! ¡La próxima vez, te convertiré en arroz frito ankake!
+Next time, I will make you into ankake fried rice!"	"Sí. Si deseas luchar contra mí de nuevo, sólo pídelo
+cuando quieras. ¡Oh! ¡Así es! ¡La próxima vez, te
+convertiré en arroz frito ankake!"
 Message	Shido	...I'll practice.	...practicaré.
 Message		"(No, I should go easy on her.
  If I fought her seriously, and Tohka gets completely knocked out,
- I have no idea what'll happen to Tohka's mood...)"	(No, debería ir con cuidado con ella.  Si peleo seriamente con ella, y Tohka queda completamente noqueado, no tengo ni idea de lo que pasará con el humor de Tohka...)
+ I have no idea what'll happen to Tohka's mood...)"	"(No, debería ir con cuidado con ella. Si peleo seriamente
+con ella, y Tohka queda completamente noqueado, no
+tengo ni idea de lo que pasará con el humor de Tohka...)"
 Message		"(Besides, this is technically a date, so if that's the case,
- so I should think the top priority is making Tohka happy.)"	(Además, esto es técnicamente una cita, así que si ese es el caso, así que debería pensar que la máxima prioridad es hacer feliz a Tohka).
-Message	Shido	Y-You're good Tohka! Your powerful attacks are amazing!	¡E-Eres bueno Tohka! ¡Tus poderosos ataques son increíbles!
+ so I should think the top priority is making Tohka happy.)"	"(Además, esto es técnicamente una cita, así que si ese es
+el caso, así que debería pensar que la máxima prioridad
+es hacer feliz a Tohka). "
+Message	Shido	Y-You're good Tohka! Your powerful attacks are amazing!	"¡E-Eres buena Tohka!
+¡Tus poderosos ataques son increíbles!"
 Message	Tohka	"Shido! This is not all of my power!
-Soon I will make you into a juicy hamburg steak!"	¡Shido! ¡Este no es todo mi poder! ¡Pronto te convertiré en un jugoso filete de hamburguesa!
+Soon I will make you into a juicy hamburg steak!"	"¡Shido! ¡Este no es todo mi poder!
+¡Pronto te convertiré en un jugoso filete de hamburguesa!"
 Message	Shido	"Whoah!? What is that attack!?
-I can't dodge!"	¿¡Qué!? ¿¡Qué es ese ataque!? ¡No puedo esquivar!
+I can't dodge!"	"¿¡Qué!? ¿¡Qué es ese ataque!?
+¡No puedo esquivar!"
 Message		"(I pretended not to know her special attack,
  and intentionally made a small hop into taking it head-on.
- With this, I lose.)"	(Fingí no conocer su ataque especial, e intencionadamente di un pequeño salto para cogerlo de frente.  Con esto, pierdo).
+ With this, I lose.)"	"(Fingí no conocer su ataque especial, e intencionadamente
+di un pequeño salto para cogerlo de frente.
+Con esto, pierdo)."
 Message	Shido	A-Are you serious...! It takes that much off your health at once!?	¡E-En serio...! ¿¡Tanto te quita la salud de golpe!?
 Message	Tohka	"Shido, that attack...
-Didn't you already know you could dodge that with emergency evasion?"	Shido, ese ataque... ¿No sabías ya que podías esquivarlo con la evasión de emergencia?
+Didn't you already know you could dodge that with emergency evasion?"	"Shido, ese ataque... ¿No sabías ya que podías esquivarlo
+con la evasión de emergencia? "
 Message	Shido	Er...Well, it's been so long, I didn't remember.	Er... Bueno, ha pasado tanto tiempo que no me acordaba.
 Message	Tohka	"...I thought this was a serious match, but I am quite disappointed, Shido...
-You were going easy on me, weren't you?"	...Pensé que este era un partido serio, pero estoy bastante decepcionado, Shido... Ibas a ser suave conmigo, ¿verdad?
+You were going easy on me, weren't you?"	"...Pensé que este era un partido serio, pero estoy bastante
+decepcionado, Shido... Ibas a ser suave conmigo,
+¿verdad?"
 Message	Shido	T-Tohka!? W-What's the matter?	¿¡T-Tohka!? ¿Qué pasa?
 Message	Tohka	"Shido...If you are to battle me, I wish you would do so seriously.
 No matter the reason, being decieved by you...
-Well, it makes me very sad..."	Shido... Si vas a luchar conmigo, me gustaría que lo hicieras en serio. No importa la razón, ser engañado por ti... Bueno, me pone muy triste...
+Well, it makes me very sad..."	"Shido... Si vas a luchar conmigo, me gustaría que lo
+hicieras en serio. No importa la razón, ser engañado
+por ti... Bueno, me pone muy triste… "
 Message	Shido	...! ...I-I'm sorry.	¡...! ...lo siento.
 Message	Tohka	Hrm...it's no good. Staring at the screen is making me hungry.	Hrm... no es bueno. Mirar la pantalla me está dando hambre.
 Message	Shido	I-It's almost dinner, after all...let's end here for today.	Es casi la cena, después de todo... terminemos aquí por hoy.
 Message	Tohka	"Hm. Hey, Shido...the next time we battle,
-I request that it'll be all in,"" okay?"""	"Hm. Oye, Shido... la próxima vez que luchemos, te pido que sea todo dentro"", ¿vale?""."
-Message	Shido	R-Right. Next time, it'll be a serious match!	Derecha. ¡La próxima vez, será un partido serio!
+I request that it'll be all in,"" okay?"""	"Hm. Oye, Shido... la próxima vez que luchemos,
+Te pido que sea serio, ¿vale?."
+Message	Shido	R-Right. Next time, it'll be a serious match!	B-Bueno. ¡La próxima vez, será un partido serio!
 Message	Tohka	"Yes! If I win next time, what should I change you into next?
 Should it be ankake fried rice?
-Or maybe, gomoku fried rice?"	¡Sí! Si gano la próxima vez, ¿qué debería cambiarte? ¿Debería ser arroz frito ankake? O tal vez, ¿arroz frito gomoku?
+Or maybe, gomoku fried rice?"	"¡Sí! Si gano la próxima vez, ¿qué debería cambiarte?
+¿Debería ser arroz frito ankake? O tal vez,
+¿arroz frito gomoku?"
 Message		"...I guess either way it's decided I'm going to become fried rice.
-Hrrmmm..."	...Supongo que de cualquier manera está decidido que me convertiré en arroz frito. Hrrmmm...
+Hrrmmm..."	"...Supongo que de cualquier manera está decidido que
+me convertiré en arroz frito. Hrrmmm… "
 Message		――I wouldn't want either...yeah.	--no querría ninguno de los dos... sí.

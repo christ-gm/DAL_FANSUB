@@ -1,0 +1,90 @@
+Operator	Comment	Key	Translation
+Message	Shido	"Hm. I wanted to go on a date with Kotori, but
+I think she might be on the Fraxinus."	"Hm. Quería tener una cita con Kotori, pero
+creo que podría estar en el Fraxinus."
+Message	Shido	Oh well. I guess I'll hit the market.	Ah, bueno. Supongo que iré al mercado.
+Message	Shido	"Hm. Instead of thinking about who to date,
+here I am at the station..."	"Hm. En vez de pensar en con quién
+salir, aquí estoy en la estación..."
+Message	Shido	Oh, well. I've got to get groceries anyway.	Ah, bueno. Tengo que hacer la compra de todos modos.
+Message	Shido	"Now, that should cover everything for dinner.
+Hm, is that...?"	"Ahora, eso debería cubrir todo para la cena.
+Hm, ¿eso es...?"
+Message	Kotori	...	...
+Message	Shido	Kotori...?	¿Kotori...?
+Message	Kotori	Oh, Shido?	Oh, ¿Shido?
+Message	Shido	What are you doing here?	¿Qué haces aquí?
+Message	Kotori	I... was looking up at the sky.	Yo... estaba mirando al cielo.
+Message	Shido	The sky?	¿El cielo?
+Message	Kotori	"Yes. Staring as the clouds go by. It puts my
+mind at ease."	"Sí. Mirar cómo pasan las nubes.
+Me tranquiliza."
+Message	Shido	"I see. Seems like... being Ratatoskr's commander
+is tough work."	"Ya veo. Parece que... ser comandante
+de Ratatoskr es un trabajo duro."
+Message	Kotori	Yes, but I can't run away from it.	Sí, pero no puedo huir de ello.
+Message	Shido	Kotori...	Kotori...
+Message	Reine	Shin, are you with Kotori?	Shin, ¿estás con Kotori?
+Message	Shido	Reine-san? Yes, I'm with her now.	¿Reine-san? Sí, estoy con ella ahora.
+Message	Reine	Oh, I see. Glad to hear it. There's an error in\nthe system, and I can't seem to spot her.	"Ah, ya veo. Me alegra oírlo. Hay un error en el
+sistema, y parece que no puedo encontrarla."
+Message	Shido	She seems... stressed out.	Parece... estresada.
+Message	Reine	Hm. I knew it. She's becoming emotionally\nunstable.	"Hm. Lo sabía. Se está volviendo
+emocionalmente inestable."
+Message	Shido	"Yeah. Despite her wearing her black ribbons,
+she's awfully quiet."	"Sí. A pesar de llevar sus cintas negras,
+es terriblemente callada."
+Message	Reine	Shin... Cheer up Kotori.	Shin... Anímate Kotori.
+Message	Shido	What, me?	¿Qué, yo?
+Message	Reine	There's a lot on her shoulders. It's important\nto show appreciation when you can.	"Hay mucho sobre sus hombros. Es importante
+mostrar aprecio cuando se puede."
+Message	Reine	We're trying our best to care for her, but what\neases her mind most are your words, Shin.	"Hacemos todo lo posible por cuidarla, pero lo
+que más le preocupa son tus palabras, Shin."
+Message	Shido	Yeah, but... I don't know what to say.	Sí, pero... no sé qué decir.
+Message	Reine	It's all right. Don't think too hard about it.\nJust be yourself.	"No pasa nada. No pienses demasiado en ello.
+Sólo sé tú mismo."
+Message	Shido	Okay. I'll try my best.	Vale. Haré lo que pueda.
+Message	Reine	Yes. That's the spirit.	Sí. Ese es el espíritu.
+Message	Shido	U-Uh...	U-Uh...
+Choice		Be positive.	Sé positivo.
+Choice		Care for her.	Cuida de ella.
+Message	Shido	Um. That's not like you, Kotori.	Um. Eso no es propio de ti, Kotori.
+Message	Kotori	Huh...?	¿Eh...?
+Message	Shido	"Are you feeling sentimental because you're
+tired? Knowing your usual self, you usually
+play it off like it's nothing, right?"	"¿Te sientes sentimental porque estás cansada?
+Conociendo tu forma de ser habitual, sueles
+disimularlo como si nada, ¿verdad?"
+Message	Kotori	Wh-What...?	¿Qué...?
+Message	Shido	"It's fine. Kotori, you're doing a great job. Even
+now, I know you'll make it through. When it's
+all over, you'll be able to relax."	"Está bien. Kotori, estás haciendo un gran trabajo.
+Incluso ahora, sé que lo lograrás. Cuando
+todo acabe, podrás relajarte."
+Message	Kotori	Hmph. Got me there, Shido.	Hmph. Me has pillado, Shido.
+Message	Shido	Uh...	Uh...
+Message	Kotori	"You don't need to tell me that! Don't worry
+about me. I'll be my usual self in no time!"	"¡No necesitas decirme eso! No te preocupes por mí.
+¡Volveré a ser el de siempre enseguida!"
+Message	Shido	Hahaha! Exactly. That's the Kotori I know.	¡Jajaja! Exacto. Esa es la Kotori que conozco.
+Message	Kotori	Oh, geez... Well.	Oh, cielos... Bueno...
+Message	Kotori	I'm going to return to the Fraxinus!	¡Voy a volver al Fraxinus!
+Message	Reine	Amazing, Shin. Kotori already sounds better.	Increíble, Shin. Kotori ya suena mejor.
+Message	Shido	I hope so. I just don't want her to overdo it.	Eso espero. No quiero que se pase.
+Message	Shido	Kotori, hang in there.	Kotori, aguanta.
+Message	Shido	"Kotori, don't push yourself too hard. Things
+won't end well if you pass out, so get some
+rest."	"Kotori, no te esfuerces demasiado.
+Las cosas no acabarán bien si te
+desmayas, así que descansa un poco."
+Message	Kotori	"If I could rest, then I would have done so!
+I'm sighing because I can't."	"Si pudiera descansar, ¡lo habría hecho!
+Suspiro porque no puedo."
+Message	Shido	...Oh, okay.	...Oh, vale.
+Message	Kotori	"Jeez. You're always meddling with my
+business."	Cielos. Siempre te metes en mis asuntos.
+Message	Shido	S-Sorry.	Lo siento.
+Message	Kotori	I'm going home.	Me voy a casa.
+Message	Shido	I wonder if I screwed up.	Me pregunto si habré metido la pata.
+Message	Reine	Shin, women are complex creatures.	Shin, las mujeres son criaturas complejas.
+Message	Shido	Well, uh... *sigh*.	Bueno, eh... *suspiro*.

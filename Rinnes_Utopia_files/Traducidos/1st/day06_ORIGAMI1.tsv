@@ -1,0 +1,292 @@
+Operator	Comment	Key	Translation
+Message		"(All right! I'm an hour early for our meeting.
+Origami's the type that comes early,
+so this is...!)"	"(¡Muy bien! Llego una hora antes a nuestra reunión.
+Origami es de los que llegan temprano,
+¡así que esto es...!)"
+Message		(I-Is that her standing there...?)	(¿Es ella la que está ahí de pie...?)
+Message		"(In front of the station is a statue that looks
+just like the Chuken Hachiko, but people
+refer to it as the Chuken Pachiko.)"	"(Frente a la estación hay una estatua parecida al
+Chuken Hachiko, pero la gente se refiere a
+ella como el Chuken Pachiko)."
+Message		"(To the statue's left, wearing a sleeveless
+turtleneck and a mini-skirt, was a stoic girl,
+standing completely still. It was Origami.)"	"(A la izquierda de la estatua, vestida con un jersey de
+cuello alto sin mangas y una minifalda, había una
+chica estoica, completamente inmóvil. Era Origami)."
+Message		(Just how early did she come?!)	(¡¿Qué tan temprano llegó?!)
+Message	Shido	Heeeey, Origami!	¡Heeey, Origami!
+Message	Origami	Huh...?	¿Eh...?
+Message	Shido	"You're here already? You're even earlier than
+I thought you'd be. Don't tell me you've been
+waiting for a while."	"¿Ya estás aquí? Llegas incluso antes
+de lo que pensaba. No me digas que
+has estado esperando un rato."
+Message	Origami	I just arrived.	Acabo de llegar.
+Message		(I doubted that very much, but I played along.)	(Lo dudaba mucho, pero le seguí el juego).
+Message	Shido	"Gotcha. Um, so for today's date, why don't we
+see a movie?"	"Entiendo. Um, así que para la cita de hoy,
+¿por qué no vemos una película?"
+Message	Shido	Remember, the one you told me about before?	¿Recuerdas de la que me hablaste antes?
+Message	Origami	"Yes. It was the day you were also on a date with
+Tohka Yatogami."	"Sí. Fue el día que también tenías
+una cita con Tohka Yatogami."
+Message	Shido	*grunt*! Sorry... That was a crazy day.	¡*gruñido*! Lo siento... Fue un día de locos.
+Message		"(That day, I had to go on three dates at the
+same time. I barely made it out alive.)"	"(Ese día, tuve que acudir a tres citas al
+mismo tiempo. Apenas salí con vida)."
+Message	Origami	"It's fine. You had your reasonings. It couldn't
+be helped. What matters is today's date, not
+the past."	"No pasa nada. Tenías tus razonamientos.
+No se podía evitar. Lo que importa es
+la fecha de hoy, no el pasado."
+Message	Shido	Yup. Point taken.	Sí. Entendido.
+Message	Origami	"Promise me something. You're going to be here
+with me, and you won't go anywhere else."	"Prométeme algo. Vas a estar aquí conmigo,
+y no irás a ninguna otra parte."
+Message	Shido	Mm. Got it! I promise. Let's go.	Mm. ¡Lo tengo! Te lo prometo. Vámonos.
+Message	Origami	...	...
+Message		"(We walked in the direction of Tengu Cinema,
+which was close to the train station.)"	"(Caminamos en dirección al cine Tengu,
+que estaba cerca de la estación de tren)."
+Message	Shido	Um, Origami-san? What are you doing?	Um, ¿Origami-san? ¿Qué estás haciendo?
+Message	Origami	Locking arms with you.	Cerrando los brazos contigo.
+Message	Shido	Oh... Thought so.	Eso pensaba.
+Message		"(Since it's a date, locking arms is normal.
+But I can feel Origami's chest on my arm, and
+it makes me sweat uncontrollably.)"	"(Como es una cita, cruzarse de brazos es normal.
+Pero noto el pecho de Origami en mi brazo y
+me hace sudar sin control)."
+Message	Origami	Are you hot?	¿Tienes calor?
+Message	Shido	Huh?	¿Eh?
+Message	Origami	You're sweating profusely.	Estás sudando profusamente.
+Message	Shido	"Um. Yeah, it's hot, I guess. It is summer after
+all. Aha. Ahahaha..."	"Um. Sí, hace calor, supongo. Es verano
+después de todo. Aha. Ahahaha..."
+Message	Origami	"I see. Should we hurry? The movie theater will
+be cool."	Ya veo. ¿Nos damos prisa? El cine será genial.
+Message	Shido	Okay...	Bueno...
+Message		(It's Saturday. Just as I thought, it's packed.)	(Es sábado. Tal como pensaba, está lleno).
+Message	Shido	Oh, Origami. Mind if I choose the movie?	Oh, Origami. ¿Te importa si elijo la película?
+Message	Origami	"I don't mind. As long as I'm with you, I can
+see anything."	"No me importa. Mientras esté contigo,
+puedo ver cualquier cosa."
+Message	Shido	"Gotcha. Cool. Then, I'm going to buy the tickets,
+so you can pick out the refreshments."	"Entiendo. genial. Entonces, voy a comprar las
+entradas, para que puedas elegir los refrescos."
+Message	Origami	Roger.	Entendido.
+Message		"(I already researched what to watch. I know
+which tickets to buy.)"	"(Ya he investigado qué ver.
+Ya sé qué entradas comprar)."
+Message		"(Origami's smart, so I think it's better to
+watch a comedy.)"	"(Origami es inteligente, así que creo
+que es mejor ver una comedia)."
+Message		"(I got in line for the box office, and got two
+tickets.)"	"(Me puse a la cola de la taquilla y
+conseguí dos entradas)."
+Message		"(It's a hilarious comedy called ""Mister Norman,
+so this should be great.)"""	"(Es una comedia divertidísima llamada
+""Mister Norman"", así que debería ser genial)."
+Message		"(We'll watch a dumb flick together and be a
+normal couple. Laughing together, crying
+together. This'll make up for last time!)"	"(Veremos juntos una película tonta y seremos una
+pareja normal. Reiremos juntos, lloraremos
+juntos. Esto compensará la última vez)."
+Message	Shido	Hey, Origami! Sorry for the wait.	¡Hola, Origami! Disculpa la espera.
+Message	Origami	No problem. I purchased our drinks and snacks.	Sin problemas. Compré nuestras bebidas y aperitivos.
+Message	Shido	"Right on. I hear they're letting people in
+already, so let's head inside."	"De acuerdo. He oído que ya están dejando
+entrar a la gente, así que vamos dentro."
+Message	Origami	...	...
+Message		"(Alone with Origami. Although our row was
+relatively far in the back, we found a couple of
+seats in the center and watched ""Mister Norman."")"	"(Solo con Origami. Aunque nuestra fila estaba
+relativamente atrás, encontramos un par de
+asientos en el centro y vimos ""Mister Norman"")."
+Message		"(From the get-go, people laughed their butts
+off, but Origami didn't react at all. Maybe if
+we keep watching...)"	"(Desde el principio, la gente se partía de risa,
+pero Origami no reaccionó en absoluto.
+Tal vez si seguimos mirando...)"
+Message		"(As the end credits rolled, people in the
+audience began discussing the movie amongst
+themselves. I thought it was hilarious.)"	"(Cuando terminaron los créditos, los espectadores
+empezaron a comentar la película entre ellos.
+Me pareció divertidísimo)."
+Message		"(I kept an eye on Origami throughout the movie,
+but she didn't snicker even once. She only moved
+during the two-hour movie to sip her drink.)"	"(No perdí de vista a Origami durante toda la película,
+pero no se rió ni una sola vez. Sólo se movió durante
+las dos horas de película para dar sorbos a su bebida)."
+Message		"(I've no idea if Origami had a good time or not,
+but we followed the rest of the audience out to
+hit the lobby.)"	"(No tengo ni idea de si Origami se lo pasó
+bien o no, pero seguimos al resto del
+público a la salida para ir al vestíbulo)."
+Message	Shido	O-Origami?	¿O-Origami?
+Message	Origami	Mm...?	¿Mm...?
+Message	Shido	Um, how'd you like the movie? Did you like it?	¿Qué te pareció la película? ¿Te gustó?
+Message	Origami	It was fun. Very fun.	Fue divertido. Muy divertido.
+Message		"(Whoa? Did she say ""very""? Why didn't it
+seem like she had fun?)"	"(¿Whoa? ¿Dijo ""muy""? ¿Por qué no
+parecía que se divirtiera?)"
+Message	Shido	"I see... You didn't seem to enjoy it much, so
+I thought I picked the wrong movie."	"Ya veo... Parece que no te gustó mucho,
+así que pensé que me había equivocado de película."
+Message	Origami	"The movie itself was fine, but next time, a
+horror movie would be more entertaining."	"La película en sí estuvo bien, pero la próxima vez,
+una de terror sería más entretenida."
+Message	Shido	What?! Origami, you like horror movies?	¡¿Qué?! Origami, ¿te gustan las películas de terror?
+Message	Origami	"Not necessarily, but horror movies give me
+more chances..."	"No necesariamente, pero las películas
+de terror me dan más oportunidades..."
+Message	Shido	Chances?	¿Probabilidades?
+Message	Origami	"Horror movies are packed with jump scares.
+Therefore, I could jump on you when I'm startled."	"Las películas de terror están llenas de sustos.
+Por lo tanto, podría saltar sobre ti cuando me asuste."
+Message	Shido	Seriously?	¿En serio?
+Message	Origami	Not your thing?	¿No es lo tuyo?
+Message	Shido	No, it's not that. Anyways, let's get out of here.	No, no es eso. De todos modos, salgamos de aquí.
+Message	Origami	...	...
+Message		"(*sigh*... Guess a comedy wasn't the right
+choice. I was so confident...)"	"(*suspiro*... Supongo que una comedia no era
+la elección correcta. Estaba tan seguro...)"
+Message		(Well, I guess it's not that simple. *sigh*...)	(Bueno, supongo que no es tan sencillo. *suspiro*...)
+Message		"(Origami and I trotted through the shopping
+district towards the path to Takadai Park.)"	"(Origami y yo trotamos por el distrito comercial
+hacia el camino del parque Takadai)."
+Message		"(On our walk, I contemplated more ways
+I could make Origami smile.)"	"(Durante nuestro paseo, contemplé más
+formas de hacer sonreír a Origami)."
+Message		"(However, I don't think it's something I can
+do in a snap. Decisions, decisions...)"	"(Sin embargo, no creo que sea algo que pueda
+hacer en un santiamén. Decisiones, decisiones...)"
+Message		"(Will Origami not rest until the Spirits are
+destroyed? Has time stopped for her...?)"	"(¿No descansará Origami hasta que los Espíritus sean
+destruidos? ¿Se ha detenido el tiempo para ella...?)"
+Message		"(That can't be, but... what else could I do for
+her?)"	"(No puede ser, pero... ¿qué otra cosa
+podía hacer por ella?)"
+Message		"(Crap! Origami's right next to me, and I've
+been so quiet because I've been stuck in my
+head.)"	"(¡Mierda! Origami está justo a mi lado,
+y he estado tan callado porque he
+estado metido en mi cabeza)."
+Message	Origami	Shido, what's the matter?	Shido, ¿qué pasa?
+Message	Shido	Huh?	¿Eh?
+Message	Origami	"Is something stressing you out? You don't
+seem to be having fun."	"¿Hay algo que te estresa?
+Parece que no te diviertes."
+Message	Shido	Oh, sorry...	Oh, perdón...
+Message	Origami	Should I take your apology as an admission?	¿Debo tomar tus disculpas como una admisión?
+Message	Shido	No, it's not that.	No, no es eso.
+Message	Origami	Are you not having fun with me?	¿No te diviertes conmigo?
+Message	Shido	I didn't say that!	¡Yo no he dicho eso!
+Message	Origami	It's written on your face.	Lo llevas escrito en la cara.
+Message	Shido	...! Well, right back at you!	¡...! ¡Bueno, lo mismo digo!
+Message	Origami	What do you mean?	¿A qué te refieres?
+Message	Shido	"I wanted to make you smile, so I took you to
+a funny movie, but you never laughed once, so..."	"Quería hacerte sonreír, así que te llevé a ver una película
+divertida, pero no te reíste ni una sola vez, así que..."
+Message	Origami	"Even if I didn't smile, I enjoyed watching the
+movie with you. I was content. Is that not
+enough?"	"Aunque no sonriera, disfruté viendo
+la película contigo. Estaba contenta.
+¿No es suficiente?"
+Message	Shido	! That's not... It's not, but...!	¡! Eso no es... ¡No lo es, pero...!
+Message	Origami	But...?	Pero...
+Message	Shido	No, sorry. I was acting selfish...	No, lo siento. Estaba actuando egoístamente...
+Message	Origami	I see.	Ya veo.
+Message	Shido	...	...
+Message	Origami	"Being with you makes me happy. I feel safe.
+I always enjoy spending time with you, Shido."	"Estar contigo me hace feliz. Me siento seguro.
+Siempre disfruto pasando tiempo contigo, Shido."
+Message	Shido	Origami...	Origami...
+Message	Origami	But I can't smile...	Pero no puedo sonreír...
+Message	Shido	Is it because of the Spirits...?	¿Es por los Espíritus...?
+Message	Origami	...	...
+Message	Shido	...	...
+Message	Origami	"If you wait for me, after I've vanquished the
+Spirits, I—"	"Si me esperas, después de vencer
+a los Espíritus, yo..."
+Message	Shido	You can't do that!	¡No puedes hacer eso!
+Message	Origami	"Why? The Spirits. Are you attached to those
+monsters?"	"¿Por qué? Los Espíritus.
+¿Estás unido a esos monstruos?"
+Message	Shido	Yeah...	Sí...
+Message	Origami	I do not understand...	No entiendo...
+Message	Shido	It's true that Spirits pose some danger, but—	Es cierto que los Espíritus suponen cierto peligro, pero...
+Message	Origami	"The Spirits have taken everything dear to me.
+My father, my mother, and now... Shido."	"Los Espíritus se han llevado todo lo que me es
+querido. Mi padre, mi madre, y ahora... Shido."
+Message	Shido	"The Spirits haven't stolen me. You're dear to
+me too, Origami!"	"Los Espíritus no me han robado.
+¡Yo también te quiero, Origami!"
+Message	Origami	Then choose me over the Spirits!	¡Entonces elígeme a mí antes que a los Espíritus!
+Message	Shido	...I-I can't do that.	...no puedo hacer eso.
+Message	Origami	...	...
+Message	Shido	I don't want to hurt Tohka, either.	Yo tampoco quiero hacerle daño a Tohka.
+Message	Origami	...	...
+Message	Shido	"I know I'm being selfish, but as much as it
+means something to you—maybe even more—
+I don't want you to hurt anyone..."	"Sé que estoy siendo egoísta, pero por mucho que
+signifique algo para ti -quizá incluso más-
+no quiero que hagas daño a nadie..."
+Message	Shido	"So if you're planning to fight the Spirits, I
+have to stop you."	"Así que si planeas luchar contra los Espíritus,
+tengo que detenerte."
+Message	Origami	...	...
+Message	Shido	"Origami, there's kindness in you. You're smart,
+true to yourself. Sure, you've got your flaws,
+but the real you is considerate of others."	"Origami, hay bondad en ti. Eres inteligente, fiel a ti
+misma. Claro, tienes tus defectos, pero tu
+verdadero yo es considerado con los demás."
+Message	Shido	How could you be fine with hurting others?!	"¡¿Cómo puedes estar de acuerdo
+con hacer daño a los demás?!"
+Message	Origami	That's untrue. You're overestimating me.	Eso es falso. Me estás sobreestimando.
+Message	Shido	No, it's true. I know it is.	No, es verdad. Sé que lo es.
+Message	Origami	No, it's not. Do not put words in my mouth.	No, no lo es. No pongas palabras en mi boca.
+Message	Shido	"So you're telling me you don't feel anything
+when you're fighting a Spirit?! When you
+hurt them?!"	"¡¿Así que me estás diciendo que no sientes nada
+cuando luchas contra un Espíritu?!
+¡¿Cuando les haces daño?!"
+Message	Origami	My heart feels nothing.	Mi corazón no siente nada.
+Message	Shido	That's a lie!	¡Eso es mentira!
+Message	Origami	No, it's not!	¡No, no lo es!
+Message	Shido	Why are you so stubborn?!	¡¿Por qué eres tan terco?!
+Message	Origami	What?! Th-That's because you...	¡¿Qué?! Eso es porque tú...
+Message	Shido	Don't put this on me!	¡No me pongas esto!
+Message	Origami	"I... I hate the Spirits! That's why I joined the
+AST! To defeat them... To avenge the murder
+of my parents!"	"I... ¡Odio a los Espíritus! ¡Por eso me uní a la AST!
+Para derrotarlos... ¡Para vengar el asesinato
+de mis padres!"
+Message	Shido	...!	¡...!
+Message	Origami	"This is all... I've lived for! Since that fateful
+day, five years ago!"	"Esto es todo... ¡Para lo que he vivido! ¡Desde
+ese fatídico día, hace cinco años!"
+Message	Origami	"So, until I've enacted my vengeance, I cannot
+laugh. No, I mustn't laugh!"	"Así que, hasta que no haya ejecutado mi venganza,
+no puedo reír. ¡No, no debo reír!"
+Message	Shido	Origami...	Origami...
+Message	Origami	If you so wish, Shido... I, too, want to smile.	Si así lo deseas, Shido... Yo también quiero sonreír.
+Message	Shido	Huh...?	¿Eh...?
+Message	Origami	"I want to smile. I promise to try, for you...
+Only for you."	"Quiero sonreír. Prometo intentarlo,
+por ti... Sólo por ti."
+Message	Shido	That's not it, Origami.	No es eso, Origami.
+Message	Origami	Huh...?	¿Eh...?
+Message	Shido	Origami, you have to smile for yourself.	Origami, tienes que sonreír por ti misma.
+Message	Shido	And I'll do anything to make that happen.	Y haré lo que sea para que eso ocurra.
+Message	Shido	"I mean, you joined AST... because you didn't
+want anyone to suffer like you have, right?"	"Quiero decir, te uniste a AST... porque no querías
+que nadie sufriera como tú, ¿verdad?"
+Message	Origami	...!	¡...!
+Message	Shido	"Right? That's how selfless you are. I just
+don't think you should suppress your smile
+anymore."	"¿Verdad? Así de desinteresada eres.
+No creo que debas reprimir más tu sonrisa."
+Message	Shido	So, Origami, I won't ever give up, okay?	Así que, Origami, nunca me rendiré, ¿de acuerdo?
+Message	Origami	Shido...	Shido...

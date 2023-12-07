@@ -1,14 +1,21 @@
 Operator	Comment	Key	Translation
 Message		(I still have some time. Who should I go on a date with?)	(Aún tengo tiempo. ¿Con quién debería tener una cita?)
-Message		(You know... I keep seeing Rinne's face in my head lately.)	(Sabes... últimamente no paro de ver la cara de Rinne en mi cabeza).
+Message		(You know... I keep seeing Rinne's face in my head lately.)	"(Sabes... últimamente no paro de ver la cara
+De Rinne en mi cabeza)."
 Message		(Why am I so worried about her?)	(¿Por qué estoy tan preocupado por ella?)
 Message		(Alright, I think I should just visit her.)	(De acuerdo, creo que debería visitarla.)
 Message		"(Hm? I pressed the intercom button, but...
-I'm really nervous. I can't find the will to go in...)"	(¿Hm? He pulsado el botón del intercomunicador, pero...  Estoy muy nerviosa. No encuentro la voluntad de entrar...)
+I'm really nervous. I can't find the will to go in...)"	"(¿Hm? He pulsado el botón del intercomunicador,
+pero...  Estoy muy nerviosa. No encuentro la
+Voluntad de entrar...)"
 Message		"(You're just visiting your childhood friend, Shido.
-Why are you so nervous?! This shouldn't be so hard...)"	(Sólo estás visitando a tu amigo de la infancia, Shido.  ¡¿Por qué estás tan nervioso?! Esto no debería ser tan difícil...)
+Why are you so nervous?! This shouldn't be so hard...)"	"(Sólo estás visitando a tu amigo de la infancia, Shido.
+¡¿Por qué estás tan nervioso?!
+Esto no debería ser tan difícil...)"
 Message		"(Ah, come on. There's no point in overthinking it.
-If I'm so worried about Rinne, I should just go talk to her!)"	(Ah, vamos. No tiene sentido darle tantas vueltas.  Si estoy tan preocupado por Rinne, ¡debería ir a hablar con ella!)
+If I'm so worried about Rinne, I should just go talk to her!)"	"(Ah, vamos. No tiene sentido darle tantas vueltas.
+Si estoy tan preocupado por Rinne,
+¡debería ir a hablar con ella!)"
 Choice		Press the intercom	Pulse el intercomunicador
 Choice		Don't press the intercom	No pulses el interfono
 Message	Shido	...	...
@@ -17,44 +24,58 @@ Message	Shido	Is anyone home?	¿Hay alguien en casa?
 Message	Shido	Excuse me! It's your neighbor, Itsuka!	¡Con permiso! ¡Es tu vecino, Itsuka!
 Message	Shido	...	...
 Message	Shido	Maybe I'll just take a look inside...	Quizá eche un vistazo dentro...
-Message		(We're like family. I don't need to be so reserved, right?)	(Somos como de la familia. No necesito ser tan reservada, ¿verdad?)
+Message		(We're like family. I don't need to be so reserved, right?)	"(Somos como de la familia. No necesito ser tan
+Reservado, ¿verdad?)"
 Message	Shido	Excuse me!	¡Con permiso!
 Message	Shido	Heeey! Riiinne? Anybody home?	¡Hola! ¿Riiinne? ¿Hay alguien en casa?
 Message	Shido	What?! What... is this?	¡¿Qué?! ¿Qué... es esto?
 Message	Shido	"I-It's not like... she moved, right?
 There's no way she could've... not so
-quickly. She never mentioned moving either, so..."	No es como... si se hubiera movido, ¿verdad?  No hay forma de que pudiera... no tan rápido. Ella nunca mencionó mudarse tampoco, así que...
+quickly. She never mentioned moving either, so..."	"No es como... si se hubiera movido, ¿verdad?No hay
+forma de que pudiera... no tan rápido. Ella nunca
+Mencionó mudarse tampoco, así que..."
 Message	Shido	Huh? Wait a second...	¿Eh? Espera un segundo...
 Message	Shido	"T-This room... it's similar, isn't it?
 To my house?! No, there's no mistake.
-It looks just like it..."	E-Esta habitación... es parecida, ¿verdad?  ¡¿A mi casa?! No, no hay ningún error.  Se parece mucho...
+It looks just like it..."	"E-Esta habitación... es parecida, ¿verdad?
+¡¿A mi casa?! No, no hay ningún error.
+Se parece mucho..."
 Message	Shido	"Wait... I came over to play all the time as a kid,
-right? Why can't I remember any of that?"	Espera... Yo venía a jugar todo el tiempo cuando era niño, ¿verdad? ¿Por qué no puedo recordar nada de eso?
+right? Why can't I remember any of that?"	"Espera... Yo venía a jugar todo el tiempo cuando era
+niño, ¿verdad? ¿Por qué no puedo recordar
+Nada de eso?"
 Message	Shido	How long... has she been living here?	¿Cuánto tiempo... lleva viviendo aquí?
 Message	Shido	Ngh! What the...? My head... hurts...	¡Ngh! ¿Pero qué...? Me... duele la cabeza...
 Message	???	Your future is not here...	Tu futuro no está aquí...
 Message	Shido	"Huh? Who... who are you?
-U-Ugh, my... conscious...ness..."	¿Eh? ¿Quién... quién eres?  U-Ugh, mi... consciente...ness...
+U-Ugh, my... conscious...ness..."	"¿Eh? ¿Quién... quién eres? U-Ugh, mi…
+Conciencia…"
 Message	Shido	Ah...	Ah...
 Message	???	......	......
-Message		(I thought I would, but I think I won't after all.)	(Pensé que lo haría, pero creo que no lo haré después de todo).
+Message		(I thought I would, but I think I won't after all.)	"(Pensé que lo haría, pero creo que no lo
+Haré después de todo)."
 Message		"(In the past, barging in like this wouldn't
-have been an issue, but now... I'm not so sure.)"	(En el pasado, irrumpir así no habría sido un problema, pero ahora... no estoy tan seguro).
+have been an issue, but now... I'm not so sure.)"	"(En el pasado, irrumpir así no habría sido un
+Problema, pero ahora... no estoy tan seguro)."
 Message	Rinne	Shido? What are you doing here?	¿Shido? ¿Qué haces aquí?
 Message	Shido	Hyeek! R-Rinne?! How long have you been there?	¡Hyeek! ¡¿R-Rinne?! ¿Cuánto tiempo llevas ahí?
-Message	Rinne	Um? I just got home. I was buying things for dinner.	¿Eh? Acabo de llegar a casa. Estaba comprando cosas para la cena.
+Message	Rinne	Um? I just got home. I was buying things for dinner.	"¿Eh? Acabo de llegar a casa. Estaba comprando
+Cosas para la cena."
 Message	Shido	Oh. I see.	Oh. Ya veo.
 Message	Rinne	Did you need something?	¿Necesitabas algo?
 Message	Shido	N-No, I just... wanted to talk to you...	N-No, yo sólo... quería hablar contigo...
 Message	Rinne	"You did? Is it really okay for you to be spending
-time with me like this?"	¿Lo hiciste? ¿De verdad está bien que pases tiempo conmigo así?
+time with me like this?"	"¿Lo hiciste? ¿De verdad está bien que pases
+Tiempo conmigo así?"
 Message	Shido	Of course it is. Why wouldn't it be?	Claro que lo es. ¿Por qué no iba a serlo?
 Message	Rinne	I don't know... Well, what did you want to talk about?	No sé... Bueno, ¿de qué querías hablar?
 Message	Shido	"Well... um... sorry. I guess I didn't have
-anything specific in mind."	Bueno... um... lo siento. Supongo que no tenía nada específico en mente.
+anything specific in mind."	"Bueno... um... lo siento. Supongo que no tenía
+Nada específico en mente."
 Message	Rinne	Goodness, Shido. You're always like this.	Dios mío, Shido. Siempre eres así.
 Message	Shido	"I'm sorry for bothering you. Okay, well I don't
-want to keep you. I'll head home now."	Siento haberte molestado. Bueno, no quiero entretenerte. Me iré a casa ahora.
+want to keep you. I'll head home now."	"Siento haberte molestado. Bueno, no quiero
+Entretenerte. Me iré a casa ahora."
 Message		(What am I even doing?)	(¿Qué estoy haciendo?)
 Message	Rinne	Okay, see you later, Shido. I'll come by to make dinner.	Vale, hasta luego, Shido. Iré a hacer la cena.
 Message	Shido	Alright, we'll be waiting.	Muy bien, estaremos esperando.

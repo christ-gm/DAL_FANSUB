@@ -1,6 +1,6 @@
 Operator	Comment	Key	Translation
-Choice		Start from the prologue.	Start from the prologue.
-Choice		Skip the prologue.	Skip the prologue.
+Choice		Start from the prologue.	Empezar desde el prologo.
+Choice		Skip the prologue.	Saltarse el prologo.
 Message		"(The moment I opened the door to the rooftop,
 I knew it was already starting. I felt my skin
 tingle from the tense air.)"	"(En el momento en que abrí la puerta de la azotea,
@@ -26,8 +26,9 @@ body charged at me.)"	"(La luz fantasmal del cuerpo de Tohka
 cargó contra mí)."
 Message	Shido	*Grunt*!	*¡Grunt*!
 Message		"(In that moment, an intense gravity tightened my
-lungs, as if I were plummeting deep into the sea.)"	"(En ese momento, una intensa gravedad me apretó los pulmones, como si cayera en picado al mar.
-pulmones, como si cayera en picado a las profundidades del mar)."
+lungs, as if I were plummeting deep into the sea.)"	"(En ese momento, una intensa gravedad me apretó los
+pulmones, como si cayera en picado al mar. pulmones,
+como si cayera en picado a las profundidades del mar)."
 Message		(But I wouldn't stop moving.)	(Pero no dejaría de moverme).
 Message		"(Bearing the weight, I took one step to get
 to Tohka. Then another.)"	"(Soportando el peso, di un paso para llegar
@@ -47,17 +48,17 @@ su magnífico vestido. El sándalo atravesaba el
 suelo mientras ella se aferraba a él, su cuerpo temblando)."
 Message		"(Her beautiful hair was dark as night. A doll-like
 face betrayed signs of pain, as if withstanding
-something severe.)"	"(Su hermoso cabello era oscuro como la noche. Un rostro
-de muñeca delataba signos de dolor, como si hubiera soportado
-algo severo)."
+something severe.)"	"(Su hermoso cabello era oscuro como la noche. Un
+rostro de muñeca delataba signos de dolor, como si
+hubiera soportado algo severo)."
 Message	Shido	Even if you don't want me—	Aunque no me quieras...
 Message		(I slowly approached Tohka, struggling to walk.)	(Me acerco lentamente a Tohka, luchando por caminar).
 Message	Shido	I... I will never let you be alone—	I... Nunca te dejaré sola.
 Message	Tohka	Shido...! I... don't... want to... kill... you!	¡Shido...! ¡Yo... no... quiero... matarte!
 Message		"(Sadness overcame her and she screamed in a way I
 couldn't believe. The aura emanating from her body
-was even stronger than before.)"	"(La tristeza se apoderó de ella y gritó de una manera que yo
-increíble. El aura que emanaba de su cuerpo
+was even stronger than before.)"	"(La tristeza se apoderó de ella y gritó de una manera que
+yo increíble. El aura que emanaba de su cuerpo
 era aún más fuerte que antes)."
 Message	Shido	T-TOHKA!	¡T-TOHKA!
 Message		"(If I faltered even a little, the light would
@@ -80,6 +81,6 @@ Message	Shido	TOHHKAAAAAAAA!	¡TOHHKAAAAAAAAAA!
 Message	Tohka	SHIDOOOOOOOO!	¡SHIDOOOOOO!
 Message		"(As the sound of Tohka's scream rang in my ears,
 my vision turned white, and my consciousness was
-severed.)"	"(Mientras el sonido del grito de Tohka resonaba en mis oídos,
-mi visión se volvió blanca, y mi conciencia fue
-cortada.)"
+severed.)"	"(Mientras el sonido del grito de Tohka resonaba en
+mis oídos, mi visión se volvió blanca, y mi
+conciencia fue cortada.)"

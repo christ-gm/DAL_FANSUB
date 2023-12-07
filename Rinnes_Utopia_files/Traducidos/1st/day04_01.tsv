@@ -1,0 +1,224 @@
+Operator	Comment	Key	Translation
+Message	???	"Shido...et up... How much longer do you plan
+on sleeping?"	"Shido... levántate…
+¿Cuánto tiempo más piensas dormir?"
+Message	Shido	Rinne... Sorry, just a little longer.	Rinne... Lo siento, sólo un poco más.
+Message	???	...!	¡...!
+Message	Shido	OUCH!	¡UCH!
+Message	Kotori	Who you calling Rinne?	¿A quién llamas Rinne?
+Message	Shido	Ouchhhh. Hm? K-Kotori, why?	Ouchhhh. ¿Hm? K-Kotori, ¿por qué?
+Message	Kotori	"How long do you plan on sleeping? Weren't you
+the one who was making breakfast today?"	"¿Cuánto tiempo piensas dormir?
+¿No eras tú quien preparaba hoy el desayuno?"
+Message	Shido	Oh! That's right. Rinne's not coming, huh?	¡Oh! Es verdad. Rinne no viene, ¿eh?
+Message	Kotori	"Not coming? You're the one who told her not
+to come, remember? Jeez, you're trying too hard
+to act cool in front of Rinne."	"¿Que no venga? Tú eres el que le dijo que no viniera,
+¿recuerdas? Jeez, te estás esforzando demasiado
+para actuar cool delante de Rinne."
+Message	Shido	"Well, I mean she may be our childhood friend, but
+we're relying on her too much. Yesterday, she came
+over to make us dinner even though she was busy."	"Bueno, puede que sea nuestra amiga de la infancia,
+pero confiamos demasiado en ella. Ayer vino a
+hacernos la cena aunque estaba ocupada."
+Message	Kotori	...	...
+Message	Shido	"Rinne's the type of person who would break
+her back for other people, and wouldn't say
+no even if she wanted to."	"Rinne es el tipo de persona que se
+rompería la espalda por los demás,
+y no diría que no aunque quisiera."
+Message	Kotori	...Sounds like someone I know.	...suena como alguien que conozco.
+Message	Shido	Hm? Did you say something?	¿Hm? ¿Dijiste algo?
+Message	Kotori	"Nope. So, why are you just standing there?
+Who do you think you are, not even changing?"	"Nop. Entonces, ¿por qué te quedas ahí parado?
+¿Quién te crees que eres, sin siquiera cambiar?"
+Message	Kotori	"Or, do you want your adorable little sister
+to help you? Shido, you're a piece of work."	"¿O quieres que tu adorable hermanita te ayude?
+Shido, eres todo un trabajo."
+Message	Shido	"WHAT?! It's only because I was talking to you
+about Rinne."	"¡¿QUÉ?! Es sólo porque te
+estaba hablando de Rinne."
+Message	Kotori	"I know that. She's my childhood friend, too.
+Anyways, isn't there something you need to
+do right now?"	"Lo sé. También es mi amiga de la infancia.
+De todos modos, ¿no hay algo que
+necesites hacer ahora mismo?"
+Message	Shido	Oh, sorry. I'll make something right now.	Lo siento. Prepararé algo ahora mismo.
+Message	Kotori	That's the way... HEYYYY!	Ese es el camino... ¡HEYYYY!
+Message	Shido	Wh-What's wrong, Kotori?!	¡¿Qu-Qué pasa, Kotori?!
+Message	Kotori	"Jeez, you're such a slacker. Don't you know that
+it's starting?"	"Vaya, eres un vago.
+¿No sabes que está empezando?"
+Message	Shido	Huh?! What's starting?!	¡¿Eh?! ¡¿Qué está empezando?!
+Message	Kotori	The morning horoscope, DUH!	¡El horóscopo de la mañana, DUH!
+Message		"(Despite being in her black ribbon state,
+Kotori's still Kotori...)"	"(A pesar de estar en su estado de cinta negra,
+Kotori sigue siendo Kotori...)"
+Message	Shido	All right. I'll whip up something good.	De acuerdo. Prepararé algo bueno.
+Message	Shido	"Hmm, what do we have? I guess I'll use
+whatever."	"Hmm, ¿qué tenemos?
+Supongo que usaré lo que sea."
+Message	Shido	All right. This looks good.	De acuerdo. Esto se ve bien.
+Message	Shido	"Kotori, were you able to watch the horoscope?
+How's your luck looking today?"	"Kotori, ¿has podido ver el horóscopo?
+¿Cómo está tu suerte hoy?"
+Message	Kotori	Hmm... It's all right.	Hmm... Está bien.
+Message	Shido	"I see. HEY! Are you eating candy before
+breakfast again?!"	"Ya veo. ¡HEY! ¡¿Estás comiendo dulces
+antes del desayuno otra vez?!"
+Message	Kotori	Who cares? I'll eat breakfast, too.	¿A quién le importa? Yo también desayunaré.
+Message	Shido	*sigh*...	*suspiro*...
+Message	Kotori	"You know, if you want your brain to work,
+you need sugar. I'm just getting the proper
+sugar intake."	"Sabes, si quieres que tu cerebro funcione,
+necesitas azúcar. Sólo estoy recibiendo
+la ingesta adecuada de azúcar."
+Message	Kotori	Unlike you, Shido, I have much to think about.	A diferencia de ti, Shido, yo tengo mucho en qué pensar.
+Message	Shido	I have no idea what you're talking about.	No tengo ni idea de lo que estás hablando.
+Message	Kotori	You just lack the ability to understand.	Simplemente te falta capacidad de comprensión.
+Message	Shido	"I see. Then, why didn't you say so from the
+get-go?!"	"Ya veo. Entonces, ¿por qué no lo
+dijiste desde el principio?"
+Message	Kotori	"Yappy men aren't attractive. You know that,
+right? Oh, look. The Tengu Tower is on TV.
+How strange."	"Los hombres felices no son atractivos. Lo sabes,
+¿verdad? Oh, mira. La Torre Tengu está en la tele.
+Qué extraño."
+Message	Shido	"Tengu Tower, huh? You're right. Ever since the
+Neo Tengu Tower was built, no one ever mentions
+the original."	"Torre Tengu, ¿eh? Tienes razón. Desde que se
+construyó la Torre Neo Tengu,
+nadie menciona la original."
+Message	Kotori	"Man, talk about stolen thunder. Not like it
+was much of a tourist spot to begin with."	"Hombre, hablando de truenos robados. Para empezar,
+no es que fuera un lugar muy turístico."
+Message	Shido	"Right. I think I went back in the day, but
+I don't even remember what was there."	"Sí, claro. Creo que fui en su día, pero ni
+siquiera recuerdo lo que había."
+Message	Kotori	Huh? Tengu Tower is a monument, right?	¿Eh? La Torre Tengu es un monumento, ¿verdad?
+Message	Shido	What? Was it?	¿Qué? ¿Lo es?
+Message	Kotori	"It used to be popular, remember? There was
+the myth that if you confess your love in front
+of the monument, you'll be together forever."	"Antes era popular, ¿recuerdas? Existía el mito de
+que si confesabas tu amor delante del monumento,
+estarían juntos para siempre."
+Message	Shido	Hmm...	Hmm...
+Message		"(Something feels off. That monument. Hmm...
+I guess I can find the time to check it out
+soon.)"	"(Algo no encaja. Ese monumento. Hmm…
+Supongo que pronto encontraré tiempo
+para comprobarlo)."
+Message	Shido	"Oh. The water is boiling. I'll prepare
+breakfast in no time."	"Oh. El agua está hirviendo. Prepararé
+el desayuno enseguida."
+Message	Yoshino	G...! Good morning, Shido-san...!	¡B…! ¡Buenos días, Shido-san...!
+Message	Yoshinon	Yooo-hooo Shido-kun! Morning!	¡Yoo-hooo Shido-kun! ¡Buenos días!
+Message	Shido	"Yo, good morning Yoshino, Yoshinon. I'm
+preparing breakfast, so take a seat."	"Buenos días Yoshino, Yoshinon. Estoy preparando
+el desayuno, así que toma asiento."
+Message	Yoshino	U...Um! L-Let me help!	¡U...Um! ¡Déjame ayudarte!
+Message	Shido	What? You?	¿Qué? ¿Tú?
+Message	Yoshinon	Rinne isn't coming over today, right?	Rinne no vendrá hoy, ¿verdad?
+Message	Shido	Oh, right...	Oh, cierto...
+Message	Yoshinon	Yoshino thought you might have difficulty, so\nshe's been worried all morning. You just\nrecovered, so we didn't know if you'd be okay!	"Yoshino pensó que podrías tener dificultades, así que ha
+estado preocupada toda la mañana. ¡Acabas de
+recuperarte, así que no sabíamos si estarías bien!"
+Message	Yoshino	...!	¡...!
+Message	Shido	"I-I see. Then, I guess it'd be nice if you can
+help me."	"Ya veo. Entonces, supongo que
+estaría bien que me ayudaras."
+Message	Yoshino	O-Okay! I-I'll try my best!	¡Vale! ¡Intentaré hacerlo lo mejor que pueda!
+Message	Yoshinon	Isn't that nice, Yoshino? I'm sure Shido-kun's\nheart will melt when he sees how adorably\nyou cook!	"¿No es bonito, Yoshino? ¡Estoy segura de que el
+corazón de Shido-kun se derretirá cuando
+vea lo adorablemente que cocinas!"
+Message	Shido	"H-Hey, Yoshinon! When you say that, it makes
+it harder for Yoshino to help me."	"¡H-Hey, Yoshinon! Cuando dices eso, haces
+más difícil que Yoshino me ayude."
+Message	Yoshinon	Mmm, I wonder. I don't think so.	Mmm, me pregunto. No lo creo.
+Message	Yoshino	...	...
+Message	Shido	"U-Uh, let's get started. Yoshino, could you pass
+me the soy sauce?"	"U-Uh, empecemos. Yoshino,
+¿podrías pasarme la salsa de soja?"
+Message	Yoshino	O-Okay!	¡Vale!
+Message	Yoshino	Oh!	¡Oh!
+Message	Yoshinon	Yikes!	¡Caramba!
+Message	Shido	"A-Are you okay, Yoshino?! Did it get on your
+clothes?!"	"¡¿Estás bien, Yoshino?!
+¡¿Te manchó la ropa?!"
+Message	Yoshino	I... I'm sorry...	L… Lo siento...
+Message	Shido	"This is nothing. Were your clothes stained?
+It's pretty tough to remove soy sauce."	"Esto no es nada. ¿Tu ropa estaba manchada?
+Es bastante difícil quitar la salsa de soja."
+Message	Shido	"Good, seems like you're fine. It's okay to be
+nervous now and then."	"Bien, parece que estás bien. Está bien
+estar nervioso de vez en cuando."
+Message	Yoshinon	Yoshino! Don't worry!	¡Yoshino! ¡No te preocupes!
+Message	Yoshino	I... I'll wipe it now!	L… ¡Lo limpiaré ahora!
+Message	Shido	"Don't worry. Let me. Yoshino, would you mind
+grabbing some plates for me?"	"No te preocupes. Déjame a mí. Yoshino,
+¿te importaría traerme algunos platos?"
+Message	Yoshino	O-Okay!	¡Vale!
+Message	Shido	"Y-Yoshino?! Are you okay?! A-Are you hurt
+at all?!"	"¡¿Y-Yoshino?! ¡¿Estás bien?!
+¡¿Estás herida?!"
+Message	Yoshino	W...Waaaah!	¡W...Waaaah!
+Message	Yoshinon	OHHH! Shido, now you've done it!	¡OHHH! ¡Shido, ahora lo has hecho!
+Message	Shido	What?! Is it my fault?	¡¿Qué?! ¿Es culpa mía?
+Message		"(I guess it is, huh? Yoshino can only use one
+hand. I shouldn't have asked for her help.)"	"(Supongo que sí, ¿eh? Yoshino sólo puede usar
+una mano. No debería haberle pedido ayuda)."
+Message		(Oh, seems like the pot's boiling.)	(Oh, parece que la olla está hirviendo.)
+Message	Shido	O-Oh, I know! Hey, Yoshino...?	O-Oh, ¡lo sé! Eh, ¿Yoshino...?
+Message	Yoshino	Wha...?	Qu…?
+Message	Shido	"This pot seems to be boiling, so could you open
+the lid and check?"	"La olla parece estar hirviendo,
+¿podrías abrir la tapa y comprobarlo?"
+Message	Yoshino	Oh. Th...The lid over there?	Oh. ¿La tapa de allí?
+Message	Shido	"Yeah. Oh! It's hot. I turned off the fire, but be
+careful, okay?"	"Sí. ¡Oh! Está caliente. He apagado
+el fuego, pero ten cuidado, ¿vale?"
+Message	Yoshino	O...Okay...	O...Okay...
+Message		"(This pot is made of metal, which means
+you need an oven mitt to take the lid off, but
+if my assumption is correct...)"	"(Esta olla es de metal, lo que significa que
+necesitas un guante de cocina para quitar
+la tapa, pero si mi suposición es correcta...)."
+Message	Yoshinon	HOT! IT'S HOT! YOSHINO! HURRY HURRY!	"¡CALIENTE! ¡ESTÁ CALIENTE!
+¡YOSHINO! ¡CORRE, CORRE!"
+Message		(All right! Yoshino used Yoshinon as a glove!)	(¡Muy bien! ¡Yoshino usó a Yoshinon como guante!)
+Message	Yoshino	O...Okay!	¡Vale!
+Message	Shido	"Good job, Yoshino! You can just place the
+lid there!"	"¡Buen trabajo, Yoshino!
+¡Puedes colocar la tapa ahí!"
+Message	Yoshino	O-Okay! OOOOO...Over here?!	O-Okay, PPPPP… ¡¿Por aquí?!
+Message	Shido	Yeah! There is fine!	¡Sí! ¡Está bien!
+Message	Yoshino	...! I-It seems to be boiling well!	¡...! ¡Parece que hierve bien!
+Message	Shido	Oh! Good job, Yoshino!	¡Oh! ¡Buen trabajo, Yoshino!
+Message	Yoshino	It's all thanks to Yoshinon... for being there!	Todo gracias a Yoshinon... ¡por estar ahí!
+Message	Shido	"I think it was a good team effort between
+you and Yoshinon."	"Creo que fue un buen trabajo de
+equipo entre tú y Yoshinon."
+Message	Yoshinon	Ahahaha. Yoshino can do whatever she\nputs her mind to. Ahh, that was so hot.	"Ahahaha. Yoshino puede hacer lo que se
+le ocurra. Ahh, eso fue tan caliente."
+Message	Yoshino	"S...Sorry, Yoshinon! Shido-san... Th-Thank
+you... so much."	"L... ¡Lo siento, Yoshinon! Shido-san…
+Muchas gracias."
+Message	Yoshinon	I guess this is what Yoshino and Yoshinon\nare made of, right? Aren't we amazing?	"Supongo que de esto están hechas Yoshino y Yoshinon,
+¿verdad? ¿No somos increíbles?"
+Message	Shido	"Y-Yeah... It was amazing. I'm glad you didn't
+get burned. Good job, Yoshinon!"	"Sí... fue increíble. Me alegro de que no
+te quemaras. ¡Buen trabajo, Yoshinon!"
+Message	Yoshinon	Aw, shucks. You sure know how to flatter.\nWhat do you want, since you're egging me on\nso much?	"Ay, caray. Sí que sabes halagar. ¿Qué quieres,
+ya que me estás incitando tanto?"
+Message	Shido	"Hm. Well, if this is what you're made of, do
+you think you could put all of the food into
+the bento box? Can you do it, Yoshino?"	"Hm. Bueno, si esto es de lo que estás hecho,
+¿crees que podrías meter toda la comida en
+la caja bento? ¿Puedes hacerlo, Yoshino?"
+Message	Yoshino	Y-Yes! I-I will do my best!	¡Sí! ¡Haré lo que pueda!
+Message	Yoshinon	I gueeeess. Well, I guess Yoshino and\nYoshinon will go all out and work hard\nin Rinne's absence!	"Supongo. Bueno, ¡supongo que Yoshino
+y Yoshinon irán a por todas y trabajarán
+duro en ausencia de Rinne!"
+Message	Shido	All right! Thanks!	¡Muy bien! ¡Gracias!
+Message	Yoshino	O-Okay!	O-Okay!
+Message	Yoshinon	You got it!	¡Ya lo tienes!

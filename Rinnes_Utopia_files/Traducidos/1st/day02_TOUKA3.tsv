@@ -2,21 +2,26 @@ Operator	Comment	Key	Translation
 Message	Rinne	Alright, I'll be borrowing your kitchen then.	De acuerdo, entonces tomaré prestada tu cocina.
 Message	Shido	Yeah, sorry for the trouble all the time.	Sí, perdón por las molestias todo el tiempo.
 Message	Rinne	"Hee hee, you promised not to say that, right?
-Next door neighbors help each other out, after all."	Prometiste no decir eso, ¿verdad?  Los vecinos de al lado se ayudan, después de todo.
+Next door neighbors help each other out, after all."	"Prometiste no decir eso, ¿verdad? Los vecinos de al lado
+se ayudan, después de todo. "
 Message	Shido	"Of course. If there's ever anything I can help with
-at your house Rinne, you can always ask me."	Por supuesto. Si alguna vez hay algo en lo que pueda ayudar en tu casa Rinne, siempre puedes pedírmelo.
-Message	Rinne	Thanks, Shido. But I don't think there's anything right now?	Gracias, Shido. ¿Pero no creo que haya nada ahora mismo?
-Message	Shido	It's true, you do have it together, Rinne...	Es verdad, lo tienes todo junto, Rinne...
+at your house Rinne, you can always ask me."	"Por supuesto. Si alguna vez hay algo en lo que pueda
+ayudar en tu casa Rinne, siempre puedes pedírmelo. "
+Message	Rinne	Thanks, Shido. But I don't think there's anything right now?	Gracias, Shido. Pero no creo que haya nada ahora mismo…
+Message	Shido	It's true, you do have it together, Rinne...	Es cierto, tienes todo bajo control, Rinne…
 Message	Rinne	...Is that, so? I hope so...	...¿Es así? Eso espero...
 Message	Shido	Hm? What's wrong?	¿Qué? ¿Qué es lo que pasa?
-Message	Rinne	It's nothing. Alright then, I'll prepare things quickly.	No es nada. Muy bien entonces, voy a preparar las cosas rápidamente.
-Message	Shido	Alright, I'll be watching the pot on my end. I'll leave that side to you.	De acuerdo, estaré vigilando la olla por mi parte. Te dejaré ese lado a ti.
+Message	Rinne	It's nothing. Alright then, I'll prepare things quickly.	"No es nada. Muy bien entonces,
+voy a preparar las cosas rápidamente. "
+Message	Shido	Alright, I'll be watching the pot on my end. I'll leave that side to you.	"De acuerdo, estaré vigilando la olla por mi parte.
+Te dejaré ese lado a ti. "
 Message	Rinne	Okay. Leave it to me.	De acuerdo. Déjamelo a mí.
 Message	Tohka	――S-Shido! Rinne!	--¡S-Shido! ¡Rinne!
 Message	Shido	Hm? W-What's wrong, Tohka?	¿Qué? ¿Qué pasa, Tohka?
 Message	Tohka	I-Is it alright if I watched!?	¿Está bien si miro?
-Message	Shido	Huh? Watched...what?	¿Qué? ¿Viste... qué?
-Message	Tohka	Well! You making supper! You're about to make it now, are you not?	¡Vaya! ¡Estás haciendo la cena! Estás a punto de hacerla ahora, ¿no?
+Message	Shido	Huh? Watched...what?	¿Qué? ¿Ver… qué?
+Message	Tohka	Well! You making supper! You're about to make it now, are you not?	"¡Vaya! ¡Estás haciendo la cena!
+Estás a punto de hacerla ahora, ¿no?"
 Message	Rinne	We were just about to start making it.	Estábamos a punto de empezar a hacerlo.
 Message	Tohka	Ohhh! Then please! Allow me to observe!	¡Ohhh! ¡Entonces por favor! ¡Permítame observar!
 Message	Rinne	Hmm...I don't mind, but wouldn't it be boring to watch...?	Hmm... no me importa, pero ¿no sería aburrido de ver...?
@@ -26,9 +31,11 @@ Message	Tohka	Really!	¡De verdad!
 Message	Rinne	Hee hee, if you're alright with me, then I'll help you anytime.	Si te parece bien, te ayudaré cuando quieras.
 Message	Tohka	Ohhh! Rinne! I owe you so much!	¡Ohhh! ¡Rinne! ¡Te debo tanto!
 Message	Rinne	"...Oh, if you'd like, instead of just watching,
-would you like to try...making it together?"	...Oh, si quieres, en vez de sólo mirar, ¿te gustaría intentar... hacerlo juntos?
+would you like to try...making it together?"	"...Oh, si quieres, en vez de sólo mirar,
+¿te gustaría intentar... hacerlo juntos?"
 Message	Tohka	"B-But that is...would it be alright?
-I may not make it very well..."	P-Pero eso es... ¿Estaría bien?  Puede que no lo haga muy bien...
+I may not make it very well..."	"P-Pero eso es... ¿Estaría bien?
+Puede que no lo haga muy bien..."
 Message	Rinne	It's all right. I'll help out too, so...	Está bien. Yo también ayudaré, así que...
 Message	Tohka	A-All right...	Muy bien...
 Message	Shido	Then, should I help too?	Entonces, ¿debería ayudar yo también?
@@ -36,171 +43,245 @@ Message	Tohka	Y-You cannot Shido!	¡No puedes Shido!
 Message	Shido	Huh? W-Why?	¿Eh? ¿P-Por qué?
 Message	Tohka	You just aren't allowed!	¡No está permitido!
 Message	Rinne	"A-Ah ha ha ha ha...Umm, e-either way, it looks like you're
-not allowed, so why don't you wait while watching TV, Shido?"	A-Ah ha ha ha ha...Umm, e-de cualquier manera, parece que no está permitido, así que ¿por qué no esperas mientras ves la tele, Shido?
+not allowed, so why don't you wait while watching TV, Shido?"	"A-Ah ha ha ha ha...Umm, e-de cualquier manera, parece
+que no está permitido, así que ¿por qué no esperas
+mientras ves la tele, Shido? "
 Message	Shido	Er, ah, okay...	Er, uh, vale...
 Message	Rinne	"...Then, once you take off the sprout, peel off the skin,
-and slice it into chunks...like this. You can cut it about this large."	...Luego, una vez quitado el brote, pela la piel y córtalo en trozos... así. Puedes cortarlo así de grande.
+and slice it into chunks...like this. You can cut it about this large."	"...Luego, una vez quitado el brote, pela la piel y córtalo
+en trozos... así. Puedes cortarlo así de grande. "
 Message	Tohka	H-Hmmm, I see...	H-Hmmm, ya veo...
 Message	Rinne	"――Oh, if it seems too hard to take the skin off with a knife,
-it might be better to use a peeler."	--Oh, si parece demasiado difícil quitar la piel con un cuchillo, puede ser mejor usar un pelador.
-Message	Tohka	P-Peeler? What is that?	¿P-Peeler? ¿Qué es eso?
+it might be better to use a peeler."	"--Oh, si parece demasiado difícil quitar la piel con un
+cuchillo, puede ser mejor usar un pelador. "
+Message	Tohka	P-Peeler? What is that?	¿P-Pelador? ¿Qué es eso?
 Message	Rinne	It's this. It's a tool to peel off the skin. Here.	Es esto. Es una herramienta para pelar la piel. Toma.
-Message	Rinne	See?	¿Lo veis?
+Message	Rinne	See?	¿vees?
 Message	Tohka	"Ohhh! It peels the skin off so easily!
-This is becoming quite fun! You're amazing, Rinne!"	¡Ohhh! ¡Desprende la piel tan fácilmente!  ¡Esto se está volviendo muy divertido! ¡Eres increíble, Rinne!
+This is becoming quite fun! You're amazing, Rinne!"	"¡Ohhh! ¡Desprende la piel tan fácilmente! 
+¡Esto se está volviendo muy divertido!
+¡Eres increíble, Rinne!"
 Message	Rinne	Ermm...It's not like I'm amazing or anything, but...	Ermm... No es que sea increíble ni nada de eso, pero...
 Message		"(...Why do I suddenly have a strange feeling of being left out?
-I feel a vague sense of loneliness...)"	(...¿Por qué de repente tengo una extraña sensación de estar excluido?  Tengo una vaga sensación de soledad...)
+I feel a vague sense of loneliness...)"	"(...¿Por qué de repente tengo una extraña sensación de
+estar excluido?  Tengo una vaga sensación de soledad…) "
 Message	Tohka	R-Rinne! W-Will this do?	¡R-Rinne! ¿Esto servirá?
 Message	Rinne	"Let's see, it's hard to cook carrots all the way through,
-so it might be better to cut them smaller than the potatoes, okay?"	A ver, es difícil cocer las zanahorias hasta el final, así que sería mejor cortarlas más pequeñas que las patatas, ¿vale?
+so it might be better to cut them smaller than the potatoes, okay?"	"A ver, es difícil cocer las zanahorias hasta el final, así que
+sería mejor cortarlas más pequeñas que las patatas, ¿vale?"
 Message	Tohka	Hmm, I see!	Ya veo.
 Message	Tohka	H-How is this?	¿Cómo es esto?
 Message	Rinne	"Right, just like that. You're good at this, Tohka-chan.
-But don't get carried away and cut yourself, okay?"	Bien, así. Eres buena en esto, Tohka-chan.  Pero no te dejes llevar y te cortes, ¿vale?
+But don't get carried away and cut yourself, okay?"	"Bien, así. Eres buena en esto, Tohka-chan. 
+Pero no te dejes llevar y te cortes, ¿vale?"
 Message	Tohka	R-Right!	¡De acuerdo!
 Message		"(...They both seem to be doing fine,
-so it might be good this way...)"	(...Ambos parecen estar bien, así que podría ser bueno de esta manera...)
-Message	Rinne	Today is meat and potato stew that Tohka-chan helped make!	¡Hoy hay estofado de carne y patatas que Tohka-chan ayudó a hacer!
+so it might be good this way...)"	"(...Ambas parecen estar bien, así que podría
+ser bueno de esta manera…) "
+Message	Rinne	Today is meat and potato stew that Tohka-chan helped make!	"¡Hoy hay estofado de carne y patatas que
+Tohka-chan ayudó a hacer!"
 Message	Shido	Ooh, it came out looking delicious!	¡Ooh, salió con una pinta deliciosa!
 Message	Tohka	Shido! P-Please try eating it!	¡Shido! ¡P-Por favor, intenta comértelo!
 Message	Shido	Let's see...	Veamos...
 Message	Tohka	H-How is it...!?	¿¡Cómo es...!?
 Message	Shido	...Mm!? This is delicious!	...¿¡Mm!? ¡Esto es delicioso!
 Message	Tohka	"Ohhh! That is good! Then please eat this over here too!
-And this one too!"	¡Ohhh! ¡Eso está bueno! ¡Entonces por favor come esto de aquí también!  ¡Y este también!
+And this one too!"	"¡Ohhh! ¡Eso está bueno! ¡Entonces por favor come
+esto de aquí también!  ¡Y este también! "
 Message	Shido	"O-Okay okay,  I got it!
 I'll eat all of them, so please wait a moment.
-I can't fit them all at once, and I won't be able to tell the taste."	Vale, ¡lo tengo!  Me los comeré todos, así que por favor espera un momento.  No me caben todos a la vez, y no podré distinguir el sabor.
-Message	Tohka	Ah, r-right! I'm sorry, Shido...	¡Ah, r-cierto! Lo siento, Shido...
+I can't fit them all at once, and I won't be able to tell the taste."	"Vale, ¡lo tengo!  Me los comeré todos, así que por favor
+espera un momento. No me caben todos a la vez, y
+no podré distinguir el sabor. "
+Message	Tohka	Ah, r-right! I'm sorry, Shido...	¡Ah, c-cierto! Lo siento, Shido...
 Message	Shido	"No, you don't have to apologize, but...
 Here, you made this together with Rinne and all,
-so you should eat it too. It'll surprise you!"	No, no tienes que disculparte, pero...  Toma, hiciste esto junto con Rinne y todo, así que deberías comerlo también. ¡Te sorprenderá!
+so you should eat it too. It'll surprise you!"	"No, no tienes que disculparte, pero... Toma, hiciste esto
+junto con Rinne y todo, así que deberías comerlo
+también. ¡Te sorprenderá! "
 Message	Tohka	"Hmm!? T-That's right!
-I was so concentrated on having you taste it, I forgot!"	¿¡Hmm!? ¡E-Eso es!  ¡Estaba tan concentrado en que lo probaras que lo olvidé!
+I was so concentrated on having you taste it, I forgot!"	"¿¡Hmm!? ¡E-Eso es! ¡Estaba tan concentrado en que
+lo probaras que lo olvidé! "
 Message	Shido	I-I see...	Ya veo...
 Message	Tohka	Yes! Now then, I'll eat!	¡Sí! ¡Ahora comeré!
-Message	Rinne	Hee hee, please dig in.	Hee hee, please dig in.
-Message	Rinne	Oh, Kotori-chan, Yoshino-chan, please eat it too.	Oh, Kotori-chan, Yoshino-chan, por favor, comedlo también.
+Message	Rinne	Hee hee, please dig in.	Jeje, por favor, disfruta.
+Message	Rinne	Oh, Kotori-chan, Yoshino-chan, please eat it too.	"Oh, Kotori-chan, Yoshino-chan, por favor,
+Coman también. "
 Message	Kotori	Yeah! Time to eat!	¡Sí! ¡Hora de comer!
 Message	Yoshino	L...Let's, eat!	Vamos a comer.
 Message	Tohka	"Ohhh!? T-This flavor is exceptional, Shido!
 The potatoes have been cooked all the way through without crumbling,
-and the flavor has seeped in!"	¿¡Ohhh!? ¡E-Este sabor es excepcional, Shido!  Las patatas se han cocinado hasta el final sin desmenuzarse, ¡y el sabor se ha impregnado!
+and the flavor has seeped in!"	"¿¡Ohhh!? ¡E-Este sabor es excepcional, Shido! Las patatas
+se han cocinado hasta el final sin desmenuzarse,
+¡y el sabor se ha impregnado!"
 Message	Shido	"Yeah! Well...there are lots that have an interesting shape,
-but it's really good. I'm glad it came out well, Tohka!"	¡Sí! Bueno... hay muchos que tienen una forma interesante, pero está muy bien. ¡Me alegro de que te haya salido bien, Tohka!
+but it's really good. I'm glad it came out well, Tohka!"	"¡Sí! Bueno... hay muchos que tienen una forma interesante,
+pero está muy bien. ¡Me alegro de que te haya
+salido bien, Tohka! "
 Message	Tohka	Yes! It is thanks to Rinne. I thank you!	¡Sí! Es gracias a Rinne. ¡Se lo agradezco!
 Message	Shido	You're right. We're grateful for you, Rinne.	Tienes razón. Te estamos agradecidos, Rinne.
 Message	Rinne	"Hee hee, thank you.
 The taste has gotten even better for how much effort
-Tohka-chan put into it, don't you think?"	Hee hee, gracias.  El sabor ha mejorado aún más por el esfuerzo que Tohka-chan ha puesto en ello, ¿no crees?
+Tohka-chan put into it, don't you think?"	"Hee hee, gracias. El sabor ha mejorado aún más por el
+esfuerzo que Tohka-chan ha puesto en ello, ¿no crees? "
 Message	Tohka	Yes! I'd like to make it with you again!	¡Sí! ¡Me gustaría volver a hacerlo contigo!
 Message	Rinne	Sure. Just tell me anytime you'd like.	Claro. Dímelo cuando quieras.
 Message		(...You know, Rinne is a really good person.)	(...Sabes, Rinne es muy buena persona.)
 Message		(Good grief, a lot really happened today.)	(Santo cielo, hoy han pasado muchas cosas).
 Message		"(...Still, those stone steps right after the sports festival was
-a little too much. I'm hurting here and there...)"	(...Aún así, esos escalones de piedra justo después del festival deportivo fue un poco demasiado. Me duele aquí y allá...)
+a little too much. I'm hurting here and there...)"	"(...Aún así, esos escalones de piedra justo después del
+festival deportivo fue un poco demasiado.
+Me duele aquí y allá...)"
 Message		"(Now that I recall, when we were going up those steps...
 Tohka was acting kinda weird, I think? It felt like she was
-obstinately against going up futher――)"	(Ahora que recuerdo, cuando subíamos esos escalones...  Tohka estaba actuando un poco raro, ¿creo? Parecía como si estuviera obstinada en no seguir subiendo...)
+obstinately against going up futher――)"	"(Ahora que recuerdo, cuando subíamos esos escalones... 
+Tohka estaba actuando un poco raro, ¿creo? Parecía
+como si estuviera obstinada en no seguir subiendo…) "
 Message		"(T-That's right! Those stone steps! No matter how you think
 about it, not reaching the top no matter how long I was climbing
-is strange. Why didn't I realize it until now...?)"	(¡Así es! ¡Esos escalones de piedra! No importa cómo lo piense, no llegar a la cima sin importar cuánto tiempo estuve subiendo es extraño. ¿Por qué no me di cuenta hasta ahora...?)
+is strange. Why didn't I realize it until now...?)"	"¡E-Eso es! ¡Esos escalones de piedra! No tiene sentido que
+no llegara a la cima después de subir durante tanto tiempo.
+¿Por qué no me di cuenta hasta ahora...?"
 Message		"(Does this mean this is a phenomenon occuring in Tengu City...?
 For now, after I take a bath and relax my muscles,
-I'll go report this to Kotori.)"	(¿Significa esto que es un fenómeno que ocurre en Ciudad Tengu...?  Por ahora, después de darme un baño y relajar mis músculos, iré a informar de esto a Kotori).
+I'll go report this to Kotori.)"	"(¿Significa esto que es un fenómeno que ocurre en Ciudad
+Tengu...?  Por ahora, después de darme un baño y relajar
+mis músculos, iré a informar de esto a Kotori). "
 Message		"(I wonder why...my body's strangely heavy...maybe I'm tired...
-Well, I am still recovering, so I guess that makes sense, but...)"	(Me pregunto por qué... mi cuerpo está extrañamente pesado... tal vez estoy cansado...  Bueno, todavía me estoy recuperando, así que supongo que tiene sentido, pero...)
+Well, I am still recovering, so I guess that makes sense, but...)"	"(Me pregunto por qué... mi cuerpo está extrañamente
+pesado... tal vez estoy cansado...  Bueno, todavía me
+estoy recuperando, así que supongo que tiene sentido, pero…)"
 Message		(It might be nice to take a slow hip bath once in a while...)	(Estaría bien darse un baño de caderas lento de vez en cuando...)
-Message		(I walked a lot today, so maybe I'll take a nice, relaxing bath.)	(Hoy he caminado mucho, así que quizá me dé un baño relajante).
+Message		(I walked a lot today, so maybe I'll take a nice, relaxing bath.)	"(Hoy he caminado mucho,
+así que quizá me dé un baño relajante). "
 Message	Shido	Agh! K, K-K-K-Kotori?!	¡Agh! ¡¿K, K-K-K-Kotori?!
 Message	Kotori	Hm?	¿Eh?
 Message	Shido	"Er, ah, this is! I didn't mean!?
-I did want to talk to you, but!"	Er, ah, ¡esto es! No quise decir...  Quería hablar contigo, pero...
+I did want to talk to you, but!"	"Er, ah, ¡esto es! No quise decir…
+Quería hablar contigo, pero..."
 Message	Shido	"Er, ah...y-you see, um...I was wondering if the
-shampoo might have run out, so..."	Verá, me preguntaba si se habría acabado el champú, así que...
+shampoo might have run out, so..."	"Verás, me preguntaba si se habría acabado el champú,
+así que… "
 Message	Kotori	――Ack...!	--¡Ack...!
 Message	Shido	W-Wait! I-I can explain! Listen, this is――	¡Espera! ¡Puedo explicarlo! Escucha, esto es...
 Message	Kotori	"You...siscon...lolicon...!
-PERVERT IDIOT BROTHEEEEEERRRR!!!!"	¡Tú...siscon...lolicon...!  ¡¡¡¡PERVERTIDO IDIOTA BROTHEEEEEERRRR!!!!
+PERVERT IDIOT BROTHEEEEEERRRR!!!!"	"¡Tú...siscon...lolicon...! 
+¡¡¡¡PERVERTIDO IDIOTA HERMANOOOO!!!!"
 Message	Shido	GWAAAAAAAAHH!!!!	¡¡¡¡GWAAAAAAAAAAHH!!!!
-Message	Shido	...Sitting seiza-style is starting to get painful...y-you know?	...Sentarse al estilo seiza empieza a ser doloroso... ¿sabes?
+Message	Shido	...Sitting seiza-style is starting to get painful...y-you know?	"...Sentarse al estilo seiza empieza a ser doloroso…
+¿sabes?"
 Message	Kotori	...Huh, you think this is enough of a punishment?	...Huh, ¿crees que esto es suficiente castigo?
 Message	Shido	Huh?	¿Eh?
 Message	Kotori	"...You saw what you must not see, so of course this
-punishment is expected, right?"	...Viste lo que no debes ver, así que por supuesto se espera este castigo, ¿no?
+punishment is expected, right?"	"...Viste lo que no debes ver, así que por supuesto se
+espera este castigo, ¿no? "
 Message	Shido	"...N-No, this is...
-I-I just...happened to glance that way, and..."	...N-No, esto es...  Yo sólo... miré hacia allí, y...
+I-I just...happened to glance that way, and..."	"...N-No, esto es...  Yo sólo…
+miré hacia allí, y… "
 Message	Shido	"I-I'm sorry! But please believe me!
-It was absolutely not like I went to peek or anything――"	¡Lo siento! ¡Pero por favor créeme!  No fue en absoluto como si hubiera ido a mirar o algo así...
+It was absolutely not like I went to peek or anything――"	"¡Lo siento! ¡Pero por favor créeme!
+No fue en absoluto como si hubiera ido a mirar o algo así..."
 Message	Kotori	"I know that much. Even if you were a pedophile and someone
-with a perverted taste, you wouldn't go that far."	Eso lo sé muy bien. Incluso si fueras un pedófilo y alguien con un gusto pervertido, no irías tan lejos.
+with a perverted taste, you wouldn't go that far."	"Eso lo sé muy bien. Incluso si fueras un pedófilo y
+alguien con un gusto pervertido, no irías tan lejos. "
 Message	Shido	"Don't just decide someone's tastes like that!
-If anything――"	¡No decidas los gustos de alguien así como así!  En todo caso...
+If anything――"	"¡No decidas los gustos de alguien así como así!
+En todo caso..."
 Message	Kotori	If anything～? What is it～?	¿Si algo～? Qué es～?
 Message	Shido	N-Nothing...	N-Nada...
 Message	Kotori	"Hmph. Be careful not to make headlines in
-tomorrow's newspaper, got it?"	Hmph. Ten cuidado de no aparecer en los titulares del periódico de mañana, ¿entendido?
+tomorrow's newspaper, got it?"	"Hmph. Ten cuidado de no aparecer en los titulares
+del periódico de mañana, ¿entendido? "
 Message	Shido	Like heck I'd be in tomorrow's paper!	¡Diablos, saldría en el periódico de mañana!
 Message	Kotori	"...So, what was your business?
-You had some business with me, right?"	...Entonces, ¿cuál era tu negocio?  Tenías algún asunto conmigo, ¿verdad?
+You had some business with me, right?"	"...Entonces, ¿cuál era tu negocio?
+Tenías algún asunto conmigo, ¿verdad?"
 Message	Kotori	"Or has seeing your cute sister's body
-caused your mind to go blank?"	¿O es que ver el cuerpazo de tu hermana te ha dejado la mente en blanco?
+caused your mind to go blank?"	"¿O es que ver el cuerpazo de tu hermana te
+ha dejado la mente en blanco? "
 Message	Shido	"I don't remember seeing anything, and my mind
-hasn't gone blank!"	No recuerdo haber visto nada, ¡y mi mente no se ha quedado en blanco!
+hasn't gone blank!"	"No recuerdo haber visto nada,
+¡y mi mente no se ha quedado en blanco!"
 Message	Kotori	Hmmmm...	Hmmmm...
 Message	Shido	N-No, more importantly, listen! At Takadai...	N-No, lo más importante, ¡escucha! En Takadai...
 Message		"(I talked with Kotori about what happened at Takadai
 with Tohka. First, about the endless stone steps, then...
-About how strange Tohka was acting.)"	(Hablé con Kotori sobre lo que pasó en Takadai con Tohka. Primero, sobre los interminables escalones de piedra, luego...  Sobre lo extraño que estaba actuando Tohka).
+About how strange Tohka was acting.)"	"(Hablé con Kotori sobre lo que pasó en Takadai con Tohka.
+Primero, sobre los interminables escalones de piedra,
+luego...  Sobre lo extraño que estaba actuando Tohka). "
 Message	Kotori	"Takadai Park, huh...that's worrying.
 I'll investigate on my end too...but if your story's true,
-it might be difficult to figure out the cause..."	Takadai Park, huh...eso es preocupante.  Investigaré por mi parte también... pero si tu historia es cierta, podría ser difícil averiguar la causa...
+it might be difficult to figure out the cause..."	"Takadai Park, huh...eso es preocupante. Investigaré por
+mi parte también... pero si tu historia es cierta, podría
+ser difícil averiguar la causa… "
 Message	Shido	Huh?	¿Eh?
 Message	Kotori	"You said Tohka was acting strange, right?
 It's possible something intervenes with the consciousness
-of anyone getting near or trying to investigate that place."	Dijiste que Tohka actuaba de forma extraña, ¿verdad?  Es posible que algo intervenga con la conciencia de cualquiera que se acerque o intente investigar ese lugar.
-Message	Shido	Intervenes...?	Intervenes...?
+of anyone getting near or trying to investigate that place."	"Dijiste que Tohka actuaba de forma extraña, ¿verdad?
+Es posible que algo intervenga con la conciencia de
+cualquiera que se acerque o intente investigar ese lugar. "
+Message	Shido	Intervenes...?	¿Interviene...?
 Message	Kotori	"It means they mess with your consciousness.
 Making you unwilling to approach, or it makes you
-unsure of what you do or don't know."	Significa que se meten con tu conciencia.  Hacen que no quieras acercarte, o te hacen sentir inseguro de lo que sabes o no sabes.
+unsure of what you do or don't know."	"Significa que se meten con tu conciencia.
+Hacen que no quieras acercarte, o te hacen
+sentir inseguro de lo que sabes o no sabes. "
 Message	Shido	"N-No way!?
 Then...For example, me even talking to you about this,
-it's possible something's been done to me...is that it?"	¿¡De ninguna manera!?  Entonces... Por ejemplo, que yo te hable de esto, es posible que me hayan hecho algo... ¿es eso?
+it's possible something's been done to me...is that it?"	"¿¡De ninguna manera!?  Entonces... Por ejemplo, que
+yo te hable de esto, es posible que me hayan hecho
+algo... ¿es eso? "
 Message	Kotori	"That's right. That's why this is a problem with no answer.
-...I don't know why that memory's left in your mind, though."	Así es. Por eso es un problema sin respuesta.  ...aunque no sé por qué ese recuerdo ha quedado en tu mente.
+...I don't know why that memory's left in your mind, though."	"Así es. Por eso es un problema sin respuesta. ...aunque
+no sé por qué ese recuerdo ha quedado en tu mente. "
 Message	Kotori	"Take care of yourself, okay? It's possible this memory could
-be some sort of breakthrough."	Cuídate, ¿de acuerdo? Es posible que este recuerdo pueda ser algún tipo de avance.
+be some sort of breakthrough."	"Cuídate, ¿de acuerdo? Es posible que este recuerdo
+pueda ser algún tipo de avance. "
 Message	Shido	Right...I'll be careful. That's really scary too, after all...	Bien... tendré cuidado. Eso también da miedo, después de todo...
 Message		"(I get a shiver down my spine.
 To have my own perception twisted while I'm unaware is,
-to be frank, nothing else but simply terrifying.)"	(Me recorre un escalofrío por la espalda.  Que se tergiverse mi propia percepción mientras estoy inconsciente no es, para ser franco, otra cosa que sencillamente aterrador).
+to be frank, nothing else but simply terrifying.)"	"(Me recorre un escalofrío por la espalda. Que se tergiverse
+mi propia percepción mientras estoy inconsciente no es,
+para ser franco, otra cosa que sencillamente aterrador). "
 Message	Kotori	"But if the memory was intentionally left in your mind,
 this may be some sort of warning.
-A warning not to interefere with them..."	Pero si el recuerdo fue dejado intencionalmente en tu mente, esto puede ser una especie de advertencia.  Una advertencia de no interferir con ellos...
+A warning not to interefere with them..."	"Pero si el recuerdo fue dejado intencionalmente en tu
+mente, esto puede ser una especie de advertencia.
+Una advertencia de no interferir con ellos..."
 Message	Shido	"A warning, huh...?
 I wonder what intention the culprit
-behind this incident has..."	¿Una advertencia, eh...?  Me pregunto qué intención tiene el culpable de este incidente...
+behind this incident has..."	"¿Una advertencia, eh...?  Me pregunto qué intención
+tiene el culpable de este incidente… "
 Message	Kotori	"Who knows? To be honest, we're completely stuck.
 All we know is that there's readings of a special spiritual power
-all around Tengu City...that's all."	¿Quién sabe? Para ser honestos, estamos completamente atascados.  Todo lo que sabemos es que hay lecturas de un poder espiritual especial alrededor de Ciudad Tengu... eso es todo.
+all around Tengu City...that's all."	"No lo sabemos. Estamos atrapados. Solo sabemos que
+hay lecturas de una energía espiritual especial en toda la
+Ciudad Tengu, nada más."
 Message	Kotori	"For now... Until we gather information,
 it'd be best not to get unnecessarily close to
-the inside of Takadai. It's a little too dangerous."	Por ahora... Hasta que reunamos información, sería mejor no acercarse innecesariamente al interior de Takadai. Es demasiado peligroso.
+the inside of Takadai. It's a little too dangerous."	"Por ahora... Hasta que reunamos información, sería
+mejor no acercarse innecesariamente al interior de
+Takadai. Es demasiado peligroso."
 Message	Shido	Right, I understand.	Bien, entiendo.
 Message	Kotori	"Right now, something large is brewing. This phenomenon is
 happening in the middle of Tengu City, and there's no way
-the Spirits aren't involved."	En este momento, algo grande se está gestando. Este fenómeno está ocurriendo en medio de la Ciudad Tengu, y no hay forma de que los Espíritus no estén involucrados.
+the Spirits aren't involved."	"En este momento, algo grande se está gestando. Este
+fenómeno está ocurriendo en medio de la Ciudad Tengu,
+y no hay forma de que los Espíritus no estén involucrados."
 Message	Shido	...?	...?
 Message	Kotori	"――For some purpose, they've cornered us into this situation...
-That's at least definite."	--Por algún motivo, nos han acorralado en esta situación...  Eso es al menos definitivo.
+That's at least definite."	"--Por algún motivo, nos han acorralado en esta situación...
+ Eso es al menos definitivo."
 Message	Shido	...I, see...	...yo, mira...
 Message	Kotori	Don't make that face.	No pongas esa cara.
 Message	Shido	But...we have no recourse, right?	Pero... no tenemos recurso, ¿verdad?
 Message	Kotori	"This and that are completely different. Ratatoskr are working
 as hard as they can, after all. You need to think of your role... of stabilizing
-Tohka and the other Spirits. That's something only you can do, Shido."	Esto y aquello son completamente diferentes. Los Ratatoskr están trabajando tan duro como pueden, después de todo. Necesitas pensar en tu papel... de estabilizar a Tohka y a los otros Espíritus. Eso es algo que sólo tú puedes hacer, Shido.
+Tohka and the other Spirits. That's something only you can do, Shido."	"Son situaciones diferentes. Ratatoskr está haciendo
+su parte. Tu misión es estabilizar a Tohka y los demás
+Espíritus, algo que solo tú puedes hacer, Shido."
 Message	Shido	Yeah...right.	Sí, claro.
 Message	Kotori	"But...if you notice anything strange, please report it.
-There's no guarantee next time will be the same as this, though..."	Pero... si nota algo extraño, por favor, infórmelo.  Aunque no hay garantía de que la próxima vez sea igual que esta...
+There's no guarantee next time will be the same as this, though..."	"Pero... si nota algo extraño, por favor, infórmelo. Aunque
+no hay garantía de que la próxima vez sea igual que esta…"
 Message	Shido	...Right.	...Bien.

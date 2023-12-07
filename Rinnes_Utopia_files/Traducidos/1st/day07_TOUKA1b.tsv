@@ -1,0 +1,121 @@
+Operator	Comment	Key	Translation
+Message	Shido	"...Tohka, I'm sorry! It looks like I got a call
+from Kotori!"	...Tohka, ¡lo siento! ¡Parece que recibí una llamada de Kotori!
+Message	Tohka	A call...?	¿Una llamada...?
+Message	Shido	I-I'll finish up quickly, so just wait a moment!	¡Terminaré rápido, así que espera un momento!
+Message	Kotori	...Hey, what are you dawdling for?!	...Oye, ¿por qué te entretienes?
+Message	Shido	Y-Yeah... Sorry.	S-Sí... Lo siento, lo siento, lo siento, lo siento.
+Message	Kotori	It's an emergency situation. We've found the\nenemy's location.	Es una situación de emergencia. Hemos encontrado la ubicación del enemigo.
+Message	Shido	E-Enemy...?	¿E-Enemigo...?
+Message	Kotori	It seems like the Neo Tengu Tower was the\ncause of the barrier.	Parece que la Torre Neo Tengu fue el\ncause de la barrera.
+Message	Shido	"...Enemy? Neo Tengu Tower...?
+Wait a second! What are you talking about?"	...¿Enemigo? ¿Torre Neo Tengu...?  ¡Un momento! ¿De qué estáis hablando?
+Message	Kotori	What? Shido, are you already going senile?\n Is something wrong with you?	Shido, ¿ya te estás volviendo senil? Shido, ¿ya te estás volviendo senil? ¿Te pasa algo?
+Message	Shido	...Huh?	...¿Eh?
+Message	Shido	Ngh!	¡Ngh!
+Message	Kotori	Hey, you okay?	Oye, ¿estás bien?
+Message	Shido	"Yeah... Sorry. Something really must have been
+wrong with me. Is what you said just now true?"	Sí... Lo siento. Algo realmente debe haber estado mal conmigo. ¿Es cierto lo que acabas de decir?
+Message	Kotori	Yeah. That monument you were talking about...\nAs we guessed, it's one of the footholds of the\nbarrier. The one designed to keep us trapped.	Sí. Ese monumento del que hablabas... Como adivinamos, es uno de los puntos de apoyo de la barrera. La que está diseñada para mantenernos atrapados.
+Message	Shido	"Then, that ""Guardian"" was there to protect it?"	"Entonces, ¿ese ""Guardián"" estaba allí para protegerlo?"
+Message	Kotori	We had trouble analyzing it, but according to the\nresults of the test, the sacred tree and the\ntower at the lake emit the same spiritual wave.	Nos costó analizarlo, pero según los resultados de la prueba, el árbol sagrado y la torre del lago emiten la misma onda espiritual.
+Message	Shido	Huh?!	¡¿Eh?!
+Message	Kotori	The barrier was created using these three\nfootholds as an axis, and the center protected\nby this triangle—	La barrera fue creada usando estos tres triángulos como eje, y el centro protegido por este triángulo...
+Message	Kotori	...is the Neo Tengu Tower.	...es la Torre Neo Tengu.
+Message	Shido	"Th-The Neo Tengu Tower is the barrier's
+center, but doesn't that seem strange? It's
+the city's biggest landmark, and—"	La Torre Neo Tengu es el centro de la barrera, pero ¿no te parece extraño? Es el mayor punto de referencia de la ciudad, y-
+Message	Kotori	Most likely, that's also false. It's something\nthat was made up within this barrier. That thing\ndoesn't exist in the original Tengu City.	Lo más probable es que eso también sea falso. Es algo que fue creado dentro de esta barrera. Esa cosa no existe en la Ciudad Tengu original.
+Message	Shido	What?! It's just like you said...	¡¿Qué?! Es justo como dijiste...
+Message	Kotori	That's right. Our conscious minds are being\nmanipulated somehow. I was careless, maybe it's\nbecause my spiritual power isn't up to form.	Así es. Nuestras mentes conscientes están siendo manipuladas de alguna manera. Fui descuidado, tal vez porque mi poder espiritual no está en forma.
+Message	Shido	Minds being... manipulated...	Mentes siendo... manipuladas...
+Message	Kotori	You still don't get it? The entirety of Tengu\nCity is within the enemy's control. Our minds,\nmemories, and buildings can all be changed.	¿Todavía no lo entiendes? Toda la ciudad de Tengu está bajo el control del enemigo. Nuestras mentes, recuerdos y edificios pueden ser cambiados.
+Message	Shido	...?!	¡...?!
+Message	Kotori	Shido, remember. I don't know why, but you're\nthe only one who felt something was off in this\nworld in the beginning. You were right...	Shido, recuerda. No sé por qué, pero eres el único que sintió que algo estaba mal en este mundo al principio. Tenías razón...
+Message	Shido	"I-It can't be! But how—how could such a
+thing—?!"	¡No puede ser! ¡¿Pero cómo... cómo podría algo así...?!
+Message	Kotori	In order to figure that out, we'll have to go\ndirectly and ask.	Para averiguarlo, tendremos que ir directamente a preguntar.
+Message	Shido	Huh?!	¡¿Eh?!
+Message	Kotori	Tohka's there, right?	Tohka está ahí, ¿verdad?
+Message	Shido	Y-Yeah, she's here, but...?	Sí, está aquí, pero...
+Message	Kotori	If we're going to step foot into Neo Tengu\nTower, a Spirit's power is absolutely necessary.	Si vamos a poner un pie en Neo Tengu\nTower, el poder de un Espíritu es absolutamente necesario.
+Message	Shido	Th-That may be true, but...	Eso puede ser cierto, pero...
+Message		"(We're in the middle of a date right now. Is it
+necessary to have to throw it all away to go
+right now...?)"	(Ahora mismo estamos en medio de una cita. ¿Es necesario tener que tirarlo todo para ir ahora mismo...?)
+Message	Kotori	Shido? Right now, the only one who's stable is...\nTohka. We don't know when we're being controlled\neither. Now's the only chance, do you understand?	¿Shido? Ahora mismo, el único que está estable es... Tohka. Tampoco sabemos cuando nos controlan. Ahora es la única oportunidad, ¿entiendes?
+Message	Shido	...I-I understand.	...entiendo.
+Message	Kotori	Please. I'm counting on you.\n ...The Fraxinus will prepare for backup.\n You absolutely shouldn't push yourself.	Por favor. Cuento contigo. El Fraxinus se preparará para los refuerzos. No deberías forzarte.
+Message	Shido	Yeah, I know!	Sí, lo sé.
+Message	Tohka	Hm, what is wrong, Shido? You look depressed.	¿Qué pasa, Shido? Pareces deprimido.
+Message	Shido	"...Tohka. I'm sorry, but we need to cancel the
+date..."	...Tohka. Lo siento, pero tenemos que cancelar la cita...
+Message	Tohka	Hmm...? Why is that?	¿Hmm...? ¿Por qué?
+Message	Shido	"You know that there's something strange happening
+to Tengu City right now, right?"	Sabes que algo extraño está ocurriendo en Ciudad Tengu ahora mismo, ¿verdad?
+Message	Tohka	Yes...	Sí...
+Message	Shido	Yeah. We figured out the cause, so—	Sí. Descubrimos la causa, así que...
+Message	Tohka	Let us go, Shido.	Vámonos, Shido.
+Message	Shido	Huh...?	¿Eh...?
+Message	Tohka	"Unless we do something, we can't stay this
+way, yes?"	A menos que hagamos algo, no podemos seguir así, ¿no?
+Message	Shido	Y-Yeah, that's right.	S-Sí, así es.
+Message	Tohka	"Then, I will fight. For myself... and for your
+sake, Shido."	Entonces, lucharé. Por mí... y por tu bien, Shido.
+Message	Shido	"Thank you, Tohka! Let's do something together,
+and surprise Kotori!"	¡Gracias, Tohka! ¡Hagamos algo juntos y sorprendamos a Kotori!
+Message	Tohka	Yes! Let's go!	¡Sí! ¡Adelante!
+Message	Shido	"So they're here, huh? The culprit behind
+everything..."	Así que están aquí, ¿eh? El culpable detrás de todo...
+Message	Tohka	"Shido, do you notice the peculiar lack of other
+people...?"	Shido, ¿notas la peculiar falta de otras personas...?
+Message	Shido	"Yeah. Even in the middle of the day, it's too
+quiet."	Sí. Incluso en mitad del día, es demasiado tranquilo.
+Message	Shido	Hmm, is it Kotori?	Hmm, ¿es Kotori?
+Message	Kotori	Shido? This is bad. They may have noticed us.\nThere's not a living being around Neo Tengu\nTower. They may have warded people away.	¿Shido? Esto es malo. Puede que nos hayan visto. No hay ningún ser vivo alrededor de la Torre Neo Tengu. Pueden haber alejado a la gente.
+Message	Shido	Even then, all we can do is go, right?	Incluso entonces, todo lo que podemos hacer es irnos, ¿verdad?
+Message	Kotori	Yes, that's correct. But don't let your guard\ndown.	Sí, es cierto. Pero no deje que su guardia - abajo.
+Message	Shido	I got it.	Yo me encargo.
+Message	Shido	All right. We're charging in!	De acuerdo. ¡Estamos cargando!
+Message	Tohka	"Shido, the enemy may have caught onto us.
+Even so, are we aiming to head straight through
+the front?"	Shido, el enemigo puede habernos descubierto.  Aun así, ¿nos dirigimos directamente al frente?
+Message	Shido	"We have no other method, right?
+We'll just have to persuade them forward and
+openly."	No tenemos otro método, ¿verdad?  Tendremos que persuadirlos de frente y abiertamente.
+Message	Tohka	Haha! You really are you, Shido.	¡Haha! Realmente eres tú, Shido.
+Message	Shido	What does that mean?	¿Qué significa eso?
+Message	Tohka	Nothing! Now then, let's go!	¡Nada! Ahora entonces, ¡vamos!
+Message	Shido	Y-Yeah!	¡Sí!
+Message	Shido	...?!	¡...?!
+Message	Shido	You're... from my dream...?	¿Eres... de mi sueño...?
+Message	Tohka	Who... are you...?	¿Quién... eres...?
+Message	???	No one desires that ending...	Nadie desea ese final...
+Message	Shido	No one... desires...?	¿Nadie... desea...?
+Message	???	"You should have stayed like this, within the
+happy slumber that I have woven..."	Deberías haberte quedado así, dentro del sueño feliz que he tejido...
+Message	Shido	What are you saying...?	¿Qué estás diciendo...?
+Message	Tohka	"Is this person... a Spirit...?
+Is she really... the same as us?"	¿Es esta persona... un Espíritu...?  ¿Es realmente... lo mismo que nosotros?
+Message	Shido	"I don't know, but this isn't the first time I've
+met her."	No lo sé, pero no es la primera vez que la veo.
+Message		"(That's right, I've seen her many times in my
+dreams.)"	(Así es, la he visto muchas veces en mis sueños).
+Message	???	"I am the one who controls this world, who rules
+over this paradise. If you were to refer to me by
+an identification name, it would be Ruler."""""	"Yo soy quien controla este mundo, quien gobierna este paraíso. Si tuvieras que referirte a mí con un nombre identificativo, sería Gobernante""""."
+Message	Ruler	"However, there is no use in telling you this,
+for I intend to banish you."	Sin embargo, es inútil decírtelo, porque tengo la intención de desterrarte.
+Message	Tohka	Shido, stay back!	¡Shido, quédate atrás!
+Message	Ruler	"I see... I will teach you. Just how much of
+a foolish and fragile being you are."	Ya veo... Te enseñaré. lo tonto y frágil que eres.
+Message	Tohka	Urgh! At this rate—!	¡Urgh! ¡A este paso...!
+Message	Shido	Tohka?!	¡¿Tohka?!
+Message	Tohka	I'll be overcome!	¡Me sobrepondré!
+Message	Ruler	Scatter.	Dispersa.
+Message	Tohka	Aaaaaagh!	¡Aaaaaagh!
+Message	Shido	Tohka?! Hey! Listen! Listen to me!	¡¿Tohka?! ¡Eh! ¡Escúchame! ¡Escúchame!
+Message	Ruler	"...Good bye, Shido Itsuka.
+I pray that next time, you have a pleasant dream."	...Adiós, Shido Itsuka.  Rezo para que la próxima vez tengas un sueño agradable.
+Message	Ruler	"Even though you promised... you said you would
+only cherish Tohka..."	Aunque lo prometiste... dijiste que sólo querrías a Tohka...

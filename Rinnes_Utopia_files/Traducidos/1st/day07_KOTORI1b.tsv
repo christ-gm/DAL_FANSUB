@@ -1,0 +1,130 @@
+Operator	Comment	Key	Translation
+Message	Shido	S-Sorry...	Lo siento…
+Message	Kotori	Hurry up.	Date prisa.
+Message	Reine	Hello, Shin. Might you be with Kotori right\nnow?	Hola, Shin. ¿Podrías estar con Kotori ahora mismo?
+Message	Shido	Huh? Yes. She's with me.	¿Eh? Sí. Ella está conmigo.
+Message	Reine	I see. Take your time, but this is an emergency.	Ya veo. Tómate tu tiempo, pero esto es una emergencia.
+Message	Shido	An emergency...?	¿Una emergencia...?
+Message	Reine	Yes. You see, I've triangulated the location of\nthe enemy.	Sí. Verás, he triangulado la ubicación del enemigo.
+Message	Shido	The enemy...?	¿El enemigo...?
+Message	Reine	Yes... They are at Neo Tengu Tower.	Sí... Están en la Torre Neo Tengu.
+Message	Shido	"Enemy... Neo Tengu Tower...? Wait a minute!
+What are you talking about? Enemy?!"	"Enemigo... ¿Torre Neo Tengu...? ¡Un momento!
+¿De qué estás hablando? ¡¿Enemigo?!"
+Message	Reine	I see. Shin, you must be affected too.	Ya veo. Shin, tú también debes estar afectado.
+Message	Shido	Affected? By what?	¿Afectado? ¿Por qué?
+Message	Reine	Yes. Everyone within the barrier is having their\nmemories distorted. I hadn't thought that both\nyou and Kotori would be affected.	"Sí. Todos dentro de la barrera tienen sus recuerdos
+distorsionados. No había pensado que tanto tú como
+Kotori se verían afectados."
+Message	Shido	Memories distorted?!	¡¿Recuerdos distorsionados?!
+Message	Reine	Yes. The monument you mentioned, Shin,\nis the keystone as predicted.	"Sí. El monumento que mencionaste, Shin, es la piedra
+angular como se predijo."
+Message	Shido	It was?!	¡¿Lo fue?!
+Message	Reine	The result of our investigation yielded similar\nsignatures from the shrine and the outlet tower\nby the lake.	"El resultado de nuestra investigación arrojó firmas
+similares del santuario y de la torre de desagüe del lago."
+Message	Shido	What?!	¡¿Qué?!
+Message	Reine	At the center of all three points is Neo Tengu\nTower.	En el centro de los tres puntos está la Torre Neo Tengu.
+Message	Shido	"N-Neo Tengu Tower is in the center of the
+barrier... Is it the base?"	"La Torre N-Neo Tengu está en el centro de
+la barrera... ¿Es la base?"
+Message	Reine	Correct. Your memories of it are false,\nbecause that building shouldn't exist in\nTengu City.	"Correcto. Tus recuerdos son falsos, porque ese
+edificio no debería existir en la ciudad de Tengu."
+Message	Shido	WHAT?!	¡¿QUÉ?!
+Message	Reine	Remember, Shin. You know that something\nhas been off this whole time.	"Recuerda, Shin. Sabes que algo ha
+estado mal todo este tiempo."
+Message	Shido	Wh-Whoa!	¡Wh-Whoa!
+Message		"(That's right. Why have... I forgotten all this
+time?)"	"(Así es. ¿Por qué... lo he olvidado
+todo este tiempo?)"
+Message	Shido	I remember now. I remember everything.	Ahora lo recuerdo. Me acuerdo de todo.
+Message	Reine	Ah. Wonderful.	Ah. Maravilloso.
+Message	Kotori	"What's the matter, Shido? It's Reine, right?
+Give me the phone."	"¿Qué pasa, Shido? Es Reine, ¿verdad?
+Dame el teléfono."
+Message	Shido	O-Okay.	De acuerdo.
+Message	Kotori	Hello, Reine? What's going in...?	¿Hola, Reine? ¿Qué pasa en...?
+Message	Kotori	...What?! No, that can't be...	...¡¿Qué?! No, eso no puede ser...
+Message	Kotori	"The enemy... I see. At Neo Tengu Tower?
+Okay, got it. No... Thank you."	"El enemigo... Ya veo. ¿En la Torre Neo Tengu?
+Bien, entendido. No... Gracias."
+Message	Kotori	I remember... everything now.	Ahora recuerdo... todo.
+Message	Shido	Kotori...	Kotori...
+Message	Kotori	That's right. There's something I must do.	Así es. Hay algo que debo hacer.
+Message	Shido	...	...
+Message	Kotori	Shido, I'm going.	Shido, me voy.
+Message	Shido	H-Hey!	¡H-Hey!
+Message	Kotori	"The only Spirit who can fight right now is me.
+I've gone on a date with you, and my powers
+are stable. But others can't, so I must fight."	"El único Espíritu que puede luchar ahora mismo soy yo. 
+Mis poderes son estables. Pero otros no pueden,
+así que debo luchar."
+Message	Shido	But... we don't have to go right this minute.	Pero... no tenemos que irnos ahora mismo.
+Message	Kotori	"Reine called you because this is our last
+chance. Besides, this is my job. I can't escape.
+I hope you understand."	"Reine te llamó porque es nuestra última oportunidad.
+Además, este es mi trabajo. No puedo escapar.
+Espero que lo entiendas."
+Message	Shido	Kotori...	Kotori...
+Message	Shido	Okay, got it. Then I'm going with you.	Vale, entendido. Entonces voy contigo.
+Message	Kotori	"Of course not! You can't come. Don't you
+know how dangerous it'll be?"	"¡Claro que no! No puedes venir.
+¿No sabes lo peligroso que será?"
+Message	Shido	Even more reason I can't let you go alone!	¡Más razón aún para no dejarte ir solo!
+Message	Kotori	Shido...	Shido...
+Message	Shido	"You can't stop me. I... I'm conquering whatever
+fate throws at us!"	"No puedes detenerme. V... ¡Voy a conquistar
+lo que el destino nos depare!"
+Message	Kotori	Man, aren't you something. And so stubborn!	Hombre, eres todo un personaje. ¡Y tan terco!
+Message	Shido	Yup. Sorry, but I'm not budging!	Sí. Lo siento, pero no voy a ceder.
+Message	Kotori	Okay, fine. We'll go together. Into victory.	Vale, bien. Iremos juntos. Hacia la victoria.
+Message	Shido	Got it!	¡La tengo!
+Message	Kotori	Let's go, Shido!	¡Vamos, Shido!
+Message	Shido	"Neo Tengu Tower... Who would've guessed it
+was right under nose the whole time?"	"Torre Neo Tengu... ¿Quién habría adivinado que
+estaba justo debajo de la nariz todo el tiempo?"
+Message	Kotori	"Be careful, Shido. There's little we know
+about the enemy."	"Ten cuidado, Shido. Es poco lo
+que sabemos del enemigo."
+Message	Shido	"Yeah, but that's even more reason for us
+to charge in."	"Sí, pero eso es aún más razón
+para que nosotros avancemos."
+Message	Kotori	"I suppose you've got a point. If we're together,
+no matter what happens, I won't regret it."	"Supongo que tienes razón. Si estamos juntos,
+pase lo que pase, no me arrepentiré."
+Message	Shido	Bring it on... Here we go, Kotori!	¡Adelante... Aquí vamos, Kotori!
+Message	Kotori	Charge!	¡A la carga!
+Message	Shido	?!	¡?!
+Message	Shido	Were you in my dreams...?	¿Estuviste en mis sueños...?
+Message	Kotori	Are you a Spirit?	¿Es usted un Espíritu?
+Message	???	No one asked for this ending.	Nadie pidió este final.
+Message	Shido	No one... asked?	¿Nadie... preguntó?
+Message	???	"If only you were content to live in the idyll
+contentment I created..."	"Si tan sólo te conformaras con vivir
+en el idilio de satisfacción que creé..."
+Message	Shido	What are you talking about?	¿De qué estás hablando?
+Message	Kotori	"Getting strong Spirit readings... She's the
+source of everything!"	"Obteniendo fuertes lecturas del Espíritu…
+¡Ella es la fuente de todo!"
+Message	Shido	"She is? I don't know... I don't think this is
+our first time meeting."	"¿Lo es? No sé... No creo que sea
+la primera vez que nos vemos."
+Message	???	"I am the ruler of this world, Eden.
+If you prefer another name, call me Ruler."	"Soy el gobernante de este mundo, Edén. Si
+prefieres otro nombre, llámame Ruler."
+Message	Ruler	"But... telling you is pointless.
+I will banish you."	"Pero... decírtelo no tiene sentido.
+Te desterraré."
+Message	Kotori	Shido, get back!	¡Shido, vuelve!
+Message	Ruler	"Very well. You refuse my mercy. You are weak
+and foolish."	"Muy bien. Rechazas mi misericordia.
+Eres débil y tonto."
+Message	Kotori	Wh-What, my Spirit powers... Wh-Why?!	Q-Qué, mis poderes espirituales... ¡¿Por qué?!
+Message	Shido	Kotori!	¡Kotori!
+Message	Kotori	Shido...	Shido...
+Message	Ruler	Scatter.	Dispersa.
+Message	Kotori	Rrgh... AAAAAAAAAH!	Rrgh... ¡AAAAAAAAAAAH!
+Message	Shido	KOTORIIIIII! Damn it! What happened?!	¡KOTORIIIIII! ¡Maldita sea! ¡¿Qué ha pasado?!
+Message	Ruler	"Farewell, Shido Itsuka. I hope for your next
+dream to be a happier one."	"Adiós, Shido Itsuka. Espero que tu
+próximo sueño sea más feliz."
+Message	Ruler	You promised me... you'd care for Kotori.	Me prometiste... que cuidarías de Kotori.

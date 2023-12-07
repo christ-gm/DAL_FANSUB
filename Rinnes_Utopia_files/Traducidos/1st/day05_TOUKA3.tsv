@@ -1,0 +1,177 @@
+Operator	Comment	Key	Translation
+Message		"(Now, then... It's good that I invited Tohka out
+on a date tomorrow, but will she really
+go with me...?)"	"(A ver... Está bien que haya invitado a
+Tohka a una cita mañana, pero
+¿de verdad irá conmigo...?)"
+Message		"(Well... It's not like I have
+any particular plans.)"	"(Bueno... No es que tenga
+ningún plan en particular)"
+Message		"(No... If I try thinking too hard, I'll just mess
+up again. So I just have to throw my feelings
+at her, and let them shatter if they will.)"	"(No... Si intento pensar demasiado, volveré a meter la
+pata. Así que sólo tengo que lanzarle mis sentimientos,
+y dejar que se hagan añicos si quieren)."
+Message		Now, and from here on out―	Ahora, y de aquí en adelante-
+Message	???	Sh-Shido...?	¿Sh-Shido...?
+Message	Shido	T-Tohka?! Why are you here...?	¡¿T-Tohka?! ¿Por qué estás aquí...?
+Message	Tohka	I... heard from Rinne...	Yo... escuché de Rinne...
+Message	Shido	F-From Rinne...?	¿De Rinne...?
+Message	Tohka	Yes...	Sí...
+Message		"(...Had I told Rinne that I was going here?
+W-Well, whatever... That's not important
+right now...)"	"(...¿Le había dicho a Rinne que iba aquí?
+B-bueno, da igual... Eso no es
+importante ahora...)"
+Message	Tohka	Hey, Shido...?	Oye, Shido...
+Message	Shido	Hm! Wh-What is it...?	¡Hm! ¿Qué es...?
+Message	Tohka	How do you... feel about Rinne, Shido?	¿Qué... sientes por Rinne, Shido?
+Message	Shido	Huh? H-How...? Well...	¿Eh? ¿C-Cómo...? Bueno...
+Choice		Just a childhood friend.	Sólo un amigo de la infancia.
+Choice		Someone I'm interested in.	Alguien que me interesa.
+Message	Shido	She's just a childhood friend, of course.	Es sólo una amiga de la infancia, por supuesto.
+Message	Tohka	Hm...? Rinne is... your ideal wife, is she not?	¿Hm...? Rinne es... tu esposa ideal, ¿verdad?
+Message	Shido	Huh...?	¿Eh...?
+Message	Tohka	Y-You know, that thing... m-marriage!	Ya sabes, esa cosa... ¡el matrimonio!
+Message	Shido	M-Marriage?!	¡¿Matrimonio?!
+Message	Tohka	"Marriage is when two people who love each other
+promise to be together forever, yes? So, Sh-Shido,
+you... you said Rinne was an ideal wife, right?"	"El matrimonio es cuando dos personas que se aman
+prometen estar juntas para siempre, ¿no? Sh-Shido,
+tú dijiste que Rinne era una esposa ideal, ¿verdad?"
+Message	Shido	Th-That's... Well, you see...!	E-Eso es... Bueno, ya ves...
+Message	Tohka	I knew it...	Lo sabía...
+Message	Shido	No! That's not it! Don't misunderstand me!	¡No! ¡No es eso! ¡No me malinterpretes!
+Message	Tohka	Hmm...?	¿Hmm...?
+Message	Shido	I-It's true that Rinne would make a good wife...	Es verdad que Rinne sería una buena esposa...
+Message	Tohka	Ngh! See, I knew it!	¡Ngh! ¡Ves, lo sabía!
+Message	Shido	P-Please, just hear me out!	Por favor, ¡escúchame!
+Message	Tohka	Hm...	Hm...
+Message	Shido	"But right now, I don't think of Rinne in that
+way... And I'm not planning on marrying her."	"Pero ahora mismo, no pienso en Rinne de esa manera…
+Y no estoy planeando casarme con ella."
+Message	Tohka	I-Is that true...?	¿Es verdad...?
+Message	Shido	"Yeah...
+And right now, the one thing I'm sure of..."	"Sí...  Y ahora mismo, de lo único
+que estoy seguro..."
+Message	Tohka	...?	...?
+Message	Shido	Right now... I want to be with you, Tohka!	Ahora mismo... ¡Quiero estar contigo, Tohka!
+Message	Tohka	...?!	¡...?!
+Message	Shido	"So, Tohka... Please keep your promise
+for tomorrow. Or... will you not?"	"Así que, Tohka... Por favor, mantén tu
+promesa para mañana. O... ¿no lo harás?"
+Message	Tohka	I-I can, absolutely...!	¡Puedo, absolutamente...!
+Message	Shido	"Really?! Then, it's all right?
+Haha, I'm looking forward to it."	"¿En serio? Entonces, ¿está bien?
+Jaja, lo estoy deseando."
+Message	Tohka	"Yes, then, tomorrow... I'm...
+looking forward to it as well."	"Sí, entonces, mañana... Estoy…
+deseando que llegue también."
+Message	Shido	Y-Yeah. I-I'll see you tomorrow!	Sí. ¡Te veré mañana!
+Message		(Whew... I feel like my feelings got through.)	(Uf... Siento que logré transmitir mis sentimientos.)
+Message		"(There really are times when you just have to face
+a person with your true feelings.)"	"(Realmente hay veces en las que simplemente
+tienes que enfrentarte a una persona con tus
+verdaderos sentimientos)."
+Message		"(Well, my head's cooled off, I guess I'll go home
+and get ready for tomorrow...)"	"(Bueno, se me ha enfriado la cabeza, supongo que
+me iré a casa a prepararme para mañana...)"
+Message	Shido	"To be honest... I'd be lying if I said I wasn't
+interested, but..."	"Para ser honesto... Mentiría si dijera
+que no estoy interesado, pero..."
+Message	Tohka	I knew it...	Lo sabía...
+Message	Shido	Hmm...? Tohka?	¿Hmm...? ¿Tohka?
+Message	Tohka	"So, I really... have no place...
+in your future, Shido...?"	"Entonces, ¿realmente... no tengo lugar…
+en tu futuro, Shido...?"
+Message	Shido	Huh, er, no... I, um―!	Huh, er, no... Yo...
+Message	Tohka	*Sniffle*! *Sob*...!	*Snif*... ¡*Sollozo*...!
+Message	Shido	H-Hey! Tohka?! Are you okay?!	¡H-Hey! ¡¿Tohka?! ¡¿Estás bien?!
+Message	Tohka	I... don't... want...! To not... be with Shido...!	No quiero... ¡No quiero dejar de estar con Shido...!
+Message	Shido	"Wha―! Tohka! This is bad! At this rate...!
+Please calm down!"	"¡Que-! ¡Tohka! ¡Esto es malo! ¡A este paso...!
+¡Por favor, cálmate!"
+Message	Tohka	UWAAAAAAAH!!!!	¡¡¡¡UWAAAAAAAH!!!!
+Message	Shido	A-Aaagh! UWAAAAAHHH...?!	A-Aaagh! UWAAAAAHHH...?!
+Message		(All right, tomorrow's my date with Tohka...)	(Muy bien, mañana es mi cita con Tohka...)
+Message		"(I don't know if there's anything I can do...
+But I want her to go back to her normal self.)"	"(No sé si puedo hacer algo...  Pero quiero
+que vuelva a ser la de siempre)."
+Message		"(I'll try not to think too hard about things, and
+just face her with the feelings I have as I go.)"	"(Intentaré no pensar demasiado las cosas, y
+simplemente enfrentarme a ella con los
+sentimientos que tengo sobre la marcha)."
+Message	Shido	Yes? Come in...	¿Sí? Pase...
+Message	Shido	R-Rinne? What's wrong, all of a sudden?	¿R-Rinne? ¿Qué pasa, de repente?
+Message	Rinne	There was something I wanted to ask you, Shido.	Había algo que quería preguntarte, Shido.
+Message	Shido	Something you wanted to ask me?	¿Querías preguntarme algo?
+Message	Rinne	"Yes, I wanted to ask you.
+Shido... You've decided, haven't you?"	"Sí, quería preguntarte.  Shido…
+Te has decidido, ¿verdad?"
+Message	Shido	Er, ah... Yeah...	Er, ah... Sí...
+Message	Shido	What are you talking about?	¿De qué estás hablando?
+Message	Rinne	You decided that... You want to save Tohka.	Decidiste que... Quieres salvar a Tohka.
+Message	Shido	"Oh... Yeah. I can't watch Tohka be like this,
+and I can't leave her alone. Not only that,
+but Tohka was trying her best for me―"	"Oh... Sí. No puedo ver a Tohka así, y no puedo
+dejarla sola. No sólo eso, sino que Tohka
+estaba haciendo todo lo posible por mí-"
+Message	Shido	"You want to be by Tohka's side...
+That's what I'm thinking."	"Quieres estar al lado de Tohka…
+Eso es lo que estoy pensando."
+Message	Rinne	I see. So that's your answer, Shido.	Ya veo. Así que esa es tu respuesta, Shido.
+Message	Shido	Yeah. That's what I've decided.	Sí. Eso es lo que he decidido.
+Message	Rinne	......	......
+Message	Shido	......	......
+Message	Rinne	Hey, Shido... Can you promise me something?	Eh, Shido... ¿Puedes prometerme algo?
+Message	Shido	Promise...? What...?	¿Prometer…? ¿Qué...?
+Message	Rinne	"Promise that from now on, you'll cherish
+Tohka-chan. No matter what happens,
+you won't let her go... Promise me."	"Prométeme que a partir de ahora, cuidarás a
+Tohka-chan. Pase lo que pase, no la
+dejarás marchar... Prométemelo."
+Message	Shido	"Wh-What are you talking about?
+You don't have to ask me to do that..."	"¿De qué estás hablando?
+No tienes que pedirme que haga eso..."
+Message	Rinne	"Please, I want you to promise me. That you'll only
+think of Tohka-chan... Otherwise, I'm sure that
+your heart will one day distance itself from her."	"Por favor, quiero que me prometas. Que sólo pensarás
+en Tohka-chan... De lo contrario, estoy seguro de
+que tu corazón algún día se distanciará de ella."
+Message	Shido	Rinne...	Rinne...
+Message	Rinne	Please...	Por favor...
+Message	Shido	"I understand... I promise.
+As a man, I won't take back what I've said.
+I'll... cherish Tohka, absolutely."	"Entiendo... Lo prometo. 
+Como hombre, no retiraré lo que he dicho.
+Voy a... cuidar de Tohka, absolutamente."
+Message	Rinne	Yeah... I knew you would promise me, Shido.	Sí... Sabía que me lo prometerías, Shido.
+Message	Shido	Haha, what do you mean by that?	Jaja, ¿qué quieres decir con eso?
+Message	Rinne	"I believe in you, Shido...
+Don't forget your promise... Don't ever break it."	"Creo en ti, Shido…
+No olvides tu promesa... Nunca la rompas."
+Message	Shido	Yeah, of course.	Sí, claro.
+Message	Rinne	If you break it, you won't get off easy, okay?	Si lo rompes, no te librarás fácilmente, ¿vale?
+Message	Shido	I-I know!	¡Lo sé!
+Message	Rinne	I see... Then it's good.	Ya veo... Entonces está bien.
+Message	Shido	Wh-What is it? Why do you have to threaten me?	¿Qué pasa? ¿Por qué tienes que amenazarme?
+Message	Rinne	Hehe... Sorry.	Jeje... Lo siento.
+Message	Rinne	But...	Pero...
+Message	Shido	...?	...?
+Message	Rinne	"You'll be fine.
+If it's you, you'll be fine... I'm sure of it."	"Estarás bien.  Si eres tú, estarás bien…
+Estoy seguro de ello."
+Message	Shido	...?	...?
+Message	Shido	Wh-What was that just now?!	¿Qué ha sido eso?
+Message	Shido	Hey, Rinne... Did you just see―	Oye, Rinne... ¿Acabas de ver...?
+Message	Shido	"Huh? Rinne's gone?
+When did she...?"	"¿Eh? ¿Rinne se ha ido?
+¿Cuándo...?"
+Message	Shido	"Well, it is pretty late...
+I should head to bed as well."	"Bueno, es bastante tarde…
+Yo también debería irme a la cama."
+Message	???	"...In this dream... no one can become happy...
+Shido Itsuka... I hope your next dream will be
+a happy one..."	"...En este sueño... nadie puede llegar a ser feliz…
+Shido Itsuka... Espero que tu próximo
+sueño sea feliz..."

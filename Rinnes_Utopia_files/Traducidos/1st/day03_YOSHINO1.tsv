@@ -1,0 +1,286 @@
+Operator	Comment	Key	Translation
+Message	Shido	Now then, I guess I'll go check on Yoshino.	Entonces, supongo que iré a ver a Yoshino.
+Message	Shido	Hm?	¿Eh?
+Message	Reine	Shin, it's an emergency.	Shin, es una emergencia.
+Message	Shido	"Reine-san?
+What's wrong?"	¿Reine-san? ¿Qué ocurre?
+Message	Reine	Actually... Yoshino has disappeared.	En realidad... Yoshino ha desaparecido.
+Message	Shido	"I see... Wait, what?!
+What do you mean, disappeared?"	"Ya veo... Espera, ¿qué? ¿Qué
+quieres decir con desaparecido?"
+Message	Reine	Well, she was at the Itsuka household until just\nnow... But just as I took my eyes off of her,\nit seems she managed to slip past.	"Bueno, ella estuvo en la casa Itsuka hasta ahora…
+Pero justo cuando quité mis ojos de ella,
+parece que se las arregló para escabullirse."
+Message	Reine	Her whereabouts will be difficult to pinpoint\nnow... I apologize, but could you look for\nYoshino?	"Su paradero será difícil de precisar ahora…
+Lo siento, pero ¿podrías buscar a Yoshino?"
+Message	Shido	Yes, I'll take a look around the area!	Sí, ¡echaré un vistazo por la zona!
+Message	Reine	...I'll leave it to you, then.\nI'll have a look as well.	"...te lo dejaré a ti, entonces.
+Yo también echaré un vistazo."
+Message	Shido	"Is Yoshino okay? She's timid and doesn't know much
+about the world... It's not certain that she won't
+get caught up in some trouble out there alone."	"¿Está bien Yoshino? Es tímida y no sabe
+mucho del mundo... No es seguro que no
+se vea envuelta en algún problema allí sola."
+Message	Shido	All right, I'll hurry and look for her!	¡Muy bien, me apresuraré a buscarla!
+Message	Shido	"*Pant, pant...*
+Just wait, Yoshino! I'll find you!"	"*jadear, jadear…*
+¡Sólo espera, Yoshino! ¡Te encontraré!"
+Message	Yoshino	Ah... Sh-Shido-san!	Ah... ¡Sh-Shido-san!
+Message	Shido	"I'm sorry, Yoshino!
+I'm in a rush and... Wait, huh?! Y-Yoshino?!"	"¡Lo siento, Yoshino! Tengo prisa y…
+Espera, ¡¿eh?! ¡¿Y-Yoshino?!"
+Message	Yoshino	Y-Yes... It's me.	S-Sí... Soy yo.
+Message	Yoshinon	Hey, Yoshinon's here, too!	¡Eh, Yoshinon también está aquí!
+Message	Shido	"O-Oh, you were in a place like this...
+I'm glad you're safe. I heard you disappeared from
+the house, so I was about to go look for you."	"O-Oh, estuviste en un lugar como este... Me alegro
+de que estés a salvo. Oí que desapareciste de la
+casa, así que estaba a punto de ir a buscarte."
+Message	Yoshino	"Ah... I-I'm, sorry.
+I had left a note, but..."	"Ah... Lo siento. Había
+dejado una nota, pero..."
+Message	Shido	"Huh, really? Oh, but that's right... It'd be hard
+to see from the Fraxinus."	"¿En serio? Oh, pero así es…
+Sería difícil de ver desde el Fraxinus."
+Message	Yoshino	...?	...?
+Message	Shido	Oh, it's nothing. Just talking to myself.	Oh, no es nada. Sólo hablo solo.
+Message	Yoshino	"U-Umm... I'm sorry.
+Was I not... supposed to go outside...?"	"U-Umm... Lo siento. ¿No se…
+suponía que debía salir...?"
+Message	Shido	"Oh, no. It's not your fault or anything.
+A-Anyway, I'm going to tell Reine-san,
+so please wait a moment..."	"Oh, no. No es tu culpa ni nada. De todas formas,
+voy a decírselo a Reine-san, así que
+por favor espera un momento..."
+Message	Reine	...Oh, Shin... Did you find Yoshino?	...Oh, Shin... ¿Encontraste a Yoshino?
+Message	Shido	"I did find her. She was near my school.
+It seems like she left a note, but..."	"La encontré. Estaba cerca de mi escuela.
+Parece que dejó una nota, pero..."
+Message	Reine	...I apologize, I didn't realize she did.\nI should have been more careful.	"...me disculpo, no me di cuenta de que lo hizo.
+Debería haber tenido más cuidado."
+Message	Shido	"It's fine, we found her, so it's all right.
+By the way, what should I do now?
+Is it better that we go home?"	"Está bien, la encontramos, así que no
+pasa nada. Por cierto, ¿qué hago ahora?
+¿Es mejor que nos vayamos a casa?"
+Message	Reine	...What do you think, Shin?	...¿Qué te parece, Shin?
+Message	Shido	Huh? M-Me...?	¿Eh? ¿Yo...?
+Message	Reine	...Yes, I'll leave the decision to you.\n Call me if anything happens.	...Sí, te dejaré la decisión a ti. Llámame si pasa algo.
+Message	Shido	"Wha, Reine-san?!
+E-Even if you say that... Hmmmm..."	"¡¿Qué, Reine-san?!
+Aunque digas eso... Hmmmm..."
+Choice		Let's go home.	Vámonos a casa.
+Choice		Let Yoshino stay out.	Que Yoshino se quede fuera.
+Message	Shido	I called Reine-san.	Llamé a Reine-san.
+Message	Yoshino	I-I'm sorry...	Lo siento...
+Message	Shido	"You don't have to apologize. More importantly,
+it's dangerous to walk around by yourself, you
+know? You shouldn't leave the house too much..."	"No tienes que disculparte. Más importante,
+es peligroso andar por ahí sola, ¿sabes?
+No deberías salir mucho de casa..."
+Message	Yoshino	...!	¡...!
+Message	Yoshinon	That's pretty cold of you, Shido-kun.\nPoor Yoshino!	Eso es muy frío de tu parte, Shido-kun. ¡Pobre Yoshino!
+Message	Shido	"Even if you say that... It's a fact that Yoshino
+is still unstable right now, so just in case..."	"Aunque digas eso... Es un hecho que Yoshino
+sigue inestable ahora mismo, así que por si acaso..."
+Message	Yoshino	W-Was I... a bother to you, Shido-san...?	¿Fui... una molestia para ti, Shido-san...?
+Message	Shido	"Ah... Oh, no... I'm sorry Yoshino,
+please don't cry!"	"Ah... Oh, no... Lo siento Yoshino,
+¡por favor no llores!"
+Message	Yoshinon	You made her cry, you made her cry! Telling her\nto go home before even listening to what she\nhas to say. You're so mean, Shido-kun!!	"¡La hiciste llorar, la hiciste llorar! Diciéndole
+que se vaya a casa antes incluso de escuchar
+lo que tiene que decir. ¡¡Eres tan malo, Shido-kun!!"
+Message	Yoshino	I'm... sorry...!	Lo... siento...
+Message	Shido	"Ahhh, no, Yoshino!!
+I'm the one who was wrong; please don't cry!!"	"¡Ahhh, no, Yoshino! Yo soy el que estaba
+equivocado; ¡¡por favor no llores!!"
+Message	Yoshino	......	......
+Message	Shido	I called Reine-san.	Llamé a Reine-san.
+Message	Yoshino	I-I'm sorry...	Lo siento...
+Message	Shido	"No, it's fine.
+More importantly, for you to be wandering around
+out here on your own... Did something happen?"	"No, está bien. Más importante aún, que estés
+vagando por aquí sola... ¿Pasó algo?"
+Message	Yoshino	U-Um... I wanted to... go outside a bit...	U-Um... Quería... salir un poco...
+Message	Shido	"Instead of bottling up stress, it's probably
+better to let it all out outside. I'll come
+with you, Yoshino."	"En lugar de reprimir el estrés,
+es mejor dejarlo salir.
+Iré contigo, Yoshino."
+Message	Yoshino	...!	¡...!
+Message	Yoshinon	Woo-hoo! Nice going, Shido-kun!\nThat was quite a manly line just now!	"¡Woo-hoo! ¡Bien hecho, Shido-kun!
+¡Esa ha sido una frase muy varonil!"
+Message	Shido	So Yoshino, why did you come out here?	Yoshino, ¿por qué has venido aquí?
+Message	Yoshino	"U-Um... I wanted to take a... proper look at the
+school. I was wondering... what everyone
+was doing..."	"U-Um... Quería echar un... vistazo apropiado
+a la escuela. Me preguntaba ... lo que todo
+el mundo estaba haciendo ..."
+Message	Shido	"Doing, huh...? Well, studying is usually what you
+do in school, but... it's not really that fun
+or anything."	"¿Haciendo, eh...? Bueno, estudiar es lo
+que se suele hacer en la escuela, pero…
+en realidad no es tan divertido ni nada."
+Message	Yoshino	Studying...?	¿Estudiando...?
+Message	Shido	"I guess during break times, you also play around
+with your classmates..."	"Supongo que en los descansos también
+juegas con tus compañeros..."
+Message	Yoshino	That sounds kinda fun...	Eso suena bastante divertido...
+Message	Shido	Oh...	Oh...
+Message		"(Yoshino's never gone to school before, so the
+words ""studying"" and ""classmates"" don't really
+connect to her experiences.)"	"(Yoshino nunca ha ido a la escuela, así
+que las palabras ""estudiar"" y ""compañeros""
+no conectan realmente con sus experiencias)."
+Message	Yoshinon	C'mon, c'mon, Shido-kun! Yoshino\nis feeling lonely! Don't you get it?!	"¡Vamos, vamos, Shido-kun! ¡Yoshino
+se siente sola! ¡¿No lo entiendes?!"
+Message	Shido	"I know you're putting on the
+pressure, but... Umm..."	Sé que estás presionanda, pero... Umm...
+Message	Shido	"All right, then, do you want to see the inside of
+the school? If you'd like, I could show you
+around."	"Muy bien, entonces, ¿quieres ver el
+interior de la escuela? Si quieres,
+puedo enseñártelo."
+Message	Yoshino	I-Is it really okay...?	¿Realmente está bien...?
+Message	Yoshinon	Oooh, how stylish, Shido-kun!\nYou're quite the lady-killer!	"Oooh, ¡qué elegante, Shido-kun!
+¡Eres todo un asesino de señoritas!"
+Message	Shido	"L-Lady-killer...? Well, whatever.
+Then for today, as your teacher, I'll teach you
+about what sort of place school is."	"¿Asesino...? Bueno, da igual. Entonces
+por hoy, como tu maestro, te enseñaré
+qué clase de lugar es la escuela."
+Message	Yoshino	O-Okay, Teacher...!	¡Vale, profesor...!
+Message	Shido	"Haha, that makes me kinda embarrassed.
+...All right, let's head into school now."	"Jaja, eso me da un poco de vergüenza. …
+Muy bien, vamos a la escuela ahora."
+Message	Yoshino	Yes... Teacher...!	Sí... ¡Profesor...!
+Message		"(Now that I think about it, I'm letting an
+outsider into the school, but... well, I'm
+sure Reine-san will do something about that.)"	"(Ahora que lo pienso, estoy dejando entrar
+a un extraño en la escuela, pero... bueno,
+seguro que Reine-san hará algo al respecto)."
+Message	Yoshino	......!	¡......!
+Message	Shido	"Welcome to Raizen High School.
+It's fairly new, so it's pretty impressive, right?"	"Bienvenido al instituto Raizen. Es bastante nuevo,
+así que es bastante impresionante, ¿verdad?"
+Message	Yoshino	Yeah. It's big... and pretty...	Sí. Es grande... y bonita...
+Message	Shido	"Now then, where should I take you...
+Yoshino, first, this is... um, the hallway..."	"Ahora bien, a dónde debo llevarte... Yoshino,
+primero, este es... um, el pasillo..."
+Message	Yoshino	...?	...?
+Message	Yoshinon	Ummm, earth to Shido-kun? We can tell that just\nby looking, you know?	"Ummm, ¿tierra a Shido-kun? Podemos
+decir que es solo mirando, ¿sabes?"
+Message	Shido	"Ah, R-Right.
+Yoshino, is there any place you'd like to see?
+If you have any requests, let me know!"	"Ah, B-Bueno. Yoshino, ¿hay algún lugar
+que te gustaría ver? Si tienes alguna
+petición, ¡házmelo saber!"
+Message	Yoshino	......	......
+Message	Yoshinon	Could it be that you have no plan, Shido-kun?\nYou said you'd show us around, right? Right?!	"¿Podría ser que no tienes ningún plan, Shido-kun?
+Dijiste que nos mostrarías los alrededores, ¿verdad?
+¡¿Verdad?!"
+Message	Shido	W-Well yeah...	B-bueno si...
+Message		"(Even the puppet's saying that, but where should
+I take her? I'd like her to be able to experience
+something.)"	"(Eso lo dice hasta la marioneta, pero
+¿adónde la llevo? Me gustaría que
+pudiera experimentar algo)."
+Message	Shido	"...Oh!
+Maybe this place would be good?"	...¡Oh! ¿Quizás este sitio estaría bien?
+Message	Yoshino	Music... prep room...?	¿Música... sala de preparación...?
+Message		"(Unlike the music room, it's set up like a regular
+classroom, but there are some instruments
+to borrow, and it's perfect for practicing.)"	"(A diferencia del aula de música, está acondicionada
+como una clase normal, pero hay algunos instrumentos
+que se pueden tomar prestados y es perfecta para practicar)."
+Message	Shido	"Since we're here, we can try out some instruments.
+We just need to find the rentals... Here."	"Ya que estamos aquí, podemos probar
+algunos instrumentos. Sólo tenemos
+que encontrar los alquileres... aquí."
+Message	Yoshino	What's... this...?	¿Qué es... esto...?
+Message	Shido	"This is an instrument called a recorder. You put
+your fingers from both hands onto the holes,
+and then if you blow from here, it makes noise."	"Este es un instrumento llamado flauta dulce.
+Pones los dedos de las dos manos en los
+agujeros y, si soplas desde aquí, hace ruido."
+Message	Shido	Go ahead, Yoshino. Try it out.	Adelante, Yoshino. Pruébalo.
+Message	Yoshino	......	......
+Message	Yoshino	...!	¡...!
+Message	Yoshino	It's no... good...	No es... bueno...
+Message	Shido	"Haha, no one can play it well right away.
+See, hold your hands like this..."	"Jaja, nadie puede tocarlo bien de inmediato.
+Mira, sostén tus manos así..."
+Message	Yoshino	Like... this...	Como... esto...
+Message	Yoshino	I-I can't do it... I'm... just no good.	No puedo hacerlo... No soy... buena.
+Message	Shido	"With practice, you'll be playing in no time.
+Without Yoshinon's help, you won't be able to play
+it well. Yoshinon, do your best too, all right?"	"Con práctica, lo tocarás en un santiamén. Sin la ayuda
+de Yoshinon, no serás capaz de tocarlo bien. Yoshinon,
+haz tu mejor esfuerzo también, ¿de acuerdo?"
+Message	Yoshinon	Hey now, Shido-kun. I'm always\ngiving it my all!!	Hey, Shido-kun. ¡Siempre voy a darlo todo!
+Message	Shido	Haha... Well, yeah... Do your best.	Jaja... Bueno, sí... Hazlo lo mejor que puedas.
+Message	Yoshinon	Good grief, Shido-kun!	¡Por Dios, Shido-kun!
+Message	Shido	"But it might be difficult to play it right away.
+...All right, Yoshino, I'll hold it from the left
+side. Is that okay, Yoshino? Yoshinon?"	"Pero podría ser difícil tocarlo de inmediato.
+...Muy bien, Yoshino, lo sostendré desde
+el lado izquierdo. ¿Te parece bien, Yoshino? ¿Yoshinon?"
+Message	Yoshinon	I guess it can't be helped.\nJust for today, okay?	"Supongo que no se puede evitar.
+Sólo por hoy, ¿de acuerdo?"
+Message	Yoshino	"If you're okay with it, Yoshinon...
+Then please do!"	"Si te parece bien, Yoshinon…
+¡Entonces por favor hazlo!"
+Message	Shido	"Right, thanks.
+Then, go ahead and..."	Bien, gracias. Entonces, adelante y...
+Message	Yoshino	...?!	¡...?!
+Message	Yoshino	I... played it...!	¡Yo... lo toque…!
+Message	Shido	"That's right, just like that.
+All right, let's try playing a simple song. Here,
+from this note to this note, try to connect it..."	"Así es, justo así. Muy bien, intentemos tocar una
+canción simple. Aquí, de esta nota a esta nota,
+intenta conectarla..."
+Message	Shido	"All notes from here up, I'll move my fingers...
+That's right, just like that..."	"Todas las notas de aquí para arriba,
+moveré mis dedos... Eso es, así..."
+Message	Shido	"...All right, if you can move your fingers that
+much, you should be fine. Here, let's try
+going through it."	"...Muy bien, si puedes mover los dedos
+tanto, deberías estar bien. Aquí, vamos
+a tratar de ir a través de él."
+Message	Yoshino	...O-Okay...	...O-Okay...
+Message	Shido	"Ohh, you did it. It's impressive that you were
+able to play this well your first time."	"Lo has conseguido. Es impresionante que
+hayas sido capaz de tocar así de bien tu primera vez."
+Message	Yoshinon	You did great, Yoshino! You're so good!\nYoshinon believed that you could do it!	"¡Lo hiciste genial, Yoshino! ¡Eres tan bueno!
+¡Yoshinon creía que podías hacerlo!"
+Message	Shido	"All right, you were able to successfully play the
+recorder, so let's leave it here for today and
+head home."	"Muy bien, has sido capaz de tocar la
+flauta con éxito, así que dejémoslo
+aquí por hoy y volvamos a casa."
+Message	Shido	"How was it, Yoshino?
+Did you understand school a little bit?"	"¿Cómo te fue, Yoshino?
+¿Entendiste un poco la escuela?"
+Message	Yoshino	Yes... School is... fun!	Sí... La escuela es... ¡divertida!
+Message	Shido	If you think so, then it was worth my efforts.	Si piensas así, entonces valió la pena mi esfuerzo.
+Message	Yoshinon	......	......
+Message	Shido	"...Hm? What's wrong, Yoshinon?
+You've been quiet for a while..."	"...¿Hm? ¿Qué pasa, Yoshinon?
+Has estado callada por un tiempo..."
+Message	Yoshinon	No, no, it's nothing～	No, no, no es nada.
+Message	Shido	Really...?	¿De verdad...?
+Message	Yoshinon	...Hmm, well. I suppose, if I were to say\nsomething, You were clinging a little too\nmuch to Yoshino just now, Shido-kun～	"...Hmm, bueno. Supongo que, si tuviera
+que decir algo, te estabas aferrando
+demasiado a Yoshino, Shido-kun～..."
+Message	Shido	"Wha—?!
+N-No, that was just to teach her..."	"¡¿Qué...?! N-No,
+eso fue sólo para enseñarle..."
+Message	Yoshino	...!	¡...!
+Message	Yoshinon	Well it's fine, it's fine! It looked like Yoshino\nwas happy too. If Yoshino's happy, then I'm\nsuper happy!	"¡Bueno, está bien, está bien! Parecía que
+Yoshino también estaba feliz. ¡Si Yoshino
+es feliz, entonces yo soy súper feliz!"
+Message	Shido	Haha, it's kinda like you're her guardian.	Jaja, es como si fueras su guardián.
+Message	Yoshinon	Aww gee, hahaha. Don't worry about it～	Aww caramba, jajaja. No te preocupes～
+Message	Shido	Right. Shall we go home then?	De acuerdo. ¿Nos vamos a casa entonces?
+Message	Yoshino	O-Okay...	Vale...
+Message	Yoshinon	......	......

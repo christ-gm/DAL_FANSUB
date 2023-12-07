@@ -1,13 +1,16 @@
 Operator	Comment	Key	Translation
 Message	Shido	Where did Origami go?	¿Adónde fue Origami?
 Message		"(I was going to ask her on a date, but
-before I knew it, she was out of the classroom.)"	(Iba a pedirle una cita, pero antes de darme cuenta ya había salido de clase).
-Message	Shido	Um... Origami? Heh, what am I doing? She's not here.	Um... ¿Origami? Heh, ¿qué estoy haciendo? Ella no está aquí.
+before I knew it, she was out of the classroom.)"	"(Iba a pedirle una cita, pero antes de darme
+Cuenta ya había salido de clase)."
+Message	Shido	Um... Origami? Heh, what am I doing? She's not here.	"Um... ¿Origami? Heh, ¿qué estoy haciendo?
+Ella no está aquí."
 Message	???	What?	¿Cómo?
 Message	Shido	AHHH! O-Origami?!	¡AHHH! ¡¿O-Origami?!
 Message	Origami	Huh?	¿Eh?
 Message	Shido	"D-Don't scare me like that. I thought I was going
-to have a heart attack."	No me asustes así. Pensé que iba a tener un ataque al corazón.
+to have a heart attack."	"No me asustes así.
+Pensé que iba a tener un ataque al corazón."
 Message	Origami	"That would have been okay. I could've given
 you CPR."	Habría estado bien. Podría haberte dado RCP.
 Message		(T-That's not the issue here...)	(E-Ese no es el tema aquí...)
@@ -15,7 +18,8 @@ Message	Origami	Do you want to practice?	¿Quieres practicar?
 Message	Shido	Huh?	¿Eh?
 Message	Origami	CPR.	RCP.
 Message	Shido	"Uh... w-well, I-I'll save the fun for when
-my heart actually stops..."	Bueno, guardaré la diversión para cuando mi corazón se detenga...
+my heart actually stops..."	"Bueno, guardaré la diversión para
+Cuando mi corazón se detenga..."
 Message		(What am I even saying?!)	(¡¿Qué estoy diciendo?!)
 Message	Origami	I see.	Ya veo.
 Message	Shido	Y-Yeah...	S-Sí...
@@ -25,7 +29,8 @@ Message	Origami	Shido.	Shido.
 Message	Shido	Hm?	¿Eh?
 Message	Origami	Were you looking for me?	¿Me estabas buscando?
 Message	Shido	"Well... um... yeah... yes.
-I wanted to talk to you again."	Bueno... um... sí... sí.  Quería hablar contigo otra vez.
+I wanted to talk to you again."	"Bueno... um... sí... sí.
+Quería hablar contigo otra vez."
 Message	Origami	I wanted to do it, too.	Yo también quería hacerlo.
 Message	Shido	Huh?	¿Eh?
 Message	Origami	With you.	Contigo.
@@ -36,46 +41,64 @@ Message	Origami	Something that feels way better than that.	Algo que se siente mu
 Message	Shido	!	¡!
 Message	Origami	Wanna do it?	¿Quieres hacerlo?
 Message	Shido	"N-No! W-W-Well... um...
-I don't think this is the right place for..."	¡No! B-B-Bueno... um...  No creo que este sea el lugar adecuado para...
-Message	Origami	So, you're saying if it's not here... then we can?	Entonces, ¿estás diciendo que si no está aquí... entonces podemos?
+I don't think this is the right place for..."	"¡No! B-B-Bueno... um…
+No creo que este sea el lugar adecuado para..."
+Message	Origami	So, you're saying if it's not here... then we can?	"Entonces, ¿estás diciendo que si no está aquí…
+Entonces podemos?"
 Message	Shido	"Um, uh, w-well... oh, I know!
-What are you doing after this?"	Um, uh, b-bueno... ¡oh, lo sé!  ¿Qué vas a hacer después de esto?
+What are you doing after this?"	"Um, uh, b-bueno... ¡oh, lo sé!
+¿Qué vas a hacer después de esto?"
 Message	Origami	Cleaning up. From Sports Day.	Limpiando. Del Día del Deporte.
 Message	Shido	Oh...	Oh...
 Message		(Crap. I didn't even have anything planned.)	(Mierda. Ni siquiera tenía nada planeado.)
 Message		"(What do I do? I thought I would've just been
-able to sit down and talk with Origami...)"	(¿Qué hago? Pensé que simplemente podría sentarme y hablar con Origami...)
-Message	Shido	Hm? Oh, it's Kotori. Sorry, Origami, I need to take this.	¿Hm? Oh, es Kotori. Lo siento, Origami, tengo que contestar.
+able to sit down and talk with Origami...)"	"(¿Qué hago? Pensé que simplemente podría
+Sentarme y hablar con Origami...)"
+Message	Shido	Hm? Oh, it's Kotori. Sorry, Origami, I need to take this.	"¿Hm? Oh, es Kotori. Lo siento,
+Origami, tengo que contestar."
 Message	Shido	Hey, Kotori.	Hola, Kotori.
 Message	Kotori	So? Are you on a date?	¿Entonces? ¿Estás en una cita?
-Message	Shido	Uh... I was about to... attempt one I guess?	Uh... Estaba a punto de... ¿intentar uno supongo?
+Message	Shido	Uh... I was about to... attempt one I guess?	Uh... Estaba a punto de... ¿intentar una supongo?
 Message	Kotori	You sound unsure. Stop. Who's the target?	Suenas inseguro. Para. ¿Quién es el objetivo?
 Message	Shido	Origami.	Origami.
-Message	Kotori	Hmph. I see. That's why the Spirits' romance\nlevel hasn't changed, huh?	Hmph. Ya veo. Es por eso que el romance de los Espíritus no ha cambiado, ¿eh?
+Message	Kotori	Hmph. I see. That's why the Spirits' romance\nlevel hasn't changed, huh?	"Hmph. Ya veo. Es por eso que el romance de los
+Espíritus no ha cambiado, ¿eh?"
 Message	Shido	"W-Well, I mean, just like last time, Origami
 might attack you again. I thought that might not
-be good, so I..."	B-Bueno, como la última vez, Origami podría atacarte de nuevo. Pensé que eso no sería bueno, así que...
-Message	Kotori	I know. I didn't say it was a bad thing, did I? Go on,\nbe friendly with her. As long as she's in a good mood,\nI'm sure something good will come out of it.	Sí, lo sé. No dije que fuera algo malo, ¿verdad? Vamos, sé amable con ella. Mientras ella esté de buen humor, estoy seguro de que algo bueno saldrá de ello.
+be good, so I..."	"B-Bueno, como la última vez, Origami podría atacarte
+De nuevo. Pensé que eso no sería bueno, así que..."
+Message	Kotori	I know. I didn't say it was a bad thing, did I? Go on,\nbe friendly with her. As long as she's in a good mood,\nI'm sure something good will come out of it.	"Sí, lo sé. No dije que fuera algo malo, ¿verdad? Vamos,
+sé amable con ella. Mientras ella esté de buen humor,
+Estoy seguro de que algo bueno saldrá de ello."
 Message	Shido	What?	¿Cómo?
 Message	Kotori	So, what's it like?	¿Cómo es?
 Message	Shido	"Well, I wanted to invite her out, but you know how
-it was Sports Day? She's cleaning up now..."	Bueno, quería invitarla a salir, pero ya sabes que era el Día del Deporte... Ella está limpiando ahora...
+it was Sports Day? She's cleaning up now..."	"Bueno, quería invitarla a salir, pero ya sabes que era el
+Día del Deporte... Ella está limpiando ahora..."
 Message	Shido	"I was just a spectator today so I don't think they
-assigned me any cleaning tasks."	Hoy sólo he sido espectadora, así que no creo que me hayan asignado ninguna tarea de limpieza.
+assigned me any cleaning tasks."	"Hoy sólo he sido espectadora, así que no creo que me
+Hayan asignado ninguna tarea de limpieza."
 Message	Kotori	Seems like you have two options here.	Parece que tienes dos opciones aquí.
 Message	Shido	Huh?	¿Eh?
-Message	Kotori	Clean up with her... or play hooky together.	Limpia con ella... o haced novillos juntos.
+Message	Kotori	Clean up with her... or play hooky together.	Limpia con ella... o hacen novillos juntos.
 Message	Shido	I see. I don't know about that second one.	Ya veo. No sé nada de la segunda.
-Message	Kotori	I'm not recommending it. Origami isn't a Spirit,\nand she's hard to read. I'm not sure which option\nwould make her happier.	No lo recomiendo. Origami no es un Espíritu, y es difícil de leer. No estoy seguro de qué opción la haría más feliz.
+Message	Kotori	I'm not recommending it. Origami isn't a Spirit,\nand she's hard to read. I'm not sure which option\nwould make her happier.	"No lo recomiendo. Origami no es un Espíritu, y es difícil
+De leer. No estoy seguro de qué opción la haría más feliz."
 Message	Shido	S-So... what should I do?	Entonces... ¿qué debo hacer?
 Message	Kotori	It's your choice to make, Shido.	Es tu decisión, Shido.
 Message	Shido	"What?! You're gonna give me all that and then
-not even recommend me an option?!"	¡¿Qué?! ¡¿Vas a darme todo eso y luego ni siquiera recomendarme una opción?!
-Message	Kotori	Were you not listening to what I was saying?\nShe's not a spirit, but she definitely has feelings\nfor you. Come on, I'm at my limit here.	¿No estabas escuchando lo que estaba diciendo? No es un espíritu, pero definitivamente tiene sentimientos por ti. Vamos, estoy en mi límite aquí.
+not even recommend me an option?!"	"¡¿Qué?! ¡¿Vas a darme todo eso y luego ni siquiera
+Recomendarme una opción?!"
+Message	Kotori	Were you not listening to what I was saying?\nShe's not a spirit, but she definitely has feelings\nfor you. Come on, I'm at my limit here.	"¿No estabas escuchando lo que estaba diciendo?
+No es un espíritu, pero definitivamente tiene sentimientos
+Por ti. Vamos, estoy en mi límite aquí."
 Message	Shido	I see. You're right.	Ya veo. Tienes razón.
-Message	Kotori	You decided to make her your date target, right?\nUse that dumb brain of yours for once and think\nabout what would make her happy.	Decidiste convertirla en tu objetivo para la cita, ¿verdad? Usa ese tonto cerebro tuyo por una vez y piensa en lo que la haría feliz.
+Message	Kotori	You decided to make her your date target, right?\nUse that dumb brain of yours for once and think\nabout what would make her happy.	"Decidiste convertirla en tu objetivo para la cita, ¿verdad?
+Usa ese tonto cerebro tuyo por una vez y
+Piensa en lo que la haría feliz."
 Message	Shido	It's way easier for you to say that, but...	Es mucho más fácil para ti decir eso, pero...
-Message	Kotori	I'm busy. I'm going now. You just make\nsure that woman doesn't attack me.	Estoy ocupado. Ya me voy. Asegúrate de que esa mujer no me ataque.
+Message	Kotori	I'm busy. I'm going now. You just make\nsure that woman doesn't attack me.	"Estoy ocupado. Ya me voy.
+Asegúrate de que esa mujer no me ataque."
 Message	Shido	Hey! Hey, Kotori! Ugh!	¡Hey! ¡Hey, Kotori! ¡Ugh!
 Message	Origami	Shido? What happened?	¿Shido? ¿Qué ha pasado?
 Message	Shido	Oh! Um, nothing! It's fine. No problem here.	¡Oh! Um, ¡nada! No pasa nada. No hay problema.
@@ -84,15 +107,17 @@ Message	Shido	Uh... Origami? I know what we can do.	Uh... ¿Origami? Sé lo que 
 Message	Origami	Hm?	¿Hm?
 Message	Shido	Do you...	¿Tú...
 Choice		Want me to help you clean up?	¿Quieres que te ayude a limpiar?
-Choice		Wanna play hookie?	¿Quieres jugar a la prostituta?
-Message	Shido	C-Can I help you clean?	¿Puedo ayudarte a limpiar?
+Choice		Wanna play hookie?	¿Quieres hacer novillos?
+Message	Shido	C-Can I help you clean?	¿P-Puedo ayudarte a limpiar?
 Message	Origami	Really?	¿De verdad?
 Message	Shido	Yeah. As long as it's not too much trouble for you.	Sí. Siempre y cuando no sea demasiado problema para ti.
 Message	Origami	"I lost the game. I don't have the right to be
-with you right now, Shido."	He perdido el partido. No tengo derecho a estar contigo ahora, Shido.
+with you right now, Shido."	"He perdido el partido.
+No tengo derecho a estar contigo ahora, Shido."
 Message	Shido	"Hey, um... I'm not a prize. And I want to be with
-you right now, Origami, so... what do you say?"	Hey, um... No soy un premio. Y quiero estar contigo ahora mismo, Origami, así que... ¿qué dices?
-Message	Origami	Okay.	Vale, vale, vale.
+you right now, Origami, so... what do you say?"	"Hey, um... No soy un premio. Y quiero estar contigo
+Ahora mismo, Origami, así que... ¿qué dices?"
+Message	Origami	Okay.	Okay.
 Message	Shido	Let's clean up together!	¡Limpiemos juntos!
 Message	Origami	Mmm...	Mmm...
 Message	Shido	So, what should I help with first?	Entonces, ¿con qué debería ayudar primero?
@@ -100,29 +125,38 @@ Message	Origami	Use this. Rake the ground over there.	Usa esto. Rastrilla el sue
 Message	Shido	Ah, the rake, huh? Got it!	Ah, el rastrillo, ¿eh? ¡La tengo!
 Message		"(Origami gave me the T-shaped rake. It's also called
 a tombo I think... They use it to flatten soccer and
-baseball fields.)"	(Origami me dio el rastrillo en forma de T. También se llama tombo, creo... Lo usan para aplanar campos de fútbol y béisbol).
-Message	Shido	Seriously, you all did great today.	En serio, todos lo habéis hecho genial hoy.
+baseball fields.)"	"(Origami me dio el rastrillo en forma de T.
+También se llama tombo, creo... Lo usan para aplanar
+Campos de fútbol y béisbol)."
+Message	Shido	Seriously, you all did great today.	En serio, todos lo han hecho hecho genial hoy.
 Message	Origami	It doesn't matter. It's pointless if you lose.	No tiene importancia. No tiene sentido si pierdes.
 Message	Shido	"Hm. Some people might think of it that way, but there
 are definitely things to be learned in the process.
-Results aren't everything."	Hm. Puede que algunos lo vean así, pero sin duda hay cosas que aprender en el proceso.  Los resultados no lo son todo.
+Results aren't everything."	"Hm. Puede que algunos lo vean así, pero sin duda hay
+cosas que aprender en el proceso.
+Los resultados no lo son todo."
 Message	Origami	Huh?	¿Eh?
 Message	Shido	"Yeah, I mean, it's a competition and the point is to
-win. But still..."	Sí, quiero decir, es una competición y el objetivo es ganar. Pero aún así...
+win. But still..."	"Sí, quiero decir, es una competición y el objetivo es ganar.
+Pero aún así..."
 Message	Shido	"Just because you lost doesn't make your efforts
-pointless. That's what I think, anyway."	Que hayas perdido no significa que tus esfuerzos hayan sido en vano. Eso es lo que yo pienso.
+pointless. That's what I think, anyway."	"Que hayas perdido no significa que tus esfuerzos
+Hayan sido en vano. Eso es lo que yo pienso."
 Message	Shido	"It makes me feel sad to think that the results are
-the only thing that matters in something like this."	Me entristece pensar que los resultados son lo único que importa en algo así.
+the only thing that matters in something like this."	"Me entristece pensar que los resultados son lo
+Único que importa en algo así."
 Message	Origami	I understand what you mean. It's so like you.	Entiendo lo que quieres decir. Es tan propio de ti.
 Message	Shido	"Y-You think so? Kotori would just call me naïve
 for saying something like this. She'd probably
-just laugh at me."	¿Tú crees? Kotori me llamaría ingenuo por decir algo así. Probablemente se reiría de mí.
+just laugh at me."	"¿Tú crees? Kotori me llamaría ingenuo por decir algo así.
+Probablemente se reiría de mí."
 Message	Origami	...	...
 Message	Shido	Oh... sorry.	Oh... lo siento.
 Message	Origami	It's okay. You two are close siblings.	No pasa nada. Ustedes dos son hermanos cercanos.
 Message	Shido	!	¡!
 Message	Origami	"And.... so long as it wasn't Efreet who killed my
-parents."	Y.... siempre y cuando no haya sido Efreet quien mató a mis padres.
+parents."	"Y.... siempre y cuando no haya sido
+Efreet quien mató a mis padres."
 Message	Shido	W-Well, we haven't figured that out yet.	Bueno, aún no lo hemos averiguado.
 Message	Origami	I'm done on my end. Thanks for helping me, Shido.	He terminado por mi parte. Gracias por ayudarme, Shido.
 Message	Shido	Sure...	Claro...
@@ -143,5 +177,6 @@ Message	Origami	CPR practice.	Práctica de RCP.
 Message	Shido	W-We don't have to practice that!	¡No tenemos que practicar eso!
 Message	Origami	Huh? You want to do something more... intense?	¿Eh? ¿Quieres hacer algo más... intenso?
 Message	Shido	"U-Uh... um... today, um... I...
-I remembered I had to do something! Bye, Origami!"	U-Uh... um... hoy, um... I...  ¡Recordé que tenía que hacer algo! ¡Adiós, Origami!
+I remembered I had to do something! Bye, Origami!"	"U-Uh... um... hoy, um... yo…
+¡Recordé que tenía que hacer algo! ¡Adiós, Origami!"
 Message	Origami	Oh...	Oh...

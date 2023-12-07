@@ -1,15 +1,20 @@
 Operator	Comment	Key	Translation
 Message	Rinne	"Oh! Sorry, I have to get going soon. I'm going
-ahead. You'll be okay, right?"	¡Oh! Lo siento, tengo que irme pronto. Me adelanto. Estarás bien, ¿verdad?
+ahead. You'll be okay, right?"	"¡Oh! Lo siento, tengo que irme pronto.
+Me adelanto. Estarás bien, ¿verdad?"
 Message	Shido	Yeah, I'm fine. Cleaning up's a piece of cake.	Sí, estoy bien. Limpiar es pan comido.
 Message	Rinne	Okay, I'll leave you to it then. Bye.	Vale, te dejo con ello entonces. Adios.
 Message	Shido	Phew...	Uf...
 Message		"(I wonder what this... weird feeling is...?
 Something doesn't seem right, but I can't
-quite put my finger on it.)"	(Me pregunto qué es esta... extraña sensación...  Hay algo que no me cuadra, pero no acabo de entenderlo).
+quite put my finger on it.)"	"(Me pregunto qué es esta... extraña sensación…
+Hay algo que no me cuadra, pero no acabo
+de entenderlo)."
 Message		"(As I took a mental note of the strange
-feeling, I finished my breakfast alone.)"	(Mientras tomaba nota mental de la extraña sensación, terminé de desayunar solo).
+feeling, I finished my breakfast alone.)"	"(Mientras tomaba nota mental de la extraña
+sensación, terminé de desayunar solo)."
 Message		"(Hm. I've still got some time before I need
-to leave for school. What should I do?)"	(Hm. Aún tengo tiempo antes de irme a la escuela. ¿Qué debo hacer?)
+to leave for school. What should I do?)"	"(Hm. Aún tengo tiempo antes de irme a la escuela.
+¿Qué debo hacer?)"
 Choice		Check up on Yoshino at the Fraxinus.	Investiga a Yoshino en el Fraxinus.
 Choice		Head to school early.	Ve pronto al colegio.

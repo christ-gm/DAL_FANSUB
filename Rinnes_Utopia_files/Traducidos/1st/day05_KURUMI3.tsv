@@ -1,0 +1,198 @@
+Operator	Comment	Key	Translation
+Message	Shido	"Kurumi, what are you thinking? Are you trying
+to eat me? Is she the enemy, or...?"	"Kurumi, ¿en qué estás pensando?
+¿Estás intentando comerme? ¿Es ella el enemigo, o...?"
+Message	Shido	The more I think about it, I don't get it...	Cuanto más lo pienso, no lo entiendo...
+Message	Shido	...Kurumi?	...¿Kurumi?
+Message	Kurumi	Shido-san.	Shido-san.
+Message	Shido	What are you doing?	¿Qué estás haciendo?
+Message	Kurumi	I have been doing some thinking.	He estado pensando.
+Message	Kurumi	...Shido-san?	...¿Shido-san?
+Message	Shido	What is it?	¿De qué se trata?
+Message	Kurumi	What do you think of me?	¿Qué piensas de mí?
+Message	Shido	Huh...?	¿Eh...?
+Message	Kurumi	Would you mind telling me?	¿Te importaría decírmelo?
+Message	Shido	Where is this coming from?	¿De dónde viene esto?
+Message	Kurumi	...	...
+Message	Shido	I...	Yo…
+Choice		Want to seal you.	Quiero sellarte.
+Choice		"Consider you as an ""enemy""."	"Considerarte como un ""enemigo""."
+Choice		...Don't know.	...no lo sé.
+Message	Shido	"...want to seal your powers, so you can be a
+normal girl like the others. That's what I want."	"...quiero sellar tus poderes, para que puedas ser una
+chica normal como las demás. Eso es lo que quiero."
+Message	Kurumi	I see.	Ya veo.
+Message	Shido	"If we don't do that, then you will bring sadness
+to many people. Including yourself."	"Si no lo hacemos, traerás tristeza a mucha gente.
+Incluyéndote a ti misma."
+Message	Kurumi	"You may have a point. Happiness and I are
+not too well acquainted."	"Puede que tengas razón. La felicidad y
+yo no nos conocemos muy bien."
+Message	Kurumi	"The past few days have been fun. Like
+something out of a dream."	"Los últimos días han sido divertidos.
+Como salidos de un sueño."
+Message	Shido	Kurumi...?	¿Kurumi...?
+Message	Kurumi	Good-bye, Shido-san.	Adiós, Shido-san.
+Message	Shido	H-Hey!	¡H-Hey!
+Message		"(And that's how... Kurumi disappeared into
+the night.)"	"(Y así fue como... Kurumi
+desapareció en la noche.)"
+Message		"(Ever since that evening, I never saw Kurumi
+again. I don't think I'll ever see her again...)"	"(Desde aquella noche, no he vuelto a ver a Kurumi.
+Creo que nunca la volveré a ver...)"
+Message		"(Was I in the wrong...? Maybe if I had said
+something better in the moment...)"	"(¿Me equivoqué...? Tal vez si hubiera
+dicho algo mejor en el momento...)"
+Message		(It was a decision I'd have to live with...)	(Era una decisión con la que tendría que vivir...)
+Message	Shido	"...probably still think of you as an enemy.
+I mean, you're still after me, aren't you?"	"...probablemente aún te considere un enemigo.
+Quiero decir, todavía me persigues, ¿no?"
+Message	Kurumi	Yes, I am.	Sí, así es.
+Message	Shido	Then I can't trust you fully yet.	Entonces aún no puedo confiar plenamente en ti.
+Message	Kurumi	...Very well.	...muy bien.
+Message	Shido	"So what's on your mind? What are you trying
+to do?"	"¿Qué tienes en mente?
+¿Qué quieres hacer?"
+Message	Kurumi	"It's unfortunate. I believed that being with you
+would allow me to distract myself from those
+things, but I suppose I was wrong to think so."	"Es una pena. Creí que estar contigo me permitiría
+distraerme de esas cosas, pero supongo que
+me equivoqué al pensarlo."
+Message	Shido	Kurumi...?	¿Kurumi...?
+Message	Kurumi	"Shido-san, you are currently hollow. You
+don't look too delicious, but... oh well."	"Shido-san, actualmente estás hueco.
+No te ves muy delicioso, pero... oh bueno."
+Message	Kurumi	"You've become too much a part of me.
+So... never let yourself escape from me."	"Te has vuelto demasiado parte de mí.  Así que…
+nunca te permitas escapar de mí."
+Message	Shido	What? What do you mean?!	¿¡Qué!? ¿Qué quieres decir?
+Message	Shido	Kurumi, stop! If you continue this, you'll—!	¡Kurumi, para! ¡Si continúas con esto, vas a...!
+Message	Kurumi	You still have me wrong.	Sigues equivocándote.
+Message	Kurumi	I haven't been able to return for some time.	Hace tiempo que no puedo volver.
+Message	Shido	K-Kuru—	K-Kuru-
+Message	Kurumi	"We can be together forever like this, Shido-san.
+I must return to where I am needed."	"Podemos estar juntos para siempre así, Shido-san.
+Debo volver a donde me necesitan."
+Message	Kurumi	"Hey Shido-san, please hold onto the memory
+of me. All of it, okay?"	"Hey Shido-san, por favor, aferrate a mi recuerdo.
+Todo, ¿de acuerdo?"
+Message	Kurumi	KIHIHI HIHIHIHIHIHIHIHI!	¡KIHIHIHIHIHIHIHIHIHI!
+Message	Shido	"Honestly, I don't know. I have no idea what
+kind of person you are."	"Sinceramente, no lo sé. No tengo ni idea
+de qué clase de persona eres."
+Message	Shido	I guess you'd be... an enemy.	Supongo que serías... un enemigo.
+Message	Kurumi	...	...
+Message	Shido	But you're not a bad person. That, I trust.	Pero no eres una mala persona. En eso confío.
+Message	Shido	"So, I still don't know. Those are my honest
+feelings."	"Así que todavía no lo sé.
+Esos son mis sinceros sentimientos."
+Message	Shido	So, would you tell me more about yourself?	¿Podría hablarme más de ti?
+Message	Kurumi	Well...	Bueno...
+Message	Shido	"I'm not going to force it out of you now. You
+can tell me when you decide to open up to me."	"No te lo voy a sacar a la fuerza ahora.
+Puedes decírmelo cuando decidas abrirte a mí."
+Message	Kurumi	There is one thing I can tell you.	Hay una cosa que puedo decirte.
+Message	Kurumi	"The shrine on the outskirts of this town.
+If you ever need to speak with me, I will
+be there."	"El santuario en las afueras de esta ciudad.
+Si alguna vez necesitas hablar conmigo,
+allí estaré."
+Message	Shido	...I see.	...ya veo.
+Message	Kurumi	I will be on my way now.	Me pondré en camino.
+Message	Shido	All right. You gonna be okay on your own?	De acuerdo. ¿Vas a estar bien por tu cuenta?
+Message	Kurumi	Haha, how comical. I'm a Spirit, remember?	Jaja, qué cómico. Soy un Espíritu, ¿recuerdas?
+Message	Shido	Spirit or not, you're still a girl.	Espíritu o no, sigues siendo una chica.
+Message	Kurumi	"Someone who needed to be escorted home
+last night needn't lecture me on the matter,
+but I appreciate the sentiment."	"Alguien que anoche necesitó que le acompañaran
+a casa no necesita sermonearme al respecto,
+pero aprecio el sentimiento."
+Message	Shido	R-Right...	B-Bueno…
+Message	Shido	Kurumi, I've decided to trust you.	Kurumi, he decidido confiar en ti.
+Message	Shido	Kurumi, I trust you.	Kurumi, confío en ti.
+Message		"(I wonder if Kurumi is opening up to me. I've
+been thinking about it, but I have yet to find
+an answer.)"	"(Me pregunto si Kurumi se está abriendo a mí.
+He estado pensando en ello, pero aún no
+he encontrado una respuesta)."
+Message	Shido	In the end, is there nothing I can do?	Al final, ¿no hay nada que pueda hacer?
+Message		"(All I can do for now, is bring down Kurumi's
+walls.)"	"(Todo lo que puedo hacer por ahora,
+es derribar los muros de Kurumi.)"
+Message	Shido	...I'll go on a date.	...tendré una cita.
+Message		(That's how I'll learn more about Kurumi.)	(Así aprenderé más sobre Kurumi.)
+Message	Shido	"Taking my time is fine. There are days when...
+even Kurumi may appear sad. She's an ordinary
+girl."	"Tomarme mi tiempo está bien. Hay días en los que…
+incluso Kurumi puede parecer triste.
+Es una chica normal."
+Message	Shido	All right, I'm going to go to the shrine tomorrow.	De acuerdo, mañana iré al santuario.
+Message	Shido	...Who is it?	...¿Quién es?
+Message	Rinne	Sorry for visiting so late.	Siento visitarte tan tarde.
+Message	Shido	"Rinne? Oh, don't worry about it.
+Um, is something wrong?"	"¿Rinne? Oh, no te preocupes.
+Um, ¿pasa algo?"
+Message	Rinne	I wanted to ask you something, Shido.	Quería preguntarte algo, Shido.
+Message	Shido	What is it?	¿De qué se trata?
+Message	Rinne	Yes, well... It appears that you've decided.	Sí, bueno... Parece que has decidido.
+Message	Shido	What are you talking about?	¿De qué estás hablando?
+Message	Rinne	"You said, you wanted to know more about
+Tokisaki-san."	"Dijiste que querías saber
+más sobre Tokisaki-san."
+Message	Shido	Yeah, I do.	Sí, así es.
+Message	Rinne	I see. So, that's your answer then, Shido?	Ya veo. Entonces, ¿esa es tu respuesta, Shido?
+Message	Shido	Yeah, it is.	Sí, lo es.
+Message	Rinne	...	...
+Message	Shido	...	...
+Message	Rinne	Hey, Shido. Promise me something.	Eh, Shido. Prométeme algo.
+Message	Shido	Promise...? What for?	¿Prometes...? ¿Para qué?
+Message	Rinne	"That you'll take good care of Tokisaki-san from
+now on. No matter what happens, you won't
+let her go. Promise me."	"Que cuidarás bien de Tokisaki-san a partir de ahora.
+Pase lo que pase, no la dejarás marchar.
+Prométemelo."
+Message	Shido	"Wh-What's gotten into you? You don't need
+to tell me that..."	¿Qué te pasa? No necesitas decirme que...
+Message	Rinne	"Please, I want you to promise. Promise me
+that you will think only of Tokisaki-San, or
+else your heart will drift away some day."	"Por favor, quiero que me lo prometas. Prométeme
+que sólo pensarás en Tokisaki-San, o tu
+corazón se alejará algún día."
+Message	Shido	Rinne...	Rinne...
+Message	Rinne	Please...	Por favor...
+Message	Shido	"Okay, I promise. Man's word. I promise... to take
+good care of Kurumi."	"De acuerdo, lo prometo. Palabra de hombre.
+Prometo... cuidar bien de Kurumi."
+Message	Rinne	"Okay, I knew you'd make that promise with
+me."	Vale, sabía que harías esa promesa conmigo.
+Message	Shido	Haha, seriously? What's gotten into you?	Jaja, ¿en serio? ¿Qué te pasa?
+Message	Rinne	"I have faith in you. I trust you, Shido. Don't
+forget your promise. Don't break it either, okay?"	"Tengo fe en ti. Confío en ti, Shido.
+No olvides tu promesa. Tampoco la rompas, ¿vale?"
+Message	Shido	Of course.	Por supuesto.
+Message	Rinne	If you break it, then you must pay.	Si lo rompes, debes pagar.
+Message	Shido	I-I know.	Lo sé.
+Message	Rinne	I see. As long as you understand.	Ya veo. Mientras lo entiendas.
+Message	Shido	"Wh-What's the big deal? Why are you threatening
+me?"	"¿Cuál es el problema?
+¿Por qué me amenazas?"
+Message	Rinne	Hehe... Sorry.	Jeje... Lo siento.
+Message	Rinne	But...	Pero...
+Message	Shido	...?	...?
+Message	Rinne	"You'll be fine, right? I'm sure if it's Shido,
+he'll be fine."	"Estarás bien, ¿verdad? Estoy seguro
+de que si es Shido, estará bien."
+Message	Shido	...	...
+Message	Shido	Wh-What was that just now?!	¿Qué ha sido eso?
+Message	Shido	Hey, Rinne... Did you just see―	Oye, Rinne... ¿Acabas de ver...?
+Message	Shido	"Huh? Rinne's gone?
+When did she...?"	"¿Eh? ¿Rinne se ha ido?
+¿Cuándo...?"
+Message	Shido	"Well, it is pretty late...
+I should head to bed as well."	"Bueno, es bastante tarde…
+Yo también debería irme a la cama."
+Message	???	"...In this dream... no one can become happy...
+Shido Itsuka... I hope your next dream will be
+a happy one..."	"...En este sueño... nadie puede llegar a ser feliz... 
+Shido Itsuka... Espero que tu próximo
+sueño sea feliz..."

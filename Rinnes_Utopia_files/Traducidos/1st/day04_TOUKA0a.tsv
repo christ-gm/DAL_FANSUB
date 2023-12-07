@@ -1,0 +1,319 @@
+Operator	Comment	Key	Translation
+Message	Tohka	Yawn... Yaaaaaawn...	*Bostezo*... *Bostezaaaaaaarr*…
+Message	Shido	Oh, Tohka. Morning. You seem pretty sleepy.	Oh, Tohka. Buenos días. Pareces tener mucho sueño.
+Message	Tohka	...Mmh.	...Mmh.
+Message	Shido	Were you up late studying or something?	¿Estuviste estudiando hasta tarde o algo así?
+Message	Tohka	...Mhmm.	...Mhmm.
+Message		(Wha... That was supposed to be a joke, but...)	(Qu... Se suponía que era una broma, pero...)
+Message	Shido	"I-I see. That must have been tough.
+Breakfast's ready."	"Ya veo. Debe haber sido duro.
+El desayuno está listo."
+Message	Tohka	"...Polite phrases...tolerance...calm...
+*mutter* *mumble*..."	"...Frases educadas...tolerancia...calma…
+*murmurar* *murmurar*..."
+Message	Shido	Tohka?	¿Tohka?
+Message	Tohka	"...Well mannered...graceful...a soft demeanor...
+*mumble* *mutter*..."	"...Bien educado...elegante… un comportamiento suave…
+*balbucear* *murmurar*..."
+Message	Shido	Heeeey.	Heeeey.
+Message	Tohka	Hmm...?	¿Hmm...?
+Message	Shido	Breakfast. Aren't you gonna eat? It'll get cold.	El desayuno. ¿No vas a comer? Se enfriará.
+Message	Tohka	I-I apologize...	Me disculpo...
+Message	Tohka	I-I'll eat now.	Comeré ahora.
+Message	Shido	Yeah, help yourself.	Sí, sírvete.
+Message		"(For Tohka to ignore food and be engrossed
+in studies... Is it going to snow tomorrow
+or something?)"	"(Para que Tohka ignore la comida y se enfrasque
+en los estudios... ¿Va a nevar mañana o algo así?)"
+Message	Tohka	Hm? I don't see Rinne anywhere.	¿Hm? No veo a Rinne por ninguna parte.
+Message	Shido	Huh? Did I not tell you, Tohka?	¿Eh? ¿No te lo dije, Tohka?
+Message	Shido	"I decided today that I'll be taking care of
+everything. I used to do it all before
+anyway, so..."	"Hoy he decidido que me encargaré
+de todo. Antes lo hacía todo yo,
+así que..."
+Message	Shido	"Besides, even though our test is so close, if I
+take any more of Rinne's time, I'd feel bad
+for her."	"Además, aunque nuestro examen esté tan cerca,
+si le quito más tiempo a Rinne,
+me sentiría mal por ella."
+Message	Tohka	"Hmm... I see... When someone who was usually there
+no longer is, well... it is somewhat sad."	"Hmm... Ya veo... Cuando alguien que solía estar
+ahí ya no está, bueno... es algo triste."
+Message	Shido	"Y-You're right... It is kinda sad. I got used to
+the daily routine of being woken up by Rinne
+and enjoying her delicious cooking..."	"Tienes razón... Es un poco triste. Me acostumbré
+a la rutina diaria de ser despertado por Rinne y
+disfrutar de su deliciosa cocina..."
+Message	Shido	Now that she's not here... I guess I'm sad.	Ahora que no está aquí... Supongo que estoy triste.
+Message	Tohka	Hm. I-I see...	Hm. Ya veo...
+Message	Shido	"Hmm, what's wrong, Tohka? I'm not used to seeing
+you eat so slowly."	"Hmm, ¿qué pasa, Tohka? No estoy acostumbrado
+a verte comer tan despacio."
+Message	Tohka	"Th-That is not true! Th-This is always how I am.
+I am refined!"	"¡Eso no es verdad! Siempre soy así.
+¡Soy refinada!"
+Message		(Huh? Refined...? Tohka...?)	(¿Eh? ¿Refinada…? ¿Tohka...?)
+Message	Tohka	Wh-What? Is there something on my face?	¿Qué? ¿Tengo algo en la cara?
+Message	Shido	No, nothing...	No, nada...
+Message		"(Hmmmm... Tohka's not herself.
+It's kinda throwing me off...)"	"(Hmmmm... Tohka no es ella misma.
+Me está despistando un poco...)"
+Message	Shido	...Hey, Tohka?	...Eh, ¿Tohka?
+Message	Tohka	"...Support men...depend on men...take a step
+back...*mutter* *mumble*...*mumble* *mutter*..."	"...Apoyar a los hombres...depender de los hombres…
+dar un paso atrás...*murmurar* *murmurar*…"
+Message	Shido	Heeeeey...	Heeeeey...
+Message	Tohka	"...Be honest...be good at listening...listen with
+a smile...*mumble, mumble* *mutter*..."	"...Sé honesto...sé bueno escuchando...escucha con
+una sonrisa...*murmura, murmura* *murmura*..."
+Message		"(I-It's no use... Looks like she's
+not listening at all.)"	(Es inútil... Parece que no escucha nada.)
+Message		"(It sounded like she was memorizing vocabulary
+during breakfast. She seems to be taking the
+test seriously...)"	"(Parecía que estaba memorizando vocabulario
+durante el desayuno. Parece que se está
+tomando el examen en serio...)"
+Message		"(It'd be rude of me to bother Tohka when she's
+challenging herself. Yeah, I'll leave her alone
+for a while...)"	"(Sería descortés por mi parte molestar a Tohka
+cuando se está retando a sí misma. Sí,
+la dejaré en paz por un tiempo...)"
+Message		"(The weather's nice today. But even on a
+refreshing morning like this, the reality is that
+awful things are happening here in Tengu City...)"	"(Hoy hace buen tiempo. Pero incluso en una mañana
+tan refrescante como ésta, la realidad es que están
+ocurriendo cosas horribles aquí en Ciudad Tengu...)"
+Message		"(Now that I remember, I wonder what that
+""barrier's foothold"" was that Kotori
+mentioned yesterday...)"	"(Ahora que lo recuerdo, me pregunto qué era ese
+""punto de apoyo de la barrera"" que Kotori
+mencionó ayer...)"
+Message		"(It's apparently something that's not
+noticeable... but then how are we
+supposed to look for it?)"	"(Aparentemente es algo que no se nota…
+pero entonces, ¿cómo se supone que
+hay que buscarlo?)."
+Message		"(Even if I can't tell, maybe it's something that
+Tohka and the other Spirits can sense?)"	"(Aunque yo no pueda saberlo, ¿quizá sea algo que
+Tohka y los demás Espíritus puedan percibir?)."
+Message		Huh?! T-Tohka's not here!	¡¿Eh?! ¡T-Tohka no está aquí!
+Message	Shido	Hey, Tohka! Where are you?!	¡Hey, Tohka! ¡¿Dónde estás?!
+Message	Tohka	Hm? Sh-Shido?! Where are you?	¿Hm? ¡¿Sh-Shido?! ¿Donde estas?
+Message	Shido	"There you are! You know that's the path to Tengu
+Tower, right?"	"¡Ahí estas! Sabes que ese es el camino
+a la Torre Tengu, ¿verdad?"
+Message	Tohka	"Hm... I was distracted, and it seems like I
+wandered the wrong way. "	"Hm... Estaba distraído, y parece
+que me he equivocado de camino."
+Message	Shido	It's fine, as long as you're okay.	Está bien, mientras estés bien.
+Message	Tohka	I-I am sorry...	Lo siento...
+Message	Shido	I know. Why don't we go down that path today?	Lo sé. ¿Por qué no vamos por ese camino hoy?
+Message	Tohka	...?	...?
+Message	Shido	"We still have time, and instead of heading back,
+why don't we keep going? It might be nice
+to do things like this once in a while."	"Aún tenemos tiempo, y en vez de volver,
+¿por qué no seguimos? Estaría bien hacer
+cosas así de vez en cuando."
+Message	Tohka	Hmmm...	Hmmm...
+Message	Tohka	"A-At times like these... rely on men... take one
+step back... so..."	"En momentos como estos... confiar en los hombres…
+dar un paso atrás... así que..."
+Message	Tohka	"Y-Yes! I agree. If you say so Shido, then I don't
+mind. I'll let you guide us!"	"¡Sí! Estoy de acuerdo. Si tú lo dices Shido,
+entonces no me importa. ¡Dejaré que nos guíes!"
+Message	Shido	"G-Guide? It's not that complicated a path, but...
+oh well. All right. Let's go, Tohka."	"¿G-Guiar? No es un camino tan complicado, pero…
+oh bueno. De acuerdo. Vamos, Tohka."
+Message	Tohka	Yes! I-I will leave it to you!	¡Sí! ¡Te lo dejaré a ti!
+Message		"(Hm? I don't see anyone around. Maybe because
+it's still early morning...)"	"(¿Hm? No veo a nadie por aquí.
+Tal vez porque aún es temprano...)"
+Message		"(If I remember correctly, it's no longer going
+to be used once the Neo Tengu Tower opens.
+It's good we came; this will be our last look.)"	"(Si no recuerdo mal, dejará de usarse cuando se
+inaugure la Torre Neo Tengu. Menos mal que
+hemos venido; este será nuestro último vistazo)."
+Message	Tohka	"Hmm... Shido, what is that? There's a very large
+rock over there!"	"Hmm... Shido, ¿qué es eso?
+¡Hay una roca muy grande allí!"
+Message	Shido	Oh, that's... that's... hmm...?!	Oh, eso es... eso es... ¿hmm...?
+Message	Shido	Wh-What... is that?	¿Qué... es eso?
+Message		"(Is that the monument Kotori was talking about?
+B-But I have no memory of that being there...)"	"(¿Es ese el monumento del que hablaba Kotori?
+P-Pero no recuerdo que eso esté ahí...)"
+Message	Tohka	Hmm, what? Do you not know either, Shido?	¿Qué? ¿Tú tampoco lo sabes, Shido?
+Message	Shido	Er, y-yeah...!	¡Eh, s-sí...!
+Message		"(This is strange...? I've gone down this path so
+many times, but I don't remember it at all! It's
+not like I'm still under the weather... am I...?)"	"(Esto es extraño...? He recorrido este camino tantas
+veces, ¡pero no lo recuerdo en absoluto! No es
+como si todavía estuviera mal... ¿o sí...?)"
+Message	Tohka	Hmm...	Hmm...
+Message	Shido	What's wrong, Tohka?	¿Qué pasa, Tohka?
+Message	Tohka	"I-If you wish to look at that rock, Shido...
+I-I would not mind going to look at it together."	"Si quieres ver esa roca, Shido…
+No me importaría ir a verla juntos."
+Message	Shido	Huh? Er, yeah...	¿Eh? Eh, sí...
+Message		(This means Tohka wants to look at it, right?)	(Esto significa que Tohka quiere mirarlo, ¿verdad?)
+Message	Shido	Um... Then, since we're here, let's take a look.	Um... Entonces, ya que estamos aquí, echemos un vistazo.
+Message		(Not to mention that it's bothering me anyway.)	(Sin mencionar que de todos modos me está molestando.)
+Message	Tohka	Ohh, I see! Then let's go! I will follow you!	¡Ya veo! ¡Entonces vamos! ¡Te seguiré!
+Message	Tohka	Heeeey! Shidoooo, hurry! Over here!	¡Heeey! ¡Shidoooo, deprisa! ¡Por aquí!
+Message		"(...She said she'd follow me, right? My eyes must
+be playing tricks on me since she went ahead
+herself...)"	"(...Ella dijo que me seguiría, ¿verdad? Mis ojos
+deben estar jugándome una mala pasada ya
+que ella misma se adelantó...)"
+Message		―?! What the―?	¡-?! ¿Qué...?
+Message	Shido	Tohka! Behind you―!	¡Tohka! ¡Detrás de ti!
+Message	Tohka	Hm? Behind me...?	¿Hm? ¿Detrás de mí...?
+Message	Shido	I-It disappeared?!	¡¿Desapareció?!
+Message	Shido	"A-Are you okay, Tohka?! Just now, the monument
+shone, and―"	"¡¿Estás bien, Tohka?! Justo ahora,
+el monumento brillaba, y-"
+Message	Tohka	"Shido... It's okay. If we don't go soon, won't we
+be late for school?"	"Shido... No pasa nada. Si no nos vamos pronto,
+¿no llegaremos tarde a la escuela?"
+Message	Shido	"Er, no, we'll still be fine, but...
+What's wrong, Tohka?"	"Eh, no, seguiremos bien, pero…
+¿Qué pasa, Tohka?"
+Message	Tohka	"Nothing is the matter, is it?
+Come on. Let's go, Shido!"	"No pasa nada, ¿verdad? Venga, vamos.
+¡Vamos, Shido!"
+Message	Shido	Er... H-Hey! Wait up!	Er... ¡H-Hey! ¡Espera!
+Message		"(T-Tohka... what's going on? I swear that monument
+just glowed, but...)"	"(T-Tohka... ¿qué está pasando? Juraría que
+ese monumento acaba de brillar, pero...)"
+Message	Shido	T-Tohka...?	¿T-Tohka...?
+Message	Tohka	Hm, what is it?	¿Qué pasa?
+Message	Shido	Um... Are you all right?	Um... ¿Estás bien?
+Message	Tohka	What are you talking about?	¿De qué estás hablando?
+Message	Shido	"Well, just now at Tengu Tower you were acting
+strange... But if you're fine, I guess it doesn't
+matter."	"Bueno, justo ahora en la Torre Tengu estabas
+actuando extraño... Pero si estás bien,
+supongo que no importa."
+Message	Tohka	"What on earth? I would say you are the one acting
+quite strange today, Shido."	"¿Qué demonios? Yo diría que hoy eres tú el
+que actúa de forma extraña, Shido."
+Message	Shido	Oof... I-I'm the one acting strange...?	Uf... ¿Soy yo la que actúa de forma extraña...?
+Message	Rinne	Oh, Shido, Tohka-chan, good morning.	Oh, Shido, Tohka-chan, buenos días.
+Message	Shido	Oh, Rinne. Morning.	Oh, Rinne. Buenos días.
+Message	Tohka	Yes! Rinne, good morning!	¡Sí! Rinne, ¡buenos días!
+Message	Rinne	"Were you able to wake up all right? Someone woke
+you up, huh?"	"¿Pudiste despertarte bien?
+Alguien te despertó, ¿eh?"
+Message	Shido	"Ahh... you know me so well.
+Kotori knocked me awake."	"Ahh... me conoces tan bien.
+Kotori me despertó."
+Message	Rinne	"Hehe. But you had a proper breakfast, right?
+Did you make lunch, too?"	"Hehe. Pero desayunaste bien, ¿no?
+¿Hiciste el almuerzo, también?"
+Message	Shido	"Yeah, we did... Er, Rinne, when you're acting like
+this, you're almost like a mom, you know?"	"Sí, lo hicimos... Er, Rinne, cuando actúas así,
+eres casi como una madre, ¿sabes?"
+Message	Rinne	Huh, really? D-Do I sound like an old lady?	¿En serio? ¿Sueno como una anciana?
+Message	Shido	"No, that's not how I meant it. I feel like if you
+got married, you'd be able to fully support your
+family."	"No, no quise decir eso. Siento que si te
+casaras, serías capaz de mantener
+completamente a tu familia."
+Message	Rinne	Oh, Shido? Will you take my hand?	Oh, ¿Shido? ¿Tomarás mi mano?
+Message	Shido	Huh?! I-I wasn't talking about it like that...!	¡¿Eh?! ¡Yo no estaba hablando de eso así...!
+Message	Rinne	"Gosh... I'm just kidding.
+Tohka's going to get angry, you know."	"Dios... Sólo estoy bromeando.
+Tohka se va a enfadar, ¿sabes?"
+Message	Shido	Hahaha... Sorry, sorry... Wait, Tohka?	Jajaja... Perdón, perdón... Espera, ¿Tohka?
+Message	Tohka	Hm...	Hm...
+Message	Shido	Hm, what's wrong?	¿Qué pasa?
+Message	Tohka	I-It's nothing!	¡No es nada!
+Message	Shido	I-I see... It doesn't look like nothing, but...	Ya veo... No parece nada, pero...
+Message	Rinne	Hehe...	Jeje...
+Message	Ai	"Whoa, there! Itsuka-kun had a lovey-dovey walk to
+school with Tohka? That ain't cheap, you know!"	"¡Whoa, alto ahí! ¿Itsuka-kun tuvo un paseo amoroso
+a la escuela con Tohka? ¡Eso no es barato, ya sabes!"
+Message	Shido	Wh-What's all this?!	¡¿Qué es todo esto?!
+Message	Ai	Tohka-chan, you're working hard!	Tohka-chan, ¡estás trabajando duro!
+Message	Tohka	Y-Yes! I'm giving it my all!	¡Sí! ¡Lo estoy dando todo!
+Message	Mai	"Don't worry, Tohka-chan! If we put some polish
+on that innocent otome heart of yours,
+then no one can stop you!"	"¡No te preocupes, Tohka-chan! Si pulimos un poco
+tu inocente corazón de otome, ¡nadie podrá detenerte!"
+Message	Tohka	R-Really? I hope so.	¿En serio? Eso espero.
+Message	Shido	What are you guys talking about?	¿De qué están hablando?
+Message	Mii	"There are some things in this
+world best left unknown..."	Hay cosas en este mundo que es mejor no saber...
+Message	Shido	"You guys better not be filling Tohka's head with a
+bunch of weird things, all right?"	"Será mejor que no le llenen la cabeza a Tohka
+con un montón de cosas raras, ¿vale?"
+Message	Ai	"Hey! Could you not be rude? When have we ever told
+Tohka weird things?"	"¡Eh! ¿Podrías no ser grosero?
+¿Cuándo le hemos dicho a Tohka cosas raras?"
+Message	Mai	Yeah, that's a false accusation!	¡Sí, es una acusación falsa!
+Message	Mai	"It's because of our flawless backup that you're
+able to spend your time ogling and fawning over
+her, Itsuka-kun!"	"Gracias a nuestros impecables refuerzos puedes
+pasarte el tiempo mirándola y adulándola, Itsuka-kun."
+Message	Shido	F-Fawning... I'm not really―	Adular... No es que realmente―
+Message	Mii	"So ungrateful, even though it's thanks to us that
+you're even standing there breathing..."	"Tan desagradecido, aunque es gracias
+a nosotros que estás ahí respirando..."
+Message	Shido	Wh-What on earth kind of existence are you guys?!	¡¿Qué clase de existencia son ustedes?!
+Message	Mii	"You'd better not anger us too much...
+Be sure to sleep with one eye open."	"Será mejor que no nos enfades demasiado…
+Asegúrate de dormir con un ojo abierto."
+Message	Shido	That's seriously just straight-up scary!	¡Eso sí que da miedo!
+Message	Ai	"Either way, don't take your eyes off Tohka-chan's
+efforts for even a moment, Itsuka-kun! Got it?!"	"En cualquier caso, no apartes los ojos de los esfuerzos
+de Tohka-chan ni un momento, Itsuka-kun. ¡¿Entendido?!"
+Message	Shido	R-Right...	E-Entiendo…
+Message	Mai	"If you ever make Tohka-chan cry, I'll ask my mom
+to string you up from the ceiling!"	"¡Si alguna vez haces llorar a Tohka-chan,
+le pediré a mi madre que te cuelgue del techo!"
+Message	Shido	Wha—?!	¡¿Qué...?!
+Message	Mai	"Until you cry and beg, ""Please, forgive me!"" we'll
+run electricity from a car battery through you!"	"Hasta que llores y supliques: ""¡Por favor, perdóname!"", te
+atravesaremos con la electricidad de una batería de coche."
+Message	Shido	"Wh-What the hell did you learn
+from your mother...?!"	¡¿Qué demonios aprendiste de tu madre...?!
+Message	Mii	"In the underworld of society, betrayal is the
+highest crime... When it comes to that,
+we won't let you die easily."	"En el submundo de la sociedad, la traición
+es el crimen más alto... Cuando se trata
+de eso, no te dejaremos morir fácilmente."
+Message	Shido	Wha...?	Qu…?
+Message	Mii	"A honey bee's poison is slight. To die, you'd need
+to be stung in a thousand different places. Rest
+assured, I have the required amount of bees..."	"El veneno de una abeja de la miel es leve. Para morir,
+tendrías que ser picado en mil lugares diferentes.
+Ten por seguro que tengo la cantidad necesaria de abejas..."
+Message	Shido	AS IF THAT'S REASSURING AT ALL!!	¡¡COMO SI ESO FUERA TRANQUILIZADOR!!
+Message	Ai	"That's how it is. So, Itsuka-kun, you'd better
+make sure you walk to school to—ge—ther with
+Tohka-chan from now on! You got it?!"	"Así es como es. Entonces, Itsuka-kun, ¡mejor asegúrate
+de caminar a la escuela jun—to—con Tohka-chan a
+partir de ahora! ¿Entendido?!"
+Message		(What the hell was all that...?!)	(¿Qué demonios fue todo eso...?)
+Message	Tohka	Shido? What were you talking about?	¿Shido? ¿De qué estabas hablando?
+Message	Shido	Th-That's what I want to know.	Eso es lo que quiero saber.
+Message	Tohka	Hm, I see...	Hm, ya veo...
+Message	Origami	Shido, did you walk to school with Tohka Yatogami?	Shido, ¿fuiste a la escuela con Tohka Yatogami?
+Message	Shido	Huh? Y-Yeah... I did, but...	¿Eh? S-Sí... lo hice, pero...
+Message	Origami	I see.	Ya veo.
+Message		"(Hey, now... I'm not out of the frying pan and
+into the fire, am I?)"	"(Eh, ahora... no salgo de la sartén para
+meterme en el fuego, ¿verdad?)"
+Message	Tohka	"Hm...? Do you have some business here, Origami
+Tobiichi?"	"¿Hm...? ¿Tienes algún asunto que
+tratar aquí, Tobiichi Origami?"
+Message	Origami	Not really.	La verdad es que no.
+Message		(Whew... Looks like that's not the case.)	(Uf... Parece que no es el caso).
+Message	Tohka	Hmph...!	Hmph...
+Message	Rinne	"Tohka-chan... The bell rang, so maybe you should
+sit down?"	"Tohka-chan... Sonó la campana,
+¿así que tal vez deberías sentarte?"
+Message	Tohka	Y-Yes...!	S-Sí...
+Message		"(I-Is it just my imagination, or am I in more
+and more danger every day?)"	"(¿Son imaginaciones mías o
+cada día corro más peligro?)"

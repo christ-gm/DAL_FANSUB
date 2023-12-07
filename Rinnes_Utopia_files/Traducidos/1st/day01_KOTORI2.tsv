@@ -1,44 +1,68 @@
 Operator	Comment	Key	Translation
 Message	Shido	A transmission? Who's it from?	¿Una transmisión? ¿De quién es?
-Message	Kannazuki	Hello...? Oh, Shido-kun! I'm glad I got\nahold of you.	Hola...? ¡Oh, Shido-kun! Me alegro de haberte encontrado.
+Message	Kannazuki	Hello...? Oh, Shido-kun! I'm glad I got\nahold of you.	"Hola...? ¡Oh, Shido-kun!
+Me alegro de haberte encontrado."
 Message	Shido	...Kannazuki-san? What's the matter?	...¿Kannazuki-san? ¿Cuál es el problema?
-Message	Kannazuki	Don't 'what's the matter' me! I tried to\nperform my usual reporting, but I can't\nseem to get ahold of the commander.	¡No me digas qué me pasa! Intenté realizar mi informe habitual, pero no consigo contactar con el comandante.
+Message	Kannazuki	Don't 'what's the matter' me! I tried to\nperform my usual reporting, but I can't\nseem to get ahold of the commander.	"¡No me digas qué me pasa! Intenté realizar mi
+Informe habitual, pero no consigo contactar
+Con el comandante."
 Message	Shido	Kotori...?	¿Kotori...?
-Message	Kannazuki	Yes, the commander mentioned that she\nhad a meeting at school today, so I was\nhoping she'd be somewhere nearby.	Sí, el comandante mencionó que tenía una reunión en la escuela hoy, así que supuse que estaría en algún lugar cercano.
+Message	Kannazuki	Yes, the commander mentioned that she\nhad a meeting at school today, so I was\nhoping she'd be somewhere nearby.	"Sí, el comandante mencionó que tenía una
+Reunión en la escuela hoy, así que supuse
+Que estaría en algún lugar cercano."
 Message	Shido	"Oh, then would you like me to visit Reine?
-Oh, wait..."	Oh, ¿entonces quieres que visite a Reine? Oh, espera...
+Oh, wait..."	"Oh, ¿entonces quieres que visite a Reine?
+Oh, espera..."
 Message	Shido	Hey, I see her... I found Kotori.	Hey, la veo... Encontré a Kotori.
 Message	Kotori	What is it...? Who are you talking to?	¿Qué es...? ¿Con quién estás hablando?
 Message	Shido	"Oh. It's Kannazuki-san. He said he couldn't
 get ahold of you, so he was checking in with
-me."	Oh. Es Kannazuki-san. Dijo que no podía ponerse en contacto con usted, así que estaba comprobando conmigo.
+me."	"Oh. Es Kannazuki-san. Dijo que no podía ponerse
+en contacto con usted, así que estaba
+Comprobando conmigo."
 Message	Kotori	"...Checking in? Oh, come to think of it, I was
 washing my face earlier and didn't check my
-phone."	...¿Comprobando? Ahora que lo pienso, me estaba lavando la cara y no he mirado el móvil.
+phone."	"...¿Comprobando? Ahora que lo pienso, me
+Estaba lavando la cara y no he mirado el móvil."
 Message	Shido	You were washing your face?	¿Te estabas lavando la cara?
-Message	Kotori	Yeah, I was feeling groggy.	Sí, me sentía grogui.
-Message	Shido	Gotcha...	Entendido...
-Choice		I wonder if she's tired. Be kind to her.	Me pregunto si estará cansada. Sé amable con ella.
-Choice		Is she getting lazy? I gotta warn her.	¿Se está volviendo perezosa? Tengo que advertirle.
+Message	Kotori	Yeah, I was feeling groggy.	Sí, me sentía aturdida.
+Message	Shido	Gotcha...	Entiendo…
+Choice		I wonder if she's tired. Be kind to her.	"Me pregunto si estará cansada.
+Sé amable con ella."
+Choice		Is she getting lazy? I gotta warn her.	"¿Se está volviendo perezosa?
+Tengo que advertirle."
 Message	Shido	"Kotori, have you not been getting much sleep?
 Don't push yourself too hard. If you faint, then
-it'll all be for nothing."	Kotori, ¿no has dormido mucho? No te esfuerces demasiado. Si te desmayas, todo habrá sido en vano.
+it'll all be for nothing."	"Kotori, ¿no has dormido mucho? No te
+esfuerces demasiado. Si te desmayas,
+Todo habrá sido en vano."
 Message	Kotori	"...! Hey, what are you talking about?! This is
 a desperate time. Just when am I supposed
-to let my guard down?"	¡...! ¡¿De qué estás hablando?! Este es un momento desesperado. ¿Cuándo se supone que debo bajar la guardia?
+to let my guard down?"	"¡...! ¡¿De qué estás hablando?! Este es un
+momento desesperado. ¿Cuándo se
+Supone que debo bajar la guardia?"
 Message	Shido	But...	Pero...
 Message	Kotori	"Argh! Shut up! If you have time to worry about
 me, then you should be worrying about the other
-Spirits!"	¡Argh! ¡Cállate! ¡Si tienes tiempo para preocuparte por mí, entonces deberías preocuparte por los otros Espíritus!
+Spirits!"	"¡Argh! ¡Cállate! ¡Si tienes tiempo para
+preocuparte por mí, entonces deberías
+Preocuparte por los otros Espíritus!"
 Message	Shido	WHOA!	¡WHOA!
 Message	Kotori	What's the point of hitting on me?!	¡¿Qué sentido tiene ligar conmigo?!
 Message	Shido	I-I was only... watching out for you...	Yo sólo estaba... cuidándote...
-Message	Kannazuki	"Ahhh, Shido-kun! What an honor, to be\nstrong-armed by the commander. What I\nwould give to be in your position!
-Message Shido K-Kannazuki-san...
-Message Shido Hey, are you all right? You're the commander of the Ratatoskr, right? Are you slipping up?"""	"¡Ahhh, Shido-kun! Qué honor, ser armado por el comandante. ¡Lo que daría por estar en tu posición! Mensaje Shido K-Kannazuki-san... Mensaje Shido Hey, ¿estás bien? Eres el comandante del Ratatoskr, ¿verdad? ¿Te estás equivocando?"""
+Message	Kannazuki	Ahhh, Shido-kun! What an honor, to be\nstrong-armed by the commander. What I\nwould give to be in your position!	"¡Ahhh, Shido-kun! Qué honor, ser armado por el
+comandante. ¡Lo que daría por estar
+En tu posición!"
+Message	Shido	K-Kannazuki-san...	K-Kannazuki-san…
+Message	Shido	"Hey, are you all right? You're the commander of the Ratatoskr, right? Are you slipping up?"""	"¿estás bien? Eres el comandante del Ratatoskr,
+¿verdad? ¿Te estás equivocando?"""
 Message	Shido	GWAH!	¡GWAH!
 Message	Kotori	"Ratatoskr is none of your concern. Don't talk
-to me like you know what you're talking about!"	Ratatoskr no es de tu incumbencia. ¡No me hables como si supieras de lo que estás hablando!
-Message	Shido	*whimper*... Okay.	*whimper*... Ok.
-Message	Kannazuki	Aww. The commander elegantly told you\nto put a cork in it... I'm so envious! If you\ncould, please teach me your ways!	Aww. El comandante te dijo elegantemente que le pusieras un corcho... ¡Qué envidia! ¡Si pudieras, por favor enséñame tus maneras!
-Message	Shido	...I-I wouldn't recommend it.	...no lo recomendaría.
+to me like you know what you're talking about!"	"Ratatoskr no es de tu incumbencia. ¡No me
+hables como si supieras de lo que
+Estás hablando!"
+Message	Shido	*whimper*... Okay.	*quejido*... Ok.
+Message	Kannazuki	Aww. The commander elegantly told you\nto put a cork in it... I'm so envious! If you\ncould, please teach me your ways!	"Aww. El comandante te dijo elegantemente que
+Le pusieras un corcho... ¡Qué envidia!
+¡Si pudieras, por favor enséñame tus metodos!"
+Message	Shido	...I-I wouldn't recommend it.	…Y-yo no lo recomendaría.

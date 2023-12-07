@@ -1,9 +1,12 @@
 Operator	Comment	Key	Translation
 Message	Shido	"Ah. I was going to invite someone to go on the
 hill for a date but... I was so worried about Kotori
-I couldn't end up inviting anyone."	Ah. Iba a invitar a alguien a ir a la colina para una cita pero... Estaba tan preocupado por Kotori que no pude terminar invitando a nadie.
+I couldn't end up inviting anyone."	"Ah. Iba a invitar a alguien a ir a la colina para una cita
+pero... Estaba tan preocupado por Kotori que no pude
+Terminar invitando a nadie."
 Message	Shido	"I guess today is kind of lost then. I can go
-shopping then go home and wait for Kotori."	Supongo que el día de hoy está perdido entonces. Puedo ir de compras y luego ir a casa y esperar a Kotori.
+shopping then go home and wait for Kotori."	"Supongo que el día de hoy está perdido entonces.
+Puedo ir de compras y luego ir a casa y esperar a Kotori."
 Message	Kotori	...I'm home.	...estoy en casa.
 Message	Shido	Oh, you're finally home!	¡Oh, por fin estás en casa!
 Message	Kotori	Shido? What are you doing there all by yourself?	¿Shido? ¿Qué haces ahí tú solo?
@@ -11,22 +14,28 @@ Message	Shido	Oh, nothing really.	En realidad, nada.
 Message	Kotori	Weird... is the bath already prepared?	Raro... ¿el baño ya está preparado?
 Message	Shido	Yeah, I got it ready.	Sí, lo tengo listo.
 Message	Kotori	"Okay, then I'm going to go wash up.
-I'm gonna be a while so don't worry about me."	Bien, entonces voy a lavarme.  Voy a tardar un rato así que no te preocupes por mí.
+I'm gonna be a while so don't worry about me."	"Bien, entonces voy a lavarme. Voy a tardar un rato
+Así que no te preocupes por mí."
 Message	Shido	W-Wait a minute!	¡Espera un minuto!
 Message	Kotori	...What? Don't tell me you want to go in with me.	...¿Qué? No me digas que quieres entrar conmigo.
 Message	Shido	O-Of course not!	¡Claro que no!
 Message	Kotori	Then what is it?	Entonces, ¿qué es?
 Message	Shido	"Oh... well... do you want to continue
-our date from the afternoon?"	Oh... bueno... ¿quieres continuar nuestra cita de la tarde?
+our date from the afternoon?"	"Oh... bueno…
+¿quieres continuar nuestra cita de la tarde?"
 Message	Kotori	What? Now? What time do you think it is?!	¿Ahora? ¿Ahora? ¿Qué hora crees que es?
 Message	Shido	"Well, our date was cut short wasn't it? I thought
 maybe we could go on a walk. What do you say?
-That's kind of like a date, isn't it?"	Bueno, nuestra cita se truncó, ¿no? Pensé que tal vez podríamos ir a dar un paseo. ¿Qué te parece?  Eso es como una cita, ¿no?
+That's kind of like a date, isn't it?"	"Bueno, nuestra cita se acorto, ¿no? Pensé que tal vez
+podríamos ir a dar un paseo. ¿Qué te parece?
+Eso es como una cita, ¿no?"
 Message	Shido	"Um... you're a Spirit. If I leave you be, there's
-a chance you might go rogue, right?"	Um... eres un Espíritu. Si te dejo ser, hay una posibilidad de que usted puede ir pícaro, ¿verdad?
+a chance you might go rogue, right?"	"Um... eres un Espíritu. Si te dejo en paz, hay
+Existe la posibilidad de que te vuelvas pícara, ¿verdad?"
 Message	Kotori	W-Well, yeah, but...	Bueno, sí, pero...
 Message	Shido	"If you end up feeling the kind of pain
-you felt before, I..."	Si acabas sintiendo el tipo de dolor que sentías antes, yo...
+you felt before, I..."	"Si acabas sintiendo el tipo de dolor
+Que sentías antes, yo..."
 Message	Kotori	...	...
 Message	Shido	Ah. If you're tired, we don't have to do it tonight.	Ah. Si estás cansado, no tenemos que hacerlo esta noche.
 Message	Kotori	Yeah, let's go.	Sí, vamos.
@@ -34,7 +43,8 @@ Message	Shido	No worries, we can just... wait, what?	No te preocupes, podemos...
 Message	Kotori	Come on. Let's go.	Venga, vamos. Vámonos.
 Message	Shido	Y-You sure?	¿Seguro?
 Message	Kotori	"You're the one who's inviting me.
-Do you not want to go?"	Eres tú quien me invita.  ¿No quieres ir?
+Do you not want to go?"	"Eres tú quien me invita.
+¿No quieres ir?"
 Message	Shido	N-No, I'll go! Let's go!	¡No, yo iré! ¡Vámonos!
 Message	Kotori	Okay, hurry up and get ready.	Vale, date prisa y prepárate.
 Message	Shido	O-Okay...	Vale...
@@ -43,20 +53,27 @@ taken a walk like this."	Hacía tiempo que no dábamos un paseo así.
 Message	Kotori	Yeah...	Sí...
 Message	Shido	"Before you used to be so happy-go-lucky!
 You would just call me Onii-chan and follow
-me around everywhere!"	¡Antes solías ser tan despreocupado!  ¡Me llamabas Onii-chan y me seguías a todas partes!
+me around everywhere!"	"¡Antes solías ser tan despreocupada!
+¡Me llamabas Onii-chan y me
+Seguías a todas partes!"
 Message	Shido	You sure became a busy person.	Seguro que te has convertido en una persona ocupada.
 Message	Kotori	"I couldn't help it. We're the only ones who can
-deal with the dangers of the Spirits."	No pude evitarlo. Somos los únicos que podemos hacer frente a los peligros de los Espíritus.
+deal with the dangers of the Spirits."	"No pude evitarlo. Somos los únicos que podemos
+Hacer frente a los peligros de los Espíritus."
 Message	Shido	"Yeah... compared to back then,
-you're totally like an adult now."	Sí... comparado con entonces, ahora eres totalmente como un adulto.
+you're totally like an adult now."	"Sí... comparado con entonces,
+Ahora eres totalmente como un adulto."
 Message	Kotori	...Adult?	...¿Adulto?
 Message	Shido	"Yeah. Going on a date at night like this
-makes me think about how time has passed."	Sí. Ir a una cita de noche así me hace pensar en cómo ha pasado el tiempo.
+makes me think about how time has passed."	"Sí. Ir a una cita de noche así me hace pensar
+En cómo ha pasado el tiempo."
 Message	Kotori	Date? It's really just a night stroll.	¿Una cita? En realidad es sólo un paseo nocturno.
 Message	Shido	"Oh? Maybe we should hold hands
-to make it feel more like a date."	¿Oh? Tal vez deberíamos tomarnos de la mano para que se sienta más como una cita.
+to make it feel more like a date."	"¿Oh? Tal vez deberíamos tomarnos de la mano
+Para que se sienta más como una cita."
 Message	Kotori	"W-What are you suggesting?
-I'm not some child!"	¿Qué estás sugiriendo?  ¡No soy un niño!
+I'm not some child!"	"¿Qué estás sugiriendo?
+¡No soy una niña!"
 Message	Shido	Oh. So you don't like that sort of thing?	Oh. ¿Así que no te gustan ese tipo de cosas?
 Message	Kotori	No. I don't hate it.	No. No lo odio.
 Message	Shido	Then here... lend me your hand.	Entonces toma... échame una mano.
@@ -65,20 +82,24 @@ Message	Shido	"What do you think? Does it feel more like
 a date now?"	¿Qué te parece? ¿Te parece más una cita ahora?
 Message	Kotori	How stupid.	Qué estupidez.
 Message	Shido	"Don't be like that. This is a date.
-This isn't so bad, is it?"	No seas así. Esto es una cita.  Esto no es tan malo, ¿verdad?
+This isn't so bad, is it?"	"No seas así. Esto es una cita.
+Esto no es tan malo, ¿verdad?"
 Message	Kotori	Yeah...	Sí...
 Message	Shido	Hey, Kotori...	Oye, Kotori...
 Message	Kotori	What is it?	¿De qué se trata?
 Message	Shido	"I feel like I get where you're at, but...
-don't push yourself too much, okay?"	Siento que entiendo dónde estás, pero... no te presiones demasiado, ¿de acuerdo?
+don't push yourself too much, okay?"	"Siento que entiendo dónde estás, pero…
+No te presiones demasiado, ¿de acuerdo?"
 Message	Kotori	I know.	Lo sé.
 Message	Shido	If there's anything I can do, let me know.	Si hay algo que pueda hacer, dímelo.
 Message	Shido	I'll do anything.	Haré lo que sea.
 Message	Kotori	...	...
 Message	Shido	Kotori... are you listening?	Kotori... ¿estás escuchando?
-Message	Kotori	I see. You said anything, right? Good.	Ya veo. Dijiste algo, ¿verdad? Sí.
+Message	Kotori	I see. You said anything, right? Good.	Ya veo. Dijiste algo, ¿verdad? Bien.
 Message	Shido	"What? Oh, maybe not... anything!
-Forget I said that!"	¿Qué cosa? Oh, tal vez no... ¡nada!  ¡Olvida lo que he dicho!
+Forget I said that!"	"¿Qué cosa? Oh, tal vez no... ¡nada!
+¡Olvida lo que he dicho!"
 Message	Kotori	"Too late. I heard it already. I'll be
-counting on you Onii-chan."	Demasiado tarde. Ya lo he oído. Contaré contigo Onii-chan.
+counting on you Onii-chan."	"Demasiado tarde. Ya lo he oído.
+Contaré contigo Onii-chan."
 Message	Shido	Hahaha...	Jajaja...

@@ -1,0 +1,192 @@
+Operator	Comment	Key	Translation
+Message		(Hm? Over there, is that...?)	(¿Hm? Por ahí, ¿eso es...?)
+Message		"(When I glanced over at the lake, I saw Tohka
+sadly staring across its surface, on top of the
+short bridge leading to the outlet tower.)"	"(Cuando eché un vistazo al lago, vi a Tohka mirando
+tristemente a través de su superficie, en lo alto del
+corto puente que lleva a la torre de salida)."
+Message	Tohka	......	......
+Message		"(Ah man... I bet she's still worried about what
+happened at the theater... She looks pretty
+down in the dumps...)"	"(Ah hombre... Apuesto a que todavía está
+preocupada por lo que pasó en el teatro…
+Parece bastante deprimida...)"
+Message		"(Maybe it'd be better if I took her
+mind off things...)"	(Tal vez sería mejor si la distrajera...)
+Message	Shido	Tohka? There you are.	¿Tohka? Ya está.
+Message	Tohka	Sh-Shido...! Why...?	¡Sh-Shido...! ¿Por qué...?
+Message	Shido	Why? I just wanted to talk to you.	¿Por qué? Sólo quería hablar contigo.
+Message	Tohka	Oh, I see...	Oh, ya veo...
+Message		"(She seems pretty depressed... Maybe I could talk
+about something to change her mood?)"	"(Parece bastante deprimida... Tal vez podría hablar
+de algo para cambiar su estado de ánimo)."
+Message		"(Or, maybe... at times like these, perhaps it's
+best to not say anything unnecessary, and
+stay beside her quietly?)"	"(O, tal vez... en momentos como éste, quizá lo mejor
+sea no decir nada innecesario y quedarse
+a su lado en silencio)."
+Message		(I wonder which one...)	(Me pregunto cuál...)
+Choice		Try saying something.	Intenta decir algo.
+Choice		Be quiet and stay by her side.	Cállate y quédate a su lado.
+Message		"(I really should talk about something, anything.
+Even if I can't think of the best topic, she might
+cheer up just by having someone talk to her...)"	"(Debería hablar de algo, de lo que sea. Aunque no se
+me ocurra el mejor tema, ella podría animarse sólo
+con que alguien hablara con ella...)."
+Message	Shido	Umm... Tohka?	Umm... ¿Tohka?
+Message	Tohka	Hmm...?	¿Hmm...?
+Message	Shido	"Er, well... I wanted to apologize.
+Also... thanks."	"Er, bueno... Quería disculparme.
+También... gracias."
+Message	Tohka	Wh-What for, all of a sudden?	¿Para qué, de repente?
+Message	Shido	"Well... I've been thinking that I wanted to
+apologize to you at some point, but I also
+thought that I wanted to thank you."	"Bueno... He estado pensando que quería disculparme
+contigo en algún momento, pero también pensé
+que quería darte las gracias."
+Message	Tohka	...?	...?
+Message	Shido	"When I was scared of the existence of Spirits
+because of what happened with Kurumi, there was a
+time when I... shook off your hand, right?"	"Cuando tenía miedo de la existencia de los espíritus
+por lo que pasó con Kurumi, hubo un momento
+en que... solté tu mano, ¿verdad?"
+Message	Tohka	Oh... back then. I was not bothered by...	Oh... en aquel entonces. No me molestaba...
+Message	Shido	"No, no matter what reason I had, I can't forgive
+myself for shaking off your hand like that."	"No, no importa cuál fuera la razón que tuviera, no puedo
+perdonarme por soltar tu mano de esa manera."
+Message	Tohka	Shido...	Shido...
+Message	Shido	"So... I'm sorry... And then, when I was trying
+to figure out what to do, you were the one to
+reach your hand out to me."	"Así que... lo siento... Y entonces, cuando estaba
+tratando de averiguar qué hacer, fuiste tú
+quien me tendió la mano."
+Message	Tohka	Hmm, did I...?	Hmm, ¿he...?
+Message	Shido	"Yeah... It's not like you and Yoshino appeared
+and destroyed the world, or fought the AST
+just because you wanted to, right?"	"Sí... No es como si tú y Yoshino hubieran aparecido
+y destruido el mundo, o luchado contra la
+AST solo porque quisieran, ¿verdad?"
+Message	Tohka	Y-Yes...	S-Sí...
+Message	Shido	"It was different with Kurumi. I don't know if it's
+true now, but there was no mistake at the time:
+She was attacking people of her own free will."	"Con Kurumi fue diferente. No sé si es cierto ahora,
+pero no hubo ningún error en ese momento:
+Ella atacaba a la gente por su propia voluntad."
+Message	Tohka	...!	¡...!
+Message	Shido	"With you and Yoshino, there was no question;
+I knew you should be saved. But with Kurumi,
+I didn't know whether it was right or not..."	"Contigo y Yoshino, no había duda; sabía que debia
+salvarlas. Pero con Kurumi, no sabía si era
+correcto o no..."
+Message	Shido	"But... you taught me, Tohka. With your warmth, you
+helped me to remember..."	"Pero... tú me enseñaste, Tohka. Con tu calidez,
+me ayudaste a recordar..."
+Message	Shido	So, thank you.	Así que, gracias.
+Message	Tohka	―!	¡-!
+Message	Tohka	"I-I see... Shido, thank you... You are trying
+to cheer me up, aren't you?"	"Ya veo... Shido, gracias…
+Estás intentando animarme, ¿verdad?"
+Message	Shido	"Er, well... I just said how I really feel,
+that's all."	"Er, bueno... Sólo dije lo que realmente siento,
+eso es todo."
+Message	Tohka	"Yes, I know... That's what warmed my heart.
+I thank you, Shido."	"Sí, lo sé... Eso es lo que calienta mi corazón.
+Te lo agradezco, Shido."
+Message	Shido	"Haha, getting thanked even though I thanked you,
+that's kind of funny."	"Jaja, que te den las gracias aunque yo te las
+haya dado a ti, tiene su gracia."
+Message	Tohka	I suppose that's true...	Supongo que es verdad...
+Message	Shido	Ahahaha...!	Ahahaha...
+Message	Tohka	Hahaha...	Jajaja...
+Message		"(Yeah, it was good that I talked to Tohka. To be
+able to see her smile again, even a little.)"	"(Sí, fue bueno que hablara con Tohka. Poder
+verla sonreír de nuevo, aunque sea un poco)."
+Message	Tohka	Shido...	Shido...
+Message	Shido	Hmm?	¿Hmm?
+Message	Tohka	"I studied so hard... and learned so many things...
+But why am I no good...?"	"Estudié tanto... y aprendí tantas cosas…
+¿Pero por qué no soy buena…?"
+Message		"(Oh, I see...Tohka was worried about studying
+for the test...)"	"(Oh, ya veo... Tohka estaba preocupada
+por estudiar para el examen...)"
+Message	Shido	"Hey, Tohka... There are different things that
+people are suited for or not suited for."	"Oye, Tohka... Hay diferentes cosas
+para las que la gente es apta o no."
+Message	Shido	"Rather than trying things that are too difficult,
+I think it's good sometimes to focus on things
+you can do well, and work towards those, you know?"	"En lugar de intentar cosas que son demasiado difíciles,
+creo que a veces es bueno centrarse en las cosas que
+puedes hacer bien y trabajar para conseguirlas, ¿sabes?"
+Message	Tohka	"N-Not suitable...? D-Do you think
+that too, Shido...?"	"¿No es adecuado...?
+¿Tú también piensas eso, Shido...?"
+Message	Shido	"Er, well... I just think you don't have to push
+yourself so much."	Er, bueno... Creo que no tienes que presionarte tanto.
+Message	Shido	"Of course everyone has something they can't do.
+Sometimes it's necessary to accept that part of
+you that's no good."	"Por supuesto que todo el mundo tiene algo que no puede
+hacer. A veces es necesario aceptar esa parte
+de ti que no sirve."
+Message	Shido	"Instead, you can improve what you're a natural at,
+and... Huh?"	"En lugar de eso, puedes mejorar aquello en lo
+que tienes talento natural, y... ¿Eh?"
+Message	Tohka	*Sniffle*...*sniffle*...*sob*...!	*sollozar*... *sollozar*... *sollozar*...
+Message	Shido	T-Tohka...?	¿T-Tohka...?
+Message	Tohka	"E-Even then... I...*sob*...!
+I-I wanted to try my hardest...
+f-for you... for you...!"	"E-Entonces... ¡Yo...*sollozar*...!
+Quise esforzarme al máximo…
+p-por ti... ¡por ti...!"
+Message	Shido	Huh? Wait, what do you mean by...?!	¿Eh? Espera, ¿qué quieres decir con...?
+Message	Tohka	*Sniffle*...*sob*...!!!!	*sollozar*... ¡¡¡¡*sollozar*...!!!!
+Message	Shido	H-Hey! Where are you going? Tohka!	¡H-Hey! ¿A dónde vas? ¡Tohka!
+Message		(O-Oh man... Did I mess up again...?)	(O-Oh dios… ¿Me he vuelto a equivocar...?)
+Message		"(I'll keep quiet and stay by her side. Rather
+than saying useless things to try to cheer her up,
+maybe my feelings can be felt by being nearby.)"	"(Me callo y me quedo a su lado. En lugar de decir
+cosas inútiles para intentar animarla, tal vez mis
+sentimientos puedan sentirse estando cerca)."
+Message		"(I got closer to Tohka and leaned against the
+railing of the bridge. The early summer wind blew
+across the lake's surface.)"	"(Me acerqué a Tohka y me apoyé en la barandilla
+del puente. El viento de principios de verano
+soplaba sobre la superficie del lago)."
+Message		"(Ah... Sometimes it's nice to not do much
+of anything, and take it easy like this.)"	"(Ah... A veces es agradable no hacer mucho de nada,
+y tomárselo con calma así)."
+Message	Tohka	Shido...	Shido...
+Message	Tohka	"I studied so hard... and learned so many things...
+But why am I no good...?"	"Estudié tanto... y aprendí tantas cosas...
+¿Pero por qué no soy buena…?"
+Message		"(Oh, I see...Tohka was worried about studying
+for the test...)"	"(Oh, ya veo... Tohka estaba preocupada
+por estudiar para el examen...)"
+Message	Shido	"Rather than trying things that are too difficult,
+I think it's good sometimes to focus on things
+you can do well, and work towards those, you know?"	"En lugar de intentar cosas que son demasiado difíciles,
+creo que a veces es bueno centrarse en las cosas que
+puedes hacer bien y trabajar para conseguirlas, ¿sabes?"
+Message	Tohka	"N-Not suitable...? D-Do you think
+that too, Shido...?"	"¿No es adecuado...?
+¿Tú también piensas eso, Shido...?"
+Message	Shido	"Er, well... I just think you don't have to push
+yourself so much."	Er, bueno... Creo que no tienes que presionarte tanto.
+Message	Shido	"Of course everyone has something they can't do.
+Sometimes its necessary to accept that part of you
+that's no good."	"Por supuesto que todo el mundo tiene algo que no
+puede hacer. A veces es necesario aceptar esa
+parte de ti que no sirve."
+Message	Shido	"Instead, you can improve what you're a natural at,
+and... Huh?"	"En lugar de eso, puedes mejorar aquello en
+lo que tienes talento natural, y... ¿Eh?"
+Message	Tohka	*Sniffle*...*sniffle*...*sob*...!	*sollozar*... *sollozar*... *sollozar*...
+Message	Shido	T-Tohka...?	¿T-Tohka...?
+Message	Tohka	"E-Even then... I...*sob*...!
+I-I wanted to try my hardest...
+f-for you... for you...!"	"E-Entonces... ¡Yo...*sob*...! 
+Quise esforzarme al máximo…
+p-por ti... ¡por ti...!"
+Message	Shido	Huh? Wait, what do you mean by...?!	¿Eh? Espera, ¿qué quieres decir con...?
+Message	Tohka	*Sniffle*...*sob*...!!!!	*sollozar*... ¡¡¡¡*sollozar*...!!!!
+Message	Shido	H-Hey! Where are you going? Tohka!	¡H-Hey! ¿A dónde vas? ¡Tohka!
+Message		(O-Oh man... Did I mess up again...?)	(O-Oh dios… ¿Me he vuelto a equivocar...?)

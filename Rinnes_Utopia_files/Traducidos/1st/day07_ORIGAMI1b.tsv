@@ -1,0 +1,160 @@
+Operator	Comment	Key	Translation
+Message	Shido	Hey, sorry!	¡Eh, perdona!
+Message	Origami	...	...
+Message	Shido	Don't give me that look. I'll be quick.	No me mires así. Seré rápido.
+Message	Kotori	Hey, what are you up to? I had to use the\nYggdra Folium to pass through the interference.	"Hola, ¿qué estás haciendo? Tuve que usar el Yggdra
+Folium para pasar a través de la interferencia."
+Message	Shido	Oh, my bad! So, what do you want?	¡Oh, culpa mía! Entonces, ¿qué quieres?
+Message	Kotori	It's urgent. I've found the location of the\nenemy.	Es urgente. He encontrado la ubicación del enemigo.
+Message	Shido	The enemy...?	¿El enemigo...?
+Message	Kotori	It appears that Neo Tengu Tower was the\nsource of the barrier.	Parece que la Torre Neo Tengu era la fuente de la barrera.
+Message	Kotori	Ever since we identified both the monument\nand the outlet power as keystones, we were\nable to locate the central source of power.	"Desde que identificamos tanto el monumento como la
+toma de corriente como piedras angulares, fuimos
+capaces de localizar la fuente central de energía."
+Message	Shido	"Neo Tengu Tower? Central source?
+Wait a minute. What are you talking about?"	"¿Torre Neo Tengu? ¿Fuente central?
+Espera un momento. ¿De qué estás hablando?"
+Message	Kotori	What? Don't tell me your mind's affected\ntoo. What's wrong with you?	"¿Qué? No me digas que tu mente está afectada.
+¿Qué te pasa?"
+Message	Shido	Huh?	¿Eh?
+Message	Shido	...?! Wha... What?!	¡...?! Que... ¡¿Qué?!
+Message	Kotori	Hey, are you all right?	Oye, ¿estás bien?
+Message	Shido	"Yeah. Sorry, something just came over me.
+Is all of what you said true?"	"Sí. Lo siento, me ha pasado algo.
+¿Todo lo que dijiste es verdad?"
+Message	Kotori	Yes. We analyzed Spirit waves attached to\nthe barrier at the shrine too, which means these\nthree keystones are powering the barrier.	"Sí. Analizamos las ondas espirituales unidas a la barrera
+en el santuario también, lo que significa que estas tres
+piedras angulares están alimentando la barrera."
+Message	Shido	?!	¡?!
+Message	Kotori	And at the center of this triangle is where\nthe Neo Tengu Tower is located.	"Y en el centro de este triángulo es donde se
+encuentra la Torre Neo Tengu."
+Message	Shido	"So that's where this enemy is... The root of
+all this trouble."	"Así que ahí es donde está este enemigo…
+La raíz de todos estos problemas."
+Message	Kotori	I'm sure of it.	Estoy seguro de ello.
+Message	Shido	"But why did any of this happen in the first
+place? What do they want?!"	"Pero, ¿por qué ocurrió todo esto en primer lugar?
+¿Qué es lo que quieren?"
+Message	Kotori	If you want to know, you'll have to ask\nthem yourself. Hence why I'm calling you.	"Si quieres saberlo, tendrás que preguntarlo tú mismo.
+Por eso te estoy llamando."
+Message	Shido	What?	¿Cómo?
+Message	Kotori	Are you currently with Origami Tobiichi?	¿Estás actualmente con Origami Tobiichi?
+Message	Shido	Yes.	Sí.
+Message	Kotori	Tell her I said, 'Fight the enemy.'	"Dile que dije: ""Lucha contra el enemigo""."
+Message	Shido	H-Hey!	¡H-Hey!
+Message	Kotori	I don't want to ask her either, but it can't\nbe helped.	"Yo tampoco quiero pedírselo,
+pero no se puede evitar."
+Message	Kotori	The Spirits, including myself, aren't fully\nstable right now. She's the only one who\ncan fight in Tengu City.	"Los Espíritus, incluyéndome a mí, no son totalmente
+estables en este momento. Ella es la única que
+puede luchar en Ciudad Tengu."
+Message	Shido	B-But...	P-Pero...
+Message	Kotori	Didn't I tell you? I don't want to ask her\neither.	¿No te lo dije? No quiero preguntarle a ella tampoco.
+Message	Origami	Shido?	¿Shido?
+Message	Shido	Oh, Origami?	Oh, ¿Origami?
+Message	Origami	What is going on?	¿Qué está pasando?
+Message	Shido	Oh, you see... Well...	Oh, verás... Bueno...
+Message	Shido	"So, in order to break the barrier and revert
+Tengu City to the way things were, we need
+to go to the city and resolve the issue."	"Así que, para romper la barrera y que Ciudad Tengu
+vuelva a ser como antes, tenemos que ir a la ciudad
+y resolver el problema."
+Message	Origami	I see...	Ya veo...
+Message	Shido	"Origami, I feel terrible for roping you into
+this."	"Origami, me siento fatal por haberte
+metido en esto."
+Message	Origami	I'll go.	Yo iré.
+Message	Shido	H-Hey, wait!	¡H-Hey, espera!
+Message	Shido	I don't want you to figh—	No quiero que suspires...
+Message	Origami	I know.	Lo sé.
+Message	Shido	Huh?	¿Eh?
+Message	Origami	"I'm not going out of vengeance. This is for
+you and me."	"No me voy por venganza.
+Esto es por ti y por mí."
+Message	Shido	You and me?	¿Tú y yo?
+Message	Origami	That's right. For our future.	Así es. Por nuestro futuro.
+Message	Shido	Origami...	Origami...
+Message	Origami	If you still plan to stop me...	Si aún planeas detenerme...
+Message	Shido	"No, I don't. I'm not against this. You're right.
+We need to do something about the barrier,
+or there won't be a future to save."	"No, no estoy en contra. No estoy en contra de esto.
+Tiene razón.  Tenemos que hacer algo con la barrera,
+o no habrá un futuro que salvar."
+Message	Origami	...	...
+Message	Shido	Got it. Then, I'm going with you.	Entendido. Entonces, voy contigo.
+Message	Origami	Shido...	Shido...
+Message	Shido	"I can't afford to expose you to danger, but we're
+not going to defeat the enemy. We're doing this
+to protect what we love most."	"No puedo permitirme exponerte al peligro, pero no
+vamos a derrotar al enemigo. Estamos haciendo
+esto para proteger lo que más amamos."
+Message	Origami	...Promise.	...Promesa.
+Message	Shido	Yeah. It's a promise!	Sí. ¡Es una promesa!
+Message	Shido	"Neo Tengu Tower. I can't believe it was the
+base this whole time."	"Torre Neo Tengu. No puedo creer que
+fuera la base todo este tiempo."
+Message	Origami	Shido. No one else is around.	Shido. No hay nadie más.
+Message	Shido	I know. It's too quiet despite how early it is.	"Lo sé. Es demasiado tranquilo a pesar
+de lo temprano que es."
+Message	Shido	Hm, Kotori?	¿Hm, Kotori?
+Message	Kotori	Shido. This is no good. They know you're\ncoming. All lifeforms around Neo Tengu\nTower have vanished. They cleared it out.	"Shido. Esto no es bueno. Saben que vienes. Todas las
+formas de vida alrededor de la Torre Neo Tengu han
+desaparecido. La han vaciado."
+Message	Shido	"If that's true, we still have no choice but
+to go in, right?"	"Si eso es cierto, todavía no tenemos más
+remedio que entrar, ¿verdad?"
+Message	Kotori	Yes, that's right, but don't let your guard\ndown.	"Sí, así es, pero no dejes
+que te baje la guardia."
+Message	Shido	You got it.	Ya lo tienes.
+Message	Shido	Well, here goes nothing!	Bueno, ¡ahí es nada!
+Message	Origami	Wait. Enter from the front?	Espera. ¿Entrar por delante?
+Message	Shido	"Didn't you hear me? We're not here to fight.
+Just to protect our future. Let's try and talk
+to them first."	"¿No me has oído? No estamos aquí para luchar.
+Sólo para proteger nuestro futuro.
+Tratemos de hablar con ellos primero."
+Message	Origami	"Shido, ever the optimist. No matter the
+situation."	"Shido, siempre optimista.
+No importa la situación."
+Message	Shido	What's that supposed to mean?	¿Qué se supone que significa eso?
+Message	Origami	Nothing. Let's go.	Nada. Vámonos.
+Message	Shido	O-Okay!	¡Vale!
+Message	Origami	...What the—?!	...¡¿Qué...?!
+Message	Shido	Whoa!	¡Vaya!
+Message	Shido	Were you in my dreams...?	¿Estuviste en mis sueños...?
+Message	Origami	Who are you?	¿Quién eres tú?
+Message	???	No one asked for this ending.	Nadie pidió este final.
+Message	Shido	No one... asked?	¿Nadie... preguntó?
+Message	???	"If only you were content to live in the idyll
+contentment I created..."	"Si tan sólo te conformaras con vivir en el
+idilio de satisfacción que creé..."
+Message	Shido	What are you talking about?	¿De qué estás hablando?
+Message	Origami	Shido... Is that a Spirit?	Shido... ¿Eso es un espíritu?
+Message	Shido	"I don't know, but I don't think this is our first
+time meeting."	"No lo sé, pero no creo que sea
+la primera vez que nos vemos."
+Message	???	"I am the ruler of this world, Eden.
+If you prefer another name, call me Ruler."	"Soy el gobernante de este mundo, Edén.
+Si prefieres otro nombre, llámame Ruler."
+Message	Ruler	"But... telling you is pointless.
+I will banish you."	"Pero... decírtelo no tiene sentido.
+Te desterraré."
+Message	Origami	Protect Territory, ignite!	¡Proteger el territorio, encender!
+Message	Ruler	"Very well. Let me show you how foolish
+you are."	"Muy bien. Déjame mostrarte
+lo tonto que eres."
+Message	Origami	Shido, get back!	¡Shido, vuelve!
+Message	Origami	Razor Blade! No Pain!	¡Razor blade! ¡Sin dolor!
+Message	Ruler	...Pointless.	...sin sentido.
+Message	Origami	"Urgh! What the—?! The enemy Spirit's powers
+are eating through my Territory!"	"¡Urgh! ¡¿Qué...?! ¡Los poderes del Espíritu enemigo
+se están comiendo mi Territorio!"
+Message	Shido	What's wrong, Origami?! Are you okay?!	¡¿Qué pasa, Origami?! ¡¿Estás bien?!
+Message	Origami	Shido! I can't move my body!	¡Shido! ¡No puedo mover mi cuerpo!
+Message	Ruler	Scatter.	Dispersa.
+Message	Origami	Aah! Ugh... AAH!	¡Aah! Ugh... ¡AAH!
+Message	Shido	ORIGAMIIIII! Damn it! What happened?!	¡ORIGAMIIIII! ¡Maldita sea! ¡¿Qué ha pasado?!
+Message	Ruler	"Farewell, Shido Itsuka. I hope for your next
+dream to be a happier one."	"Adiós, Shido Itsuka. Espero que tu
+próximo sueño sea más feliz."
+Message	Shido	AAAAAAAAAAAAAAAAAAAH!	¡AAAAAAAAAAAAAAAAAAAAH!
+Message	Ruler	You promised me... you'd care for Origami.	Me prometiste... que cuidarías de Origami.

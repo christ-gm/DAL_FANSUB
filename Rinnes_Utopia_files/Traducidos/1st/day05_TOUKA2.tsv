@@ -1,0 +1,175 @@
+Operator	Comment	Key	Translation
+Message		"(Hmmm, I thought I'd go on a date with Tohka,
+but... If she went home early, then...)"	"(Hmmm, pensé que iría a una cita con Tohka, pero…
+Si ella se fue a casa temprano, entonces…)"
+Message		"(It can't be helped, so I guess I'll just buy
+stuff for tonight's dinner and head home.)"	"(No se puede evitar, así que supongo que compraré
+cosas para la cena de esta noche y me iré a casa)."
+Message		"(Hmmm, I still have a lot of time.
+I guess I'll buy things for dinner
+and then go on a date...)"	"(Hmmm, todavía tengo mucho tiempo. Supongo que
+compraré cosas para cenar y luego iré a una cita...)."
+Message		(Hm?)	(¿Hm?)
+Message	Shido	Was that Tohka just now?	¿Era Tohka?
+Message		"(Isn't that an udon restaurant over there? I
+don't usually go there, but it's pretty popular.)"	"(¿No es ese de ahí un restaurante de udon?
+No suelo ir, pero es bastante popular)."
+Message		"(If that really was Tohka just now, it bothers
+me... Should I go peek just to check...?)"	"(Si realmente era Tohka hace un momento, me molesta…
+¿Debería ir a mirar sólo para comprobarlo...?)"
+Choice		Peek into the udon store.	Echa un vistazo a la tienda de udon.
+Choice		Do your shopping and hurry home.	Haz tus compras y date prisa en volver a casa.
+Message	Shido	Let's see, Tohka is... there!	Veamos, Tohka está... ¡ahí!
+Message	Tohka	"Hmmmmm... To eat...? Or not to eat...?
+I did refuse Shido's bento... Ohh..."	"Hmmmmm... ¿Para comer...? ¿O no comer...?
+Rechacé el bento de Shido... Ohh..."
+Message		(Huh? T-Tohka...?)	(¿Eh? ¿T-Tohka...?)
+Message	Tohka	Hmmmmm...	Hmmmmm...
+Message	Tohka	B-But then...	P-Pero entonces...
+Message	Tohka	Urgh...	Urgh...
+Message	Tohka	I did order it and everything, so just one bite...	Lo pedí y todo, así que sólo un bocado...
+Message		(Tohka... What is she doing...?)	(Tohka... ¿Qué está haciendo...?)
+Message	Tohka	"Yes, one bite... Just one bite!
+I'm sure Shido would forgive me!"	"Sí, un mordisco... ¡Sólo un mordisco!
+¡Estoy seguro de que Shido me perdonará!"
+Message	Shido	Me? What is she talking about?	¿Yo? ¿De qué está hablando?
+Message	Tohka	Mm! Delicious! My chopsticks won't stop moving!	¡Mm! ¡Delicioso! ¡Mis palillos no paran de moverse!
+Message		"(The mountain of tempura packed high into the bowl
+disappeared in no time, as if being cleaved away
+by an excavator.)"	"(La montaña de tempura apiñada en lo alto
+del cuenco desapareció en un santiamén,
+como hendida por una excavadora)."
+Message	Tohka	Mmm... That was amazing! Oh...?!	Mmm... ¡Eso fue asombroso! ¡¿Oh...?!
+Message	Tohka	N-Now I've done it... I ended up eating it all...	Ahora lo he hecho... Acabé comiéndomelo todo...
+Message		"(Haha... Tohka has an impressive appetite.
+Oh, she's coming out of the restaurant.
+I should call out to her.)"	"(Jaja... Tohka tiene un apetito impresionante.
+Oh, está saliendo del restaurante.
+Debería llamarla)."
+Message	Shido	Hey, Tohka!	¡Eh, Tohka!
+Message	Tohka	Sh-Shido?!	¡¿Sh-Shido?!
+Message	Shido	"Haha, you really were hungry, huh?
+We could have eaten lunch together, you know."	"Jaja, realmente tenías hambre, ¿eh? Podríamos
+haber almorzado juntos, ya sabes."
+Message	Shido	"Haha, it looks like you were pretty hungry.
+Even the staff was surprised by your appetite,
+you know?"	"Jaja, parece que tenías bastante hambre.
+Incluso el personal se sorprendió
+por tu apetito, ¿sabes?"
+Message	Tohka	―?!	¡-?!
+Message	Shido	Hmm? What's wrong?	¿Qué pasa? ¿que pasa?
+Message	Tohka	A-Aaahhh... Urgh... *sniffle*...!	A-Aaahhh... Urgh... ¡*sollozar*...!
+Message	Shido	Huh? T-Tohka?	¿Eh? ¿T-Tohka?
+Message	Shido	Ah! Tohka?! Wait a sec―	¡Ah! ¡¿Tohka?! Espera un segundo...
+Message	Shido	H-Hey! Tohkaaaa!	¡H-Hey! ¡Tohkaaaa!
+Message	Shido	"What on earth is going on?
+Did I do something wrong again...?"	"¿Qué demonios está pasando?
+¿He vuelto a hacer algo mal...?"
+Message	Shido	*Sigh...*	*Suspiro...*
+Message	Shido	Yeah, I'll do my shopping and hurry home.	Sí, haré mis compras y me apresuraré a casa.
+Message	Shido	"I'm glad I got a great deal on that meat for the
+sukiyaki... I hope this'll cheer Tohka up
+a little."	"Me alegro de haber hecho un buen negocio con la carne
+para el sukiyaki... Espero que esto anime
+un poco a Tohka."
+Message	Shido	"All right! With all the good, cheap meat I bought,
+I'll take care of tonight's dinner!"	"¡Muy bien! ¡Con toda la carne buena y barata que
+compré, me encargaré de la cena de esta noche!"
+Message		(Oh, it's Kotori.)	(Oh, es Kotori.)
+Message	Kotori	Shido, what are you doing? Tohka's mental graph\nhas completely slumped!	"Shido, ¿qué estás haciendo? ¡El gráfico mental
+de Tohka se desplomó por completo!"
+Message	Shido	Err... Well that's...	Err... Bueno, eso es...
+Message	Shido	Huh...?	¿Eh...?
+Message		"(D-Did I mess up again...? I've slipped up so
+much, I can't begin to make a guess which mistake
+caused this one...)"	"(¿He vuelto a meter la pata...? He metido tanto la
+pata que no puedo ni empezar a adivinar qué
+error ha provocado esta...)."
+Message	Kotori	You have some idea why, don't you?	Tienes idea de por qué, ¿no?
+Message	Shido	I kind of do... But I also kind of don't...	Más o menos... Pero también como que no...
+Message	Kotori	"Well, that's helpful. I heard from Reine that
+Tohka apparently left early to go home."	"Bueno, eso es útil. Me enteré por Reine que Tohka
+aparentemente se fue temprano para ir a casa."
+Message	Shido	"Yeah, I was thinking about going on a date with
+her, but that schedule ended up not working out..."	"Sí, estaba pensando en tener una cita con ella,
+pero ese horario terminó por no funcionar..."
+Message	Kotori	So, what exactly are you doing right now?	Entonces, ¿qué estás haciendo exactamente ahora?
+Message	Shido	Buying dinner. I thought I'd make sukiyaki today.	Comprando la cena. Pensé en hacer sukiyaki hoy.
+Message	Kotori	You idiot. If that was enough to improve her\nmood, she wouldn't have left early. This can't\njust be because she's hungry, right?	"Idiota. Si eso fuera suficiente para mejorar su estado
+de ánimo, no se habría ido temprano. Esto no
+puede ser sólo porque tiene hambre, ¿verdad?"
+Message	Shido	B-But even so... I have no idea what else to do...	P-Pero aún así... No tengo ni idea de qué más hacer...
+Message	Shido	So, where is she right now?	¿Dónde está ahora?
+Message	Kotori	She's back home and currently\nholed up in her room.	"Ella está de vuelta en casa y
+encerrada en su habitación."
+Message	Shido	I-In her room...?	¿En su habitación...?
+Message	Kotori	How long are you going to just stand there? Isn't\nthis what you live for? Going to help someone\nwho's in pain?	"¿Cuánto tiempo vas a estar ahí parado? ¿No es esto
+para lo que vives? ¿Vas a ayudar a alguien
+que está sufriendo?"
+Message	Shido	R-Right! You're right!	¡Tienes razón! ¡Tienes razón!
+Message	Shido	R-Right... You're right!	Correcto... ¡Tienes razón!
+Message	Kotori	Phew... Try not to screw it up.	Uf... Trate de no meter la pata.
+Message	Shido	"I-I'm sorry! But thanks to you, I feel like I've
+woken up! Thanks, Kotori!"	"¡Lo siento! ¡Pero gracias a ti, siento que
+he despertado! ¡Gracias, Kotori!"
+Message	Shido	"S-Sorry... I shouldn't have just been shopping
+while Tohka was in pain."	"Lo siento... No debería haber ido de
+compras mientras Tohka sufría."
+Message	Shido	"I'd usually go running straight to her... Because
+of you, I've woken up. Thanks, Kotori!"	"Normalmente iba corriendo directamente hacia ella…
+Gracias a ti, me he despertado. ¡Gracias, Kotori!"
+Message	Kotori	It's fine, just get a move on and hurry home!	Está bien, ¡sólo muévete y apresúrate a casa!
+Message		Wait for me, Tohka!	¡Espérame, Tohka!
+Message		Wait for me, Tohka...!	¡Espérame, Tohka...!
+Message		(Now then... Tohka's in her room...)	(Ahora bien... Tohka está en su habitación...)
+Message		"(I'll stop thinking too hard about
+how to patch things up.)"	(Dejaré de pensar tanto en cómo arreglar las cosas).
+Message		"(All I can do now is face Tohka and my feelings
+head on. That's all...)"	"(Todo lo que puedo hacer ahora es enfrentarme a
+Tohka y a mis sentimientos. Eso es todo...)"
+Message		"(I may end up hurting her again... But we can't
+move forward otherwise!)"	"(Puede que acabe haciéndole daño otra vez…
+¡Pero si no, no podemos avanzar!)."
+Message		(All right! I'm going!)	(¡Muy bien! ¡Allá voy!)
+Message		"(There's no point in trying to think so hard
+about things anymore.)"	"(Ya no tiene sentido darle tantas
+vueltas a las cosas)."
+Message		"(All I can do right now is face Tohka head on
+and try my best to save her. That's all...)"	"(Todo lo que puedo hacer ahora es enfrentarme a
+Tohka e intentar salvarla. Eso es todo...)"
+Message		"(I might end up hurting her again somehow...
+But, we can't move forward otherwise!)"	"(Puede que acabe haciéndole daño otra vez de alguna
+manera...  Pero, ¡no podemos avanzar de otra manera!)"
+Message		(All right... I'm going!)	(Muy bien... ¡Allá voy!)
+Message	Shido	T-Tohka? It's me. Can I come in?	¿T-Tohka? Soy yo. ¿Puedo pasar?
+Message	Tohka	―?!	¡-?!
+Message	Shido	I-I'm coming in...	Voy a entrar...
+Message		(The door is locked...)	(La puerta está cerrada...)
+Message	Tohka	L-Leave me alone...!	¡Déjame en paz...!
+Message	Shido	"I want to talk to you, Tohka.
+Could you please open the door?"	"Quiero hablar contigo, Tohka.
+¿Podrías abrir la puerta?"
+Message	Tohka	I...I don't want to see you right now!	Yo... ¡no quiero verte ahora mismo!
+Message	Shido	"Why not?! If it's something I did, I'll apologize.
+Just let me apologize properly, so―"	"¿Por qué no? Si es algo que hice, me disculparé.
+Sólo déjame disculparme apropiadamente, así que..."
+Message	Tohka	Y-You didn't do anything, Shido! Shido, you...	¡Tú no hiciste nada, Shido! Shido, tú...
+Message	Shido	Tohka?	¿Tohka?
+Message	Tohka	"I don't want you to...
+hate me any more than this..."	"No quiero que... me odies
+más que esto..."
+Message	Shido	Hate you...?! Me, hate you?	¡¿Odiarte...?! ¿Yo, odiarte?
+Message	Tohka	"Th-This isn't... How it was supposed to be...
+It wasn't how it..."	"Esto no es... Como se suponía que iba a ser…
+No era como..."
+Message	Shido	"H-Hey... What are you talking about?
+I would never hate you, Tohka!"	"H-Hey... ¿De qué estás hablando?
+¡Nunca te odiaría, Tohka!"
+Message	Tohka	......	......
+Message	Shido	"Tohka! Tomorrow, I'll invite you out again!
+So... Please go out on a date with me,
+one more time!"	"¡Tohka! ¡Mañana, te invitaré a salir otra vez!
+Así que... ¡Por favor, sal conmigo,
+una vez más!"
+Message	Tohka	Sh-Shido... Okay.	Sh-Shido... De acuerdo.
+Message	Shido	It's a promise! I promise you, okay?	¡Es una promesa! Te lo prometo, ¿vale?

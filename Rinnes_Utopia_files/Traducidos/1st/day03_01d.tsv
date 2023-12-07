@@ -1,63 +1,88 @@
 Operator	Comment	Key	Translation
 Message	Tamae	"Okay. Let's begin homeroom to finish up our
-day."	De acuerdo. Vamos a empezar la clase para terminar nuestro día.
+day."	"De acuerdo. Vamos a empezar la clase
+para terminar nuestro día."
 Message		"(It's already homeroom, huh? The day's
 seemed long, and yet so short.)"	(Ya es clase, ¿eh? El día ha parecido largo y, sin embargo, tan corto).
 Message	Tamae	"There's something important I have to tell
 the class today."	Hoy tengo que decir algo importante a la clase.
 Message	Tonomachi	What is it?	¿De qué se trata?
 Message	Tamae	"Uh, well you know about the self-defense force
-at Tengu Garrison, right?"	Uh, bueno, usted sabe acerca de la fuerza de autodefensa en Tengu Garrison, ¿verdad?
+at Tengu Garrison, right?"	"Uh, bueno, usted sabe acerca de la fuerza de
+autodefensa en Tengu Garrison, ¿verdad?"
 Message		"(S-Self-defense force?! I couldn't help from
-looking at Origami.)"	(¡¿Fuerza de autodefensa?! No pude evitar mirar a Origami).
+looking at Origami.)"	"(¡¿Fuerza de autodefensa?!
+No pude evitar mirar a Origami)."
 Message		"(Even though they're talking about her troop,
-Origami didn't even bat an eyelash.)"	(A pesar de que están hablando de su tropa, Origami ni siquiera pestañeó).
+Origami didn't even bat an eyelash.)"	"(A pesar de que están hablando de su tropa,
+Origami ni siquiera pestañeó)."
 Message	Tonomachi	Well, I know of it, but... what about it?	Bueno, lo conozco, pero... ¿qué pasa con él?
 Message	Tamae	"Some of their commanding officers reached
 out to the school, so I have a message for you
-all."	Algunos de sus oficiales al mando se pusieron en contacto con la escuela, así que tengo un mensaje para todos vosotros.
+all."	"Algunos de sus oficiales al mando se pusieron en
+contacto con la escuela, así que tengo un mensaje
+para todos ustedes."
 Message	Tamae	"Um, it's somewhat hard to decipher, but
 put simply, it seems that Tengu Garrison's
-observation machine is malfunctioning."	Um, es algo difícil de descifrar, pero en pocas palabras, parece que la máquina de observación de Tengu Garrison está funcionando mal.
+observation machine is malfunctioning."	"Um, es algo difícil de descifrar, pero en pocas palabras,
+parece que la máquina de observación de
+Tengu Garrison está funcionando mal."
 Message		(The AST is having issues, too?!)	(¡¿La AST también tiene problemas?!)
 Message		"(Origami's expression still hasn't changed.
-Maybe she knows. Well, that'd make sense.)"	(La expresión de Origami sigue sin cambiar.  Quizá lo sepa. Bueno, eso tendría sentido).
+Maybe she knows. Well, that'd make sense.)"	"(La expresión de Origami sigue sin cambiar.
+Quizá lo sepa. Bueno, eso tendría sentido)."
 Message	Tamae	"Soo... There's a chance that the spacequake
 alarms, along with other emergency alerts,
-may either be delayed or won't work at all."	Entonces... Existe la posibilidad de que las alarmas de terremoto espacial, junto con otras alertas de emergencia, se retrasen o no funcionen en absoluto.
+may either be delayed or won't work at all."	"Entonces... Existe la posibilidad de que las alarmas
+de terremoto espacial, junto con otras alertas de
+emergencia, se retrasen o no funcionen en absoluto."
 Message		"(Wait. That's bad, right? Hm...? Wait a minute.
 If both the Fraxinus and the AST are having
-issues...)"	(Espera. Eso es malo, ¿verdad? ¿Hm...? Espera un momento.  Si tanto el Fraxinus y la AST están teniendo problemas ...)
+issues...)"	"(Espera. Eso es malo, ¿verdad? ¿Hm...?
+Espera un momento.  Si tanto el Fraxinus
+y la AST están teniendo problemas ...)"
 Message	Tamae	"So with that said, if you ever sense something
 off, please calm down and head towards the
-shelter, okay?"	Así que, dicho esto, si alguna vez sientes algo raro, por favor, cálmate y dirígete al refugio, ¿de acuerdo?
+shelter, okay?"	"Así que, dicho esto, si alguna vez sientes algo raro,
+por favor, cálmate y dirígete al refugio,
+¿de acuerdo?"
 Message	Tamae	"B-But... there's no telling when you'll run into
 danger. Regardless, keep moving, stay calm, and
-remember to follow the rules of PRT""."""	"Pero... no se sabe cuándo te encontrarás en peligro. En cualquier caso, sigue moviéndote, mantén la calma y recuerda seguir las normas del PRT""."
+remember to follow the rules of PRT""."""	"Pero... no se sabe cuándo te encontrarás en peligro.
+En cualquier caso, sigue moviéndote, mantén la
+calma y recuerda seguir las normas del ""ECH""."
 Message	Tamae	"No Pushing, No Running, No Talking.
 Do you understand?"	No empujar, no correr, no hablar.  ¿Entendido?
 Message		(What is going on with Tengu City...?)	(¿Qué está pasando con Ciudad Tengu...?)
 Message		(Is Origami okay...?)	(¿Está bien Origami...?)
 Message	Origami	...	...
 Message	Tamae	"Okay. That concludes homeroom. Everyone
-return home safely, okay?"	De acuerdo. Eso concluye la clase. Que todo el mundo vuelva a casa sano y salvo, ¿vale?
+return home safely, okay?"	"De acuerdo. Eso concluye la clase. Que todo el
+mundo vuelva a casa sano y salvo, ¿vale?"
 Message	Tonomachi	"Hey Itsuka! Let's stop by Konna Miller's and
-peep at the hot waitresses with short skirts!"	¡Hey Itsuka! ¡Pasemos por Konna Miller's y echemos un vistazo a las atractivas camareras con faldas cortas!
+peep at the hot waitresses with short skirts!"	"¡Hey Itsuka! ¡Pasemos por Konna Miller's y echemos
+un vistazo a las atractivas camareras con faldas cortas!"
 Message	Shido	"Sorry, but you're on your own. I've got stuff to
-take care of."	Lo siento, pero estás por tu cuenta. Tengo cosas de las que ocuparme.
+take care of."	"Lo siento, pero estás por tu cuenta.
+Tengo cosas de las que ocuparme."
 Message	Tonomachi	"Aw, so lame. What's so important that you
-gotta bail on plans with me?"	Aw, que patético. ¿Qué es tan importante que tienes que faltar a tus planes conmigo?
+gotta bail on plans with me?"	"Aw, que patético. ¿Qué es tan importante que
+tienes que faltar a tus planes conmigo?"
 Message	Shido	I have a date.	Tengo una cita.
 Message		"(I couldn't bother explaining, so I left him with
-that.)"	(No podía molestarme en explicarlo, así que le dejé con eso).
+that.)"	"(No podía molestarme en explicarlo,
+así que le dejé con eso)."
 Message	Tonomachi	What...?! Whaaaaaaat?! A DATE?!	¡¿Qué...?! ¡¿Qué?! ¡¿UNA CITA?!
 Message	Shido	Yeah, sorry. Later.	Sí, lo siento. Hasta luego.
-Message	Tonomachi	DAAAAAAMN ITTTTTT!	¡DAAAAAAMN ITTTTTT!
+Message	Tonomachi	DAAAAAAMN ITTTTTT!	¡MIERDAAAAAAA!
 Message	Tonomachi	"...Wh-Why?! HOW?! How does Itsuka get so
-damn lucky?!"	...¡¿Por qué?! ¡¿CÓMO?! ¡¿Cómo Itsuka tiene tanta suerte?!
+damn lucky?!"	"...¡¿Por qué?! ¡¿CÓMO?!
+¡¿Cómo Itsuka tiene tanta suerte?!"
 Message	Shido	"I think you need to work on your personality...
-Later."	Creo que necesitas trabajar en tu personalidad...  Más tarde.
-Message	Tonomachi	NOOOO! Piss off, you meanie! Forget you!	¡NOOOO! ¡Vete a la mierda, mezquino! ¡Olvídate de ti!
+Later."	"Creo que necesitas trabajar en tu personalidad…
+Más tarde."
+Message	Tonomachi	NOOOO! Piss off, you meanie! Forget you!	¡NOOOO! ¡Vete a la mierda, malvado! ¡Olvídate de ti!
 Message		"(*sigh*... If Tonomachi just acted normal, he'd
-probably be the most popular guy in school.)"	(*suspiro*... Si Tonomachi simplemente actuara normal, probablemente sería el chico más popular de la escuela).
+probably be the most popular guy in school.)"	"(*suspiro*... Si Tonomachi simplemente actuara normal,
+probablemente sería el chico más popular de la escuela)."
 Message		(Anyways... What should I do today?)	(En fin... ¿Qué hago hoy?)

@@ -1,0 +1,416 @@
+Operator	Comment	Key	Translation
+Message		"(Mm... Morning already? Kind of rare for me
+to wake up before Kotori wakes me up.)"	"(Mm... ¿Ya es de día? Es raro que me despierte
+antes de que me despierte Kotori)."
+Message	Origami	No, it's not. Do not put words in my mouth.	No, no lo es. No pongas palabras en mi boca.
+Message	Shido	"So you're telling me you don't feel anything
+when you're fighting a Spirit?! When you
+hurt them?!"	"¡¿Así que me estás diciendo que no sientes nada
+cuando luchas contra un Espíritu?!
+¡¿Cuando les haces daño?!"
+Message	Origami	My heart feels nothing.	Mi corazón no siente nada.
+Message	Shido	That's a lie!	¡Eso es mentira!
+Message	Origami	No, it's not!	¡No, no lo es!
+Message	Shido	Why are you so stubborn?!	¡¿Por qué eres tan terco?!
+Message	Origami	What?! Th-That's because you...	¡¿Qué?! Eso es porque tú...
+Message	Shido	Don't put this on me!	¡No me pongas esto!
+Message	Origami	"I... I hate the Spirits! That's why I joined the
+AST! To defeat them... To avenge the murder
+of my parents!"	"Yo... ¡Odio a los Espíritus! ¡Por eso me uní a la AST!
+Para derrotarlos... ¡Para vengar el asesinato
+de mis padres!"
+Message	Shido	...!	¡...!
+Message	Origami	"This is all... I've lived for! Since that fateful
+day, five years ago!"	"Esto es todo... ¡Para lo que he vivido!
+¡Desde ese fatídico día, hace cinco años!"
+Message	Origami	"So, until I've enacted my vengeance, I cannot
+laugh. No, I mustn't laugh!"	"Así que, hasta que no haya ejecutado mi venganza,
+no puedo reír. ¡No, no debo reír!"
+Message	Shido	Origami...	Origami...
+Message		(I'll never give up...)	(Nunca me rendiré...)
+Message		"(That's what I told her, but I don't know where
+that path will lead me.)"	"(Eso es lo que le dije, pero no sé
+adónde me llevará ese camino)."
+Message		"(But it's not a lie. It's how I truly felt. I want
+Origami to smile. For us to laugh together.)"	"(Pero no es mentira. Es lo que sentía de verdad.
+Quiero que Origami sonría. Que riamos juntos)."
+Message		"(It's none of my business, and I'm being
+selfish.)"	(No es asunto mío y estoy siendo egoísta).
+Message		"(No, it is totally selfish, but my heart tells
+me I can't leave her alone in this.)"	"(No, es totalmente egoísta, pero mi corazón me
+dice que no puedo dejarla sola en esto)."
+Message		"(I mean, she works so hard, but she's not allowed
+to smile? That's tragic!)"	"(Quiero decir, ella trabaja tan duro,
+¿pero no se le permite sonreír? ¡Eso es trágico!)"
+Message		"(What's stopping Origami from smiling... is the
+Spirits.)"	"(Lo que impide a Origami sonreír…
+son los Espíritus)."
+Message		"(Only by defeating all of the Spirits will
+Origami smile again.)"	"(Solo derrotando a todos los Espíritus,
+Origami volverá a sonreír)."
+Message		"(NO! I can't let that happen. For both the
+Spirits and Origami.)"	"(¡NO! No puedo dejar que eso ocurra.
+Tanto por los Espíritus como por Origami.)"
+Message		"(If you get your smile back after hurting
+someone, or taking a life, that isn't true
+happiness. That's not the Origami I know.)"	"(Si recuperas la sonrisa después de herir a alguien,
+o de quitar una vida, eso no es verdadera felicidad.
+Ese no es la Origami que conozco)."
+Message		"(Instead, if Origami were to kill a Spirit, then
+her heart would truly die. She would never
+smile again.)"	"(En cambio, si Origami matara a un Espíritu,
+entonces su corazón moriría de verdad.
+Nunca volvería a sonreír)."
+Message		"(I won't let that happen. Neither the Spirits
+nor Origami's heart will die!)"	"(No dejaré que eso suceda. ¡Ni los Espíritus
+ni el corazón de Origami morirán!)"
+Message		"(What can I do, though? Argh! I don't know!
+I'm helpless, but I still...)"	"(¿Pero qué puedo hacer? ¡Argh! ¡No lo sé!
+No puedo hacer nada, pero aún así...)"
+Message	???	Shido.	Shido.
+Message	Shido	OH! Origami. Sorry for calling you out.	¡OH! Origami. Perdón por llamarte.
+Message	Origami	"...I do not mind. What did you wish to speak
+about?"	...no me importa. ¿De qué deseas hablar?
+Message	Shido	Origami, let's go on a date!	Origami, ¡tengamos una cita!
+Message	Origami	Why?	¿Por qué?
+Message	Shido	Wh-What do you mean why?	¿Cómo que por qué?
+Message	Origami	"Shido, no matter how many dates we go on,
+I won't smile. I cannot."	"Shido, no importa cuántas citas tengamos,
+no sonreiré. No puedo."
+Message	Shido	We won't know until we try.	No lo sabremos hasta que lo intentemos.
+Message	Origami	...	...
+Message	Shido	"Let's start, Origami. This is a war between you
+and me!"	"Empecemos, Origami.
+¡Esta es una guerra entre tú y yo!"
+Message	Origami	A war...?	¿Una guerra...?
+Message	Shido	"Yeah! A war called a date! I'll make you fall for
+me, and you'll have no choice but to surrender
+a smile!"	"¡Sí! ¡Una guerra llamada cita! ¡Haré que
+te enamores de mí, y no tendrás más
+remedio que entregar una sonrisa!"
+Message	Origami	...	...
+Message	Origami	...	...
+Message	Shido	Hey, Origami?	¿Oye, Origami?
+Message	Origami	Wh-What is it?	¿Q-Qué pasa?
+Message	Shido	"We've been wandering all over the shopping
+district, but why don't we actually shop?"	"Hemos estado vagando por todo el distrito de compras,
+pero ¿por qué no compramos realmente?"
+Message	Origami	I do not mind.	No me importa.
+Message	Shido	"I know this isn't the most romantic date, but
+I thought maybe we could get groceries for
+dinner... HEY!"	"Sé que no es la cita más romántica, pero pensé
+que podríamos comprar comida para cenar…
+¡HEY!"
+Message	Origami	What is wrong?	¿Qué ocurre?
+Message	Shido	"We're in luck, Origami! Today's the first Sunday
+of the month!"	"¡Estamos de suerte, Origami! Hoy es
+el primer domingo del mes."
+Message	Origami	Huh...?	¿Eh...?
+Message	Shido	"Oh. Don't you know? The ""Sample Stamp Rally
+takes place on the first and last Sundays of the
+month."""	"Oh. ¿No lo sabías? El ""Rally de muestras
+de sellos tiene lugar el primer y el último
+domingo de cada mes""."
+Message	Origami	Sample Stamp Rally? What is that?	¿Reunión de muestras de sellos? ¿Qué es eso?
+Message	Shido	"Origami, I thought you knew everything.
+Guess not?"	"Origami, creía que lo sabías todo.
+Supongo que no."
+Message	Origami	"That is an unfair critique. One cannot be aware
+of all city events and functions."	"Es una crítica injusta. No se puede estar al tanto de
+todos los acontecimientos y funciones de la ciudad."
+Message	Shido	Gotcha. I was just making an assumption. Sorry.	Entendido. Estaba haciendo una suposición. Perdon.
+Message	Origami	No problem. You can teach me.	No hay problema. Puedes enseñarme.
+Message	Shido	All right. Let's enjoy the event while it's on.	De acuerdo. Disfrutemos del evento mientras dure.
+Message	Origami	Roger.	Entendido.
+Message	Shido	This way!	¡Por aquí!
+Message	Clerk	Welcome, welcome! The stamp rally is today!	¡Bienvenidos, bienvenidas! ¡El rally de sellos es hoy!
+Message	Clerk	"Visit all food sample stations to collect all of
+the stamps. You'll get a raffle ticket for the
+chance to win ¥1000 worth of items! Good luck!"	"Visite todas las estaciones de muestras de comida para
+recoger todos los sellos. Recibirás un boleto para el sorteo
+de artículos por valor de 1.000 yenes. Buena suerte."
+Message	Shido	Excuse me! Could I please get two stamp cards?	¡Disculpe! ¿Podría darme dos tarjetas de sellos?
+Message	Clerk	Welcome! Sure, take your time!	¡Bienvenidos! Claro, ¡tómate tu tiempo!
+Message		"(The card I received had vegetables, meat,
+seafood, and side-dish symbols.)"	"(La tarjeta que recibí tenía símbolos de verduras,
+carne, marisco y guarnición)."
+Message	Shido	"Here, Origami! This is your card, okay?
+We need to start with the veggies, then meat,
+fish, and side dishes to collect stamps, okay?"	"¡Toma, Origami! Esta es tu tarjeta, ¿vale? Tenemos que
+empezar con las verduras, luego la carne, el pescado
+y las guarniciones para coleccionar sellos, ¿vale?"
+Message	Origami	...Roger.	...Entendido.
+Message	Shido	All right. Let's hit the vegetable corner.	De acuerdo. Vamos al rincón de las verduras.
+Message	Origami	Since when has this been a thing?	¿Desde cuándo existe esto?
+Message	Shido	"Oh, um, it's pretty recent. Since the Tengu
+Quintet was made. Customers are starting to
+flock there instead of the shopping district."	"Es bastante reciente. Desde que se hizo el Quinteto
+Tengu. Los clientes están empezando a acudir allí
+en lugar del distrito comercial."
+Message	Shido	"Soon, they're going to build the Neo Tengu
+Tower, which they said will be filled with
+shops."	"Pronto van a construir la Torre Neo Tengu,
+que, según dijeron, estará llena de tiendas."
+Message	Shido	"All of the storeowners got together to think of
+ways to keep business fresh here. They throw
+events all the time now. Guess this is one of 'em."	"Los dueños de tiendas se reunieron para idear formas de
+mantener fresco el negocio aquí. Ahora organizan eventos
+todo el tiempo. Supongo que este es uno de ellos."
+Message	Origami	I see. Now, I know.	Ya veo. Ahora lo sé.
+Message	Shido	"Okay! Let's go. The veggie sample of the day
+is..."	"¡Venga! Vámonos. La muestra
+vegetariana del día es..."
+Message	Origami	There.	Allí.
+Message	Shido	Oh, good eye!	¡Oh, buen ojo!
+Message	Clerk	"They're comparing cucumbers from other regions
+and Tengu City. Give it a taste!"	"Están comparando pepinos de otras regiones
+y de la ciudad de Tengu. ¡Pruébalos!"
+Message	Shido	Okay!	¡Vale!
+Message	Clerk	"Hey, cutie. Please try one. I topped it with miso,
+so let me know what you think!"	"Hola, preciosa. Por favor, prueba uno. Lo cubrí con miso,
+¡así que dime lo que piensas!"
+Message	Origami	To try? Roger.	¿Probarlo? Entendido.
+Message	Shido	So this is from another region?	¿Así que esto es de otra región?
+Message	Origami	And this is from Tengu City.	Y esto es de Ciudad Tengu.
+Message	Clerk	Whaddya say? Which is better?	¿Qué te parece? ¿Cuál es mejor?
+Message	Shido	"Mm! I can tell after trying both! Tengu City's
+cucumber is richer in flavor!"	"¡Mm! ¡Puedo decirlo después de probar ambos!
+¡El pepino de Ciudad Tengu tiene más sabor!"
+Message	Origami	Very juicy.	Muy jugoso.
+Message	Clerk	"Right? It pairs with anything! If you want,
+I can wrap one up for you."	"¿Verdad? Combina con todo. Si quieres,
+puedo envolverte uno."
+Message	Shido	"Oh, sorry. We planned to make curry today,
+so we don't need any—"	"Lo siento. Planeamos hacer curry hoy,
+así que no necesitamos..."
+Message	Origami	I'll take three.	Tomaré tres.
+Message	Shido	Huh? Origami?	¿Eh? ¿Origami?
+Message	Clerk	Thank you! It'll be ¥178 for three!	¡Muchas gracias! Serán 178 yenes por tres.
+Message	Origami	"Simply trying all of the samples without
+purchasing one is poor etiquette."	"Probar todas las muestras sin comprar
+ninguna es de mala educación."
+Message		(Gah! That's how it is, huh?!)	(Así son las cosas, ¿eh?)
+Message	Clerk	"Here you go. ¥322 is your change. Don't
+forget your stamp. Thanks for coming.～"	"Aquí tiene. 322 yenes es su cambio.
+No olvide su sello. Gracias por venir."
+Message	Shido	You wanna head to the next stall?	¿Quieres ir al siguiente puesto?
+Message	Origami	"We're not going to purchase onions, potatoes,
+and carrots?"	"¿No vamos a comprar cebollas,
+patatas y zanahorias?"
+Message	Shido	"Oh, I will! Okay. Once we get the ingredients,
+let's head for the meat sample."	"¡Oh, lo haré! De acuerdo. Una vez que tengamos
+los ingredientes, vamos a la muestra de carne."
+Message	Origami	The meat sample is over there, no?	La muestra de carne está allí, ¿no?
+Message	Shido	What?	¿Cómo?
+Message	Origami	They're comparing pork and beef.	Están comparando cerdo y ternera.
+Message	Shido	Amazing, Origami. You visited it already?	Increíble, Origami. ¿Ya lo has visitado?
+Message	Origami	I have memorized the store's layout now.	Ya he memorizado la distribución de la tienda.
+Message	Shido	"Got it. Well, let's keep making our rounds
+to collect stamps."	"Entendido. Bueno, sigamos haciendo nuestras
+rondas para coleccionar sellos."
+Message	Origami	...	...
+Message		"(We gathered all of our ingredients for
+dinner, and completed our stamp cards.)"	"(Reunimos todos los ingredientes para la cena y
+completamos nuestras tarjetas de sellos)."
+Message		"(It's crazy. I never expected Origami to
+buy something at every single stall. She's
+practically the perfect customer for the event.)"	"(Es una locura. Nunca esperé que Origami comprara
+algo en todos los puestos. Es prácticamente la
+clienta perfecta para el evento)."
+Message		"(But being able to try the delicious samples
+with Origami was an afternoon well spent
+in my book.)"	"(Pero poder probar las deliciosas muestras con
+Origami fue una tarde bien invertida en mi libro)."
+Message		"(If I ever get with Origami, I wonder if this is
+how we'd shop together. Sampling things, and
+she'd kindly buy ingredients before we argue.)"	"(Si alguna vez me pongo con Origami, me pregunto si así
+es como compraríamos juntas. Probando cosas, y ella
+amablemente compraría los ingredientes antes de discutir)."
+Message		(What a lovely thought.)	(Qué bonito pensamiento.)
+Message		(In the end, we didn't win anything.)	(Al final, no ganamos nada).
+Message		"(But Origami's expression was stoic until the
+end, and she didn't smile once.)"	"(Pero la expresión de Origami fue estoica hasta el final,
+y no sonrió ni una sola vez)."
+Message		"(Origami had her guard up earlier today, but
+she gradually lowered it throughout the day.
+It put my mind at ease.)"	"(Origami ha levantado la guardia hoy, pero la ha
+ido bajando poco a poco a lo largo del día.
+Eso me tranquilizó)."
+Message	Shido	Here I go!	¡Allá voy!
+Message	Shido	Man, I might've bought too much.	Dios, puede que haya comprado demasiado.
+Message	Origami	Perhaps.	Tal vez.
+Message	Shido	Oh well.	Ah, bueno.
+Message		"(Curry can be made and frozen for another
+time.)"	"(Se puede hacer curry y congelarlo
+para otra ocasión)."
+Message	Origami	Shido?	¿Shido?
+Message	Shido	Hm?	¿Hm?
+Message	Origami	Sit. I'll bring you some tea.	Siéntate. Te traeré un poco de té.
+Message	Shido	Okay.	Okay.
+Message		(Phew. I ate so many samples I'm still full.)	(Uf. He comido tantas muestras que aún estoy lleno).
+Message	Origami	Here you go.	Aquí tienes.
+Message	Shido	Oh, thanks.	Oh, gracias.
+Message	Origami	Is our date over already?	¿Ya ha terminado nuestra cita?
+Message	Shido	"Hm? Pretty much. Shopping was the main
+thing."	"¿Ah, sí? Bastante. Ir de
+compras era lo principal."
+Message	Origami	Understood. Forgive me.	Entendido. Perdóneme.
+Message	Shido	"Huh? Why are you apologizing? Oh, did you
+not have fun? I should be the sorry one."	"¿Eh? ¿Por qué te disculpas? Oh, ¿no te divertiste?
+Yo debería ser el que lo siente."
+Message	Shido	"I don't blame you. Grocery shopping isn't
+anyone's ideal date."	"No te culpo. Hacer la compra no
+es la cita ideal de nadie."
+Message	Origami	That's not true.	Eso no es verdad.
+Message	Shido	Huh?	¿Eh?
+Message	Origami	I had fun. A lot of it.	Me divertí. Mucho.
+Message	Shido	Then, why were you apologizing?	Entonces, ¿por qué te disculpabas?
+Message	Origami	"I had fun today, but I still couldn't bring
+myself to smile. I know how hard you worked."	"Hoy me he divertido, pero no he conseguido
+sonreír. Sé lo duro que has trabajado."
+Message	Shido	Origami...	Origami...
+Message	Origami	"I wanted to smile, but that day—myself from
+five years ago—wouldn't let me. So, forgive me."	"Quería sonreír, pero ese día -yo misma desde hace
+cinco años- no me lo permitía. Así que, perdóname."
+Message	Shido	I see, but that's nothing to apologize for.	Ya veo, pero no hay por qué disculparse.
+Message	Shido	"I think you got me all wrong. You say it like
+this is our last date ever."	"Creo que me has entendido mal. Lo dices como
+si esta fuera nuestra última cita."
+Message	Origami	Wait, what do you mean? You said it's over—	Espera, ¿qué quieres decir? Dijiste que se acabó...
+Message	Shido	"I was talking about shopping. We have to start
+preparing our homemade curry, don't we?"	"Hablaba de ir de compras. Tenemos que empezar a
+preparar nuestro curry casero, ¿no?"
+Message	Origami	...We do.	...lo hacemos.
+Message	Shido	"Even if today's date ends, the war between you
+and me wages on."	"Aunque la cita de hoy termine,
+la guerra entre tú y yo continúa."
+Message	Origami	...?	...?
+Message	Shido	I won't quit until I make you giddy!	¡No pararé hasta que te dé vértigo!
+Message	Origami	Shido...?	¿Shido...?
+Message	Shido	"Origami. Five years ago, the Spirits took your
+life away. Your parents, and the moments you
+could've spent with them. Your smile, your heart."	"Origami. Hace cinco años, los Espíritus te arrebataron la
+vida. Tus padres, y los momentos que podrías haber
+pasado con ellos. Tu sonrisa, tu corazón."
+Message	Origami	...	...
+Message	Shido	"I can't imagine how deep the hatred goes, and
+I could never grasp it. That, I know."	"No puedo imaginar lo profundo que es el odio, y
+nunca podría comprenderlo. Eso, lo sé."
+Message	Shido	"But... will your war against the Spirits
+really end if you kill them all?"	"Pero... ¿terminará realmente tu guerra contra los
+Espíritus si los matas a todos?"
+Message	Shido	"Your heart froze five years ago. Has time
+truly stopped for you?"	"Tu corazón se congeló hace cinco años.
+¿Se ha detenido realmente el tiempo para ti?"
+Message	Origami	...	...
+Message	Shido	"Even if that's the case, I will not give up.
+I don't want to... I'm going to end your
+vendetta. That's my mission!"	"Aunque así sea, no me rendiré. No quiero…
+Voy a acabar con tu venganza.
+¡Esa es mi misión!"
+Message	Shido	"Years. Decades. No, I don't care if it kills me.
+I'll fill you with so much love, you can't help
+yourself from smiling!"	"Años. Décadas. No, no me importa si me mata.
+¡Te llenaré de tanto amor que no
+podrás evitar sonreír!"
+Message	Origami	"Shido, you're giving me the wrong idea. It
+is as if—"	"Shido, me estás dando una idea equivocada.
+Es como si..."
+Message	Shido	"Origami, won't you be with me? Tomorrow,
+the day after, and the day after that..."	"Origami, ¿no estarás conmigo? Mañana,
+pasado mañana y pasado mañana..."
+Message	Origami	...?!	¡...?!
+Message	Shido	"Today, as we were shopping, all I could think
+about was growing old and doing the same thing.
+I wondered what it'd be like if we were..."	"Hoy, mientras íbamos de compras, sólo podía pensar en
+envejecer y hacer lo mismo. Me preguntaba cómo
+sería si fuéramos..."
+Message	Origami	Shido...?	¿Shido...?
+Message	Shido	"In being with you... I want to know what kind of
+place I hold in your heart. I don't know what
+the future has in store for us."	"Al estar contigo... quiero saber qué lugar
+ocupo en tu corazón. No sé qué nos
+depara el futuro."
+Message	Shido	"But I'll take whatever I can get. Like today's
+date. If we can spend time together having
+fun, then some day..."	"Pero tomaré lo que pueda conseguir. Como la cita
+de hoy. Si podemos pasar tiempo juntos
+divirtiéndonos, entonces algún día..."
+Message	Shido	"Someday, if I can occupy a bigger place in
+your heart than your hatred, would it make
+a difference?"	"Algún día, si puedo ocupar un lugar más
+grande en tu corazón que tu odio,
+¿haría alguna diferencia?"
+Message	Origami	...	...
+Message	Shido	"I... I don't want you to seek closure through
+violence. Doing that wouldn't restore your
+happiness. You'd be gone forever, Origami."	"N… No quiero que busques un cierre a través de la
+violencia. Hacer eso no te devolvería la felicidad.
+Te habrías ido para siempre, Origami."
+Message	Origami	...	...
+Message	Shido	Won't you give me a chance, Origami?	¿No me darás una oportunidad, Origami?
+Message	Origami	Huh?	¿Eh?
+Message	Shido	I want to be with you!	¡Quiero estar contigo!
+Message	Shido	"Whatever happened five years ago...
+Your heart, your smile, I accept you for who
+you are, and I want to help you get them back!"	"Lo que pasó hace cinco años... Tu corazón, tu sonrisa,
+te acepto por lo que eres, ¡y quiero
+ayudarte a recuperarlos!"
+Message	Origami	Shi...do...	Shi... do...
+Message	Shido	"I know it's easier said than done. Anything
+could happen beyond this point. We might
+still have to fight the Spirits."	"Sé que es más fácil decirlo que hacerlo. Cualquier cosa
+podría suceder más allá de este punto. Todavía
+podríamos tener que luchar contra los Espíritus."
+Message	Shido	"But I'll accept whatever fate comes. You,
+your enemies, everything!"	"Pero aceptaré cualquier destino que venga.
+¡Tú, tus enemigos, todo!"
+Message	Origami	Well...	Bueno...
+Message	Origami	Oh!	¡Oh!
+Message	Shido	Is that enough, Origami?	¿Es suficiente, Origami?
+Message	Origami	You're unfair, Shido.	Eres injusto, Shido.
+Message	Shido	What?	¿Cómo?
+Message	Origami	How could I refuse?	¿Cómo podría negarme?
+Message	Shido	Origami...	Origami...
+Message	Origami	But I still don't think I can smile.	Pero sigo sin poder sonreír.
+Message	Shido	I vow to make you smile.	Prometo hacerte sonreír.
+Message	Origami	This is not a war you can win, Shido.	Esta no es una guerra que puedas ganar, Shido.
+Message	Shido	Keep thinking that, but I will!	Sigue pensando eso, ¡pero lo haré!
+Message	Origami	...	...
+Message	Origami	Shido...?	¿Shido...?
+Message	Shido	Yeah?	¿Sí?
+Message	Shido	O-Origami...	O-Origami...
+Message	Origami	...	...
+Message	Shido	...!	¡...!
+Message	Origami	Shido.	Shido.
+Message	Shido	S-Sorry!	¡L-Lo siento!
+Message		"(Why's Kotori calling? I wonder if she needs
+something.)"	"(¿Por qué llama Kotori?
+Me pregunto si necesita algo.)"
+Message		"(Something feels strange. Like a haze or unease
+in the back of my mind. Is it a premonition?)"	"(Siento algo extraño. Como una neblina o inquietud
+en el fondo de mi mente. ¿Es una premonición?)"
+Message	Rinne	Please, I want you to promise me. That you'll\ncherish Tobiichi-chan. That you won't ever\nlet her go. Promise me.	"Por favor, quiero que me prometas. Que protegerás a
+Tobiichi-chan. Que nunca la dejarás ir.
+Prométemelo."
+Message		"(All of a sudden, what Rinne said came back to
+me. Origami and I were here together. I can't
+possibly interrupt this moment.)"	"(De repente, me acordé de lo que dijo Rinne.
+Origami y yo estábamos aquí juntos. No
+puedo interrumpir este momento)."
+Message		"(I could call her back. It might be serious,
+but if I answer the phone, I'll miss out on this
+precious moment.)"	"(Podría volver a llamarla. Podría ser serio, pero si
+contesto al teléfono, me perderé este
+precioso momento)."
+Message		"(I can't let this moment slip, but what if it's
+something urgent? Decisions...)"	"(No puedo dejar escapar este momento, pero
+¿y si es algo urgente? Decisiones...)"
+Message		(I feel queasy. Why am I so anxious?)	(Me siento mareado. ¿Por qué estoy tan ansioso?)
+Message	Origami	Shido?	¿Shido?
+Message	Shido	Y-Yeah...	S-Sí...
+Message		"(That's right. I know what to do.
+I'm going to...)"	"(Así es. Ya sé qué hacer.
+Voy a...)"
+Choice		Answer.	Contesta.
+Choice		Don't answer.	No contestes.

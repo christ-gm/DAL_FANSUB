@@ -1,12 +1,12 @@
 Operator	Comment	Key	Translation
 Message	Tohka	I-Is this okay?	¿Esto está bien?
 Message	Reine	"Mm. All that's left is to get the towel and gently
-wipe down his body."	"Mm. Todo lo que queda es conseguir la toalla y suavemente
-limpiar su cuerpo."
+wipe down his body."	"Mm. Todo lo que queda es conseguir la toalla
+y suavemente limpiar su cuerpo."
 Message	Tohka	G-Gently, right?	Suavemente, ¿verdad?
 Message		"(Wh-What? What's going on?
 I'm super self-conscious...)"	"(¿Qué? ¿Qué pasa?
-Estoy super cohibida...)"
+Estoy super cohibido…)"
 Message	Reine	Now... Let's get his temperature, too.	Ahora... Vamos a tomar su temperatura, también.
 Message	Shido	What? Shouldn't it be afterwards...?	¿Cómo? ¿No debería ser después...?
 Message	Reine	...Shin, open wide.	...Shin, abre bien.
@@ -20,9 +20,9 @@ furiosamente...)"
 Message	Shido	...!	¡...!
 Message		"(Every time Tohka moved the towel, it tickled my
 body. I felt like I would make a weird sound at
-any moment.)"	"(Cada vez que Tohka movía la toalla, hacía cosquillas en mi
-cuerpo. Sentía como si fuera a hacer un sonido raro en
-cualquier momento)."
+any moment.)"	"(Cada vez que Tohka movía la toalla, hacía cosquillas
+en mi cuerpo. Sentía como si fuera a hacer un
+sonido raro en cualquier momento)."
 Message	Tohka	"Sh-Shido! Are you okay?! I'm sorry, I may have
 touched your old wounds."	"¡Sh-Shido! ¡¿Estás bien?! Lo siento, puede que haya
 tocado tus viejas heridas."
@@ -44,18 +44,19 @@ estás haciendo un buen trabajo."
 Message	Tohka	"R-Really?! It seems like it's good to keep the
 body clean!"	"¡¿En serio?! Parece que es bueno mantener el
 ¡cuerpo limpio!"
-Message	Shido	*Pant*...*pant*... Th-Thanks, Tohka! I'm...	*Pant*...*pant*... ¡G-Gracias, Tohka! Yo...
+Message	Shido	*Pant*...*pant*... Th-Thanks, Tohka! I'm...	*Jadeo*... *jadeo*... Gr-Gracias, Tohka. Estoy…
 Message	Kotori	Tohka, I think you left a spot over there.	Tohka, creo que te has dejado una mancha por ahí.
 Message	Tohka	Hm? That way?! Got it!	¿Hm? ¡¿Por ahí?! ¡Entendido!
 Message	Shido	K-Kotori... you—!	¡K-Kotori... tú...!
 Message	Shido	...! ...?!?!?!?!	...! ...?!?!?!?!
 Message	Yoshino	Sh-Shido...san... A-Are you okay...?	Sh-Shido...san... ¿Estás bien...?
 Message	Shido	I'm not f—	No estoy f-
-Message	Yoshinon	It's totally fine! A perfect harem situation\nfor the lucky, perverted Shido-kun.	¡Está totalmente bien! Una perfecta situación de harén para el afortunado y pervertido Shido-kun.
-Message		(*Grunt*! Y-Yoshinon...!)	(*¡Grunt*! ¡Y-Yoshinon...!)
+Message	Yoshinon	It's totally fine! A perfect harem situation\nfor the lucky, perverted Shido-kun.	"¡Está totalmente bien! Una perfecta situación de
+harén para el afortunado y pervertido Shido-kun."
+Message		(*Grunt*! Y-Yoshinon...!)	(*¡Quejido*! ¡Y-Yoshinon...!)
 Message		(O-Oh no... I... can't...)	(O-Oh no... Yo... no puedo...)
 Message		(T-Take it...)	(T-Tómalo...)
-Message	Shido	*Wheeze*...*pant*...*wheeze*...*pant*...	*Wheeze*... *pant*... *wheeze*... *pant*...
+Message	Shido	*Wheeze*...*pant*...*wheeze*...*pant*...	*Jadeo*... *jadeo*... *jadeo*... *jadeo*…
 Message	Reine	"Hm... When I took your temperature at the
 Fraxinus, you were normal... but it seems as
 though you're starting to develop a fever."	"Hm... Cuando te tomé la temperatura en el
@@ -83,7 +84,8 @@ Are you really okay?"	"Shido, pareces peor que antes...
 Message	Shido	Y-Yeah... I'm fine, I think. Um... Thanks, Tohka.	S-Sí... Estoy bien, creo. Um... Gracias, Tohka.
 Message	Tohka	Yeah, whenever you need help, let me know!	Sí, cuando necesites ayuda, ¡házmelo saber!
 Message	Shido	Hahaha... haha...	Jajaja... jajaja...
-Message	Yoshinon	Man, we might have overdone it.\nSorry, Shido-kun～	Tío, puede que nos hayamos pasado. Lo siento, Shido-kun.
+Message	Yoshinon	Man, we might have overdone it.\nSorry, Shido-kun～	"Dios, puede que nos hayamos pasado.
+Lo siento, Shido-kun."
 Message	Yoshino	I-I'm sorry...	Lo siento...
 Message	Shido	Hm? Don't worry about it. Thanks for visiting.	¿Eh? No te preocupes. Gracias por su visita.
 Message	Yoshino	"I-If you ever need anything...
@@ -112,8 +114,8 @@ Message	Shido	Yeah, I will.	Sí, lo haré.
 Message		(Gosh...)	(Dios...)
 Message		(I let out a big sigh and stared at the ceiling.)	(Suelto un gran suspiro y me quedo mirando al techo).
 Message		"(I couldn't get that last image of Kotori out of
-my mind. She seemed so worried.)"	"(No podía quitarme de la cabeza la última imagen de Kotori.
-mi mente. Parecía tan preocupada)."
+my mind. She seemed so worried.)"	"(No podía sacarme esa última imagen de Kotori de
+la cabeza. Parecía tan preocupada.)"
 Message	Shido	"Now that everyone's gone, I feel lonely...
 Is that really sappy?"	"Ahora que todos se han ido, me siento solo...
 ¿Es eso realmente ñoño?"
@@ -182,10 +184,13 @@ un aire misterioso. Parece un poco
 intimidante...)"
 Message		"(Last year, she made it into the top three of the
 school's unofficial Dream Girlfriend"" rankings.)"""	"(El año pasado, se situó entre las tres primeras
-clasificación no oficial de ""novias de ensueño"" de la escuela)""."
-Message		"(However, she's earned the nickname Permafrost"""	"(Sin embargo, se ha ganado el apodo de Permafrost"""
-from being such a hard-to-get cool girl...			nan
-"or so people say.)"""			nan
+clasificación no oficial de ""novias de ensueño""
+de la escuela)""."
+Message		"(However, she's earned the nickname Permafrost""
+from being such a hard-to-get cool girl…
+or so people say.)"""	"(Sin embargo, se ha ganado el apodo de ""Permafrost""
+por ser una chica fría y difícil de conquistar…
+o al menos eso dicen.)"""
 Message		"(But... that could all be wrong. You see, she's
 in the AST, an anti-Spirit division of the
 Self Defense Force.)"	"(Pero... todo eso podría estar mal. Verás, ella está
@@ -194,8 +199,8 @@ Fuerza de Autodefensa)."
 Message		"(Tohka, Yoshino, Kurumi, and Kotori... Origami has
 battled them all, in order to defeat the Spirit
 that killed her parents.)"	"(Tohka, Yoshino, Kurumi y Kotori... Origami ha
-luchado contra todos ellos, con el fin de derrotar al Espíritu
-que mató a sus padres)."
+luchado contra todos ellos, con el fin de derrotar
+al Espíritu que mató a sus padres)."
 Message		"(And recently, the culprit was thought to be my
 sister, Kotori... so I had to fight against her.)"	"(Y recientemente, se pensó que la culpable era mi
 hermana, Kotori... así que tuve que luchar contra ella)."
@@ -236,8 +241,8 @@ can you calm down? P-Please?"	"¡Espera, Origami! Por favor...
 Message	Kotori	...What's the meaning of this?	...¿Qué significa esto?
 Message	Shido	"Sh-She's paying me a visit, that's all! I was out
 for so long, she came to check in on me!
-Right, Origami?"	"¡Me está haciendo una visita, eso es todo! Estuve fuera
-tanto tiempo que ha venido a verme.
+Right, Origami?"	"¡Me está haciendo una visita, eso es todo! Estuve
+fuera tanto tiempo que ha venido a verme.
 ¿Verdad, Origami?"
 Message	Origami	Yes. What Shido said.	Sí. Lo que dijo Shido.
 Message	Kotori	"Really... I never knew paying a visit meant
@@ -254,7 +259,7 @@ Message	Origami	...	...
 Message	Kotori	...	...
 Message	Shido	You guys!	¡Chicos!
 Message		"(I... I shouldn't let them be in the
-same room any longer!)"	"(I... No debería dejarlos estar en la
+same room any longer!)"	"(N… No debería dejarlos estar en la
 misma habitación por más tiempo!)"
 Message	Shido	O-Origami! Just go home for today!	¡O-Origami! ¡Vete a casa por hoy!
 Message	Origami	Shido...? What are yo—	¿Shido...? ¿Qué es yo-
@@ -265,8 +270,8 @@ Message	Shido	Phew...	Uf...
 Message	Kotori	"...Despite your current condition, you even found
 a way to hit on Origami Tobiichi. You sure are an
 idiot."	"...A pesar de tu condición actual, incluso encontraste
-una manera de ligar con Tobiichi Origami. Seguro que eres un
-idiota."
+una manera de ligar con Tobiichi Origami. Seguro
+que eres un idiota."
 Message	Shido	N-No I wasn't! I-I wasn't looking for anything!	¡No, no lo estaba! ¡No estaba buscando nada!
 Message	Kotori	Uh-huh...	Ajá...
 Message	Kotori	...Well, I believe you.	...Bueno, te creo.
@@ -275,7 +280,8 @@ Message	Kotori	"Why are you so surprised? I'd know more than
 anyone that you don't have the guts to do it."	"¿Por qué te sorprende tanto? Yo sabría más que
 cualquiera que no tienes agallas para hacerlo."
 Message	Shido	Oof...	Uf...
-Message	Kotori	But I guess that's typical Shid—Stupid Shido...	Pero supongo que eso es típico de Shid-Stupid Shido...
+Message	Kotori	But I guess that's typical Shid—Stupid Shido...	"Pero supongo que eso es típico de
+Shid—Estúpido Shido…"
 Message	Shido	Why do you have to go out of your way to say it?!	¡¿Por qué tienes que esforzarte en decirlo?!
 Message	Kotori	...	...
 Message		(...?)	(...?)
@@ -303,15 +309,15 @@ posibilidad de eso. Pero..."
 Message	Shido	...But?	...¿pero?
 Message	Kotori	"As long as we don't know for sure, it can be
 anything. There's a chance that it was a Realizer
-experiment conducted by the AST..."	"Mientras no lo sepamos con seguridad, puede ser
-cualquier cosa. Existe la posibilidad de que fuera un experimento Realizer
-experimento realizado por la AST..."
+experiment conducted by the AST..."	"Mientras no estemos seguros, puede ser cualquier cosa.
+Existe la posibilidad de que haya sido un experimento
+de Realizer realizado por la AST..."
 Message	Shido	AST?!	¡¿AST?!
 Message		"(Ratatoskr and the AST are the only ones using the
 Realizer in Tengu City. There's a big chance they
-were experimenting. Then, that means Origami—)"	"(Ratatoskr y el AST son los únicos que utilizan el
-Realizador en Ciudad Tengu. Hay una gran posibilidad de que
-estuvieran experimentando. Entonces, eso significa que Origami-)"
+were experimenting. Then, that means Origami—)"	"(Ratatoskr y la AST son los únicos que usan el Realizer
+en la Ciudad Tengu. Hay posibilidad de que estuvieran
+experimentando. Entonces, significa que Origami—)"
 Message	Kotori	"But I think it's hard for the AST to emit
 a frequency that significant."	"Pero creo que es difícil para la AST emitir
 una frecuencia tan significativa."
@@ -331,8 +337,8 @@ que lo expliquen, ¿verdad?"
 Message	Shido	You have a point...	Tienes razón...
 Message	Kotori	"Well, it's all a hypothesis at the moment.
 Now that I can't get ahold of the higher-ups,
-I can't come to an easy conclusion."	"Bueno, todo es una hipótesis por el momento.
-Ahora que no puedo ponerme en contacto con los de arriba,
+I can't come to an easy conclusion."	"Bueno, todo es una hipótesis por el momento. Ahora
+que no puedo ponerme en contacto con los de arriba,
 no puedo llegar a una conclusión fácil."
 Message	Shido	What? You can't get ahold of them?	¿Qué? ¿No puedes contactar con ellos?
 Message	Kotori	"No, I can't get in touch with any of the
@@ -345,8 +351,8 @@ realidad que está pasando delante de mí."
 Message	Shido	I see...	Ya veo...
 Message	Kotori	"We're able to conduct some investigations with
 just the Fraxinus. I'm going to do what I can,
-as much as possible."	"Somos capaces de llevar a cabo algunas investigaciones con
-sólo el Fraxinus. Voy a hacer lo que pueda,
+as much as possible."	"Somos capaces de llevar a cabo algunas investigaciones
+con sólo el Fraxinus. Voy a hacer lo que pueda,
 tanto como sea posible."
 Message	Shido	I see...	Ya veo...
 Message		(Seriously, what is going on?)	(En serio, ¿qué está pasando?)
@@ -355,12 +361,12 @@ Message	Shido	...?	...?
 Message	Kotori	Shido... That girl... still seems to be outside.	Shido... Esa chica... todavía parece estar fuera.
 Message	Shido	Wh-Why are you telling me...?	¿Por qué me dices...?
 Message	Kotori	"Anyways, Shido. You work on making sure the
-Spirits are as stable as they can be."	"De todos modos, Shido. Trabaja para asegurarte de que los
-Espíritus son tan estables como pueden ser."
+Spirits are as stable as they can be."	"De todos modos, Shido. Trabaja para asegurarte de que
+los Espíritus son tan estables como pueden ser."
 Message	Kotori	"I know it won't resolve the main issue, but you
 can at least limit the chances of them going
 berserk."	"Sé que no resolverá el problema principal, pero
 por lo menos puede limitar las posibilidades de que vayan
 enloquezcan."
 Message	Kotori	...It's noisy outside, so I'm leaving.	...hay mucho ruido afuera, así que me voy.
-Message	Shido	O-Okay...	Vale...
+Message	Shido	O-Okay...	O-Okay...

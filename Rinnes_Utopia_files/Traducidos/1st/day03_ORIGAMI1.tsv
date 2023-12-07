@@ -1,15 +1,18 @@
 Operator	Comment	Key	Translation
 Message		"(Where did Origami go? Once homeroom was
-over, before I knew it, she was gone...)"	(¿Adónde fue Origami? Cuando terminó la clase, antes de que me diera cuenta, se había ido...)
+over, before I knew it, she was gone...)"	"(¿Adónde fue Origami? Cuando terminó la clase,
+antes de que me diera cuenta, se había ido…)"
 Message		"(Tama-chan told us about the AST, so
 maybe she got worried and headed back
-to base.)"	(Tama-chan nos contó lo del AST, así que quizá se preocupó y volvió a la base).
+to base.)"	"(Tama-chan nos contó lo del AST, así
+que quizá se preocupó y volvió a la base)."
 Message	Shido	"Hey. Is that Origami over there with our
 teacher?"	Oye. ¿Ese de ahí es Origami con nuestro profesor?
 Message	Shido	What are they talking about...?	¿De qué están hablando...?
 Message	Tamae	"I apologize for bringing this up out of the
-blue, but please consider it."	Pido disculpas por sacar esto de la nada, pero por favor, considéralo.
-Message	Origami	Okay.	Vale, vale, vale.
+blue, but please consider it."	"Pido disculpas por sacar esto de la nada,
+pero por favor, considéralo."
+Message	Origami	Okay.	Okay.
 Message	Tamae	Get home safely, okay?	Llega bien a casa, ¿vale?
 Message	Origami	Okay...	Bueno...
 Message		(Oh. Is Origami going somewhere?)	(Oh. ¿Origami va a alguna parte?)
@@ -18,48 +21,67 @@ Choice		Follow her.	Síguela.
 Message	Shido	Origami!	¡Origami!
 Message	Origami	Huh...?	¿Eh...?
 Message	Shido	What were you talking to Tama-chan about?	¿De qué hablabas con Tama-chan?
-Message	Origami	About the choir club.	Sobre el club coral.
+Message	Origami	About the choir club.	Sobre el club de coro.
 Message	Shido	C-Choir?! You're in choir club?	¡¿C-Coro?! ¿Estás en el club del coro?
 Message	Origami	"No, I haven't joined yet, but they want me to
 join after testing. I guess someone backed out
-and asked if I could sub for them."	No, aún no me he unido, pero quieren que me una después de las pruebas. Supongo que alguien se echó atrás y me preguntó si podía sustituirle.
+and asked if I could sub for them."	"No, aún no me he unido, pero quieren que me una
+después de las pruebas. Supongo que alguien se
+echó atrás y me preguntó si podía sustituirle."
 Message	Shido	I-I see, but why you, Origami?	Ya veo, pero ¿por qué tú, Origami?
 Message	Origami	"I'm unsure. Supposedly, the teacher in charge of
 the choir club had asked Okamine-sensei. Perhaps
-she thought I could."	No estoy seguro. Supuestamente, el profesor a cargo del club de coro se lo pidió a Okamine-sensei. Tal vez ella pensó que yo podría.
+she thought I could."	"No estoy seguro. Supuestamente, el profesor a
+cargo del club de coro se lo pidió a Okamine-sensei.
+Tal vez ella pensó que yo podría."
 Message	Shido	I see...	Ya veo...
 Message		"(Come to think of it, I knew that Origami was
 both a talented student and an athlete. I
-wonder how she'd fare at music.)"	(Ahora que lo pienso, sabía que Origami era a la vez una estudiante de talento y una atleta. Me pregunto qué tal se le daría la música).
+wonder how she'd fare at music.)"	"(Ahora que lo pienso, sabía que Origami era
+a la vez una estudiante de talento y una atleta.
+Me pregunto qué tal se le daría la música)."
 Message	Shido	What do you plan on doing then, Origami?	¿Qué piensas hacer entonces, Origami?
 Message	Origami	"All I said was I'll consider it. I can sing
 according to the notes. What do you think,
-Shido?"	Todo lo que dije fue que lo consideraría. Puedo cantar según las notas. ¿Qué piensas, Shido?
+Shido?"	"Todo lo que dije fue que lo consideraría.
+Puedo cantar según las notas.
+¿Qué piensas, Shido?"
 Choice		Give it a shot.	Inténtalo.
 Choice		Don't push yourself.	No te presiones.
 Message	Shido	"Wow, that's amazing. I couldn't sing just from
 looking at a sheet of music. If it's your thing,
-then give it a shot. I want to hear, too."	Vaya, es increíble. Yo no podría cantar con sólo mirar una partitura. Si es lo tuyo, inténtalo. Yo también quiero escuchar.
+then give it a shot. I want to hear, too."	"Vaya, es increíble. Yo no podría cantar con sólo
+mirar una partitura. Si es lo tuyo, inténtalo.
+Yo también quiero escuchar."
 Message	Origami	Really? If you say so, Shido. I'll do it.	¿De verdad? Si tú lo dices, Shido. Lo haré.
 Message	Shido	O-Okay...	Vale...
 Message	Origami	"Well, I'll tell Okamine-sensei that I'll join
-then."	Bueno, le diré a Okamine-sensei que me uniré entonces.
+then."	"Bueno, le diré a Okamine-sensei
+que me uniré entonces."
 Message	Shido	Okay. G-Good luck.	De acuerdo. Buena suerte.
 Message	Origami	I'll try.	Lo intentaré.
 Message		"(There's no limit to what you can do, huh
 Origami? Man, how many talents do you
-have?)"	(No hay límite para lo que puedes hacer, ¿eh, Origami? Hombre, ¿cuántos talentos tienes?)
+have?)"	"(No hay límite para lo que puedes hacer,
+¿eh, Origami? Dios,
+¿cuántos talentos tienes?)"
 Message	Shido	"It's up to you whether you want to join, but
 just because you can"" doesn't mean you have
-to accept everything that comes your way."""	"Depende de ti si quieres unirte, pero sólo porque puedas"" no significa que tengas que aceptar todo lo que te venga""."
+to accept everything that comes your way."""	"Depende de ti si quieres unirte, pero sólo porque
+puedas no significa que tengas que aceptar
+todo lo que te venga."
 Message	Origami	Huh...?	¿Eh...?
 Message	Shido	"If you don't want to, you can say no; you don't
 have to force yourself. I mean... You already
-have enough on your plate with the AST right?"	Si no quieres, puedes decir que no; no tienes que forzarte. Quiero decir... Ya tienes suficiente con el AST, ¿verdad?
+have enough on your plate with the AST right?"	"Si no quieres, puedes decir que no;
+no tienes que forzarte. Quiero decir…
+Ya tienes suficiente con el AST, ¿verdad?"
 Message	Origami	You have a point...	Tienes razón...
 Message	Shido	"W-Well, I understand if there's no one else,
 but I think you have the right to say no if
-you don't want to."	B-bueno, lo entiendo si no hay nadie más, pero creo que tienes derecho a decir que no si no quieres.
+you don't want to."	"B-bueno, lo entiendo si no hay nadie más,
+pero creo que tienes derecho a decir
+que no si no quieres."
 Message	Origami	If you say so, Shido, I'll do that.	Si tú lo dices, Shido, lo haré.
 Message	Shido	What... O-Oh...	Que... O-Oh...
 Message	Origami	Then I'll go tell Okamine-sensei that.	Entonces iré a decírselo a Okamine-sensei.
@@ -67,38 +89,51 @@ Message	Shido	O-Okay...	Vale...
 Message	Origami	Thanks.	Gracias.
 Message		(Huh...? I wonder if she wanted to do it...)	(¿Eh...? Me pregunto si ella quería hacerlo...)
 Message		"(But... just because Origami can take on
-everything doesn't mean her body will last.)"	(Pero... que Origami pueda con todo no significa que su cuerpo vaya a durar).
-Message		(Man, how in the world is Origami so talented?)	(Hombre, ¿cómo es posible que Origami tenga tanto talento?)
+everything doesn't mean her body will last.)"	"(Pero... que Origami pueda con todo no
+significa que su cuerpo vaya a durar)."
+Message		(Man, how in the world is Origami so talented?)	"(Hombre, ¿cómo es posible que
+Origami tenga tanto talento?)"
 Message		"(Huh? It doesn't seem like she's going home.
-I'm curious. Maybe I should follow her.)"	(¿Eh? No parece que se vaya a casa. Tengo curiosidad. Tal vez debería seguirla).
+I'm curious. Maybe I should follow her.)"	"(¿Eh? No parece que se vaya a casa.
+Tengo curiosidad. Tal vez debería seguirla)."
 Message		"(I wonder why Origami's up on the rooftop.
-What is she doing here?)"	(Me pregunto por qué Origami está en la azotea. ¿Qué hace aquí?)
+What is she doing here?)"	"(Me pregunto por qué Origami
+está en la azotea. ¿Qué hace aquí?)"
 Message	Origami	Ave Maria, gratia plena; Dominus tecum.	Ave María, gratia plena; Dominus tecum.
 Message	Shido	?!	¡?!
 Message	Origami	...Who's there?	...¿Quién está ahí?
 Message	Shido	"Oh, s-sorry! I wasn't trying to snoop around,
-but..."	¡Lo siento! No estaba intentando husmear, pero...
+but..."	"¡Lo siento! No estaba intentando husmear,
+pero..."
 Message	Origami	Shido?	¿Shido?
 Message	Shido	You were really good. I was so surprised.	Estuviste muy bien. Me sorprendió mucho.
 Message	Origami	"I can only sing according to the notes. I'm
-not that great."	Sólo puedo cantar según las notas. No soy tan bueno.
+not that great."	"Sólo puedo cantar según las notas.
+No soy tan buena."
 Message	Shido	"R-Really? I didn't see it like that. Why were
-you singing all of a sudden, though?"	¿En serio? No lo vi así. Pero, ¿por qué estabas cantando de repente?
+you singing all of a sudden, though?"	"¿En serio? No lo vi así. Pero,
+¿por qué estabas cantando de repente?"
 Message	Origami	Okamine-sensei asked me to.	Okamine-sensei me lo pidió.
 Message	Shido	"Is that what you and she were talking
 about earlier?"	¿Es eso de lo que tú y ella estabais hablando antes?
 Message	Origami	"Supposedly, the choir club has a concert
 after testing's over. Someone couldn't make
-it, so Okamine-sensei asked if I could cover."	Supuestamente, el club de coro tiene un concierto después de las pruebas. Alguien no pudo venir, así que Okamine-sensei me preguntó si podía cubrirlo.
+it, so Okamine-sensei asked if I could cover."	"Supuestamente, el club de coro tiene un concierto
+después de las pruebas. Alguien no pudo venir,
+así que Okamine-sensei me preguntó si podía cubrirlo."
 Message	Shido	But why'd she ask you of all people?	¿Pero por qué te lo pidió a ti?
 Message	Origami	"I don't know the details. Maybe she thought
 I could handle the pressure. I just told her
-that I would consider it."	No conozco los detalles. Quizá pensó que yo podría soportar la presión. Sólo le dije que lo consideraría.
+that I would consider it."	"No conozco los detalles. Quizá pensó que yo
+podría soportar la presión. Sólo le dije
+que lo consideraría."
 Message	Shido	"I see. Man, being a genius at everything
 must be tough when everyone's depending
-on you..."	Ya veo. Tío, ser un genio en todo debe ser duro cuando todo el mundo depende de ti...
+on you..."	"Ya veo. Dios, ser un genio en todo debe ser
+duro cuando todo el mundo depende de ti..."
 Message	Origami	"Shido, have you been following me since
-I spoke with our teacher?"	Shido, ¿me has estado siguiendo desde que hablé con nuestro profesor?
+I spoke with our teacher?"	"Shido, ¿me has estado siguiendo desde
+que hablé con nuestro profesor?"
 Message	Shido	What?! Well, I wasn't tailing you or anything!	¡¿Qué?! ¡Bueno, no te estaba siguiendo ni nada!
 Message	Origami	I don't mind.	No me importa.
 Message	Shido	Huh... Wh-What do you mean by that?	¿Qué quieres decir con eso?
@@ -106,17 +141,22 @@ Message	Origami	Don't mind me.	No me hagas caso.
 Message		(...But I'm totally curious.)	(...Pero tengo mucha curiosidad.)
 Message	Origami	Shido, what do you think?	Shido, ¿qué te parece?
 Message	Shido	Huh?	¿Eh?
-Message	Origami	About the choir club.	Sobre el club coral.
+Message	Origami	About the choir club.	Sobre el club de coro.
 Message	Shido	"Oh. It's up to you, isn't it? Just because you
 are able to balance every task in the world
-doesn't necessarily mean you should."	Oh. Depende de ti, ¿no? Que seas capaz de compaginar todas las tareas del mundo no significa necesariamente que debas hacerlo.
+doesn't necessarily mean you should."	"Oh. Depende de ti, ¿no? Que seas capaz de
+compaginar todas las tareas del mundo no
+significa necesariamente que debas hacerlo."
 Message	Origami	But—?	Pero...
 Message	Shido	"Hearing you sing just now... I can't help but
-hope that you'll take on the challenge."	Oyéndote cantar hace un momento... No puedo evitar esperar que aceptes el reto.
+hope that you'll take on the challenge."	"Oyéndote cantar hace un momento…
+No puedo evitar esperar que aceptes el reto."
 Message	Origami	I see.	Ya veo.
 Message	Shido	"Even acapella... I'm mesmerized that you
 can sing without any instruments. So long
-as it's your voice, I want to listen."	Incluso acapella... Me hipnotiza que puedas cantar sin instrumentos. Mientras sea tu voz, quiero escuchar.
+as it's your voice, I want to listen."	"Incluso acapella... Me hipnotiza que puedas
+cantar sin instrumentos. Mientras sea tu voz,
+quiero escuchar."
 Message	Origami	Okay. If you say so, Shido.	De acuerdo. Si tú lo dices, Shido.
 Message	Shido	What?!	¡¿Qué?!
 Message	Origami	I'm going to tell Okamine-sensei.	Voy a decírselo a Okamine-sensei.

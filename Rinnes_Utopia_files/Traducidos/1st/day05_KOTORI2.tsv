@@ -1,0 +1,205 @@
+Operator	Comment	Key	Translation
+Message	Shido	Kotori... seems so busy today.	Kotori... parece tan ocupada hoy.
+Message	Shido	"I wanted to ask her out on a date today, but
+if she's all booked up, maybe I should refrain."	"Quería invitarla a salir hoy, pero si está ocupada,
+quizá debería abstenerme."
+Message	Shido	"I can check up on her in the meantime. I wonder
+if Kotori is visiting Reine-san right now."	"Puedo ir a verla mientras tanto. Me pregunto si Kotori
+está visitando a Reine-san ahora mismo."
+Message	Shido	If I can't find her, then I'll give up.	Si no puedo encontrarla, entonces me rendiré.
+Message	Shido	Kotori always seems so busy...	Kotori siempre parece tan ocupada...
+Message	Shido	"I wanted to ask her out on a date today, but
+if she's all booked up, maybe I should refrain."	"Quería invitarla a salir hoy, pero si está ocupada,
+quizá debería abstenerme."
+Message	Shido	"I can check up on her in the meantime. If she
+doesn't pick up, I'll leave it for now."	"Puedo comprobar cómo está mientras tanto.
+Si no contesta, lo dejaré por ahora."
+Message	Shido	"Is Kotori here? I don't hear anyone talking.
+Anyone there?"	"¿Está Kotori aquí? No oigo hablar a nadie.
+¿Hay alguien ahí?"
+Message	Kotori	...	...
+Message	Shido	"Oh, there's Kotori. Looks like she's deep in
+thought or something. Maybe I shouldn't bother
+her."	"Oh, ahí está Kotori. Parece que está sumida
+en sus pensamientos o algo así.
+Tal vez no debería molestarla."
+Message	Kotori	Hm...? Oh, Shido.	¿Hm...? Oh, Shido.
+Message	Shido	Y-Yo...	H-Hola…
+Message	Kotori	"What is it? Did you have more business with
+Reine?"	"¿De qué se trata?
+¿Tuviste más negocios con Reine?"
+Message	Shido	No. This time it was with you, but...	No. Esta vez fue contigo, pero...
+Message	Kotori	But what?	¿Pero qué?
+Message	Shido	"You seemed so busy. You don't have time
+for a date, do you?"	"Parecías muy ocupada. No tienes
+tiempo para una cita, ¿verdad?"
+Message	Kotori	R-Right. Sorry, it's just...	C-Cierto. Lo siento, es que...
+Message	Shido	Oh. Don't worry about it.	Oh. No te preocupes.
+Message	Shido	I'll invite someone else today then.	Invitaré a alguien más hoy entonces.
+Message	Kotori	...	...
+Message	Shido	Later...	Nos vemos…
+Message	Kotori	...Wait.	...Espera.
+Message	Shido	Hm...?	¿Hm...?
+Message	Kotori	I'm going on a date with you.	Voy a tener una cita contigo.
+Message	Shido	Huh? B-but I thought you were busy...	¿Eh? P-pero pensé que estabas ocupada…
+Message	Kotori	I told you I'm going!	¡Te he dicho que me voy!
+Message	Kotori	I felt stuck anyways... I need a little break.	"De todas formas me sentía atascado…
+Necesito un pequeño descanso."
+Message	Shido	I-I see... Then let's go.	Ya veo... Entonces vamos.
+Message	Kotori	Okay, let's.	Bien, vamos.
+Message	Shido	"All right. Now that we're in town, where should
+we go? Wanna grab a bite?"	"De acuerdo. Ahora que estamos en la ciudad,
+¿dónde deberíamos ir? ¿Quieres comer algo?"
+Message	Kotori	...Yeah.	Sí.
+Message	Shido	Huh...? Kotori...?	¿Eh...? ¿Kotori...?
+Message	Kotori	Oh... huh? O-Oh yeah... Sorry, what is it?	Oh... ¿eh? O-Oh sí... Lo siento, ¿qué pasa?
+Message	Shido	I was asking if you wanted to grab a bite.	Te preguntaba si querías comer algo.
+Message	Kotori	Right. I'll eat whatever you want to eat.	Sí, claro. Comeré lo que quieras comer.
+Message	Shido	Aren't you craving anything?	¿No se te antoja nada?
+Message	Kotori	Nothing in particular.	Nada en particular.
+Message	Shido	Then, how about that...?	Entonces, ¿qué te parece...?
+Message	Kotori	That? You mean the taiyaki stall?	¿Qué? ¿Te refieres al puesto de taiyaki?
+Message	Shido	I'll buy some, so wait right here.	Voy a comprar un poco, así que espera aquí.
+Message	Kotori	Sure.	Sí, claro.
+Message	Shido	Sorry for the wait... H-Hey, Kotori?!	Perdón por la espera... ¡¿H-Hey, Kotori?!
+Message	Shido	What's the matter?! Do you feel sick?	¿Qué pasa? ¿Te sientes mal?
+Message	Kotori	Don't shout. It'll give me a headache.	No grites. Me dará dolor de cabeza.
+Message	Shido	Oh. S-Sorry, b-but...	Oh. Lo siento, pero...
+Message	Kotori	"Honestly, I feel sick. I want to lay down,
+but..."	"Sinceramente, me siento mal.
+Quiero acostarme, pero..."
+Message	Kotori	Sorry. Let me be for just a little longer.	Perdona. Déjame estar un poco más.
+Message	Shido	Kotori...	Kotori...
+Message	Kotori	I'm fine. I'm fine...	Estoy bien. Estoy bien...
+Message	Kotori	...	...
+Message		"(Kotori... looks like a ghost. Is it a good idea
+for me to let her be...?)"	"(Kotori... parece un fantasma.
+¿Es buena idea que la deje estar...?)"
+Message		"(If she says she's fine, then that's all that
+matters. But, what if she's not...?)"	"(Si dice que está bien, eso es lo que importa.
+Pero, ¿y si no lo está...?)"
+Message		(I...)	(Yo…)
+Choice		Ask her to take a rest.	Pídele que descanse.
+Choice		Lend a hand.	Echa una mano.
+Message	Shido	Kotori, take it easy.	Kotori, cálmate.
+Message	Kotori	"O-Okay. Sorry. We're on a date and this is
+what happens."	"Vale. Lo siento. Estamos en una
+cita y esto es lo que pasa."
+Message	Shido	Don't worry about that. Your health comes first.	No te preocupes por eso. Tu salud es lo primero.
+Message	Kotori	Th-Thanks...	Gracias...
+Message	Kotori	...	...
+Message	Kotori	...	...
+Message	Shido	...How do you feel? A bit better?	...¿Cómo te sientes? ¿Un poco mejor?
+Message	Kotori	Y-Yeah, kinda...	Sí, algo así...
+Message	Shido	Cool. We should head home to let you rest.	Genial. Deberíamos ir a casa para dejarte descansar.
+Message	Kotori	...Right.	...Bien.
+Message	Shido	Can you walk?	¿Puedes andar?
+Message	Kotori	Somehow...	De alguna manera...
+Message	Shido	Then let's go home.	Entonces vamos a casa.
+Message	Kotori	Okay... Sorry.	Vale... Lo siento. Lo siento. Lo siento.
+Message	Shido	Hm? Did you say something?	¿Hm? ¿Dijiste algo?
+Message	Kotori	Nothing. Don't worry about it.	Nada. No te preocupes.
+Message	Shido	O-Okay...	Vale...
+Message		(I wonder if Kotori really is okay...)	(Me pregunto si Kotori realmente está bien...)
+Message	Kotori	...	...
+Message		"(Maybe Kotori's right. She'll feel better in
+no time, but... what if she doesn't?)"	"(Quizá Kotori tenga razón. Se sentirá
+mejor en poco tiempo, pero... ¿y si no?)"
+Message	Shido	Sorry, Kotori.	Lo siento, Kotori.
+Message	Kotori	Huh...? A-Aah!	¿Eh...? ¡A-Aah!
+Message	Kotori	Wh-What are you doing?! Let me down.	¡¿Qué estás haciendo?! Bájame.
+Message	Shido	Sorry, I can't do that.	Lo siento, no puedo hacerlo.
+Message	Kotori	WHAT?! Wh-what did you just say?	¡¿QUÉ?! ¿Qué acabas de decir?
+Message	Shido	You barely ever let it slip when you're sick.	Apenas se te escapa cuando estás enferma.
+Message	Shido	I can't just let you live this way...	No puedo dejarte vivir así...
+Message	Kotori	B-But I'm embarrassed...	P-Pero estoy avergonzada…
+Message	Shido	"Who cares about that? Health comes first.
+If you're actually embarrassed, just bury
+your face in my back so no one sees you."	"¿A quién le importa eso? La salud es lo primero.
+Si de verdad te da vergüenza, entierra tu cara
+en mi espalda para que nadie te vea."
+Message	Shido	"If I can't help you at a time like this, what's
+the point in me being your big brother?"	"Si no puedo ayudarte en un momento así,
+¿qué sentido tiene que sea tu hermano mayor?"
+Message	Kotori	...Shido.	...Shido.
+Message	Kotori	...You're so dumb.	...Eres tan tonto.
+Message	Shido	I know.	Lo sé.
+Message	Kotori	How much of a sister complex do you have?	¿Cuánto complejo de hermana tienes?
+Message	Shido	You got a problem with that?	¿Tienes algún problema con eso?
+Message	Kotori	No, but...	No, pero...
+Message	Shido	Then, be still.	Entonces, estate quieta.
+Message	Kotori	...Okay.	...de acuerdo.
+Message	Shido	"Hey, Kotori? If you're sick, you don't have to
+answer, but..."	"Oye, ¿Kotori? Si estás enferma,
+no tienes que contestar, pero..."
+Message	Shido	"Do you remember doing this when we
+were little?"	"¿Recuerdas haber hecho esto
+cuando éramos pequeños?"
+Message	Shido	"Remember when you fell in the park and
+cut your knee?"	"¿Recuerdas cuando te caíste en el parque
+y te cortaste la rodilla?"
+Message	Shido	"Back then, I panicked because I let you
+get hurt."	"En ese entonces, entré en pánico
+porque dejé que te lastimaran."
+Message	Shido	I need to get her to a doctor immediately!\nWhat if she needs surgery?!\n...I remember saying that.	"¡Necesito llevarla a un médico inmediatamente!
+¿Y si necesita cirugía? Recuerdo haber dicho eso."
+Message	Shido	"It was a just a scratch though, obviously...
+Haha. Didn't stop me from panicking."	"Era sólo un rasguño, obviamente...  Jaja.
+No me impidió entrar en pánico."
+Message	Kotori	Which means you haven't changed a bit since.	"Lo que significa que no has
+cambiado nada desde entonces."
+Message	Shido	"On the contrary, you've sure grown up.
+But I hoped that I'd be grown by now too,
+you know?"	"Al contrario, sí que has crecido. Pero yo también
+esperaba haber crecido ya, ¿sabes?"
+Message	Kotori	You're fine just the way you are, Shido.	Estás bien tal y como eres, Shido.
+Message	Shido	Oh, yeah? I sure hope that's true.	¿Ah, sí? Espero que sea verdad.
+Message	Kotori	It is... I don't want you to change.	Es que… No quiero que cambies.
+Message	Shido	Kotori...	Kotori...
+Message	Kotori	"Besides, I haven't changed as much as you
+suggest."	"Además, no he cambiado
+tanto como sugieres."
+Message	Shido	"No, you've totally changed. Your mouth is
+bigger, and you're meaner."	"No, has cambiado totalmente.
+Tu boca es más grande, y eres más mala."
+Message	Kotori	...	...
+Message		"(Oops. I should say something good about
+her.)"	(Uy. Debería decir algo bueno de ella).
+Message	Shido	"Oh, but uh... In a sense, you've gotten cuter
+at least..."	"Oh, pero eh... En cierto sentido,
+te has vuelto más linda al menos..."
+Message	Kotori	What?! Wh-What did you just say?	¡¿Qué?! ¿Qué acabas de decir?
+Message	Shido	N-Nothing!	¡Nada!
+Message	Kotori	S-Say it again!	¡Dilo otra vez!
+Message	Shido	I refuse!	¡Me niego!
+Message	Kotori	Jeez, you're such a coward.	Vaya, eres un cobarde.
+Message	Shido	Shut up!	¡Cállate!
+Message	Kotori	"Um, I guess you're right, but I still don't think
+I've changed much."	"Supongo que tienes razón, pero sigo
+pensando que no he cambiado mucho."
+Message	Kotori	Because... from that moment, I've...	Porque... desde ese momento, yo...
+Message	Shido	...Kotori?	...¿Kotori?
+Message	Kotori	...	...
+Message	Shido	We're home, Kotori.	Estamos en casa, Kotori.
+Message	Kotori	You can let me down now.	Ya puedes dejarme.
+Message	Shido	Really?	¿De verdad?
+Message	Kotori	...Yeah.	Sí.
+Message	Kotori	"Anyways Shido, I told you I didn't want to, but
+you forced me to piggyback you in public."	"De todas formas Shido, te dije que no quería,
+pero me obligaste a llevarte a caballito en público."
+Message	Shido	W-Well, I was just desperate to help.	Bueno, estaba desesperado por ayudar.
+Message	Kotori	...I know that.	...ya lo sé.
+Message	Kotori	"Um. Thanks, Shido. I felt safe with you carrying
+me. Now, I feel so much better."	"Gracias, Shido. Me sentía segura contigo llevándome.
+Ahora, me siento mucho mejor."
+Message	Shido	O-Okay...	O-Okay...
+Message	Kotori	And... you have changed, though you can't tell.	Y... has cambiado, aunque no se note.
+Message	Kotori	"I never realized how much bigger your back
+is. Hadn't noticed at all."	"No me había dado cuenta de lo grande que es
+tu espalda. No me había dado cuenta en absoluto."
+Message	Shido	"Oh, yeah. Well, my body's gone through some
+changes since we were kids."	"Ah, sí. Bueno, mi cuerpo ha sufrido algunos
+cambios desde que éramos niños."
+Message	Kotori	...	...
+Message	Shido	...Want to go inside?	...¿Quieres entrar?
+Message	Kotori	Okay.	Okay.

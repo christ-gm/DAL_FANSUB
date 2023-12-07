@@ -1,0 +1,359 @@
+Operator	Comment	Key	Translation
+Message		"(I was going to invite Origami on a date, but
+I bet she's home already.)"	"(Iba a invitar a Origami a una cita, pero
+apuesto a que ya está en casa)"
+Message		"(I wonder why I can't invite her out on a
+normal date. Is something getting in the
+way? Can't be...)"	"(Me pregunto por qué no puedo invitarla a una cita normal.
+¿Hay algo que se interpone? No puede ser...)"
+Message		"(*sigh*... Not to be superstitious, but I did
+pray at the temple. Maybe I could give her
+a call. Origami's number is... Uh...)"	"(*suspiro*... No es por ser supersticioso,
+pero recé en el templo. Tal vez podría llamarla.
+El número de Origami es... Uh...)"
+Message		(—What?! Speak of the devil!)	(-¿Qué?! ¡Hablando del diablo!)
+Message	Shido	H-Hello...?	¿H-Hola...?
+Message	Origami	Shido?	¿Shido?
+Message	Shido	Y-Yes...	S-Sí...
+Message	Origami	Were you not planning to ask me out today?	¿No pensabas invitarme a salir hoy?
+Message	Shido	Huh?	¿Eh?
+Message	Origami	Date.	Cita.
+Message	Shido	"OH, um... If it's okay with you, we could go out
+right now—"	"OH, um... Si te parece bien,
+podríamos salir ahora mismo-"
+Message	Origami	No problem.	No hay problema.
+Message	Shido	Okay then.	De acuerdo.
+Message	Origami	I'll wait for you in my home.	Te espero en mi casa.
+Message	Shido	...Wha?	...¿Qué?
+Message	Origami	Please come.	Por favor, ven.
+Message	Shido	Okay.	Okay.
+Message	Origami	Come in.	Pasa.
+Message	Shido	Th-Thanks...	G-Gracias...
+Message		"(Ah. Every time I go to her place, I feel dazed.
+Maybe it's the aroma.)"	"(Ah. Cada vez que voy a su casa,
+me siento aturdido. Tal vez sea el aroma)."
+Message		"(If I let my guard down, I'll become even
+dizzier. Am I imagining things...?)"	"(Si bajo la guardia, me marearé aún más.
+¿Estoy imaginando cosas...?)"
+Message	Origami	"What's the matter? You don't like scented
+candles?"	"¿Cuál es el problema?
+¿No te gustan las velas perfumadas?"
+Message	Shido	"N-Nothing. Besides, we're on a date. Are you
+sure you don't wanna go out?"	"Nada. Además, estamos en una cita.
+¿Seguro que no quieres salir?"
+Message	Origami	Would you like to go out?	¿Te gustaría salir?
+Message	Shido	"Uh. Well, now that you mention it, I can't
+think of any place in particular to go..."	"Uh. Bueno, ahora que lo mencionas, no puedo
+pensar en ningún lugar en particular para ir..."
+Message	Origami	Then, let's stay here.	Entonces, quedémonos aquí.
+Message	Shido	Okay. Got it.	De acuerdo. Entendido.
+Message	Origami	Here, there's no one to get in the way...	Aquí no hay nadie que se interponga...
+Message	Shido	Huh? Did you just say something?	¿Eh? ¿Acabas de decir algo?
+Message	Origami	Nothing.	Nada.
+Message	Shido	I-I see...	Ya veo...
+Message	Origami	...	...
+Message	Shido	...	...
+Message	Origami	...	...
+Message		"(I'm alone in Origami's room, and she's staring
+at me from afar. Her gaze is piercing. Yeesh.)"	"(Estoy solo en la habitación de Origami, y ella me mira
+fijamente desde lejos. Su mirada es penetrante. Sí.)"
+Message		(What should we talk abou—OH!)	(¿De qué deberíamos hablar?)
+Message		"(Looking over at the bookshelf, I spot the
+books on barriers and dark magic.)"	"(Miro la estantería y veo los libros
+sobre barreras y magia negra)."
+Message	Shido	Did you buy all those books on barriers?	¿Compraste todos esos libros sobre barreras?
+Message	Origami	"If you aim to gather pertinent information, then
+you must pull from all relevant sources. Every
+piece of useful information matters."	"Si su objetivo es recopilar información pertinente,
+debe recurrir a todas las fuentes relevantes.
+Cada dato útil es importante."
+Message	Shido	I see. Have you read any of them yet?	Ya veo. ¿Ha leído ya alguno de ellos?
+Message	Origami	All of them.	Todos.
+Message	Shido	Wh-What?! That's amazing!	¡¿Qué?! ¡Es increíble!
+Message	Origami	I merely skimmed through them.	Me limité a hojearlos.
+Message	Shido	N-Nice. Figure anything out?	B-Bueno. ¿Has averiguado algo?
+Message	Origami	As of now, there is one hypothesis.	Por ahora, hay una hipótesis.
+Message	Shido	Hypothesis?	¿Hipótesis?
+Message	Origami	"This ""enemy's"" purpose."	"El propósito de este ""enemigo""."
+Message	Shido	?!	¡?!
+Message	Origami	"Normally, barriers are cast to protect holy
+places."	"Normalmente, las barreras se colocan
+para proteger los lugares sagrados."
+Message	Shido	Holy places?	¿Lugares sagrados?
+Message	Origami	"For example, sanctuaries are housed within
+barriers in order to protect its inhabitants
+and allow them to train in peace."	"Por ejemplo, los santuarios se alojan dentro de
+barreras para proteger a sus habitantes y
+permitirles entrenarse en paz."
+Message	Shido	"Then, are you saying that someone considers Tengu
+City to be a sanctuary, so they're protecting it?"	"Entonces, ¿estás diciendo que alguien considera la Ciudad
+Tengu como un santuario y la está protegiendo?"
+Message	Origami	"There's a slight chance. However, I cannot
+verify its accuracy."	"Hay una pequeña posibilidad. Sin embargo,
+no puedo verificar su exactitud."
+Message	Shido	...?	...?
+Message	Origami	"A barrier is not limited to protecting locations.
+Some are cast to protect people, and there are
+even some that can kill others."	"Una barrera no se limita a proteger lugares.
+Algunas se lanzan para proteger a las personas,
+e incluso las hay que pueden matar a otras."
+Message	Shido	What?! It can kill people?!	¡¿Qué?! ¡¿Puede matar a la gente?!
+Message		"(Th-That's right. Kurumi's barrier, City of
+Devouring Time, affected anyone who stepped
+on her shadow. Their lifespan was sucked up.)"	"(Así es. La barrera de Kurumi, Ciudad del Tiempo
+Devorador, afectaba a cualquiera que pisara su
+sombra. Su tiempo de vida era absorbido)."
+Message	Shido	"What do you say, Origami? Why do you think
+the barrier was cast over Tengu City?"	"¿Qué dices, Origami? ¿Por qué crees que
+la barrera fue arrojada sobre Ciudad Tengu?"
+Message	Origami	Shido, don't rush for an answer.	Shido, no te apresures por una respuesta.
+Message	Shido	R-Right...	D-De acuerdo…
+Message	Origami	"Without enough data, we cannot rush to
+make any decisions."	"Sin datos suficientes, no podemos apresurarnos
+a tomar ninguna decisión."
+Message	Shido	S-Sorry...	L-Lo siento...
+Message	Origami	"In order to corroborate my hypothesis, there
+must be someone targeting Tengu City."	"Para corroborar mi hipótesis, debe haber
+alguien apuntando a Ciudad Tengu."
+Message	Origami	"There is also the possibility that someone is
+planning to trap the many Spirits in this city."	"También existe la posibilidad de que alguien
+esté planeando atrapar a los numerosos
+Espíritus de esta ciudad."
+Message	Shido	O-Oh.	O-Oh.
+Message	Origami	"One more thing, there are forces at work here
+that are involving us beyond our control."	"Una cosa más, hay fuerzas en juego que
+nos involucran más allá de nuestro control."
+Message	Shido	Hm... What do you mean by that?	¿Qué quiere decir con eso?
+Message	Origami	"My suggestion is that someone in Tengu
+City is being targeted, thus the barrier was
+cast in order to repel an outside entity."	"Mi sugerencia es que alguien en la Ciudad Tengu está
+siendo blanco de ataques, por lo que la barrera fue
+creada para repeler una entidad externa."
+Message	Shido	"I see. Seems like we're at the mercy of whatever
+this barrier thing is, huh."	"Ya veo. Parece que estamos a merced
+de lo que sea esta cosa de la barrera, eh."
+Message	Origami	Right.	Bien.
+Message	Shido	"The more I think about it, the more confusing
+it sounds."	Cuanto más lo pienso, más confuso me parece.
+Message	Origami	"How about we leave the discussion alone
+for now. How about something... fun?"	"¿Qué tal si dejamos la discusión por ahora?
+¿Qué tal algo... divertido?"
+Message	Shido	I told you no!	¡Te dije que no!
+Message	Origami	...	...
+Message	Shido	"B-But... thanks for sharing this with me.
+It's a big help."	"Pero... gracias por compartir esto conmigo.
+Es de gran ayuda."
+Message	Origami	"I do not mind. Any enemy of Shido's is an enemy
+of mine."	"No me importa. Cualquier enemigo
+de Shido es enemigo mío."
+Message	Shido	I-I see...	Ya veo...
+Message		"(And so, our dated ended up being a study
+session.)"	"(Y así, nuestra cita acabó siendo
+una sesión de estudio)."
+Message	Shido	H-Hey Origami, are you really okay with this?	H-Hey Origami, ¿de verdad estás de acuerdo con esto?
+Message	Origami	What?	¿Cómo?
+Message	Shido	"I know I'm the one who asked to study, but
+it doesn't seem like you're having any fun,
+so I got concerned."	"Sé que fui yo quien pidió estudiar, pero no
+parece que te estés divirtiendo,
+así que me preocupé."
+Message	Origami	"No problem. Alone in a secluded room with Shido.
+That alone... is super fun... *pant, pant*..."	"No hay problema. Solo en una habitación aislada con
+Shido.  Eso a solas... es súper divertido... *pant, pant*..."
+Message	Shido	I-If you say so...	Si tú lo dices...
+Message		"(Is she really having fun? Her expression is
+unchanged, so I can't tell. Hm.)"	"(¿Se está divirtiendo de verdad? Su expresión no
+ha cambiado, así que no puedo decirlo. Hm.)"
+Message	Origami	...Shido, what's the matter?	...Shido, ¿qué pasa?
+Message	Shido	Huh? Well, um...	¿Eh? Bueno, um...
+Message		"(I want to see a variety of your expressions,
+Origami. Especially that smile... Though I
+could never say it.)"	"(Quiero ver una variedad de tus expresiones, Origami.
+Especialmente esa sonrisa... Aunque nunca
+podría decirla)."
+Message	Origami	Huh...?	¿Eh...?
+Message	Shido	"Um. Being on a study date with you is fun and
+all, but I was wondering if there was a way we
+could spice things up a bit..."	"Um. Estar en una cita de estudio contigo es divertido y
+todo, pero me preguntaba si había una manera de que
+pudiéramos condimentar las cosas un poco..."
+Message	Origami	Shido...	Shido...
+Message	Origami	I do have something fun in mind.	Tengo algo divertido en mente.
+Message	Shido	You do?	¿En serio?
+Message	Origami	In the bed—	En la cama...
+Message	Shido	I TOLD YOU NO!	¡TE DIJE QUE NO!
+Message	Origami	...	...
+Message		"(It's so strange. Her expression hasn't changed,
+but I can tell she's upset with me.)"	"(Es muy extraño. Su expresión no ha cambiado, pero
+me doy cuenta de que está enfadada conmigo)."
+Message	Shido	"D-Don't give me that look. I'll do anything as
+long as it doesn't involve a bed."	"No me mires así. Haré cualquier cosa
+mientras no implique una cama."
+Message	Origami	Really?	¿De verdad?
+Message	Shido	Y-Yes...	S-Sí...
+Message		(Uh oh. Did I make a mistake...?)	(Uh oh. ¿Me he equivocado...?)
+Message	Origami	If that's the case—	Si ese es el caso...
+Message	Origami	Mmm...	Mmm...
+Message		(OHHH! Saved by God's grace!)	(OHHH! ¡Salvado por la gracia de Dios!)
+Message	Shido	"S-Sorry Origami! S-Sounds like someone is
+calling!"	"¡Lo siento Origami! ¡Suena como
+si alguien estuviera llamando!"
+Message	Shido	H-Hello, Kotori?!	¡¿H-Hola, Kotori?!
+Message	Kotori	...llo? Shi—? —re you? ...jamming...tact\nyou—oka—	... la? Shi—? — ¿s tú? ...interferencia... estas—bie—
+Message	Shido	?!	¡?!
+Message		"(I-I totally forgot! Thi-This is... Origami's
+house!)"	"(¡Lo olvidé por completo! ¡Esta
+es... la casa de Origami!)"
+Message	Origami	Come.	Ven.
+Message	Shido	...Okay.	...de acuerdo.
+Message		(How did it end up like this?)	(¿Cómo ha acabado así?)
+Message		"(After my transmission cut off, she enticed me
+in various ways.)"	"(Después de que se cortara mi transmisión,
+me sedujo de varias maneras)."
+Message		"(For some reason, we ended up inside the
+bathtub together.)"	"(Por alguna razón, acabamos
+juntos dentro de la bañera)."
+Message		"(B-But my only caveat was that I made her
+promise that we both would wear blindfolds.
+That should work! At least, I hope...)"	"(Pero mi única advertencia fue que le hice prometer
+que ambos llevaríamos los ojos vendados.
+¡Eso debería funcionar! Al menos, eso espero...)"
+Message		(Yeah, I won't think too deeply on it...)	(Sí, no voy a pensar demasiado en ello...)
+Message	Origami	Shido, I'm going to begin scrubbing...	Shido, voy a empezar a fregar...
+Message	Shido	Oh. Uh, okay. Got it.	Oh. Uh, vale. Entendido.
+Message	Origami	But...	Pero...
+Message	Shido	Hm?	¿Hm?
+Message	Origami	"Since I can't see, I'll have to use my hands
+to guide me."	"Como no puedo ver, tendré que usar
+las manos para guiarme."
+Message	Shido	Gotcha. Makes sense. Reach out slowly, and—	Entendido. Tiene sentido. Extiende la mano lentamente, y-
+Message	Origami	Here?	¿Aquí?
+Message	Shido	—PHO!	-¡PHO!
+Message	Origami	What's the matter?	¿Cuál es el problema?
+Message	Shido	Oh! Snuck up on me there, so... I was surprised.	Me sorprendió, así que... Me sorprendió.
+Message	Origami	Right. I couldn't see. Sorry.	Sí, claro. No pude ver. Lo siento.
+Message	Shido	"It's fine. I'm the one who suggested blindfolds.
+If you're having fun right now, Origami, then
+I am more than happy to oblig—"	"Está bien. Yo fui quien sugirió vendar los ojos.
+Si te estás divirtiendo en este momento, Origami,
+entonces estoy más que feliz de oblig-"
+Message	Shido	—OOF!	-¡OOF!
+Message	Origami	Shido?	¿Shido?
+Message	Shido	Sorry! Something soft tickled my back.	¡Lo siento! Algo suave me hizo cosquillas en la espalda.
+Message	Origami	Apologies. I can't see, so I bumped into you.	Disculpa. No puedo ver, así que me tropecé contigo.
+Message	Shido	"Oh. Right. I guess it's hard to gauge the
+distance. Can't be helped."	"Oh. Cierto. Supongo que es difícil medir la distancia.
+No se puede evitar."
+Message	Origami	Then, allow me to resume.	Entonces, permíteme reanudar.
+Message	Shido	Oh, okay.	Ah, vale.
+Message	Origami	Around here?	¿Por aquí?
+Message	Shido	Yes. Yes, right there.	Sí. Sí, justo ahí.
+Message	Shido	—Hafuu!	-¡Hafuu!
+Message	Origami	"My hand slipped. This body soap is extremely
+lathering."	"Se me resbaló la mano. Este jabón
+corporal hace mucha espuma."
+Message	Shido	"R-Really. I can't see, but there must be tons
+of suds. Origami...? Maybe take it slower, huh?"	"En serio. No puedo ver, pero debe haber toneladas de
+espuma. ¿Origami...? Tal vez tomarlo con más calma, ¿eh?"
+Message	Origami	Hm...?	¿Hm...?
+Message	Shido	"Oh. I mean, being blindfolded makes it a little
+tough. Um, Origami, when your hand slips around
+my stomach, it gets a little uncomfortable..."	"Oh. Quiero decir, tener los ojos vendados lo hace un
+poco difícil. Um, Origami, cuando tu mano se desliza
+alrededor de mi estómago, se pone un poco incómodo..."
+Message	Origami	I see. I'll be careful.	Ya veo. Tendré cuidado.
+Message	Shido	Y-Yes. P-Please.	S-Sí. P-Por favor.
+Message	Origami	Shido?	¿Shido?
+Message	Shido	Hm? What is it?	¿Qué? ¿Qué es esto?
+Message	Origami	"Since I can't see your back, I don't know how
+much strength to use, so I can switch to
+something softer to scrub you."	"Como no puedo verte la espalda, no sé
+cuánta fuerza usar, así que puedo cambiar
+a algo más suave para restregarte."
+Message	Shido	Oh... I-I see. Got it...	Oh... Ya veo. Lo tengo...
+Message	Shido	...AH?!	...¿AH?
+Message	Origami	Are you okay?	¿Se encuentra bien?
+Message	Shido	O-Origami...?	¿O-Origami...?
+Message	Origami	What?	¿Cómo?
+Message	Shido	Well, I feel something soft and squeaky.	Bueno, siento algo suave y chirriante.
+Message	Origami	You don't like?	¿No te gusta?
+Message	Shido	It just kinda tickles.	Me hace cosquillas.
+Message	Origami	"I see. This is a cutting-edge skincare technique,
+developed to reduce abrasion on the skin."	"Ya veo. Se trata de una técnica cutánea de vanguardia,
+desarrollada para reducir la abrasión de la piel."
+Message	Shido	"Oh. I see. Sorry. You're doing so much, and I
+keep on interrupting you."	"Oh. Ya veo. Perdona. Estás haciendo tanto
+y yo sigo interrumpiéndote."
+Message	Origami	"I don't mind. As long as you enjoy it, then I
+enjoy it. But you need to sit still, or I won't
+be able to wash you thoroughly."	"No me importa. Mientras tú lo disfrutes, yo también.
+Pero tienes que estarte quieta, o no podré lavarte bien."
+Message	Shido	Okay...	Bueno...
+Message	Origami	Then, I will continue.	Entonces, continuaré.
+Message	Shido	O-Okay...	Vale...
+Message		(H-Hauuu! M-Must endure... but how?!)	(¡H-Hauuu! ¡Debo aguantar... pero ¿cómo?!)
+Message	Origami	Shido? How is it? Does it feel good?	¿Shido? ¿Qué tal está? ¿Se siente bien?
+Message	Shido	Well, it kinda tickles...	Bueno, hace un poco de cosquillas...
+Message	Origami	"I see. Perhaps a little more service is required.
+Sit still."	"Ya veo. Tal vez se requiere un poco más de servicio.
+Quédate quieto."
+Message		"(NUFAAAH! I told you... n-not to go so fast,
+Origami! T-Take it easy!)"	"(¡NUFAAAH! ¡Te dije... que no fueras tan rápido,
+Origami! ¡T-T-Tómatelo con calma!)"
+Message	Shido	"...?! I-I can't take it! I'm getting out!
+Sorry, Origami!"	"¡...?! ¡No puedo soportarlo! ¡Me largo!
+¡Lo siento, Origami!"
+Message	Origami	Oh...	Oh...
+Message	Shido	Sorry about this, Origami!	¡Lo siento, Origami!
+Message	Origami	It's fine. I had plenty of fun.	Está bien. Me divertí mucho.
+Message	Shido	Oh, but I got the floor all wet.	Oh, pero tengo el suelo todo mojado.
+Message	Origami	Do not fret. I've already cleaned it.	No te preocupes. Ya lo he limpiado.
+Message	Shido	Was all of that okay with you?	¿Te pareció bien todo eso?
+Message	Origami	Huh...?	¿Eh...?
+Message	Shido	"Well, I was just wondering if you had wanted
+to bathe with me."	"Bueno, me preguntaba si habías
+querido bañarte conmigo."
+Message	Origami	It was always my dream to bathe with you, Shido.	Siempre fue mi sueño bañarme contigo, Shido.
+Message	Shido	...!	¡...!
+Message		"(I couldn't tell because I was still blindfolded,
+but I wondered if she was smiling...)"	"(No podía saberlo porque aún tenía los ojos vendados,
+pero me preguntaba si estaría sonriendo...)."
+Message		"(No, I doubt she did. If she had, I could likely
+tell from her tone of voice.)"	"(No, dudo que lo hiciera. Si lo hubiera hecho,
+probablemente lo sabría por su tono de voz)."
+Message		"(Well, it seemed like she enjoyed the bath
+at least. Her skin is positively radiant.)"	"(Bueno, al menos parece que le ha gustado el baño.
+Su piel está positivamente radiante)."
+Message		"(I can't help but fear that it wasn't a good
+enough date for her, though.)"	"(Aunque no puedo evitar temer que no fuera
+una cita lo suficientemente buena para ella)."
+Message	Origami	...Shido?	...¿Shido?
+Message	Shido	Huh? Oh, sorry! Daydreaming again.	¿Eh? ¡Oh, perdón! Soñando despierto otra vez.
+Message	Origami	Next time, let's do it without a blindfold.	La próxima vez, hagámoslo sin una venda en los ojos.
+Message	Shido	Origami...	Origami...
+Message		"(Origami, what's going through your head?
+I feel so close, but the more I dig, the more
+confused I get.)"	"(Origami, ¿qué se te pasa por la cabeza?
+Me siento tan cerca, pero cuanto más indago,
+más me confundo)."
+Message		"(I want to know everything about you. I want
+to see every emotion you have to give.)"	"(Quiero saberlo todo de ti. Quiero ver
+cada emoción que tienes para dar)."
+Message		(And I want to see you smile!)	(¡Y quiero verte sonreír!)
+Message		"(Man, what's got me so desperate? What is
+this feeling?!)"	"(Dios, ¿qué me tiene tan desesperado?
+¡¿Qué es este sentimiento?!)"
+Message	Origami	"Shido, what's the matter? You're beet red.
+Do you have a fever?"	"Shido, ¿qué te pasa? Estás rojo como una remolacha.
+¿Tienes fiebre?"
+Message	Shido	N-No, nothing's wrong!	¡No, no pasa nada!
+Message		"(Maybe I'm asking for too much. I can't force
+Origami to be something she's not.)"	"(Quizá estoy pidiendo demasiado. No puedo
+obligar a Origami a ser algo que no es)."
+Message		"(The Origami in front of me won't change.
+I just have to accept her for who she is.)"	"(La Origami que tengo delante no cambiará.
+Sólo tengo que aceptarla como es)."
+Message		"(B-But... if only Origami could smile. ARGH!
+I DON'T GET IT!)"	"(P-Pero... si sólo Origami pudiera sonreír.
+¡ARGH! ¡NO LO ENTIENDO!)"
+Message	Origami	...?	...?

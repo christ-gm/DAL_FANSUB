@@ -1,0 +1,117 @@
+Operator	Comment	Key	Translation
+Message	Shido	"Huh? Where'd they go? I can't find my chopsticks.
+I thought I put them together after I ate with
+them."	"¿Eh? ¿Dónde han ido? No encuentro mis palillos.
+Pensé que los había juntado después de
+comer con ellos."
+Message	Origami	Shido, thank you.	Shido, gracias.
+Message	Shido	Hm?	¿Hm?
+Message	Origami	Your lunch.	Tu almuerzo.
+Message	Shido	"Oh, don't worry. Friends always help each other.
+Like when you helped me study."	"No te preocupes. Los amigos siempre se ayudan.
+Como cuando me ayudaste a estudiar."
+Message	Origami	I washed these.	Los lavé.
+Message	Shido	Oh, are those my chopsticks?	Oh, ¿son esos mis palillos?
+Message	Origami	Yes.	Sí.
+Message	Shido	"I see. Thanks, but man, these look practically
+brand new. You didn't have to do that."	"Ya veo. Gracias, pero hombre, estos parecen
+prácticamente nuevos. No tenías que hacer eso."
+Message	Origami	I don't mind. For me, this is a treat.	No me importa. Para mí, esto es un placer.
+Message	Shido	What...?	¿Qué...?
+Message	Origami	Don't worry about it.	No te preocupes.
+Message	Shido	O-Okay...	O-Okay...
+Message	Shido	"O-Origami, are you reading a thick reference
+book on your lunch break?"	"O-Origami, ¿estás leyendo un grueso
+libro de consulta en tu hora de comer?"
+Message	Origami	Is that a problem?	¿Es eso un problema?
+Message	Shido	No, i-it's not, but...	No, no lo es, pero...
+Message	Origami	I just want to use my time wisely.	Sólo quiero usar mi tiempo sabiamente.
+Message		(R-Right...)	(B-Bien…)
+Message	Shido	"Do you ever read, uh, interesting books or
+manga on your days off?"	"¿Alguna vez lees libros interesantes
+o manga en tus días libres?"
+Message	Origami	"My days off are often spent observing Shido's
+modus operandi, or training."	"Suelo pasar mis días libres observando el
+modus operandi de Shido, o entrenando."
+Message	Shido	"I see...Wait, what?! Did you just say
+you observe me?!"	"Ya veo... Espera, ¡¿qué?!
+¡¿Acabas de decir que me observas?!"
+Message	Origami	My hobby.	Mi afición.
+Message	Shido	...!	¡...!
+Message	Origami	Oh...	Oh...
+Message	Shido	Hm? What's the matter?	¿Qué? ¿Cuál es el problema?
+Message	Origami	I visited the Tengu Garrison.	Visité la Guarnición Tengu.
+Message	Shido	?! D-Did they decide your punishment?	¡?! ¿Han decidido tu castigo?
+Message	Origami	"I contacted them various times without reply,
+so I decided to go there myself."	"Me puse en contacto con ellos varias veces sin
+obtener respuesta, así que decidí ir yo mismo."
+Message	Shido	"I thought you weren't allowed to go in and
+out freely."	Creía que no te dejaban entrar y salir libremente.
+Message	Origami	Yes. I was reprimanded.	Sí. Me reprendieron.
+Message	Shido	I-I bet. Were you okay?	S-Supongo. ¿Estabas bien?
+Message	Origami	Yes, however...	Sí, sin embargo...
+Message	Shido	However?	Pero...
+Message	Origami	"As I thought, there were no traces of Spirit
+waves on the AST."	"Como pensaba, no había rastros
+de ondas Spirit en el AST."
+Message	Shido	What?! Oh, I thought so.	¡¿Qué?! Oh, eso pensaba.
+Message	Origami	"You thought so? The observation tool at the
+Tengu Garrison is the best in the world. Why
+would you think so, Shido?"	"¿Tú crees? La herramienta de observación de
+la Guarnición Tengu es la mejor del mundo.
+¿Por qué piensas eso, Shido?"
+Message	Shido	"I don't know much either, but it feels like the
+barrier itself is well-hidden."	"Yo tampoco sé mucho, pero parece que
+la barrera en sí está bien escondida."
+Message	Shido	"Because of the barrier, we're completely cut
+off from everything outside Tengu City. I heard
+it affects the observation tool as well."	"Debido a la barrera, estamos completamente aislados
+de todo fuera de Ciudad Tengu. He oído que afecta a
+la herramienta de observación también."
+Message	Origami	"Then, how were you able to find out about the
+barrier?"	Entonces, ¿cómo pudo enterarse de la barrera?
+Message	Shido	Huh? W-Well... haha.	¿Eh? B-Bueno... jaja.
+Message		"(I can't tell her that I know someone who's
+running the observation tool.)"	"(No puedo decirle que conozco a alguien que se
+encarga de la herramienta de observación)."
+Message	Origami	...	...
+Message	Shido	"A-Anyways, what's really scary is that no one
+even realizes they're trapped."	"De todos modos, lo que realmente asusta es
+que nadie se da cuenta de que está atrapado."
+Message	Origami	Huh?	¿Eh?
+Message	Shido	"Don't you think? We're the only ones who are
+even aware of what's going on, right?"	"¿No crees? Somos los únicos que nos
+damos cuenta de lo que pasa, ¿no?"
+Message	Origami	...!	¡...!
+Message	Shido	To top it off, no one can break the barrier.	Para colmo, nadie puede romper la barrera.
+Message	Origami	No one can?	¿Nadie puede?
+Message	Shido	Yes. We're trying our best.	Sí. Nos esforzamos al máximo.
+Message	Origami	I see...	Ya veo...
+Message	Shido	If only we could figure out what they want.	Si tan sólo pudiéramos averiguar lo que quieren.
+Message	Origami	"Is it an ""enemy""?"	"¿Es un ""enemigo""?"
+Message	Shido	"At the very least, we know they're not our
+allies. Especially if they're trapping us
+because they're after the Spirits."	"Por lo menos, sabemos que no son nuestros
+aliados. Especialmente si nos están atrapando
+porque van tras los Espíritus."
+Message	Shido	"Besides, because of this barrier, Tohka and
+the girls could more easily go on a rampage."	"Además, debido a esta barrera, Tohka y
+las chicas podrían alborotar más fácilmente."
+Message	Shido	"I mean, Origami, you don't want anyone to
+suffer like you have, right?"	"Quiero decir, Origami, no quieres
+que nadie sufra como tú, ¿verdad?"
+Message	Origami	"If the enemy's goal is to destabilize the
+Spirits within the barrier, then I will do all
+in my power to prevent that. I will destroy it."	"Si el objetivo del enemigo es desestabilizar a los
+Espíritus dentro de la barrera, haré todo lo que
+esté en mi mano para impedirlo. La destruiré."
+Message		"(Whoa. Origami doesn't change her expression
+much, but when it comes to the Spirits, the
+anger really comes through.)"	"(Vaya. Origami no cambia mucho su expresión,
+pero cuando se trata de los Espíritus,
+la ira realmente aparece)."
+Message		"(Yet another reason I want to make Origami
+smile. I hope to make a real, genuine smile
+come out of her.)"	"(Otra razón más por la que quiero hacer sonreír a
+Origami. Espero hacer que le salga una
+sonrisa real y genuina)."

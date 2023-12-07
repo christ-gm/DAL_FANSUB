@@ -1,9 +1,11 @@
 Operator	Comment	Key	Translation
-Message	Shido	Wait... that cat...	Espera... ese gato...
+Message	Shido	Wait... that cat...	Espera... ese gato…
 Message	Shido	"Every time I pass by, you always come up to me,
-don't ya? So... how've you been?"	Cada vez que paso, siempre te me acercas, ¿no? Así que... ¿cómo has estado?
+don't ya? So... how've you been?"	"Cada vez que paso, siempre te me acercas,
+¿no? Así que... ¿cómo has estado?"
 Message	Shido	"You're so friendly. Are you really a stray? I wonder
-if your owner just lets you roam around."	Eres tan amigable. ¿De verdad eres un perro callejero? Me pregunto si tu dueño te deja vagar por ahí.
+if your owner just lets you roam around."	"Eres tan amigable. ¿De verdad eres un perro callejero?
+Me pregunto si tu dueño te deja vagar por ahí."
 Message	Shido	Oh, you're going already? See ya!	¿Ya te vas? ¡Nos vemos!
 Message	Shido	Hm?	¿Hm?
 Message	Kurumi	...	...
@@ -11,22 +13,29 @@ Message	Shido	Kurumi?	¿Kurumi?
 Message	Kurumi	You have a way with cats, don't you?	Se te dan bien los gatos, ¿verdad?
 Message	Shido	You always show up when I least expect it...	Siempre apareces cuando menos lo espero...
 Message	Kurumi	"Maybe the animals can tell that you're
-a good person, Shido-san."	Puede que los animales se den cuenta de que eres una buena persona, Shido-san.
+a good person, Shido-san."	"Puede que los animales se den cuenta de
+Que eres una buena persona, Shido-san."
 Message	Shido	I wonder. Who knows, really?	Me pregunto. ¿Quién sabe?
 Message	Kurumi	"Animals can instinctively read their opponents.
 I'm sure this cat doesn't feel the need to get its
-guard up around you."	Los animales pueden leer instintivamente a sus oponentes.  Seguro que este gato no siente la necesidad de ponerse en guardia cerca de ti.
+guard up around you."	"Los animales pueden leer instintivamente a sus oponentes.
+Seguro que este gato no siente la necesidad de
+Ponerse en guardia cerca de ti."
 Message	Kurumi	"Some humans are scheming and terrible...
-but I'm sure it doesn't look at you that way."	Algunos humanos son intrigantes y terribles... pero seguro que a ti no te mira así.
+but I'm sure it doesn't look at you that way."	"Algunos humanos son intrigantes y terribles…
+Pero seguro que a ti no te mira así."
 Message	Shido	Y-You really think so?	¿De verdad lo crees?
 Message	Kurumi	Yes. I feel the same.	Sí. Siento lo mismo.
 Message	Shido	Huh?	¿Eh?
 Message	Kurumi	"I know you wouldn't do anything evil towards me.
 There's a part of me that finds it easy to appear
-before you like this."	Sé que no harías nada malo contra mí.  Hay una parte de mí a la que le resulta fácil presentarse así ante ti.
+before you like this."	"Sé que no harías nada malo contra mí.  Hay una parte
+De mí a la que le resulta fácil presentarse así ante ti."
 Message	Kurumi	"Hehe. I mean, there aren't a lot of people out there
 who would so casually talk to somebody who attempted
-to murder them."	Jeje. Quiero decir, no hay mucha gente ahí fuera que hablaría tan despreocupadamente con alguien que intentó asesinarle.
+to murder them."	"Jeje. Quiero decir, no hay mucha gente ahí fuera que
+hablaría tan despreocupadamente con alguien
+Que intentó asesinarle."
 Message	Shido	About that...	Sobre eso...
 Message	Kurumi	So, Shido-san. What... do you think of me?	Entonces, Shido-san. ¿Qué... piensas de mí?
 Message		(Kurumi, huh? What do I think of her...?)	(Kurumi, ¿eh? ¿Qué pienso de ella...?)
@@ -34,33 +43,44 @@ Choice		I'd be lying if I said I'm not afraid of you.	Mentiría si dijera que no
 Choice		I'm not scared of you.	No te tengo miedo.
 Message	Shido	"W-Well... I'd be lying if I said I'm not afraid of you.
 Honestly, I have no idea what you're going to
-try and do to me."	Bueno... Mentiría si dijera que no te tengo miedo.  Sinceramente, no tengo ni idea de lo que vas a intentar hacerme.
+try and do to me."	"Bueno... Mentiría si dijera que no te tengo miedo.
+Sinceramente, no tengo ni idea de lo que
+Vas a intentar hacerme."
 Message	Kurumi	...	...
 Message	Shido	"But I don't hate you. I still want to save you.
-That much hasn't changed."	Pero no te odio. Sigo queriendo salvarte.  Eso no ha cambiado.
-Message	Kurumi	After all that's happened, you sure are optimistic.	Después de todo lo que ha pasado, seguro que eres optimista.
-Message	Shido	It's because I don't believe you're evil deep down.	Es porque no creo que seas malvado en el fondo.
+That much hasn't changed."	"Pero no te odio. Sigo queriendo salvarte.
+Eso no ha cambiado."
+Message	Kurumi	After all that's happened, you sure are optimistic.	"Después de todo lo que ha pasado,
+Seguro que eres optimista."
+Message	Shido	It's because I don't believe you're evil deep down.	Es porque no creo que seas malvada en el fondo.
 Message	Kurumi	Shido, you're so naïve.	Shido, eres tan ingenuo.
 Message	Shido	You think so?	¿Tú crees?
 Message	Kurumi	"Yes. Absolutely. But I also find part of you to be
 comforting, and I think that is something both
-humans and animals can sense."	Sí. Por supuesto. Pero también encuentro que parte de ti es reconfortante, y creo que eso es algo que tanto los humanos como los animales pueden sentir.
+humans and animals can sense."	"Sí. Por supuesto. Pero también encuentro que parte
+de ti es reconfortante, y creo que eso es algo que
+Tanto los humanos como los animales pueden sentir."
 Message	Shido	Kurumi...	Kurumi...
 Message	Kurumi	Well, Shido-san, I'll see you around.	Bueno, Shido-san, nos vemos.
 Message	Shido	She's like a ghost.	Es como un fantasma.
 Message	Shido	"I don't find you scary... for now, anyway.
-You are just like an ordinary girl, Kurumi."	No me das miedo... por ahora, al menos.  Eres como una chica normal, Kurumi.
+You are just like an ordinary girl, Kurumi."	"No me das miedo... por ahora, al menos.
+Eres como una chica normal, Kurumi."
 Message	Shido	"I want to talk to you normally, and if there's
-ever a problem, I want to help you."	Quiero hablar contigo normalmente, y si alguna vez hay un problema, quiero ayudarte.
+ever a problem, I want to help you."	"Quiero hablar contigo normalmente, y si alguna
+Vez hay un problema, quiero ayudarte."
 Message	Kurumi	You still don't get it, do you, Shido-san?	Todavía no lo entiendes, ¿verdad, Shido-san?
 Message	Shido	What do you mean?	¿A qué te refieres?
 Message	Kurumi	"You can label me like that, but I definitely
-won't meet your expectations."	Puedes etiquetarme así, pero seguro que no cumpliré tus expectativas.
+won't meet your expectations."	"Puedes etiquetarme así, pero seguro que no
+Cumpliré tus expectativas."
 Message	Shido	Kurumi...	Kurumi...
 Message	Kurumi	"Our sense of justice and equality is different.
-We will never see eye to eye."	Nuestro sentido de la justicia y la igualdad es diferente.  Nunca estaremos de acuerdo.
+We will never see eye to eye."	"Nuestro sentido de la justicia y la igualdad es diferente.
+Nunca estaremos de acuerdo."
 Message	Shido	Oh...	Oh...
 Message	Kurumi	And yet, you are so honest. It really is interesting.	Y sin embargo, eres tan honesto. Es realmente interesante.
 Message	Kurumi	"Well, good day, Shido-san. I pray that your
-kindness won't be your downfall."	Bueno, buen día, Shido-san. Rezo para que tu amabilidad no sea tu perdición.
+kindness won't be your downfall."	"Bueno, buen día, Shido-san. Rezo para que tu
+Amabilidad no sea tu perdición."
 Message	Shido	Kurumi...	Kurumi...

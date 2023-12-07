@@ -1,0 +1,216 @@
+Operator	Comment	Key	Translation
+Message	Shido	"Yoshino is becoming an adult, huh...
+Even if that's true, what can I do for
+Yoshino's sake?"	"Yoshino se está haciendo adulta, eh... Aunque eso
+sea cierto, ¿qué puedo hacer por el bien de Yoshino?"
+Message		"(I know that an answer won't come easily no matter
+how much I think about it, but I can't help but
+think about it.)"	"(Sé que la respuesta no llegará fácilmente por
+mucho que lo piense, pero no puedo evitar
+pensar en ello)."
+Message	Shido	Hm? Someone's coming...	¿Hm? Alguien viene...
+Message	Shido	Is it Yoshino?	¿Es Yoshino?
+Message	Yoshino	Yoshinon... Let's talk... okay...?	Yoshinon... Hablemos... ¿de acuerdo...?
+Message	Yoshinon	......	......
+Message	Yoshino	"Why are you... staying quiet...?
+Please answer me... Please answer...!"	"¿Por qué... te quedas callada...? Por favor,
+respóndeme... ¡Por favor, contesta...!"
+Message	Yoshino	...! ...!!	...! ...!!
+Message	Shido	Yoshino, let's stop.	Yoshino, paremos.
+Message	Yoshino	Shido...san?	¿Shido...san?
+Message	Shido	"I understand that you're worried about Yoshinon.
+But even if you do that, Yoshinon won't come back."	"Entiendo que estés preocupada por Yoshinon.
+Pero aunque hagas eso, Yoshinon no volverá."
+Message	Yoshino	I... know that. But... But...	Yo... lo sé. Pero... Pero...
+Message	Shido	"It's painful for me, too. It's even more
+painful for you, Yoshino. I understand that...
+She's your important friend, after all."	"También es doloroso para mí. Es aún más doloroso
+para ti, Yoshino. Entiendo que... después de todo,
+Es una amiga importante."
+Message	Yoshino	Yes...	Sí...
+Message	Shido	But Yoshino... Listen to me.	Pero Yoshino... Escúchame.
+Choice		I'm here for you, Yoshino.	Estoy aquí para ti, Yoshino.
+Choice		Let's both wait for Yoshinon.	Esperemos los dos a Yoshinon.
+Choice		Just pretend she wasn't there from the beginning.	Haz como si no hubiera estado allí desde el principio.
+Message	Shido	"Until Yoshinon comes back, you won't be alone,
+Yoshino. I said this yesterday too, but I'm
+here for you."	"Hasta que Yoshinon vuelva, no estarás sola,
+Yoshino. También dije esto ayer, pero
+estoy aquí para ti."
+Message	Yoshino	...!!	¡¡...!!
+Message	Shido	"Even with Yoshinon gone, please don't think you're
+alone. You have so many friends around you that
+care about you."	"Incluso sin Yoshinon, por favor no pienses que
+estás sola. Tienes muchos amigos a tu
+alrededor que se preocupan por ti."
+Message	Yoshino	Friends...?	¿Amigos...?
+Message	Shido	"That's right. Tohka, Kotori, Rinne...
+Even Reine-san and Kannazuki-san...
+Everyone thinks of you as important."	"Así es. Tohka, Kotori, Rinne...  Incluso Reine-san
+y Kannazuki-san... Todos te consideran importante."
+Message	Shido	"We might not be a replacement for Yoshinon...
+but we're always thinking about you. Yoshino...
+You're not alone."	"Puede que no seamos un reemplazo para
+Yoshinon... pero siempre estamos pensando
+en ti. Yoshino...  no estás sola."
+Message	Yoshino	...Ah... Aahh...	...Ah... Aahh...
+Message	Shido	"A little at a time. A little at a time is fine.
+So you can welcome Yoshinon back with a smile...
+Let's do our best... together."	"Poco a poco. Un poco a la vez está bien. Así que puedes
+darle la bienvenida a Yoshinon con una sonrisa... 
+Hagámoslo lo mejor que podamos... juntos."
+Message	Shido	Right, Yoshino?	¿Verdad, Yoshino?
+Message	Yoshino	"Yes...
+Thanks to you, I... feel a little braver."	"Sí... Gracias a ti, yo…
+me siento un poco más valiente."
+Message		"(Yoshino gave me the best smile she could at the
+moment. Her smile seemed happy, but I also felt a
+hint of loneliness as well.)"	"(Yoshino me dedicó la mejor sonrisa que pudo en ese
+momento. Su sonrisa parecía feliz, pero también
+sentí una pizca de soledad)."
+Message	Shido	"It might take some time.
+But I'm sure Yoshinon will return to normal.
+After all, Yoshinon's your friend, right?"	"Puede llevar algún tiempo. Pero estoy seguro de que
+Yoshinon volverá a la normalidad. Después de todo,
+Yoshinon es tu amiga, ¿verdad?"
+Message	Yoshino	...!!	¡¡...!!
+Message	Shido	"So I'm sure that she'll return.
+Until then, I'll wait with you. I promise."	"Así que estoy seguro de que volverá.
+Hasta entonces, esperaré contigo. Te lo prometo."
+Message	Yoshino	Yes...! Thank you...	Sí... Gracias...
+Message		"(As she said this, Yoshino gave the best smile she
+could... She still seemed sad and worried, but she
+was still able to smile somehow, in gratitude.)"	"(Mientras decía esto, Yoshino ofreció la mejor sonrisa
+que pudo... Aún parecía triste y preocupada, pero de
+alguna manera todavía lograba sonreír, agradecida.)"
+Message		"(That's why, I decided... I would continue to stay
+by Yoshino's side like this.)"	"(Por eso, decidí... que continuaría permaneciendo
+al lado de Yoshino así)."
+Message	Shido	"Yoshino... You don't have to be sad anymore.
+Why don't you think instead... that Yoshinon
+wasn't here to begin with?"	"Yoshino... Ya no tienes que estar triste.
+¿Por qué no piensas en cambio... que
+Yoshinon no estaba aquí para empezar?"
+Message	Yoshino	...!!	¡¡...!!
+Message	Shido	"If you keep obsessing over Yoshinon, it'll end up
+breaking your heart... If that's the case, then
+it's better to..."	"Si sigues obsesionada con Yoshinon, terminará
+rompiéndote el corazón... Si ese es el caso,
+entonces es mejor..."
+Message	Yoshino	Wh...Why...! Wh-Why... Why would I...?!	¿Por qué...? Por... Por... ¡¿Por qué yo...?!
+Message	Shido	Huh?!	¡¿Eh?!
+Message	Yoshino	I can't pretend... that Yoshinon was never here!!	¡¡No puedo fingir... que Yoshinon nunca estuvo aquí!!
+Message	Shido	...?!	¡...?!
+Message		"(What the... There's a sudden chill...
+This is bad...!)"	"(Qué... Hay un escalofrío repentino…
+¡Esto es malo...!)"
+Message	Yoshino	Just... forget it...	Sólo... olvídalo...
+Message	Shido	Y-Yoshino...?!	¡¿Y-Yoshino...?!
+Message	Shido	Wait, Yoshino!!	¡Espera, Yoshino!
+Message		"Did I say the wrong thing...? An unseasonable
+snowfall turned into a snowstorm and covered
+the city."	"¿He dicho algo equivocado...? Una nevada impropia
+de la época se convirtió en tormenta de nieve
+y cubrió la ciudad."
+Message		"Yoshino's sorrow could not be stopped, and the
+snowstorm continued to rage ever stronger."	"La tristeza de Yoshino no podía detenerse, y la tormenta
+de nieve seguía arreciando cada vez con más fuerza."
+Message		Eventually, everything froze over...	Finalmente, todo se congeló...
+Message		"(Yoshino's sadness is too great. The more I talked
+to her, the more pain she felt. Right now, she's
+like I was long ago, when I was abandoned...)"	"(La tristeza de Yoshino es abrumadora. Cada palabra
+que le digo le causa más dolor. En este momento, está
+como yo estuve hace mucho, cuando me abandonaron...)"
+Message	Shido	"At this rate, no matter what I try, it'll only be
+a temporary fix. Isn't there anything I can do...?"	"A este paso, no importa lo que intente, sólo será
+una solución temporal. ¿No hay nada que pueda hacer...?"
+Message		"(Even if I say it out loud, there's no way an
+answer would come. There were no answers
+that would help.)"	"(Aunque lo dijera en voz alta,
+no habría respuesta. No había
+respuestas que pudieran ayudar)."
+Message	Shido	Let's... date.	Vamos... a salir.
+Message		"(In the end, I realized that was all I could do.
+But even if something that small could support
+Yoshino, then...)"	"(Al final, me di cuenta de que era todo lo que podía
+hacer.  Pero incluso si algo tan pequeño podía
+sostener a Yoshino, entonces...)"
+Message	Shido	"It's not because she's unstable, or to prevent her
+from losing control. I personally want to support
+her."	"No es porque sea inestable, ni para evitar
+que pierda el control. Yo personalmente
+quiero apoyarla."
+Message	Shido	"That's why tomorrow...
+I'll go on a date with Yoshino...!"	Por eso mañana...  ¡tendré una cita con Yoshino...!
+Message	Shido	Is that you, Yoshino?	¿Eres tú, Yoshino?
+Message	Rinne	Sorry, I'm not Yoshino-chan.	Lo siento, no soy Yoshino-chan.
+Message	Shido	"Rinne?
+No, it's fine, but... What's wrong?"	¿Rinne?  No, está bien, pero... ¿Qué pasa?
+Message	Rinne	There was something I wanted to ask you, Shido.	Había algo que quería preguntarte, Shido.
+Message	Shido	Something you wanted to ask?	¿Quieres preguntar algo?
+Message	Rinne	"Yes, I wanted to ask you.
+Shido... You've decided, haven't you?"	"Sí, quería preguntarte.  Shido…
+Te has decidido, ¿verdad?"
+Message	Shido	What are you talking about?	¿De qué estás hablando?
+Message	Rinne	"You decided that... You want
+to support Yoshino-chan."	"Decidiste que... Quieres
+apoyar a Yoshino-chan."
+Message	Shido	"Yeah... I don't want to see Yoshino as she is
+right now. I want her to be able to smile again."	"Sí... No quiero ver a Yoshino como está ahora.
+Quiero que sea capaz de sonreír de nuevo."
+Message	Rinne	I see. So that's your answer, Shido.	Ya veo. Así que esa es tu respuesta, Shido.
+Message	Shido	Yeah. That's what I've decided.	Sí. Eso es lo que he decidido.
+Message	Rinne	......	......
+Message	Shido	......	......
+Message	Rinne	Hey, Shido... Can you promise me something?	Eh, Shido... ¿Puedes prometerme algo?
+Message	Shido	Promise...? What...?	¿Prometer…? ¿Qué...?
+Message	Rinne	"Promise that from now on, you'll cherish
+Yoshino-chan. No matter what happens,
+you won't let her go... Promise me."	"Prométeme que a partir de ahora, cuidarás a
+Yoshino-chan. No importa lo que pase,
+no la dejarás ir... Prométemelo."
+Message	Shido	"Wh-What are you talking about?
+You don't have to ask me to do that..."	"¿De qué estás hablando?
+No tienes que pedirme que haga eso..."
+Message	Rinne	"Please, I want you to promise me. That you'll only
+think of Yoshino-chan... Otherwise, I'm sure that
+your heart will one day distance itself from her."	"Por favor, quiero que me prometas. Que sólo pensarás
+en Yoshino-chan... De lo contrario, estoy segura de
+que tu corazón algún día se distanciará de ella."
+Message	Shido	Rinne...	Rinne...
+Message	Rinne	Please...	Por favor...
+Message	Shido	"I understand... I promise.
+As a man, I won't take back what I've said.
+I'll... cherish Yoshino, absolutely."	"Entiendo... Te lo prometo.  Como hombre, no me
+retractaré de lo que he dicho.  Yo... querré a
+Yoshino, absolutamente."
+Message	Rinne	Yeah... I knew you would promise me, Shido.	Sí... Sabía que me lo prometerías, Shido.
+Message	Shido	Haha, what do you mean by that?	Jaja, ¿qué quieres decir con eso?
+Message	Rinne	"I believe in you, Shido...
+Don't forget your promise... Don't ever break it."	"Creo en ti, Shido...  No olvides tu promesa…
+Nunca la rompas."
+Message	Shido	Yeah, of course.	Sí, claro.
+Message	Rinne	If you break it, you won't get off easy, okay?	Si lo rompes, no te librarás fácilmente, ¿vale?
+Message	Shido	I-I know!	¡Lo sé!
+Message	Rinne	I see... Then it's good.	Ya veo... Entonces está bien.
+Message	Shido	Wh-What is it? Why do you have to threaten me?	¿Qué pasa? ¿Por qué tienes que amenazarme?
+Message	Rinne	Hehe... Sorry.	Jeje... Lo siento.
+Message	Rinne	But...	Pero...
+Message	Shido	...?	...?
+Message	Rinne	"You'll be fine.
+If it's you, you'll be fine... I'm sure of it."	"Estarás bien.  Si eres tú,
+estarás bien... Estoy seguro de ello."
+Message	Shido	...?	...?
+Message	Shido	Wh-What was that just now?!	¿Qué ha sido eso?
+Message	Shido	Hey, Rinne... Did you just see―	Oye, Rinne... ¿Acabas de ver...?
+Message	Shido	"Huh? Rinne's gone?
+When did she...?"	"¿Eh? ¿Rinne se ha ido?
+¿Cuándo...?"
+Message	Shido	"Well, it is pretty late...
+I should head to bed as well."	"Bueno, es bastante tarde…
+Yo también debería irme a la cama."
+Message	???	"...In this dream... no one can become happy...
+Shido Itsuka... I hope your next dream will be
+a happy one..."	"...En este sueño... nadie puede llegar a ser feliz... 
+Shido Itsuka... Espero que tu próximo
+sueño sea feliz..."

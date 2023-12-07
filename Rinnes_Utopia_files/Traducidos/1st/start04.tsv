@@ -1,10 +1,10 @@
 Operator	Comment	Key	Translation
 Message		"(Spirits... Supposedly they are beings that
 shouldn't exist.)"	"(Espíritus... Supuestamente son seres que
-no deberían existir)."
+no deberían existir).}"
 Message		"(When a Spirit appears in the world, a spacequake
-occurs involuntarily.)"	"(Cuando un Espíritu aparece en el mundo, se produce involuntariamente un
-se produce involuntariamente)."
+occurs involuntarily.)"	"(Cuando un Espíritu aparece en el mundo, un
+terremoto espacial ocurre involuntariamente.)"
 Message		"(As the name implies, it's an earthquake in
 space. A massive force bears down on the region,
 explodes, leaving nothing but a smoking crater.)"	"(Como su nombre indica, es un terremoto en el
@@ -13,14 +13,13 @@ explota, dejando nada más que un cráter humeante)."
 Message		(It was first observed 30 years ago...)	(Se observó por primera vez hace 30 años...)
 Message		"(Eurasia's center disappeared; over 150 million
 were killed in the largest calamity in mankind's
-history. Also known as the Eurasia Sky Disaster.)"	"(El centro de Eurasia desapareció; más de 150 millones
-en la mayor calamidad de la historia de la humanidad.
-de la humanidad. También conocido como el Desastre del Cielo de Eurasia)."
+history. Also known as the Eurasia Sky Disaster.)"	"(En Eurasia, el centro desapareció, resultando en la mayor
+catástrofe de la historia con más de 150 millones de muertes,
+también conocida como el Desastre del Cielo de Eurasia.)"
 Message		"(Just as they had sparked in the beginning,
 small-scale spacequakes began to occur
-throughout the world.)"	"(Al igual que al principio,
-pequeños terremotos espaciales comenzaron a ocurrir
-en todo el mundo)."
+throughout the world.)"	"(Al igual que al principio, pequeños terremotos
+espaciales comenzaron a ocurrir en todo el mundo)."
 Message		"(That's why the Spirits that cause them are
 known as harbingers of disaster, earning the
 ire and fear of the people around them.)"	"(Por eso los Espíritus que las causan son
@@ -36,9 +35,10 @@ life when she arrived.)"	"(Llevaba una vida normal y corriente
 normal cuando ella llegó)."
 Message		"(Spring break had ended, and my life as a
 sophomore began on April 10th. On that day,
-I met my first Spirit.)"	"(Las vacaciones de primavera habían terminado, y mi vida como
-segundo año comenzó el 10 de abril. En ese día,
-conocí a mi primer Spirit)."
+I met my first Spirit.)"	"
+(Las vacaciones de primavera habían terminado y mi vida
+como El estudiante de segundo año comenzó el 10
+de abril. En ese día, conocí a mi primer Espíritu.)"
 Message		(I remember as if it were yesterday.)	(Lo recuerdo como si fuera ayer).
 Message		"(The city was destroyed, and there was a huge
 crater in the ground as if a meteor had struck.
@@ -52,9 +52,9 @@ mi corazón en un instante. Era tan hermosa,
 casi de otro mundo...)"
 Message		"(Her powers had the potential to destroy the
 world, and because of that, she was reviled and
-attacked by humans. She fought in her despair.)"	"(Sus poderes podían destruir el mundo
-mundo, y debido a eso, fue vilipendiada y
-atacada por los humanos. Luchó en su desesperación)."
+attacked by humans. She fought in her despair.)"	"(Sus poderes tenían el potencial de
+destruir el mundo, y por eso, fue vilipendiada y
+atacado por humanos. Ella luchó en su desesperación.)"
 Message		"(I just couldn't bring myself to think that she
 was the world's enemy. Not only that, I wanted to
 save her from her sadness.)"	"(Simplemente no me atrevía a pensar que ella
@@ -72,7 +72,7 @@ shocking to say the least...)"	"(Si tiene éxito, entonces yo sería capaz de sa
 Espíritus... Sin embargo, los medios para hacerlo eran
 chocante por decir lo menos...)"
 Message		"(It was to make the Spirits fall in love.
-In other words...)"	"(Era para enamorar a los Espíritus.
+In other words...)"	"(Era enamorar a los Espíritus.
 En otras palabras...)"
 Message		"(I needed to spend as much time with them
 as I could, and gain their affection.)"	"(Necesitaba pasar tanto tiempo con ellos
@@ -87,19 +87,19 @@ who regained her powers in order to protect me.)"	"(Pude salvar a Tohka, Yoshino
 que recuperó sus poderes para protegerme)."
 Message		"(Origami's parents were murdered by a Spirit five
 years ago. She didn't approve of my actions.
-However, she has slowly grown to understand me.)"	"(Los padres de Origami fueron asesinados por un Espíritu cinco
-años atrás. Ella no aprobaba mis acciones.
+However, she has slowly grown to understand me.)"	"(Los padres de Origami fueron asesinados por un Espíritu
+hace cinco años atrás. Ella no aprobaba mis acciones.
 Sin embargo, poco a poco ha ido comprendiéndome)."
 Message		"(There was one Spirit I couldn't save. A girl who
 transferred to my school without hiding that she
-was a Spirit. A girl with black hair... Kurumi.)"	"(Hubo un Spirit al que no pude salvar. Una chica que
-transferido a mi escuela sin ocultar que ella
-era un Espíritu. Una chica con el pelo negro... Kurumi.)"
+was a Spirit. A girl with black hair... Kurumi.)"	"(Hubo un Espíritu que no pude salvar. Una chica que
+se trasladó a mi escuela sin ocultar que era un Espíritu.
+Una chica de cabello negro... Kurumi.)"
 Message		"(As for her, there were a lot of instances that
 made me doubt her. Neither Tohka nor Yoshino
-bore any ill will toward anyone.)"	"(En cuanto a ella, había un montón de casos que
+bore any ill will toward anyone.)"	"(En cuanto a ella, hubo muchas ocasiones que
 me hicieron dudar de ella. Ni Tohka ni Yoshino
-tenían mala voluntad hacia nadie)."
+tenían ningún deseo de hacer daño a nadie.)"
 Message		"(However, Kurumi was different. Kurumi killed
 people of her own volition.)"	"(Sin embargo, Kurumi era diferente. Kurumi mataba
 a la gente por su propia voluntad)."
@@ -125,13 +125,13 @@ por Kotori, y desapareció...)"
 Message		"(During that time, I met a girl claiming to be my
 real little sister, Mana Takamiya. Injured during
 the battle with Kurumi, she is in the hospital...)"	"(Durante ese tiempo, conocí a una chica que decía ser mi
-verdadera hermana pequeña, Mana Takamiya. Herida durante
-la batalla con Kurumi, está en el hospital...)"
+verdadera hermana pequeña, Mana Takamiya. Herida
+durante la batalla con Kurumi, está en el hospital...)"
 Message		"(Tohka, Yoshino, Kurumi, Kotori, and Origami
 (although she isn't a Spirit). Ever since I met
-them, I...)"	"(Tohka, Yoshino, Kurumi, Kotori, y Origami
-(aunque no es un espíritu). Desde que las conocí
-ellos, yo...)"
+them, I...)"	"(Tohka, Yoshino, Kurumi, Kotori y Origami
+(aunque ella no es un Espíritu).
+Desde que los conocí...)"
 Message		(Hm? Who was that... Uh...?)	(¿Hm? ¿Quién era ese... Uh...?)
 Message		"(Hm?! I-I think she was...
 That's right! That girl!)"	"(¡¿Hm?! Creo que ella estaba...
@@ -141,7 +141,7 @@ Message		"(I woke up, but I still couldn't distinguish
 reality from the dream. A strange, flowy
 sensation lingered...)"	"(Me desperté, pero todavía no podía distinguir
 la realidad del sueño. Una extraña sensación
-y fluida...)"
+fluida persistía...)"
 Message		(The girl I saw at the end...)	(La chica que vi al final...)
 Message		"(I thought back on the girl who seemed like family
 but whom I couldn't recognize. I changed and
@@ -150,7 +150,7 @@ pero a la que no podía reconocer. Me cambié y
 me dirigí al salón)."
 Message	Tohka	Shido, you're late! When's breakfast?	¡Shido, llegas tarde! ¿Cuándo es el desayuno?
 Message	Shido	Sorry, sorry... Wait, huh?	Perdón, perdón... Espera, ¿eh?
-Message	Yoshinon	Yoo-hoo, Shido-kun. Did you sleep well?	Yoo-hoo, Shido-kun. ¿Dormiste bien?
+Message	Yoshinon	Yoo-hoo, Shido-kun. Did you sleep well?	¡Yoo-hoo, Shido-kun! ¿Dormiste bien?
 Message	Yoshino	G-Good morning. Shido-san...!	Buenos días. ¡Shido-san...!
 Message	Shido	G-Good morning... Why are you two here...?	Buenos días... ¿Por qué están ustedes dos aquí...?
 Message	Kotori	"What, did you forget already? I told you after
@@ -163,9 +163,9 @@ something like that..."	"O-Oh cierto, supongo que dijiste
 algo así..."
 Message	Kotori	"Probably time for a brain scan at the hospital,
 though I'm not sure if the machine can read
-cobwebs."	"Probablemente es hora de un escáner cerebral en el hospital,
-aunque no estoy seguro de si la máquina puede leer
-telarañas."
+cobwebs."	"Probablemente es hora de un escáner cerebral en el
+hospital, aunque no estoy seguro de si la máquina
+puede leer telarañas."
 Message	Shido	"Ngh... H-Hey, don't blame me. My head still feels
 fuzzy. I'm not at my best."	"Ngh... H-Hey, no me culpes. Mi cabeza todavía se siente
 borrosa. No estoy en mi mejor momento."
@@ -174,7 +174,7 @@ late last night with Origami Tobiichi."	"Quizá sea porque estuviste haciendo al
 tarde anoche con Tobiichi Origami."
 Message	Shido	I didn't do anything with her! You know that!	¡No hice nada con ella! ¡Tú lo sabes!
 Message	Kotori	"Yeah. I guess I haven't ever considered that you
-could do anything at all."	"Sí. Supongo que nunca he considerado que usted
+could do anything at all."	"Sí. Supongo que nunca he considerado que
 podrías hacer algo en absoluto."
 Message	Shido	Oof...	Uf...
 Message	Tohka	"Hm? Shido... Did something happen between you and
@@ -213,14 +213,15 @@ Message	Tohka	Shido, hurry!	¡Shido, date prisa!
 Message	Shido	Don't rush me. I'm almost done!	No me apures. ¡Ya casi termino!
 Message		"(With the hungry Tohka now satisfied, we were able
 to finish up breakfast. I headed toward the door,
-excited to go to school.)"	"(Con el hambriento Tohka ya satisfecho, pudimos
+excited to go to school.)"	"(Con la hambrienta Tohka ya satisfecha, pudimos
 terminar el desayuno. Me dirigí hacia la puerta,
 emocionado por ir a la escuela.)"
 Message	Shido	Okay, Yoshino, can you stay home?	Vale, Yoshino, ¿puedes quedarte en casa?
 Message	Yoshino	O-Okay...!	¡Vale...!
-Message	Yoshinon	Shido-kuuuun, be careful okay?! You just\nrecovered, so don't push yourself.	Shido-kuuuun, ten cuidado, ¿vale? Te acabas de recuperar, así que no te presiones.
+Message	Yoshinon	Shido-kuuuun, be careful okay?! You just\nrecovered, so don't push yourself.	"Shido-kuuuun, ¡ten cuidado, ¿de acuerdo?!
+Acabas de recuperarte, así que no te exijas demasiado."
 Message	Shido	O-Okay, I'll be careful.	De acuerdo, tendré cuidado.
-Message	Shido	Later!	¡Más tarde!
+Message	Shido	Later!	¡Hasta luego!
 Message	Yoshino	H-Have a nice day...!	¡Que tenga un buen día...!
 Message	Tohka	Shido, you're slow!	¡Shido, eres lento!
 Message	Shido	Sorry!	¡Lo siento!
@@ -238,9 +239,9 @@ Message	Kotori	What? Is the Neo Tengu Tower that weird?	¿Qué? ¿Tan rara es la
 Message	Shido	Huh...? O-Oh, nothing... It's just...	¿Eh...? O-Oh, nada... Es que...
 Message		"(Before me stood the usual houses and scenery I
 was used to. But beyond that, in the center of
-town, stood this abnormally shaped building.)"	"(Ante mí se alzaban las casas y paisajes habituales a los que estaba acostumbrado.
-estaba acostumbrado. Pero más allá, en el centro de la
-la ciudad, se alzaba este edificio de forma anormal)."
+town, stood this abnormally shaped building.)"	"(Ante mí se alzaban las casas y paisajes habituales a los
+que estaba acostumbrado. Pero más allá, en el centro de
+la la ciudad, se alzaba este edificio de forma anormal)."
 Message		"(It stood out so obviously from the buildings
 around it, almost as if it were from another
 world...)"	"(Se destacaba tan obviamente de los edificios
@@ -252,8 +253,8 @@ for you."	"Eh, Shido. ¿Lo dices en serio? No hay muchas
 veces que puedo bromear sobre llamar a una ambulancia
 por ti."
 Message	Kotori	"I can't believe you'd forget our town's new
-symbol. The Neo Tengu Tower."	"No puedo creer que olvidaras el nuevo símbolo...
-símbolo de nuestra ciudad. La Torre Neo Tengu."
+symbol. The Neo Tengu Tower."	"No puedo creer que olvidaras el símbolo de
+nuestra ciudad. La Torre Neo Tengu."
 Message	Shido	Neo Tengu Tower...? That thing?	¿Torre Neo Tengu...? ¿Esa cosa?
 Message	Kotori	"It was just finished, and still a hot topic.
 Supposedly, it's gonna open up in August."	"Se acaba de terminar y sigue siendo un tema candente.
@@ -261,9 +262,9 @@ Supuestamente, se abrirá en agosto."
 Message	Shido	R-Really...?	¿En serio...?
 Message		"(Did this thing really exist? I totally don't
 remember... Rather, there's no way I wouldn't
-notice a building like that.)"	"(¿Existió realmente esta cosa? No me acuerdo
-recuerdo... Más bien, es imposible que no me
-notar un edificio como ese)."
+notice a building like that.)"	"¿Realmente existe esa cosa? No recuerdo en
+absoluto… Más bien, no hay forma de que no
+haya notado un edificio así."
 Message	???	Shido!	¡Shido!
 Message		"(Someone called my name, and I turned around
 to see a girl standing there.)"	"(Alguien me llamó por mi nombre, y me di la vuelta
@@ -280,11 +281,11 @@ Message	Shido	Yeah.	Sí.
 Message	Tohka	Rinne, good morning!	Rinne, ¡buenos días!
 Message	Rinne	Hehe. Good morning, Tohka-chan.	Jeje. Buenos días, Tohka-chan.
 Message		"(Did I just imagine that...? For a split second...
-I felt like I forgot Rinne...)"	"(¿Me lo acabo de imaginar...? Por una fracción de segundo...
-sentí que me había olvidado de Rinne...)"
+I felt like I forgot Rinne...)"	"(¿Me lo acabo de imaginar...? Por una fracción de
+segundo… sentí que me había olvidado de Rinne...)"
 Message		"(Rinne Sonogami. She's almost as close to me as
 Kotori is.)"	"(Rinne Sonogami. Ella es casi tan cercana a mí como
-Kotori es.)"
+Kotori.)"
 Message		"(Rinne lives next door, and we've been classmates
 ever since we were little.)"	"(Rinne vive al lado, y hemos sido compañeros de clase
 desde que éramos pequeños)."
@@ -295,23 +296,23 @@ Nuestros padres se llevaban bien, así que era natural
 que ella estuviera siempre cerca)."
 Message		"(I don't know whether to feel pathetic or just
 thankful, but until I met Origami or Tohka,
-Rinne was my only female friend...)"	"(No sé si sentirme patética o simplemente
+Rinne was my only female friend...)"	"(No sé si sentirme patético o simplemente
 agradecido, pero hasta que conocí a Origami o Tohka,
 Rinne era mi única amiga femenina...)"
 Message		"(Because my parents were always out of town, Rinne would
 drop by every morning to make breakfast for Kotori
-and me. She even helps with cleaning and laundry.)"	"(Como mis padres siempre estaban fuera de la ciudad, Rinne
-pasaba cada mañana a prepararnos el desayuno a Kotori
-y a mí. Incluso nos ayuda con la limpieza y la colada)."
+and me. She even helps with cleaning and laundry.)"	"(Debido a que mis padres estaban siempre fuera, Rinne
+venía cada mañana para preparar el desayuno a Kotori
+y a mí, y también ayudaba con la limpieza y la ropa.)"
 Message		"(In other words, she's like family. And a very
 precious childhood friend.)"	"(En otras palabras, es como de la familia. Y una muy
-preciosa amiga de la infancia)."
+preciada amiga de la infancia)."
 Message		"(To forget her... Man, I must still
 be out of it...)"	"(Para olvidarla... Hombre, todavía debo
 estar fuera de mí...)"
 Message	Kotori	"Hey, Shido? You're spacing out again. If you're
-feeling sick, you should rest more."	"Eh, ¿Shido? Estás perdiendo el tiempo otra vez. Si te
-enfermo, deberías descansar más."
+feeling sick, you should rest more."	"Eh, ¿Shido? Te estás distrayendo de nuevo. Si te
+sientes enfermo, deberías descansar más."
 Message	Shido	"Yeah, maybe I'm not back at 100% yet.
 But I'm fine now."	"Sí, tal vez no estoy de vuelta al 100% todavía.
 Pero ahora estoy bien."
@@ -347,7 +348,7 @@ Nuestros padres se llevaban bien, así que era natural
 que ella estuviera siempre cerca)."
 Message		"(I don't know whether to feel pathetic or just
 thankful, but until I met Origami or Tohka,
-Rinne was my only female friend...)"	"(No sé si sentirme patética o simplemente
+Rinne was my only female friend...)"	"(No sé si sentirme patético o simplemente
 agradecido, pero hasta que conocí a Origami o Tohka,
 Rinne era mi única amiga femenina...)"
 Message		"(My parents always out of town, Rinne would
@@ -357,7 +358,7 @@ pasaba cada mañana a prepararnos el desayuno a Kotori
 y a mí. Incluso nos ayuda con la limpieza y la colada)."
 Message		"(In other words, she's like family. And a very
 precious childhood friend.)"	"(En otras palabras, es como de la familia. Y una muy
-preciosa amiga de la infancia)."
+preciada amiga de la infancia)."
 Message	Kotori	"Shido, if you're still feeling sick, maybe you
 should still be resting?"	"Shido, si todavía te sientes mal, tal vez...
 deberías seguir descansando."
@@ -383,7 +384,7 @@ Let's run!"	"¿Eh? ¡¿Qué?! ¡¿Por qué no lo dijiste, Rinne?!
 ¡Corramos!"
 Message	Rinne	Okay!	¡Vale!
 Message	Shido	Come on! Tohka, Kotori, let's go!	¡Venga! Tohka, Kotori, ¡vamos!
-Message	Tohka	Sh-Shido! Wait!	¡Sh-Shido! ¡Esperad!
+Message	Tohka	Sh-Shido! Wait!	¡Sh-Shido! ¡Espera!
 Message		"(And that's how my life at school
 started up again.)"	"(Y así fue como mi vida en la escuela
 empezó de nuevo)."

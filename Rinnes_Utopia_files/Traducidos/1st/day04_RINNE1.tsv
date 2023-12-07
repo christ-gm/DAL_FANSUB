@@ -1,0 +1,503 @@
+Operator	Comment	Key	Translation
+Message		(It really is no good...!)	(¡Realmente no es bueno...!)
+Message		(I'm no longer able to fully control it alone...)	(Ya no soy capaz de controlarlo totalmente solo...)
+Message		(But, why is this? Why won't it work...?)	(Pero, ¿por qué? ¿Por qué no funciona...?)
+Message		(Is it not enough to mimic the Spirits...?)	(¿No basta con imitar a los Espíritus...?)
+Message		(Was I wrong yet again?)	(¿Me he vuelto a equivocar?)
+Message		(The results I'm looking for...)	(Los resultados que busco...)
+Message		(Then, what I must do next is―)	(Entonces, lo que debo hacer a continuación es-)
+Message	???	Shido, wake up... It's morning already.	Shido, despierta... Ya es por la mañana.
+Message	Shido	...Mm... Rinne?	...Mm... ¿Rinne?
+Message	Rinne	Good morning, Shido.	Buenos días, Shido.
+Message	Shido	O-Oh, morning Rinne... What was that just...?	O-Oh, buenos días Rinne... ¿Qué fue eso...?
+Message	Rinne	"What was what? I'm not dancing the samba
+or anything... Are you still half-asleep?"	"¿Qué fue qué? No estoy bailando la samba ni nada…
+¿Todavía estás medio dormido?"
+Message	Shido	"Oh, no... I didn't mean like that...
+Lately, I keep having this weird dream..."	"Oh, no... No quise decir eso...  Últimamente,
+sigo teniendo este sueño extraño..."
+Message	Rinne	"I see... Well for now, hurry up, change, and wash
+your face. I'll make breakfast and wait for you
+downstairs."	"Ya veo... Bueno, por ahora, date prisa,
+cámbiate y lávate la cara. Haré el
+desayuno y te esperaré abajo."
+Message	Shido	R-Right...	B-Bueno…
+Message	Shido	...Huh? Just me? Where's everyone else?	...¿Eh? ¿Sólo yo? ¿Dónde están los demás?
+Message	Rinne	"It seems like today everyone has something to do,
+so they've already left."	"Parece que hoy todo el mundo tiene algo
+que hacer, así que ya se han ido."
+Message	Shido	Huh? I-I see...	¿Eh? Ya veo...
+Message		"(Everyone together... Could it be an examination
+on the Fraxinus or something?)"	"(Todos juntos... ¿Podría ser un
+examen en el Fraxinus o algo así?)"
+Message	Rinne	Here you go, I reheated the miso soup.	Aquí tienes, recalenté la sopa de miso.
+Message	Shido	Thanks... I'll go ahead and eat.	Gracias... Voy a seguir adelante y comer.
+Message	Rinne	Yes, help yourself.	Sí, sírvete.
+Message		"(Everyone's gone out on some business
+or another... I wonder what for?)"	"(Todos han salido por algún asunto u otro…
+me pregunto para qué)."
+Message		"(Could Tohka and the others have lost control and
+been taken to the Fraxinus? I hope nothing like
+that has happened...)"	"(¿Podrían Tohka y los demás haber perdido el
+control y haber sido llevados al Fraxinus?
+Espero que no haya ocurrido nada de eso...)"
+Message	Shido	We're leaving now, bye.	Nos vamos, adiós.
+Message	Rinne	Good-bye...!	¡Adiós...!
+Message	Shido	"...Er, I guess there's no point in saying that if
+no one's home."	"...Supongo que no tiene sentido
+decirlo si no hay nadie en casa."
+Message	Rinne	"Hmm... Well, no one was here to hear that anyway.
+With this sort of thing, staying in the habit of
+saying it is what's important."	"Hmm... Bueno, de todas formas nadie estaba
+aquí para oírlo.  Con este tipo de cosas,
+mantener el hábito de decirlo es lo importante."
+Message	Shido	Really?	¿De verdad?
+Message	Rinne	Really.	De verdad.
+Message	Rinne	Hey, Shido?	Eh, ¿Shido?
+Message	Shido	Hm, what's up?	¿Qué pasa?
+Message	Rinne	Are you free after school today?	¿Estás libre hoy después de clase?
+Message	Shido	Huh? Er, yeah.	¿Eh? Eh, sí.
+Message	Rinne	Then, can I make a reservation today, too?	Entonces, ¿puedo hacer una reserva hoy también?
+Message	Shido	Yeah, of course.	Sí, claro.
+Message	Rinne	Really? You won't get in trouble?	¿De verdad? ¿No te meterás en problemas?
+Message	Shido	"I've got no reason to refuse.
+Also, who'd I get in trouble with?"	"No tengo motivo para negarme. Además,
+¿con quién me metería en problemas?"
+Message	Rinne	Tohka-chan, or Kotori-chan?	¿Tohka-chan, o Kotori-chan?
+Message	Shido	Oh, er... I'll explain it somehow.	Oh, er... Lo explicaré de alguna manera.
+Message	Rinne	That's good then. Actually... I was kinda worried.	"Entonces está bien. En realidad…
+Estaba un poco preocupado."
+Message	Shido	About what?	¿Sobre qué?
+Message	Rinne	"You know, yesterday's date... I ruined it because
+I collapsed and all..."	"Sabes, la cita de ayer... La arruiné
+porque me desmayé y todo..."
+Message	Shido	"Y-You don't have to worry about anything like
+that! It can't be helped. Your health is
+undoubtedly more important."	"¡No tienes que preocuparte por nada de eso!
+No se puede evitar. Tu salud es sin
+duda más importante."
+Message	Rinne	"Hehe... I guess I worried you again, Shido.
+I hope today's date will be more fun than
+yesterday's."	"Jeje... Supongo que te he vuelto a preocupar, Shido.
+Espero que la cita de hoy sea más
+divertida que la de ayer."
+Message	Shido	"Y-Yeah. But don't push yourself too much,
+all right? You just admitted that you collapsed
+yesterday."	"Sí. Pero no te presiones demasiado, ¿de acuerdo?
+Acabas de admitir que ayer te desmayaste."
+Message	Rinne	Yeah, I know. You're such a worrywart, Shido.	Sí, lo sé. Eres tan preocupado, Shido.
+Message	Shido	It's fine. If you're in pain, then I'm in pain.	No pasa nada. Si a ti te duele, a mí también.
+Message	Rinne	Oh... Um...	Oh... Um...
+Message	Shido	"Oh, uh... Well I meant, in a childhood
+friend kind of way..."	"Oh, eh ... Bueno, me refería, en una
+especie de amigo de la infancia ..."
+Message	Rinne	"Y-Yeah. I know. Don't worry about me taking it the
+wrong way."	"Sí. Lo sé. No te preocupes
+porque me lo tome a mal."
+Message	Shido	......	......
+Message	Rinne	......	......
+Message		(Whew... It's finally over...)	(Uf... Por fin ha terminado...)
+Message		"(Maybe it's because of the test, but it feels like
+everyone's a little on edge.)"	"(Quizá sea por el examen, pero parece
+que todo el mundo está un poco nervioso)."
+Message		"(But I feel like that's not the case for some...
+Oh, speak of the devil. This seems like it'll be
+a pain, so I'm gonna find a place to hide.)"	"(Pero siento que ese no es el caso para algunos... Oh,
+hablando del diablo. Esto parece que va a ser un dolor,
+así que voy a encontrar un lugar para esconderse)."
+Message	Tonomachi	"Huh, Itsuka? Where'd you go?
+I feel like I saw you here just now..."	"¿Eh, Itsuka? ¿Dónde has ido?
+Me parece haberte visto aquí hace un momento..."
+Message	Tonomachi	"Tch, that jerk. Is he on a date with another
+cutie?! Some fiancé he is, that cheating bastard!"	"Tch, ese idiota. ¡¿Está en una cita con otra belleza?!
+¡Vaya novio que es, ese bastardo tramposo!"
+Message		"(―While I want to ask who the hell would be his
+fiancé, it'd be more of a pain if he found me
+here.)"	"(-Aunque quiero preguntar quién demonios
+sería su prometido, sería más penoso
+que me encontrara aquí)."
+Message	Tonomachi	"Ahh... Mighty gods! Why is it only he who walks
+in paradise each day? I beg of you, spare some
+love for your humble servant! *sniffle, sniffle*"	"Ahh... ¡Poderosos dioses! ¿Por qué es sólo él quien
+camina en el paraíso cada día? ¡Te lo ruego, dale un
+poco de amor a tu humilde servidor! *sollozar*"
+Message	Tonomachi	DAMN ITTTTTTTTT!	¡MALDITA SEA!
+Message	Shido	There he goes...	Ahí va...
+Message	Rinne	Shido, what are you doing?	Shido, ¿qué estás haciendo?
+Message	Shido	"Whoa! Oh, it's just you, Rinne...
+Don't scare me like that."	"¡Vaya! Oh, sólo eres tú, Rinne…
+No me asustes así."
+Message	Rinne	Were you hiding?	¿Te estabas escondiendo?
+Message	Shido	"Y-Yeah... Once I get caught by that idiot
+Tonomachi, it's all over for the rest of the day."	"S-Si... Una vez que me atrape ese idiota de
+Tonomachi, se acabó todo por el resto del día."
+Message	Rinne	"That's rude to say, Shido...
+But I guess you're right."	"Es grosero decirlo, Shido…
+Pero supongo que tienes razón."
+Message	Shido	"Right? So, what do you want to do today?
+Is there somewhere you want to go?"	"¿Verdad? ¿Qué quieres hacer hoy?
+¿Hay algún sitio al que quieras ir?"
+Message	Rinne	Where would you like to go, Shido?	¿Adónde quieres ir, Shido?
+Message	Shido	Huh? Let's see... I didn't have any major plans...	¿Eh? Veamos... No tenía grandes planes...
+Message	Rinne	I'll leave it to you, Shido.	Te lo dejo a ti, Shido.
+Message	Shido	Roger that. Then, let's go.	Entendido. Entonces, vamos.
+Message	Rinne	Okay!	¡Vale!
+Message		"(She left it to me, so I asked if we could change
+into regular clothes. Yeah... This way feels
+much more like a date.)"	"(Me lo dejó a mí, así que le pregunté si podíamos
+ponernos ropa normal. Sí... De esta manera se
+siente mucho más como una cita)."
+Message	Shido	"Now then, I'm getting a little hungry. Do you want
+to get something to eat, Rinne?"	"Bueno, me está entrando un poco de hambre.
+¿Quieres comer algo, Rinne?"
+Message	Rinne	Umm... What are you thinking of eating, Shido?	Umm... ¿Qué piensas comer, Shido?
+Message	Shido	"Hmm, lemme see... Maybe kinako bread?
+I'm craving the exact amount of sweetness in
+kinako powder. Tohka really likes it, too."	"Hmm, déjame ver... ¿Quizás pan de kinako? Se me
+antoja la cantidad exacta de dulzor del polvo de kinako.
+A Tohka también le gusta mucho."
+Message	Rinne	Tohka-chan, huh...?	Tohka-chan, ¿eh...?
+Message	Shido	Hmm? Did you say something?	¿Hmm? ¿Dijiste algo?
+Message	Rinne	Nothing. I'd like that, too.	Nada. A mí también me gustaría.
+Message	Shido	"There are lots of other stores. Are you sure
+you're okay with it?"	"Hay muchas otras tiendas.
+¿Seguro que te parece bien?"
+Message	Rinne	It's fine! Come on, let's go!	¡Está bien! ¡Venga, vamos!
+Message	Shido	A-All right.	Muy bien.
+Message	Bakery Worker	Welcome!	Bienvenido.
+Message	Shido	Ah, two kinako breads, please.	Ah, dos panes kinako, por favor.
+Message	Bakery Worker	I'm sorry. We're all sold out today...	Lo siento. Hoy se agotaron por hoy…
+Message	Shido	Oh, I see...	Oh, ya veo...
+Message	Bakery Worker	"How about our new addition to the menu, the
+whipped cream bread?"	"¿Qué te parece nuestra nueva incorporación
+al menú, el pan de nata montada?"
+Message	Bakery Worker	It's freshly baked. I highly recommend it.	Está recién horneado. Lo recomiendo encarecidamente.
+Message	Shido	"Oh, it does smell pretty good. What do you
+think, Rinne?"	"Huele bastante bien.
+¿Qué piensas, Rinne?"
+Message	Rinne	"If you want to eat it, then
+I think I want to as well."	"Si quieres comértelo,
+creo que yo también quiero."
+Message	Shido	All right, then two of those, please.	Muy bien, entonces dos de esos, por favor.
+Message	Bakery Worker	Yes, thank you very much.	Sí, muchas gracias.
+Message	Shido	Sorry the kinako bread was sold out.	Siento que el pan kinako estuviera agotado.
+Message	Rinne	"It's all right, but this looks
+good too, doesn't it?"	"Está bien, pero esto también
+tiene buena pinta, ¿no?"
+Message	Shido	Should we try it now?	¿Lo intentamos ahora?
+Message	Rinne	It's freshly baked, so it's probably tasty.	Está recién horneado, así que probablemente esté sabroso.
+Message	Shido	I'll try it. *munch*...!	Lo intentaré. *munch*...
+Message	Rinne	Me too. *munch*!	Yo también. *munch*
+Message	Shido	"It's delicious! There's just the right amount of
+sweetness in the whipped cream, and the dough's
+freshly baked, too! This is so good."	"Está delicioso. Tiene la cantidad justa de dulzor
+en la nata montada, ¡y además la masa está
+recién horneada! Esto es tan bueno."
+Message	Rinne	Mm, it really is delicious. I'm glad, Shido.	Mm, realmente está delicioso. Me alegro, Shido.
+Message	Shido	Yeah!	¡Sí!
+Message		"(Huh? I... feel like I've eaten bread with someone
+else before, too...)"	"(¿Eh? Yo... también tengo la sensación de
+haber comido pan con otra persona antes...)"
+Message	Shido	―?!	¡-?!
+Message	Rinne	What's wrong, Shido?	¿Qué pasa, Shido?
+Message	Shido	N-No, it's nothing. I'm glad it was a good one.	N-No, no es nada. Me alegro de que fuera buena.
+Message	Rinne	"Yeah. Let's come back another time
+to eat kinako bread."	Sí. Volvamos en otra ocasión para comer pan kinako.
+Message	Shido	Yeah...	Sí...
+Message	Shido	Now then, where to next?	Ahora bien, ¿a dónde vamos ahora?
+Message	Rinne	Hmmm, is there anything you want to do, Shido?	Hmmm, ¿hay algo que quieras hacer, Shido?
+Message	Shido	"Let's see... If you're okay with the very normal,
+I guess the arcade would work..."	"A ver... Si te parece bien lo muy normal,
+supongo que el arcade funcionaría..."
+Message	Rinne	Then, let's head out to the arcade!	Entonces, ¡vamos al arcade!
+Message	Shido	Y-Yeah. Let's go!	Sí. ¡Vamos!
+Message	Rinne	Yeah!	¡Sí!
+Message		"(After being out in the hot sun for so long,
+the crisp chill from the air-conditioning felt
+nice against our skin.)"	"(Después de estar tanto tiempo al sol, el frescor
+del aire acondicionado nos sentó de maravilla)."
+Message	Rinne	Whew, it's cool in here.	Hace frio aquí.
+Message	Shido	It is. Arcades are perfect for summer vacation.	"Lo es. Los salones recreativos son
+perfectos para las vacaciones de verano."
+Message	Rinne	"You're right. It'd be nice to cool down once in
+a while, too."	"Tienes razón. También estaría
+bien refrescarse de vez en cuando."
+Message	Shido	"Playing games can make you
+heat up quite a bit, though."	"Sin embargo, jugar puede hacer
+que te calientes bastante."
+Message	Rinne	Huh, really?	¿En serio?
+Message	Shido	"Huh? Have you never been to
+an arcade before, Rinne?"	"¿Eh? ¿Nunca has estado en
+un salón recreativo, Rinne?"
+Message	Rinne	Ah, yeah... It's actually my first time.	Ah, sí... En realidad es mi primera vez.
+Message	Shido	I see... I guess that's not super surprising.	Ya veo... Supongo que no es muy sorprendente.
+Message		"(Hm? Now that I think of it, I feel like I took
+someone else to the arcade for the first time
+recently...)"	"(¿Eh? Ahora que lo pienso, me parece
+que hace poco llevé a otra persona a
+los recreativos por primera vez...)"
+Message	Rinne	Shido, what's wrong?	Shido, ¿qué pasa?
+Message	Shido	"N-No, it's nothing. More importantly, is there
+a game you'd like to play, Rinne?"	"N-No, no es nada. Más importante,
+¿hay algún juego que te gustaría jugar, Rinne?"
+Message	Rinne	"Hmm... It's my first time, so I don't know much
+about the games that are here. Which one do
+you usually play, Shido?"	"Hmm... Es mi primera vez, así que no sé mucho
+sobre los juegos que hay aquí.
+¿A cuál sueles jugar, Shido?"
+Message	Shido	"Hmm, me? I usually go for the crane games.
+If I'm alone, I play fighting games too."	"¿Yo? Suelo decantarme por los juegos de grúa.
+Si estoy solo, también juego a juegos de lucha."
+Message	Rinne	"Huh, so you try to get the plushie
+from inside that box?"	"Huh, ¿así que intentas coger el
+peluche de dentro de esa caja?"
+Message	Shido	Right. Do you want to try?	De acuerdo. ¿Quieres intentarlo?
+Message	Rinne	Huh? I'm okay. I'll watch you try, Shido.	¿Eh? Estoy bien. Veré cómo lo intentas, Shido.
+Message	Shido	"Er, but, it's your first time at an arcade and
+all. You should try playing something. It's okay
+to mess up."	"Er, pero, es tu primera vez en un arcade y todo eso.
+Deberías intentar jugar a algo. Está bien meter la pata."
+Message	Rinne	"Don't worry, I'm fine. Do you see something there
+that you like, Shido?"	"No te preocupes, estoy bien.
+¿Ves algo ahí que te guste, Shido?"
+Message	Shido	Uh... W-Well... hm, maybe that?	Uh... B-Bueno... hm, ¿quizás eso?
+Message	Rinne	"That one, huh? It is pretty cute. I'll be cheering
+you on!"	"Ese, ¿eh? Es muy bonito.
+¡Te estaré animando!"
+Message	Shido	R-Right...	B-Bueno…
+Message		"(Actually, there's nothing that really catches my
+eye, but I tried to pick something that the girls
+at home might like.)"	"(En realidad, no hay nada que me llame la atención,
+pero he intentado elegir algo que pudiera
+gustar a las niñas de casa)."
+Message	Rinne	I hope you can get it!	Espero que lo consigas.
+Message	Shido	Yeah. I'll give it a try!	Sí. ¡Lo intentaré!
+Message	Rinne	Th-That was close! Try again, try again!	¡Estuvo cerca! ¡Inténtalo de nuevo, inténtalo de nuevo!
+Message	Shido	Then, one more time...	Entonces, una vez más...
+Message	Rinne	Do your best, Shido!	¡Hazlo lo mejor que puedas, Shido!
+Message	Shido	Y-Yeah!	¡Sí!
+Message		"(All right, I'll put my all into this. If I can
+win, I'll give it as a present to Rinne...)"	"(Muy bien, pondré todo mi empeño en esto.
+Si puedo ganar, se lo daré como regalo a Rinne...)"
+Message	Shido	Agh!	¡Agh!
+Message	Rinne	Th-That's too bad...	E-Eso es muy malo...
+Message	Shido	"That's probably enough for today...
+Let's head out."	"Probablemente sea suficiente por hoy…
+Vámonos."
+Message	Rinne	...Sh-Shido, is it really okay?	...Sh-Shido, ¿de verdad está bien?
+Message	Shido	It's fine, don't worry.	Está bien, no te preocupes.
+Message	Shido	...Sorry, Rinne.	...Lo siento, Rinne.
+Message	Rinne	Huh? Why are you apologizing, Shido?	¿Eh? ¿Por qué te disculpas, Shido?
+Message	Shido	"Well, that plushie just now, I was thinking about
+giving it to you. But it didn't go as I'd hoped..."	"Bueno, ese peluche de hace un momento,
+pensaba dártelo. Pero no salió como esperaba..."
+Message	Rinne	Oh, that? I'm fine, don't worry.	Oh, ¿eso? Estoy bien, no te preocupes.
+Message	Shido	Yeah. Thanks, Rinne.	Sí. Gracias, Rinne.
+Message	Rinne	Yeah. Then, where should we go next?	Sí. Entonces, ¿a dónde deberíamos ir después?
+Message	Shido	"Let's see. We had a snack, we cooled down at
+the arcade, so now..."	"Veamos. Tomamos un aperitivo, nos
+refrescamos en los recreativos, así que ahora..."
+Message	Rinne	Now...?	¿Ahora...?
+Message	Shido	"Hmmm... Is there any place you'd like to go,
+Rinne?"	Hmmm... ¿Hay algún lugar al que te gustaría ir, Rinne?
+Message	Rinne	"Well, could you take me to a favorite spot of
+yours, Shido?"	"Bueno, ¿podrías llevarme a uno de
+tus lugares favoritos, Shido?"
+Message	Shido	Ah... Well, I guess I do have a place like that.	Ah... Bueno, supongo que tengo un sitio así.
+Message	Rinne	All right, then. Let's go there.	Muy bien. Vamos allá.
+Message	Shido	Right... Let's go.	Bien... Vámonos.
+Message	Rinne	Yeah!	¡Sí!
+Message	Shido	...We're here, Rinne.	... Estamos aquí, Rinne.
+Message	Rinne	I see, so this is Takadai Park.	Ya veo, así que este es el Parque Takadai.
+Message	Shido	See, the view's really nice from over there.	Ves, la vista es muy bonita desde allí.
+Message	Rinne	Hehe... Could I take a look?	Jeje... ¿Puedo echar un vistazo?
+Message	Shido	"Haha, you don't have to ask me.
+But don't lean out too far. It's dangerous."	"Jaja, no hace falta que me preguntes.
+Pero no te asomes demasiado. Es peligroso."
+Message	Rinne	Yeah, I'll be careful.	Sí, tendré cuidado.
+Message	Rinne	"It really is a nice view. I feel like I'm
+close to the city..."	"Realmente es una bonita vista.
+Siento que estoy cerca de la ciudad..."
+Message	Shido	"You can see all of Tengu City from this point.
+I really like being up here."	"Desde aquí se puede ver toda Ciudad Tengu.
+Me gusta mucho estar aquí arriba."
+Message	Rinne	"Yeah, and the air is cooler than down in the city,
+so it feels really nice."	"Sí, y el aire es más fresco que en la ciudad,
+así que se está muy bien."
+Message	Shido	Hey, Rinne?	¿Oye, Rinne?
+Message	Rinne	Hm? What is it?	¿Qué? ¿Qué es esto?
+Message	Shido	Today's... the first time you said it.	Hoy es... la primera vez que lo dices.
+Message	Rinne	What are you talking about...?	¿De qué estás hablando...?
+Message	Shido	You know, telling me what you wanted to do...	Ya sabes, decirme lo que querías hacer...
+Message	Rinne	"Oh... W-Was it bad that I did?
+Maybe I was being selfish..."	"Oh... ¿Fue malo lo que hice?
+Tal vez estaba siendo egoísta..."
+Message	Shido	No, it's not that. It's the opposite.	No, no es eso. Es lo contrario.
+Message	Rinne	...Huh?	...¿Eh?
+Message	Shido	"I... I want to have more fun with you, Rinne.
+Where we create the day together...
+I think a date like that would be nice."	"Yo... Quiero divertirme más contigo, Rinne.
+Donde creamos el día juntos…
+Creo que una cita así estaría bien."
+Message	Rinne	......	......
+Message	Shido	"If we just keep doing what I want, I don't think
+that it's okay..."	"Si seguimos haciendo lo que quiero,
+no creo que esté bien..."
+Message	Rinne	...Why isn't it okay?	...¿Por qué no está bien?
+Message	Shido	Huh?	¿Eh?
+Message	Rinne	Why isn't it okay to do what you like, Shido...?	¿Por qué no está bien hacer lo que te gusta, Shido...?
+Message	Shido	No, I mean I want to do what you―	No, quiero decir que quiero hacer lo que tú...
+Message	Rinne	"What's fun for you is fun for me, you know?
+I'm happy enough to go along with what
+you want to do."	"Lo que es divertido para ti es divertido para mí,
+¿sabes? Soy lo suficientemente feliz como para
+seguirte la corriente en lo que quieras hacer."
+Message	Shido	Really?	¿De verdad?
+Message	Rinne	"Of course. Of course it's true!
+Why would you even question it? You understand,
+right? We're childhood friends, after all."	"Claro. ¡Claro que es verdad! ¿Por qué lo cuestionas?
+Lo entiendes, ¿verdad? Somos amigos de la infancia,
+después de todo."
+Message	Shido	No! O-Of course I know... S-Sorry...	¡No! Por supuesto que lo sé... Lo siento...
+Message	Rinne	......	......
+Message	Shido	Sh-Should we... go home for today...?	¿Deberíamos... irnos a casa por hoy...?
+Message	Rinne	...Yeah.	Sí.
+Message		(Ahh, why does it always end up like this...?)	(Ahh, ¿por qué siempre acaba así...?)
+Message		"(But... I really feel like I can't have fun if
+it's not the kind of date where Rinne
+and I are both having fun...)"	"(Pero... Realmente siento que no puedo divertirme
+si no es el tipo de cita en la que Rinne
+y yo nos divertimos...)."
+Message		"(Besides... It feels like Rinne's actually pushing
+herself to go along with everything. It just
+feels that way...)"	"(Además... Parece que Rinne se está
+presionando a sí misma para seguir
+con todo. Sólo se siente de esa manera...)"
+Message		"(I wonder why Rinne got so upset...? She did
+collapse yesterday, so maybe she's still not
+well, and I pushed her...)"	"(Me pregunto por qué Rinne se ha enfadado tanto…
+Ayer sufrió un colapso, así que quizá aún no se
+encuentra bien y yo la presioné...)"
+Message		(*Sigh...* Today's date was a failure...)	(*Suspira...* La cita de hoy ha sido un fracaso...)
+Message		(It was like eating sand.)	(Era como comer arena.)
+Message		"(Even though Rinne's food is so delicious, today
+I felt so on edge, I couldn't really taste it...)"	"(Aunque la comida de Rinne es tan deliciosa,
+hoy me sentía tan al límite que no podía saborearla...)"
+Message	Shido	Y-Yes?	¿Sí?
+Message	Rinne	Shido...	Shido...
+Message	Shido	R-Rinne?!	¡¿R-Rinne?!
+Message	Rinne	Hey, do you have a little time right now?	Oye, ¿tienes un poco de tiempo ahora?
+Message	Shido	What's wrong?	¿Qué ocurre?
+Message	Rinne	W-Well... I'm sorry. About today, and yesterday...	Bueno... Lo siento. Sobre hoy, y ayer...
+Message	Shido	Huh...?	¿Eh...?
+Message	Rinne	I don't know anything about dates with guys, so...	No sé nada de citas con chicos, así que...
+Message	Shido	"N-No... I don't think it's something you have to
+apologize for, you know?"	"N-No... No creo que sea algo por lo que
+tengas que disculparte, ¿sabes?"
+Message	Rinne	R-Really?	¿En serio?
+Message	Shido	"Yeah... Dates are something you have with two
+people, so... if it didn't go well, it's partly my
+fault, too."	"Sí... Las citas son algo que tienes con
+dos personas, así que... si no salió bien,
+en parte también es culpa mía."
+Message	Rinne	"Hey, Shido? Would you, um... like to go on a date
+tomorrow, too? I want to redeem myself."	"Eh, ¿Shido? ¿Te gustaría... tener una cita
+mañana también? Quiero redimirme."
+Message	Shido	Yeah, of course I'll go with you.	Sí, por supuesto que iré contigo.
+Message	Rinne	Good... Thank you.	Bien... Gracias.
+Message	Rinne	Then, I'll see you tomorrow. Good night, Shido.	Entonces, te veré mañana. Buenas noches, Shido.
+Message	Shido	Y-Yeah. Good night.	Sí. Buenas noches.
+Message		(Whew... That surprised me...)	(Uf... Eso me ha sorprendido...)
+Message		"(But I'm glad that Rinne still felt like going on
+a date with me again.)"	"(Pero me alegro de que Rinne aún tuviera
+ganas de volver a salir conmigo)."
+Message	Shido	―Whoa!	-¡Whoa!
+Message	Kotori	I'm coming in.	Voy a entrar.
+Message	Shido	O-Oh, you were here too.	O-Oh, tú también estabas aquí.
+Message	Kotori	"What do you mean by ""too""?"	"¿Qué quiere decir con ""también""?"
+Message	Shido	"N-Nothing, just talking to myself.
+Anyway, what's wrong?"	"Nada, sólo hablaba solo.
+De todos modos, ¿qué pasa?"
+Message	Kotori	I thought I'd just pass word along to you, Shido.	Pensé en pasarte la noticia, Shido.
+Message	Shido	...?	...?
+Message	Kotori	"There was something strange that turned up during
+today's analysis."	Durante el análisis de hoy ha aparecido algo extraño.
+Message	Shido	Something strange?	¿Algo extraño?
+Message	Kotori	"The spiritual wave we're following became
+instantly unstable during a specific time frame.
+The distortion patterns were almost the same."	"La onda espiritual que estamos siguiendo se volvió
+instantáneamente inestable durante un periodo de tiempo
+específico. Los patrones de distorsión eran casi los mismos."
+Message	Shido	...And what specific time frame was that?	...¿Y en qué marco temporal concreto fue eso?
+Message	Kotori	About 4 in the afternoon.	Sobre las 4 de la tarde.
+Message	Shido	I see...	Ya veo...
+Message	Kotori	"Right now, I'm having Reine conduct an analysis in
+detail, with that spiritual wave pattern's data
+as the focus... But it's strange."	"Ahora mismo, estoy haciendo que Reine realice un
+análisis detallado, con los datos de ese patrón de
+onda espiritual como foco... Pero es extraño."
+Message	Shido	Strange...?	¿Extraño...?
+Message	Kotori	"It's similar to a Spirit's mental graph
+during a date."	"Es similar al gráfico mental de
+un Spirit durante una cita."
+Message	Shido	Huh?!	¡¿Eh?!
+Message	Kotori	And that of a failed date, too.	Y la de una cita fallida, también.
+Message	Shido	......	......
+Message	Kotori	"Isn't it weird? While I was analyzing it, I felt
+almost like I was monitoring a Spirit's date."	"¿No es extraño? Mientras lo analizaba, me sentía
+casi como si estuviera vigilando una cita de Spirit."
+Message	Shido	Maybe it's just a coincidence?	¿Quizás es sólo una coincidencia?
+Message	Kotori	"Don't put me in the same boat as someone else
+I know. I'm not that stupid."	"No me pongas en el mismo barco que
+alguien que conozco. No soy tan estúpido."
+Message	Shido	Wh-Who do you mean, someone else...	¿A quién te refieres, a alguien más...
+Message	Kotori	You should ask your own heart that question.	Deberías hacértelo a tu propio corazón.
+Message		(Oof...! She's totally talking about me!)	(¡Uf...! ¡Está hablando de mí!)
+Message	Kotori	"Listen. The Fraxinus saves data every time
+you fail a date with a Spirit."	"Escucha. El Fraxinus guarda datos cada
+vez que fallas una cita con un Espíritu."
+Message	Kotori	"When I analyzed both the data from your failed
+dates, and the spiritual wave patterns from
+yesterday and today... Bingo."	"Cuando analicé tanto los datos de tus citas
+fallidas, como los patrones de ondas
+espirituales de ayer y hoy... Bingo."
+Message	Shido	Y-Yesterday and today... failed dates...?	¿Ayer y hoy... citas fallidas...?
+Message	Kotori	What? Do you have some kind of clue?	¿Qué? ¿Tienes alguna pista?
+Message	Shido	N-No, it's nothing. Nothing...	N-No, no es nada. Nada...
+Message	Kotori	"Well, whatever... We'll continue to analyze this.
+So―"	"Bueno, como sea... Seguiremos analizando esto.
+Así que-"
+Message	Shido	―I just need to keep doing my job, right?	-Sólo tengo que seguir haciendo mi trabajo, ¿verdad?
+Message	Kotori	"Right, the world keeps spinning as long as you
+understand. All right, I'm going to sleep now.
+Good night."	"Bien, el mundo sigue girando mientras tú lo entiendas.
+Muy bien, ahora me voy a dormir.
+Buenas noches."
+Message	Shido	Yeah, good night...	Sí, buenas noches...
+Message		(Yesterday and today... I was dating Rinne.)	(Ayer y hoy... salía con Rinne).
+Message		"(And to be honest, it's hard to say that those
+dates were successes. In fact, we always have
+some sort of trouble, and―)"	"(Y para ser sincero, es difícil decir que esas citas
+fueran un éxito. De hecho, siempre tenemos
+algún tipo de problema, y-)"
+Message		(They were both failures.)	(Ambos fueron un fracaso).
+Message		"(Kotori said it was the same as the data from when
+I fail at a date. Doesn't that mean that I'm
+involved somehow? Meaning―)"	"(Kotori dijo que era lo mismo que los datos de cuando
+fallo en una cita. ¿No significa eso que estoy
+involucrado de alguna manera? Significa-)"
+Message	Shido	"Hahaha! No... There's no way...
+That's not possible."	"¡Jajaja! No... No es posible…
+No es posible."
+Message		"(I can't stop laughing at such an outlandish idea.
+It's completely ridiculous, isn't it?)"	"(No puedo parar de reírme ante una idea tan
+descabellada. Es completamente ridícula, ¿verdad?)."
+Message		(That my childhood friend is a Spirit...)	(Que mi amigo de la infancia es un Espíritu...)
+Message		"(We've been friends for so long. No one would know
+more than me that something like that is impossible.)"	"(Somos amigos desde hace tanto tiempo.
+Nadie sabría mejor que yo que algo así es imposible)."
+Message		"(Jeez, I'm kinda pathetic for considering
+it. My thoughts will just go around in circles if
+I keep thinking about this... I should sleep.)"	"(Cielos, soy un poco patético por considerarlo.
+Mis pensamientos sólo darán vueltas en círculos
+si sigo pensando en esto... Debería dormir)."

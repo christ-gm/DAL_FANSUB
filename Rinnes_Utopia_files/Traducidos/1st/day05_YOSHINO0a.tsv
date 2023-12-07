@@ -1,0 +1,184 @@
+Operator	Comment	Key	Translation
+Message	Kotori	Is breakfast ready?	¿Está listo el desayuno?
+Message	Shido	Sorry to keep you waiting. Here.	Siento haberte hecho esperar. Toma.
+Message	Yoshino	Sh-Shido...san. Good morning...	Sh-Shido...san. Buenos días...
+Message	Yoshinon	Yoo-hoo!	¡Yuju!
+Message	Shido	"Hey, Yoshino and Yoshinon. Morning.
+I just finished making breakfast, so please eat
+while it's still fresh."	"Hola, Yoshino y Yoshinon. Buenos días. Acabo
+de terminar de hacer el desayuno, así que
+por favor coman mientras esté fresco."
+Message	Yoshino	Y-Yes...! I-I'll... go ahead, and eat...!	¡S-Sí...! ¡Y-Yo... seguiré adelante, y comeré...!
+Message	Kotori	Huh...? Where's Tohka?	¿Eh...? ¿Dónde está Tohka?
+Message	Shido	"Oh... Tohka? She's already gone to school.
+She said she didn't need breakfast..."	"Oh... ¿Tohka? Ya se ha ido a la escuela.
+Dijo que no necesitaba desayunar..."
+Message	Kotori	"You mean, our Tohka?
+She went out without eating breakfast...?!"	"¿Te refieres a nuestra Tohka?
+¡¿Salió sin desayunar...?!"
+Message	Shido	"I guess I'm as surprised as you are.
+It's pretty rare for her to not have
+an appetite..."	"Supongo que estoy tan sorprendido como tú.
+Es bastante raro que no tenga apetito..."
+Message	Kotori	Hmmmm...	Hmmmm...
+Message	Shido	What?	¿Cómo?
+Message	Kotori	It's nothing. Well... You'll understand soon.	No es nada. Bueno... Pronto lo entenderás.
+Message	Shido	Is that so?	¿Es así?
+Message	Shido	"Today is the first time in a while that I'm heading
+to school alone."	"Hoy es la primera vez en mucho
+tiempo que voy solo a la escuela."
+Message	Shido	"I wonder why... Even though it's the same scenery
+as usual, it feels pretty lonely..."	"Me pregunto por qué... Aunque es el mismo
+paisaje de siempre, se siente bastante solo..."
+Message	Shido	"Hmmm, it's like something's missing... What is it?
+I don't really know, but it feels like there's a
+hole inside my heart..."	"Hmmm, es como si faltara algo... ¿Qué es?
+Realmente no lo sé, pero siento como si
+hubiera un agujero dentro de mi corazón..."
+Message	Shido	"Could it be because Tohka's not here...?
+No, it can't be that..."	"¿Podría ser porque Tohka no está aquí...?
+No, no puede ser eso..."
+Message	Shido	...Zzzz...	...Zzzz...
+Message	Kotori	...Shido.	...Shido.
+Message	Shido	...Mm...mrgh...	...Mm...mrgh...
+Message	Kotori	Shido, wake up.	Shido, despierta.
+Message	Shido	"...Urh... Huh...? Kotori?
+What's wrong? It's so early..."	"...Urh... ¿Eh...? ¿Kotori?
+¿Qué es lo que pasa? Es tan temprano..."
+Message	Kotori	"I have a report. I'll just take some of your time
+before breakfast."	"Tengo un informe. Voy a tomar un
+poco de su tiempo antes del desayuno."
+Message	Shido	R-Right... Gotcha. Wait just a sec.	Correcto... Entendido. Espera un segundo.
+Message	Shido	"So, what's the report? Is it about the monument,
+or about what attacked us?"	"Entonces, ¿cuál es el informe?
+¿Es sobre el monumento, o sobre lo que nos atacó?"
+Message	Kotori	Both.	Ambos.
+Message	Shido	Both?	¿Las dos cosas?
+Message	Kotori	"When you approached that monument, an
+angel-like being appeared as if to interfere.
+There's no mistaking that, right?"	"Cuando te acercaste a ese monumento, un ser
+parecido a un ángel apareció como para interferir.
+No hay error, ¿verdad?"
+Message	Shido	Yeah.	Sí.
+Message	Kotori	Then, it makes sense to think of them as a set.	Entonces, tiene sentido pensar en ellos como un conjunto.
+Message	Shido	"I guess that's true... So, who was that person?
+Was it a Spirit?"	"Supongo que es verdad... Entonces,
+¿quién era esa persona? ¿Era un Espíritu?"
+Message	Kotori	"There's not enough information to know for sure.
+From observing the numbers we have on it, it's
+true that it resembles a Spirit."	"No hay suficiente información para saberlo con seguridad.
+Observando los números que tenemos sobre él,
+es cierto que se parece a un Espíritu."
+Message	Shido	Wh-What do you mean?	¿Qué quieres decir?
+Message	Kotori	"From a data perspective, it's an entity extremely
+similar to a Spirit. Given its movement, it must
+be different from the others, who have free will."	"Desde el punto de vista de los datos, es una entidad
+extremadamente similar a un Espíritu. Dado su movimiento,
+debe ser diferente de los demás, que tienen libre albedrío."
+Message	Shido	...Erm?	...¿Erm?
+Message	Kotori	"...Even if your brain is smaller than a
+Megaphragma mymaripenne's, it'd be good for you
+to attempt at least a little imagination."	"...Aunque tu cerebro sea más pequeño que el de un
+Megaphragma mymaripenne, sería bueno que
+intentaras imaginártelo un poco."
+Message	Shido	Oof... What the heck kind of creature is that...?	Uf... ¿Qué clase de criatura es esa...?
+Message	Kotori	"Anyway, it's definitely an existence generated
+by a Spirit. Considering the situation you
+described..."	"De todos modos, es definitivamente una existencia
+generada por un Espíritu. Considerando
+la situación que describiste..."
+Message	Kotori	"If you were to put it into game terms, it would be
+a ""Golem"" or a ""Guardian""... That sort of thing."	"Si lo pusiéramos en términos de juego, sería un
+""Golem"" o un ""Guardián""... Ese tipo de cosas."
+Message	Shido	That sounds kinda surreal.	Eso suena un poco surrealista.
+Message	Kotori	"Shido, you might want to think about your own
+situation before saying something like that."	"Shido, quizá quieras pensar en tu propia
+situación antes de decir algo así."
+Message	Shido	Sorry...	Lo siento...
+Message	Kotori	"If we are to believe your story, then most
+likely... That ""Guardian"" is a type of defense."	"Si hemos de creer su historia, entonces lo más
+probable... Ese ""Guardián"" es un tipo de defensa."
+Message	Shido	D-Defense?	¿Defensa?
+Message	Kotori	"In other words, there exists a necessity to
+protect the monument to some extent."	"En otras palabras, existe la necesidad de
+proteger el monumento hasta cierto punto."
+Message	Shido	I see now... But we don't know the details, right?	"Ahora entiendo... Pero no conocemos los detalles,
+¿verdad?"
+Message	Kotori	"Right, we don't know exactly. But at the very
+least, it's definitely related to the barrier
+in some way."	"Cierto, no lo sabemos exactamente. Pero al menos,
+está definitivamente relacionado con la barrera
+de alguna manera."
+Message	Kotori	"We narrowed our observations to the time of day
+from your report, and analyzed the spiritual
+wave patterns around the monument."	"Redujimos nuestras observaciones a la hora del día de
+su informe y analizamos los patrones de ondas
+espirituales alrededor del monumento."
+Message	Shido	So, did you find anything?	¿Has encontrado algo?
+Message	Kotori	"The weak spiritual wave pattern coming from the
+monument... is the same as the barrier surrounding
+Tengu City."	"El débil patrón de onda espiritual que proviene del
+monumento... es el mismo que la barrera que
+rodea Ciudad Tengu."
+Message	Shido	...?!	¡...?!
+Message	Kotori	"The scale was so different, I almost overlooked
+it. When the idea suddenly came to me and I tried
+it, it was a perfect fit."	"La escala era tan diferente que casi la pasé por alto.
+Cuando de repente se me ocurrió la idea y la probé,
+encajaba a la perfección."
+Message	Shido	Then... That means...	Entonces... Eso significa...
+Message	Kotori	"The barrier and the monument are closely
+related. In conclusion, this ""Guardian"" must
+be coming from the same place as well."	"La barrera y el monumento están estrechamente
+relacionados. En conclusión, este ""Guardián""
+también debe proceder del mismo lugar."
+Message	Kotori	"And what this points to is that the monument is
+definitely the foothold supporting the barrier."	"Y lo que esto indica es que el monumento es
+definitivamente el punto de apoyo que sostiene la barrera."
+Message	Shido	"The foothold you were talking about before is the
+monument?! Then, if we destroy it..."	"¡¿El punto de apoyo del que hablabas antes es
+el monumento?! Entonces, si lo destruimos..."
+Message	Kotori	"If it were that easy we'd already have done it.
+Unfortunately, it's not that simple of a story."	"Si fuera tan fácil ya lo habríamos hecho.
+Por desgracia, no es tan sencillo."
+Message	Shido	Could it be... It's not the only one?	¿Podría ser... ¿No es el único?
+Message	Kotori	"...Nice observation. Exactly. There has to be
+something else in Tengu City that gives off
+the same protection signature."	"...Buena observación. Exactamente. Tiene que haber
+algo más en Ciudad Tengu que emita la misma
+firma de protección."
+Message	Shido	"So now we have to find the other one...
+That means this is just the beginning."	"Así que ahora tenemos que encontrar al otro…
+Eso significa que esto es sólo el principio."
+Message	Kotori	"Right, we've got a long road ahead of us.
+But Shido, that's our job to investigate.
+You should prioritize your dates."	"Cierto, tenemos un largo camino por delante.
+Pero Shido, es nuestro trabajo investigar.
+Deberías priorizar tus citas."
+Message	Shido	B-But, at this rate―	Pero, a este ritmo...
+Message	Kotori	"Of course, if you find anything, report it to me.
+But you can't do anything else... Got it?"	"Por supuesto, si encuentras algo, infórmame.
+Pero no puedes hacer nada más... ¿Entendido?"
+Message	Shido	R-Right...	B-Bueno…
+Message	Kotori	"If our analysis helps us determine where the
+enemy's stronghold is, that'd be great, but..."	"Si nuestro análisis nos ayuda a determinar dónde
+está la fortaleza del enemigo, sería estupendo, pero..."
+Message	Shido	"Enemy...? Do you mean the ""Guardian""?"	"¿Enemigo...? ¿Te refieres al ""Guardián""?"
+Message	Kotori	"I'm talking about whoever made the barrier.
+The one who's got us locked in. But enough talk!
+Just focus on what you need to do!"	"Hablo de quien hizo la barrera. El que nos tiene
+encerrados. ¡Pero basta de charla! ¡Concéntrate
+en lo que tienes que hacer!"
+Message	Shido	"Oh, uh... Sorry. I'll cooperate as much as I
+can. I'm sure it's tough for all of us."	"Oh, uh... Lo siento. Cooperaré tanto como pueda.
+Estoy seguro de que es difícil para todos nosotros."
+Message	Kotori	"In case it needs to be said, I'll say it: You're
+not invincible, so don't overdo it."	"Por si hace falta decirlo, lo diré:
+No eres invencible, así que no exageres."
+Message	Shido	Yeah, I promise.	Sí, lo prometo.
+Message	Kotori	"Seriously... At this rate, I'm going to be even
+more exhausted from worry than Reine..."	"En serio... A este paso, voy a estar aún más
+agotada de preocupación que Reine..."
+Message	Shido	Huh?	¿Eh?
+Message	Kotori	I-It's nothing!	¡No es nada!
+Message	Shido	O-Oh...	O-Oh...

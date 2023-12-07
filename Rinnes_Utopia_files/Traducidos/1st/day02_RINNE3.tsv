@@ -2,91 +2,127 @@ Operator	Comment	Key	Translation
 Message		(Dinner should be just about ready, right?)	(La cena debería estar casi lista, ¿verdad?)
 Message	Rinne	......	......
 Message		"(Rinne...? Why is she sighing? Is something wrong?
-It's kinda hard to call out to her...)"	(¿Rinne...? ¿Por qué suspira? ¿Le pasa algo? Es un poco difícil llamarla...)
+It's kinda hard to call out to her...)"	"(¿Rinne...? ¿Por qué suspira? ¿Le pasa algo?
+Es un poco difícil llamarla...)"
 Message	Rinne	Why...? Why won't it work...?	¿Por qué...? ¿Por qué no funciona...?
 Message	Rinne	If this continues, it'll all be for nothing...	Si esto sigue así, todo será en vano...
 Message	Rinne	...I can't give up. No, I can't.	...no puedo rendirme. No, no puedo.
 Message	Shido	Rinne...?	¿Rinne...?
 Message	Rinne	"Huh? S-Shido?!
-D-Did you possibly, hear that? Just now..."	¿Eh? ¡¿S-Shido?! ¿P-Posiblemente escuchaste eso? Justo ahora...
+D-Did you possibly, hear that? Just now..."	"¿Eh? ¡¿S-Shido?!
+¿P-Posiblemente escuchaste eso? Justo ahora..."
 Message	Shido	Oh, sorry... I didn't mean to stand and listen―	Oh, lo siento... No quise quedarme a escuchar...
 Message	Rinne	Um. Well, you see...	Um. Bueno, verás...
 Message	Shido	No, you don't have to be so shocked!	No, ¡no tienes por qué escandalizarte tanto!
 Message	Rinne	Huh?	¿Eh?
 Message	Shido	"I'm not sure what you messed up with, but everyone makes
-mistakes! I'm always making mistakes, aren't I?"	No sé en qué te equivocaste, pero todos cometemos errores. Yo siempre cometo errores, ¿no?
+mistakes! I'm always making mistakes, aren't I?"	"No sé en qué te equivocaste, pero todos cometemos
+Errores. Yo siempre cometo errores, ¿no?"
 Message	Rinne	Wh-What are you talking about?	¿De qué estás hablando?
 Message	Shido	"Oh, uh... It seemed like... you had messed up with
-something?"	Oh, eh... Parecía que... ¿habías metido la pata con algo?
+something?"	"Oh, eh... Parecía que…
+¿habías metido la pata con algo?"
 Message	Rinne	Oh... Yeah, I guess so. That's right. Yeah.	Oh... Sí, supongo. Así es. Sí.
 Message	Shido	...?	...?
 Message	Rinne	"M-More importantly, dinner is ready.
-Please call everyone, and we can all eat together, okay?"	M-Más importante, la cena está lista. Por favor, llama a todos, y podemos comer todos juntos, ¿de acuerdo?
+Please call everyone, and we can all eat together, okay?"	"M-Más importante, la cena está lista. Por favor, llama a
+Todos, y podemos comer todos juntos, ¿de acuerdo?"
 Message	Shido	Err, ah, right...	Err, ah, cierto...
 Message		"(Whew... Rinne's meals are always delicious, no matter how
-many times I eat them. Though I tend to eat too much.)"	(Uf... Las comidas de Rinne siempre están deliciosas, no importa cuántas veces las coma. Aunque tiendo a comer demasiado).
+many times I eat them. Though I tend to eat too much.)"	"(Uf... Las comidas de Rinne siempre están deliciosas, no
+importa cuántas veces las coma. Aunque tiendo a
+Comer demasiado)."
 Message	Kotori	I'm coming in.	Voy a entrar.
 Message	Shido	Hmm? What's wrong Kotori?	¿Hmm? ¿Qué pasa Kotori?
 Message	Kotori	"The spiritual wave detected in Tengu City...
-I told you how it most likely holds an enormous power, right?"	La onda espiritual detectada en Ciudad Tengu... Te dije que lo más probable es que tenga un enorme poder, ¿verdad?
+I told you how it most likely holds an enormous power, right?"	"La onda espiritual detectada en Ciudad Tengu... Te dije que
+Lo más probable es que tenga un enorme poder, ¿verdad?"
 Message	Shido	"Yeah... Something about a far-reaching barrier that some
-Spirit used. What about it?"	Sí... Algo sobre una barrera de largo alcance que algún Espíritu usó. ¿Qué hay con eso?
+Spirit used. What about it?"	"Sí... Algo sobre una barrera de largo alcance que algún
+Espíritu usó. ¿Qué hay con eso?"
 Message	Kotori	"Right. It seems that someone"" who's responsible for it
-can't completely control that enormous power."""	"Cierto. Parece que alguien"" que es responsable de ello no puede controlar completamente ese enorme poder""."
+can't completely control that enormous power."""	"Cierto. Parece que alguien ""que es responsable de ello no
+Puede controlar completamente ese enorme poder""."
 Message	Shido	What do you mean?	¿A qué te refieres?
 Message	Kotori	"I've been having Reine analyze the spiritual waves every day...
 But the range of spiritual energy is too wide, and pretty unstable.
-Not only that, but the fluctuations are getting bigger every day..."	He estado haciendo que Reine analice las ondas espirituales todos los días... Pero el rango de energía espiritual es demasiado amplio, y bastante inestable. No sólo eso, sino que las fluctuaciones son más grandes cada día...
+Not only that, but the fluctuations are getting bigger every day..."	"He estado haciendo que Reine analice las ondas
+espirituales a diario, pero la energía espiritual es
+Inestable y las fluctuaciones crecen cada día."
 Message	Shido	"Could it be that we actually have some opening we
-can take advantage of? Then that's a bit reassuring..."	¿Podría ser que realmente tengamos alguna apertura que podamos aprovechar? Entonces eso es un poco tranquilizador...
+can take advantage of? Then that's a bit reassuring..."	"¿Podría ser que en realidad tengamos alguna oportunidad
+Que podamos aprovechar? Eso es un poco reconfortante.."
 Message	Kotori	You idiot, it's the opposite.	Idiota, es lo contrario.
 Message	Shido	Huh...?	¿Eh...?
 Message	Kotori	"If we assume the culprit is a Spirit, then this instability
-is seriously dangerous."	Si suponemos que el culpable es un Espíritu, esta inestabilidad es gravemente peligrosa.
+is seriously dangerous."	"Si suponemos que el culpable es un Espíritu, esta
+Inestabilidad es gravemente peligrosa."
 Message	Kotori	With this large of a power, if they were to go berserk―	Con un poder tan grande, si se volvieran berserk...
 Message	Shido	W-What would happen, then?	¿Qué pasaría entonces?
-Message	Kotori	...The city, no, the entire nation, would easily be blown away.	...La ciudad, no, la nación entera, volaría fácilmente por los aires.
+Message	Kotori	...The city, no, the entire nation, would easily be blown away.	"...La ciudad, no, la nación entera,
+Volaría fácilmente por los aires."
 Message	Shido	N-No way...!	¡De ninguna manera...!
 Message	Kotori	"Even if the scale wouldn't be the same as the Eurasia disaster
 30 years ago, it would easily be enough to blow away Japan.
-...Before that happens, we need to find some sort of solution."	Aunque la escala no sería la misma que la del desastre de Eurasia hace 30 años, sería fácilmente suficiente para arrasar Japón. ...Antes de que eso ocurra, tenemos que encontrar algún tipo de solución.
+...Before that happens, we need to find some sort of solution."	"Aunque no sería tan grande como el desastre de Eurasia
+hace 30 años, aún podría devastar Japón. Debemos
+Encontrar una solución antes de que eso suceda."
 Message	Kotori	"Moreover... The fact that we Spirits haven't felt any effects from
 being in such a strong and unstable spirit barrier is a really
-strange situation in the first place..."	Además... El hecho de que nosotros los Espíritus no hayamos sentido ningún efecto por estar en una barrera espiritual tan fuerte e inestable es una situación realmente extraña en primer lugar...
+strange situation in the first place..."	"Además... Es extraño que los Espíritus no
+sintamos efectos en esta fuerte y inestable
+Barrera espiritual."
 Message	Shido	...?	...?
 Message	Kotori	"A highly dense mass of spiritual energy is surrounding Tengu City.
-To put it another way, it's as if Tengu City's become a black hole."	Una masa muy densa de energía espiritual rodea Ciudad Tengu. Por decirlo de otra manera, es como si Ciudad Tengu se hubiera convertido en un agujero negro.
-Message	Shido	B-Black hole?	¿Agujero negro?
+To put it another way, it's as if Tengu City's become a black hole."	"Una masa muy densa de energía espiritual rodea Ciudad
+Tengu. Por decirlo de otra manera, es como si Ciudad
+Tengu se hubiera convertido en un agujero negro."
+Message	Shido	B-Black hole?	¿A-Agujero negro?
 Message	Kotori	"You don't get it? With black holes, an object that's too weak to support
 its own gravity, shrinks further and further inside from it,
-and eventually completely collapses."	¿No lo entiende? Con los agujeros negros, un objeto que es demasiado débil para soportar su propia gravedad, se encoge cada vez más dentro de ella, y finalmente colapsa por completo.
+and eventually completely collapses."	"¿No comprendes? Con los agujeros negros, un objeto
+que no puede sostener su propia gravedad se encoge
+Y colapsa por completo."
 Message	Shido	I-I see...	Ya veo...
 Message	Kotori	"It's the same idea. If a Spirit with powerful spiritual energy
-were unable to support it... Some sort of distortion will be created."	Es la misma idea. Si un Espíritu con poderosa energía espiritual fuera incapaz de sostenerla... Se crearía algún tipo de distorsión.
+were unable to support it... Some sort of distortion will be created."	"Es la misma idea. Si un Espíritu con poderosa 
+energía espiritual fuera incapaz de sostenerla…
+Se crearía algún tipo de distorsión."
 Message	Shido	"Um, I don't really get such difficult stuff, but...
 Basically, Tohka and the others would be pulled by that
-distortion, and it'll be easier for them to lose control?"	Um, realmente no entiendo cosas tan difíciles, pero... ¿Básicamente, Tohka y los otros serían arrastrados por esa distorsión, y sería más fácil para ellos perder el control?
+distortion, and it'll be easier for them to lose control?"	"Um, realmente no entiendo cosas tan difíciles, pero…
+¿Básicamente, Tohka y los otros serían arrastrados por esa
+Distorsión, y sería más fácil para ellas perder el control?"
 Message	Kotori	"That's right. But this is only a conjecture.
 It's possible there's some other reason that's creating an
-unstable barrier, so in the end, we can't come to a conclusion..."	Así es. Pero esto es sólo una conjetura. Es posible que haya alguna otra razón que esté creando una barrera inestable, así que al final, no podemos llegar a una conclusión...
+unstable barrier, so in the end, we can't come to a conclusion..."	"Así es. Pero esto es sólo una conjetura. Es posible que haya
+alguna otra razón que esté creando una barrera inestable,
+Así que al final, no podemos llegar a una conclusión..."
 Message	Shido	So it means... it's a pretty difficult problem.	Así que significa... que es un problema bastante difícil.
 Message	Kotori	"That's right. But I've already told you that this isn't what you
 need to be concerned about, haven't I? The Ratatoskr will continue
-investigating, so prioritize dating the Spirits and stabilizing them."	Así es. Pero ya te he dicho que esto no es lo que debe preocuparte, ¿no? El Ratatoskr seguirá investigando, así que prioriza salir con los Espíritus y estabilizarlos.
+investigating, so prioritize dating the Spirits and stabilizing them."	"Así es. Pero ya te he dicho que esto no es lo que debe
+preocuparte, ¿no? El Ratatoskr seguirá investigando, así
+Que prioriza salir con los Espíritus y estabilizarlos."
 Message	Shido	Oogh... You're right, that's more important, isn't it?	Oogh... Tienes razón, eso es más importante, ¿no?
 Message	Kotori	"It's fine if you understand. Even if we figure out the mystery and
 find a solution, if Tohka and the others lose control, then it's
-putting the cart before the horse, right?"	Está bien si lo entiendes. Incluso si descubrimos el misterio y encontramos una solución, si Tohka y los otros pierden el control, entonces es poner el carro delante del caballo, ¿verdad?
+putting the cart before the horse, right?"	"Es importante que entiendas. Si Tohka y los demás pierden
+el control, no sirve de nada resolver el misterio y
+Encontrar una solución, ¿verdad?"
 Message	Shido	R-Right... I understand.	Bien... Entiendo.
 Message	Kotori	Well then, sleep well.	Pues que duermas bien.
 Message	Shido	A-Alright...	Muy bien...
 Message		(*Sigh*...Things seem to be getting serious...)	(*Suspiro*... Parece que las cosas se ponen serias...)
 Message		"(But there's no point in me thinking so hard about it.
- Tomorrow's an early start, so I should sleep!)"	(Pero no tiene sentido que le dé tantas vueltas.  Mañana hay que madrugar, así que debería dormir).
+ Tomorrow's an early start, so I should sleep!)"	"(Pero no tiene sentido que le dé tantas vueltas.
+Mañana hay que madrugar, así que debería dormir)."
 Message		(Whew. Good night...)	(Uf. Buenas noches...)
 Message		(...Hmmm?)	(...¿Hmmm?)
 Message		"(What is it? Even though it's the middle of the night...
-Someone's drinking water...?)"	(¿Qué pasa? Aunque sea medianoche... ¿Alguien está bebiendo agua...?)
+Someone's drinking water...?)"	"(¿Qué pasa? Aunque sea medianoche…
+¿Alguien está bebiendo agua...?)"
 Message		"(*Yaaaawn*... Well, whatever.
-I gotta sleep...)"	(*Yaaaawn*... Bueno, da igual. Tengo que dormir...)
+I gotta sleep...)"	"(*Bostezar*... Bueno, da igual.
+Tengo que dormir...)"
 Message		(...Zzzzz...)	(...Zzzzz...)

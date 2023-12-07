@@ -1,0 +1,181 @@
+Operator	Comment	Key	Translation
+Message	Shido	Kotori, I heard Yoshino collapsed! What happened?!	"¡Kotori, he oído que Yoshino se ha
+desmayado! ¡¿Qué ha pasado?!"
+Message	Kotori	"Calm down, Shido. The Fraxinus crew is also on
+edge with all of the ""situations"" popping up,
+so I'd like it if you didn't add to the stress."	"Cálmate, Shido. La tripulación del Fraxinus también está
+al límite con todas las ""situaciones"" que están surgiendo,
+así que me gustaría que no aumentaras el estrés."
+Message	Shido	Oof... S-Sorry... So, what about Yoshino...?	Oof... Lo siento... Entonces, ¿qué pasa con Yoshino...?
+Message	Kotori	"She didn't collapse from any injury or illness.
+The spiritual power we were monitoring
+suddenly became unstable."	"No colapsó por ninguna herida o enfermedad.
+El poder espiritual que controlábamos se
+volvió inestable de repente."
+Message	Shido	Unstable? You mean... she lost control?	¿Inestable? ¿Quieres decir... que perdió el control?
+Message	Kotori	"I wouldn't put it that way just yet, but if we
+leave her as is, it could be a possibility in
+the near future."	"Yo no lo plantearía así todavía, pero si la
+dejamos como está, podría ser una
+posibilidad en un futuro próximo."
+Message	Shido	Was there a specific cause...?	¿Hubo una causa específica...?
+Message	Kotori	"It's currently unknown. It's hard not to feel
+anxious in this situation. We'll just have to keep
+an eye on her. You have to support her as well."	"Actualmente se desconoce. Es difícil no sentirse
+ansioso en esta situación. Tendremos que
+vigilarla. Tú también tienes que apoyarla."
+Message	Shido	Yeah. You can leave that part to me.	Sí. Puedes dejarme esa parte a mí.
+Message	Kotori	"That confidence is what makes me so anxious...
+Whatever. Yoshino's in the infirmary, so go over
+to see her right away. Careful not to agitate her."	"Esa confianza es lo que me pone tan ansioso…
+Lo que sea. Yoshino está en la enfermería, así que
+ve a verla enseguida. Ten cuidado de no agitarla."
+Message	Shido	R-Right.	Bueno.
+Message		"(It's so chilly in here. There's ice forming
+everywhere... This seems pretty bad.)"	"(Hace mucho frío aquí. Se está formando hielo
+por todas partes... Esto parece bastante malo.)"
+Message		"(If Yoshino ends up losing control, it'll be even
+worse. I have to hurry and calm her down…)"	"(Si Yoshino acaba perdiendo el control, será aún
+peor. Tengo que darme prisa y calmarla...)"
+Message	Shido	Yoshino... Are you okay?	Yoshino... ¿Estás bien?
+Message	Yoshino	...Shido-san...?	...¿Shido-san...?
+Message	Shido	"It's all right now. I'm here... Could you tell
+me why you're crying?"	"Todo está bien ahora. Estoy aquí…
+¿Podrías decirme por qué lloras?"
+Message	Yoshino	Y-Yoshinon is…	Y-Yoshinon es...
+Message	Shido	Yoshinon...? What's wrong with Yoshinon?	¿Yoshinon...? ¿Qué pasa con Yoshinon?
+Message	Yoshino	Yoshinon... is gone...!	¡Yoshinon... se ha ido...!
+Message	Shido	What?!	¡¿Qué?!
+Message	Yoshino	Yoshi...non...!	¡Yoshi... non…!
+Message		"(It's true, Yoshinon was always on Yoshino's left
+hand, but now she's nowhere to be seen.)"	"(Es cierto, Yoshinon siempre estuvo en la mano izquierda
+de Yoshino, pero ahora no se la ve por ninguna parte)."
+Message	Shido	"Yoshino, calm down. It's all right.
+Yoshinon was with you just a while ago, right?"	"Yoshino, cálmate. No pasa nada. Yoshinon
+estuvo contigo hace un rato, ¿verdad?"
+Message	Shido	So I'm sure she's somewhere in this room.	Así que estoy seguro de que está en algún lugar de esta habitación.
+Message	Yoshino	B-But...	P-Pero...
+Message	Shido	"Yoshino, it's okay.
+I'll look for Yoshinon."	"Yoshino, está bien.
+Buscaré a Yoshinon."
+Message	Yoshino	...Okay.	...de acuerdo.
+Message		(Now then... Where to look…)	(Ahora bien... Dónde buscar...)
+Choice		Look under the bed.	Mira debajo de la cama.
+Choice		Look in the changing room.	Mira en el vestuario.
+Choice		Look on the medical officer's desk.	Mira en el escritorio del oficial médico.
+Message	Shido	"Maybe she fell off your hand and rolled underneath
+the bed?"	"¿Quizá se te cayó de la mano y
+rodó por debajo de la cama?"
+Message	Shido	"...I don't see her anywhere.
+Looks like she isn't under here..."	"...no la veo por ningún lado.
+Parece que no está aquí abajo..."
+Message	Yoshino	......	......
+Message	Shido	"Maybe you dropped her when you were changing your
+clothes before the examination...?"	"¿Quizá se te cayó cuando te cambiabas
+de ropa antes del examen...?"
+Message	Shido	"...Yoshino, sorry, but I'm going to look in the
+changing room, okay? I-I'm not doing it for
+any indecent reason!"	"...Yoshino, lo siento, pero voy a mirar
+en el vestuario, ¿vale? ¡No lo hago
+por ninguna razón indecente!"
+Message	Yoshino	...Okay.	...de acuerdo.
+Message	Shido	"...I don't see her. Looks like you didn't
+drop her in the changing room..."	"...no la veo. Parece que no
+la dejaste en el vestuario..."
+Message	Yoshino	......	......
+Message	Shido	"Could it be that... when the medical officer did
+your examination, they took her?"	"¿Podría ser que... cuando el oficial médico
+le hizo el examen, se la llevaron?"
+Message	Shido	This is the medical officer's desk…	Este es el escritorio del oficial médico...
+Message	Shido	"...Looks like she's not there.
+Guess the officer didn't collect her."	"...parece que no está allí.
+Supongo que el oficial no la recogió."
+Message	Yoshino	......	......
+Message	Yoshino	Is she... not here after all...?	¿Ella... no está aquí después de todo...?
+Message	Shido	Huh? Y-Yeah... I haven't found her yet.	¿Eh? S-Sí... Todavía no la he encontrado.
+Message	Yoshino	"At this rate... If I can't see
+Yoshinon anymore, I…"	"A este paso... Si no puedo
+ver más a Yoshinon, yo..."
+Message	Shido	Calm down, Yoshino! I'll definitely find Yoshinon!	"¡Cálmate, Yoshino! ¡Definitivamente
+encontraré a Yoshinon!"
+Message	Shido	"Yoshino... Stay calm and think carefully. Do you
+remember where you last took her?"	"Yoshino... Mantén la calma y piensa
+con cuidado. ¿Recuerdas dónde la
+llevaste por última vez?"
+Message	Yoshino	I don't... know…	Yo no... sé...
+Message	Shido	"You definitely had her when you came on board the
+Fraxinus for your examination, right?"	"Definitivamente la tenías cuando subiste a
+bordo del Fraxinus para tu examen, ¿verdad?"
+Message	Yoshino	Y-Yes... We were together…	S-Sí... Estuvimos juntos...
+Message	Shido	"Then at the very least, she must be on the Fraxinus
+somewhere. When you got here,
+what did you do first?"	"Entonces, como mínimo, debe estar en algún
+lugar del Fraxinus. Cuando llegaste aquí,
+¿qué hiciste primero?"
+Message	Yoshino	"They said they'd... examine me... and laid
+me down... on this bed."	"Dijeron que... me examinarían…
+y me tumbaron... en esta cama."
+Message	Shido	You were with Yoshinon then, too...?	¿Estabas con Yoshinon entonces, también...?
+Message	Yoshino	"Yes... and then I got a little sleepy...
+And then... when I woke up..."	"Sí... y luego me dio un poco de sueño…
+Y luego... cuando me desperté..."
+Message	Shido	"While you were sleeping in this bed, Yoshinon
+disappeared."	"Mientras dormías en esta cama,
+Yoshinon desapareció."
+Message		"(Then she should be near the bed...
+Huh? Could it be?)"	"(Entonces debería estar cerca de
+la cama... ¿Eh? ¿Podría ser?)"
+Message	Shido	"Sorry, Yoshino... but I'm going to look under
+the mattress for a second, okay?"	"Lo siento, Yoshino... pero voy a mirar
+debajo del colchón un momento, ¿vale?"
+Message	Yoshino	...!	¡...!
+Message	Shido	...I knew it.	...lo sabía.
+Message	Shido	See? No need to worry.	¿Lo ves? No hay por qué preocuparse.
+Message	Yoshino	"Y-Yoshinon...!
+Yoshinon, Yoshinon!!"	¡Y-Yoshinon...! ¡¡Yoshinon, Yoshinon!!
+Message	Yoshinon	...Bwah!! Good grief! How horrible, Yoshino...\nYoshinon was squished under the mattress and\ncouldn't even call out!	"...¡Bwah! ¡Santo cielo! Qué horrible,
+Yoshino... ¡Yoshinon estaba aplastado
+bajo el colchón y ni siquiera podía gritar!"
+Message	Yoshino	I'm... sorry... Yoshinon…	Yo... lo siento... Yoshinon...
+Message	Shido	"She must have gotten tucked under the edge of the
+mattress. It's hard to notice when it's more
+toward the foot of the bed."	"Debe haberse metido bajo el borde del
+colchón. Es difícil darse cuenta cuando
+está más hacia los pies de la cama."
+Message	Yoshino	Th-Thank you... so much…	Muchas gracias...
+Message	Shido	I'm glad we could find her.	Me alegro de que pudiéramos encontrarla.
+Message	Yoshino	Y-Yeah...	S-Sí...
+Message	Yoshinon	Hoo-whee, sorry for causing trouble!\nThanks to you, Shido-kun, I'm saved!	"¡Hoo-whee, perdón por causar problemas!
+¡Gracias a ti, Shido-kun, estoy a salvo!"
+Message	Shido	Yeah, I'm glad I was able to find you so quickly.	Sí, me alegro de haber podido encontrarte tan rápido.
+Message	Yoshino	Yeah... Thank you...!	Sí... ¡Gracias...!
+Message	Reine	"...Hm. Apologies. This usually would have been
+a matter we'd deal with ourselves."	"...Hm. Disculpas. Esto normalmente
+habría sido un asunto del que nos
+habríamos ocupado nosotros mismos."
+Message	Kotori	"Well, part of it was probably thanks to Shido,
+so I guess all's well that ends well."	"Bueno, en parte probablemente fue gracias a Shido,
+así que supongo que bien está lo que bien acaba."
+Message	Kotori	"But what a surprising outcome. The Spirits... more
+specifically Yoshino, lack sufficient interaction
+with humans and are almost like kids in a sense."	"Pero qué resultado tan sorprendente. Los Espíritus... más
+concretamente Yoshino, carecen de suficiente interacción
+con los humanos y son casi como niños en cierto sentido."
+Message	Shido	"Well, I'm really glad we were able to find her.
+Yoshinon seems to be a precious friend to her."	"Me alegro mucho de que hayamos podido encontrarla.
+Yoshinon parece ser un amigo precioso para ella."
+Message	Reine	...How long will you be able to say that?	...¿Cuánto tiempo podrás decir eso?
+Message	Shido	Huh? What do you mean?	¿Qué? ¿Qué quieres decir?
+Message	Reine	"While it's true that Yoshinon is contributing to
+Yoshino's spiritual stability, conversely, it
+shows how highly dependent on her she is."	"Si bien es cierto que Yoshinon contribuye a la
+estabilidad espiritual de Yoshino, a la inversa,
+demuestra lo dependiente que es de ella."
+Message	Reine	"As was clear with today's incident, her happiness
+hangs from the thin thread that is Yoshinon..."	"Como quedó claro con el incidente de hoy, su
+felicidad pende del delgado hilo que es Yoshinon..."
+Message	Shido	I suppose that's true…	Supongo que es verdad...
+Message	Kotori	"But, it's also true that we can't separate them...
+You should be a little more careful too, Shido."	"Pero, también es cierto que no podemos separarlos…
+Tú también deberías tener un poco más de cuidado, Shido."
+Message	Shido	R-Right...	B-Bueno…

@@ -1,16 +1,21 @@
 Operator	Comment	Key	Translation
 Message		"(Hm. I mean, I do have the lunch for Tohka too,
-so I've got no choice but to tell her.)"	(Hm. Yo también tengo la comida para Tohka, así que no tengo más remedio que decírselo).
+so I've got no choice but to tell her.)"	"(Hm. Yo también tengo la comida para Tohka,
+así que no tengo más remedio que decírselo)."
 Message	Shido	"H-Hey, Tohka. You see, Rinne prepared lunch
-for you too, and I have it with me..."	H-Hey, Tohka. Verás, Rinne preparó el almuerzo para ti también, y lo tengo conmigo...
+for you too, and I have it with me..."	"H-Hey, Tohka. Verás, Rinne preparó el almuerzo
+para ti también, y lo tengo conmigo..."
 Message	Tohka	Oh. I-I see...	Oh. Ya veo...
 Message	Shido	"I want to eat the lunch you made, but I've also
-got Rinne's—"	Quiero comer el almuerzo que hiciste, pero también tengo el de Rinne-
+got Rinne's—"	"Quiero comer el almuerzo que hiciste,
+pero también tengo el de Rinne-"
 Message	Tohka	"So you would rather have Rinne's instead, is
-that it?"	Así que preferirías tener el de Rinne en su lugar, ¿es eso?
+that it?"	"Así que preferirías tener el de Rinne en su lugar,
+¿es eso?"
 Message	Shido	No, it's not about whose is better—	No, no se trata de quién es mejor...
 Message	Tohka	"Shido, you prefer a woman who's good in the
-kitchen, right?"	Shido, prefieres una mujer que sea buena en la cocina, ¿verdad?
+kitchen, right?"	"Shido, prefieres una mujer que sea
+buena en la cocina, ¿verdad?"
 Message	Shido	Well, um, it's true, but that's—	Bueno, um, es verdad, pero eso es-
 Message	Tohka	GRRR!	¡GRRR!
 Message	Shido	Tohka?! Where are you going?!	¡¿Tohka?! ¡¿A dónde vas?!
@@ -27,17 +32,22 @@ Message	Shido	I know, but... Please let me handle this.	Lo sé, pero... Por favo
 Message	Origami	...	...
 Message	Shido	Tohka! Please, listen to me!	¡Tohka! ¡Por favor, escúchame!
 Message	Tohka	"Origami Tobiichi, have you come to make a
-fool of me?"	Origami Tobiichi, ¿has venido a ponerme en ridículo?
-Message	Shido	N-No! Origami is worried about you—	¡No! Origami está preocupado por ti-
+fool of me?"	"Origami Tobiichi, ¿has venido a
+ponerme en ridículo?"
+Message	Shido	N-No! Origami is worried about you—	¡No! Origami está preocupada por ti-
 Message	Tohka	"Sh-Shido... So instead of choosing me, you've
-chosen Rinne and Origami Tobiichi... G...GRRR!"	Sh-Shido... Así que en vez de elegirme a mí, has elegido a Rinne y al Origami Tobiichi... ¡G...GRRR!
+chosen Rinne and Origami Tobiichi... G...GRRR!"	"Sh-Shido... Así que en vez de elegirme a mí, has
+elegido a Rinne y al Origami Tobiichi... ¡G...GRRR!"
 Message	Shido	This is all a misunderstanding!	¡Todo esto es un malentendido!
 Message	Shido	?	?
 Message	Kotori	"H-Hey, Shido! What are you doing?! Get out
 of there! Tohka's stress levels are—! Onii-chan!
-Run for it!"	¡H-Hey, Shido! ¡¿Qué estás haciendo?! ¡Sal de ahí! ¡Los niveles de estrés de Tohka están...! ¡Onii-chan!  ¡Corre!
+Run for it!"	"¡H-Hey, Shido! ¡¿Qué estás haciendo?! ¡Sal de ahí!
+¡Los niveles de estrés de Tohka están...!
+¡Onii-chan!  ¡Corre!"
 Message	Shido	"Huh? What'd you say? Kotori, what's the
-matter?! I can't hear. It's too noisy!"	¿Eh? ¿Qué has dicho? Kotori, ¡¿qué pasa?! No puedo oír. ¡Hay demasiado ruido!
+matter?! I can't hear. It's too noisy!"	"¿Eh? ¿Qué has dicho? Kotori, ¡¿qué pasa?!
+No puedo oír. ¡Hay demasiado ruido!"
 Message	Kotori	"J-Just shut up and run for it! At this rate,
 Tohka will—"	¡Cállate y corre! A este paso, Tohka...
 Message	Tohka	No... I won't... ever let that happen.	No... no dejaré... que eso ocurra nunca.
@@ -46,4 +56,6 @@ Message	Tohka	I... WON'T LET THAT HAPPENNNNNNNNNNN!	I... ¡NO DEJARÉ QUE ESO OC
 Message	Shido	WHOAAAAA!	¡WHOAAAAA!
 Message	???	"...In this dream... no one can become happy...
 Shido Itsuka... I hope your next dream will be
-a happy one..."	...En este sueño... nadie puede llegar a ser feliz...  Shido Itsuka... Espero que tu próximo sueño sea feliz...
+a happy one..."	"...En este sueño... nadie puede llegar a ser feliz... 
+Shido Itsuka... Espero que tu próximo
+sueño sea feliz..."

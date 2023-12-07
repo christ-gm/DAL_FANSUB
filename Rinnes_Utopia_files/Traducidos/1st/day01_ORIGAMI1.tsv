@@ -1,51 +1,68 @@
 Operator	Comment	Key	Translation
 Message		"(What am I even doing? I need to go on
 dates with the Spirits to stabilize them,
-but I'm looking around for Origami.)"	(¿Qué estoy haciendo? Tengo que ir a citas con los Espíritus para estabilizarlos, pero estoy buscando Origami por ahí).
+but I'm looking around for Origami.)"	"(¿Qué estoy haciendo? Tengo que ir a citas con
+los Espíritus para estabilizarlos, pero estoy
+Buscando Origami por ahí)."
 Message		(I need to sit and have a chat with her...)	(Necesito sentarme y charlar con ella...)
 Message		"(I mean, there's Kotori's thing... and my visit
-from yesterday.)"	(Quiero decir, está lo de Kotori... y mi visita de ayer).
+from yesterday.)"	"(Quiero decir, está lo de Kotori... y mi
+Visita de ayer)."
 Message		"(And today's lunch, what was that all about?
-Origami seemed desperate or something.)"	(Y la comida de hoy, ¿de qué iba? El origami parecía desesperado o algo así).
+Origami seemed desperate or something.)"	"(Y la comida de hoy, ¿de qué iba? El origami
+Parecía desesperado o algo así)."
 Message		"(Huh? Is someone throwing trash into an
-incinerator? Origami...?)"	(¿Eh? ¿Alguien está tirando basura a una incineradora? ¿Origami...?)
+incinerator? Origami...?)"	"(¿Eh? ¿Alguien está tirando basura a una
+Incineradora? ¿Origami...?)"
 Message		"(What should I do? We're about to be face-
 to-face, and I've got nothing to say. What is
-she burning, anyways? I-I'm curious!)"	(¿Qué debo hacer? Estamos a punto de estar cara a cara, y no tengo nada que decir. ¿Qué está quemando? Tengo curiosidad).
+she burning, anyways? I-I'm curious!)"	"(¿Qué debo hacer? Estamos a punto de estar
+cara a cara, y no tengo nada que decir.
+¿Qué está quemando? Tengo curiosidad)."
 Message	Shido	Hey, Origami!	¡Eh, Origami!
 Message	Origami	Shido, is something wrong?	Shido, ¿pasa algo?
 Message	Shido	Uh, good question. What are you doing here?	Buena pregunta. ¿Qué estás haciendo aquí?
-Message	Origami	Disposing the trash.	Deshacerse de la basura.
+Message	Origami	Disposing the trash.	tirar la basura.
 Message	Shido	Were you put in charge of cleaning?	¿Te pusieron a limpiar?
 Message	Origami	No. I'm in charge of the shoe rack.	No. Estoy a cargo del zapatero.
 Message	Shido	Sh-Shoe rack...?	¿Zapatero...?
 Message		"(I peeked inside the incinerator, and I saw
-a stack of what appeared to be letters burning.)"	(Me asomé al interior de la incineradora y vi una pila de lo que parecían cartas ardiendo).
-Message		(Why letters...?)	(¿Por qué letras...?)
+a stack of what appeared to be letters burning.)"	"(Me asomé al interior de la incineradora y vi una
+Pila de lo que parecían cartas ardiendo)."
+Message		(Why letters...?)	(¿Por qué cartas…?)
 Message	Shido	"...?! O-Origami! Don't tell me! Are those...
-love letters people have sent you?"	¡...?! ¡O-Origami! ¡No me digas! ¿Son... cartas de amor las que te han enviado?
+love letters people have sent you?"	"¡...?! ¡O-Origami! ¡No me digas! ¿Son... cartas
+De amor las que te han enviado?"
 Message	Origami	Are they?	¿Lo son?
 Message	Shido	Wh-What?! Didn't you bother to open them?	¡¿Qu-Qué?! ¿No te molestaste en abrirlos?
 Message	Origami	"Unless they're from you, they're worthless
 to me."	A menos que sean tuyas, para mí no valen nada.
 Message	Shido	Argh! B-But...	¡Argh! P-Pero...
 Message		"(That's horrible! Horrible, but when she puts
-it like that, why can't I respond?)"	(¡Eso es horrible! Horrible, pero cuando lo dice así, ¿por qué no puedo responder?)
+it like that, why can't I respond?)"	"(¡Eso es horrible! Horrible, pero cuando lo dice
+Así, ¿por qué no puedo responder?)"
 Message		"(The letters in the incinerator seem like
-they're glaring at me as they turn to ash.)"	(Las letras de la incineradora parecen mirarme fijamente mientras se convierten en ceniza).
+they're glaring at me as they turn to ash.)"	"(Las letras de la incineradora parecen mirarme
+Fijamente mientras se convierten en ceniza)."
 Message		"(I never knew she had so many suitors. She
-IS quite popular...)"	(No sabía que tuviera tantos pretendientes. Es bastante popular...)
+IS quite popular...)"	"(No sabía que tuviera tantos pretendientes.
+Es bastante popular...)"
 Message		"(I thought Tonomachi was just talking her up,
 but maybe being ranked as the 3rd-best potential
-girlfriend has more merit than I thought.)"	(Creía que Tonomachi sólo hablaba bien de ella, pero quizá ser la 3ª mejor novia potencial tenga más mérito del que pensaba).
+girlfriend has more merit than I thought.)"	"(Creía que Tonomachi sólo hablaba bien de ella,
+pero quizá ser la 3rd mejor novia potencial
+Tenga más mérito del que pensaba)."
 Message	Origami	You were saying, Shido?	¿Qué decías, Shido?
 Message	Shido	"Huh...? Oh, right! I just wanted to, um, have
-a chat, so I came looking for you."	¿Eh...? ¡Oh, claro! Sólo quería, um, tener una charla, así que vine a buscarte.
+a chat, so I came looking for you."	"¿Eh...? ¡Oh, claro! Sólo quería, um, tener una
+Charla, así que vine a buscarte."
 Message	Origami	Have a chat?	¿Quieres charlar?
 Message	Shido	Huh? What do you mean?	¿Qué? ¿Qué quieres decir?
 Message	Origami	"Aside from talking, there are more personal
 and beneficial activities in which we could
-partake."	Aparte de hablar, hay actividades más personales y beneficiosas en las que podríamos participar.
+partake."	"Aparte de hablar, hay actividades más
+personales y beneficiosas en las
+Que podríamos participar."
 Message	Shido	H-Hold that thought!	¡Detén ese pensamiento!
 Message	Origami	Oh.	Oh.
 Message	Shido	"U-Uh, what I wanted to talk with you about
@@ -54,9 +71,11 @@ Choice		Kotori.	Kotori.
 Choice		Lunch.	La comida.
 Choice		AST.	AST.
 Message	Shido	"You came to visit me yesterday, but it ended
-with me pushing you out. So, I apologize."	Viniste a visitarme ayer, pero terminó conmigo empujándote fuera. Así que te pido disculpas.
+with me pushing you out. So, I apologize."	"Viniste a visitarme ayer, pero terminó conmigo
+Empujándote fuera. Así que te pido disculpas."
 Message	Origami	"It's fine. So long as you feel better, Shido.
-That's all that matters."	No pasa nada. Mientras te sientas mejor, Shido. Es lo único que importa.
+That's all that matters."	"No pasa nada. Mientras te sientas mejor, Shido.
+Es lo único que importa."
 Message	Shido	Oh...	Oh...
 Message	Origami	...	...
 Message	Shido	D-Do you remember what we discussed?	¿Recuerdas lo que discutimos?
@@ -66,10 +85,14 @@ Message	Origami	Well, I still disagree.	Sigo sin estar de acuerdo.
 Message	Shido	Yeah... I know it's hard to believe.	Sí... sé que es difícil de creer.
 Message	Origami	"Don't get me wrong. Shido, I do wish to believe
 in what you told me. However, there's no proof
-that Kotori Itsuka isn't Efreet."	No me malinterpretes. Shido, deseo creer en lo que me has dicho. Sin embargo, no hay pruebas de que Kotori Itsuka no sea Efreet.
+that Kotori Itsuka isn't Efreet."	"No me malinterpretes. Shido, deseo creer en lo
+que me has dicho. Sin embargo, no hay
+Pruebas de que Kotori Itsuka no sea Efreet."
 Message	Shido	"Y-Yeah... But I know it's true. There was
 someone else besides Kotori there that day!
-That much I'm sure of!"	S-Sí... Pero sé que es verdad. ¡Había alguien más aparte de Kotori ese día! ¡De eso estoy seguro!
+That much I'm sure of!"	"S-Sí... Pero sé que es verdad. ¡Había alguien
+Más aparte de Kotori ese día!
+¡De eso estoy seguro!"
 Message	Origami	I, too, wish for that to be the case.	Yo también deseo que así sea.
 Message	Shido	What...?	¿Qué...?
 Message	Origami	"I do not... want to kill your little sister,
@@ -78,15 +101,21 @@ Message	Shido	"What? O-Oh... Thanks for understanding,
 Origami."	¿Qué? O-Oh... Gracias por entender, Origami.
 Message	Origami	"That goes both ways. When I visited you,
 you hadn't acted any differently to me. In
-fact, I thought you would reject me."	Eso va en ambos sentidos. Cuando te visité, no habías actuado diferente conmigo. De hecho, pensé que me rechazarías.
+fact, I thought you would reject me."	"Eso va en ambos sentidos. Cuando te visité,
+no habías actuado diferente conmigo.
+De hecho, pensé que me rechazarías."
 Message	Shido	"Well, if you were paid a sudden visit like
-that, anyone would—"	Bueno, si te hicieran una visita repentina como esa, cualquiera...
+that, anyone would—"	"Bueno, si te hicieran una visita repentina como
+Esa, cualquiera..."
 Message	Origami	"I truly sought out to kill your sister. That
-is a truth that cannot be erased."	Realmente busqué matar a tu hermana. Esa es una verdad que no puede ser borrada.
+is a truth that cannot be erased."	"Realmente busqué matar a tu hermana.
+Esa es una verdad que no puede ser borrada."
 Message	Shido	...! O-Oh, guess you have a point.	¡...! O-Oh, supongo que tienes razón.
 Message	Shido	"Well, it wasn't the kindest gesture, sure,
 but even so... I want for us to converse
-normally."	Bueno, no fue el gesto más amable, seguro, pero aún así... Quiero que conversemos normalmente.
+normally."	"Bueno, no fue el gesto más amable, seguro,
+pero aún así... Quiero que conversemos
+Normalmente."
 Message	Origami	...	...
 Message	Shido	Is that okay?	¿Te parece bien?
 Message	Origami	Shido.	Shido.
@@ -95,22 +124,29 @@ Message	Origami	...Thank you.	...gracias.
 Message	Shido	Y-Yeah...	S-Sí...
 Message	Origami	...	...
 Message	Shido	"Well, I'll be on my way. Glad we got to chat.
-Later!"	Bueno, seguiré mi camino. Me alegro de que hayamos charlado. ¡Hasta luego!
+Later!"	"Bueno, seguiré mi camino. Me alegro de que
+Hayamos charlado. ¡Hasta luego!"
 Message	Origami	Mm...	Mm...
 Message	Shido	"The commotion at lunch, what was all that
-about?"	La conmoción en el almuerzo, ¿qué fue todo eso?
+about?"	"La conmoción en el almuerzo,
+¿qué fue todo eso?"
 Message	Origami	What do you mean?	¿A qué te refieres?
 Message	Shido	"Well, I get that you and Tohka butt heads
 often, but... I feel like today was a lot more
-intense than usual."	Bueno, entiendo que tú y Tohka se peleen a menudo, pero... Siento que hoy ha sido mucho más intenso de lo habitual.
+intense than usual."	"Bueno, entiendo que tú y Tohka se peleen a
+menudo, pero... Siento que hoy ha sido
+Mucho más intenso de lo habitual."
 Message		(It almost killed me...)	(Casi me mata...)
 Message	Origami	"I would like to apologize for that. I feel
-guilty."	Me gustaría disculparme por ello. Me siento culpable.
+guilty."	"Me gustaría disculparme por ello.
+Me siento culpable."
 Message	Shido	"Oh. You don't have to apologize, but if you
-want to talk about it, I'm here to listen."	Oh. No tienes que disculparte, pero si quieres hablar de ello, estoy aquí para escuchar.
+want to talk about it, I'm here to listen."	"Oh. No tienes que disculparte, pero si quieres
+Hablar de ello, estoy aquí para escuchar."
 Message	Origami	...	...
 Message	Shido	"W-Well, I guess I can't blame you. I know
-I'm not reliable."	Bueno, supongo que no puedo culparte. Sé que no soy de fiar.
+I'm not reliable."	"Bueno, supongo que no puedo culparte.
+Sé que no soy de fiar."
 Message	Origami	Don't misunderstand. I don't think that.	No me malinterpretes. Yo no creo eso.
 Message	Shido	Hm...?	¿Hm...?
 Message	Origami	It's just...	Es que...
@@ -119,9 +155,11 @@ Message	Origami	You can't cheat.	No puedes hacer trampas.
 Message	Shido	Huh...? HUH?	¿Eh...? ¿HUH?
 Message		(When did I do that?!)	(¡¿Cuándo hice eso?!)
 Message	Origami	"I won't let anyone stand in the way of our
-future."	No dejaré que nadie se interponga en nuestro futuro.
+future."	"No dejaré que nadie se interponga en
+Nuestro futuro."
 Message	Shido	"U-Uh, Origami-san? What are you talking
-about?"	U-Uh, ¿Origami-san? ¿De qué estás hablando?
+about?"	"U-Uh, ¿Origami-san?
+¿De qué estás hablando?"
 Message	Origami	That's all I wanted to say.	Eso es todo lo que quería decir.
 Message	Shido	U-Uh...	U-Uh...
 Message	Origami	Come.	Ven.
@@ -129,28 +167,38 @@ Message	Shido	"Huh? Where... do you want me
 to go?"	¿Eh? ¿Dónde... quieres que vaya?
 Message	Origami	"From here, the P.E. lockers are closest.
 If we hide in the shadows, no one will
-find us."	Desde aquí, las taquillas de Educación Física están más cerca. Si nos escondemos en las sombras, nadie nos encontrará.
+find us."	"Desde aquí, las taquillas de Educación Física
+están más cerca. Si nos escondemos en
+Las sombras, nadie nos encontrará."
 Message	Origami	This way.	Por aquí.
 Message	Shido	H-Hey, wait! Stop! STOOOOP!	¡H-Hey, espera! ¡Para!
 Message	Origami	What?	¿Cómo?
-Message	Shido	"Um, don't what"" me! What do you plan"	¡No me digas qué! ¿Qué planeas
+Message	Shido	"Um, don't what"" me! What do you plan"	¡No me digas qué! ¿Qué planeas-
 Message	Origami	"I put your life in danger. The only way to
-repay you is with my bod— to do once we get there?"""	"Puse tu vida en peligro. La única forma de pagarte es con mi cuerpo... ¿Qué haremos cuando lleguemos?"""
+repay you is with my bod— to do once we get there?"""	"Puse tu vida en peligro. La única forma de
+pagarte es con mi cuerpo…
+¿Qué haremos cuando lleguemos?"""
 Message	Shido	"It's okay! Don't say another word!
-It's okay! I'm not mad about that!"	¡No pasa nada! ¡No digas ni una palabra más! ¡No pasa nada! ¡No estoy enfadada por eso!
+It's okay! I'm not mad about that!"	"¡No pasa nada! ¡No digas ni una palabra más!
+¡No pasa nada! ¡No estoy enfadado por eso!"
 Message	Origami	I see...	Ya veo...
 Message	Shido	"Anyways, I'll be on my way then! I'm glad
-we got to chat! Later!"	De todas formas, ¡ya me voy! Me alegro de que hayamos charlado. Hasta luego.
+we got to chat! Later!"	"De todas formas, ¡ya me voy! Me alegro de que
+Hayamos charlado. Hasta luego."
 Message	Origami	...	...
 Message	Shido	"Um. You know how you're in charge of the
-AST Self-Defense force?"	Um. ¿Sabes que estás a cargo de la fuerza de autodefensa AST?
+AST Self-Defense force?"	"Um. ¿Sabes que estás a cargo de la fuerza de
+Autodefensa AST?"
 Message	Origami	Huh...?	¿Eh...?
 Message	Shido	"After the incident, I was worried about if
-everything was okay."	Después del incidente, me preocupaba saber si todo iba bien.
+everything was okay."	"Después del incidente, me preocupaba saber
+Si todo iba bien."
 Message		"(She went crazy in a public space. I'm almost
-certain she got a reprimanding.)"	(Se volvió loca en un espacio público. Estoy casi seguro de que recibió una reprimenda).
+certain she got a reprimanding.)"	"(Se volvió loca en un espacio público.Estoy casi
+Seguro de que recibió una reprimenda)."
 Message	Origami	"Normally, I would have been dishonorably
-discharged immediately."	Normalmente, me habrían licenciado con deshonor inmediatamente.
+discharged immediately."	"Normalmente, me habrían licenciado con
+Deshonor inmediatamente."
 Message	Shido	...!	¡...!
 Message	Origami	But I was prepared.	Pero estaba preparado.
 Message	Shido	I-I see...	Ya veo...
@@ -158,38 +206,53 @@ Message	Origami	But...	Pero...
 Message	Shido	But...?	Pero...
 Message	Origami	"Both the rogatory questioning and the
 official punishment were deferred. For
-reasons I cannot explain."	Tanto la comisión rogatoria como el castigo oficial fueron aplazados. Por razones que no puedo explicar.
+reasons I cannot explain."	"Tanto la comisión rogatoria como el castigo
+oficial fueron aplazados. Por razones
+Que no puedo explicar."
 Message	Shido	"Th-Then... bottom line is, you weren't fired,
-right? That's wonderful."	Entonces... en resumen, no te despidieron, ¿verdad? Eso es maravilloso.
+right? That's wonderful."	"Entonces... en resumen, no te despidieron,
+¿verdad? Eso es maravilloso."
 Message	Origami	Why are you reacting like that, Shido?	¿Por qué reaccionas así, Shido?
 Message	Shido	"Oh, well. Yeah, huh... I wanted you to stop
-attacking the Spirits, but..."	Ah, bueno. Sí, eh... Quería que dejaras de atacar a los Espíritus, pero...
+attacking the Spirits, but..."	"Ah, bueno. Sí, eh... Quería que dejaras de atacar
+A los Espíritus, pero..."
 Message		"(That's right. I don't want Origami to kill
 Kotori, nor do I want her to fight the other
-Spirits either.)"	(Así es. No quiero que Origami mate a Kotori, ni tampoco que luche contra los otros Espíritus).
+Spirits either.)"	"(Así es. No quiero que Origami mate a Kotori, ni
+Tampoco que luche contra los otros Espíritus)."
 Message	Shido	"Strange. I wonder why. It's a relief to hear
-you weren't fired."	Extraño. Me pregunto por qué. Es un alivio saber que no te despidieron.
+you weren't fired."	"Extraño. Me pregunto por qué. Es un alivio
+Saber que no te despidieron."
 Message	Shido	"I don't blame Kotori for calling me her idiot
-brother. Hahaha."	No culpo a Kotori por llamarme el idiota de su hermano. Jajaja.
+brother. Hahaha."	"No culpo a Kotori por llamarme el idiota de
+Su hermano. Jajaja."
 Message	Origami	Shido...	Shido...
 Message	Shido	"But it's still so odd. I wonder why they
-hadn't gone through with punishing you."	Pero sigue siendo tan extraño. Me pregunto por qué no te han castigado.
+hadn't gone through with punishing you."	"Pero sigue siendo tan extraño. Me pregunto
+Por qué no te han castigado."
 Message	Origami	"It's a mystery. Despite being told by AST that
 I'd be put under house arrest and lose
-access to my Realizer... nothing happened."	Es un misterio. A pesar de que AST me dijo que me pondrían bajo arresto domiciliario y perdería el acceso a mi Realizador... no pasó nada.
+access to my Realizer... nothing happened."	"Es un misterio. A pesar de que AST me dijo que
+me pondrían bajo arresto domiciliario y perdería
+El acceso a mi Realizador... no pasó nada."
 Message	Shido	"Wait. Are you allowed to tell me, a normal
-civilian, any of this?"	Espere. ¿Se te permite decirme a mí, un civil normal, algo de esto?
+civilian, any of this?"	"Espere. ¿Se te permite decirme a mí, un civil
+Normal, algo de esto?"
 Message	Origami	Yes. As long as you don't tell anyone, Shido.	Sí. Mientras no se lo digas a nadie, Shido.
 Message	Shido	R-Really? Hey, Origami?	¿En serio? ¿Oye, Origami?
 Message	Origami	What is it?	¿De qué se trata?
 Message	Shido	"Have you heard any rumors... of some big
-experiment performed by AST?"	¿Has oído algún rumor... de algún gran experimento realizado por AST?
-Message	Origami	Why do you ask?	¿Por qué lo pregunta?
+experiment performed by AST?"	"¿Has oído algún rumor... de algún gran
+Experimento realizado por AST?"
+Message	Origami	Why do you ask?	¿Por qué lo preguntas?
 Message	Shido	"Well—! It's all confidential, of course, but
-I was just curious..."	¡Bueno! Todo es confidencial, por supuesto, pero tenía curiosidad...
+I was just curious..."	"¡Bueno! Todo es confidencial, por supuesto,
+Pero tenía curiosidad..."
 Message	Origami	Huh...?	¿Eh...?
 Message	Shido	Nothing! Forget I asked, okay?	¡Nada! Olvida que pregunté, ¿de acuerdo?
 Message	Origami	Yeah?	¿Sí?
 Message	Shido	"A-Anyways... I'm going home, okay? Glad we
-got to chat, Origami. Later!"	De todos modos... Me voy a casa, ¿de acuerdo? Me alegro de que hayamos charlado, Origami. ¡Hasta luego!
+got to chat, Origami. Later!"	"De todos modos... Me voy a casa, ¿de acuerdo?
+Me alegro de que hayamos charlado, Origami.
+¡Hasta luego!"
 Message	Origami	...	...

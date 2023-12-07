@@ -1,0 +1,208 @@
+Operator	Comment	Key	Translation
+Message		"(Kotori works day in and day out without a
+break as commander of the Fraxinus. It's such
+a big responsibility for someone her age.)"	"(Kotori trabaja día tras día sin descanso como
+comandante de la Fraxinus. Es una gran
+responsabilidad para alguien de su edad)."
+Message		(Kotori, what can I do for you? Hm...?)	(Kotori, ¿qué puedo hacer por ti? ¿Hm...?)
+Message	Kotori	...	...
+Message	Shido	Kotori...?	¿Kotori...?
+Message	Kotori	Shido...?	¿Shido...?
+Message	Shido	"What are you doing here...? You must be exhausted.
+Shouldn't you be resting at home?"	"¿Qué haces aquí...? Debes estar exhausta.
+¿No deberías estar descansando en casa?"
+Message	Kotori	"I-I just wanted to organize my thoughts, so
+I came outside. I'm fine... Totally fine."	"Sólo quería organizar mis pensamientos, así que salí.
+Estoy bien... Totalmente bien."
+Message	Shido	Yeah, but...	Sí, pero...
+Message	Kotori	"I said I'm fine! There's nothing for you to
+worry about. I..."	"¡He dicho que estoy bien!
+No hay nada de qué preocuparse. Yo…"
+Message	Shido	Kotori...?	¿Kotori...?
+Message	Kotori	...	...
+Message	Shido	Hey, Kotori...	Oye, Kotori...
+Choice		Isn't there something I can help you with?	¿No hay algo en lo que pueda ayudarte?
+Choice		I know it's tough, but hang in there.	Sé que es duro, pero aguanta.
+Choice		You seem busy.	Pareces ocupada.
+Message	Shido	"Isn't there something I could help you with?
+If I can do anything to alleviate your stress,
+I..."	"¿No hay algo en lo que pueda ayudarte?
+Si puedo hacer algo para aliviar tu estrés, yo..."
+Message	Kotori	No. Not a single thing.	No. Ni una sola cosa.
+Message	Shido	"What? Come on. I'm sure there's something
+I can do."	"¿Qué? Venga, vamos. Seguro
+que hay algo que pueda hacer."
+Message	Kotori	Nope.	No.
+Message	Shido	O-Oh...	O-Oh...
+Message	Kotori	I'm the only who's able to do what I can do.	Soy la única capaz de hacer lo que puedo hacer.
+Message	Kotori	"It's not something I can defer to someone,
+even you."	"No es algo que pueda delegar en alguien,
+ni siquiera en ti."
+Message	Kotori	"Shido, there is something you should be able
+to do. That is your role."	"Shido, hay algo que deberías poder hacer.
+Ese es tu papel."
+Message	Shido	...Right.	...Bien.
+Message	Kotori	But...	Pero...
+Message	Shido	Hm...?	¿Hm...?
+Message	Kotori	Could you give me the energy to keep going?	¿Podrías darme la energía para seguir adelante?
+Message	Shido	Yeah, sure. As much as energy as you want.	Sí, claro. Tanta energía como quieras.
+Message	Kotori	I knew you'd say that.	Sabía que dirías eso.
+Message	Kotori	"So for now, just a little, could you lend me
+a shoulder to lean on?"	"Así que por ahora, sólo un poco, ¿podrías
+prestarme un hombro en el que apoyarme?"
+Message	Shido	Kotori, I'll be right by your side.	Kotori, estaré a tu lado.
+Message	Kotori	Mm...	Mm...
+Message	Shido	"This is all I've got for now, but hang in there.
+I know it's tough."	"Esto es todo lo que tengo por ahora, pero aguanta.
+Sé que es duro."
+Message	Kotori	Yeah, I didn't need you to tell me that.	Sí, no necesitaba que me lo dijeras.
+Message	Shido	Oh. R-Right, huh?	Oh. C-Claro, ¿eh?
+Message	Kotori	"I'll do it. My duty, that is. For myself, and for
+everyone."	"Yo lo haré. Mi deber, eso es.
+Por mí, y por todos."
+Message	Shido	Okay, that's the Kotori I know.	Vale, esa es la Kotori que conozco.
+Message	Kotori	And for you too, Shido.	Y para ti también, Shido.
+Message	Shido	Hm?	¿Hm?
+Message	Kotori	Shido, you're always you.	Shido, siempre eres tú.
+Message	Shido	...Huh?	...¿Eh?
+Message	Kotori	"Nothing. Now, let's go home. We can't be here
+all day."	"Nada. Ahora, vamos a casa.
+No podemos estar aquí todo el día."
+Message	Shido	Okay...	Bueno...
+Message	Shido	You seem busy.	Pareces ocupado.
+Message	Kotori	Yup.	Sí.
+Message	Shido	"I'll do the best I can with what I've got to do,
+so hang in there too, okay?"	"Lo haré lo mejor que pueda con lo que tengo que
+hacer, así que aguanta también, ¿vale?"
+Message	Kotori	Okay, I'll do that.	Claro, lo haré.
+Message	Shido	"For now, I guess I have to decide whom to ask
+on a date."	"Por ahora, supongo que tengo que
+decidir a quién pedirle una cita."
+Message	Kotori	What do you mean by that?	¿Qué quiere decir con eso?
+Message	Shido	"Huh? Isn't that my job? You told me yourself.
+In order to stabilize the Spirits, I need to date
+everyone..."	"¿Eh? ¿No es ese mi trabajo? Tú mismo me lo dijiste.
+Para estabilizar a los Espíritus,
+necesito salir con todos..."
+Message	Kotori	"I KNOW THAT! But... do you have to say it in
+front of me?! That's what I'm asking!"	"¡LO SÉ! Pero... ¡¿tienes que decirlo delante de mí?!
+¡Eso es lo que estoy preguntando!"
+Message	Shido	Wh-What are you mad about?!	¡¿Por qué estás enfadada?!
+Message	Kotori	...You really don't know?	...¿de verdad no lo sabes?
+Message	Shido	"I don't get it! I'm doing exactly what you've
+told me to do!"	"¡No lo entiendo! ¡Estoy haciendo exactamente
+lo que me has dicho que haga!"
+Message	Kotori	"Y-You're right, huh? Haha... Hahaha... It was
+just me. I was the only one... who felt that way.
+To think that... you and I were... connected."	"Tienes razón, ¿verdad? Jaja... Jajaja... Fui yo.
+Yo fui la única... que sintió así. Pensar que…
+tú y yo estábamos... conectados."
+Message	Shido	...Kotori?	...¿Kotori?
+Message	Kotori	"Was I imagining things? Were you nicer to me
+than usual because you were trying to kiss up?
+This... This is so... cruel!"	"¿Me estaba imaginando cosas? ¿Fuiste más amable
+conmigo que de costumbre porque estabas tratando
+de besarme?  Esto... ¡Esto es tan... cruel!"
+Message	Shido	"H-Hey, Kotori! What's the matter?! Why are
+you acting so weird?!"	"¡H-Hey, Kotori! ¡¿Qué pasa?!
+¡¿Por qué estás actuando tan raro?!"
+Message	Kotori	Don't come near me! I... I...!	¡No te me acerques! I... ¡I...!
+Message	Shido	Wait! Wait...?! Kotori! Kotoriiiiii?!	¡Espera! ¡¿Espera...?! ¡Kotori! ¡¿Kotoriiiiii?!
+Message	Newscaster	"Vast wildfires are erupting throughout Tengu City,
+but the cause is still unknown. Neither the fire
+department nor the police can stop the flames."	"Vastos incendios forestales están estallando por toda
+Ciudad Tengu, pero aún se desconoce la causa.
+Ni los bomberos ni la policía pueden detener las llamas."
+Message		"(Was what I said to Kotori wrong? She was
+stable up until now, but she's suddenly gone
+rogue.)"	"(¿Fue lo que le dije a Kotori incorrecto? Estaba
+estable hasta ahora, pero de repente se
+ha vuelto incontrolable.)"
+Message		"(The entire town was burned to the ground, and
+its original splendor was lost.)"	"(Toda la ciudad fue pasto de las llamas
+y se perdió su esplendor original)."
+Message		"(Eventually, the spacequake engulfed all
+of Tengu City.)"	"(Finalmente, el terremoto espacial
+engulló toda Ciudad Tengu)."
+Message	Shido	"Kotori insists that she's fine, but she must
+be stressed to the bone right now."	"Kotori insiste en que está bien, pero debe
+de estar estresadísima en estos momentos."
+Message	Shido	I should cheer her up more.	Debería animarla más.
+Message	Shido	"Of course, I should date her too. I'm going to
+take her out to help her relax."	"Por supuesto, yo también debería salir con ella.
+Voy a salir con ella para que se relaje."
+Message	Shido	"Not just to prevent her from going rogue. I also
+want to be there for Kotori as much as I can."	"No sólo para evitar que se vuelva rebelde. También
+quiero estar ahí para Kotori tanto como pueda."
+Message	Shido	So, Kotori, let's go on a date tomorrow!	Entonces, Kotori, ¡tengamos una cita mañana!
+Message	Shido	...Go ahead?	...¿Esta bien?
+Message	Rinne	Sorry, I'm not Kotori-chan.	Lo siento, no soy Kotori-chan.
+Message	Shido	"...Rinne? Oh, it's fine, but... what's the
+matter?"	"...¿Rinne? Está bien, pero…
+¿qué pasa?"
+Message	Rinne	I wanted to ask you something, Shido.	Quería preguntarte algo, Shido.
+Message	Shido	Ask me something?	¿Preguntarme algo?
+Message	Rinne	"Yes, that's right. Shido... you've made up your
+mind, huh?"	"Sí, así es. Shido…
+te has decidido, ¿eh?"
+Message	Shido	What are you talking about?	¿De qué estás hablando?
+Message	Rinne	You said... you wanted to support Kotori-chan.	Dijiste... que querías apoyar a Kotori-chan.
+Message	Shido	"Yeah. I... don't want to see Kotori suffer the
+way she has. I want to see her smile."	"Sí. Yo... no quiero ver a Kotori sufrir
+como lo ha hecho. Quiero verla sonreír."
+Message	Rinne	I see. So that's what you've decided, huh?	Ya veo. Así que eso es lo que has decidido, ¿eh?
+Message	Shido	Yeah. That's what I've decided.	Sí. Eso es lo que he decidido.
+Message	Rinne	...	...
+Message	Shido	...	...
+Message	Rinne	Hey, Shido. Promise me something.	Eh, Shido. Prométeme algo.
+Message	Shido	Promise...? What for?	¿Prometer…? ¿Para qué?
+Message	Rinne	"That you'll take good care of Kotori from now
+on. No matter what happens, you won't let her
+go. Promise me."	"Que cuidarás bien de Kotori a partir de ahora.
+Pase lo que pase, no la dejarás marchar.
+Prométemelo."
+Message	Shido	"Wh-What's gotten into you? You don't need
+to tell me that..."	¿Qué te pasa? No necesitas decirme que...
+Message	Rinne	"Please, I want you to promise. Promise me
+that you will think only of Kotori-chan, or
+else your heart will drift away some day."	"Por favor, quiero que me lo prometas. Prométeme
+que sólo pensarás en Kotori-chan, o tu corazón
+se alejará algún día."
+Message	Shido	Rinne...	Rinne...
+Message	Rinne	Please...	Por favor...
+Message	Shido	"Okay, I promise. Man's word. I promise... to take
+good care of Kotori."	"De acuerdo, lo prometo. Palabra de hombre.
+Prometo... cuidar bien de Kotori."
+Message	Rinne	"Okay, I knew you'd make that promise with
+me."	"Bien, sabía que harías esa
+promesa conmigo."
+Message	Shido	Haha, seriously? What's gotten into you?	Jaja, ¿en serio? ¿Qué te pasa?
+Message	Rinne	"I have faith in you. I trust you, Shido. Don't
+forget your promise. Don't break it either, okay?"	"Tengo fe en ti. Confío en ti, Shido. No olvides
+tu promesa. Tampoco la rompas, ¿vale?"
+Message	Shido	Of course.	Por supuesto.
+Message	Rinne	If you break it, then you must pay.	Si lo rompes, debes pagar.
+Message	Shido	I-I know.	Lo sé.
+Message	Rinne	I see. As long as you understand.	Ya veo. Mientras lo entiendas.
+Message	Shido	"Wh-What's the big deal? Why are you threatening
+me?"	"¿Cuál es el problema?
+¿Por qué me amenazas?"
+Message	Rinne	Hehe... Sorry.	Jeje... Lo siento.
+Message	Rinne	But...	Pero...
+Message	Shido	...?	...?
+Message	Rinne	"You'll be fine, right? I'm sure if it's Shido,
+he'll be fine."	"Estarás bien, ¿verdad? Estoy seguro de
+que si es Shido, estará bien."
+Message	Shido	...	...
+Message	Shido	Wh-What was that just now?!	¿Qué ha sido eso?
+Message	Shido	Hey, Rinne... Did you just see―	Oye, Rinne... ¿Acabas de ver...?
+Message	Shido	"Huh? Rinne's gone?
+When did she...?"	¿Eh? ¿Rinne se ha ido?  ¿Cuándo...?
+Message	Shido	"Well, it is pretty late...
+I should head to bed as well."	"Bueno, es bastante tarde... 
+Yo también debería irme a la cama."
+Message	???	"...In this dream... no one can become happy...
+Shido Itsuka... I hope your next dream will be
+a happy one..."	"...En este sueño... nadie puede llegar a ser feliz... 
+Shido Itsuka... Espero que tu próximo
+sueño sea feliz..."

@@ -1,0 +1,20 @@
+Operator	Comment	Key	Translation
+Message		"(Phew. Still seems pretty early. That monument
+Kotori mentioned... I'm curious.)"	"(Uf. Todavía parece bastante pronto. Ese monumento
+que mencionó Kotori... Tengo curiosidad)."
+Message		"(Phew. Still seems pretty early. That monument
+Kotori mentioned... I'm curious.)"	"(Uf. Todavía parece bastante pronto. Ese monumento
+que mencionó Kotori... Tengo curiosidad)."
+Message		(It's a little far, but maybe I could drop by.)	(Está un poco lejos, pero quizá pueda pasarme).
+Message		"(Or so Kotori says, but that doesn't pique
+my curiosity.)"	"(O eso dice Kotori, pero eso
+no despierta mi curiosidad)."
+Message		(HMM! I feel like I can't let it go!)	(¡HMM! ¡Siento que no puedo dejarlo pasar!)
+Message		"(Maybe I should check on it again and
+investigate.)"	(Quizá debería volver a comprobarlo e investigar).
+Choice		Take Tohka.	Llévate a Tohka.
+Choice		Take Yoshino.	Llévate a Yoshino.
+Choice		Go with Kotori.	Ve con Kotori.
+Choice		Go with Origami.	Ve con Origami.
+Choice		Go alone.	Ve solo.
+Choice		Take Tohka.	Llévate a Tohka.

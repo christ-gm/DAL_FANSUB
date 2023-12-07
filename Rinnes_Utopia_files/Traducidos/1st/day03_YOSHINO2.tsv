@@ -1,0 +1,127 @@
+Operator	Comment	Key	Translation
+Message	Shido	Huh? Yoshino?	¿Eh? ¿Yoshino?
+Message	Yoshino	Shido-san...	Shido-san...
+Message	Shido	"You're watching TV?
+Huh, that's unusual."	"¿Estás viendo la tele?
+Huh, eso es inusual."
+Message	Yoshino	"I thought I should... study this world properly...
+So I borrowed... a video... from Kotori-san..."	"Pensé que debería... estudiar este mundo
+apropiadamente...  Así que tomé prestado…
+un video... de Kotori-san..."
+Message	Yoshino	"Huh, that's admirable, Yoshino. It's a good thing
+to want to improve yourself. So, what show
+are you watching?"	"Eso es admirable, Yoshino.
+Es bueno querer mejorar.
+Entonces, ¿qué programa estás viendo?"
+Message	Video	Goodness... you're ridiculous, big brother...	Dios mío... eres ridículo, hermano mayor...
+Message	Shido	Wha—?!	¡¿Qué...?!
+Message	Video	B-But... if you really want me to,\nbig brother, then...	"Pero... si realmente quieres que lo haga,
+hermano mayor, entonces..."
+Message	Shido	"Whoa! Wait, wait!!
+Isn't this bad?!"	"¡Whoa! ¡¡Espera, espera!!
+¡¿No es esto malo?!"
+Message	Yoshino	I-Is it...?	¿Lo es...?
+Message	Shido	Ah, er... Well, you see...	Ah, er... Bueno, verás...
+Message	Yoshinon	Hoo-whee～ It was just about to get good.\nYou won't stop us just before, right Shido-kun?	"Hoo-whee～ Estaba a punto de ponerse bueno.
+No nos detendrás justo antes, ¿verdad Shido-kun?"
+Message	Shido	"No, no, I'm stopping it.
+Sorry, but wait just a moment!"	"No, no, lo estoy parando.
+¡Lo siento, pero espere un momento!"
+Message	Kotori	What's with all the yelling?	¿A qué vienen esos gritos?
+Message	Shido	"K-Kotori, you... This video isn't good at all for
+young minds!"	"K-Kotori, tú... ¡Este vídeo no es nada
+bueno para las mentes jóvenes!"
+Message	Kotori	It's easier to watch if it's anime, right? For\nfast and potent learning about love and romance,\nthere's no deeper teacher, wouldn't you say?	"Es más fácil de ver si es anime, ¿verdad? Para un
+aprendizaje rápido y potente sobre el amor y el
+romance, no hay maestro más profundo, ¿no te parece?"
+Message	Shido	"This is too deep! Don't you have
+anything more normal?"	"¡Esto es demasiado profundo!
+¿No tienes nada más normal?"
+Message	Kotori	You're kidding, right? You like it,\ndon't you Shido?	Bromeas, ¿verdad? Te gusta, ¿verdad Shido?
+Message	Shido	"Well, it's not like I don't... No, that's not
+important! Either way, I think it's way
+too extreme a sample..."	"Bueno, no es que yo no... ¡No, eso no es importante!
+De cualquier manera, creo que es una muestra
+demasiado extrema..."
+Message	Kotori	But Yoshino has to live normally in this world,\nso don't you think she has a need to understand\nthese sorts of things as well?	"Pero Yoshino tiene que vivir normalmente en
+este mundo, así que ¿no crees que también
+necesita entender este tipo de cosas?"
+Message	Shido	No, wait. That reasoning's all weird.	No, espera. Ese razonamiento es raro.
+Message	Kotori	What? Well, it's not like I want to force it,\nso do whatever you want, Shido.	"¿Qué? Bueno, no es que quiera forzarlo,
+así que haz lo que quieras, Shido."
+Message	Shido	Rrrrgh... I-I...	Rrrrgh... Yo-Yo…
+Choice		Allow her to watch.	Permítele mirar.
+Choice		Take the video away.	Llévate el vídeo.
+Message	Shido	"...It seems like she's curious about what happens
+next, so this time I'll let it go."	"...Parece que tiene curiosidad por saber qué
+pasará después, así que esta vez lo dejaré pasar."
+Message	Shido	"Yoshino, if we see something not good, I'm
+going to stop it, all right?"	"Yoshino, si vemos algo que no es bueno,
+voy a detenerlo, ¿de acuerdo?"
+Message	Yoshino	Okay. I'll leave it... to you, Shido-san.	Vale. Te lo dejo... a ti, Shido-san.
+Message	Yoshinon	Goodness～! You like this too, huh Shido-kun?	¡Dios mío! A ti también te gusta esto, ¿eh Shido-kun?
+Message	Shido	...All right, bring it on!	...¡Muy bien, adelante!
+Message	Video	Big brother... Are you cold?\nIs it okay if I scooch closer...?	"Hermano mayor... ¿Tienes frío?
+¿Está bien si me acerco...?"
+Message	Yoshino	......	......
+Message	Video	Um... big brother?\nIs it okay... if we get in the bath together...?	"Um... ¿hermano mayor?
+¿Está bien... si nos bañamos juntos...?"
+Message	Yoshino	......!	¡......!
+Message	Video	Big brother... I'm scared all alone...\nIs it okay, if I get in bed with you...?	"Hermano mayor... Tengo miedo de estar sola…
+¿Está bien si me meto en la cama contigo...?"
+Message	Yoshino	......!	¡......!
+Message		"(The dialogue from earlier made me imagine some
+sort of forbidden love... but it was surprisingly
+tame.)"	"(El diálogo de antes me hizo imaginar
+algún tipo de amor prohibido... pero fue
+sorprendentemente insulso)."
+Message	Shido	"It's over... Well, it was pretty interesting for
+a romance movie."	"Se acabó... Bueno, fue bastante interesante
+para ser una película romántica."
+Message	Yoshino	U-Um... Shido-san...	U-Um... Shido-san...
+Message	Shido	Hm? What's wrong?	¿Qué? ¿Qué es lo que pasa?
+Message	Yoshino	"U-Umm... Did Kotori-san... also,
+do these sort of... um..."	"U-Umm... Kotori-san... también,
+hizo este tipo de... um..."
+Message	Shido	"Ohh... Well, in the past I guess there were some
+similarities... She would always cling to
+me and stuff."	"Ohh... Bueno, en el pasado supongo que
+había algunas similitudes... Ella siempre
+se aferraba a mí y esas cosas."
+Message	Yoshino	I-I see...	Ya veo...
+Message	Shido	"Now, she's totally different, so it doesn't happen
+anymore."	Ahora es totalmente diferente, así que ya no me pasa.
+Message	Yoshino	I... see...	Ya… veo...
+Message	Shido	Hmm... what's wrong?	Hmm... ¿qué pasa?
+Message	Yoshino	......	......
+Message	Yoshinon	Ahh, too bad, Shido-kun! It really was a little\nbit too strong of a shock for Yoshino, it seems!	"¡Ahh, qué pena, Shido-kun! ¡Parece que
+fue un shock demasiado fuerte para Yoshino!"
+Message	Shido	Oh, Yoshino...	Oh, Yoshino...
+Message	Shido	"N-No, it's not good!
+This is too early for you, Yoshino!!"	"¡No, no es bueno!  ¡¡Es demasiado
+pronto para ti, Yoshino!!"
+Message	Yoshino	Oh...	Oh...
+Message	Yoshinon	Aaaah, it was just about to get good!\nYou're such a meanie, Shido-kun!	"¡Aaaah, estaba a punto de ponerse bueno!
+¡Eres tan malo, Shido-kun!"
+Message	Shido	"N-No matter what you say, what's bad is bad! This
+sort of show is like, you know... Something you
+watch after you learn adult common sense and..."	"N-No importa lo que digas, ¡lo que es malo es malo!
+Este tipo de programa es como, ya sabes... Algo que
+ves después de aprender sentido común adulto y..."
+Message	Kotori	...You all right there, Shido?\nAre you confusing yourself?	...¿Estás bien ahí, Shido? ¿Te estás confundiendo?
+Message	Shido	Sh-Shut up...	Ca-Cállate...
+Message	Shido	"Either way... Yoshino, you don't have to rush
+into becoming an adult. I'll be watching over
+you, so..."	"De cualquier manera... Yoshino, no tienes que
+apresurarte en convertirte en adulto.
+Estaré cuidándote, así que..."
+Message	Yoshino	Shido-san...	Shido-san...
+Message	Yoshinon	*Whistle* Not bad, Shido-kun. How manly!	*Silbar* No está mal, Shido-kun. ¡Qué varonil!
+Message	Shido	"For now, I'll return this video to Kotori.
+Don't get fooled by bad senpais, all right...?"	"Por ahora, le devolveré este video a Kotori. 
+No te dejes engañar por los malos senpais,
+¿de acuerdo...?"
+Message	Yoshino	...Okay.	...de acuerdo.
+Message	Kotori	Who's a bad senpai? Don't forget\nthis moment so easily.	"¿Quién es un mal senpai? No te olvides
+de este momento tan fácilmente."
+Message	Shido	Wait, Kotori?! Ah, now I've done it.	Espera, ¡¿Kotori?! Ah, ahora lo he hecho.

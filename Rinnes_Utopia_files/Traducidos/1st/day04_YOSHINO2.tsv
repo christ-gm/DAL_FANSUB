@@ -1,0 +1,112 @@
+Operator	Comment	Key	Translation
+Message	Shido	Huh?	¿Eh?
+Message	Shido	Yoshino?	¿Yoshino?
+Message	Yoshino	Shido-san...?	¿Shido-san...?
+Message	Shido	"What are you doing in a place like this?
+You're not gonna go inside?"	¿Qué haces en un sitio así? ¿No vas a entrar?
+Message	Yoshino	I was... looking at the sky...	Estaba... mirando al cielo...
+Message	Shido	The sky...?	¿El cielo...?
+Message	Yoshino	Yes... it's... very pretty...	Sí... es... muy bonito...
+Message	Shido	"Oh, it's already evening. The sunset's peeking
+through the clouds... It is pretty."	"Oh, ya es de noche. La puesta de sol se
+asoma entre las nubes... Es bonito."
+Message	Yoshino	...Yes.	...Sí.
+Message		"(Huh... For Yoshino to look pensively at the
+sunset like this... She's quite the romantic.)"	"(Huh... Que Yoshino mire pensativa la puesta
+de sol así... Es toda una romántica.)"
+Message		"(I feel like it's been ages since I've looked
+quietly at the sunset...)"	"(Siento que hace siglos que no miro
+tranquilamente la puesta de sol...)"
+Message	Reine	Shin, can you hear me?	Shin, ¿puedes oírme?
+Message	Shido	"Reine-san?
+Yes, I can hear you clearly."	"¿Reine-san?
+Sí, puedo oírte claramente."
+Message	Reine	Are you with Yoshino at the moment?	¿Estás con Yoshino en este momento?
+Message	Shido	Yes, I am... What's wrong?	Sí, estoy... ¿Qué te pasa?
+Message	Reine	I apologize as it's the usual. I had lost track\nof Yoshino's position...	"Pido disculpas porque es lo de siempre.
+Había perdido la pista de la posición de Yoshino..."
+Message	Reine	Her mental status appeared stable, so I thought\nshe must be near you.	"Su estado mental parecía estable, así que
+pensé que debía estar cerca de ti."
+Message	Shido	"Well, I am with her, but I just met up with her
+a second ago."	"Bueno, estoy con ella, pero acabo de
+encontrarme con ella hace un segundo."
+Message	Reine	Hmm... That's intriguing. Seeing such\nrelaxed numbers without anyone with her...\nWhat was Yoshino doing?	"Hmm... Eso es intrigante. Ver números tan relajados
+sin nadie con ella... ¿Qué estaba haciendo Yoshino?"
+Message	Shido	She was looking at the sunset, apparently...	Estaba mirando la puesta de sol, aparentemente...
+Message	Reine	The sunset?	¿La puesta de sol?
+Message	Shido	Yeah. She was saying the sky was pretty...	Sí. Decía que el cielo estaba bonito...
+Message	Reine	I see. How interesting...	Ya veo. Qué interesante...
+Message	Reine	Shin, if you could, would you stay near Yoshino\nand observe her?	"Shin, si pudieras, ¿te quedarías cerca de
+Yoshino para observarla?"
+Message	Shido	"Huh? I didn't want it to get too late, so I was
+planning on taking her back home..."	"¿Eh? No quería que se hiciera demasiado tarde,
+así que pensaba llevarla de vuelta a casa..."
+Message	Reine	I'm curious about something. I believe it would\nyield interesting results about the movement of\na Spirit's psychological state... Or so I feel.	"Tengo curiosidad por algo. Creo que podría dar resultados
+interesantes sobre el estado psicológico de un Espíritu…
+O al menos eso siento."
+Message	Shido	Oh then, I guess I should...	Oh, entonces, supongo que debería...
+Choice		Watch the sunset.	Ver la puesta de sol.
+Choice		Take her home.	Llévala a casa.
+Message	Shido	"I understand. I'll treat the two of us to a sunset
+date a little while longer."	"Comprendo. Nos invitaré a los dos a una
+cita al atardecer un poco más."
+Message	Reine	I'm counting on you, Shin.	Cuento contigo, Shin.
+Message	Yoshino	Is something... wrong...?	¿Algo... va mal...?
+Message	Shido	Oh, no... I thought I'd watch with you, too...	Oh, no... Pensé en mirar contigo también...
+Message	Yoshino	Really...?	¿De verdad...?
+Message	Shido	Yeah... I'll try not to get in your way.	Sí... Intentaré no interponerme en tu camino.
+Message	Yoshino	"Y-You're not... in the way, at all...
+I'd be... happy, if you could... watch with me..."	"No estás... en el camino, para nada…
+Estaría... feliz, si pudieras... mirar conmigo..."
+Message	Shido	"I-I see... Then, since we're here...
+Do you want to move to a place with a better view?"	"Ya veo... Entonces, ya que estamos aquí…
+¿Quieres mudarte a un lugar con una mejor vista?"
+Message	Shido	There's a place where you can see more of the sky.	Hay un lugar donde se puede ver más del cielo.
+Message	Yoshino	...?	...?
+Message		"(Getting on top of the roof makes me feel like I'm
+a child again. It's so nostalgic...)"	"(Subir al tejado me hace sentir como si
+volviera a ser un niño. Es tan nostálgico...)"
+Message	Yoshino	......	......
+Message	Shido	......	......
+Message	Shido	How pretty, Yoshino.	Qué bonito, Yoshino.
+Message	Yoshino	...Huh?!	...¡¿Eh?!
+Message	Shido	Hm?	¿Hm?
+Message	Yoshinon	Shido-kun, casual seduction is prohibited～!	Shido-kun, ¡la seducción casual está prohibida～!
+Message	Shido	"Oh, I didn't mean it like that.
+I was just saying the sunset is really pretty."	"No quise decir eso.  Sólo decía que
+la puesta de sol es muy bonita."
+Message	Yoshinon	Ohh, you were talking about the sunset. Too bad,\nhuh, Yoshino～?	"Ohh, estabas hablando de la puesta de sol.
+Qué lástima, ¿Verdad, Yoshino～?"
+Message	Yoshino	"No... I'm glad that Shido-san and I...
+feel the same way!"	"No... me alegro de que Shido-san y yo…
+¡sintamos lo mismo!"
+Message	Shido	"If you hadn't told me, Yoshino, I would have
+missed out on such an amazing view.
+Thanks, Yoshino."	"Si no me lo hubieras dicho, Yoshino, me habría
+perdido una vista tan increíble.
+Gracias, Yoshino."
+Message	Yoshino	...Yes!	...¡Sí!
+Message	Shido	"Yoshino, we can't stay in a place like this
+forever, we'd better head back home."	"Yoshino, no podemos quedarnos en un lugar como
+este para siempre, será mejor que volvamos a casa."
+Message	Yoshino	Huh...? U-Umm...	¿Eh...? U-Umm...
+Message	Shido	"You can watch the sunset tomorrow, too.
+You'll catch a cold if you stay out too late."	"Mañana también puedes ver la puesta de sol.
+Te resfriarás si te quedas hasta muy tarde."
+Message	Yoshino	U-Um... a little... a little, longer, please...	U-Um... un poco... un poco, más, por favor...
+Message	Shido	D-Don't cry Yoshino! Just a little longer is fine.	¡No llores Yoshino! Sólo un poco más está bien.
+Message	Reine	Shin, that was a mistake. Yoshino's psychological\nstatus is about to become unstable.	"Shin, eso fue un error. El estado psicológico de
+Yoshino está a punto de volverse inestable."
+Message	Shido	Wha... That wasn't what I meant to...	Que... Eso no era lo que quería decir...
+Message	Yoshino	Can I watch... a little bit, longer?	¿Puedo mirar... un poco más?
+Message	Shido	"Y-Yeah... You can watch as long as you'd like.
+But you have to come back home before it gets
+dark, okay?"	"S-Sí... Puedes mirar todo el tiempo que quieras.
+Pero tienes que volver a casa antes de que
+oscurezca, ¿vale?"
+Message	Yoshino	Yes...	Sí...
+Message	Shido	Whew, I panicked a bit...	Uf, me asusté un poco...
+Message	Reine	Shin, you have to be a more careful.\nThe accumulation of even small missteps\ncan lead to them losing control.	"Shin, tienes que ser más cuidadoso. La acumulación de 
+incluso pequeños pasos en falso puede llevarlas
+a perder el control."
+Message	Shido	Yes... I'll be careful from now on...	Sí... Tendré cuidado a partir de ahora...
