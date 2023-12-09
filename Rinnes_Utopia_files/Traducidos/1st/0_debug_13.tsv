@@ -1,96 +1,126 @@
 Operator	Comment	Key	Translation
 Message		"(We escaped from the collapsing Neo Tengu Tower, and when we
-came to, we were at Takadai Park.)"	(Escapamos del derrumbe de la Torre Neo Tengu y, cuando volvimos en sí, estábamos en el Parque Takadai).
+came to, we were at Takadai Park.)"	"(Escapamos del derrumbe de la Torre Neo Tengu y, cuando volvimos
+en sí, estábamos en el Parque Takadai)."
 Message		"(Tohka and the others were recovered by the Fraxinus, most likely
 for an examination. Kurumi disappeared, and Origami returned to
-AST's base.)"	(Tohka y los demás fueron recuperados por los Fraxinus, probablemente para examinarlos. Kurumi desapareció y Origami regresó a la base de AST).
+AST's base.)"	"(Tohka y los demás fueron sanados por el Fraxinus, probablemente para
+un examen. Kurumi desapareció, y Origami regresó a la base de AST)."
 Message		(And so... I was left alone, crushed by despair.)	(Y así... me quedé solo, aplastado por la desesperación).
 Message		"(That's right. In the end, Rinne had disappeared.
 The ending I believed in never came. There was no easy way out, no
-happy ending.)"	(Así es. Al final, Rinne había desaparecido. El final en el que creía nunca llegó. No había salida fácil, no había final feliz).
+happy ending.)"	"(Así es. Al final, Rinne había desaparecido. El final en el que creía
+nunca llegó. No había salida fácil, no había final feliz)."
 Message		"(In the end, I didn't understand anything.
 Why she had created a barrier.
-And why she had tried to kill me.)"	(Al final, no entendí nada. Por qué había creado una barrera. Y por qué había intentado matarme).
+And why she had tried to kill me.)"	"(Al final, no entendí nada. Por qué había creado una barrera. Y por qué
+había intentado matarme)."
 Message		(It all ended, everything left in mystery.)	(Todo terminó, todo quedó en misterio).
 Message	Reine	...Are you alright, Shin?	...¿Estás bien, Shin?
 Message	Shido	No, it's still getting to me.	No, sigue afectándome.
 Message	Reine	"Hm, I see. Then, perhaps I should find another time to discuss
-today's occurrence with you?"	Ya veo. Entonces, ¿quizás debería encontrar otro momento para discutir el suceso de hoy contigo?
+today's occurrence with you?"	"Ya veo. Entonces, ¿quizás debería encontrar otro momento para
+discutir el suceso de hoy contigo?"
 Message	Shido	...Have you learned something?!	...¡¿Has aprendido algo?!
 Message	Reine	"That's right. Just now, when control of the barrier left Ruler's
-hands... we were finally able to analyze the barrier."	Así es. Justo ahora, cuando el control de la barrera dejó las manos de Ruler... finalmente pudimos analizar la barrera.
+hands... we were finally able to analyze the barrier."	"Así es. Justo ahora, cuando el control de la barrera dejó las manos de
+Ruler... finalmente pudimos analizar la barrera."
 Message	Shido	"R-Really?! Please tell me!
 What on earth was that barrier?!"	¡¿En serio?! ¡Por favor, dímelo! ¡¿Qué demonios era esa barrera?!
 Message	Reine	......	......
-Message	Shido	Reine-san!	¡Reina-san!
+Message	Shido	Reine-san!	¡Reine-san!
 Message	Reine	"This may not necessarily be the best news for you. Even so, do you
-wish to know?"	Esto puede no ser necesariamente la mejor noticia para usted. Aun así, ¿desea saberlo?
+wish to know?"	"Esto puede no ser necesariamente la mejor noticia para usted.
+Aun así, ¿deseas saberlo?"
 Message	Shido	...!	¡...!
 Message		"(For a moment, I flinch at Reine's intimidating words. But it's
 inevitable. If I can find out what Rinne was thinking, or even get
-closer to her...)"	(Por un momento, me estremezco ante las intimidantes palabras de Reine. Pero es inevitable. Si consigo averiguar qué pensaba Rinne, o incluso acercarme a ella...).
+closer to her...)"	"(Por un momento, me estremezco ante las intimidantes palabras de
+Reine. Pero es inevitable. Si consigo averiguar qué pensaba Rinne,
+o incluso acercarme a ella...)."
 Message	Shido	Please, go ahead.	Por favor, adelante.
 Message	Reine	Mm. If you're prepared, then I will respect your wishes.	Mm. Si estás preparado, entonces respetaré tus deseos.
 Message	Reine	"Firstly, I will tell you that Ruler was an existence similar yet
-different to a Spirit."	En primer lugar, te diré que Ruler era una existencia similar pero diferente a un Espíritu.
+different to a Spirit."	"En primer lugar, te diré que Ruler era una existencia similar pero
+diferente a un Espíritu."
 Message	Shido	She wasn't... a Spirit?	Ella no era... ¿un Espíritu?
 Message	Reine	"No. However, I cannot say definitively that she is an altogether
-different entity."	No. Sin embargo, no puedo decir definitivamente que sea una entidad totalmente diferente.
+different entity."	"No. Sin embargo, no puedo decir definitivamente que sea una entidad
+totalmente diferente."
 Message	Reine	"We won't know the details until we investigate further, but...
 signs point to her being the remnants of a powerful, spiritual
-energy."	No conoceremos los detalles hasta que investiguemos más a fondo, pero... los indicios apuntan a que es el remanente de una poderosa energía espiritual.
+energy."	"No conoceremos los detalles hasta que investiguemos más a fondo,
+pero... los indicios apuntan a que es el remanente de una poderosa
+energía espiritual."
 Message	Shido	What does that mean...?	¿Qué significa...?
 Message	Reine	"It may be easier to understand if I said that she has no vessel.
 Normally when Spirits are sealed, the vessel remains. Ruler,
-however..."	Sería más fácil de entender si dijera que no tiene recipiente. Normalmente cuando los Espíritus son sellados, el recipiente permanece. Ruler, sin embargo...
+however..."	"Sería más fácil de entender si dijera que no tiene recipiente.
+Normalmente cuando los Espíritus son sellados, el recipiente
+permanece. Ruler, sin embargo..."
 Message	Shido	...would disappear, without a body.	...desaparecería, sin cuerpo.
 Message	Reine	Correct. It is unfortunate...	Correcto. Es lamentable...
 Message	Shido	No, it's fine. Please continue. What about the barrier?	No, está bien. Continúe, por favor. ¿Qué pasa con la barrera?
 Message		"(If I heard too much, I'd end up remembering what just happened,
-and it'd be too painful. I returned to the original topic.)"	(Si escuchaba demasiado, acabaría recordando lo que acababa de pasar, y sería demasiado doloroso. Volví al tema original).
+and it'd be too painful. I returned to the original topic.)"	"(Si escuchaba demasiado, acabaría recordando lo que acababa de pasar,
+y sería demasiado doloroso. Volví al tema original)."
 Message	Reine	"From our conclusions, the barrier covering all of Tengu City,
 Eden, aside from keeping all of us trapped, had another special
-power."	Según nuestras conclusiones, la barrera que cubría toda Ciudad Tengu, Edén, además de mantenernos a todos atrapados, tenía otro poder especial.
+power."	"Según nuestras conclusiones, la barrera que cubría toda
+Ciudad Tengu, Edén, además de mantenernos a todos
+atrapados, tenía otro poder especial."
 Message	Shido	A special... power. Like everyone's Angels...?	Un poder... especial. ¿Como los Ángeles de todos...?
 Message	Reine	"Yes, something close to that. Although...
 On a completely different scale."	Sí, algo parecido. Aunque... En una escala completamente diferente.
 Message	Shido	Exactly what kind of power is in this barrier...?	¿Exactamente qué tipo de poder hay en esta barrera...?
 Message	Reine	Mm. Eden's power... is...	Mm. El poder de Eden... es...
 Message	Reine	...the power to redo the world.	...el poder de rehacer el mundo.
-Message	Shido	R-Redo the world...?	R-Redo el mundo...?
+Message	Shido	R-Redo the world...?	R-Rehacer el mundo...?
 Message		(What does that mean? It's a little heavy, tough to grasp...)	(¿Qué significa eso? Es un poco pesado, difícil de entender...)
 Message	Reine	"It's as I said. Existing within the barrier is a power to restart
 the world as many times as needed until a desired outcome is
-obtained."	Es como he dicho. Dentro de la barrera existe un poder para reiniciar el mundo tantas veces como sea necesario hasta obtener el resultado deseado.
+obtained."	"Es como he dicho. Dentro de la barrera existe un poder para reiniciar
+el mundo tantas veces como sea necesario para obtener el resultado
+deseado."
 Message	Reine	"That is Eden's power. You have fragments of memories yourself,
-don't you?"	Ese es el poder de Edén. Tú también tienes fragmentos de recuerdos, ¿verdad?
+don't you?"	"Ese es el poder de Edén. Tú también tienes fragmentos de recuerdos,
+¿verdad?"
 Message	Shido	Ah...	Ah...
 Message		(Once she told me, I realized.)	(Cuando me lo dijo, me di cuenta).
 Message		(I... No. Not just me. Everyone else had definitely remembered.)	(Yo... No. No sólo yo. Todos los demás se habían acordado, sin duda).
 Message	Shido	"I... remember. It's vague though. Memories spent with Tohka and
 Origami... are there.
-Could it be? Are they...?!"	Yo... recuerdo. Aunque es vago. Recuerdos pasados con Tohka y Origami... están ahí. ¿Podría ser? ¡¿Son...?!
+Could it be? Are they...?!"	"Yo... recuerdo. Aunque es vago. Recuerdos pasados con Tohka y
+Origami... están ahí. ¿Podría ser? ¡¿Son...?!"
 Message	Reine	"Yes. They most likely happened. Possibilities you chose, inside of
 Eden's iterations. Endings that could have been, born of the world
-repeating."	Sí. Lo más probable es que hayan ocurrido. Posibilidades que elegiste, dentro de las iteraciones del Edén. Finales que podrían haber sido, nacidos de la repetición del mundo.
+repeating."	"Sí. Lo más probable es que hayan ocurrido. Posibilidades que elegiste,
+dentro de las iteraciones del Edén. Finales que podrían haber sido,
+nacidos de la repetición del mundo."
 Message	Shido	...?!	¡...?!
 Message		"(All of that. Are you telling me it actually happened? The
 memories feel too vivid to be dreams or delusions. They definitely
-exist.)"	(Todo eso. ¿Me estás diciendo que ocurrió de verdad? Los recuerdos son demasiado vívidos para ser sueños o delirios. Definitivamente existen).
+exist.)"	"(Todo eso. ¿Me estás diciendo que ocurrió de verdad?
+Los recuerdos son demasiado vívidos para ser sueños
+o delirios. Definitivamente existen)."
 Message		"(But... there's still one thing that I don't know. I understand
-that the barrier holds unbelievable power, but...)"	(Pero... todavía hay una cosa que no sé. Entiendo que la barrera tiene un poder increíble, pero...)
-Message	Shido	Ruler... Rinne, what was her reason for creating the barrier?	Gobernante... Rinne, ¿cuál fue su razón para crear la barrera?
+that the barrier holds unbelievable power, but...)"	"(Pero... todavía hay una cosa que no sé. Entiendo que la barrera tiene
+un poder increíble, pero...)"
+Message	Shido	Ruler... Rinne, what was her reason for creating the barrier?	Ruler... Rinne, ¿cuál fue su razón para crear la barrera?
 Message	Reine	That is...	Es decir...
 Message	Reine	"From here on, I am offering only suppositions.
-Please understand that this answer is not an absolute truth."	A partir de aquí, sólo ofrezco suposiciones. Por favor, comprenda que esta respuesta no es una verdad absoluta.
+Please understand that this answer is not an absolute truth."	"A partir de aquí, sólo ofrezco suposiciones. Por favor, comprenda que
+esta respuesta no es una verdad absoluta."
 Message	Shido	R...Right.	Correcto.
 Message	Reine	Restarting the world, with a caveat.	Reiniciar el mundo, con una advertencia.
 Message	Shido	A caveat? What was it?	¿Una advertencia? ¿Qué era?
 Message	Reine	"The current version of the world suddenly ends and reverts to its
 original state. Several patterns emerged, but we found one
-absolute condition."	La versión actual del mundo termina de repente y vuelve a su estado original. Surgieron varios patrones, pero encontramos una condición absoluta.
-Message	Reine	"In short, when a certain something"" occurs, the world rewinds to"	"En resumen, cuando ocurre un ""cierto algo"", el mundo retrocede a"
-Message	Shido	"A... certain something? What is that...? its original state."""	"¿Un... cierto algo? ¿Qué es eso...? Su estado original""."
+absolute condition."	"La versión actual del mundo termina de repente y vuelve a su estado
+original. Surgieron varios patrones, pero encontramos una condición
+absoluta."
+Message	Reine	"In short, when a certain something"" occurs, the world rewinds to"	"En resumen, cuando ocurre ""algo en particular"", el mundo retrocede a"
+Message	Shido	"A... certain something? What is that...? its original state."""	Un... ¿algo particular? ¿Qué es eso...? su estado original.
 Message		(Why is... my heart pounding so fast?)	(¿Por qué... mi corazón late tan rápido?)
 Message	Reine	Yes. The condition to restart the world... is...	Sí. La condición para reiniciar el mundo... es...
 Message	Reine	Shin. It would be... your death.	Shin. Sería... tu muerte.
@@ -101,23 +131,30 @@ After all, I...)"	(No entiendo. ¿Qué está diciendo Reine-san? Después de tod
 Message	Shido	Oh...	Oh...
 Message		"(That's right. That time, and that time, and the other times...
 Having lost Kotori's healing power, there were a few times I ended
-up... dead.)"	(Así es. Esa vez, y esa vez, y las otras veces... Habiendo perdido el poder curativo de Kotori, hubo unas cuantas veces que acabé... muerto).
+up... dead.)"	"(Así es. Esa vez, y esa vez, y las otras veces... Habiendo perdido
+el poder curativo de Kotori, hubo unas cuantas veces que acabé...
+muerto)."
 Message		"(I... had been redoing it, over and over again.
-Almost like repeatedly saving and loading, over, and over!)"	(Yo... había estado rehaciéndolo, una y otra vez. Casi como guardar y cargar repetidamente, ¡una y otra vez!)
+Almost like repeatedly saving and loading, over, and over!)"	"(Yo... había estado rehaciéndolo, una y otra vez. Casi como guardar
+y cargar repetidamente, ¡una y otra vez!)"
 Message	Shido	When I died, the world would... start over?	Cuando muriera, el mundo... ¿volvería a empezar?
 Message	Reine	"Yes. The moment you died, the world would return to the day the
-barrier was created. Shin, you were the key to this world."	Sí. En el momento en que murieras, el mundo volvería al día en que se creó la barrera. Shin, tú eras la llave de este mundo.
+barrier was created. Shin, you were the key to this world."	"Sí. En el momento en que murieras, el mundo volvería al día en que
+se creó la barrera. Shin, tú eras la llave de este mundo."
 Message	Shido	"P...Please wait a second! Me, the key... why the heck would that
-be?!"	P... ¡Por favor, espere un segundo! Yo, la llave... ¡¿Por qué demonios sería eso?!
+be?!"	"P... ¡Por favor, espere un segundo! Yo, la llave... ¡¿Por qué demonios
+sería eso?!"
 Message	Shido	"First of all, Ruler—er, Rinne tried to kill me, didn't she?
 Because of that, I lost the spiritual energy sealed inside of
-me—"	En primer lugar, Ruler-er, Rinne intentó matarme, ¿verdad? Debido a eso, perdí la energía espiritual sellada dentro de mí-
+me—"	"En primer lugar, Ruler-er, Rinne intentó matarme, ¿verdad? Debido a
+eso, perdí la energía espiritual sellada dentro de mí-"
 Message	Reine	Incorrect. The premise was... incorrect, from the beginning.	Incorrecta. La premisa era... incorrecta, desde el principio.
 Message	Shido	Incorrect? What... do you mean?	¿Incorrecto? ¿Qué... quieres decir?
 Message	Reine	...Shin, do you remember Tohka losing control a while ago?	...Shin, ¿recuerdas que Tohka perdió el control hace un rato?
 Message	Shido	Tohka... losing control?	Tohka... ¿Perdiendo el control?
 Message	Reine	"Correct. Tohka had suddenly lost control of her powers atop the
-school's rooftop. Do you not remember?"	Correcto. Tohka había perdido repentinamente el control de sus poderes en la azotea de la escuela. ¿No lo recuerdas?
+school's rooftop. Do you not remember?"	"Correcto. Tohka había perdido repentinamente el control de sus
+poderes en la azotea de la escuela. ¿No lo recuerdas?"
 Message		(Losing control... on the rooftop?)	(¿Perdiendo el control... en la azotea?)
 Message	Shido	"Wha?! That's right... When that happened, I got caught up in the
 blast, and—!"	¡¿Qué?! Así es... ¡Cuando eso pasó, quedé atrapado en la explosión, y...!
@@ -126,75 +163,101 @@ Message	Shido	H-How do you know?	¿Cómo lo sabes?
 Message	Reine	...It must have, otherwise you may have ended up dead then.	... Debe tener, de lo contrario puede haber terminado muerto entonces.
 Message	Shido	E-Ended up dead?	¿Terminó muerto?
 Message	Reine	"Until recently, you were affected by poor health, weren't you?
-Before Tohka and the other Spirits lost control, that is."	Hasta hace poco, te afectaba la mala salud, ¿verdad? Antes de que Tohka y los otros Espíritus perdieran el control, claro.
+Before Tohka and the other Spirits lost control, that is."	"Hasta hace poco, te afectaba la mala salud, ¿verdad? Antes de que
+Tohka y los otros Espíritus perdieran el control, claro."
 Message	Shido	"Ah, yeah. I mostly can't feel it anymore now...
 But when I was examined on the Fraxinus, there weren't any
-abnormalities, right?"	Ah, sí. Ya casi no lo siento... Pero cuando me examinaron en el Fraxinus, no había ninguna anormalidad, ¿verdad?
+abnormalities, right?"	"Ah, sí. Ya casi no lo siento... Pero cuando me examinaron en el Fraxinus,
+no había ninguna anormalidad, ¿verdad?"
 Message	Reine	"It's true that nothing looked wrong. However, an abnormality was
 occurring.
-Along with a threat we didn't know of."	Es cierto que nada parecía ir mal. Sin embargo, se estaba produciendo una anormalidad. Junto con una amenaza que no conocíamos.
+Along with a threat we didn't know of."	"Es cierto que nada parecía ir mal. Sin embargo, se estaba produciendo
+una anormalidad. Junto con una amenaza que no conocíamos."
 Message	Shido	"Something even the Fraxinus didn't know...
 What is that?"	Algo que ni siquiera los Fraxinus sabían... ¿Qué es?
 Message	Reine	"This is mere speculation, but rather than the Spirits, it may have
-been you that was close to losing control."	Esto es mera especulación, pero más que los Espíritus, puede que fueras tú quien estuviera a punto de perder el control.
+been you that was close to losing control."	"Esto es mera especulación, pero más que los Espíritus, puede que
+fueras tú quien estuviera a punto de perder el control."
 Message	Shido	Huh...?	¿Eh...?
 Message	Reine	"Since you met the Spirits, your day-to-day has become arduous.
 Tension and stress caused by dates with the Spirits. Risking your
-life in battle."	Desde que conociste a los Espíritus, tu día a día se ha vuelto arduo. Tensión y estrés causados por las citas con los Espíritus. Arriesgar tu vida en la batalla.
+life in battle."	"Desde que conociste a los Espíritus, tu día a día se ha vuelto arduo.
+Tensión y estrés causados por las citas con los Espíritus. Arriesgar
+tu vida en la batalla."
 Message	Shido	"W-Wait just a second! What are you saying, Reine-san? It's almost
-like you're saying—"	¡Espera un segundo! ¿Qué estás diciendo, Reine-san? Es casi como si estuvieras diciendo...
+like you're saying—"	"¡Espera un segundo! ¿Qué estás diciendo, Reine-san? Es casi como
+si estuvieras diciendo..."
 Message	Reine	"―Yes. It's only a guess, but it's possible the barrier wasn't
 the reason the spiritual energy within your body returned to the
-Spirits."	-Sí. Es sólo una suposición, pero es posible que la barrera no fuera la razón por la que la energía espiritual dentro de tu cuerpo regresó a los Espíritus.
+Spirits."	"-Sí. Es sólo una suposición, pero es posible que la barrera no fuera la
+razón por la que la energía espiritual dentro de tu cuerpo regresó a los
+Espíritus."
 Message	Reine	"There is a high probability that your sudden illness combined with
-various other factors, accidentally causing this irregularity."	Hay una alta probabilidad de que su repentina enfermedad combinada con varios otros factores, causando accidentalmente esta irregularidad.
+various other factors, accidentally causing this irregularity."	"Hay una alta probabilidad de que su repentina enfermedad combinada
+con varios otros factores, causando accidentalmente esta irregularidad."
 Message	Shido	Then, that means...	Entonces, eso significa...
 Message		(The cause of the Spirit energy's return wasn't the barrier...?)	(¿La causa del regreso de la energía del Espíritu no era la barrera...?)
 Message		"(Rinne's barrier was created at the same time as when Tohka lost
-control.)"	(La barrera de Rinne se creó al mismo tiempo que cuando Tohka perdió el control).
+control.)"	"(La barrera de Rinne se creó al mismo tiempo que cuando Tohka
+perdió el control)."
 Message		"(Eden's power was to restart the world, so...
-my death is the catalyst for activating it.)"	(El poder de Edén era reiniciar el mundo, así que... mi muerte es el catalizador para activarlo).
+my death is the catalyst for activating it.)"	"(El poder de Edén era reiniciar el mundo, así que... mi muerte es el
+catalizador para activarlo)."
 Message		(The dots... were finally beginning to connect.)	(Los puntos... por fin empezaban a conectarse).
 Message	Shido	C-Could it be...? R...Rinne...	¿Podría ser...? R...Rinne...
 Message	Reine	"Where the girl Rinne Sonogami appeared from, or what sort of
 connection she has to you, I have no idea. One thing for sure,
-however, is..."	No tengo ni idea de dónde ha aparecido la chica Rinne Sonogami, ni qué clase de conexión tiene contigo. Una cosa segura, sin embargo, es...
+however, is..."	"No tengo ni idea de dónde ha aparecido la chica Rinne Sonogami, ni qué
+clase de conexión tiene contigo. Una cosa segura, sin embargo, es..."
 Message		"(The spiritual power sealed within me... All of it returned to the
-Spirits. Of course, Kotori's Flame of Regeneration as well.)"	(El poder espiritual sellado dentro de mí... Todo regresó a los Espíritus. Por supuesto, la Llama de Regeneración de Kotori también).
+Spirits. Of course, Kotori's Flame of Regeneration as well.)"	"(El poder espiritual sellado dentro de mí... Todo regresó a los Espíritus.
+Por supuesto, la Llama de Regeneración de Kotori también)."
 Message		"(In that state, I was... pretty close to dying, and Tohka, Kotori,
 Yoshino all had their powers return. Even Origami, and the
-ever-wicked Kurumi.)"	(En ese estado, estuve... bastante cerca de morir, y a Tohka, Kotori, Yoshino les volvieron sus poderes. Incluso Origami, y la siempre malvada Kurumi).
+ever-wicked Kurumi.)"	"(En ese estado, estuve... bastante cerca de morir, y a Tohka, Kotori,
+Yoshino les volvieron sus poderes. Incluso Origami, y la siempre
+malvada Kurumi)."
 Message		"(Between how dangerous that was... the memory of dying so many
-times, and the world restarting, the proof is all there."	(Entre lo peligroso que era eso... el recuerdo de morir tantas veces, y el mundo que se reinicia, la prueba está toda ahí.
+times, and the world restarting, the proof is all there."	"(Entre lo peligroso que era eso... el recuerdo de morir tantas veces,
+y el mundo que se reinicia, la prueba está toda ahí."
 Message	Shido	Ah... Aahh...	Ah... Aahh...
 Message		"(Rinne... Rinne wasn't the one causing the Spirits to lose
-control...)"	(Rinne... Rinne no era la causante de que los Espíritus perdieran el control...)
+control...)"	"(Rinne... Rinne no era la causante de que los Espíritus perdieran
+el control...)"
 Message		(She hadn't even been trapping us for any selfish reason...!)	(¡Ni siquiera nos había estado atrapando por una razón egoísta...!)
 Message		(She did it for my sake...!)	(¡Lo hizo por mi bien...!)
 Message		"(All while she was chipping away at herself...
 To save me from dying, having lost the Flame of Regeneration, she
-was saving me!)"	(Todo mientras ella se desmenuzaba a sí misma... Para salvarme de morir, habiendo perdido la Llama de la Regeneración, ¡me estaba salvando!)
+was saving me!)"	"(Todo mientras ella se estaba desgastando a sí misma... ¡Para salvarme
+de morir, habiendo perdido la Llama de la Regeneración, ella me estaba
+salvando!)"
 Message	Shido	Ri...nne...	Ri...nne...
 Message	Reine	"That's correct. Ruler, Rinne Sonogami, created this world
-solely... in order to protect you."	Así es. La gobernante, Rinne Sonogami, creó este mundo únicamente... para protegerte.
+solely... in order to protect you."	"Así es. La gobernante, Rinne Sonogami, creó este mundo únicamente...
+para protegerte."
 Message	Shido	Ahh... Ah, aaahhh...	Ahh... Ah, aaahhhh...
 Message	Shido	"I...I... knew... absolutely nothing...
-And I... went and... to Rinne... I... I...!"	Yo... yo... no sabía... absolutamente nada... Y yo... fui y... a Rinne... I... ¡I...!
+And I... went and... to Rinne... I... I...!"	Yo... yo... no sabía... absolutamente nada... Y yo... fui y... a Rinne...!
 Message	Reine	Please, go no further than that, Shin.	Por favor, no vayas más allá, Shin.
-Message	Shido	...Reine...san...?	...¿Reina...san...?
+Message	Shido	...Reine...san...?	...¿Reine...san...?
 Message	Reine	"Of course, it doesn't matter if anyone despised or pitied her.
 However, Shin. For you, only you. She sacrificed her life to
-protect you. Never forget."	Por supuesto, no importa si alguien la despreciaba o la compadecía. Sin embargo, Shin. Por ti, sólo por ti. Ella sacrificó su vida para protegerte. Nunca lo olvides.
+protect you. Never forget."	"Por supuesto, no importa si alguien la despreciaba o la compadecía.
+Sin embargo, Shin. Por ti, sólo por ti. Ella sacrificó su vida para
+protegerte. Nunca lo olvides."
 Message	Shido	...!	¡...!
 Message	Reine	"Please, Shin. Rinne Sonogami simply tried to save you. If you wish
 to repay her, then... please.
-Instead of regret or apologies, give thanks."	Por favor, Shin. Rinne Sonogami simplemente intentó salvarte. Si deseas recompensarla, entonces... por favor. En lugar de arrepentirte o disculparte, da las gracias.
+Instead of regret or apologies, give thanks."	"Por favor, Shin. Rinne Sonogami simplemente intentó salvarte. Si
+deseas recompensarla, entonces... por favor. En vez de arrepentirte
+o disculparte, da las gracias."
 Message	Shido	Y...Yes.	Sí.
 Message	Reine	Mm, you seem all right. Then, I'll hand this over to you.	Mm, pareces estar bien. Entonces, te entregaré esto.
 Message	Shido	Huh? This is...	¿Eh? Esto es...
 Message	Reine	"When you were all escaping from Neo Tengu Tower, it got mixed in
 somehow. There seems to be something inside, but... any idea what
-it is?"	Cuando escapabais de la Torre Neo Tengu, se mezcló de algún modo. Parece que hay algo dentro, pero... ¿alguna idea de lo que es?
+it is?"	"Cuando escapabais de la Torre Neo Tengu, se mezcló de algún modo.
+Parece que hay algo dentro, pero... ¿alguna idea de lo que es?"
 Message		(Even if you ask me, I don't have any...)	(Aunque me preguntes a mí, yo no tengo...)
 Message	Rinne	I'll take good care of it.	Lo cuidaré bien.
 Message	Shido	...	...
@@ -202,46 +265,65 @@ Message	Shido	Reine-san, um, could you... give me some time for a little bit?	Re
 Message	Reine	...Hmm?	...¿Hmm?
 Message	Reine	"I understand. No need to explain. However, Eden's barrier will
 soon disappear completely, and the world will return to its
-original state."	Comprendo. No hace falta explicarlo. Sin embargo, la barrera del Edén pronto desaparecerá por completo, y el mundo volverá a su estado original.
+original state."	"Comprendo. No hace falta explicarlo. Sin embargo, la barrera del Edén
+pronto desaparecerá por completo, y el mundo volverá a su estado
+original."
 Message	Reine	"If you have any unfinished business, do it quickly. Then, let us
-meet again, Shin."	Si tienes algún asunto pendiente, hazlo rápido. Entonces, volvamos a vernos, Shin.
+meet again, Shin."	"Si tienes algún asunto pendiente, hazlo rápido. Entonces, volvamos
+a vernos, Shin."
 Message	Shido	Yes, thank you.	Sí, gracias.
 Message		"In the end, Rinne and I shared one last date.
-Even though it was only in my dreams."	Al final, Rinne y yo compartimos una última cita. Aunque sólo fue en mis sueños.
+Even though it was only in my dreams."	"Al final, Rinne y yo compartimos una última cita. Aunque sólo fue en
+mis sueños."
 Message		"The time we spent cannot be recovered.
-Rinne, who was by my side, is no longer here."	El tiempo que pasamos no se puede recuperar. Rinne, que estaba a mi lado, ya no está aquí.
+Rinne, who was by my side, is no longer here."	"El tiempo que pasamos no se puede recuperar. Rinne, que estaba a
+mi lado, ya no está aquí."
 Message		"I opened the bag that Reine-san handed me.
-As I had expected, there was a familiar key inside."	Abrí la bolsa que me entregó Reine-san. Como esperaba, dentro había una llave que me resultaba familiar.
-Message		"That's right. This was proof that Rinne was my childhood friend"". The look on Rinne's face when I handed to her. Surprised, but elated."""	"Así es. Esta era la prueba de que Rinne era mi amiga de la infancia"". La mirada en la cara de Rinne cuando se lo entregué. Sorprendida, pero eufórica""."
+As I had expected, there was a familiar key inside."	"Abrí la bolsa que me entregó Reine-san. Como esperaba, dentro había
+una llave que me resultaba familiar."
+Message		"That's right. This was proof that Rinne was my childhood friend"". The look on Rinne's face when I handed to her. Surprised, but elated."""	"""Así es. Esto era prueba de que Rinne era mi amiga de la infancia"". La
+expresión en el rostro de Rinne cuando se lo entregué. Sorprendida,
+pero jubilosa."""
 Message	Shido	"Didn't you promise you'd take care of it, Rinne?
-Then, take responsibility. Take it with you!"	¿No prometiste que te harías cargo, Rinne? Entonces, asume la responsabilidad. ¡Llévatelo contigo!
+Then, take responsibility. Take it with you!"	"¿No prometiste que te harías cargo, Rinne? Entonces, asume la
+responsabilidad. ¡Llévatelo contigo!"
 Message	Shido	"Otherwise, I'll end up realizing how I won't have you to wake me
 in the morning, or ask me how your food tastes, that I'll no
-longer see your smile!"	Si no, acabaré dándome cuenta de que no te tendré para despertarme por las mañanas, ni para preguntarme qué tal sabe la comida, ¡que ya no veré tu sonrisa!
+longer see your smile!"	"Si no, acabaré dándome cuenta de que no te tendré para despertarme
+por las mañanas, ni para preguntarme qué tal sabe la comida, ¡que ya
+no veré tu sonrisa!"
 Message	Shido	"Why... Why?! You said... You said we'd be childhood friends
-forever... that you wanted to be together!"	Por qué... ¡¿Por qué?! Dijiste... Dijiste que seríamos amigos de la infancia para siempre... ¡que querías que estuviéramos juntos!
+forever... that you wanted to be together!"	"Por qué... ¡¿Por qué?! Dijiste... Dijiste que seríamos amigos de la
+infancia para siempre... ¡que querías que estuviéramos juntos!"
 Message	Shido	RINNEEEEEEEEEEEEE!!	¡¡¡RINNEEEEEEEEEEE!!!
 Message	Rinne	Thank you, Shido. The time I spent together with you... was my\nonly true happiness.	Gracias, Shido. El tiempo que pasé contigo... fue mi verdadera felicidad.
 Message	Tamae	"Okaaay! Homeroom is now over. Everyone, please be careful heading
-home."	¡Okaaay! La clase ha terminado. Todo el mundo, por favor, tenga cuidado de volver a casa.
+home."	"¡Okaaay! La clase ha terminado. Todo el mundo, por favor, tenga
+cuidado de volver a casa."
 Message	Shido	Hey Tohka, let's go home.	Hey Tohka, vamos a casa.
 Message	Tohka	Yes!	¡Sí!
 Message	Shido	I feel kind of under the weather...	Me siento un poco mal...
 Message	Tohka	Hm? Are you all right, Shido?	¿Hm? ¿Estás bien, Shido?
 Message	Shido	"Ah... I might just have a cold. More importantly, I'm glad you're
-fine, Tohka."	Ah... puede que sólo tenga un resfriado. Lo más importante, me alegro de que estés bien, Tohka.
+fine, Tohka."	"Ah... puede que sólo tenga un resfriado. Lo más importante, me alegro
+de que estés bien, Tohka."
 Message	Tohka	Apologies, Shido... I am glad you are all right.	Mis disculpas, Shido... Me alegro de que estés bien.
 Message	Shido	"No, don't worry for my sake. Luckily things have calmed down
-properly."	No, no te preocupes por mí. Por suerte las cosas se han calmado adecuadamente.
+properly."	"No, no te preocupes por mí. Por suerte las cosas se han calmado
+adecuadamente."
 Message		"(Tohka almost lost control of her powers on the rooftop. However,
 perhaps because Tohka did well to endure it, things didn't get out
-of control.)"	(Tohka estuvo a punto de perder el control de sus poderes en la azotea. Sin embargo, quizá porque Tohka hizo bien en soportarlo, las cosas no se descontrolaron).
+of control.)"	"(Tohka estuvo a punto de perder el control de sus poderes en la azotea.
+Sin embargo, quizá porque Tohka hizo bien en soportarlo, las cosas no
+se descontrolaron)."
 Message		"(Even if she lost control, it was slight, and Kotori said there
 wasn't any damage. We were able to avoid the worst. What a
-relief...)"	(Aunque perdió el control, fue leve, y Kotori dijo que no hubo daños. Pudimos evitar lo peor. Qué alivio...)
+relief...)"	"(Aunque perdió el control, fue leve, y Kotori dijo que no hubo daños.
+Pudimos evitar lo peor. Qué alivio...)"
 Message	Tohka	Hrm...	Hrm...
 Message	Shido	"Come on, don't look so depressed. It's times like these when you
-need to smile."	Vamos, no estés tan deprimido. Es en momentos como estos cuando necesitas sonreír.
+need to smile."	"Vamos, no estés tan deprimido. Es en momentos como estos
+cuando necesitas sonreír."
 Message	Tohka	Y-Yes!	¡Sí!
 Message	Shido	Right, just like that.	Correcto, justo así.
 Message	Shido	...Hey, Tohka?	...Eh, ¿Tohka?
@@ -249,31 +331,37 @@ Message	Tohka	Hm? What is the matter, Shido?	¿Qué? ¿Qué pasa, Shido?
 Message	Shido	Doesn't... something feel weird?	¿No se siente... algo raro?
 Message	Tohka	Hm, what does? I am perfectly fine.	Hm, ¿qué hace? Estoy perfectamente bien.
 Message	Shido	"No no. Something about this view, the city...
-Like something's missing... In fact, was it always like this?"	No, no. Algo sobre esta vista, la ciudad... Como si faltara algo... De hecho, ¿siempre fue así?
+Like something's missing... In fact, was it always like this?"	"No, no. Algo sobre esta vista, la ciudad... Como si faltara algo...
+De hecho, ¿siempre fue así?"
 Message	Tohka	...?	...?
 Message	Shido	"Well, hmm. For example, over there by the train station, something
 apart from the Tengu Tower...
-wasn't there a big building of some sort?"	Bueno... Por ejemplo, allí junto a la estación de tren, algo aparte de la Torre Tengu... ¿no había un gran edificio de algún tipo?
+wasn't there a big building of some sort?"	"Bueno... Por ejemplo, allí junto a la estación de tren, algo aparte de
+la Torre Tengu... ¿no había un gran edificio de algún tipo?"
 Message	Tohka	Hm, was there...?	Hm, ¿había...?
 Message	Shido	"I see. Maybe not. Sorry for asking such a strange question. Well,
-whatever. Do you want to stop by somewhere?"	Ya veo. Puede que no. Perdón por hacer una pregunta tan extraña. Bueno, como quieras. ¿Quieres pasar por algún sitio?
+whatever. Do you want to stop by somewhere?"	"Ya veo. Puede que no. Perdón por hacer una pregunta tan extraña.
+Bueno, como quieras. ¿Quieres pasar por algún sitio?"
 Message	Tohka	Really?!	¿En serio?
 Message	Shido	Yeah. Anywhere you want.	Sí. Donde quieras.
 Message	Tohka	I see! Then Shido, let's go!	¡Ya veo! ¡Entonces Shido, vamos!
 Message	Shido	Ah, hey! Wait up! Tohka?!	¡Ah, hey! ¡Espera! ¡¿Tohka?!
 Message	Shido	"*sigh* Jeez, but, what is it? I feel like...
-I'm forgetting one more very important thing."	*sigh* Jeez, pero, ¿qué es? Siento que... Me estoy olvidando de otra cosa muy importante.
+I'm forgetting one more very important thing."	"*suspirar* Jeez, pero, ¿qué es? Siento que... Me estoy olvidando de
+otra cosa muy importante."
 Message	Shido	"Something really important to me...
 Something I shouldn't forget..."	Algo realmente importante para mí... Algo que no debería olvidar...
 Message	Tohka	Heeeey! Shido, hurry! Over here!	¡Heeey! ¡Shido, date prisa! ¡Ven aquí!
-Message	Shido	Ah, right! I'm going now!	¡Ah, vale! ¡Ya me voy!
+Message	Shido	Ah, right! I'm going now!	¡Ah, cierto! ¡Ya me voy!
 Message		(Well, it's probably fine if I don't think on it too much.)	(Bueno, probablemente esté bien si no pienso mucho en ello).
 Message		"(I'm sure I'll remember eventually.
-If it's something important to me, I'm sure...)"	(Seguro que al final me acuerdo. Si es algo importante para mí, seguro...)
+If it's something important to me, I'm sure...)"	"(Seguro que al final me acuerdo. Si es algo importante para mí,
+seguro...)"
 Message	Rinne	......	......
 Message	Rinne	"Everyone... has forgotten... No, it no longer happened. I, the
 foreign object, have vanished from this world, and normalcy has
-returned."	Todo el mundo... ha olvidado... No, ya no ocurrió. Yo, el objeto extraño, he desaparecido de este mundo, y la normalidad ha vuelto.
+returned."	"Todo el mundo... ha olvidado... No, ya no ocurrió. Yo, el objeto extraño,
+he desaparecido de este mundo, y la normalidad ha vuelto."
 Message	Rinne	It was... It was best this way, right Shido?	Era... Era mejor así, ¿verdad Shido?
 Message	Rinne	...?	...?
 Message	Rinne	You... are...	Tú... eres...

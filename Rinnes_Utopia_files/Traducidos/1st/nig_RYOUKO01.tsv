@@ -1,18 +1,24 @@
 Operator	Comment	Key	Translation
-Message		<<No event data for today!>>	<<No hay datos de eventos para hoy
+Message		<<No event data for today!>>	<<No hay datos de eventos para hoy!>>
 Message	Shido	"Hey... I've seen this machine before...
 Wait, is this Origami's?!"	Hey... He visto esta máquina antes...  Espera, ¡¿es de Origami?!
 Message	Kusakabe	Origami?	¿Origami?
 Message	Shido	Oh, uh... N-Nothing!	Oh, uh... ¡N-Nada!
 Message	Kusakabe	Hm? Who... are you?	¿Hm? ¿Quién... eres tú?
 Message	Shido	O-Oh... My name is Shido Itsuka.	O-Oh... Me llamo Shido Itsuka.
-Message	Kusakabe	Shido Itsuka... Oh, wait. Gosh... That girl, how\ndare she forget her device at her boyfriend's...	Shido Itsuka... Oh, espera. Dios... Esa chica, cómo se olvidó su dispositivo en casa de su novio...
+Message	Kusakabe	Shido Itsuka... Oh, wait. Gosh... That girl, how\ndare she forget her device at her boyfriend's...	"Shido Itsuka... Oh, espera. Dios... Esa chica, cómo se olvidó su
+dispositivo en casa de su novio..."
 Message	Shido	"What?! W-Wait, I'm not her boyfriend! Besides, it
 just happened to be on the floor... This is some
-kind of device for the Ground Self-Defense Force, right?"	¡¿Qué?! ¡Espera, no soy su novio! Además, resulta que estaba en el suelo... Esto es algún tipo de dispositivo para la Fuerza de Autodefensa Terrestre, ¿verdad?
-Message	Kusakabe	Oh... So you know that Origami is in the\nGround Self-Defense Force, do you?	Oh... Así que sabes que Origami está en la Fuerza de Autodefensa, ¿verdad?
+kind of device for the Ground Self-Defense Force, right?"	"¡¿Qué?! ¡Espera, no soy su novio! Además, resulta que estaba en
+el suelo... Esto es algún tipo de dispositivo para la Fuerza de
+Autodefensa Terrestre, ¿verdad?"
+Message	Kusakabe	Oh... So you know that Origami is in the\nGround Self-Defense Force, do you?	"Oh... Así que sabes que Origami está en la Fuerza de Autodefensa,
+¿verdad?"
 Message	Shido	Oh...	Oh...
-Message	Kusakabe	Well, it's fine that you know. So long as she's\nokay with it. I'm... Ryouko Kusakabe. I'm\nSergeant Origami Tobiichi's superior officer.	Bueno, está bien que lo sepas. Siempre y cuando ella esté de acuerdo con ello. Soy... Ryouko Kusakabe. Soy el oficial superior del Sargento Origami Tobiichi.
+Message	Kusakabe	Well, it's fine that you know. So long as she's\nokay with it. I'm... Ryouko Kusakabe. I'm\nSergeant Origami Tobiichi's superior officer.	"Bueno, está bien que lo sepas. Siempre y cuando ella esté de
+acuerdo con ello. Soy... Ryouko Kusakabe. El oficial superior
+del Sargento Origami Tobiichi."
 Message	Shido	Oh, I feel like I've heard of you before...	Oh, me parece que he oído hablar de ti antes...
 Message	Kusakabe	Well, don't worry about it.	Bueno, no te preocupes.
 Message	Shido	...Have you gotten any word from Origami?	...¿has recibido noticias de Origami?
@@ -20,28 +26,36 @@ Message	Kusakabe	Oh, a lot happened... I wanted to talk to her,\nbut...	Oh, pasa
 Message	Shido	Understood. I'll take this to her.	Entendido. Le llevaré esto a ella.
 Message	Kusakabe	Oh thank you, I'd appreciate that, Itsuka-kun.	Oh, gracias, te lo agradecería, Itsuka-kun.
 Message	Shido	No problem...	No hay problema...
-Message	Kusakabe	...I know I shouldn't be saying this, but please\ncontinue to be friends with Origami. I know she's\nunfriendly and stubborn, but she's a kind girl.	...sé que no debería decir esto, pero por favor continúa siendo amiga de Origami. Sé que es antipática y testaruda, pero es una chica amable.
+Message	Kusakabe	...I know I shouldn't be saying this, but please\ncontinue to be friends with Origami. I know she's\nunfriendly and stubborn, but she's a kind girl.	"...sé que no debería decir esto, pero por favor continúa siendo amigo
+de Origami. Sé que es antipática y testaruda, pero es una chica amable."
 Message	Shido	Yes. I am aware of that.	Sí. Soy consciente de ello.
-Message	Kusakabe	Hehe. Thank you. Oh... Also, please don't tell\nOrigami that you spoke with me.	Jeje. Gracias, gracias. Oh... Además, por favor no le digas a Origami que hablaste conmigo.
-Message	Shido	Huh... Oh... Okay. G-Got it.	Huh... Oh... Vale. Lo p-pillo.
-Message	Kusakabe	Well, I'll be off now. Goodbye.	Bueno, me voy. Hasta la vista.
+Message	Kusakabe	Hehe. Thank you. Oh... Also, please don't tell\nOrigami that you spoke with me.	"Jeje. Gracias, gracias. Oh... Además, por favor no le digas a Origami
+que hablaste conmigo."
+Message	Shido	Huh... Oh... Okay. G-Got it.	Huh... Oh... Okay. Lo t-tengo.
+Message	Kusakabe	Well, I'll be off now. Goodbye.	Bueno, me voy. Adiós.
 Message	Shido	Oh... Is that... the AST?	Oh... ¿Es ese... el AST?
 Message	Kusakabe	Hm? Who is it?!	¿Hm? ¡¿Quién es?!
 Message	Shido	I-I was just passing by!	¡Sólo pasaba por aquí!
 Message	Kusakabe	"Oh, I see... I'm sorry. I heard they found
 something dangerous around here, so
-this place is off-limits."	Oh, ya veo... Lo siento. Oí que encontraron algo peligroso por aquí, así que este lugar está prohibido.
+this place is off-limits."	"Oh, ya veo... Lo siento. Oí que encontraron algo peligroso por aquí,
+así que este lugar está prohibido."
 Message	Shido	Dangerous...?	¿Peligroso...?
 Message	Kusakabe	"Uh... Y-Yes... It's just a little while, so do you
-think you can hold on a moment?"	Uh... S-Sí... Es sólo un ratito, ¿crees que puedes esperar un momento?
+think you can hold on a moment?"	"Uh... S-Sí... Es sólo un ratito, ¿crees que puedes esperar
+un momento?"
 Message	Shido	Oh, um, don't worry! I'll be going home!	¡No te preocupes! ¡Me iré a casa!
 Message	Shido	Damn it, Origami, she's forgetting again...	Maldita sea, Origami, se está olvidando otra vez...
 Message	Kusakabe	...Origami, can you hear me?	...Origami, ¿puedes oírme?
 Message	Shido	I'm sorry, you've got the wrong person!	Lo siento, ¡te has equivocado de persona!
-Message	Kusakabe	Hm...? Oh, you must be Itsuka-kun. Origami hasn't\nbeen calling at all lately... How is she at\nschool?	¿Hm...? Oh, tú debes ser Itsuka-kun. Origami no ha estado llamando últimamente... ¿Cómo está en la escuela?
+Message	Kusakabe	Hm...? Oh, you must be Itsuka-kun. Origami hasn't\nbeen calling at all lately... How is she at\nschool?	"¿Hm...? Oh, tú debes ser Itsuka-kun. Origami no ha estado llamando
+últimamente... ¿Cómo está en la escuela?"
 Message	Shido	"Well... She's the same as usual. Meaning to say
-she's doing well."	Bueno... Ella es la misma de siempre. Quiero decir que lo está haciendo bien.
+she's doing well."	"Bueno... Ella es la misma de siempre. Quiero decir que lo está
+haciendo bien."
 Message	Kusakabe	I see... That's a relief.	Ya veo... Eso es un alivio.
-Message	Kusakabe	You see, her bickering partner is currently\nhospitalized. Origami seemed to be a little\nbummed.	Verás, su compañero de riñas está actualmente hospitalizado. Origami parecía estar un poco molesto.
+Message	Kusakabe	You see, her bickering partner is currently\nhospitalized. Origami seemed to be a little\nbummed.	"Verás, su compañero de riñas está actualmente hospitalizado.
+Origami parecía estar un poco molesto."
 Message	Shido	I see... I hope her partner gets out soon.	Ya veo... Espero que su compañero salga pronto.
-Message	Kusakabe	Mm, thank you... Oops, sorry I took your time.\nI'll call Origami again later.	Mm, gracias... Oops, siento haberte quitado tiempo. Llamaré a Origami más tarde.
+Message	Kusakabe	Mm, thank you... Oops, sorry I took your time.\nI'll call Origami again later.	"Mm, gracias... Oops, siento haberte quitado tiempo. Llamaré a Origami
+más tarde."

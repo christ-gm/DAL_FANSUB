@@ -5,25 +5,31 @@ Message	Yoshino	Y-Yes...	S-Sí...
 Message	Yoshinon	Make it quick, okay?	Que sea rápido, ¿de acuerdo?
 Message	Shido	Yeah...	Sí...
 Message	Kotori	...Hey, what are you dawdling for?!	...Oye, ¿por qué te entretienes?
-Message	Shido	Y-Yeah... Sorry.	S-Sí... Lo siento, lo siento, lo siento, lo siento.
-Message	Kotori	It's an emergency situation. We've found the\nenemy's location.	Es una situación de emergencia. Hemos encontrado la ubicación del enemigo.
+Message	Shido	Y-Yeah... Sorry.	S-Sí... Lo siento.
+Message	Kotori	It's an emergency situation. We've found the\nenemy's location.	"Es una situación de emergencia. Hemos
+encontrado la ubicación del enemigo."
 Message	Shido	E-Enemy...?	¿E-Enemigo...?
-Message	Kotori	It seems like the Neo Tengu Tower was the\ncause of the barrier.	Parece que la Torre Neo Tengu fue el\ncause de la barrera.
+Message	Kotori	It seems like the Neo Tengu Tower was the\ncause of the barrier.	Parece que la Torre Neo Tengu fue la causa de la barrera.
 Message	Shido	"...Enemy? Neo Tengu Tower...?
-Wait a second! What are you talking about?"	...¿Enemigo? ¿Torre Neo Tengu...?  ¡Un momento! ¿De qué estáis hablando?
-Message	Kotori	What? Shido, are you already going senile?\n Is something wrong with you?	Shido, ¿ya te estás volviendo senil? Shido, ¿ya te estás volviendo senil? ¿Te pasa algo?
+Wait a second! What are you talking about?"	"...¿Enemigo? ¿Torre Neo Tengu...?  ¡Un momento!
+¿De qué estan hablando?"
+Message	Kotori	What? Shido, are you already going senile?\n Is something wrong with you?	Shido, ¿ya te estás volviendo senil? ¿Te pasa algo?
 Message	Shido	...Huh?	...¿Eh?
 Message	Shido	Ngh!	¡Ngh!
 Message	Kotori	Hey, you okay?	Oye, ¿estás bien?
 Message	Shido	"Yeah... Sorry. Something really must have been
-wrong with me. Is what you said just now true?"	Sí... Lo siento. Algo realmente debe haber estado mal conmigo. ¿Es cierto lo que acabas de decir?
-Message	Kotori	Yes. I'm being absolutely serious. You're...\nwith Yoshino right now, aren't you?	Sí. Lo digo absolutamente en serio. Estás... con Yoshino ahora mismo, ¿verdad?
+wrong with me. Is what you said just now true?"	"Sí... Lo siento. Algo realmente debe haber estado mal conmigo.
+¿Es cierto lo que acabas de decir?"
+Message	Kotori	Yes. I'm being absolutely serious. You're...\nwith Yoshino right now, aren't you?	"Sí. Lo digo absolutamente en serio. Estás…
+con Yoshino ahora mismo, ¿verdad?"
 Message	Shido	Yeah.	Sí.
 Message	Kotori	Sorry, but you need to head towards Neo Tengu\nTower with her.	Lo siento, pero tienes que ir a la Torre Neo Tengu con ella.
 Message	Shido	Th-That's...	Eso es...
 Message		"(Yoshino finally just reunited with Yoshinon.
-Asking her to fight all of a sudden is...)"	(Yoshino acaba de reunirse con Yoshinon.  Pedirle que luche de repente es...)
-Message	Kotori	I know what you want to say, Shido, but the\nonly Spirit whose power is currently stable\nis Yoshino. Do you understand?	Sé lo que quieres decir, Shido, pero el único espíritu cuyo poder es estable actualmente es Yoshino. ¿Comprendes?
+Asking her to fight all of a sudden is...)"	"(Yoshino acaba de reunirse con Yoshinon.
+Pedirle que luche de repente es...)"
+Message	Kotori	I know what you want to say, Shido, but the\nonly Spirit whose power is currently stable\nis Yoshino. Do you understand?	"Sé lo que quieres decir, Shido, pero el único espíritu cuyo
+poder es estable actualmente es Yoshino. ¿Comprendes?"
 Message	Shido	I understand, but...	Lo entiendo, pero...
 Message	Yoshino	...Shido-san.	...Shido-san.
 Message	Shido	Yoshino...	Yoshino...
@@ -35,7 +41,7 @@ Message	Yoshino	Shido-san, you taught me...	Shido-san, tú me enseñaste...
 Message	Yoshino	"When someone's in trouble, you need to
 assist them."	Cuando alguien tiene problemas, hay que ayudarle.
 Message	Shido	I see. You're right.	Ya veo. Tienes razón.
-Message	Yoshinon	Alrighty, it's been a while since we've cut\nloose!	¡Muy bien, ha pasado un tiempo desde que hemos cut\nloose!
+Message	Yoshinon	Alrighty, it's been a while since we've cut\nloose!	¡Muy bien, ha pasado un tiempo desde que nos soltamos!
 Message	Shido	"Neo Tengu Tower... was the enemy's base all
 along."	La Torre Neo Tengu... fue la base del enemigo todo el tiempo.
 Message	Shido	Yoshino, you sure that's okay?	Yoshino, ¿seguro que está bien?
@@ -55,9 +61,12 @@ Message	Shido	"I don't know, but this isn't the first time I've
 met her."	No lo sé, pero no es la primera vez que la veo.
 Message	???	"I am the one who controls this world, who rules
 over this paradise. If you were to refer to me by
-an identification name, it would be Ruler."""""	"Yo soy quien controla este mundo, quien gobierna este paraíso. Si tuvieras que referirte a mí con un nombre identificativo, sería Gobernante""""."
+an identification name, it would be Ruler."""""	"Yo soy quien controla este mundo, quien gobierna este paraíso.
+Si tuvieras que referirte a mí con un nombre identificativo,
+sería ""Ruler""."
 Message	Ruler	"However, there is no use in telling you this,
-for I intend to banish you."	Sin embargo, es inútil decírtelo, porque tengo la intención de desterrarte.
+for I intend to banish you."	"Sin embargo, es inútil decírtelo, porque
+tengo la intención de desterrarte."
 Message	Yoshino	Shido-san...! Watch out!	¡Shido-san...! ¡Cuidado!
 Message	Ruler	"I see... I will teach you. Just how much of
 a foolish and fragile being you are."	Ya veo... Te enseñaré. lo tonto y frágil que eres.
@@ -69,6 +78,7 @@ Message	Ruler	Scatter.	Dispersa.
 Message	Yoshino	...?! Kyaaaaaaaaaa!	¡...?! ¡Kyaaaaaaaaaaaa!
 Message	Shido	YOSHINOOOO!! Damn it... Why?!	¡¡YOSHINOOOO!! Maldita sea... ¡¿Por qué?!
 Message	Ruler	"...Good-bye, Shido Itsuka.
-I pray that next time, you have a pleasant dream."	...Adiós, Shido Itsuka.  Rezo para que la próxima vez tengas un sueño agradable.
+I pray that next time, you have a pleasant dream."	"...Adiós, Shido Itsuka.  Rezo para que la próxima vez tengas
+un sueño agradable."
 Message	Ruler	"Even though you promised...
-you said you would only cherish Yoshino..."	Aunque lo prometiste... dijiste que sólo querrías a Yoshino...
+you said you would only cherish Yoshino..."	Aunque lo prometiste... dijiste que solo cuidarías a Yoshino…

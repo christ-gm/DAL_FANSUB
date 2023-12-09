@@ -1,14 +1,18 @@
 Operator	Comment	Key	Translation
-Message		<<No event data for today!>>	<<No hay datos de eventos para hoy
+Message		<<No event data for today!>>	"<<No hay datos de eventos para hoy
+se hubiera quedado sola en su sufrimiento, se habría vuelto loca…)"
 Message	Shido	Huh...?	¿Eh...?
 Message	Reine	Hi... Shin...	Hola... Shin...
 Message	Shido	What are you doing here?	¿Qué haces aquí?
 Message	Reine	"Oh, nothing... When I'm in the preparation room
-alone, I can't help but feel sleepy..."	Oh, nada... Cuando estoy solo en la sala de preparación, no puedo evitar sentir sueño...
+alone, I can't help but feel sleepy..."	"Oh, nada... Cuando estoy solo en la sala de preparación, no puedo
+evitar sentir sueño..."
 Message	Shido	"Come to think of it, Reine-san... You always seem
-so sleepy. Maybe you should get some rest."	Ahora que lo pienso, Reine-san... Siempre pareces tener tanto sueño. Tal vez deberías descansar un poco.
+so sleepy. Maybe you should get some rest."	"Ahora que lo pienso, Reine-san... Siempre pareces tener tanto sueño.
+Tal vez deberías descansar un poco."
 Message	Reine	"No, I don't have such time... Even if I did...
-I probably wouldn't be able to fall asleep."	No, no tengo tanto tiempo... Incluso si lo tuviera...  Probablemente no sería capaz de conciliar el sueño.
+I probably wouldn't be able to fall asleep."	"No, no tengo tanto tiempo... Incluso si lo tuviera... Probablemente
+no sería capaz de conciliar el sueño."
 Message	Shido	Why not?	¿Por qué no?
 Message	Reine	It's a secret. For now...	Es un secreto. Por ahora...
 Message	Shido	Oh...	Oh...
@@ -18,39 +22,48 @@ Message	Shido	"She went to school as usual...
 Is something the matter?"	Fue a la escuela como siempre...  ¿Pasa algo?
 Message	Reine	"Hm... I promised Kotori that I'd share with her
 the results of the Fraxinus investigation, but
-it seems as though she's completely forgotten."	Hm... Le prometí a Kotori que compartiría con ella los resultados de la investigación del Fraxinus, pero parece que se le ha olvidado por completo.
+it seems as though she's completely forgotten."	"Hm... Le prometí a Kotori que compartiría con ella los
+resultados de la investigación del Fraxinus, pero
+parece que se le ha olvidado por completo."
 Message	Reine	"I have a packed schedule, so I need
 to get it to her ASAP..."	Tengo una agenda apretada, así que tengo que dárselo cuanto antes...
 Message	Shido	"I'm sure she'll come to see you later on,
 won't she?"	Seguro que vendrá a verte más tarde, ¿no?
 Message	Reine	"I guess you have a point... I should just give it
 to her when she gets here, huh... Well, I'll be
-off then."	Supongo que tienes razón... Debería dárselo cuando llegue, eh... Bueno, me voy entonces.
-Message	Shido	Oh, okay... Have a nice day.	Oh, vale... Que tengas un buen día.
+off then."	"Supongo que tienes razón... Debería dárselo cuando llegue, eh…
+Bueno, me voy entonces."
+Message	Shido	Oh, okay... Have a nice day.	Oh, okay… Que tengas un buen día.
 Message	Reine	Shin... Do you have a moment?	Shin... ¿Tienes un momento?
 Message	Shido	Reine-san? What is it?	¿Reine-san? ¿Qué es?
 Message	Reine	"You see... We were in the middle of investigating
 what was wrong with the Fraxinus, when we received
-a warning to all involved staff."	Verá... Estábamos en medio de la investigación de lo que estaba mal con el Fraxinus, cuando recibimos una advertencia a todo el personal involucrado.
+a warning to all involved staff."	"Verá... Estábamos en medio de la investigación de lo que estaba
+mal con el Fraxinus, cuando recibimos una advertencia a todo el
+personal involucrado."
 Message	Shido	Is it some kind of emergency?	¿Es algún tipo de emergencia?
 Message	Reine	"I'll be sending you the message... So if you could
 read it, that would be great."	Te enviaré el mensaje... Así que si pudieras leerlo, sería genial.
 Message	Shido	Okay. Uh...	Okay. Uh...
 Message	Shido	"How to set the flag for the childhood friend
 route...? Be sure to check out all the date spots
-and take her to the aquarium..."	¿Cómo poner la bandera de la ruta de los amigos de la infancia...? Asegúrate de visitar todos los lugares de citas y llévala al acuario...
+and take her to the aquarium..."	"¿Cómo poner la bandera de la ruta de los amigos de la infancia...?
+Asegúrate de visitar todos los lugares de citas y llévala al acuario..."
 Message	Shido	...What is this?	...¿Qué es esto?
 Message	Reine	"Oh, oops, wrong one... I seemed to have brought my
 notes on the gal game walkthrough that I'm
-currently developing at the Fraxinus."	Oh, oops, me equivoqué... Parece que me he traído mis notas sobre el recorrido del juego gal que estoy desarrollando actualmente en el Fraxinus.
+currently developing at the Fraxinus."	"Oh, oops, me equivoqué... Parece que me he traído mis notas sobre
+el recorrido del juego gal que estoy desarrollando actualmente en el
+Fraxinus."
 Message	Shido	What are you even doing there?!	¡¿Qué haces ahí?!
-Message	Reine	Work...	Trabaja...
+Message	Reine	Work...	Trabajo…
 Message	Shido	Oh. Well... I guess that's true, but...	Oh. Bueno... Supongo que es verdad, pero...
-Message	Shido	Reine-san...	Pure-san...
+Message	Shido	Reine-san...	Reine-san...
 Message	Reine	Yes, Shin. What are you doing?	Sí, Shin. ¿Qué estás haciendo?
 Message	Shido	"...As usual, you have no plans to remember my
 name, huh? My name is Shido. How many times
-do I have to tell y—"	...Como siempre, no tienes planes de recordar mi nombre, ¿eh? Mi nombre es Shido. ¿Cuántas veces tengo que decirte...?
+do I have to tell y—"	"...Como siempre, no tienes planes de recordar mi nombre, ¿eh?
+Mi nombre es Shido. ¿Cuántas veces tengo que decirte...?"
 Message	Reine	O-Oh, right... That's right. I apologize, Shin.	O-Oh, cierto... Es cierto. Te pido disculpas, Shin.
 Message	Shido	Argh... Whatever. It's fine.	Argh... Lo que sea. Está bien.
 Message	Shido	Hm? Reine-san...?	¿Hm? ¿Reine-san...?
@@ -58,17 +71,21 @@ Message	Reine	Oh, Shin. Perfect timing.	Oh, Shin. Justo a tiempo.
 Message	Shido	What's the matter? What are you looking for?	¿Cuál es el problema? ¿Qué estás buscando?
 Message	Reine	"Oh, you see... While investigating the anomaly,
 the crew of the Fraxinus also thought to conduct
-investigations within town, but..."	Verá... Mientras investigaban la anomalía, la tripulación del Fraxinus también pensó en realizar investigaciones dentro de la ciudad, pero...
+investigations within town, but..."	"Verá... Mientras investigaban la anomalía, la tripulación del Fraxinus
+también pensó en realizar investigaciones dentro de la ciudad, pero..."
 Message	Shido	"So you got roped into it too, huh? You also have
-work to do at school... It sure seems challenging."	Así que tú también te metiste en esto, ¿eh? También tienes trabajo que hacer en la escuela... Parece todo un reto.
+work to do at school... It sure seems challenging."	"Así que tú también te metiste en esto, ¿eh? También tienes trabajo
+que hacer en la escuela... Parece todo un reto."
 Message	Reine	"Well, it's not that big of a deal. However,
 it does seem as though I'm lost. I'm not
-used to this part of town."	Bueno, no es para tanto. Sin embargo, parece que estoy perdido. No estoy acostumbrado a esta parte de la ciudad.
+used to this part of town."	"Bueno, no es para tanto. Sin embargo, parece que estoy perdido.
+No estoy acostumbrado a esta parte de la ciudad."
 Message	Shido	"Lost? If you tell me where you're headed, maybe I
 can guide you."	¿Perdido? Si me dices a dónde te diriges, tal vez pueda guiarte.
 Message	Reine	"Yeah... That would be great. You see... I wish to
 return to the Fraxinus..."	Sí... Eso sería genial. Verás... Deseo regresar al Fraxinus...
 Message	Shido	"I don't know how to get there!
-Actually... why don't you contact the Fraxinus?!"	¡No sé cómo llegar allí!  En realidad... ¡¿por qué no contactas con el Fraxinus?!
+Actually... why don't you contact the Fraxinus?!"	"¡No sé cómo llegar allí!  En realidad... ¡¿por qué no contactas
+con el Fraxinus?!"
 Message	Reine	Oh... You're right. I didn't think of that.	Oh... Tienes razón. No pensé en eso.
 Message	Shido	What?! Come on... Jeez...	¡¿Qué?! Vamos... Jeez...
