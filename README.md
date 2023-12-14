@@ -5,9 +5,7 @@ Este repositorio tiene como objetivo proporcionar un parche en español para el 
 Además, ofreceremos códigos de Jupyter en Python para que los usuarios puedan utilizarlos libremente en su propio trabajo.
 
 ## Instalación
-Para la instalación del parche es muy sencillo, solo se debe reemplazar el archivo Script.pck del repositorio en los archivos del juego, en mi caso en: "D:\SteamLibrary\steamapps\common\DATE A LIVE Rio Reincarnation\Data\ENG\Script"
-y deberia funcionar al comenzar el juego. Esto es solo un avanze, por lo que solo tiene algunos capitulos traducidos del juego Rinne's Utopia, la mayoría del juego se seguira viendo en inglés por ahora. Ojo que al momento de iniciar
-una partida se debe comenzar el juego en el idioma ingles para que el parche funcione.
+La instalación del parche es bastante fácil. Solo tienen que ir a Steam, hacer clic derecho en "Date a Live Rio Reincarnation", seleccionar "Administrar" y después clickear en "Ver archivos locales" (o, en su defecto, dirigirse a la ubicación donde tienen instalado el juego). Una vez allí, entren en la carpeta "data", después en "ENG", y finalmente en "Script". Aquí deben reemplazar el archivo llamado "Script.pck". Recomiendo hacer una copia de seguridad de este archivo antes de reemplazarlo. ¡Y listo! Ahora deberían tener Rinne Utopia en español.
 ![image](https://github.com/cgarrido2001/DAL_FANSUB/assets/101365055/3afec535-7856-49bb-ba07-6955df3bd602)
 
 ## Demo
