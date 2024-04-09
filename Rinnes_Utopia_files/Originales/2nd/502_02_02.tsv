@@ -36,8 +36,8 @@ Message	None	"(Hm...? What's this? I feel something hard on my
 back...?)"	
 Message	Origami	...Shido.	
 Message	Shido	O-Origami?! What's the matter?	
-Message	Origami	"Don't "what's the matter" me. Where do you think
-you're going?"	
+Message	Origami	"""Don't ""what's the matter"" me. Where do you think
+you're going?"""	
 Message	Shido	"Where? I mean, school's over, right?
 Obviously home."	
 Message	Origami	"What are you talking about? I wasn't done talking
@@ -110,7 +110,7 @@ Message	Shido	O-Origami-sama...
 Message	Origami	What? There's no point in making excuses.	
 Message	Shido	"I'm not making excuses, I just really don't
 remember anything..."	
-Message	Origami	"The lead angel howls into the sky... The adults\njust don't get it... I'm sure the time will\neventually come. But I have faith in love."	
+Message	Origami	The lead angel howls into the sky... The adults\njust don't get it... I'm sure the time will\neventually come. But I have faith in love.	
 Message	Shido	"AHHHHHHHHH?! I-I'm sorry, I'm very sorry!
 Origami-sama, Origami-sama, please stop!"	
 Message	Origami	You want to be honest with me now?	
@@ -126,7 +126,7 @@ You are a mere slave."
 Message	Shido	M-Master...?	
 Message	Origami	"A master's orders are definitive. A servant must
 respond quickly. But if you'd like, I can recite
-from the, "Sun, go ahead and burn me" part."	
+from the, ""Sun, go ahead and burn me"" part."	
 Message	Shido	I... I am sorry, Origami-sama...	
 Message	Origami	"It's truly calming. I know you're most suited for
 crawling on the floor."	
@@ -167,13 +167,13 @@ Message	Shido	Then?
 Message	Origami	"You're going to recite the words I'm
 about to tell you."	
 Message	Shido	Yes!	
-Message	Origami	"Please forgive me, Origami-sama."	
+Message	Origami	Please forgive me, Origami-sama.	
 Message	Shido	Please forgive me, Origami-sama!	
-Message	Origami	"My body forever belongs to Origami-sama."	
+Message	Origami	My body forever belongs to Origami-sama.	
 Message	Shido	M-My body forever belongs to Origami-sama!	
-Message	Origami	"I want to smell Origami-sama's scalp."	
+Message	Origami	I want to smell Origami-sama's scalp.	
 Message	Shido	I wa... huh?	
-Message	Origami	"I want to smell Origami-sama's scalp."	
+Message	Origami	I want to smell Origami-sama's scalp.	
 Message	Shido	"I...I want to smell Origami-sama's scalp... What
 is up with that weird fetish?"	
 Message	Origami	"You didn't put your heart into it. Back your words
@@ -201,7 +201,7 @@ we were kids. It wasn't anything inappropriate..."
 Message	Origami	No excuses. The worst punishment, no doubt.	
 Message	Shido	Wh-What...	
 Message	Origami	"I have no choice but to release Shido Itsuka's
-"secret file"."	
+""secret file""."	
 Message	Shido	What... is that file? What's in it?	
 Message	Origami	"Your acapella recordings of that horrible
 glam-idol song you made, back when you thought
@@ -219,8 +219,8 @@ must do next, Pedo."
 Message	Shido	"Please, don't kill me so publicly, Origami-sama!
 And if possible, please stop calling me Pedo!"	
 Message	Origami	"I'm sorry, I couldn't hear you. I thought you
-said, "Please step on me, Origami-sama."
-Was that right?"	
+said, ""Please step on me, Origami-sama.
+Was that right?"""	
 Message	Shido	Huh? I didn't say that.	
 Message	Origami	"So are you saying your words are more accurate
 than my ears, Shido? Despite your being my
@@ -292,8 +292,8 @@ Message	Shido	R-Really? Is that possible...?
 Message	Origami	"Yes. That's why you must train, so you can have
 healthy dreams."	
 Message	Shido	Train?	
-Message	Origami	"First, you're going to recite, "I'm a pervert"
-ten times."	
+Message	Origami	"First, you're going to recite, ""I'm a pervert
+ten times."""	
 Message	Shido	What?!	
 Message	Origami	"Just do it. Or else, you will be tainted by the
 image of being a jolly man-lover."	
@@ -301,9 +301,9 @@ Message	None	(If I do that, I won't have a place in class...!)
 Message	Shido	"I-I'm a pervert. I'm a pervert. I'm a pervert.
 I'm a pervert. I'm a pervert. I'm a pervert.
 I'm a pervert. I'm a pervert. I'm a pervert."	
-Message	Origami	"That was pretty good. Next, repeat the words
-"Origami Tobiichi" from the bottom of your heart
-so it's massaged into your deepest consciousness."	
+Message	Origami	"""That was pretty good. Next, repeat the words
+""Origami Tobiichi"" from the bottom of your heart
+so it's massaged into your deepest consciousness."""	
 Message	Shido	"Origami Tobiichi, Origami Tobiichi, Origami
 Tobiichi, Origami Tobiichi, Origami Tobiichi,
 Origami Tobiichi, Origami Tobiichi."	
@@ -311,9 +311,9 @@ Message	Origami	Then, what is this?
 Message	Shido	Elbow! Wait...? What are you talking about?	
 Message	Origami	Don't mess around.	
 Message	Shido	What?!	
-Message	Origami	"Let's continue. Finally, say "I keep daydreaming
+Message	Origami	"""Let's continue. Finally, say ""I keep daydreaming
 of inappropriate things with Origami. Every day,
-I dream of her in a perverted way" ten times."	
+I dream of her in a perverted way"" ten times."""	
 Message	Shido	"Long. That's too long?! And that isn't even an
 appropriate dream!"	
 Message	None	"(And so Origami tortured me like this until the

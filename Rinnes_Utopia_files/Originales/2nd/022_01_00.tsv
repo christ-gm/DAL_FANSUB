@@ -43,12 +43,12 @@ Message	Shido	Maria... You've changed a little.
 Message	Kurumi	"I agree. She's become a lot more human-like. It's
 hard to imagine her like this, knowing the way she
 was before."	
-Message	None	"(The "other Arusu" was human-like from the
+Message	None	"""(The ""other Arusu"" was human-like from the
 get-go... I think. Her expressions and emotions
-were more apparent than Maria's...)"	
-Message	None	"(But... yesterday when she erased Tonomachi, that
-other "Arusu" was laughing. It was an emotion, but
-definitely not human-like.)"	
+were more apparent than Maria's...)"""	
+Message	None	"""(But... yesterday when she erased Tonomachi, that
+other ""Arusu"" was laughing. It was an emotion, but
+definitely not human-like.)"""	
 Message	None	"(If that Arusu is the real one, and Maria is a
 fake, then would she eventually end up like
 that Arusu? But—)"	
@@ -62,7 +62,7 @@ Message	Tohka	"Yes! I understand! The simplicity of the cheese
 melted on toast... It's... hard to explain, but...
 delicious!"	
 Message	Yoshino	...This salad... is very delicious, too.	
-Message	Yoshinon	"It's so colorful and beautiful!"	
+Message	Yoshinon	It's so colorful and beautiful!	
 Message	Origami	"It contains many vitamins and amino acids, and the
 balance of minerals is great. It's a very logical
 combination."	
@@ -99,7 +99,7 @@ Message	Origami	"On the other hand, I prepared the place settings
 and portioned out the food. I assisted more than
 she did, so Shido, you should pat me."	
 Message	Yoshino	Huh...? I-If it's all right... Umm... me, too...	
-Message	Yoshinon	"Yoshino helped the most! I would say she was the\nmost cooperative with Arusu-chan. So be sure to\npat her head, too!"	
+Message	Yoshinon	Yoshino helped the most! I would say she was the\nmost cooperative with Arusu-chan. So be sure to\npat her head, too!	
 Message	Shido	"Well, I don't mind, but if you all come at me at
 once..."	
 Message	Miku	How lucky～ Darling, pat me too! Do it a lot!	

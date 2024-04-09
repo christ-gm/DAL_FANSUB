@@ -30,7 +30,7 @@ on a date, so we can go where you'd like..."
 Message	Yuzuru	"Affirmative. I'm fine with here for today. If we went
 somewhere else without Kaguya, I would feel bad."	
 Message	Shido	"I see. I guess that's true. I can see Kaguya saying,
-"Why didn't you take me!""	
+""Why didn't you take me!"""	
 Message	Yuzuru	"Affirmative. Kaguya is a child, so we can't help it.
 Yuzuru is the mature one, so I will be satisfied
 staying here so that Kaguya won't pout."	
@@ -84,9 +84,9 @@ Message	Yuzuru	"Affirmative. If it's a matter of whether or not I can
 drink it, there's no problem. How about you, Shido?
 I hear you have to order using a magic spell."	
 Message	Shido	A spell?	
-Message	Yuzuru	"Commentary. For example, "Tall double-shot with
+Message	Yuzuru	"Commentary. For example, ""Tall double-shot with
 chocolate sauce, extra coffee with whipped caramel
-and cream"... Something like that."	
+and cream""... Something like that."	
 Message	Shido	AH?! What is that spell?!	
 Message	Yuzuru	"Answer. When I went to a coffee shop the other day,
 Kaguya was chanting it happily. However, when she
@@ -100,8 +100,8 @@ Message	Shido	Got it. Wait right here.
 Message	Shido	Thanks for waiting. This is yours, Yuzuru.	
 Message	Yuzuru	"Appreciation. I will gladly accept. Was the spell okay,
 Shido?"	
-Message	Shido	"Thanks to you. I just said, "Two tall lattes, s'il
-vous plaît.""	
+Message	Shido	"Thanks to you. I just said, ""Two tall lattes, s'il
+vous plaît."""	
 Message	Yuzuru	Deliberation... That's hard to judge.	
 Message	Shido	"Sorry, forget what I just said... But drinking a warm
 drink makes me feel so calm. Doesn't it make you

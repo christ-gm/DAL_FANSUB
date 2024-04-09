@@ -121,8 +121,8 @@ Message	Shido	"I wouldn't be surprised if she did! But... I guess
 you could say that about her and all different
 kinds of food."	
 Message	Arusu	So is it different from love?	
-Message	Shido	"I wonder... It's true that the term "love" can be
-used for money and food..."	
+Message	Shido	"""I wonder... It's true that the term ""love"" can be
+used for money and food..."""	
 Message	Shido	"...But when used with a person, it just feels
 different."	
 Message	Arusu	So, loving a human is different?	
@@ -142,7 +142,7 @@ thing?"
 Message	Shido	Oof... O-Oh. Well... I guess... uh...	
 Message	Shido	"Gosh, I'm so sorry, Arusu. I guess I don't know
 how to explain it."	
-Message	Arusu	...Putting "love" into words is hard.	
+Message	Arusu	"...Putting ""love"" into words is hard."	
 Message	Arusu	"If that is the case... Then we shall simulate the
 growth of this form of love... That way, I may
 find an answer."	

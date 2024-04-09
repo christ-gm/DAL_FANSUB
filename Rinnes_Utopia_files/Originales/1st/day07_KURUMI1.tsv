@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	Shido	...	
 Message	Shido	It's morning.	
 Message	Shido	But... am I actually awake?	
@@ -7,7 +7,7 @@ Message	Shido	Yesterday... felt like a dream.
 Message	Kurumi	Let me explain. I'll tell you everything I know.	
 Message	Kurumi	"Yes. Whoever is responsible possesses a great
 power. They and they alone."	
-Message	Kurumi	"My body... The "nightmare" you know as me,
+Message	Kurumi	"My body... The ""nightmare"" you know as me,
 has noticed this manipulation."	
 Message	Kurumi	"If I am able to absorb whomever holds this
 power, then I will attain this power as well."	
@@ -152,7 +152,7 @@ Message	Shido	Sorry, I'll hang up right away... Oh?
 Message	Shido	Kotori...?	
 Message	None	"(Something feels strange. Like a haze or unease
 in the back of my mind. Is it a premonition?)"	
-Message	Rinne	"Please, I want you to promise me. That you'll\nthink only of Tokisaki-san. That you won't ever\nlet her go. Promise me."	
+Message	Rinne	Please, I want you to promise me. That you'll\nthink only of Tokisaki-san. That you won't ever\nlet her go. Promise me.	
 Message	None	"(All of a sudden, what Rinne said came back to
 me. Kurumi and I were connecting here. This is
 a moment to savor.)"	

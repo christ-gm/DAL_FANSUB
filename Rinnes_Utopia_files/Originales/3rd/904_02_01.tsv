@@ -253,9 +253,9 @@ Message	Shido	Is that... cute?
 Message	Rinne	"It looks a little dinky, but don't you think that's
 its charm?"	
 Message	Shido	Come to think of it, I guess...	
-Message	None	"(More than that, what is up with this name, "Tengu
-Cow-kun"... It's totally a gag name. Hm... but it
-sounds familiar...?)"	
+Message	None	"""(More than that, what is up with this name, ""Tengu
+Cow-kun""... It's totally a gag name. Hm... but it
+sounds familiar...?)"""	
 Message	Rinne	I... have never seen this character before.	
 Message	Shido	Me, neither. Maybe it's a mascot for Tengu City.	
 Message	Rinne	Um... I guess we can buy it?	
@@ -403,8 +403,8 @@ Message	Shido	"I won't forget. I'll never forget. Even if I get out of
 here, I promise I'll remember you."	
 Message	Rinne	"...Thank you, Shido. That makes me so happy... to
 hear that."	
-Message	Rinne	"I knew it was that. The "most important thing" that
-Rio-chan mentioned."	
+Message	Rinne	"""I knew it was that. The ""most important thing"" that
+Rio-chan mentioned."""	
 Message	None	"(It wasn't somewhere in the town. Because I had it
 the whole time. From the day Rinne disappeared, I
 had it the whole time―)"	

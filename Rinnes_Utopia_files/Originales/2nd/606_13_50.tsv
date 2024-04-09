@@ -1,24 +1,24 @@
 ﻿Operator	Comment	Key	Translation
 Message	Shido	Hello? This is Itsuka.	
-Message	Kannazuki	"Oh, Shido-kun? Perfect timing. Kannazuki,\nhere."	
+Message	Kannazuki	Oh, Shido-kun? Perfect timing. Kannazuki,\nhere.	
 Message	Shido	"Kannazuki-san? What's the matter? You don't
 usually call me. Did you want to speak to Kotori?"	
-Message	Kannazuki	"No. Today, I wanted to talk to you. You see,\nit's about Kaguya-san and Yuzuru-san."	
+Message	Kannazuki	No. Today, I wanted to talk to you. You see,\nit's about Kaguya-san and Yuzuru-san.	
 Message	Shido	Kaguya and Yuzuru? What happened?	
-Message	Kannazuki	"You see, Shido-kun, please stay calm while\nI share this with you."	
+Message	Kannazuki	You see, Shido-kun, please stay calm while\nI share this with you.	
 Message	Shido	"Hey, what is it? Wait. Don't tell me something
 happened to them! Tell me!"	
-Message	Kannazuki	"Yes. You see... We are going to do some tests\nsoon."	
+Message	Kannazuki	Yes. You see... We are going to do some tests\nsoon.	
 Message	Shido	...Tests?	
-Message	Kannazuki	"Yes. Kaguya-san and Yuzuru-san will both\nhave to cooperate. It may take them the\nentire day."	
-Message	Kannazuki	"Because they are most stable when they are\ntogether, we are afraid of only taking one. If\nonly one survives, then we want you there."	
+Message	Kannazuki	Yes. Kaguya-san and Yuzuru-san will both\nhave to cooperate. It may take them the\nentire day.	
+Message	Kannazuki	Because they are most stable when they are\ntogether, we are afraid of only taking one. If\nonly one survives, then we want you there.	
 Message	None	(I see...)	
 Message	Shido	...*sigh*. Okay, got it. I understand.	
-Message	Kannazuki	"Wonderful. Please invite them on a date.\nIf you would like, I have a recommendation."	
+Message	Kannazuki	Wonderful. Please invite them on a date.\nIf you would like, I have a recommendation.	
 Message	Shido	No, that's fine.	
-Message	Kannazuki	"Aw, your loss. So, which one will participate\nin the test, whom should I ask? Kaguya-san,\nor Yuzuru-san?"	
+Message	Kannazuki	Aw, your loss. So, which one will participate\nin the test, whom should I ask? Kaguya-san,\nor Yuzuru-san?	
 Message	Shido	Wait, you're letting me decide?	
-Message	Kannazuki	"Yes. I do not mind. I won't tell the other."	
+Message	Kannazuki	Yes. I do not mind. I won't tell the other.	
 Message	Shido	Well, if that's the case...	
 Choice		I want to spend time with Kaguya.	
 Choice		I want to spend time with Yuzuru.	
@@ -90,7 +90,7 @@ Message	Shido	Okay...
 Message	None	"(Maybe, she just wanted a relaxing day at
 my house.)"	
 Message	Kaguya	...! Sh-Shido! That! Is that what I think it is?!	
-Message	Shido	"Saying "that" and "it" is confusing me.
+Message	Shido	"Saying ""that"" and ""it"" is confusing me.
 You're pointing at my game console. You
 know what that is, don't you?"	
 Message	Kaguya	"D-Don't make a fool of me. I know! But

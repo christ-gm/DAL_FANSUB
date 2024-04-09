@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	(S-Sorry, Kotori! I can't pick up right now!)	
 Message	None	(I promised that today, I would stay with Tohka.)	
 Message	Shido	...All right!	
@@ -42,7 +42,7 @@ Message	Tohka	"Shido! I will always be by your side!
 You and I, we'll be the same as the penguin...
 Um..."	
 Message	Shido	A couple of lovebirds, huh?	
-Message	Tohka	Correct! We shall become a "couple of lovebirds"!	
+Message	Tohka	"Correct! We shall become a ""couple of lovebirds""!"	
 Message	Shido	"...! Ah, yeah, you're right! If it's us, with you
 Tohka, I'm sure..."	
 Message	Tohka	Achoo!	
@@ -52,7 +52,7 @@ again!"
 Message	Tohka	Yes, you're right! Ahahahahaha!	
 Message	None	"(Good grief. Though I was concerned for her,
 happiness coursed through me as I uttered the
-word "Now" with Tohka.)"	
+word ""Now"" with Tohka.)"	
 Message	None	"(I never want to forget this feeling.
 I swore it.)"	
 Message	None	"(Surrounded by the people most important
@@ -99,7 +99,7 @@ Message	Shido	Haha. Can I not?
 Message	Tohka	W-Well, it's not like you can't, but...	
 Message	Shido	Hahahaha!	
 Message	None	"I wonder who it was, who mentioned that
-"marriage" isn't gazing at someone, but rather
+""marriage"" isn't gazing at someone, but rather
 facing in the same direction as them."	
 Message	None	"From this day forth, there are things waiting for
 me that I can't possibly imagine. With Tohka, I'm

@@ -1,6 +1,6 @@
 ﻿Operator	Comment	Key	Translation
-Message	Tohka	"What's the matter? The screen with the "geme"
-turned black!"	
+Message	Tohka	"What's the matter? The screen with the ""geme
+turned black!"""	
 Message	Kotori	It shut down?! Hey Reine, what's going on here?!	
 Message	Reine	Hm...	
 Message	Reine	"I'm unsure of the cause, but it seems as though
@@ -13,7 +13,7 @@ Message	Kotori	"Well, this is an unexpected disaster.
 What's happening to Shido?"	
 Message	Reine	"I don't know, but his consciousness hasn't
 returned yet."	
-Message	Reine	In other words, he's stuck in "My Little Shido 2".	
+Message	Reine	"In other words, he's stuck in ""My Little Shido 2""."	
 Message	Kotori	So we can't talk to him?	
 Message	Reine	"Since the system is still running, I've been
 trying to reach out to him in safe mode,
@@ -60,7 +60,7 @@ into trouble?!"
 Message	Tohka	"What's going on, Kotori? Reine? What happened to
 Shido? He seems to be sleeping... Can we not wake
 him?"	
-Message	Yoshinon	"We can't do that, Tohka-chan. Judging from what I\njust heard, if we force Shido-kun off, it seems\nlike it won't end well for him."	
+Message	Yoshinon	We can't do that, Tohka-chan. Judging from what I\njust heard, if we force Shido-kun off, it seems\nlike it won't end well for him.	
 Message	Reine	Exactly...	
 Message	Yoshino	N-No... Shido-san...	
 Message	Tohka	"Then, Shido is going to remain like this?! I-Is
@@ -101,7 +101,7 @@ Message	Reine	"No... As I said earlier, it's pretty much impossible
 to hack into the Fraxinus's main computer."	
 Message	Reine	For a human, that is.	
 Message	Yuzuru	Question. What do you mean by that?	
-Message	Yoshinon	"So you're saying if you're not human,\nyou can do it? Is that it?"	
+Message	Yoshinon	So you're saying if you're not human,\nyou can do it? Is that it?	
 Message	Tohka	Hm? What do you mean by that, Yoshinon?	
 Message	Kotori	"If it's not a human, isn't it obvious? It must be
 the doing of an unidentified Spirit..."	

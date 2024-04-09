@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	(All right, I'll invite Tohka out on a date.)	
 Message	None	"(It's a bit embarrassing to do it in the
 classroom, so I'll just wait for her here.)"	
@@ -78,15 +78,15 @@ Message	Tohka	"N-No, I'm fine! I'm fine, b-but
 please wait a moment."	
 Message	Shido	What is she going to do...?	
 Message	Tohka	Ohh, this is it!	
-Message	Tohka	"Hmm... "Summer's kicking off to a hot start, and
+Message	Tohka	"Hmm... Summer's kicking off to a hot start, and
 beautiful bimbos with rockin' bods have the upper
-hand!" ...No, that doesn't seem right..."	
-Message	Tohka	"...Hm? "Unlock the secrets to his desire! In this
+hand!"" ...No, that doesn't seem right..."""	
+Message	Tohka	"...Hm? Unlock the secrets to his desire! In this
 step-by-step guide, you'll learn how you can
-pull your bad boy in by the―" ...No, no!"	
+pull your bad boy in by the―"" ...No, no!"""	
 Message	Tohka	Hmm? The feature article! This is it!	
-Message	Tohka	"Let me see... "Feminine Date Ideas
-for Elegant Ladies"... Ohh... hmm... I see..."	
+Message	Tohka	"Let me see... Feminine Date Ideas
+for Elegant Ladies""... Ohh... hmm... I see..."""	
 Message	Tohka	...All right! I shall go with this!	
 Message	None	"(I can hear her mumbling from the other side of
 the building... What is she doing?)"	
@@ -148,7 +148,7 @@ Message	Tohka	"Hah! Then I'll just leave eggs out! It'll be fine
 if I have milk!"	
 Message	Shido	......	
 Message	Tohka	"Ohh... What about that thing? I haven't used the
-"ding"-ing object yet!"	
+ding""-ing object yet!"""	
 Message	Tohka	"Hmmm, anyone can microwave whipping cream...
 Even the clumsiest among us can heat it up and be
 a proper pâtissière! Yes, this is it!"	

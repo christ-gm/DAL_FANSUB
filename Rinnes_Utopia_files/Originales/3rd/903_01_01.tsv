@@ -156,9 +156,9 @@ of her. Maybe she's sensing Marina in Maria.)"
 Message	Maria	Sure. Let's find what you're looking for.	
 Message	None	"(I couldn't add to what Maria said. I still didn't
 know if I could let Rio find it.)"	
-Message	None	"(But even so, we set off to look for "the most
-important thing". There were no hints to speak of, so
-all we could do was walk around town.)"	
+Message	None	"""(But even so, we set off to look for ""the most
+important thing"". There were no hints to speak of, so
+all we could do was walk around town.)"""	
 Message	Rio	Papa, do you think it'll be in this store?	
 Message	Shido	"Hey, Rio... Is what you're looking for something we
 can buy?"	
@@ -170,9 +170,9 @@ see it anywhere."
 Message	Maria	"So we have no choice but to look where Rio thinks...
 In that case, this will be very difficult."	
 Message	Shido	...Sure will be.	
-Message	None	"(I gave a wry smile but... I was relieved deep inside.
-If Rio had said, "It looks like a key," then I
-wouldn't have known what to say.)"	
+Message	None	"""(I gave a wry smile but... I was relieved deep inside
+If Rio had said, ""It looks like a key,"" then I.
+wouldn't have known what to say.)"""	
 Message	None	"(If I were really going to help Rio with her search,
 it would be quicker to start by showing her the spare
 key. But I couldn't bring myself to do it.)"	
@@ -207,8 +207,8 @@ Message	Shido	You two look like you're having fun.
 Message	None	"(Rio must be happy to be with Maria. I'm sure it's
 hard to go inside stores with Marina.)"	
 Message	Rio	"Rio saw this on the TV. You're supposed to stack them
-and make them stronger, and then you go "BAM!"
-right?"	
+and make them stronger, and then you go ""BAM!
+right?"""	
 Message	Maria	"That's called a trading card game. There are various
 types of cards that you can gather and use to battle
 with your friends."	
@@ -352,7 +352,7 @@ The weather's nice and the wind is blowing.)"
 Message	Rio	...Hey, Papa. Do you not like it here?	
 Message	Shido	Rio...?	
 Message	None	"(I don't know how I knew, but I realized that when Rio
-said "here", she didn't mean the park.)"	
+said ""here"", she didn't mean the park.)"	
 Message	Rio	"Rio loves it here. I mean, I can see you, Papa. And
 Marina. And... everyone is smiling."	
 Message	None	"(I know. I know that. Everyone's here. There's so
@@ -380,8 +380,8 @@ scene that couldn't happen in reality.)"
 Message	Maria	"Shido... Now that Rio's sleeping, can I ask you one
 thing?"	
 Message	Shido	Hm? What is it?	
-Message	Maria	"Shido... I think you already realize what that "the
-most important thing" is, don't you?"	
+Message	Maria	"""Shido... I think you already realize what that ""the
+most important thing"" is, don't you?"""	
 Message	Shido	...?!	
 Message	None	Thanks Shido... I'll take good care of this.	
 Message	Maria	I knew it...	

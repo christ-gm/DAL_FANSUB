@@ -27,9 +27,9 @@ song through Tohka's expressions. I'm almost
 jealous at times.)"	
 Message	None	"(Even today, her moods sway as she watches
 the rankings update.)"	
-Message	Tohka	"The lyrics are, "I recall drinking sake with
-you, before your final journey." So tragic.
-So, so sad."	
+Message	Tohka	"""The lyrics are, ""I recall drinking sake with
+you, before your final journey."" So tragic.
+So, so sad."""	
 Message	None	"(I never knew the Enka genre would chart
 that high. That's rare... Just earlier, an idol
 group was happily singing and dancing.)"	
@@ -171,7 +171,7 @@ Message	None	"(Tohka gripped my hand tightly as the intense
 intro began to play.)"	
 Message	None	"(This was the opening theme for a mecha-anime
 that Tohka loves. Fans refer to the famous male
-and female duo as "Aniki and Princess".)"	
+and female duo as ""Aniki and Princess"".)"	
 Message	None	(Its melodies moved with fiery passion.)	
 Message	Tohka	Nice song selection, Shido!	
 Message	Shido	"Since you've heard this song a ton of times,
@@ -230,9 +230,9 @@ Message	Shido	This is what I'm capable of!
 Message	None	(...I want to cry.)	
 Message	None	"(When the intro started, a blank expression
 appeared immediately on Tohka's face.)"	
-Message	Tohka	"Hm. What a touching intro. Images of cherry
-blossoms on the screen. The kanji for "heart".
-A melody so beautiful, yet melancholic."	
+Message	Tohka	"""Hm. What a touching intro. Images of cherry
+blossoms on the screen. The kanji for ""heart"".
+A melody so beautiful, yet melancholic."""	
 Message	Shido	T-Tohka, you sure are somber...	
 Message	Tohka	"Such a word is foolish. Shido, what else can
 a true singer be?"	

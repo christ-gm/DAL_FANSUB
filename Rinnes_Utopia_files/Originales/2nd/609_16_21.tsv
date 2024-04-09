@@ -1,11 +1,11 @@
 ﻿Operator	Comment	Key	Translation
-Message	Reine	"...Stop. It looks as though the path to the\nMother Room is just right there."	
+Message	Reine	...Stop. It looks as though the path to the\nMother Room is just right there.	
 Message	Shido	"This area. It looks like space has been ripped
 in half."	
-Message	Reine	"...Yes. Correct. From here on, there is no\ndefined path."	
+Message	Reine	...Yes. Correct. From here on, there is no\ndefined path.	
 Message	Maria	"I believe I can lead the way. I can feel
 Marina's presence nearby."	
-Message	Reine	"How helpful. She should be able to sense\nyou as well. Be careful."	
+Message	Reine	How helpful. She should be able to sense\nyou as well. Be careful.	
 Message	Shido	Okay, let's go.	
 Message	None	"(Man, what a sight. It's almost like there's
 ground beneath my feet. But if I let my
@@ -56,9 +56,9 @@ Message	Shido	"Are there dozens of her...? No, there's more
 than that!"	
 Message	Kurumi	My, my. She's provoking us quite a bit.	
 Message	Shido	Is it anything like your clones, Kurumi?	
-Message	Kurumi	"They differ slightly from "us". "They" are
-"me" from another timeline, but this—"	
-Message	Reine	"They're exact copies. Much like Kurumi's\nother selves, the real Marina is the strongest,\nbut with so many—"	
+Message	Kurumi	"""They differ slightly from ""us"". ""They"" are
+me"" from another timeline, but this—"	
+Message	Reine	They're exact copies. Much like Kurumi's\nother selves, the real Marina is the strongest,\nbut with so many—	
 Message	Marina	"That's right. There's no limit. I can copy
 myself as many times as I want."	
 Message	Marina	Can you *really* win?	
@@ -81,11 +81,11 @@ Message	Marina	Ha... We'll see about that!
 Message	Kotori	"You getting flustered is evidence enough!
 Shido, take Maria and go ahead."	
 Message	Shido	Are you planning to stay behind, Kotori?	
-Message	Kotori	"Right. I'm doing a "Go ahead and leave it
-to me" bit."	
+Message	Kotori	"""Right. I'm doing a ""Go ahead and leave it
+to me"" bit."	
 Message	Shido	"Isn't it better if everyone fought as a
 group? There's too many of her."	
-Message	Yoshinon	"Didn't Reine-san say there's no time? That's\nwhy you gotta go, Shido-kun and Maria-chan!"	
+Message	Yoshinon	Didn't Reine-san say there's no time? That's\nwhy you gotta go, Shido-kun and Maria-chan!	
 Message	Yoshino	"We're... fine here. We'll hold them back as a
 team."	
 Message	Shido	Even you, Yoshino? Well, I...	

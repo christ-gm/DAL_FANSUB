@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	"(All right! I'm an hour early for our meeting.
 Origami's the type that comes early,
 so this is...!)"	
@@ -62,8 +62,8 @@ Message	None	"(Origami's smart, so I think it's better to
 watch a comedy.)"	
 Message	None	"(I got in line for the box office, and got two
 tickets.)"	
-Message	None	"(It's a hilarious comedy called "Mister Norman,"
-so this should be great.)"	
+Message	None	"(It's a hilarious comedy called ""Mister Norman,
+so this should be great.)"""	
 Message	None	"(We'll watch a dumb flick together and be a
 normal couple. Laughing together, crying
 together. This'll make up for last time!)"	
@@ -74,7 +74,7 @@ already, so let's head inside."
 Message	Origami	...	
 Message	None	"(Alone with Origami. Although our row was
 relatively far in the back, we found a couple of
-seats in the center and watched "Mister Norman.")"	
+seats in the center and watched ""Mister Norman."")"	
 Message	None	"(From the get-go, people laughed their butts
 off, but Origami didn't react at all. Maybe if
 we keep watching...)"	
@@ -91,7 +91,7 @@ Message	Shido	O-Origami?
 Message	Origami	Mm...?	
 Message	Shido	Um, how'd you like the movie? Did you like it?	
 Message	Origami	It was fun. Very fun.	
-Message	None	"(Whoa? Did she say "very"? Why didn't it
+Message	None	"(Whoa? Did she say ""very""? Why didn't it
 seem like she had fun?)"	
 Message	Shido	"I see... You didn't seem to enjoy it much, so
 I thought I picked the wrong movie."	

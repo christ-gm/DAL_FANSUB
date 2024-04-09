@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	"(...How strange. How can the memory of a
 world long passed still exist...?)"	
 Message	None	(Did something happen to Eden...?)	
@@ -92,10 +92,10 @@ Message	Tohka	"Hm. Understood. Then I'll be sure to do so
 next time."	
 Message	Shido	Right.	
 Message	Yoshino	Shido-san... Good morning!	
-Message	Yoshinon	"Hey hey, Shido! You're up!"	
+Message	Yoshinon	Hey hey, Shido! You're up!	
 Message	Shido	Oh. It's Yoshino and Yoshinon. Mornin'.	
 Message	Yoshino	Y... Yes!	
-Message	Yoshinon	"Heeeeey. Real sorry to see that happened to\nyou, Shido. If you slept for just a bit longer,\nYoshino might've been the one to wake you."	
+Message	Yoshinon	Heeeeey. Real sorry to see that happened to\nyou, Shido. If you slept for just a bit longer,\nYoshino might've been the one to wake you.	
 Message	Yoshino	...	
 Message	Shido	"R-Right. At least I'll have that to look forward
 to next time."	
@@ -103,8 +103,7 @@ Message	Tohka	Mm...
 Message	Shido	Hm? What's up, Tohka?	
 Message	Tohka	Shido... I want you to tell me something.	
 Message	Shido	What is it?	
-Message	Tohka	"What exactly is a "dropkick"?
-How does dropping come into play?"	
+Message	Tohka	"What exactly is a dropkick""? How does dropping come into play?"""	
 Message	Shido	Huh?	
 Message	Shido	"Tohka... What were you planning to do if I
 had still been asleep...?"	
@@ -141,7 +140,7 @@ Message	Shido	Uh... Yoshino?
 Message	Yoshino	Y-Yes?!	
 Message	Shido	Would you mind joining her downstairs?	
 Message	Yoshino	...Okay.	
-Message	Yoshinon	"Gosh, Shido. You're so shy."	
+Message	Yoshinon	Gosh, Shido. You're so shy.	
 Message	Shido	"Finally, they're gone... When everyone's here,
 the mornings are pure chaos."	
 Message	None	"(But there's some comfort to be found in
@@ -168,8 +167,7 @@ from flattering me."
 Message	Tohka	"R-Rinne... Does that mean seconds are out of
 the question?"	
 Message	Rinne	Huh? Seconds...	
-Message	Shido	"You said, "You won't get anything."
-That's what Tohka's worried about."	
+Message	Shido	"You said, You won't get anything."" That's what Tohka's worried about."""	
 Message	Rinne	"Oh, I see what you mean. No need to worry,
 Tohka-chan. I've prepared seconds. Just make
 sure to chew before you swallow, okay?"	
@@ -183,7 +181,7 @@ Message	Rinne	"Oh. You aren't good with hot food, right?
 I tried cooling the miso soup beforehand.
 Is it all right?"	
 Message	Yoshino	Th-Thank... you...	
-Message	Yoshinon	"Boy, Rinne. You're so thoughtful. You'd make\nthe ideal wife!"	
+Message	Yoshinon	Boy, Rinne. You're so thoughtful. You'd make\nthe ideal wife!	
 Message	Shido	"You can say that again. Who knows where I'd
 be without her housework."	
 Message	Tohka	"Indeed, and she sure knows her way around the
@@ -194,17 +192,17 @@ Message	Kotori	"Hmm. Onii-chan has been hitting on Rinne
 since this morning! Rinne's not gonna like that!"	
 Message	Rinne	"Oh, it's not like that, Kotori! I'm flattered.
 Not upset."	
-Message	Yoshinon	"Ahahaha! Rinne, you're adorable. Looks like\nyou'll be Yoshino's biggest rival!"	
+Message	Yoshinon	Ahahaha! Rinne, you're adorable. Looks like\nyou'll be Yoshino's biggest rival!	
 Message	Yoshino	...Yoshinon?!	
 Message	Shido	Rival? Are you two gearing up for battle?	
-Message	Yoshinon	"*Sigh*... What am I to do with you, Shido?\nGoodness. I fear what's to come..."	
+Message	Yoshinon	*Sigh*... What am I to do with you, Shido?\nGoodness. I fear what's to come...	
 Message	Kotori	Hahaha! That's just Onii-chan being Onii-chan.	
 Message	None	"(I may not know what's going on, but I can tell
 when I'm being mocked. Wear that ribbon all
 you want, little sister. You're still evil...)"	
 Message	Shido	"Hey Kotori, you'd better not be a bad influence
 on Tohka."	
-Message	Kotori	What do you mean, "bad influence"?	
+Message	Kotori	"What do you mean, ""bad influence""?"	
 Message	Shido	"If I get dropkicked while I'm sleeping, then
 there'll be hell to pay."	
 Message	Kotori	Whaaaaat? You could totally handle it.	
@@ -225,13 +223,13 @@ you, Shido. You can have one of mine."
 Message	Shido	But then you'll be hungry, won't you, Rinne?	
 Message	Rinne	It's fine. I want you to have mine.	
 Message	Shido	B-But...	
-Message	Rinne	Here you go, Shido. Say, "Aah."	
+Message	Rinne	"Here you go, Shido. Say, ""Aah."""	
 Message	Shido	Ahhh...	
 Message	Rinne	Hehe. Thanks.	
 Message	Tohka	Hm? No fair, Rinne! I want to feed Shido, too!	
 Message	Yoshino	Oh... I'd like to... feed him, as well...	
 Message	Kotori	Oh? Then let me have a go, too!	
-Message	Yoshinon	"You're amazing, Shido."	
+Message	Yoshinon	You're amazing, Shido.	
 Message	Rinne	"H... Hey guys? What do we do, Shido? I...
 I might have made a mistake."	
 Message	Shido	"Anyways, we can all take turns next time, okay?
@@ -255,20 +253,20 @@ Message	Shido	Thanks, Rinne.
 Message	Rinne	"You're welcome. Stop blabbering, and make
 sure to eat, okay?"	
 Message	Shido	Yeah, yeah. I know.	
-Message	Newscaster	"—An owner of the zoo in Tengu City..."	
+Message	Newscaster	—An owner of the zoo in Tengu City...	
 Message	None	Hm...?	
 Message	None	"(My ears couldn't help from perking up,
 as I'd recognized the name of the city on
 the news.)"	
-Message	Newscaster	"...Three days have passed since the 56-year-old\nman was first reported as missing."	
+Message	Newscaster	...Three days have passed since the 56-year-old\nman was first reported as missing.	
 Message	Shido	Ah... Looks like they haven't found him yet.	
 Message	Rinne	"Without the owner, who knows how bananas
 the zoo must be..."	
-Message	Newscaster	"It is believed that foul play could be\ninvolved, and so the authorities are continuing\ntheir investigations..."	
+Message	Newscaster	It is believed that foul play could be\ninvolved, and so the authorities are continuing\ntheir investigations...	
 Message	None	"(Apart from the spacequakes, I figured this
 town was pretty peaceful, but lately, it seems
 like we've gotten nothing but depressing news.)"	
-Message	Newscaster	"Onto our next story, multiple reports of\nmissing pets have been popping up\nthroughout Tengu City."	
+Message	Newscaster	Onto our next story, multiple reports of\nmissing pets have been popping up\nthroughout Tengu City.	
 Message	Shido	"Man, first a missing zookeeper, and now pets?
 What's going on?"	
 Message	Kotori	"Aah. Don't tell me they're being abducted
@@ -281,7 +279,7 @@ Sure seems like one."
 Message	Kotori	"Oh! The curtain for battle will soon rise...
 It's the fate of the world!"	
 Message	Tohka	Battle?! Is there an enemy coming, Kotori?!	
-Message	Yoshinon	"Tohka's said it, so it's bound to happen!\nYippie!"	
+Message	Yoshinon	Tohka's said it, so it's bound to happen!\nYippie!	
 Message	Shido	Don't say stuff like that!	
 Message	Rinne	Tohka, it's a joke. Calm down, okay...?	
 Message	Tohka	Oh... It was a joke?	
@@ -311,7 +309,7 @@ keep my cool. Rinne doesn't know Tohka's a
 Spirit, and if we overreact, her cover's blown.)"	
 Message	Shido	I was just caught off-guard, is all...	
 Message	Yoshino	M-Me too...	
-Message	Yoshinon	"Tohka-chan, you okay? Even Yoshinon was\nstartled by that."	
+Message	Yoshinon	Tohka-chan, you okay? Even Yoshinon was\nstartled by that.	
 Message	Rinne	"You sure you're all right? Did you cut your
 hand or anything?"	
 Message	Tohka	Well, I'm fine, but...	
@@ -341,7 +339,7 @@ bowl, raised high for seconds. After everything
 that happened, Tohka still wants to eat?!)"	
 Message	Yoshino	T-Tohka-san... D-Don't push yourself!	
 Message	Tohka	Hm? Why would you say that?	
-Message	Yoshinon	"Now now, Tohka-chan. Take it easy, and\nmaybe go for a smaller portion, okay?"	
+Message	Yoshinon	Now now, Tohka-chan. Take it easy, and\nmaybe go for a smaller portion, okay?	
 Message	Rinne	"Yoshino-chan has a point. If you overeat
 and become sick, that wouldn't be good."	
 Message	Shido	She's right... Tohka, maybe hold off on seconds?	
@@ -496,7 +494,7 @@ together. Anything could happen."
 Message	Kotori	"Consider the fact that the patriarch of
 the house is a useless wimp whose only
 redeeming quality is his harmlessness..."	
-Message	Shido	"Only redeeming quality is his harmlessness"...\nHey, are you talking about me?!	
+Message	Shido	Only redeeming quality is his harmlessness...\nHey, are you talking about me?!	
 Message	Kotori	Who else???	
 Message	Shido	"Gah... Huh? Wait... These keys look awfully
 cutesy."	

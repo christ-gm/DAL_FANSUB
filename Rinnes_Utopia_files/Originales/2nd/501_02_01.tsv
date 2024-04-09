@@ -33,12 +33,12 @@ Message	Tohka	"My, you're very kind. I'm the owner of this shop.
 My name is Tohka."	
 Message	Shido	O-Oh, so you're the owner. I'm sorry...	
 Message	Shido	Tohka, that sounds familiar...	
-Message	Shido	Oh, that's right. "Iyo Tohka do."	
+Message	Shido	"Oh, that's right. ""Iyo Tohka do."""	
 Message	Tohka	"Yes. I'm embarrassed to admit that my name is in
 the shop's name."	
 Message	Shido	"I see. No wonder why it sounded so familiar. Makes
 sense."	
-Message	Shido	But then, what does the "Iyo" part mean?	
+Message	Shido	"But then, what does the ""Iyo"" part mean?"	
 Message	Tohka	My grandfather passed away a few years ago.	
 Message	Shido	Huh? O-Oh okay... I see... So it's his name, huh?	
 Message	Tohka	"My grandfather started this place, and named it a
@@ -46,7 +46,7 @@ combination of his and my name, but I am currently
 the sole owner."	
 Message	Shido	"I-I see. I'm sorry for asking such a sensitive
 question... I wish I could have met Iyo-san."	
-Message	Tohka	It's actually pronounced "Iyo."	
+Message	Tohka	"It's actually pronounced ""Iyo."""	
 Message	Shido	Oh, I'm sorry!	
 Message	Tohka	"It's fine. I may not be worthy, but I would love
 to show you around."	
@@ -86,13 +86,13 @@ Message	Shido	"No. My little sister doesn't play golf. I think.
 That's not it, I'm looking for the kind of tea set
 that an antique shop carries."	
 Message	Tohka	"Oh, my apologies. I have mistaken the type of
-"tee" you were looking for."	
+""tee"" you were looking for."	
 Message	Shido	Well yeah, but this is an antique shop, isn't it?	
 Message	Tohka	Well then, please have a look to your right.	
 Message	Shido	"Right side...? Oh... I see something,
 but what is it?"	
-Message	Shido	"It's a huge letter "T"... And there's a chain, a
-whip, and a candle... And what's this?"	
+Message	Shido	"""It's a huge letter ""T""... And there's a chain, a
+whip, and a candle... And what's this?"""	
 Message	Shido	"Huh? A toothpick, a cross, teriyaki jerky...
 What?! A table runner, and even a toy duck..."	
 Message	Tohka	It's a T-set.	

@@ -1,10 +1,10 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	Shido	A transmission? Who's it from?	
-Message	Kannazuki	"Hello...? Oh, Shido-kun! I'm glad I got\nahold of you."	
+Message	Kannazuki	Hello...? Oh, Shido-kun! I'm glad I got\nahold of you.	
 Message	Shido	...Kannazuki-san? What's the matter?	
-Message	Kannazuki	"Don't 'what's the matter' me! I tried to\nperform my usual reporting, but I can't\nseem to get ahold of the commander."	
+Message	Kannazuki	Don't 'what's the matter' me! I tried to\nperform my usual reporting, but I can't\nseem to get ahold of the commander.	
 Message	Shido	Kotori...?	
-Message	Kannazuki	"Yes, the commander mentioned that she\nhad a meeting at school today, so I was\nhoping she'd be somewhere nearby."	
+Message	Kannazuki	Yes, the commander mentioned that she\nhad a meeting at school today, so I was\nhoping she'd be somewhere nearby.	
 Message	Shido	"Oh, then would you like me to visit Reine?
 Oh, wait..."	
 Message	Shido	Hey, I see her... I found Kotori.	
@@ -33,14 +33,12 @@ Spirits!"
 Message	Shido	WHOA!	
 Message	Kotori	What's the point of hitting on me?!	
 Message	Shido	I-I was only... watching out for you...	
-Message	Kannazuki	"Ahhh, Shido-kun! What an honor, to be\nstrong-armed by the commander. What I\nwould give to be in your position!	
-Message	Shido	K-Kannazuki-san...	
-Message	Shido	"Hey, are you all right? You're the commander
-of the Ratatoskr, right? Are you slipping up?"	
-Message	Kotori	Shut up! That's not for you to say!	
+Message	Kannazuki	"Ahhh, Shido-kun! What an honor, to be\nstrong-armed by the commander. What I\nwould give to be in your position!
+Message Shido K-Kannazuki-san...
+Message Shido Hey, are you all right? You're the commander of the Ratatoskr, right? Are you slipping up?"""	
 Message	Shido	GWAH!	
 Message	Kotori	"Ratatoskr is none of your concern. Don't talk
 to me like you know what you're talking about!"	
 Message	Shido	*whimper*... Okay.	
-Message	Kannazuki	"Aww. The commander elegantly told you\nto put a cork in it... I'm so envious! If you\ncould, please teach me your ways!"	
+Message	Kannazuki	Aww. The commander elegantly told you\nto put a cork in it... I'm so envious! If you\ncould, please teach me your ways!	
 Message	Shido	...I-I wouldn't recommend it.	

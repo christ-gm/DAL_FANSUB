@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	Tohka	So, that's how it is...	
 Message	Ai	*Sniffle* I see, I see. What a touching effort...!	
 Message	Ai	"All right! Then I'll pitch in for your sake,
@@ -22,10 +22,10 @@ Message	Ai	"Tohka-chan, love requires strategy! There are
 times when it's bad to be a woman who walks one
 step back, or is modest, or always serving a man!"	
 Message	Tohka	...?	
-Message	Ai	"It's called the ol' "push and pull"! You have to
+Message	Ai	"It's called the ol' ""push and pull""! You have to
 push once... and then pull him back in again."	
 Message	Tohka	"Hmm... This is difficult... That wasn't written
-in the "man-gazine"..."	
+in the ""man-gazine""..."	
 Message	Mai	"Well, it does make a good reference for many
 things..."	
 Message	Mii	"As necessary as it is to a woman's arsenal,
@@ -162,26 +162,26 @@ Message	Tohka	Hmmm, I see...
 Message	Shido	"Hm? It's Kotori. I wonder what it is...
 Tohka, wait just a sec."	
 Message	Tohka	All right.	
-Message	Kotori	"Shido, you're in the middle of a date with\nTohka, right? It looks like it's going well."	
+Message	Kotori	Shido, you're in the middle of a date with\nTohka, right? It looks like it's going well.	
 Message	Shido	You can tell if it's going well or not?	
-Message	Kotori	"If we monitor Tohka's mental graph, it's obvious.\nBut we are having troubling linking with your\npositional information. Where are you right now?"	
+Message	Kotori	If we monitor Tohka's mental graph, it's obvious.\nBut we are having troubling linking with your\npositional information. Where are you right now?	
 Message	Shido	At Tengu Cinema.	
-Message	Kotori	"Hmmm, a movie date. So... have you decided what\nmovie to watch?"	
+Message	Kotori	Hmmm, a movie date. So... have you decided what\nmovie to watch?	
 Message	Shido	No, we're about to choose now.	
-Message	Kotori	"I see, then we'll support you, dummy. Just so\nthat the date doesn't fail from your movie\nchoice."	
+Message	Kotori	I see, then we'll support you, dummy. Just so\nthat the date doesn't fail from your movie\nchoice.	
 Message	Shido	Sorry for being a dummy!	
-Message	Kotori	"Yeah, yeah, keep complaining. For now, we'll\nnarrow down the movie genres from here!"	
+Message	Kotori	Yeah, yeah, keep complaining. For now, we'll\nnarrow down the movie genres from here!	
 Message	Shido	"I-I see... It looks like there are a lot,
 so it'd be helpful."	
-Message	Kotori	"Usually, I'd tell you the titles, but with the\ncurrent state of the Fraxinus, it's impossible.\nYou'll have to judge for yourself from there."	
+Message	Kotori	Usually, I'd tell you the titles, but with the\ncurrent state of the Fraxinus, it's impossible.\nYou'll have to judge for yourself from there.	
 Message	Shido	Hmm, got it.	
-Message	Kotori	"We will reference both data from normal girls as\nwell as Tohka to supply you with possible choices\nto compare with the movies at your location."	
+Message	Kotori	We will reference both data from normal girls as\nwell as Tohka to supply you with possible choices\nto compare with the movies at your location.	
 Message	Shido	Even that much is helpful.	
-Message	Kotori	"All right, there it is... I'll send it now."	
+Message	Kotori	All right, there it is... I'll send it now.	
 Message	Shido	Right.	
-Message	Kotori	"Be careful in determining what Tohka would like.\nEven one mistake could lead to a stressful night,\nand possibly have her lose control, you got it?"	
+Message	Kotori	Be careful in determining what Tohka would like.\nEven one mistake could lead to a stressful night,\nand possibly have her lose control, you got it?	
 Message	Shido	I-I'll be careful...	
-Message	Kotori	"Well then, I'll pray for the success\nof your date."	
+Message	Kotori	Well then, I'll pray for the success\nof your date.	
 Message	None	"(Hmmm, Sci-fi adventure, romance, and horror
 genres, huh... Which would be good for Tohka?)"	
 Choice		3-D blockbuster! Sci-fi adventure!	
@@ -204,9 +204,9 @@ Message	Tohka	"Hm?! I-I see! I am good with anything as long as
 I can watch it with you, Shido!"	
 Message	Shido	"Uh...! Er... I-I'm sure you'll enjoy it too,
 Tohka."	
-Message	Shido	"Um... It's a 3D movie called "Captain Joker."
+Message	Shido	"Um... It's a 3D movie called ""Captain Joker. 
 You can see a lot of things pop out at you
-from the screen. Doesn't it sound interesting?"	
+from the screen. Doesn't it sound interesting?"""	
 Message	Tohka	"Ohh! It sounds like fun!
 Let us hurry and go, then!"	
 Message	Shido	"W-Wait just a sec!
@@ -224,7 +224,7 @@ Message	None	"(In the year 0088 of the New Cosmic Calendar,
 humanity sent out an exploration vessel to search
 for a new home outside of the solar system...)"	
 Message	None	"(A mysterious message from the vessel arrives
-—"Argh, the spiders! The spiders!"—
+—""Argh, the spiders! The spiders!""—
 before suddenly cutting out.)"	
 Message	None	"(The solar system is ensnared by the giant space
 spiders, wrapping stars in webs while traveling,
@@ -252,7 +252,7 @@ Message	Shido	"No... it's fine, but you have to be quiet in
 a theater, okay...?"	
 Message	Tohka	Y-Yes... I was trying to, but―	
 Message	Tohka	"Hm?! Sh-Shido!
-"Captain Joker" is in danger!"	
+""Captain Joker"" is in danger!"	
 Message	Tohka	"C-Curse you giant spiders! How cowardly to attack
 in such large numbers!"	
 Message	Shido	H-Hey...!	
@@ -282,23 +282,23 @@ Message	Shido	H-Hey! Tohka...!
 Message	None	"(Hmmm... did I mess up with the movie selection?
 It looked like she was enjoying it, but maybe it
 was pushing it to ask Tohka to stay quiet...)"	
-Message	Kotori	"Hey... Tohka's mental state's gotten pretty\nunstable, you know?"	
+Message	Kotori	Hey... Tohka's mental state's gotten pretty\nunstable, you know?	
 Message	Shido	"Well, it was going fine until a certain point...
 She got so into the movie and was so loud that
 we got scolded. She seems depressed now..."	
-Message	Kotori	"I see. Well, I guess it was her first time...\nSo, what did you end up watching?"	
+Message	Kotori	I see. Well, I guess it was her first time...\nSo, what did you end up watching?	
 Message	Shido	A science fiction flick, Captain Joker.	
-Message	Kotori	"...While her mental graph gets tense halfway,\nher enjoyment metrics scored really high. It\nlooks like you had the right idea, at least."	
+Message	Kotori	...While her mental graph gets tense halfway,\nher enjoyment metrics scored really high. It\nlooks like you had the right idea, at least.	
 Message	Shido	I-I wonder...	
-Message	Kotori	"It's just that your guidance and support skills\nwere lacking."	
+Message	Kotori	It's just that your guidance and support skills\nwere lacking.	
 Message	Shido	―Urgh!	
-Message	Kotori	"Conversely... You could say we made it through\n with just this outcome because it was you,\nShido."	
+Message	Kotori	Conversely... You could say we made it through\n with just this outcome because it was you,\nShido.	
 Message	Shido	Huh...?	
 Message	Kotori	"You're really dense... Speaking of which,
 what's Tohka doing?""	
-Message	Shido	"W-Well, she said she'd go home first,
+Message	Shido	""W-Well, she said she'd go home first,
 so she left by herself―"	
-Message	Kotori	"Why didn't you say so?! Didn't I tell you that we\ncan't monitor your positional info from here?!\nFind her right now and follow up, dumbass!"	
+Message	Kotori	Why didn't you say so?! Didn't I tell you that we\ncan't monitor your positional info from here?!\nFind her right now and follow up, dumbass!	
 Message	Shido	You're right... I have to support Tohka.	
 Message	None	"(Even if she's a Spirit, Tohka still seems like
 a regular girl. I hope she'll like this kind of
@@ -318,7 +318,7 @@ Message	Tohka	"Hm?! I-I see! I am good with anything
 as long as I can watch it with you, Shido!"	
 Message	Shido	"Uh...! Er... I-I'm sure you'll enjoy
 it too, Tohka."	
-Message	Shido	"Umm... It's called "One Last Week," which is based
+Message	Shido	"Umm... It's called ""One Last Week,"" which is based
 on a best-selling novel..."	
 Message	Tohka	"One Last Week?! That seems quite interesting!
 Then let us hurry and watch!"	
@@ -378,29 +378,29 @@ Message	Shido	H-Hey! Tohka...!
 Message	None	"(Hmmm... did I mess up with the movie selection?
 It looked like she was enjoying it, but maybe it
 was pushing it to ask Tohka to stay quiet...)"	
-Message	Kotori	"Hey... Tohka's mental state's gotten pretty\nunstable, you know?"	
+Message	Kotori	Hey... Tohka's mental state's gotten pretty\nunstable, you know?	
 Message	Shido	"Well... She cried a lot towards the end and we got
 scolded. She seems depressed because of that..."	
-Message	Kotori	"Hmmm... So then, it was a real\ntear-jerker, was it?"	
-Message	Shido	Right. The one called "One Week Left".	
-Message	Kotori	"...While her mental graph gets tense halfway,\nher enjoyment metrics scored really high. It\nlooks like you had the right idea, at least."	
+Message	Kotori	Hmmm... So then, it was a real\ntear-jerker, was it?	
+Message	Shido	"Right. The one called ""One Week Left""."	
+Message	Kotori	...While her mental graph gets tense halfway,\nher enjoyment metrics scored really high. It\nlooks like you had the right idea, at least.	
 Message	Shido	I-I wonder...	
-Message	Kotori	"It's just that your guidance and support skills\nwere lacking."	
+Message	Kotori	It's just that your guidance and support skills\nwere lacking.	
 Message	Shido	―Urgh!	
-Message	Kotori	"Conversely... You could say we made it through\n with just this outcome because it was you,\nShido."	
+Message	Kotori	Conversely... You could say we made it through\n with just this outcome because it was you,\nShido.	
 Message	Shido	Huh...?	
 Message	Kotori	"You're really dense... Speaking of which,
 what's Tohka doing?""	
-Message	Shido	"W-Well, she said she'd go home first,
+Message	Shido	""W-Well, she said she'd go home first,
 so she left by herself―"	
-Message	Kotori	"Why didn't you say so?! Didn't I tell you that we\ncan't monitor your positional info from here?!\nFind her right now and follow up, dumbass!"	
+Message	Kotori	Why didn't you say so?! Didn't I tell you that we\ncan't monitor your positional info from here?!\nFind her right now and follow up, dumbass!	
 Message	Shido	You're right... I have to support Tohka.	
 Message	None	"(Yeah, since Tohka is fine with... and in fact,
 has fun with... tests of courage, she might
 like this...)"	
 Message	None	"(The problem is what kind of horror movie they're
 showing. Hm... That, huh...? It looks like your
-average "B-movie", but...)"	
+average ""B-movie"", but...)"	
 Message	Shido	All right, Tohka, let's go see that!	
 Message	Tohka	"Hm...while watching a movie...
 graceful and reserved..."	
@@ -413,7 +413,7 @@ as long as I can watch it with you, Shido!"
 Message	Shido	"Uh...! Er... I-I'm sure you'll enjoy
 it too, Tohka."	
 Message	Shido	"Umm, I don't know the details, but it's a horror
-film called "Guilty Land"."	
+film called ""Guilty Land""."	
 Message	Shido	"Just a while ago we did something that was sort
 of like a test of courage, right? It's sort of
 like that, it's kind of a scary movie..."	

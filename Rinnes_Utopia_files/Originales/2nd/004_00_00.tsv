@@ -9,7 +9,7 @@ Message	Shido	No, you totally forgot to tell me, didn't you?
 Message	Reine	Of course not. Right, everyone?	
 Message	Tohka	Yeah!	
 Message	Yoshino	Y-Yes...	
-Message	Yoshinon	"Reine-san called us because she said we'd\nsee something fun!"	
+Message	Yoshinon	Reine-san called us because she said we'd\nsee something fun!	
 Message	Kaguya	"Hehe... The fact that you've called me here
 must mean you've prepared an offering."	
 Message	Yuzuru	"Request. I am hungry, so let us hurry up and
@@ -20,16 +20,16 @@ Message	Shido	"I-It's pretty crazy to see everyone gathered
 here..."	
 Message	Shido	"We're going to play a game, right? Judging by
 the number of people, is it a party game?"	
-Message	Tohka	"Geme"? We were called to play this thing\ncalled "geme"?	
+Message	Tohka	"""Geme""? We were called to play this thing\ncalled ""geme""?"	
 Message	Reine	"Well, yes. I've told Shin a little about it, but
 this is the launch party for Ratatoskr's new game,
-"My Little Shido 2"."	
+""My Little Shido 2""."	
 Message	Shido	"Launch party... If we're just going to play the
 game... why did it have to be at the Fraxinus?"	
 Message	Kotori	Well there's a reason for that.	
 Message	Shido	What do you mean?	
-Message	Kotori	"This time, "My Little Shido 2" is a
-super-simulated reality love game."	
+Message	Kotori	"""This time, ""My Little Shido 2"" is a
+super-simulated reality love game."""	
 Message	Shido	Super... simulated... what?	
 Message	Kotori	"Simulated. If you mess it up, I will step on
 you."	
@@ -53,9 +53,9 @@ Message	Kotori	"Stop complaining or I'll make you a dog in the
 VR world."	
 Message	Shido	Sorry. I'd rather you not...	
 Message	Shido	Man, this is some equipment...	
-Message	Reine	"Yeah. This is a room designated for "My Little
-Shido 2" and we've expanded the facility just
-for that."	
+Message	Reine	"""Yeah. This is a room designated for ""My Little
+Shido 2"" and we've expanded the facility just
+for that."""	
 Message	Shido	"This is the only time you've really sunk all your
 effort into something."	
 Message	Kotori	"Well, let's start and have you sit there, Shido.
@@ -63,7 +63,7 @@ Reine will configure the settings, so just
 relax."	
 Message	Reine	Well, it's just a game. Don't be so nervous.	
 Message	Tohka	"So what should we do? I want to play with
-Shido! "Geme" with Shido!"	
+Shido! ""Geme"" with Shido!"	
 Message	Reine	"Sorry, Tohka, but this game is for one person.
 I can't have individual devices run on their
 own."	
@@ -81,7 +81,7 @@ Huh?!"
 Message	Miku	"Hm, I do want to see my darling become moe.
 Hehe. I'm sure it'll be adorable～"	
 Message	Yoshino	I too... want to see.	
-Message	Yoshinon	"That's true. How often do we get to see that?"	
+Message	Yoshinon	That's true. How often do we get to see that?	
 Message	Kaguya	"Hm... Our Shido's embarrassment is something
 worth ingraining into the soul!"	
 Message	Yuzuru	Agreed. Let's burn it into our memories.	
@@ -91,9 +91,9 @@ started."
 Message	Shido	O-Okay...	
 Message	None	"(I still don't get what's going on, but I guess
 they just want me to play it.)"	
-Message	None	"(Well, I'm going to forget that everyone is
-watching. It's not like the original "My Little
-Shido" wasn't crazy in its own right.)"	
+Message	None	"""(Well, I'm going to forget that everyone is
+watching. It's not like the original ""My Little
+Shido"" wasn't crazy in its own right.)"""	
 Message	Shido	Uh... So what should we do?	
 Message	Reine	"Hm... You stay put. Hm... okay.
 Now I'll connect you."	
@@ -111,14 +111,14 @@ Message	Shido	Hmm, did I have a weird dream...?
 Message	None	"(I feel strange, but I know for sure I was at
 home.)"	
 Message	Shido	I guess I'll start making dinner...	
-Message	Kotori	"What are you talking about?"	
+Message	Kotori	What are you talking about?	
 Message	Shido	Huh, Kotori...?	
 Message	None	(I hear her voice clearly, but I don't see her.)	
 Message	Shido	"What the...? Where is her voice coming from?
 I don't even have a transmitter on."	
-Message	Kotori	"..."	
+Message	Kotori	...	
 Message	None	(Silence. That's rare for Kotori.)	
-Message	Kotori	"I'm communicating to your consciousness\ndirectly. You're in the middle of a game, so\nyou don't need a transmitter."	
+Message	Kotori	I'm communicating to your consciousness\ndirectly. You're in the middle of a game, so\nyou don't need a transmitter.	
 Message	Shido	"In a game... What?!
 Th-This is... virtual reality?"	
 Message	None	"(I rushed to touch the nearby chairs and walls.
@@ -128,29 +128,29 @@ my arm and the way my skin feels is like
 normal.)"	
 Message	Shido	If I pinch my cheeks, would it hurt...?	
 Message	Shido	Ouch! Wait, it totally hurts.	
-Message	Kotori	"Your five senses are intact. I told you, this\nis a super-simulated reality. The you in this\nworld is no different than the you in reality."	
+Message	Kotori	Your five senses are intact. I told you, this\nis a super-simulated reality. The you in this\nworld is no different than the you in reality.	
 Message	Shido	So this is super-simulated reality...	
-Message	Kotori	"To be exact, we haven't turned everything\ninto data. Some of the objects, like the\nfurniture, are replicated from your memory."	
+Message	Kotori	To be exact, we haven't turned everything\ninto data. Some of the objects, like the\nfurniture, are replicated from your memory.	
 Message	Shido	I'm creating it from memory...?	
-Message	Kotori	"Well, don't sweat the details. Oh, and the\ntransmitter isn't as reliable as usual."	
+Message	Kotori	Well, don't sweat the details. Oh, and the\ntransmitter isn't as reliable as usual.	
 Message	Shido	So... kind of like bad reception?	
-Message	Kotori	"It's a little different. Your brain synapses and\nreality... Time just flows differently."	
-Message	Kotori	"The simulated reality is faster. So if you\nspend a whole day there, in reality it's only\nten or twenty minutes... Something like that."	
-Message	Kotori	"So we're adjusting the time there to\ncommunicate with you... Anyways, we can\ncontact you well enough to an extent."	
-Message	Kotori	"But we can't give you orders as detailed as\nusual. Well... that's why it's a simulator...\nConsider it as a way to up your game."	
+Message	Kotori	It's a little different. Your brain synapses and\nreality... Time just flows differently.	
+Message	Kotori	The simulated reality is faster. So if you\nspend a whole day there, in reality it's only\nten or twenty minutes... Something like that.	
+Message	Kotori	So we're adjusting the time there to\ncommunicate with you... Anyways, we can\ncontact you well enough to an extent.	
+Message	Kotori	But we can't give you orders as detailed as\nusual. Well... that's why it's a simulator...\nConsider it as a way to up your game.	
 Message	Shido	"Hmm... I kind of get it, but I still don't
 understand it fully."	
 Message	Shido	So, what am I supposed to do?	
-Message	Kotori	"Why don't we start by getting out of the house?\nThere are some events implemented, but for\nnow, just get used to the controls."	
+Message	Kotori	Why don't we start by getting out of the house?\nThere are some events implemented, but for\nnow, just get used to the controls.	
 Message	Shido	Got it. I'll walk around.	
 Message	Shido	Man, I'm inside a game, huh...	
 Message	None	"(I don't sense that anything is off. It all
 looks completely normal. As usual, Ratatoskr's
 technology is just unbelievable.)"	
 Message	Shido	Hey, Kotori. Is all of this around me data, too?	
-Message	Kotori	"Yup. It's pretty much non-playable characters\nthat we're controlling via the programming.\nYou can chat with them."	
+Message	Kotori	Yup. It's pretty much non-playable characters\nthat we're controlling via the programming.\nYou can chat with them.	
 Message	Shido	Wow...	
-Message	Kotori	"We couldn't turn all civilians of Tengu City\ninto data so it's not completely the same. But\nyour neighbors are replicated from memory."	
+Message	Kotori	We couldn't turn all civilians of Tengu City\ninto data so it's not completely the same. But\nyour neighbors are replicated from memory.	
 Message	Shido	Oh, maybe if they're my neighbors... Oh, hello.	
 Message	None	"(I made eye contact with my neighbor Saito-san
 and greeted her out of habit.)"	
@@ -162,18 +162,18 @@ Message	None	"(Since I did think of making dinner earlier...
 I was walking toward the market.)"	
 Message	Shido	"Everywhere looks like the real thing...
 I feel like I can just shop for groceries."	
-Message	Tohka	"Hm? Shopping for groceries? What's for\ndinner, Shido?"	
+Message	Tohka	Hm? Shopping for groceries? What's for\ndinner, Shido?	
 Message	Shido	Whoa! Tohka! Wait, is this a transmission, too?	
-Message	Tohka	"Yeah. We're all observing you. The Shido here\nlooks like he's sleeping, but on the screen,\nyou're walking. It's amazing!"	
+Message	Tohka	Yeah. We're all observing you. The Shido here\nlooks like he's sleeping, but on the screen,\nyou're walking. It's amazing!	
 Message	Shido	"Ah, so the images here are playing on the
 monitor in the room... I feel self-conscious
 knowing that everyone's watching."	
-Message	Tohka	"I want to eat menchi katsu today!\nShido, go to the meat shop there and buy\nsome menchi katsu!"	
+Message	Tohka	I want to eat menchi katsu today!\nShido, go to the meat shop there and buy\nsome menchi katsu!	
 Message	Shido	"Uh, even if I were to buy it here, it's not like
 I can take it back with me."	
 Message	Shido	Huh? If I eat here, would I be able to taste it?	
-Message	Kotori	"We've also replicated taste, so you would be\nable to taste it. Your brain will recognize it\nas food, so you'll feel full as well."	
-Message	Kotori	"Of course, you won't get any nutrients from\nit, so the real you won't be full."	
+Message	Kotori	We've also replicated taste, so you would be\nable to taste it. Your brain will recognize it\nas food, so you'll feel full as well.	
+Message	Kotori	Of course, you won't get any nutrients from\nit, so the real you won't be full.	
 Message	Shido	I see...	
 Message	None	(As I chatted with them—)	
 Message	Shido	Whoa, excuse me...!	
@@ -194,9 +194,9 @@ Message	Tohka	"Shido, you're supposed to have a fateful
 reunion with me in the classroom!"	
 Message	Tohka	I'll be waiting for you, Shido!	
 Message	Shido	What is going on...	
-Message	Tohka	"Oh, wow! Kotori, I'm talking to Shido on the\nscreen!"	
-Message	Kotori	"Yeah, isn't it pretty fun? It's just data, so I\nthink the behaviors are a bit different."	
-Message	Tohka	"It's me, but it's not me... That's very strange.\nHowever, I feel like it lacks intelligence."	
+Message	Tohka	Oh, wow! Kotori, I'm talking to Shido on the\nscreen!	
+Message	Kotori	Yeah, isn't it pretty fun? It's just data, so I\nthink the behaviors are a bit different.	
+Message	Tohka	It's me, but it's not me... That's very strange.\nHowever, I feel like it lacks intelligence.	
 Message	Shido	Well, uh... I don't know.	
 Message	Shido	Are you okay?	
 Message	Origami	"No problem. I was about to be late so I was
@@ -244,9 +244,9 @@ our physique and whose chest hit him first."
 Message	Kaguya	"Ch-Chest size has nothing to do with this!
 Then Yuzuru, you're heavier than me, so you
 should be slower than me."	
-Message	Yuzuru	"Angry. You should not have said the word "heavy".
+Message	Yuzuru	"""Angry. You should not have said the word ""heavy"".
 No matter how cute and perfect you are, Kaguya,
-that is a forbidden word."	
+that is a forbidden word."""	
 Message	Kaguya	"Yuzuru, no matter how pretty you are and how
 perfect your proportions are, I'm the one who
 bumped into Shido first!"	
@@ -298,7 +298,7 @@ Message	Kotori	"I was running late, so I had to keep the toast in
 my mouth. What a coincidence!"	
 Message	Shido	"What are you talking about? Late...?
 It's already after school."	
-Message	Kotori	"It seems like the game is set in the morning\nright now."	
+Message	Kotori	It seems like the game is set in the morning\nright now.	
 Message	Shido	"Morning... Well, I made breakfast this morning,
 remember? You don't have to run with toast in your
 mouth. It's not good for your digestion."	
@@ -308,11 +308,11 @@ racing..."
 Message	Shido	...What's the matter, Kotori? You're acting weird.	
 Message	Kotori	N-No! It's nothing! Later, Onii-chan!	
 Message	Shido	O-Okay... Later.	
-Message	Kotori	"Reine, what the heck was that?"	
-Message	Reine	"The NPC version of Kotori, obviously..."	
-Message	Kotori	"Why is she like that?! Sh-She's blushing all over\nShido!"	
-Message	Reine	"Hm...? I thought I had replicated you to a T.\nI extracted the data from when you were in your\nroom yo—"	
-Message	Kotori	"AHHHHHH! I-It seems like something's gumming\nup the replication, so let's revisit it at another\ntime..."	
+Message	Kotori	Reine, what the heck was that?	
+Message	Reine	The NPC version of Kotori, obviously...	
+Message	Kotori	Why is she like that?! Sh-She's blushing all over\nShido!	
+Message	Reine	Hm...? I thought I had replicated you to a T.\nI extracted the data from when you were in your\nroom yo—	
+Message	Kotori	AHHHHHH! I-It seems like something's gumming\nup the replication, so let's revisit it at another\ntime...	
 Message	Kurumi	"We've bumped into one another. I feel like fate
 has brought us together."	
 Message	Shido	K-Kurumi?! What are you doing here...?	
@@ -345,23 +345,23 @@ Message	Yoshino	*Whimper*... S-Sorry... I was in a rush...
 Message	Shido	Yoshino? What are you doing here?	
 Message	Yoshino	"O-Oh... I was in a rush, and I um... had toast
 in my mouth..."	
-Message	Shido	"Toast? Oh, like the "running late" type of thing?
-But where are you rushing to...?"	
-Message	Yoshinon	"Yoo-hoo, Shido-kun! Who cares where?\nAnyways, anyways, do you not notice anything?"	
+Message	Shido	"""Toast? Oh, like the ""running late"" type of thing?
+But where are you rushing to...?"""	
+Message	Yoshinon	Yoo-hoo, Shido-kun! Who cares where?\nAnyways, anyways, do you not notice anything?	
 Message	Shido	Hm? What do you mean?	
-Message	Yoshinon	"You're so dim! Seriously so dim, Shido-kun!\nA girl running with toast in her mouth! And then\nyou bumped into her by accident!"	
+Message	Yoshinon	You're so dim! Seriously so dim, Shido-kun!\nA girl running with toast in her mouth! And then\nyou bumped into her by accident!	
 Message	Yoshino	"I-I'm sorry. I... wasn't looking
 where I was going..."	
-Message	Yoshinon	"That's not it! Yoshino, you should know, too!\nI mean in the sweet, sweet shoujo manga you're\nreading!"	
+Message	Yoshinon	That's not it! Yoshino, you should know, too!\nI mean in the sweet, sweet shoujo manga you're\nreading!	
 Message	Yoshino	W-Wait.... Yoshinon, what are you talking about?	
-Message	Yoshinon	"A bump like this is the beginning of love! Bam!\nYou bump into him, then you look at each other!\nYoshino waiting! Shido-kun's heart throbbing!"	
+Message	Yoshinon	A bump like this is the beginning of love! Bam!\nYou bump into him, then you look at each other!\nYoshino waiting! Shido-kun's heart throbbing!	
 Message	Yoshino	Y-Yoshinon... S-Stop... Th-That's embarrassing...	
-Message	Yoshinon	"This is definitely a fateful encounter! Don't you\nthink so, Shido-kun?!"	
+Message	Yoshinon	This is definitely a fateful encounter! Don't you\nthink so, Shido-kun?!	
 Message	Shido	"Um, but it's not like we've just met for the first
 time..."	
-Message	Yoshinon	"A-ha! You don't get it at all! With the fateful\nencounter, the girl you looked at as a little\nsister becomes a lady in your eyes."	
-Message	Yoshino	"A l-lady... That's impossible..."	
-Message	Yoshinon	"No, it's not! Well, you just wait and see,\nShido-kun. This meeting will become the\nstart of true love!"	
+Message	Yoshinon	A-ha! You don't get it at all! With the fateful\nencounter, the girl you looked at as a little\nsister becomes a lady in your eyes.	
+Message	Yoshino	A l-lady... That's impossible...	
+Message	Yoshinon	No, it's not! Well, you just wait and see,\nShido-kun. This meeting will become the\nstart of true love!	
 Message	Shido	"I...I don't get what's going on, but...
 Uh, Yoshino... it's dangerous, so you
 watch where you're going, okay?"	
@@ -369,41 +369,41 @@ Message	Yoshino	O-Okay... Thank... you...
 Message	Shido	"And don't run with food in your mouth. If you come
 by the house, I can make you food anytime."	
 Message	Yoshino	Okay... um... Sorry...	
-Message	Yoshinon	"What, what?! Ignoring Yoshinon! Whatever! Love\nstories happen when you least expect it! You'd\nbetter look forward to the reunion!"	
+Message	Yoshinon	What, what?! Ignoring Yoshinon! Whatever! Love\nstories happen when you least expect it! You'd\nbetter look forward to the reunion!	
 Message	Yoshino	"G-Gosh...! Yoshino, let's go.
 Shido-san, um... sorry about that..."	
 Message	Shido	Oh, it's fine. Be careful, okay?	
 Message	Shido	Anyways, what was all that about...?	
-Message	Kotori	"An event. Duh. It's a gal game,\nwhat did you expect?"	
+Message	Kotori	An event. Duh. It's a gal game,\nwhat did you expect?	
 Message	Shido	Event?	
 Message	None	"(True. I remember events being forced on me during
-"My Little Shido"...)"	
+""My Little Shido""...)"	
 Message	None	"(Although the technology had clearly improved,
 it's still a shameful game.)"	
-Message	Kotori	"Well, that was just a sample. As you spend time\nin this world, there will be even more events."	
+Message	Kotori	Well, that was just a sample. As you spend time\nin this world, there will be even more events.	
 Message	Shido	I can't imagine anything but bad things.	
-Message	Kotori	"Shut up. Don't you think the NPCs were really\nhigh quality?"	
+Message	Kotori	Shut up. Don't you think the NPCs were really\nhigh quality?	
 Message	Shido	"Yeah, I thought it was the actual person... Can't
 believe it was just appearances. The event,
-however, seemed pretty forced...""	
-Message	Kotori	"For the events to occur, we have to have\na setting unique to the game's world. What's\nimportant is the personality replication."	
+however, seemed pretty forced..."""	
+Message	Kotori	"""For the events to occur, we have to have\na setting unique to the game's world. What's\nimportant is the personality replication."	
 Message	Shido	Hmm... Well, I guess it wasn't that off...	
-Message	Reine	"Then again, it's not perfect, either. It's\nextremely hard to replicate emotions,\nespecially love."	
-Message	Kotori	"That will be our challenge from now on."	
-Message	Kotori	"Now, let's try going to school."	
+Message	Reine	Then again, it's not perfect, either. It's\nextremely hard to replicate emotions,\nespecially love.	
+Message	Kotori	That will be our challenge from now on.	
+Message	Kotori	Now, let's try going to school.	
 Message	Shido	We're still going...? *sigh*.	
 Message	Shido	"The school looks perfect, too... I thought I was
 used to this, but I'm still surprised how well
 the inside of the school's been replicated."	
-Message	Reine	"...What's being replicated is only a portion of\nTengu City. It's only the range of things that you\nknow well, Shin."	
+Message	Reine	...What's being replicated is only a portion of\nTengu City. It's only the range of things that you\nknow well, Shin.	
 Message	Shido	Are all the students here, too?	
-Message	Reine	"Yeah... I've replicated all students and faculty.\nHowever, with people you've never spoken to,\nonly their appearance has been replicated."	
+Message	Reine	Yeah... I've replicated all students and faculty.\nHowever, with people you've never spoken to,\nonly their appearance has been replicated.	
 Message	Shido	Wow... That's amazing.	
 Message	Tonomachi	"Yo, Itsuka. What's the matter? Why are you
 pretending to be in deep thought outside
 the school gates?"	
 Message	Shido	Tonomachi... He's an NPC too, right?	
-Message	Reine	"Yeah, he is."	
+Message	Reine	Yeah, he is.	
 Message	Shido	He seems like his usual self.	
 Message	Tonomachi	"Wh-What is it, Itsuka? You're staring at me so
 intently... What are your intentions...?"	
@@ -428,28 +428,28 @@ Tonomachi."
 Message	Tonomachi	"I-I'm fine! You're the abnormal one! And this
 world, too! WAHHHHH!"	
 Message	Shido	Man, he really does look like the real one.	
-Message	Kotori	"Right? Well, I guess you can tell how things are.\nYou're going to live a gal game life in this\nworld."	
+Message	Kotori	Right? Well, I guess you can tell how things are.\nYou're going to live a gal game life in this\nworld.	
 Message	Shido	It feels more tiring than the last game...	
 Message	???	...	
 Message	Shido	Hm?	
 Message	Shido	That was...?	
-Message	Kotori	"What's the matter, Shido?"	
+Message	Kotori	What's the matter, Shido?	
 Message	Shido	Oh, there was a girl I've never seen before.	
-Message	Reine	"No, that's impossible. As I told you earlier,\nthere shouldn't be a person in this world\nthat you don't know."	
+Message	Reine	No, that's impossible. As I told you earlier,\nthere shouldn't be a person in this world\nthat you don't know.	
 Message	Shido	Hmm... But it was a girl I've never met before.	
-Message	Reine	"Maybe you didn't see her properly, or you just\nforgot her."	
+Message	Reine	Maybe you didn't see her properly, or you just\nforgot her.	
 Message	Shido	No... I don't think I've ever seen her before.	
-Message	Reine	"...How odd. There shouldn't be such NPCs..."	
+Message	Reine	...How odd. There shouldn't be such NPCs...	
 Message	Shido	"Then let me check. There's also a chance that
 I saw her on TV or something, right...?"	
-Message	Reine	"Yeah... Try going after her."	
+Message	Reine	Yeah... Try going after her.	
 Message	Shido	I thought I saw her walking this way...	
 Message	Shido	—There she is! Hm... I don't recognize her.	
 Message	Shido	"She seems to be wearing a unique outfit... I would
 never forget someone like her."	
 Message	None	"(Her hair color is very unique, and she's very
 cute. There's no way... I'd forget.)"	
-Message	Reine	"Something's off. There's no data on that girl.\nWho is she...?"	
+Message	Reine	Something's off. There's no data on that girl.\nWho is she...?	
 Message	Shido	...Uh, excuse me?	
 Message	???	...	
 Message	Shido	I know this sounds weird, but have we met before?	
@@ -459,9 +459,9 @@ Message	None	"(There was no response. But she was staring at me
 with a serious expression.)"	
 Message	Shido	U-Um... What are you doing here...?	
 Message	???	...	
-Message	Reine	"...She's not responding. Maybe there's some kind\nof error, and some outside data got mixed in."	
-Message	Kotori	"So an NPC that's actually a bug, right?\nWell, that seems the most probable."	
-Message	Kotori	"Shido, just leave her be for now. Let's see...\nWhy don't we end the test playthrough for today."	
+Message	Reine	...She's not responding. Maybe there's some kind\nof error, and some outside data got mixed in.	
+Message	Kotori	So an NPC that's actually a bug, right?\nWell, that seems the most probable.	
+Message	Kotori	Shido, just leave her be for now. Let's see...\nWhy don't we end the test playthrough for today.	
 Message	Shido	Okay, got it.	
 Message	???	...	
 Message	None	"(So, superficial data means she's a hologram with
@@ -470,7 +470,7 @@ Message	None	"(But despite that... I felt such
 power in her gaze.)"	
 Message	???	Shido... Itsuka.	
 Message	Shido	Huh? You know my name...?	
-Message	Reine	"That's impossible. That can't happen.\nThere shouldn't be any data on this..."	
+Message	Reine	That's impossible. That can't happen.\nThere shouldn't be any data on this...	
 Message	Shido	Who are you...?	
 Message	???	...Let me ask you.	
 Message	???	...Love.	

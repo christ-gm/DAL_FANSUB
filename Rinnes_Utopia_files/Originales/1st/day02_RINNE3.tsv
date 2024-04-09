@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	(Dinner should be just about ready, right?)	
 Message	Rinne	......	
 Message	None	"(Rinne...? Why is she sighing? Is something wrong?
@@ -31,8 +31,8 @@ Message	Kotori	"The spiritual wave detected in Tengu City...
 I told you how it most likely holds an enormous power, right?"	
 Message	Shido	"Yeah... Something about a far-reaching barrier that some
 Spirit used. What about it?"	
-Message	Kotori	"Right. It seems that "someone" who's responsible for it
-can't completely control that enormous power."	
+Message	Kotori	"Right. It seems that someone"" who's responsible for it
+can't completely control that enormous power."""	
 Message	Shido	What do you mean?	
 Message	Kotori	"I've been having Reine analyze the spiritual waves every day...
 But the range of spiritual energy is too wide, and pretty unstable.

@@ -22,9 +22,9 @@ but I never expected you to go this route. You
 should be ashamed of yourself, Shido..."	
 Message	Shido	"W-W-Wait a minute! You guys have it all wrong.
 Get information...? What are you talking about?"	
-Message	Kotori	"Don't play dumb. I bet you were all, "Hehehe, I'm
-going to ask her body." That's what you were
-doing, right?!"	
+Message	Kotori	"""Don't play dumb. I bet you were all, ""Hehehe, I'm
+going to ask her body."" That's what you were
+doing, right?!"""	
 Message	Shido	Of course not!	
 Message	Tohka	"Hm? What do you mean by asking her body? Can you
 get a story out of a stomach?"	
@@ -103,9 +103,9 @@ Message	None	"(And besides, there's also the other Arusu that
 I've met twice.)"	
 Message	Kotori	"Regardless, change isn't bad. Those wheels could
 be moving us closer to a breakthrough."	
-Message	Kotori	"The current objective we need to fulfill is to
-teach Arusu "love". But I don't even know if
-that's possible."	
+Message	Kotori	"""The current objective we need to fulfill is to
+teach Arusu ""love"". But I don't even know if
+that's possible."""	
 Message	Kotori	"However, if Arusu is what I assumed she was—an AI
 Spirit—and if she uses that power to control the
 virtual world, there is another way."	
@@ -204,7 +204,7 @@ cooperate."
 Message	Origami	"I look forward to it. You can also lift any age
 restrictions in the program."	
 Message	Shido	No, you can't!	
-Message	Yoshinon	"Ya-hoo! Good morning, everybody! Yoshino's lesson\nis now beginning!"	
+Message	Yoshinon	Ya-hoo! Good morning, everybody! Yoshino's lesson\nis now beginning!	
 Message	Yoshino	G-Good morning.	
 Message	Shido	"Hey, Yoshino and Yoshinon. Good morning. Maria's
 observing today."	

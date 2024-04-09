@@ -68,10 +68,10 @@ Message	Kotori	Anyways, let's go home.
 Message	None	(Kotori offered her hand and I naturally took it.)	
 Message	Kotori	Hey, Shido? I have homework, so help tutor me later.	
 Message	Shido	There's nothing for me to tutor you in.	
-Message	Kotori	"Gosh, where's your fighting spirit? Can't you say,
-"Leave it to me. I can even factorize the formula of
-love for you," or something?"	
-Message	Shido	"Leave it to me. I can even factorize the formula of\nlove for you." That doesn't even make sense...	
+Message	Kotori	"""Gosh, where's your fighting spirit? Can't you say,
+Leave it to me. I can even factorize the formula of
+love for you,"" or something?"	
+Message	Shido	"""Leave it to me. I can even factorize the formula of\nlove for you."" That doesn't even make sense..."	
 Message	Kotori	You don't have to say that. That's not romantic.	
 Message	Shido	Is that so?	
 Message	None	(We were chatting as usual as we headed home.)	
@@ -82,9 +82,9 @@ Message	Kotori	"―is fine, right? If you say that... You know what I'm
 going to do to you, don't you?"	
 Message	None	"(Kotori smiled as she held the pink and blue
 scrunchies.)"	
-Message	None	"(That's right. I'm not allowed to say "either or"
+Message	None	"(That's right. I'm not allowed to say ""either or
 during a date. Those were the basics that Kotori
-instilled in me.)"	
+instilled in me.)"""	
 Message	None	(I coughed and then made my choice.)	
 Message	Shido	"Why don't you go with pink? That's a pretty normal
 color."	

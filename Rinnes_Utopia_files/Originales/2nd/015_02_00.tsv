@@ -15,8 +15,8 @@ Message	Arusu	"The initial setting was a gal game type of world.
 If it was no different from your ordinary life,
 that means your daily life is like a gal game."	
 Message	Shido	You say it so matter-of-factly!	
-Message	None	"(Even hearing Arusu say the words "gal game" in
-such a serious expression is weird, too.)"	
+Message	None	"""(Even hearing Arusu say the words ""gal game"" in
+such a serious expression is weird, too.)"""	
 Message	Shido	"Well, even yesterday, it wasn't that weird,
 was it?"	
 Message	Shido	Although the daydream event was unusual...	
@@ -42,7 +42,7 @@ Message	Shido	Whaaaaaat?!
 Message	Tohka	"Yeah. Despite being so little, she's a teacher.
 Yoshino is smart. Good job!"	
 Message	Yoshino	Th-Thank... you...	
-Message	Yoshinon	"Yahoo! A female teacher! The sweet, forbidden\nextra-curricular lessons! How exciting! Isn't\nyour heart pounding just thinking about it?!"	
+Message	Yoshinon	Yahoo! A female teacher! The sweet, forbidden\nextra-curricular lessons! How exciting! Isn't\nyour heart pounding just thinking about it?!	
 Message	Shido	"No... Honestly, looking at Yoshino... it's hard to
 consider her as a teacher."	
 Message	Yoshino	"I-I knew it... It's weird, isn't it...? But the
@@ -75,9 +75,9 @@ Message	Miku	Who cares about the small details, gosh!
 Message	Tonomachi	M-Miku-tan...? What is... going on, Itsuka...?!	
 Message	Shido	"Uh... I guess she's not transferring, but
 something similar to it?"	
-Message	Ai	Did you hear the missus? She called him "darling"...	
-Message	Mai	"Yes, ma'am, I did. Who says "darling" these days?
-So lame. I guess that's Itsuka-san's new woman."	
+Message	Ai	"Did you hear the missus? She called him ""darling""..."	
+Message	Mai	"""Yes, ma'am, I did. Who says ""darling"" these days?
+So lame. I guess that's Itsuka-san's new woman."""	
 Message	Mii	That's so lame.	
 Message	Shido	"Could you guys shut up?! Argh... Well... good
 thing she's in a different class..."	
@@ -154,7 +154,7 @@ should danger arise."
 Message	Tohka	"What... Then you should stay away from
 him as well!"	
 Message	Yoshino	H-Hey... I'm going to take roll call...!	
-Message	Yoshinon	"Yoshino, hang in there! Be a teacher and don't be\nafraid to come down hard on them!"	
+Message	Yoshinon	Yoshino, hang in there! Be a teacher and don't be\nafraid to come down hard on them!	
 Message	Yoshino	"O-Okay!
 "	
 Message	Yoshino	"E-Everyone, please sit down and
@@ -253,10 +253,10 @@ Message	Shido	"No. Absolutely not! Yoshino, unlike you guys, is a
 good girl! She doesn't cause me any trouble, she's
 like an oasis for me!"	
 Message	Yoshino	H-He called me good girl. Hehe...	
-Message	Yoshinon	"Yoshino～ What happened to your mature girl\ncharms?"	
+Message	Yoshinon	Yoshino～ What happened to your mature girl\ncharms?	
 Message	Yoshino	O-Oh... but...	
 Message	Miku	"Heh. Darling is only nice to children, right? I
-mean you did say you like "big" ones..."	
+mean you did say you like ""big"" ones..."	
 Message	Shido	No, no, no! I never said such a thing!	
 Message	Miku	"Whaaat? But you're always looking at this area
 with those lustful eyes, aren't you? Darling...
@@ -279,7 +279,7 @@ Message	Miku	"You can be Shiori-san, no problem. Shiori-san will
 still be my darling."	
 Message	Kurumi	"Come to think of it, I've never played with
 Shiori-san before. I'd love to meet her, too..."	
-Message	Yoshinon	"Oh, nooo! Yoshino, there are two fan-service\nroles at play here! You have no choice but\nto counter from a teacher's standpoint!"	
+Message	Yoshinon	Oh, nooo! Yoshino, there are two fan-service\nroles at play here! You have no choice but\nto counter from a teacher's standpoint!	
 Message	Yoshino	Wh-What's that...?	
 Message	Shido	"Ugh... The more the merrier, I guess... More like
 pure chaos."	
@@ -332,9 +332,9 @@ Message	Origami	"I need to check whether there's poison in your
 food. I will taste-test all of it. That would be
 best to ensure your safety."	
 Message	Shido	O-Oh... Just as I thought, nothing's changed...	
-Message	Yoshinon	"Come on, Yoshino! Let's set that plan we thought\nof earlier into motion! When are you doing it?\nNow, right?!"	
+Message	Yoshinon	Come on, Yoshino! Let's set that plan we thought\nof earlier into motion! When are you doing it?\nNow, right?!	
 Message	Yoshino	B-But, I'm embarrassed...	
-Message	Yoshinon	"Gosh! You're a teacher today, so you need to feed\nhim with an 'Ahh' like the good adult you are!"	
+Message	Yoshinon	Gosh! You're a teacher today, so you need to feed\nhim with an 'Ahh' like the good adult you are!	
 Message	Yoshino	*Whimper*... I'm so embarrassed.	
 Message	Tohka	"OHH! I want to try that too, Shido!
 Come, try this."	
@@ -372,14 +372,14 @@ I can pay you back for the Tenou Festival now...!"
 Message	Miku	Ahhhh! Darling. Kaguya-san is sooo scary!	
 Message	Kaguya	"Hehehe. Are you scared? Save your fear for the
 power of the Yamai Sisters...!"	
-Message	Yuzuru	"Disagree. She's pressing her "goods" against
+Message	Yuzuru	"""Disagree. She's pressing her ""goods"" against
 Shido, appealing to the male psyche. Kaguya,
-you cannot compete with that trick."	
+you cannot compete with that trick."""	
 Message	Kaguya	"Wh-What, that's totally not fair! You don't have
 to say that, Yuzuru!"	
 Message	Miku	"Everyone, stop arguing! Hehe, one of you guys can
 get on my lap, too. How about you, Yoshino?"	
-Message	Yoshinon	"Yoshino is an adult today! So she won't be doing\nsuch a childish thing! Right, Yoshino?"	
+Message	Yoshinon	Yoshino is an adult today! So she won't be doing\nsuch a childish thing! Right, Yoshino?	
 Message	Yoshino	"Y-Yes... I-I'm a teacher... So I'm going to feed
 Shido-san."	
 Message	Miku	Aww, how unfortunate. How about you, Kotori-chan?	
@@ -414,7 +414,7 @@ many battles, among them cooking, of course."
 Message	Yuzuru	"Affirmative. And this time we will be cooperating
 with each other. I can say that victory is ours."	
 Message	Yoshino	Aww... A battle... I can't cook at all...	
-Message	Yoshinon	"It's totally fine, you can do it! I mean, clearly\neveryone here will be garbage! Yoshino, you can\nwin it! I believe in you!"	
+Message	Yoshinon	It's totally fine, you can do it! I mean, clearly\neveryone here will be garbage! Yoshino, you can\nwin it! I believe in you!	
 Message	Kurumi	"Cooking can change in various ways depending on
 how much time you spend on the ingredients. So it
 makes sense that I would win."	

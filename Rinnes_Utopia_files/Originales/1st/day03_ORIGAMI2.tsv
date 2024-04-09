@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	Shido	Oh? Did Origami go home already?	
 Message	Tonomachi	"Yo! It's the nice guy, Itsuka-kun!
 Still haven't gone home yet?"	
@@ -80,31 +80,31 @@ Origami can flip a switch and remain focused.)"
 Message	Shido	Hey, Origami! Excuse me!	
 Message	Origami	I don't mind. I'm studying.	
 Message	Shido	S-Sorry.	
-Message	Kannazuki	"Oh, Shido-kun?!"	
+Message	Kannazuki	Oh, Shido-kun?!	
 Message	Shido	Huh...?	
-Message	Kannazuki	"It sounds like there's weak signal wherever\nyou are. I used the Yggdra Folium."	
+Message	Kannazuki	It sounds like there's weak signal wherever\nyou are. I used the Yggdra Folium.	
 Message	None	(Th-That's right! I was in Origami's room.)	
 Message	Shido	S-Sorry. I'm in kind of an unusual place.	
-Message	Kannazuki	"It's fine. I was just surprised we couldn't\nget ahold of you. As long as you're safe, Shido-kun,\nit's all right. How are you feeling today?"	
+Message	Kannazuki	It's fine. I was just surprised we couldn't\nget ahold of you. As long as you're safe, Shido-kun,\nit's all right. How are you feeling today?	
 Message	Shido	"How am I feeling? Well, I'm studying with
 Origami right now."	
-Message	Kannazuki	"Origami...? Oh, the girl from the AST who went\nat it with the commander, right?"	
+Message	Kannazuki	Origami...? Oh, the girl from the AST who went\nat it with the commander, right?	
 Message	Shido	Y-Yes.	
-Message	Kannazuki	"Ah, I'm so jealous! I hope one day she can\ngive me a hard punch, too!"	
+Message	Kannazuki	Ah, I'm so jealous! I hope one day she can\ngive me a hard punch, too!	
 Message	Shido	O-Okay...	
-Message	Kannazuki	"So how's the studying going?\nIntense, I presume?"	
+Message	Kannazuki	So how's the studying going?\nIntense, I presume?	
 Message	Shido	"I-It's not intense. Well, Origami's just really
 focused on her studies. I can't get much done."	
-Message	Kannazuki	"Yes, I understand. A normal reaction from\nspending time with someone so dedicated,\nI bet."	
+Message	Kannazuki	Yes, I understand. A normal reaction from\nspending time with someone so dedicated,\nI bet.	
 Message	Shido	"I-It's true that I'm interested in her, but
 it's not as intense as you think."	
-Message	Kannazuki	"Oh, how troublesome. If we had any data\nabout her preferences, then I could have\nassisted you."	
-Message	Kannazuki	"Hm, how's this. I will give you two pieces\nof advice."	
+Message	Kannazuki	Oh, how troublesome. If we had any data\nabout her preferences, then I could have\nassisted you.	
+Message	Kannazuki	Hm, how's this. I will give you two pieces\nof advice.	
 Message	Shido	Oh... I'm fine, thanks!	
-Message	Kannazuki	"Now, don't be like that. I've had my fair\nshare of experiences in the past—"	
+Message	Kannazuki	Now, don't be like that. I've had my fair\nshare of experiences in the past—	
 Message	Shido	"N-No! Kannazuki-san, I appreciate the gesture,
 but I'll figure it out. Sorry!"	
-Message	Kannazuki	"Wait, Shido-kun! But I'm confident—"	
+Message	Kannazuki	Wait, Shido-kun! But I'm confident—	
 Message	None	"(Phew. Sorry, Kannazuki-san, but if I took your
 advice, I feel like something terrible would
 happen.)"	
@@ -112,8 +112,8 @@ Message	None	(He's kind, but a little off.)
 Message	Origami	Shido, you okay?	
 Message	Shido	O-Oh. Sorry, just finished.	
 Message	Origami	"I see, but it surprises me to hear that you were
-able to communicate with someone "here".
-Who were you talking to?"	
+able to communicate with someone here"".
+Who were you talking to?"""	
 Message	Shido	W-Well, um...	
 Message	Origami	"If you don't want to tell me, you don't have to.
 You can tell me someday. That's all."	
@@ -136,10 +136,10 @@ Message	Shido	"I see, but the stuff we learn doesn't even
 matter in the real world. Even in short bursts,
 it's hard for me to focus."	
 Message	Origami	"Shido, are you aware of the English word,
-"school"? Do you know its etymology?"	
+school""? Do you know its etymology?"""	
 Message	Shido	Never heard of it.	
 Message	Origami	"It is said to be derived from the Greek word,
-"scholeio". It means leisure."	
+scholeio"". It means leisure."""	
 Message	Shido	"L-Leisure...? That's the last thing I would've
 expected when thinking of school!"	
 Message	Origami	"In ancient Greece, the number of slaves was

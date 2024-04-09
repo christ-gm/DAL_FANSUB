@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	???	...	
 Message	Kurumi	"My, my. Someone has a lot of friends...
 This isn't going to end, is it?"	
@@ -110,7 +110,7 @@ into your and everyone else's minds."
 Message	Shido	...?!	
 Message	None	"(It started as a hunch. Things that didn't quite
 make sense began piling up.)"	
-Message	None	"("There's no way Rinne's a Spirit," I told
+Message	None	"(""There's no way Rinne's a Spirit,"" I told
 myself.)"	
 Message	Ruler	"How did you realize it, though? I wish you never
 had. That way, we could live in Eden forever..."	
@@ -164,7 +164,7 @@ I need to tell you not to overdo it?!"
 Message	Origami	Shido, I was late. Apologies.	
 Message	Shido	O-Origami?!	
 Message	Yoshino	Are you... okay?! Shido...san!	
-Message	Yoshinon	"And her trusty sidekick!"	
+Message	Yoshinon	And her trusty sidekick!	
 Message	Shido	Aaaah! Everyone... Thank you!	
 Message	Origami	...?! Shido, behind you!	
 Message	Shido	Huh?!	
@@ -198,7 +198,7 @@ Message	Kurumi	"The branches... They're sapping our energy.
 Shido-san, this isn't good. Don't stray from us!"	
 Message	Shido	O-Okay... Thanks!	
 Message	Yoshino	*pant*... *pant*...	
-Message	Yoshinon	"Yoshino, are you okay?"	
+Message	Yoshinon	Yoshino, are you okay?	
 Message	Yoshino	Y-Yes! I can... still...	
 Message	Shido	Yoshino, fall back! Oh no!	
 Message	Yoshino	Shido...san...	

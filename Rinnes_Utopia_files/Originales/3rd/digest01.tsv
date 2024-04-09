@@ -2,9 +2,9 @@
 Message	None	"(Spring. It's April, and the new school year has
 begun. Although I was an ordinary student, I,
 Shido Itsuka, felt my life change drastically.)"	
-Message	None	"(I encountered an unknown phenomenon
-known as "spacequakes". At the center of
-it, I encountered an extremely gorgeous girl.)"	
+Message	None	"""(I encountered an unknown phenomenon
+known as ""spacequakes"". At the center of
+it, I encountered an extremely gorgeous girl.)"""	
 Message	???	...My name?	
 Message	???	...I do not have such a thing.	
 Message	None	"(Our first time meeting was, for lack of a
@@ -44,7 +44,7 @@ Message	Yoshino	Please... don't hurt... me...
 Message	Shido	Um... is this... yours?	
 Message	None	"(She shivered like a lost puppy. When I handed
 her puppet to her, something happened.)"	
-Message	Yoshinon	"Ya-haaa! Sorry, Onii-san. You saved me!"	
+Message	Yoshinon	Ya-haaa! Sorry, Onii-san. You saved me!	
 Message	None	"(Instead of shaking from fear, the girl raised
 her voice in jubilation, using ventriloquism
 to make the puppet talk.)"	

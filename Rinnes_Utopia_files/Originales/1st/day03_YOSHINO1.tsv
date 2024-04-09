@@ -1,16 +1,16 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	Shido	Now then, I guess I'll go check on Yoshino.	
 Message	Shido	Hm?	
-Message	Reine	"Shin, it's an emergency."	
+Message	Reine	Shin, it's an emergency.	
 Message	Shido	"Reine-san?
 What's wrong?"	
-Message	Reine	"Actually... Yoshino has disappeared."	
+Message	Reine	Actually... Yoshino has disappeared.	
 Message	Shido	"I see... Wait, what?!
 What do you mean, disappeared?"	
-Message	Reine	"Well, she was at the Itsuka household until just\nnow... But just as I took my eyes off of her,\nit seems she managed to slip past."	
-Message	Reine	"Her whereabouts will be difficult to pinpoint\nnow... I apologize, but could you look for\nYoshino?"	
+Message	Reine	Well, she was at the Itsuka household until just\nnow... But just as I took my eyes off of her,\nit seems she managed to slip past.	
+Message	Reine	Her whereabouts will be difficult to pinpoint\nnow... I apologize, but could you look for\nYoshino?	
 Message	Shido	Yes, I'll take a look around the area!	
-Message	Reine	"...I'll leave it to you, then.\nI'll have a look as well."	
+Message	Reine	...I'll leave it to you, then.\nI'll have a look as well.	
 Message	Shido	"Is Yoshino okay? She's timid and doesn't know much
 about the world... It's not certain that she won't
 get caught up in some trouble out there alone."	
@@ -21,7 +21,7 @@ Message	Yoshino	Ah... Sh-Shido-san!
 Message	Shido	"I'm sorry, Yoshino!
 I'm in a rush and... Wait, huh?! Y-Yoshino?!"	
 Message	Yoshino	Y-Yes... It's me.	
-Message	Yoshinon	"Hey, Yoshinon's here, too!"	
+Message	Yoshinon	Hey, Yoshinon's here, too!	
 Message	Shido	"O-Oh, you were in a place like this...
 I'm glad you're safe. I heard you disappeared from
 the house, so I was about to go look for you."	
@@ -36,16 +36,16 @@ Was I not... supposed to go outside...?"
 Message	Shido	"Oh, no. It's not your fault or anything.
 A-Anyway, I'm going to tell Reine-san,
 so please wait a moment..."	
-Message	Reine	"...Oh, Shin... Did you find Yoshino?"	
+Message	Reine	...Oh, Shin... Did you find Yoshino?	
 Message	Shido	"I did find her. She was near my school.
 It seems like she left a note, but..."	
-Message	Reine	"...I apologize, I didn't realize she did.\nI should have been more careful."	
+Message	Reine	...I apologize, I didn't realize she did.\nI should have been more careful.	
 Message	Shido	"It's fine, we found her, so it's all right.
 By the way, what should I do now?
 Is it better that we go home?"	
-Message	Reine	"...What do you think, Shin?"	
+Message	Reine	...What do you think, Shin?	
 Message	Shido	Huh? M-Me...?	
-Message	Reine	"...Yes, I'll leave the decision to you.\n Call me if anything happens."	
+Message	Reine	...Yes, I'll leave the decision to you.\n Call me if anything happens.	
 Message	Shido	"Wha, Reine-san?!
 E-Even if you say that... Hmmmm..."	
 Choice		Let's go home.	
@@ -56,13 +56,13 @@ Message	Shido	"You don't have to apologize. More importantly,
 it's dangerous to walk around by yourself, you
 know? You shouldn't leave the house too much..."	
 Message	Yoshino	...!	
-Message	Yoshinon	"That's pretty cold of you, Shido-kun.\nPoor Yoshino!"	
+Message	Yoshinon	That's pretty cold of you, Shido-kun.\nPoor Yoshino!	
 Message	Shido	"Even if you say that... It's a fact that Yoshino
 is still unstable right now, so just in case..."	
 Message	Yoshino	W-Was I... a bother to you, Shido-san...?	
 Message	Shido	"Ah... Oh, no... I'm sorry Yoshino,
 please don't cry!"	
-Message	Yoshinon	"You made her cry, you made her cry! Telling her\nto go home before even listening to what she\nhas to say. You're so mean, Shido-kun!!"	
+Message	Yoshinon	You made her cry, you made her cry! Telling her\nto go home before even listening to what she\nhas to say. You're so mean, Shido-kun!!	
 Message	Yoshino	I'm... sorry...!	
 Message	Shido	"Ahhh, no, Yoshino!!
 I'm the one who was wrong; please don't cry!!"	
@@ -77,7 +77,7 @@ Message	Shido	"Instead of bottling up stress, it's probably
 better to let it all out outside. I'll come
 with you, Yoshino."	
 Message	Yoshino	...!	
-Message	Yoshinon	"Woo-hoo! Nice going, Shido-kun!\nThat was quite a manly line just now!"	
+Message	Yoshinon	Woo-hoo! Nice going, Shido-kun!\nThat was quite a manly line just now!	
 Message	Shido	So Yoshino, why did you come out here?	
 Message	Yoshino	"U-Um... I wanted to take a... proper look at the
 school. I was wondering... what everyone
@@ -91,16 +91,16 @@ with your classmates..."
 Message	Yoshino	That sounds kinda fun...	
 Message	Shido	Oh...	
 Message	None	"(Yoshino's never gone to school before, so the
-words "studying" and "classmates" don't really
+words ""studying"" and ""classmates"" don't really
 connect to her experiences.)"	
-Message	Yoshinon	"C'mon, c'mon, Shido-kun! Yoshino\nis feeling lonely! Don't you get it?!"	
+Message	Yoshinon	C'mon, c'mon, Shido-kun! Yoshino\nis feeling lonely! Don't you get it?!	
 Message	Shido	"I know you're putting on the
 pressure, but... Umm..."	
 Message	Shido	"All right, then, do you want to see the inside of
 the school? If you'd like, I could show you
 around."	
 Message	Yoshino	I-Is it really okay...?	
-Message	Yoshinon	"Oooh, how stylish, Shido-kun!\nYou're quite the lady-killer!"	
+Message	Yoshinon	Oooh, how stylish, Shido-kun!\nYou're quite the lady-killer!	
 Message	Shido	"L-Lady-killer...? Well, whatever.
 Then for today, as your teacher, I'll teach you
 about what sort of place school is."	
@@ -118,12 +118,12 @@ Message	Yoshino	Yeah. It's big... and pretty...
 Message	Shido	"Now then, where should I take you...
 Yoshino, first, this is... um, the hallway..."	
 Message	Yoshino	...?	
-Message	Yoshinon	"Ummm, earth to Shido-kun? We can tell that just\nby looking, you know?"	
+Message	Yoshinon	Ummm, earth to Shido-kun? We can tell that just\nby looking, you know?	
 Message	Shido	"Ah, R-Right.
 Yoshino, is there any place you'd like to see?
 If you have any requests, let me know!"	
 Message	Yoshino	......	
-Message	Yoshinon	"Could it be that you have no plan, Shido-kun?\nYou said you'd show us around, right? Right?!"	
+Message	Yoshinon	Could it be that you have no plan, Shido-kun?\nYou said you'd show us around, right? Right?!	
 Message	Shido	W-Well yeah...	
 Message	None	"(Even the puppet's saying that, but where should
 I take her? I'd like her to be able to experience
@@ -151,13 +151,13 @@ Message	Yoshino	I-I can't do it... I'm... just no good.
 Message	Shido	"With practice, you'll be playing in no time.
 Without Yoshinon's help, you won't be able to play
 it well. Yoshinon, do your best too, all right?"	
-Message	Yoshinon	"Hey now, Shido-kun. I'm always\ngiving it my all!!"	
+Message	Yoshinon	Hey now, Shido-kun. I'm always\ngiving it my all!!	
 Message	Shido	Haha... Well, yeah... Do your best.	
-Message	Yoshinon	"Good grief, Shido-kun!"	
+Message	Yoshinon	Good grief, Shido-kun!	
 Message	Shido	"But it might be difficult to play it right away.
 ...All right, Yoshino, I'll hold it from the left
 side. Is that okay, Yoshino? Yoshinon?"	
-Message	Yoshinon	"I guess it can't be helped.\nJust for today, okay?"	
+Message	Yoshinon	I guess it can't be helped.\nJust for today, okay?	
 Message	Yoshino	"If you're okay with it, Yoshinon...
 Then please do!"	
 Message	Shido	"Right, thanks.
@@ -175,7 +175,7 @@ going through it."
 Message	Yoshino	...O-Okay...	
 Message	Shido	"Ohh, you did it. It's impressive that you were
 able to play this well your first time."	
-Message	Yoshinon	"You did great, Yoshino! You're so good!\nYoshinon believed that you could do it!"	
+Message	Yoshinon	You did great, Yoshino! You're so good!\nYoshinon believed that you could do it!	
 Message	Shido	"All right, you were able to successfully play the
 recorder, so let's leave it here for today and
 head home."	
@@ -183,18 +183,18 @@ Message	Shido	"How was it, Yoshino?
 Did you understand school a little bit?"	
 Message	Yoshino	Yes... School is... fun!	
 Message	Shido	If you think so, then it was worth my efforts.	
-Message	Yoshinon	"......"	
+Message	Yoshinon	......	
 Message	Shido	"...Hm? What's wrong, Yoshinon?
 You've been quiet for a while..."	
-Message	Yoshinon	"No, no, it's nothing～"	
+Message	Yoshinon	No, no, it's nothing～	
 Message	Shido	Really...?	
-Message	Yoshinon	"...Hmm, well. I suppose, if I were to say\nsomething, You were clinging a little too\nmuch to Yoshino just now, Shido-kun～"	
+Message	Yoshinon	...Hmm, well. I suppose, if I were to say\nsomething, You were clinging a little too\nmuch to Yoshino just now, Shido-kun～	
 Message	Shido	"Wha—?!
 N-No, that was just to teach her..."	
 Message	Yoshino	...!	
-Message	Yoshinon	"Well it's fine, it's fine! It looked like Yoshino\nwas happy too. If Yoshino's happy, then I'm\nsuper happy!"	
+Message	Yoshinon	Well it's fine, it's fine! It looked like Yoshino\nwas happy too. If Yoshino's happy, then I'm\nsuper happy!	
 Message	Shido	Haha, it's kinda like you're her guardian.	
-Message	Yoshinon	"Aww gee, hahaha. Don't worry about it～"	
+Message	Yoshinon	Aww gee, hahaha. Don't worry about it～	
 Message	Shido	Right. Shall we go home then?	
 Message	Yoshino	O-Okay...	
-Message	Yoshinon	"......"	
+Message	Yoshinon	......	

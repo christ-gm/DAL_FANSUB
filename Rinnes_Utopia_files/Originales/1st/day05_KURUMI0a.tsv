@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	Shido	...Zzzz...	
 Message	Kotori	...Shido.	
 Message	Shido	...Mm...mrgh...	
@@ -35,13 +35,13 @@ Message	Kotori	"Anyway, it's definitely an existence generated
 by a Spirit. Considering the situation you
 described..."	
 Message	Kotori	"If you were to put it into game terms, it would be
-a "Golem" or a "Guardian"... That sort of thing."	
+a ""Golem"" or a ""Guardian""... That sort of thing."	
 Message	Shido	That sounds kinda surreal.	
 Message	Kotori	"Shido, you might want to think about your own
 situation before saying something like that."	
 Message	Shido	Sorry...	
 Message	Kotori	"If we are to believe your story, then most
-likely... That "Guardian" is a type of defense."	
+likely... That ""Guardian"" is a type of defense."	
 Message	Shido	D-Defense?	
 Message	Kotori	"In other words, there exists a necessity to
 protect the monument to some extent."	
@@ -62,7 +62,7 @@ it. When the idea suddenly came to me and I tried
 it, it was a perfect fit."	
 Message	Shido	Then... That means...	
 Message	Kotori	"The barrier and the monument are closely
-related. In conclusion, this "Guardian" must
+related. In conclusion, this ""Guardian"" must
 be coming from the same place as well."	
 Message	Kotori	"And what this points to is that the monument is
 definitely the foothold supporting the barrier."	
@@ -85,7 +85,7 @@ But you can't do anything else... Got it?"
 Message	Shido	R-Right...	
 Message	Kotori	"If our analysis helps us determine where the
 enemy's stronghold is, that'd be great, but..."	
-Message	Shido	Enemy...? Do you mean the "Guardian"?	
+Message	Shido	"Enemy...? Do you mean the ""Guardian""?"	
 Message	Kotori	"I'm talking about whoever made the barrier.
 The one who's got us locked in. But enough talk!
 Just focus on what you need to do!"	

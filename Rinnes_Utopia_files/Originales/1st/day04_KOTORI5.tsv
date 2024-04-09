@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	Shido	Kotori, you here?	
 Message	Kotori	...What?	
 Message	Shido	"Oh. I was curious about the Tengu Tower.
@@ -36,9 +36,7 @@ Message	Kotori	Shido, step away!
 Message	Shido	Wh-What?!	
 Message	Kotori	What's going on?!	
 Message	Shido	A-An Angel...?! Is that an Angel...?	
-Message	None	"(It's different from what the Spirits
-produce. Almost like a "guardian" of some
-sort.)"	
+Message	None	"(It's different from what the Spirits produce. Almost like a ""guardian of some sort."")"	
 Message	???	...	
 Message	Shido	Whoa!	
 Message	Kotori	Shido!	

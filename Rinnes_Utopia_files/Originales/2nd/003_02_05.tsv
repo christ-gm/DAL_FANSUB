@@ -22,13 +22,13 @@ Message	None	"(Whenever I run into issues, they always give me
 some pointers or instructions. They should be
 able to save me from this situation...!)"	
 Message	Shido	Kotori! Help me!	
-Message	Kotori	"Oh, you seem to be in trouble, Shido."	
+Message	Kotori	Oh, you seem to be in trouble, Shido.	
 Message	Shido	Kotori!	
 Message	None	"(My little sister Kotori is the Commander of the
 Fraxinus. She should be a dependable advisor at
 a time like this... I think.)"	
 Message	Shido	Can you solve this problem for me?	
-Message	Kotori	"Jeez, what am I going to do with you?\nI'll bring the Fraxinus around and pick you up,\nso make a run for it to the alley."	
+Message	Kotori	Jeez, what am I going to do with you?\nI'll bring the Fraxinus around and pick you up,\nso make a run for it to the alley.	
 Message	Shido	Thanks!	
 Message	Miku	Awww, where are you going, darling?!	
 Message	Tohka	Wait, Shido!	
@@ -68,9 +68,9 @@ into an organism? Gosh."
 Message	Kotori	"Shut up. Who cares. Just feel bad about what
 you did!"	
 Message	Shido	Oof... As usual, you're such a sadist.	
-Message	None	"(She's normally an adorable sister, but when
-she's in "Commander Mode", she's so
-different. Especially because of the Spirits...)"	
+Message	None	"""(She's normally an adorable sister, but when
+she's in ""Commander Mode"", she's so
+different. Especially because of the Spirits...)"""	
 Message	Kotori	"Listen to me, Shido. Next time you run away,
 I'm going to shove peanuts up your nose and
 shoot them out for a high score."	

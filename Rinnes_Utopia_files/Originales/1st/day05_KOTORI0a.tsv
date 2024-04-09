@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	Shido	Zzz...	
 Message	Kotori	...Shido.	
 Message	Shido	M...mmm....	
@@ -32,8 +32,8 @@ wish you could just picture it."
 Message	Shido	Wh-What kind of insect is that?	
 Message	Kotori	"Whatever, forget it. I know for certain it’s a
 being created from the Spirits' powers."	
-Message	Kotori	"In video game terms, it's like a "golem"
-or a "Guardian". That kind of thing."	
+Message	Kotori	"In video game terms, it's like a ""golem
+or a ""Guardian"". That kind of thing."""	
 Message	Shido	I see, but you still don't know the details.	
 Message	Kotori	"Right. I couldn't get more than that. At the
 very least, I know it has to do with the
@@ -48,7 +48,7 @@ missed it, but after comparing them, they
 matched."	
 Message	Shido	Th-Then that means...	
 Message	Kotori	"The barrier and the monument are closely
-related. In conclusion, this "Guardian" must
+related. In conclusion, this ""Guardian"" must
 be coming from the same place as well."	
 Message	Kotori	"The obvious answer, is that the monument
 must be the base of the barrier."	
@@ -89,7 +89,7 @@ Message	Shido	O-Okay...?
 Message	Kotori	Is breakfast ready?	
 Message	Shido	Sorry for the wait. Go ahead and dig in.	
 Message	Yoshino	Sh-Shido...san. G-Good morning.	
-Message	Yoshinon	"Yaha!"	
+Message	Yoshinon	Yaha!	
 Message	Shido	"Hello Yoshino and Yoshinon, good morning.
 Breakfast is served, so get it while it's fresh."	
 Message	Yoshino	O-Okay. Thank... you...	

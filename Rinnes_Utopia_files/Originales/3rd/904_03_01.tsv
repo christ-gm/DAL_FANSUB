@@ -105,13 +105,13 @@ with a kiss. And during the last Eden, I kissed Rinne
 and tried to seal her powers.)"	
 Message	None	"(But Rinne, who was a crystallization of those
 spiritual powers, was erased in the process.)"	
-Message	None	"(Rio... A girl who calls me "Papa", and Rinne "Mama".
-Those names weren't wrong at all.)"	
+Message	None	"""(Rio... A girl who calls me ""Papa"", and Rinne ""Mama"".
+Those names weren't wrong at all.)"""	
 Message	Shido	"Rio was... born from Rinne's Spirit powers sealed
 inside of me?"	
-Message	Marina	"That's right. And Rio had a will until now, to find
-"the most important thing". But from beyond this
-point, you don't need her right?"	
+Message	Marina	"""That's right. And Rio had a will until now, to find
+""the most important thing"". But from beyond this
+point, you don't need her right?"""	
 Message	Marina	"Even if Eden disappears and becomes complete, Rio
 Sonogami doesn't have a future."	
 Message	Shido	I see...	
@@ -329,12 +329,12 @@ Message	Kotori	"Shido? Everyone's almost here...
 "	
 Message	Kotori	Hey, what are you doing?	
 Message	Shido	Hm? Oh Kotori. Sorry. I'll head over.	
-Message	Kotori	"Hmm... What's that? A "Forget-Me-Not" key holder?
-That sure is cute."	
+Message	Kotori	"""Hmm... What's that? A ""Forget-Me-Not"" key holder?
+That sure is cute."""	
 Message	Shido	Forget-Me-Not? Is that the name of the flower?	
 Message	Kotori	"What? You put it on without knowing? It's Scorpion
 grass. A flower that blooms in the spring. It means
-"forget me not". And it also means "true love"."	
+""forget me not"". And it also means ""true love""."	
 Message	Shido	.....	
 Message	None	"(I wonder why. The moment I heard those words, I felt
 my heart pound.)"	
@@ -342,7 +342,7 @@ Message	Kotori	What's up with your face?
 Message	Shido	Oh... Nothing.	
 Message	Kotori	"Really? Whatever. Anyways, I'm going to go ahead of
 you."	
-Message	Shido	"Forget me not"... and "true love" huh...	
+Message	Shido	"""Forget me not""... and ""true love"" huh..."	
 Message	None	"(This design may not be particularly manly, but for
 some reason... it felt so natural to me. It's as if it
 were something made for me.)"	

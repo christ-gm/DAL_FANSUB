@@ -1,7 +1,7 @@
 ﻿Operator	Comment	Key	Translation
 Message	None	(Now then, we made it to the shopping district.)	
 Message	Tohka	"Hm. Shido, look here! There's an announcement
-here about bread. It says it's "All You Can Eat",
+here about bread. It says it's ""All You Can Eat"",
 but how is eating all their bread permissible?"	
 Message	Miku	"Darling, please look over there. A maid café
 packed with cute girls. Why don't we try
@@ -18,7 +18,7 @@ Message	Mai	"He's got quite the crowd with him today.
 An Itsuka harem."	
 Message	Mii	Does he have to show off like that?	
 Message	Shido	Gah. Here comes trouble!	
-Message	Ai	What do you mean "trouble"?	
+Message	Ai	"What do you mean ""trouble""?"	
 Message	Mai	Hey, hey. Now you've done it, Itsuka-kun!	
 Message	Mii	"We'll have to teach you to watch your mouth,
 won't we?"	
@@ -156,7 +156,7 @@ Message	Shido	"Okay, she's in the changing room. I hope the
 outfits all match and stuff. I'd feel bad if she
 looked silly."	
 Message	Tohka	"Hrm, Shido. What does that mean?
-Our "core-denation" is perfect!"	
+Our ""core-denation"" is perfect!"	
 Message	Miku	"That's right. It's perfect. All right, let's have
 the lady take the catwalk now. Come on out."	
 Message	Maria	Um, how does it look?	

@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	"(Oogh. I ran up so many steps today, so my thighs and calves
  are super sore, but... I have so many dates to go on.)"	
 Message	None	(Alright, I'll have us hang out at home then.)	
@@ -25,8 +25,8 @@ Message	Shido	Who do you use, Tohka?
 Message	Tohka	Hm, I can win with this one!	
 Message	Shido	――!?	
 Message	None	"(The character that Tohka selected is a magician called
-"Pandabear," and as the name suggests, it's a straightforward
-cross between a bear and a panda.)"	
+Pandabear,"" and as the name suggests, it's a straightforward
+cross between a bear and a panda.)"""	
 Message	None	"(The hyper-realistically drawn, malicious-looking panda's face
 has red eyes that gleam from underneath its formal robe and hood.)"	
 Message	None	"(The hands sticking out of either sleeves are as rough as a bear's,
@@ -119,7 +119,7 @@ Message	Shido	...! ...I-I'm sorry.
 Message	Tohka	Hrm...it's no good. Staring at the screen is making me hungry.	
 Message	Shido	I-It's almost dinner, after all...let's end here for today.	
 Message	Tohka	"Hm. Hey, Shido...the next time we battle,
-I request that it'll be "all in," okay?"	
+I request that it'll be all in,"" okay?"""	
 Message	Shido	R-Right. Next time, it'll be a serious match!	
 Message	Tohka	"Yes! If I win next time, what should I change you into next?
 Should it be ankake fried rice?

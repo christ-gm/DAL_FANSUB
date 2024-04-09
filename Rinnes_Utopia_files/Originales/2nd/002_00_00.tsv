@@ -50,9 +50,9 @@ regenerative potential."
 Message	None	"Despite her young age, she is a Commander of
 Ratatoskr, and controls the Fraxinus, an air
 warship, to support Shido and the Spirits."	
-Message	None	"Her ribbon color designates one of two moods. In
-"Little Sister Mode", she is happy and carefree.
-In "Commander Mode", she is clever and snide."	
+Message	None	"""Her ribbon color designates one of two moods. In
+""Little Sister Mode"", she is happy and carefree.
+In ""Commander Mode"", she is clever and snide."""	
 Message	None	"Kaguya Yamai and Yuzuru Yamai. Also known as Berserk.
 Formerly one Spirit that has split into two,
 they work together to manipulate wind."	
@@ -120,7 +120,7 @@ acts her age. She is the cousin of Tamae
 Okamine, a homeroom teacher at Raizen High."	
 Message	None	"Hiroto Tonomachi. Shido Itsuka's classmate and friend.
 "	
-Message	None	"Dream Boyfriend" Ranking...\n	
+Message	None	"""Dream Boyfriend"" Ranking...\n"	
 Message	None	358th place out of 358.	
 Message	None	"Ai Yamabuki, Mai Hazakura, Mi Fujibakama.
 Shido Itsuka's classmates. A friendly trio that
@@ -169,5 +169,5 @@ Message	None	"What would it take for that to happen?
 Being loved themselves."	
 Message	None	"Then... what is the meaning of being loved?
 Searching... No specific reference in database.
-Changing search query to "love"."	
+Changing search query to ""love""."	
 Message	None	Search halted... System error.	

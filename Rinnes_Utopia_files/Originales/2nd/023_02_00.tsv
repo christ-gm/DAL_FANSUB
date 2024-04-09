@@ -28,7 +28,7 @@ Message	Kotori	"Why don't we all go to a karaoke room? That way we
 can all participate."	
 Message	Shido	I see. That's true.	
 Message	Yoshino	Karaoke... I... want to try.	
-Message	Yoshinon	"Ohhh, Yoshino seems curious."	
+Message	Yoshinon	Ohhh, Yoshino seems curious.	
 Message	Kurumi	My, that does sound fun.	
 Message	Miku	If it's singing, I am unchallenged.	
 Message	Kaguya	"Hehe, interesting. We tornadoes are
@@ -68,7 +68,7 @@ my lap..."
 Message	Shido	Hahaha...	
 Message	Yoshino	"Shido-san... I don't know how to put
 in the songs..."	
-Message	Yoshinon	"That's it. Go, Yoshino! Nonchalantly sit next to\nShido-kun!"	
+Message	Yoshinon	That's it. Go, Yoshino! Nonchalantly sit next to\nShido-kun!	
 Message	Shido	Oh. H-Hey, wait. Let me go over there.	
 Message	Kaguya	Wahhh! Shido, listen to me!	
 Message	Shido	Why are you so upset, Kaguya?	
@@ -94,8 +94,8 @@ Message	Kotori	"Why are you looking all proud of yourself for?
 Come here."	
 Message	Shido	"What is it, Kotori? Everyone seems to be having
 fun, it's great."	
-Message	Kotori	"Don't "it's great" me. Don't just have fun. Make
-sure to flag an event with the Spirits."	
+Message	Kotori	"""Don't ""it's great"" me. Don't just have fun. Make
+sure to flag an event with the Spirits."""	
 Message	Shido	"O-Oh right. I guess our lives are on the
 line, huh?"	
 Message	Shido	I'm going to go check up on Maria, then.	
@@ -216,10 +216,10 @@ Message	Shido	So, who should I sing with...?
 Message	Yoshino	Um... Shido-san...	
 Message	Shido	Oh, Yoshino? What's the matter?	
 Message	Yoshino	...Um, would you like to sing with me?	
-Message	Yoshinon	"Hey, hey, Shido-kun. Sing with us!"	
+Message	Yoshinon	Hey, hey, Shido-kun. Sing with us!	
 Message	Shido	Sure, let's sing together.	
 Message	Yoshino	...Okay!	
-Message	Yoshinon	"Isn't that nice, Yoshino!"	
+Message	Yoshinon	Isn't that nice, Yoshino!	
 Message	None	"(That's so sweet. Come to think of it, I don't
 really hang out with Yoshino like this. I want
 her to have a good time.)"	
@@ -227,25 +227,25 @@ Message	Shido	"All right, what kind of song do you want to sing,
 Yoshino?"	
 Message	Yoshino	Oh... um... I have a song I want to sing.	
 Message	Shido	Oh, really?	
-Message	Yoshinon	"Despite her appearance, Yoshino sure loves TV.\nShe can sing any popular song."	
+Message	Yoshinon	Despite her appearance, Yoshino sure loves TV.\nShe can sing any popular song.	
 Message	Yoshino	...Um, please leave it to me! Um, the number is...	
 Message	Shido	"Oh, you can do it yourself? Wait... Yoshinon,
 you're going to sing too?"	
-Message	Yoshinon	"Shido. Don't be a dummy. I'll just watch so I\ndon't get in between you two."	
+Message	Yoshinon	Shido. Don't be a dummy. I'll just watch so I\ndon't get in between you two.	
 Message	Shido	...? What do you mean?	
 Message	None	"(As I pondered that, the song that Yoshino chose
 began to play.)"	
 Message	Shido	I see...	
 Message	None	"(What Yoshino chose was a pure love song. The
 intro alone made Yoshino blush.)"	
-Message	Yoshinon	"Woo-hooo!"	
+Message	Yoshinon	Woo-hooo!	
 Message	None	"(Th-This is embarrassing. But no, Yoshino chose
 the song for me. I have to sing it!)"	
-Message	Yoshino	"Maybe only you are the one to wake me up..."\n*whimper*... Shido-san, please don't look at me\ntoo much...	
+Message	Yoshino	"""Maybe only you are the one to wake me up...""\n*whimper*... Shido-san, please don't look at me\ntoo much..."	
 Message	Shido	S-Sorry, Yoshino!	
-Message	Yoshinon	"Shido-kun next! It's your part next!"	
-Message	Shido	"R-Right. Uh... "I used to like you when I was a
-kid"..."	
+Message	Yoshinon	Shido-kun next! It's your part next!	
+Message	Shido	"""R-Right. Uh... ""I used to like you when I was a
+kid""..."""	
 Message	Yoshino	Ahhh! Sh-Shido-san, I'm embarrassed.	
 Message	None	"(This isn't good. Yoshino is blushing so much that
 it's making me blush. This is a lot harder than I

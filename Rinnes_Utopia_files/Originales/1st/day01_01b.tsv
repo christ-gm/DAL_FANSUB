@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	Shido	*pant, pant*... Phew, finally made it.	
 Message	Tohka	Shido! We arrived earlier than we thought!	
 Message	Rinne	Right. What a relief, but now we're so sweaty.	
@@ -143,21 +143,19 @@ Message	None	(Oh man. She's glued to his story...)
 Message	Tonomachi	"So... The original plan was to get the Tengu Cow
 drunk, tie it up, then drown it in the lake, but
 the samurai decided to drink with it instead."	
-Message	Tonomachi	"There's that phrase "You are the company you
-keep", so the samurai asked the Tengu Cow if
-it would travel the world with him."	
+Message	Tonomachi	"There's that phrase You are the company you keep"", so the samurai asked the Tengu Cow if it would travel the world with him."""	
 Message	Tohka	OHHHH! What a brilliant idea!	
 Message	Tonomachi	"That's right. The Tengu Cow was so moved by his
 invitation that it couldn't hide its surprise.
 Who could blame him? It was unbelievable!"	
-Message	Tonomachi	"But I've got such a big appetite. Is that okay?\nMy hideous looks make traveling with me\nnothing but trouble. Are you sure?"	
+Message	Tonomachi	But I've got such a big appetite. Is that okay?\nMy hideous looks make traveling with me\nnothing but trouble. Are you sure?	
 Message	Tonomachi	"The beast hunched over, curling its back as it
 offered its question timidly, but the samurai
-reached out his hand and said, "Come with me.""	
+reached out his hand and said, Come with me."""""	
 Message	Tohka	?!	
 Message	Tonomachi	"The Tengu Cow cried its eyes out and took his
 hand."	
-Message	Tonomachi	"Hey, don't grab my hand too tightly," cried the\nsamurai. "I'll break," and the two shared hefty\nlaughter.	
+Message	Tonomachi	"Hey, don't grab my hand too tightly, cried the\nsamurai. ""I'll break,"" and the two shared hefty\nlaughter."	
 Message	Shido	"What's up with the sob story? It's not like
 anyone would cry about such a dumb—"	
 Message	Tohka	U...u...u... UWAAAAAH!	
@@ -195,17 +193,14 @@ Message	Tonomachi	"They hopped aboard a raft the samurai had
 advised to build, attached weights to the
 Tengu Cow, and tossed it right into the lake."	
 Message	Tonomachi	"Then, from the bottom lake, they heard a
-horrific scream, "GROOOOOO!" It echoed
-all around the area."	
+horrific scream, GROOOOOO!"" It echoed all around the area."""	
 Message	Tonomachi	"Since then, the Tengu Cow was never seen
 again..."	
 Message	Tohka	That is horrible!	
 Message	Tonomachi	"When all was said and done, they untied the
 samurai, and he felt the same horror that you
 do..."	
-Message	Tonomachi	"On his will, he wrote, "The real monster lives
-elsewhere," and he slaughtered all of the
-villagers and drowned himself in the lake."	
+Message	Tonomachi	"On his will, he wrote, The real monster lives elsewhere,"" and he slaughtered all of the villagers and drowned himself in the lake."""	
 Message	Tohka	...	
 Message	Tonomachi	"It rained every day for a month afterwards, like
 the heavens shed tears from the clouds. They
@@ -242,7 +237,7 @@ Message	Shido	Uh. That's such an obvious afterthought.
 Message	Tonomachi	If only it ended there...	
 Message	Shido	Huh?	
 Message	Tonomachi	"The 11... If you combine the kanji for ten and
-one, it resembles the kanji for "samurai"."	
+one, it resembles the kanji for samurai""."""	
 Message	Tohka	Wow!	
 Message	Rinne	Wow!	
 Message	Tonomachi	Gives you chills... doesn't it?	
@@ -368,7 +363,7 @@ to toe!"
 Message	Shido	Tohka! You're exaggerating!	
 Message	Origami	"...I knew that's all it was.
 That all you've got?"	
-Message	Tohka	Huh? How do you mean "that's all it was"?	
+Message	Tohka	"Huh? How do you mean ""that's all it was""?"	
 Message	Origami	"I wouldn't have wiped his sweat. With all
 the sweat Shido emits, I would—"	
 Message	Shido	"Hey, wait. Origami?!
@@ -421,13 +416,12 @@ Message	Tonomachi	Man, Rinne-chan's one heck of a girl...
 Message	Shido	"What makes you say that? She wasn't acting
 any different than usual."	
 Message	Tonomachi	"But that's what makes her so amazing! She
-gives off the perfect "wife material" vibe!"	
+gives off the perfect wife material"" vibe!"""	
 Message	Shido	Give it a rest...	
 Message	Tonomachi	"Don't you agree? Rinne-chan is the model
 Japanese woman. Adorable, mindful, and
 adorable."	
-Message	Shido	"You said "adorable" twice... Well, I guess
-Rinne is pretty adorable."	
+Message	Shido	"You said adorable"" twice... Well, I guess Rinne is pretty adorable."""	
 Message	None	"(She's adorable, a great chef, kind, tidy, and
 she loves taking care of people. We don't even
 have to say anything for her to act adorably...)"	
@@ -438,7 +432,7 @@ Rinne."
 Message	Origami	...	
 Message	None	"(Wh-Why does it look like Origami's
 glaring at me?)"	
-Message	Tohka	Hey, Shido. So what is "marriage"?	
+Message	Tohka	"Hey, Shido. So what is ""marriage""?"	
 Message	Origami	"That's my and Shido's future. So, it's none of
 your concern."	
 Message	Tohka	WHAT?!	

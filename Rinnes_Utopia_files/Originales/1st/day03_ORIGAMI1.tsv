@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	"(Where did Origami go? Once homeroom was
 over, before I knew it, she was gone...)"	
 Message	None	"(Tama-chan told us about the AST, so
@@ -50,8 +50,8 @@ Message	None	"(There's no limit to what you can do, huh
 Origami? Man, how many talents do you
 have?)"	
 Message	Shido	"It's up to you whether you want to join, but
-just because you "can" doesn't mean you have
-to accept everything that comes your way."	
+just because you can"" doesn't mean you have
+to accept everything that comes your way."""	
 Message	Origami	Huh...?	
 Message	Shido	"If you don't want to, you can say no; you don't
 have to force yourself. I mean... You already

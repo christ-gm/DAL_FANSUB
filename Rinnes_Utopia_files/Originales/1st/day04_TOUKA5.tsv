@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	Shido	Heeey, Tohka?	
 Message	Tohka	Hm? What is the matter?	
 Message	Shido	"Um... I'd like it if you could come with me for
@@ -14,10 +14,10 @@ Message	Tohka	Oh... That's why...
 Message	Shido	Huh? What is it?	
 Message	Tohka	I-It's nothing...!	
 Message	Shido	"I-I see... If you're really okay with it, I was
-thinking of us having a "viewing platform" date
+thinking of us having a ""viewing platform"" date
 to take one last look at it..."	
 Message	Shido	"Since we'll be there anyway, I was thinking
-of us having a "viewing platform" date
+of us having a ""viewing platform"" date
 to take one last look..."	
 Message	Tohka	Ohh! That is a good idea! Then let's go!	
 Message	Shido	Y-Yeah!	
@@ -72,12 +72,12 @@ What about you, Tohka?!"
 Message	Tohka	"I'm fine! They are attacking!
 Shido! Put more distance between us!"	
 Message	Shido	R-Right!	
-Message	???	"......"	
+Message	???	......	
 Message	Shido	"Th-That attack came out of nowhere!
 What's up with that person? And where are we?!"	
 Message	Tohka	Calm down, Shido! The enemy wants you to panic!	
 Message	Shido	Th-The enemy...?!	
-Message	???	"......"	
+Message	???	......	
 Message	Tohka	Hm! They're following us!	
 Message	Shido	Wh-Why are we being targeted?!	
 Message	Tohka	"It's no use... With this...!
@@ -86,11 +86,11 @@ Message	Shido	Tohka...?!
 Message	Tohka	Sandalphon...!	
 Message	Tohka	Shido! An attack is coming! Stay back!	
 Message	Shido	―Huh?	
-Message	???	"......"	
+Message	???	......	
 Message	Tohka	Hmph!	
 Message	Tohka	"...If that is how you are going to be, then I will
 not hold back, either!!"	
-Message	???	"......"	
+Message	???	......	
 Message	Shido	"H-Hey! Why are you attacking us?!
 If we can just talk―"	
 Message	Tohka	Shido! Don't move forward!	
@@ -105,7 +105,7 @@ Message	Tohka	Yes! So Shido, stay behind me quietly!
 Message	Shido	I-I got it! But... b-be careful!	
 Message	Tohka	Do not worry! I will end this! Sandalphon!	
 Message	Shido	Ah... The power...!	
-Message	???	"......"	
+Message	???	......	
 Message	Tohka	Why, you...! FALL!	
 Message	None	"(Tohka's final strike with Sandalphon destroyed
 the enemy's incoming attack, and both bodies

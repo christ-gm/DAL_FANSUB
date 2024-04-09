@@ -5,10 +5,10 @@ could get dinner ready, so I guess I'm good.)"
 Message	None	(Hm? Did someone just come out of the house...?)	
 Message	Shido	Ah, Yoshino. I knew it was you. I'm home.	
 Message	Yoshino	Oh... Welcome home, Shido-san.	
-Message	Yoshinon	"Welcome home Shido-kun. We were just on our way\nout. Bumping into one another like this... Could it be\nfate?"	
+Message	Yoshinon	Welcome home Shido-kun. We were just on our way\nout. Bumping into one another like this... Could it be\nfate?	
 Message	Shido	On your way out? Where are you guys going?	
 Message	Yoshino	U-Um... I was heading toward the station to, um...	
-Message	Yoshinon	"We were just on our way to go meet..."	
+Message	Yoshinon	We were just on our way to go meet...	
 Message	Shido	Meet? Meet who?	
 Message	Kaguya	"Hehehe... Seems like there is an unwanted guest that
 has interfered with our dark encounter."	
@@ -19,11 +19,11 @@ Message	Kaguya	"Oh, do you dare? We are about to embark on a journey
 to seal the god of boredom, and witness a ceremony
 to view the box of memory... The truth of truth."	
 Message	Yoshino	Truth of truth?	
-Message	Yoshinon	"Kaguya-chan is just being mysterious. She's talking\nabout a movie."	
+Message	Yoshinon	Kaguya-chan is just being mysterious. She's talking\nabout a movie.	
 Message	Shido	How did you get that, Yoshinon?	
-Message	Yoshinon	"Well I'm close to Kaguya-chan and Yuzuru-chan, so\nthis is nothing. What are you going to do, Shido-kun?\nDo you want to come? Join us?"	
+Message	Yoshinon	Well I'm close to Kaguya-chan and Yuzuru-chan, so\nthis is nothing. What are you going to do, Shido-kun?\nDo you want to come? Join us?	
 Message	Shido	Hm... I guess I'll take you up on your offer.	
-Message	Yoshinon	"Amazing, Shido-kun, you totally get it! Let's go, go,\ngo together!"	
+Message	Yoshinon	Amazing, Shido-kun, you totally get it! Let's go, go,\ngo together!	
 Message	Kaguya	As my servant, it's only natural... Follow me!	
 Message	Yoshino	I'm happy that you're joining us, Shido-san...	
 Message	Shido	Yeah. I can't wait for the movie.	
@@ -36,7 +36,7 @@ Message	Shido	"Hopefully we won't end up having to listen to any
 rowdy people watching the movie. Let's be quiet
 ourselves and hope for the best."	
 Message	Yoshino	O-Okay... I'll try my best...	
-Message	Yoshinon	"Ahhh, can't wait."	
+Message	Yoshinon	Ahhh, can't wait.	
 Message	Kaguya	"I sense a heavy darkness swelling inside... Hehehe.
 I cannot wait."	
 Message	Shido	"Kaguya. I know you know this, but be sure to be quiet
@@ -63,11 +63,11 @@ Message	Kaguya	"Yes, it was pleasant to the eye. Ah, the ceremony of
 darkness... You have led me down a worthy path."	
 Message	Shido	"Haha, I bet. How did you guys like it, Yoshino?
 Yoshinon?"	
-Message	Yoshinon	"Yeah, it was totally fun. It was worth coming!"	
+Message	Yoshinon	Yeah, it was totally fun. It was worth coming!	
 Message	Shido	Yeah. How about you, Yoshino?	
 Message	Yoshino	...	
 Message	Shido	Hey, Yoshino?	
-Message	Yoshinon	"YOSHINO. The movie is over."	
+Message	Yoshinon	YOSHINO. The movie is over.	
 Message	Yoshino	Huh...? Oh... S-Sorry!	
 Message	Shido	"I can see why you'd want to hang around here. It was
 really fun."	
@@ -78,7 +78,7 @@ I looked over and there was...)"
 Message	Shido	"Oh, a special kiosk for the movie. You want to check
 it out?"	
 Message	Yoshino	Oh...! Yes, I want to go!	
-Message	Yoshinon	"Then let's hurry on over!"	
+Message	Yoshinon	Then let's hurry on over!	
 Message	Kaguya	"No matter the burdens on your shoulders, there is
 power in the quest for an answer, the Answer road!
 The power is in effect, for even this―"	
@@ -101,14 +101,14 @@ protagonist. Because of this crystal's existence, he
 became the last trump card against the demon."	
 Message	Yoshino	"Huh... Oh! It's true. The protagonist was the last
 hope in defeating the demon... The protagonist
-became "the child of fate"... thanks to the crystal?"	
+became ""the child of fate""... thanks to the crystal?"	
 Message	Kaguya	"Hehe... Exactly! The evil Ancient goddess created the
 crystal in her place. It's one of the eternal dark
 relics hidden away in the darkness of history."	
 Message	Shido	Uh, Kaguya... That's a bit far-fetched...	
 Message	Kaguya	"You stay out of this, Shido! See, the demon's curse
 resides in the crystal through the protagonist. The
-hero's "protection" became the demon's other heart."	
+hero's ""protection"" became the demon's other heart."	
 Message	Yoshino	...Its other heart.	
 Message	None	"(I figured Kaguya didn't read the novel. This was a
 backstory that Kaguya completely made up. Yoshino
@@ -121,12 +121,12 @@ Message	Kaguya	"Exactly. Therein lies the power to fulfill your desires,
 drawn from the audience to create an infinite prism.
 Resound the bells of Ragnarok to destroy all evil!"	
 Message	Yoshino	Whoa...	
-Message	Kaguya	"It's a replica. Just a fake."...Or so they thought.\nBut they were wrong.	
+Message	Kaguya	"""It's a replica. Just a fake.""...Or so they thought.\nBut they were wrong."	
 Message	Yoshino	Amazing...	
-Message	Yoshinon	"It is amazing... but Kaguya-chan, is it really real?"	
+Message	Yoshinon	It is amazing... but Kaguya-chan, is it really real?	
 Message	Kaguya	O-Of course! I-I would never lie?!	
 Message	Shido	Yeah, you would.	
-Message	Yoshinon	"You're totally lying～!"	
+Message	Yoshinon	You're totally lying～!	
 Message	Kaguya	H-Hey, what gives?! I told you, I'm not lying!	
 Message	Shido	Because you obviously look guilty.	
 Message	Kaguya	T-Totally not true! Shido, you have me all wrong!	
@@ -143,9 +143,9 @@ Message	None	"(She's completely losing the opportunity to back
 out of it...)"	
 Message	Shido	Kaguya.	
 Message	Kaguya	Wh-What is it... Shido.	
-Message	Shido	"I don't think you should be saying, "Of course it is!"
+Message	Shido	"I don't think you should be saying, ""Of course it is!
 What are you going to do now? Yoshino is totally
-believing you!"	
+believing you!"""	
 Message	Kaguya	"Oh, uh... That's... I have no idea what you're talking
 about..."	
 Message	Shido	"You're the one who made this up. You'd better come

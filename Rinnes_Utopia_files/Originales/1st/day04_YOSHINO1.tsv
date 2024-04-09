@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	(All right. I'll take Yoshino out to have fun!)	
 Message	Shido	I'm home!	
 Message	None	"(Huh... No greeting from Yoshino? Is it possible
@@ -7,30 +7,30 @@ Message	None	"(I thought maybe I'd take her to the amusement
 park for once, but...)"	
 Message	Yoshino	Shido-san... Welcome... home...	
 Message	Shido	Oh, so you were here.	
-Message	Yoshinon	"Yoo-hoo, Shido-kun!"	
+Message	Yoshinon	Yoo-hoo, Shido-kun!	
 Message	None	(Yoshinon is energetic as usual...)	
 Message	Shido	H-Hey... I'm home, Yoshinon.	
 Message	Shido	"I wanted to ask... Do you know what an amusement
 park is, Yoshino?"	
 Message	Yoshino	"Shido-san... Welcome... home...
 U-Umm..."	
-Message	Yoshinon	"Yoo-hoo, Shido-kun! Don't you have something you\nwant to say～?"	
+Message	Yoshinon	Yoo-hoo, Shido-kun! Don't you have something you\nwant to say～?	
 Message	Shido	Something I want to say...?	
 Message	Yoshino	......	
-Message	Yoshinon	"......"	
+Message	Yoshinon	......	
 Message	Shido	"O-Oh, right...
 Yeah, I do have something to say."	
 Message	Shido	"Thank you, Yoshino and Yoshinon.
 The bunny in the bento made me happy."	
 Message	Yoshino	Y-Yes!	
-Message	Yoshinon	"Good for you, huh, Yoshino!"	
+Message	Yoshinon	Good for you, huh, Yoshino!	
 Message	Shido	"...Since you made such a cute bento for me,
 I have to thank you somehow."	
 Message	Yoshino	N-No... You don't have to...	
 Message	Shido	"You don't have to hold back.
 I want to thank you both."	
 Message	Yoshino	B-But...	
-Message	Yoshinon	"Now now, no need to be so modest, Yoshino.\nOh, Shido-kun. Yoshino's just being shy!\nOf course we're happy for a thank you!"	
+Message	Yoshinon	Now now, no need to be so modest, Yoshino.\nOh, Shido-kun. Yoshino's just being shy!\nOf course we're happy for a thank you!	
 Message	Yoshino	......	
 Message	Shido	"Hmm... As thanks... Let me see...
 Yoshino, do you know what an amusement park is?"	
@@ -51,13 +51,13 @@ Message	Shido	"It's important to get used to people, too...
 Of course, if you really don't want to,
 then I won't push it..."	
 Message	Yoshino	Ahh... Ohh... Wh-What should I do, Yoshinon...?	
-Message	Yoshinon	"There's no point in asking me～ You're the one\nwho's getting invited, so you have to decide for\nyourself～"	
+Message	Yoshinon	There's no point in asking me～ You're the one\nwho's getting invited, so you have to decide for\nyourself～	
 Message	Shido	"That's not true. It's just as much an
 invite to thank you too, Yoshinon."	
-Message	Yoshinon	"Really?! How charming of you, Shido-kun.\nEven Yoshinon might end up falling for you～"	
+Message	Yoshinon	Really?! How charming of you, Shido-kun.\nEven Yoshinon might end up falling for you～	
 Message	Shido	Hahaha... So, what do you want to do?	
 Message	Yoshino	U-Umm...	
-Message	Yoshinon	"Yoshino, let's be honest with ourselves.\nShido-kun's being honest too, you know?"	
+Message	Yoshinon	Yoshino, let's be honest with ourselves.\nShido-kun's being honest too, you know?	
 Message	Yoshino	I-I'll, go! Please... t-take me there.	
 Message	Shido	"All right. Then, it's decided.
 Go ahead and get ready. Let's get going!"	
@@ -66,10 +66,10 @@ Message	Yoshino	A-Aahh...
 Message	Shido	There are a lot of people here...	
 Message	Yoshino	Y-Yes, there are...	
 Message	Yoshino	Wh-What... should I do, Yoshinon...?	
-Message	Yoshinon	"...I don't think there's really anything Yoshinon\ncan do～"	
+Message	Yoshinon	...I don't think there's really anything Yoshinon\ncan do～	
 Message	Yoshino	"Wh-Wha...?
 Don't say that... Yoshinon..."	
-Message	Yoshinon	"Rather than rely on me, there's someone else here\nyou should rely on first, isn't there～?"	
+Message	Yoshinon	Rather than rely on me, there's someone else here\nyou should rely on first, isn't there～?	
 Message	Yoshino	Huh...?	
 Message	Shido	Yoshino.	
 Message	Yoshino	...Huh?	
@@ -83,43 +83,43 @@ Message	Shido	"...I see, that's good.
 Then, let's get going.
 Keep a tight grip!"	
 Message	Yoshino	Yes...!	
-Message	Yoshinon	"......"	
+Message	Yoshinon	......	
 Message	Shido	You too, Yoshinon! Right?	
-Message	Yoshinon	"Of course!"	
+Message	Yoshinon	Of course!	
 Message	Shido	"Well, a date at the amusement park... There are
 lots of different rides, but which one to get
 on...?"	
-Message	Kannazuki	"Hello there, Shido-kun. It seems you were\nsuccessful in taking Yoshino out on a date.\nFrom here on is the true battle!"	
+Message	Kannazuki	Hello there, Shido-kun. It seems you were\nsuccessful in taking Yoshino out on a date.\nFrom here on is the true battle!	
 Message	Shido	Kannazuki-san?!	
-Message	Kannazuki	"Shido-kun, have you decided which attraction\nyou'll be guiding Yoshino through?"	
+Message	Kannazuki	Shido-kun, have you decided which attraction\nyou'll be guiding Yoshino through?	
 Message	Shido	"No, I haven't really decided or anything yet...
 Could it be... a choice selection?"	
-Message	Kannazuki	"No, unfortunately the Fraxinus' functions haven't\nfully returned, so we are not able to formulate\npotential choices with our distinguished AI."	
+Message	Kannazuki	No, unfortunately the Fraxinus' functions haven't\nfully returned, so we are not able to formulate\npotential choices with our distinguished AI.	
 Message	Shido	...That's good.	
-Message	Kannazuki	"But rest assured! An expert in the field will\noffer you advice... And that would be me!"	
+Message	Kannazuki	But rest assured! An expert in the field will\noffer you advice... And that would be me!	
 Message	Shido	What?! Is that... really all right?	
-Message	Kannazuki	"What are you saying? Leave everything to me!"	
+Message	Kannazuki	What are you saying? Leave everything to me!	
 Message	Shido	R-Right...	
 Message	Shido	I'm worried...	
-Message	Kannazuki	"This time around, it's an amusement park date...\nThere are two potential approaches."	
+Message	Kannazuki	This time around, it's an amusement park date...\nThere are two potential approaches.	
 Message	Shido	I see... What are the two approaches?	
-Message	Kannazuki	"The first is haunted house tour! Is this pounding\nof the heart from fear or from love? Either way,\nthis is sure to draw you two closer together!"	
+Message	Kannazuki	The first is haunted house tour! Is this pounding\nof the heart from fear or from love? Either way,\nthis is sure to draw you two closer together!	
 Message	Shido	"Is that the Suspension Bridge effect?
 I've heard of that."	
-Message	Kannazuki	"At the right moment, if you let out a scream and\nhold onto Yoshino, she's sure to unleash a rolling\nsobat, and you'll be able to ascend!"	
+Message	Kannazuki	At the right moment, if you let out a scream and\nhold onto Yoshino, she's sure to unleash a rolling\nsobat, and you'll be able to ascend!	
 Message	Shido	"I'm the one who's holding onto her?! More
 importantly, this is Yoshino, remember? She's not
 Kotori. She wouldn't counterattack like that..."	
-Message	Kannazuki	"Oh... Of course I knew that. Don't you worry."	
-Message	Shido	"You just said, "Oh," didn't you?! Can't you take
+Message	Kannazuki	Oh... Of course I knew that. Don't you worry.	
+Message	Shido	"You just said, ""Oh,"" didn't you?! Can't you take
 this seriously?!"	
-Message	Kannazuki	"The other approach is to set the stage for a\npeaceful time together. Ride the ferris wheel and\ntalk of love while gazing at the distant sky..."	
+Message	Kannazuki	The other approach is to set the stage for a\npeaceful time together. Ride the ferris wheel and\ntalk of love while gazing at the distant sky...	
 Message	Shido	"Don't ignore me!
 But, well, I see... Putting aside the love part,
 that does sound fun on its own."	
-Message	Kannazuki	"If circumstances allow, you may find yourself\nembracing Yoshino, only to have her kick you out\nof the window and watch you dive from its peak!"	
+Message	Kannazuki	If circumstances allow, you may find yourself\nembracing Yoshino, only to have her kick you out\nof the window and watch you dive from its peak!	
 Message	Shido	Didn't I say that's more Kotori?!	
-Message	Kannazuki	"Either way, there's no mistake that you should\nsteal Yoshino's heart! The choice is yours,\nShido-kun!"	
+Message	Kannazuki	Either way, there's no mistake that you should\nsteal Yoshino's heart! The choice is yours,\nShido-kun!	
 Message	None	(Why is my heart... full of uncertainty...?)	
 Choice		Go to the haunted house!	
 Choice		Go on the Ferris Wheel!	
@@ -137,12 +137,12 @@ Message	Yoshino	...Ohh!!
 Message	Yoshino	...Eeek!!	
 Message	Shido	Yoshino, it's all right...	
 Message	Yoshino	Yes...	
-Message	Yoshinon	"Ahh, getting handsy in here, Shido-kun?!\nJust because it's dark!"	
+Message	Yoshinon	Ahh, getting handsy in here, Shido-kun?!\nJust because it's dark!	
 Message	Shido	Wha... Er, no. Sorry, I... Yoshino, your hand...	
-Message	Yoshinon	"Good grief! I can see your lewd intentions from\nhere! How concerning... Here, go to the other\nside!"	
+Message	Yoshinon	Good grief! I can see your lewd intentions from\nhere! How concerning... Here, go to the other\nside!	
 Message	Shido	R-Right... Sorry... Thanks, Yoshinon.	
 Message	Yoshino	...Oh...	
-Message	Yoshinon	"*Whistle*～! You two are such a cute match!"	
+Message	Yoshinon	*Whistle*～! You two are such a cute match!	
 Message	None	"(Yoshino's hand grabbed mine so tightly, I could
 almost feel her heart beat in her hand...)"	
 Message	None	"Either way, it looks like the haunted
@@ -191,7 +191,7 @@ Message	Shido	"All right... Next, let's go to Labyrinth Busters.
 We can have a laser-tag battle!"	
 Message	Shido	"Hey, you're pretty good!
 Your aim is true. I can't lose, either..."	
-Message	Yoshinon	"Go! Do your best, Yoshino!\nShido-kun ran off that way! Take him down!"	
+Message	Yoshinon	Go! Do your best, Yoshino!\nShido-kun ran off that way! Take him down!	
 Message	Yoshino	...!	
 Message	Shido	"...Whew. I completely lost.
 You're surprisingly good at this, Yoshino."	
@@ -215,10 +215,10 @@ Message	Yoshino	"Shido-san, there were... a lot of firsts for me...
 and it was a lot of fun!"	
 Message	Shido	"Yeah, I had tons of fun, too.
 Right, Yoshinon? You think so too, right?"	
-Message	Yoshinon	"......"	
+Message	Yoshinon	......	
 Message	Yoshino	...Yoshinon?	
 Message	Shido	Huh? Did he not hear?	
-Message	Yoshinon	"Yeah, you're right... It was fun, Yoshino..."	
+Message	Yoshinon	Yeah, you're right... It was fun, Yoshino...	
 Message	Yoshino	Yeah...	
 Message	Shido	"All right, let's get back into
 it for the last lap!"	
@@ -229,9 +229,9 @@ Message	Yoshino	Yes...
 Message	Shido	"You were a little quiet today, Yoshinon. I thought
 you'd comment more on Yoshino's driving..."	
 Message	Shido	It's kinda unusual, what's up?	
-Message	Yoshinon	"...Well, you know～"	
+Message	Yoshinon	...Well, you know～	
 Message	Shido	Hmm...?	
-Message	Yoshinon	"...Yoshino's... fine now, isn't she...?"	
+Message	Yoshinon	...Yoshino's... fine now, isn't she...?	
 Message	Yoshino	...Yoshinon?	
 Message	Shido	"...It looks like you're really trusted.
 Good thing, huh, Yoshino?"	
@@ -253,38 +253,38 @@ Message	Yoshino	Y-Yes...
 Message	Shido	Whew... All right, Yoshino is... Oh, there she is.	
 Message	Shido	Hm?	
 Message	Yoshino	U-Umm...	
-Message	Yoshinon	"...So that's how it is～"	
+Message	Yoshinon	...So that's how it is～	
 Message	None	"(Yoshino and Yoshinon are talking? I wonder why it
 feels like it's a complicated conversation...)"	
 Message	None	"(I kinda feel like I shouldn't interrupt... But
 still, I wonder what they're talking about...?)"	
-Message	Yoshinon	"Hey, Yoshino. You're still a kid, aren't you～?"	
+Message	Yoshinon	Hey, Yoshino. You're still a kid, aren't you～?	
 Message	Yoshino	Y-Yeah...	
-Message	Yoshinon	"Yoshino, do you still want to stay a kid?\nOr do you want to become an adult～?"	
+Message	Yoshinon	Yoshino, do you still want to stay a kid?\nOr do you want to become an adult～?	
 Message	Yoshino	I... think I... want to be an adult...	
-Message	Yoshinon	"...I see～"	
+Message	Yoshinon	...I see～	
 Message	Yoshino	Yoshinon...?	
-Message	Yoshinon	"You want to be an adult\nbecause of this, right...?"	
+Message	Yoshinon	You want to be an adult\nbecause of this, right...?	
 Message	Yoshino	"...?!
 T-That's, um... Well..."	
-Message	Yoshinon	"Yoshino, do you know how a kid is able to become\nan adult～?"	
+Message	Yoshinon	Yoshino, do you know how a kid is able to become\nan adult～?	
 Message	Yoshino	I-I don't know...	
-Message	Yoshinon	"Yoshinon thinks it's probably like this～"	
-Message	Yoshinon	"When you're relying on your parents,\nyou're still a kid..."	
+Message	Yoshinon	Yoshinon thinks it's probably like this～	
+Message	Yoshinon	When you're relying on your parents,\nyou're still a kid...	
 Message	Yoshino	Parents...?	
-Message	Yoshinon	"Yup, that's right～\nI think you might have started to realize too,\nYoshino. That it's... almost time..."	
+Message	Yoshinon	Yup, that's right～\nI think you might have started to realize too,\nYoshino. That it's... almost time...	
 Message	None	(Sh-Shoot...)	
-Message	Yoshinon	"...Hm?"	
+Message	Yoshinon	...Hm?	
 Message	None	(...Yoshinon noticed me!)	
-Message	Yoshinon	"...Oh, Shido-kun. You're already back～?\nYou should have told us if you were back～"	
+Message	Yoshinon	...Oh, Shido-kun. You're already back～?\nYou should have told us if you were back～	
 Message	Shido	Ah, er... Sorry, did I get in the way?	
-Message	Yoshinon	"No, it's fine, it's fine～ We were just gossiping\nabout you, Shido-kun."	
+Message	Yoshinon	No, it's fine, it's fine～ We were just gossiping\nabout you, Shido-kun.	
 Message	Shido	...I-I see.	
 Message	Yoshino	......	
-Message	Yoshinon	"Man, today was lots of fun～\nLet's go home now!"	
+Message	Yoshinon	Man, today was lots of fun～\nLet's go home now!	
 Message	Shido	"Y-Yeah, you're right.
 All right, Yoshino... Let's go home."	
 Message	Yoshino	...Yes.	
-Message	Yoshinon	"Boy, today was a really fun day!\nYoshinon probably won't ever forget about today!\nYoshino looked so happy..."	
+Message	Yoshinon	Boy, today was a really fun day!\nYoshinon probably won't ever forget about today!\nYoshino looked so happy...	
 Message	Yoshinon	"I wonder what Yoshinon's happiness is.\n	
-Message	Yoshinon	"I wonder if Yoshino's happiness is really\nYoshinon's happiness, too..."	
+Message	Yoshinon	""I wonder if Yoshino's happiness is really\nYoshinon's happiness, too..."	

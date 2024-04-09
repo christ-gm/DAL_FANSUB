@@ -1,24 +1,24 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	Shido	"All right. I'm going to ask Kotori out on a date
 today."	
-Message	Kotori	"...Hello?"	
+Message	Kotori	...Hello?	
 Message	Shido	Hey, it's me.	
-Message	Kotori	"Shido? What do you want?"	
+Message	Kotori	Shido? What do you want?	
 Message	Shido	"Uh, I was wondering if you wanted to go on a
 date today."	
-Message	Kotori	"A date, huh...?"	
+Message	Kotori	A date, huh...?	
 Message	Shido	Are you busy?	
-Message	Kotori	"Not really. Fine, let's go on a date."	
+Message	Kotori	Not really. Fine, let's go on a date.	
 Message	None	(Huh...? That sure seemed... easy. Weird...)	
-Message	Kotori	"What?!"	
-Message	Shido	Oh, nothing. So where should we meet?"	
-Message	Kotori	"I think we should stay home today."	
+Message	Kotori	What?!	
+Message	Shido	"Oh, nothing. So where should we meet?"""	
+Message	Kotori	I think we should stay home today.	
 Message	Shido	What?	
-Message	Kotori	"Th-The weather channel said it might rain\nthis evening..."	
+Message	Kotori	Th-The weather channel said it might rain\nthis evening...	
 Message	Shido	"What? Really? But it's so nice out. I don't
 remember hearing about that on the weather
 channel."	
-Message	Kotori	"Wh-Who cares! ANYWAYS! We'll have our\ndate at home!"	
+Message	Kotori	Wh-Who cares! ANYWAYS! We'll have our\ndate at home!	
 Message	Shido	O-Okay... Got it.	
 Message	Kotori	Later!	
 Message	Shido	...Why was Kotori so emotional?	
@@ -109,8 +109,8 @@ Message	Kotori	Shido...
 Message	Shido	But man, you haven't grown muc—	
 Message	Shido	OUCH! What the heck?!	
 Message	Kotori	That was so rude!	
-Message	Shido	"W-Well, what did you want to say? "My,
-how much you've grown"?"	
+Message	Shido	"W-Well, what did you want to say? ""My,
+how much you've grown""?"	
 Message	Kotori	Ew, yuck. Not that, either.	
 Message	Shido	Then what should I have said?	
 Message	Kotori	Don't say anything! Just sit there!	

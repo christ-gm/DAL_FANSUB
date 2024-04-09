@@ -26,7 +26,7 @@ Message	Maria	"Yesterday, I had reset this world. It is morning
 because the world is currently restarting its
 cycle."	
 Message	Kotori	"In other words, at the time, it looks like a
-"New Game+". The game's restarted on the
+""New Game+"". The game's restarted on the
 first day."	
 Message	Shido	I see...	
 Message	Kotori	So, why are you in our house?	
@@ -57,7 +57,7 @@ My cooking is on equal footing to yours, Shido."
 Message	Kotori	"That's quite the claim. Since Shido's only real
 skill is cooking."	
 Message	Shido	Only real skill... That's a little harsh.	
-Message	None	(Still, "data up until now" is a little peculiar.)	
+Message	None	"(Still, ""data up until now"" is a little peculiar.)"	
 Message	Kotori	"Well, why don't we dig in? We have class soon,
 after all."	
 Message	None	"(Maria had finished laying out the dishes
@@ -202,15 +202,15 @@ well?"
 Message	Shido	Yeah, that seems to be the case.	
 Message	Yoshino	U-Umm... Shido-san.	
 Message	Shido	Good morning, Yoshino. You're going too, huh?	
-Message	Yoshinon	"Yoshino's become a teacher! Isn't it amazing?\nShe'll give you a lesson you'll never forget!"	
+Message	Yoshinon	Yoshino's become a teacher! Isn't it amazing?\nShe'll give you a lesson you'll never forget!	
 Message	Shido	I see. So that's your role, Yoshino.	
 Message	Yoshino	"Umm. I'm not sure... if I can do it, but I'll
 try my best!"	
 Message	Shido	"Yeah. I'm looking forward to learning from
 you too."	
-Message	Kaguya	"Ku ku. To think that the "World Administrator"
+Message	Kaguya	"Ku ku. To think that the ""World Administrator
 herself would participate. What a tangled web
-we weave. Heh. The winds rage onward."	
+we weave. Heh. The winds rage onward."""	
 Message	Maria	"I have no desire to cause an uproar. Let us
 get along."	
 Message	Yuzuru	"Question. Is your decision to join us at all

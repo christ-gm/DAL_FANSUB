@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	"(What am I even doing? I need to go on
 dates with the Spirits to stabilize them,
 but I'm looking around for Origami.)"	
@@ -133,10 +133,9 @@ find us."
 Message	Origami	This way.	
 Message	Shido	H-Hey, wait! Stop! STOOOOP!	
 Message	Origami	What?	
-Message	Shido	"Um, don't "what" me! What do you plan
-to do once we get there?"	
+Message	Shido	"Um, don't what"" me! What do you plan"	
 Message	Origami	"I put your life in danger. The only way to
-repay you is with my bod—"	
+repay you is with my bod— to do once we get there?"""	
 Message	Shido	"It's okay! Don't say another word!
 It's okay! I'm not mad about that!"	
 Message	Origami	I see...	

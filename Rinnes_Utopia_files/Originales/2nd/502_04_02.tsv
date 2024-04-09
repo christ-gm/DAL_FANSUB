@@ -141,9 +141,9 @@ Message	Shido	Legs? ...Like this?
 Message	Origami	"No, you want to be more bow-legged. And you should
 unzip your fly."	
 Message	Shido	Bow-legged... M-My fly, too?!	
-Message	Origami	"Yes. Then roll back your eyes and stick out your
-tongue. Then say, "OPPOSUM! OPPOSSUM!" And run
-around the shrine as fast as you can three times."	
+Message	Origami	"""Yes. Then roll back your eyes and stick out your
+tongue. Then say, ""OPPOSUM! OPPOSSUM!"" And run
+around the shrine as fast as you can three times."""	
 Message	Shido	"What... Are you serious?! Do I really have
 to do that?"	
 Message	Origami	I'm kidding, of course.	
@@ -237,7 +237,7 @@ come out with a number on it, right?"
 Message	Origami	"Go ahead. Shake it, and read the text on the stick
 that comes out."	
 Message	Shido	Okay. YAH!	
-Message	Shido	Okay... uh... "tawashi".	
+Message	Shido	"Okay... uh... ""tawashi""."	
 Message	Origami	Congratulations. You won a tawashi.	
 Message	Shido	WHAT?!	
 Message	Origami	Here you go.	
@@ -256,7 +256,7 @@ Message	None	"(If I let everything about this place bother me,
 it'd probably be the end of me. A-Anyways, I'll
 read the paper. Let's see...)"	
 Message	Shido	Hm... Oh!	
-Message	Shido	Wow, "Great Luck"!	
+Message	Shido	"Wow, ""Great Luck""!"	
 Message	Origami	Congratulations.	
 Message	Shido	"Nah, I know it's just a fortune, but that makes me
 so happy."	
@@ -272,8 +272,8 @@ visit again next year."
 Message	Shido	"O-Okay. I'll come again next year to pray for a
 successful exam! Wait...?"	
 Message	Shido	"The paper oracle overall seemed to be good luck,
-but reading the fine print, the "school luck"
-says: "No chance. This is a time to endure!""	
+but reading the fine print, the ""school luck
+says: ""No chance. This is a time to endure!"""""	
 Message	Origami	I look forward to seeing you again next year.	
 Message	Shido	I-It can't beeeee!	
 Message	None	(With that, I left the shrine.)	

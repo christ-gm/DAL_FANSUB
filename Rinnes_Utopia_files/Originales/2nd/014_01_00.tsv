@@ -12,7 +12,7 @@ Message	Shido	"Yes, I know that. I can feel your dance moves on
 my stomach."	
 Message	Arusu	Yes. And how is it?	
 Message	Shido	What do you mean how is it... AH!	
-Message	Arusu	Hahaha. You said, "AH!"	
+Message	Arusu	"Hahaha. You said, ""AH!"""	
 Message	Shido	A-Are you acting like Kotori for some reason?	
 Message	Arusu	...Please forget what you've seen.	
 Message	Shido	You... just... get off of me.	
@@ -55,9 +55,9 @@ Message	Shido	Kotori! What kind of orders are you giving her?!
 Message	Arusu	He's already awake... Although, if I should...?	
 Message	Shido	"You don't have to! Rather, I'd prefer you not.
 Don't do it, okay?!"	
-Message	Arusu	"According to my data, this can also be taken as
-the "set up". Should I follow Kotori Itsuka's
-instruction?"	
+Message	Arusu	"""According to my data, this can also be taken as
+the ""set up"". Should I follow Kotori Itsuka's
+instruction?"""	
 Message	Shido	"No! It's not! I'm not setting you up for a bit!
 I'm awake! I don't want it!"	
 Message	Arusu	"This certainly satisfies the conditions.
@@ -82,7 +82,7 @@ Message	Arusu	"...If I can select a preference,
 I would like toast."	
 Message	Shido	"Hm? Come to think of it, you got seconds
 yesterday, didn't you? You like toast?"	
-Message	Arusu	"Like"... Maybe that's it. I would like to try it\nagain.	
+Message	Arusu	"""Like""... Maybe that's it. I would like to try it\nagain."	
 Message	Shido	"Then maybe I can do grilled cheese or pizza toast.
 I have some tomato sauce."	
 Message	Arusu	They are both intriguing.	

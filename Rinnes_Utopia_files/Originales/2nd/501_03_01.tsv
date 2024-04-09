@@ -74,9 +74,9 @@ Message	Shido	Do you give up?
 Message	Tohka	"I give up... I don't know what kind of bread there
 is that you can't eat. That's terrible. It's so
 unnatural."	
-Message	Shido	"I see. Then you've failed. By the way, the answer
-is a "purebred". I must punish... those who got it
-wrong."	
+Message	Shido	"""I see. Then you've failed. By the way, the answer
+is a ""purebred"". I must punish... those who got it
+wrong."""	
 Message	Tohka	What?! ...What are you doing?	
 Message	Shido	Hmm. Let's see... Let's spray you with water.	
 Message	Tohka	Wh-What... But that'll be cold!	
@@ -139,8 +139,8 @@ everywhere."
 Message	Tohka	Hi... I-If you do such a thing... it'll tickle!	
 Message	Shido	Of course it will. Welcome to tickle hell.	
 Message	Tohka	Haah... St-Stop, Shido!	
-Message	Shido	"Don't you mean, "Please stop, Master"? Here.
-Tickle, tickle."	
+Message	Shido	"""Don't you mean, ""Please stop, Master""? Here.
+Tickle, tickle."""	
 Message	Tohka	Fwaaaaa... Aha...kuyha.	
 Message	Shido	Here. Tickle, tickle.	
 Message	Tohka	"Hahhaha...aha. P-Please stop... Ma—HAH!—ster...

@@ -128,9 +128,9 @@ and then tell me to hurry home? I mean, that's normal!"
 Message	Kotori	Right. If it's normal.	
 Message	Shido	"Right? Then why am I being taken to the station?
 That'll make my return home even later..."	
-Message	Kotori	"Because you don't look apologetic at all. You totally
-have that "I'll just act sorry and she'll let me off
-the hook" attitude..."	
+Message	Kotori	"""Because you don't look apologetic at all. You totally
+have that ""I'll just act sorry and she'll let me off
+the hook"" attitude..."""	
 Message	None	(Crap... She's actually sharp.)	
 Message	Kotori	And besides...	
 Message	Shido	What?	

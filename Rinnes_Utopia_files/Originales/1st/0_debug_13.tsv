@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	"(We escaped from the collapsing Neo Tengu Tower, and when we
 came to, we were at Takadai Park.)"	
 Message	None	"(Tohka and the others were recovered by the Fraxinus, most likely
@@ -89,9 +89,8 @@ Message	Shido	A caveat? What was it?
 Message	Reine	"The current version of the world suddenly ends and reverts to its
 original state. Several patterns emerged, but we found one
 absolute condition."	
-Message	Reine	"In short, when a "certain something" occurs, the world rewinds to
-its original state."	
-Message	Shido	A... certain something? What is that...?	
+Message	Reine	"In short, when a certain something"" occurs, the world rewinds to"	
+Message	Shido	"A... certain something? What is that...? its original state."""	
 Message	None	(Why is... my heart pounding so fast?)	
 Message	Reine	Yes. The condition to restart the world... is...	
 Message	Reine	Shin. It would be... your death.	
@@ -197,7 +196,7 @@ Message	Reine	"When you were all escaping from Neo Tengu Tower, it got mixed in
 somehow. There seems to be something inside, but... any idea what
 it is?"	
 Message	None	(Even if you ask me, I don't have any...)	
-Message	Rinne	"I'll take good care of it."	
+Message	Rinne	I'll take good care of it.	
 Message	Shido	...	
 Message	Shido	Reine-san, um, could you... give me some time for a little bit?	
 Message	Reine	...Hmm?	
@@ -213,10 +212,7 @@ Message	None	"The time we spent cannot be recovered.
 Rinne, who was by my side, is no longer here."	
 Message	None	"I opened the bag that Reine-san handed me.
 As I had expected, there was a familiar key inside."	
-Message	None	"That's right. This was proof that Rinne was my "childhood friend".
-The look on Rinne's face when I handed to her. Surprised, but
-elated."	
-Message	None	She was that panicked when she forgot it at home, too...	
+Message	None	"That's right. This was proof that Rinne was my childhood friend"". The look on Rinne's face when I handed to her. Surprised, but elated."""	
 Message	Shido	"Didn't you promise you'd take care of it, Rinne?
 Then, take responsibility. Take it with you!"	
 Message	Shido	"Otherwise, I'll end up realizing how I won't have you to wake me
@@ -225,7 +221,7 @@ longer see your smile!"
 Message	Shido	"Why... Why?! You said... You said we'd be childhood friends
 forever... that you wanted to be together!"	
 Message	Shido	RINNEEEEEEEEEEEEE!!	
-Message	Rinne	"Thank you, Shido. The time I spent together with you... was my\nonly true happiness."	
+Message	Rinne	Thank you, Shido. The time I spent together with you... was my\nonly true happiness.	
 Message	Tamae	"Okaaay! Homeroom is now over. Everyone, please be careful heading
 home."	
 Message	Shido	Hey Tohka, let's go home.	

@@ -3,7 +3,7 @@ Message	Shido	"I see. Karaoke, huh? Didn't expect this.
 You like karaoke, Maria?"	
 Message	Maria	"I also wished to try singing together with
 you, Shido."	
-Message	None	"(Hm? What does she mean by "also"? Does
+Message	None	"(Hm? What does she mean by ""also""? Does
 she mean like regular students?)"	
 Message	Maria	Now then, Shido. Let us try singing.	
 Message	Shido	Right. Um...	
@@ -208,7 +208,7 @@ others. I think it means you're getting closer
 to love, Maria."	
 Message	Maria	"I am getting closer to love. Is this because
 I have changed?"	
-Message	Maria	"You are surely the person who brought\ncolor to my world."	
+Message	Maria	You are surely the person who brought\ncolor to my world.	
 Message	Shido	Huh, Maria?! That's...	
 Message	Maria	"A line from the song we sang. I am beginning
 to change now, thanks to you and the others.

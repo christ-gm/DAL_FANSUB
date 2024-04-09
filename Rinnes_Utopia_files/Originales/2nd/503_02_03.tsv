@@ -32,24 +32,24 @@ Message	Yoshino	...Shido-san?
 Message	Shido	"Oh, well, it's not like I'm doubting you or
 anything, but it's also kind of hard for me
 to believe."	
-Message	Yoshinon	"Man, what is your problem? Yoshino has come to\npay you back. Why are you so cold, Shido-kun?"	
+Message	Yoshinon	Man, what is your problem? Yoshino has come to\npay you back. Why are you so cold, Shido-kun?	
 Message	Shido	Wh-What the?! The puppet is talking?!	
-Message	Yoshinon	"How rude. I'm not a hand puppet, I'm Yoshinon.\nYoshinon is Yoshino's friend. Nice to meet you,\nShido-kun!"	
+Message	Yoshinon	How rude. I'm not a hand puppet, I'm Yoshinon.\nYoshinon is Yoshino's friend. Nice to meet you,\nShido-kun!	
 Message	None	"(Wh-What the heck? But I guess that part of the
 design is the same, huh? Whatever comfort that
 is.)"	
 Message	Shido	"So, Yoshino and... Yoshinon, right? I'm Shido
 Itsuka. Nice to meet you two."	
 Message	Yoshino	Nice to... meet you, too.	
-Message	Yoshinon	"Gosh, you guys know each other already, but\nyou're acting so awkward."	
+Message	Yoshinon	Gosh, you guys know each other already, but\nyou're acting so awkward.	
 Message	Shido	"Hahaha... Sorry. So about this whole Yoshino
 thing... I can't just take it in."	
-Message	Yoshinon	"Hmm. Well I guess I understand. If only I could\nshow you some kind of proof."	
+Message	Yoshinon	Hmm. Well I guess I understand. If only I could\nshow you some kind of proof.	
 Message	Yoshino	U-Um... There is one thing... I can show you...	
 Message	Shido	Oh, what is it?	
 Message	Yoshino	"I was bitten by a kitty when I was little, and I
 have the same scar in the same place..."	
-Message	Yoshinon	"Oh, that's a good idea to show Shido-kun. I feel\nlike he'll believe you then. Good job, Yoshino!"	
+Message	Yoshinon	Oh, that's a good idea to show Shido-kun. I feel\nlike he'll believe you then. Good job, Yoshino!	
 Message	Shido	"A scar from a cat bite, huh? Oh yeah, I guess that
 did happen. But where was that scar?"	
 Message	Yoshino	"Um... on my butt. But if you want to see it,
@@ -58,14 +58,14 @@ Message	Shido	"WHOA! Wait a minute. No thanks! You don't have
 to take your clothes off! I believe you! I believe
 you already!"	
 Message	Yoshino	Really?	
-Message	Yoshinon	"Isn't that nice, Yoshino?"	
+Message	Yoshinon	Isn't that nice, Yoshino?	
 Message	None	"(Phew. I was so close to jail just now. I should
 change the subject and talk about something else.)"	
-Message	Shido	"So, anyways... About this "paying me back" thing.
-What's that all about?"	
+Message	Shido	"""So, anyways... About this ""paying me back"" thing.
+What's that all about?"""	
 Message	Yoshino	"You've always taken care of me, so... I wanted to
 pay back the... favor."	
-Message	Yoshinon	"And that's why Yoshino came back."	
+Message	Yoshinon	And that's why Yoshino came back.	
 Message	Shido	"A rabbit's return of a favor...? No, that's a
 crane, huh... So then you're going to...
 make me some cloth...?"	
@@ -98,7 +98,7 @@ Message	Shido	Then you can stay with me.
 Message	Yoshino	What...?	
 Message	Shido	"You're going to pay me back, right? And it's not
 like I'd tell you to leave, either."	
-Message	Yoshinon	"Shido-kun. What do you mean by that? Don't tell\nme you plan on doing inappropriate things to this\nadorable Yoshino?! Paying you back with her body!"	
+Message	Yoshinon	Shido-kun. What do you mean by that? Don't tell\nme you plan on doing inappropriate things to this\nadorable Yoshino?! Paying you back with her body!	
 Message	Shido	"No, no, no! Of course not! I don't care about
 favors or anything. I just mean you can stay with
 me. I mean... you've always been family, Yoshino."	
@@ -128,17 +128,17 @@ Message	None	"(And this is how we ended up in this situation...
 This definitely doesn't look good.)"	
 Message	Shido	"Uh, Yoshinon? You probably know how to take a
 bath, right?"	
-Message	Yoshinon	"Shido-kun, Yoshinon is also a former rabbit.\nOf course I don't know how to take a bath."	
+Message	Yoshinon	Shido-kun, Yoshinon is also a former rabbit.\nOf course I don't know how to take a bath.	
 Message	Shido	"I don't know why... but I'm not satisfied
 with that..."	
-Message	Yoshinon	"Well, who cares, Shido-kun?! This is your chance\nto look at the attractive Yoshino's naked body all\nyou want! A lucky pervert's big chance!"	
+Message	Yoshinon	Well, who cares, Shido-kun?! This is your chance\nto look at the attractive Yoshino's naked body all\nyou want! A lucky pervert's big chance!	
 Message	Shido	"What the?! I-I didn't see it, okay?! I saw
 nothing! And what makes you think I'm
 a lucky pervert?!"	
-Message	Yoshinon	"Shido-kun, let's not sweat the details."	
-Message	Yoshino	"Sh-Shido-san. The bubbles, the bubbles...! I-I'm
+Message	Yoshinon	Shido-kun, let's not sweat the details.	
+Message	Yoshino	"""Sh-Shido-san. The bubbles, the bubbles...! I-I'm
 not good at washing my body. Um, please... wash
-my body like you usually do.""	
+my body like you usually do."""""	
 Message	Shido	O-Okay...	
 Message	None	"(Yoshino is a rabbit. Yoshino is a rabbit.
 Yoshino... is a rabbit. I'm not touching a
@@ -151,7 +151,7 @@ Message	Shido	Whoa! Let me wash them off right now!
 Message	Shido	Yoshino, can you wash your own body?	
 Message	Yoshino	I-It's difficult...	
 Message	Shido	I guess it would be.	
-Message	Yoshinon	"Shido-kun, do us a favor and just score already!"	
+Message	Yoshinon	Shido-kun, do us a favor and just score already!	
 Choice		Wash her body.	
 Choice		Have her do it herself.	
 Message	Shido	Argh. I got it! I'll wash it.	
@@ -172,7 +172,7 @@ Message	Shido	"N-No! I'm going to wash your other arm! So lift
 your other arm up."	
 Message	None	"(Oh, God. I almost saw it. Dear God, please
 protect me.)"	
-Message	Yoshinon	"Hey, Shido-kun. There are still parts you haven't\nwashed. What are you going to do? Hey, hey,\nShido-kunnnn."	
+Message	Yoshinon	Hey, Shido-kun. There are still parts you haven't\nwashed. What are you going to do? Hey, hey,\nShido-kunnnn.	
 Message	None	"(Ngh... I'm a man too. How can I back down from
 being egged on like this? I'm going to commit!)"	
 Message	Shido	"Okay, Yoshino. So this is how you should wash your
@@ -184,7 +184,7 @@ Message	Yoshino	O-Okay!
 Message	None	"(Before giving her any time to respond, I jumped
 into the water. Honestly, I was past my limit in
 all kinds of ways.)"	
-Message	Yoshinon	"...Gosh, Shido-kun. You're such a wuss."	
+Message	Yoshinon	...Gosh, Shido-kun. You're such a wuss.	
 Message	None	"(Say what you will. God, I think I was somehow
 able to maintain rationality.)"	
 Message	Shido	"All right, Yoshino. I'll explain how to wash your
@@ -193,7 +193,7 @@ and spread them over your body."
 Message	None	"(No matter if Yoshino's mentally a rabbit, she's
 physically a girl. I can't just touch a girl's
 body.)"	
-Message	Yoshinon	"...Shido-kun?"	
+Message	Yoshinon	...Shido-kun?	
 Message	Shido	Don't say a word, Yoshinon. I can't hear anything.	
 Message	Yoshino	Okay, Shido-san... I'll do it myself.	
 Message	Shido	"That-a girl, Yoshino. I can't see your face, but I
@@ -204,7 +204,7 @@ Message	Shido	...Hm? What did you just say?
 Message	Yoshino	"I'm going to copy how you wash your body, so show
 me how you do it, Shido-san."	
 Message	None	(U-Um, that imagery is completely inappropriate.)	
-Message	Yoshinon	"Shido-kun. Yoshino's putting herself out there.\nYou can teach her, right?"	
+Message	Yoshinon	Shido-kun. Yoshino's putting herself out there.\nYou can teach her, right?	
 Message	Shido	"*Whimper*... Okay... Then I'll close my eyes, so
 Yoshino, look this way."	
 Message	Yoshino	O-Okay.	
@@ -219,12 +219,12 @@ because I have Yoshinon... How can I hold it?"
 Message	None	"(Crap...! I forgot Yoshinon was here. Wh-What do
 we do... How am I going to teach her with my eyes
 closed.)"	
-Message	Yoshinon	"Shido-kun, teach her. How should she wash the\nother areas?"	
+Message	Yoshinon	Shido-kun, teach her. How should she wash the\nother areas?	
 Message	Shido	"I-It's over now. Yoshinon, you know the rest,
 right?!"	
 Message	None	"(I just blurted it out and ran out of the tub.
 ...I have to retreat, or I won't last.)"	
-Message	Yoshinon	"Gosh. Fine. Yoshino, Yoshinon will teach you."	
+Message	Yoshinon	Gosh. Fine. Yoshino, Yoshinon will teach you.	
 Message	None	"(You can teach her, Yoshinon?! Then what was all
 that effort for? ...*sigh*. Whatever. I'm going
 to forget all this and just soak in the tub.)"	

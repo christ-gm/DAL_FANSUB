@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	"(I'm glad the date yesterday with Tohka went
 well.)"	
 Message	None	"(Now that Tohka's gotten back to normal, it feels
@@ -108,18 +108,18 @@ surrounding the pool were bowl-shaped stands.)"
 Message	None	"(We were sat in the very front row. Talk about
 having the best luck.)"	
 Message	Tohka	"Shido! It's almost time for, what was it, the
-thing known as a "show" to start!"	
+thing known as a ""show"" to start!"	
 Message	None	"(Tohka was in high Spirits, like a kid at a candy
 store.)"	
 Message	Shido	"Yeah, the opening show is apparently the
 Lovebirds penguin show."	
-Message	Tohka	"Lovebirds"? What is that?	
-Message	Shido	"Um. Do you remember what I told you before
+Message	Tohka	"Lovebirds""? What is that?	
+Message	Shido	""Um. Do you remember what I told you before
 about marriage?"	
 Message	Tohka	"Y-Yes! It is when two people who love each other
 promise to always be together and live together,
 yes?"	
-Message	Shido	"That's right. "Lovebirds" refers to a married
+Message	Shido	"That's right. ""Lovebirds"" refers to a married
 couple that stays happily together for eternity."	
 Message	Tohka	Hrm! I-I see... Then Shido, with you—	
 Message	Shido	Oh, looks like it started!	
@@ -180,17 +180,17 @@ Message	Young Lady	"Once Humboldt penguins become a couple, they
 stay together forever! ...Or so they say.
 Quite the dedicated pair."	
 Message	Young Lady	"Alright! And that was Hatchan and Piichan's
-"Lovebirds Penguin Show"! Thank you so much!"	
+""Lovebirds Penguin Show""! Thank you so much!"	
 Message	Tohka	H-Hey, Shido...?	
 Message	Shido	Hmm?	
-Message	Tohka	D-Do you think I can also become a "lovebird"?	
+Message	Tohka	"D-Do you think I can also become a ""lovebird""?"	
 Message	Shido	...! I think it's too early to say...	
 Message	Tohka	"From here on, until eternity... I-I want to be
 with you, Shido... Is that no good?"	
 Message	Shido	...! I-I see... I-I... Tohka, with you, um...	
 Message	Shido	...?!	
 Message	Young Man	"Hello everyone! Sorry to keep you waiting! Now,
-it's time for the "Dolphin Splash Show"! Our
+it's time for the ""Dolphin Splash Show""! Our
 dolphins are the pride of the aquarium. Enjoy!"	
 Message	Tohka	Oh... Ohhh! It started again, Shido!	
 Message	Shido	Y-Yeah!	
@@ -218,7 +218,7 @@ early, but it's service time! Hey everyone!
 Did you make sure to purchase a raincoat?"	
 Message	None	"(Hmm, a raincoat...? Oh, I guess they were selling
 some at the entrance.)"	
-Message	Tohka	Shido, what is a "raincoat"?	
+Message	Tohka	"Shido, what is a ""raincoat""?"	
 Message	Shido	"Oh, well, you see, the kids in the front row are
 wearing some. It's so they don't get wet when
 they're splashed."	
@@ -303,7 +303,7 @@ moments, is especially important...)"
 Message	None	"(But today... Today, I promised I'd stay together
 with Tohka. We're having fun right now. There's
 no reason to pick up the phone.)"	
-Message	Rinne	"Promise that from now on, you'll cherish\nTohka-chan. No matter what happens, you\nwon't let her go... Promise me."	
+Message	Rinne	Promise that from now on, you'll cherish\nTohka-chan. No matter what happens, you\nwon't let her go... Promise me.	
 Message	None	"(I suddenly remembered Rinne's words.
 That's right, I promised Rinne too, but...
 What if Kotori's call is really important?)"	

@@ -8,7 +8,7 @@ someone were to see me, I'd look really suspicious.)"
 Message	Shido	"Well, if I didn't have to do this, I'd want to hurry
 up and go home, but..."	
 Message	None	(Of course no one responded to my mutterings.)	
-Message	Shido	"And besides, "Events that occurred today"? It's the
+Message	Shido	"And besides, ""Events that occurred today""? It's the
 same class! As usual!"	
 Message	None	"(This time, I decided to take things out on the desk,
 knowing nothing was going to change.)"	
@@ -166,20 +166,20 @@ Message	Kotori	Okay, okay.
 Message	None	(I totally can't trust her...)	
 Message	None	"(At this rate, I'll never finish. I have no choice. I
 guess I'll just have to write something random.)"	
-Message	Shido	"Uh... "Seems like there are more detailed subjects
-during class―"."	
+Message	Shido	"""Uh... ""Seems like there are more detailed subjects
+during class―""."""	
 Message	Kotori	―Shido, you spelled it wrong.	
 Message	None	(Kotori suddenly pointed it out.)	
-Message	Kotori	"Detailed. It's spelled "t-a-i-l". I bet you anything
+Message	Kotori	"Detailed. It's spelled ""t-a-i-l"". I bet you anything
 you can't even spell girlfriend. Ugh, I can't believe
 it."	
 Message	Shido	Shut up! It was just a mistake!	
 Message	None	"(Gosh, she's just saying whatever she wants! I fixed
 the spelling error and Kotori gave a victorious
 snort.)"	
-Message	Shido	"Damn it... Uh... "So It's getting a little colder, so I
-want to try not to get sick, but―""	
-Message	Kotori	"Hey Shido. Don't use "so" twice in one sentence.
+Message	Shido	"Damn it... Uh... ""So It's getting a little colder, so I
+want to try not to get sick, but―"	
+Message	Kotori	"Hey Shido. Don't use ""so"" twice in one sentence.
 Do you even know how to live? Do you want me to
 rearrange your bones so that you can feel alive?"	
 Message	Shido	Don't say such scary things!	

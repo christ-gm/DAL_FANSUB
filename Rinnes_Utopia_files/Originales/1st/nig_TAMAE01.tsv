@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	<<No event data for today!>>	
 Message	Shido	Oh Tama-cha... err, I mean sensei. Goodbye!	
 Message	Tamae	Oh... Itsuka-kun.	
@@ -70,9 +70,9 @@ Message	Tamae	"When my students seem to be down, I get worried as
 their teacher～"	
 Message	Shido	I see...	
 Message	Tamae	"Why are you looking at me that way? Are you
-thinking something like, "Wow she acts like a
-teacher sometimes, doesn't she?""	
-Message	Shido	"A-Ah... That's exactly right.
+thinking something like, ""Wow she acts like a
+teacher sometimes, doesn't she?""	"	
+Message	Shido	"""A-Ah... That's exactly right.
 As expected of a teacher."	
 Message	Tamae	Really, now. I am a teacher too, you know?!	
 Message	Shido	Y-Yes, I'm sorry.	

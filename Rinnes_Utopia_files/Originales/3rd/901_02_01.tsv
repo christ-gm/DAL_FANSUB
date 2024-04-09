@@ -71,7 +71,7 @@ overflowed. The memories of early summer. Joy,
 sorrow, pain, anger―all these emotions came over me.)"	
 Message	None	"(And eventually, one of them stood out over the rest.
 Rinne Sonogami... a special person, my former
-"childhood friend".)"	
+""childhood friend"".)"	
 Message	None	"(We had a sad separation, and I wasn't supposed to
 be able to see her again... or so I thought.)"	
 Message	Shido	I don't believe it... You're here, Rinne.	
@@ -102,9 +102,9 @@ Message	None	"(Everyone is totally fine with Rinne being here... Isn't
 this weird?)"	
 Message	Maria	She's the only one who can answer that.	
 Message	Shido	M-Maria?! Y-You were here...	
-Message	Maria	"I see how it is. "You were here," huh... Who's the one
+Message	Maria	"""I see how it is. ""You were here,"" huh... Who's the one
 who ignored me, being all lovey-dovey with his
-girlfriend?"	
+girlfriend?"""	
 Message	Shido	Oh, um... Maria-san? Are you upset?	
 Message	Maria	I'm not upset at all. ♪	
 Message	Shido	AHHHH!	
@@ -127,7 +127,7 @@ Message	Tohka	"I see! Your cooking is amazing, Rinne! I'm getting
 excited!"	
 Message	Kotori	Hey, I brought them over!	
 Message	Yoshino	Rinne-san... Good morning. I'm happy... you're back...	
-Message	Yoshinon	"Ya-hooo! It's been a while, Rinne-chaaan!"	
+Message	Yoshinon	Ya-hooo! It's been a while, Rinne-chaaan!	
 Message	Kaguya	"Hehe... Rinne. Finally you've returned from your
 journey of salvation. Thanks to your efforts, it seems
 as though the miasma of darkness has been lifted..."	
@@ -170,7 +170,7 @@ Message	Shido	Alright. Then let's head out.
 Message	Kotori	I'm that way!	
 Message	Yoshino	"Oh... I'm going to go home, too. I will see everyone
 later... Um, the party... I look forward to it, too."	
-Message	Yoshinon	"Yeah, totally, I can't wait. Yoshinon is so excited!"	
+Message	Yoshinon	Yeah, totally, I can't wait. Yoshinon is so excited!	
 Message	Shido	Yeah. I'll see you later.	
 Message	Kaguya	"Then let's go, everyone! To be late to the party would
 taint the Yamai name."	
@@ -213,9 +213,9 @@ Message	None	"(That summer, Rinne activated this infinitely looping
 world, Eden. Unfortunately... there's no way that this
 isn't related.)"	
 Message	Rinne	It's a strange feeling. I know that we're inside Eden.	
-Message	Rinne	"And I recognize myself as "Rinne Sonogami". But I'm
-not the Ruler of this world... That, I'm sure of."	
-Message	Shido	You're not the "Ruler"...?	
+Message	Rinne	"""And I recognize myself as ""Rinne Sonogami"". But I'm
+not the Ruler of this world... That, I'm sure of."""	
+Message	Shido	"You're not the ""Ruler""...?"	
 Message	Rinne	"Shido, you may not be able to believe me. But I have
 no powers right now. I can't create an ideal world for
 you, nor can I send you back."	

@@ -1,6 +1,6 @@
 ﻿Operator	Comment	Key	Translation
-Message	None	"(Ever since then, we stopped using the words, "because
-we're dating".)"	
+Message	None	"(Ever since then, we stopped using the words, ""because
+we're dating"".)"	
 Message	None	"(Just because two people are going out doesn't mean
 you have to do anything. That's obvious. But it's also
 not a reason to do nothing.)"	
@@ -9,33 +9,33 @@ won't. We just won't force it. And we won't be tied
 down to any labels.)"	
 Message	None	"(We talked about it. And as we'd suggested, we were
 spending the days slowly and calmly.)"	
-Message	Yoshinon	"Shido-kun, you sure are patient."	
+Message	Yoshinon	Shido-kun, you sure are patient.	
 Message	Shido	What are you talking about?	
 Message	None	"(Yoshino had visited me after school again today. Of
 course Yoshinon would be with us.)"	
-Message	Yoshinon	"Because you're a young boy, Shido-kun. Aren't\nthere a bunch of things you wanted to do once you\ngot a girlfriend?"	
+Message	Yoshinon	Because you're a young boy, Shido-kun. Aren't\nthere a bunch of things you wanted to do once you\ngot a girlfriend?	
 Message	Yoshino	You can do whatever you want...?	
-Message	Yoshinon	"Seeeee. She said you can do whatever you wannnnt.\nYou sly dog, you."	
+Message	Yoshinon	Seeeee. She said you can do whatever you wannnnt.\nYou sly dog, you.	
 Message	Shido	"It's true that I imagined wanting to do a lot of
 things once I had a girlfriend."	
 Message	Shido	But it doesn't have to be right now.	
 Message	Yoshino	Why not...?	
-Message	Yoshinon	"That doesn't mean that you don't care about Yoshino,\nright?"	
+Message	Yoshinon	That doesn't mean that you don't care about Yoshino,\nright?	
 Message	Shido	"Of course. I told you already, it doesn't have to be
 now. It can be eventually."	
 Message	Yoshino	Eventually, huh...?	
 Message	Shido	"Yeah, eventually is eventually. Yoshino, you'll always
 be with me, so I'm sure such time will come. I'm fine
 with waiting until then."	
-Message	Yoshinon	"Gosh, that sure does sound like a long time. Well, I\nguess Yoshino says she doesn't mind."	
-Message	Yoshinon	"But if you can't take it anymore, or if you can't\nhold yourself back, Shido-kun... I think you can do\nwhatever you want."	
+Message	Yoshinon	Gosh, that sure does sound like a long time. Well, I\nguess Yoshino says she doesn't mind.	
+Message	Yoshinon	But if you can't take it anymore, or if you can't\nhold yourself back, Shido-kun... I think you can do\nwhatever you want.	
 Message	Yoshino	...Yes. I'm ready... emotionally.	
 Message	Shido	...I want to think that I wouldn't lose control.	
 Message	None	"(To have her say this much... I don't know what to
 do.)"	
 Message	Shido	"So what do you want to do today? You want to read
 books like the other day?"	
-Message	Yoshinon	"Hahaha. A joint activity to feel each other's love～"	
+Message	Yoshinon	Hahaha. A joint activity to feel each other's love～	
 Message	None	"(Yoshino isn't good at flipping the pages because
 Yoshinon's there.)"	
 Message	None	"(So I always flip the page for Yoshino so that she can
@@ -43,7 +43,7 @@ see while leaning on me.)"
 Message	Yoshino	U-Um... Today... Um... I brought something.	
 Message	None	(Yoshino brought something big today.)	
 Message	Shido	What did you bring today?	
-Message	Yoshinon	"Hehehe. What do you think it is? It's light for its\nsize. It's soft and feels really good! What is it?!"	
+Message	Yoshinon	Hehehe. What do you think it is? It's light for its\nsize. It's soft and feels really good! What is it?!	
 Message	Shido	Huh...? I have no idea...	
 Message	Yoshino	U-Um... It's this.	
 Message	Shido	Plushies...?	
@@ -53,7 +53,7 @@ Message	None	"(All the plushies that Yoshino took out seemed to
 be made with care.)"	
 Message	Shido	Hm...? This plushie... I feel like I've seen it before.	
 Message	Yoshino	U-Um... This is you... Shido-san... And this... is me.	
-Message	Yoshinon	"Ahhh. She made you pretty handsome. Then it can stand\nnext to Yoshinon."	
+Message	Yoshinon	Ahhh. She made you pretty handsome. Then it can stand\nnext to Yoshinon.	
 Message	Shido	"Y-Yeah, right. I think it's really well-made. Yoshino,
 you're good at making these, aren't you?"	
 Message	Yoshino	"Y-Yes... Well, I don't know... if I'm good at it,
@@ -68,7 +68,7 @@ Message	Yoshino	"I-I'm sorry... For making it without asking
 permission..."	
 Message	Shido	"Oh, I'm not mad. It doesn't upset me. It's just... You
 know, I feel self-conscious about it."	
-Message	Yoshinon	"Right? Whenever she couldn't see you, Shido-kun,\nshe'd look at it and hug it to hide the sorrow...\nCan you imagine it? Can you imagine her doing it?"	
+Message	Yoshinon	Right? Whenever she couldn't see you, Shido-kun,\nshe'd look at it and hug it to hide the sorrow...\nCan you imagine it? Can you imagine her doing it?	
 Message	Shido	"Shut up! If you do that, you'll make me think about
 it."	
 Message	Yoshino	I-I'm sorry... Um.	
@@ -78,31 +78,31 @@ Message	Yoshino	...Thank you.
 Message	Shido	"If you feel lonely, Yoshino, I would like to be by
 your side."	
 Message	Yoshino	I'm okay. I know that it's me acting spoiled...	
-Message	Yoshinon	"Shido-kun. We know you have your own life, too.\nOf course Yoshino doesn't want to get in your way."	
+Message	Yoshinon	Shido-kun. We know you have your own life, too.\nOf course Yoshino doesn't want to get in your way.	
 Message	Shido	"You say that, but Yoshino, you can afford to be more
 spoiled if you wanted."	
 Message	Yoshino	"Th-Then... Um, is it okay if I continue to... take
 good care of your plushie?"	
 Message	Shido	I would never say no.	
-Message	Yoshinon	"Aren't you glad, Yoshino? I mean, all this time,\nyou've sat it at the dinner table, slept with it, and\neven bathed with it."	
+Message	Yoshinon	Aren't you glad, Yoshino? I mean, all this time,\nyou've sat it at the dinner table, slept with it, and\neven bathed with it.	
 Message	Shido	...You can get it wet?	
 Message	Yoshino	"U-Um... I have to hand wash it, but... Are you sure I
 can keep it?""	
-Message	Yoshinon	"Why not? Shido-kun said you can. Why don't you\nleave the plushie of you with Shido-kun, then?"	
+Message	Yoshinon	""Why not? Shido-kun said you can. Why don't you\nleave the plushie of you with Shido-kun, then?"	
 Message	Shido	Hahaha. That might be a good idea.	
-Message	Yoshinon	"Totally. I'm sure if Shido-kun goes to sleep with it,\nhe can feel you always by his side."	
+Message	Yoshinon	Totally. I'm sure if Shido-kun goes to sleep with it,\nhe can feel you always by his side.	
 Message	Shido	"...It's nice that I'll be with Yoshino, but I kind of
 feel embarrassed sleeping with a plushie at this age."	
 Message	Yoshino	...Oh, but I think it's cute.	
 Message	None	"(It's nice that Yoshino's happy, but I honestly can't
-be happy being called "cute" at this age.)"	
+be happy being called ""cute"" at this age.)"	
 Message	None	"(And before I knew it, Yoshino picked up the plushie
 that looked like herself and held it out toward me.)"	
 Message	Shido	Seeing you like that is interesting.	
 Message	Yoshino	Interesting?	
 Message	Shido	"Yeah. Seeing the plushie Yoshino and Yoshinon next
 to one another... It kinda feels like they're friends."	
-Message	Yoshinon	"Then I guess Shido-kun is also part of the club?"	
+Message	Yoshinon	Then I guess Shido-kun is also part of the club?	
 Message	Shido	"Huh? Oh... Yeah, I guess that would make me part of
 it."	
 Message	None	(I tried moving the plushie that I had in hand.)	
@@ -116,33 +116,33 @@ Message	Yoshino	"Hehe... This really is... interesting. Shido-san,
 you're playing with the plushie I made... It's kinda...
 cute."	
 Message	Shido	"...I think the plushie would be happier to be called
-"cute" rather than me."	
-Message	Yoshinon	"Yoshino is taking good care of it on the daily, so I'm\nsure it's sick of being called cute."	
+""cute"" rather than me."	
+Message	Yoshinon	Yoshino is taking good care of it on the daily, so I'm\nsure it's sick of being called cute.	
 Message	Shido	...Are you always with it?	
 Message	Yoshino	"N-No, that's not true... I-I just... keep it near me
 and sleep with it whenever I can't see you, if I'm
 feeling lonely."	
 Message	None	"(As she said that, Yoshino made the plushie take
-action as if to say, "You caught me".)"	
+action as if to say, ""You caught me"".)"	
 Message	Shido	I see. So you're sleeping with Yoshino, huh...	
-Message	Yoshinon	"Shido-kun. If you're jealous, you can say so."	
+Message	Yoshinon	Shido-kun. If you're jealous, you can say so.	
 Message	Shido	It's true. I am kind of jealous.	
-Message	Yoshinon	"You hear that, Yoshino? Shido said he wants to sleep\nwith you in his arms!"	
+Message	Yoshinon	You hear that, Yoshino? Shido said he wants to sleep\nwith you in his arms!	
 Message	Yoshino	"...Then... is it okay if I... spend the night sometime
 soon?"	
 Message	Shido	Y-Yeah sure.	
 Message	None	"(Having an embarrassing conversation like this through
 the plushie somehow makes it bearable.)"	
-Message	Yoshinon	"But aren't you lucky that you get to sleep using\nYoshino as a body pillow? It's a rare thing, being able\nto do that."	
+Message	Yoshinon	But aren't you lucky that you get to sleep using\nYoshino as a body pillow? It's a rare thing, being able\nto do that.	
 Message	Shido	Yeah―	
-Message	Yoshinon	"―And besides, if you sleep like that, who knows?\nYour hand may accidentally touch things, right?"	
+Message	Yoshinon	―And besides, if you sleep like that, who knows?\nYour hand may accidentally touch things, right?	
 Message	Yoshino	"U-Um... I may not have the best sleeping posture,
 so... If that happens, I'm sorry..."	
 Message	Shido	Don't worry. It's hard to wake me.	
 Message	Yoshino	Oh, really...?	
 Message	Shido	"Yeah. Because I don't wake up easily, Kotori will
 dance on top of me."	
-Message	Yoshinon	"Hmmm. So to put it frankly, once you fall asleep, if\nwe don't step on you, you won't wake up?"	
+Message	Yoshinon	Hmmm. So to put it frankly, once you fall asleep, if\nwe don't step on you, you won't wake up?	
 Message	Shido	"Wait. That was just an example. I do wake up at times
 too, you know."	
 Message	Yoshino	Th-Then I'll try my best...!	
@@ -151,7 +151,7 @@ Yoshino spends the night and I'm able to hold her...
 Would I be able to fall asleep normally?)"	
 Message	None	"(Honestly, if such thing happens, I feel like I'll be
 so nervous that I won't be able to sleep at all.)"	
-Message	Yoshinon	"Shido-kun, I can read you like a book. Why are you\ngetting so nervous now?"	
+Message	Yoshinon	Shido-kun, I can read you like a book. Why are you\ngetting so nervous now?	
 Message	Shido	"Well, we're talking about Yoshino coming over to spend
 the night. Of course I'd get nervous."	
 Message	Shido	"But even then, even if Yoshino did come sleep over,
@@ -159,24 +159,24 @@ I'm sure she'd be sleeping in the guest room."
 Message	Yoshino	...Um, I won't be able to sleep next to you?	
 Message	Shido	"Well, Kotori's in the house, so I don't think she'd
 let that happen."	
-Message	Yoshinon	"At the end of the day, you're always listening to\nKotori-chan, aren't you?"	
+Message	Yoshinon	At the end of the day, you're always listening to\nKotori-chan, aren't you?	
 Message	Shido	"Contrary to her attitude sometimes, she's still my
 little sister."	
 Message	Yoshino	"...I'm envious... that she can always be with you. If
 only... I were your little sister too..."	
 Message	Shido	But I wouldn't like that.	
-Message	Yoshinon	"Hmmm? What do you mean by that, Shido-kun?\nYou're saying that you don't want to be with Yoshino\nand Yoshinon?! That's messed up! So mean!"	
+Message	Yoshinon	Hmmm? What do you mean by that, Shido-kun?\nYou're saying that you don't want to be with Yoshino\nand Yoshinon?! That's messed up! So mean!	
 Message	Shido	"That's not what I mean. If Yoshino's my little sister,
 then I can't have her as my girlfriend right?"	
 Message	Yoshino	Oh...?! That's right...!	
 Message	Shido	"Yup. And besides, we may not be together now, but
 I'll try my best so that we can be together someday."	
-Message	Yoshinon	"But currently, you're going to look out for your\nlittle sister and won't use Yoshino as your body\npillow, right?"	
+Message	Yoshinon	But currently, you're going to look out for your\nlittle sister and won't use Yoshino as your body\npillow, right?	
 Message	Shido	Yoshinon...	
 Message	Yoshino	"Shido-san... You're so nice to... everyone, aren't
 you?"	
 Message	Shido	You think so?	
-Message	Yoshinon	"Yeahhhh. I mean, that's what's great about you and\nall, but if you're too nice, Yoshino gets worried.\nDon't you understand a girl's heart?"	
+Message	Yoshinon	Yeahhhh. I mean, that's what's great about you and\nall, but if you're too nice, Yoshino gets worried.\nDon't you understand a girl's heart?	
 Message	Shido	...Did I worry you?	
 Message	Yoshino	"Um... It's not your fault, Shido-san. It's just that I
 just get worried sometimes..."	
@@ -195,10 +195,10 @@ like that."
 Message	Yoshino	"No... Please, don't stop... If you suddenly become
 mean to others... that'll make me even more sad.
 So―"	
-Message	Yoshinon	"So in the end, Yoshino is just being spoiled, huh?\nTypical guy. You have to take responsibility now."	
+Message	Yoshinon	So in the end, Yoshino is just being spoiled, huh?\nTypical guy. You have to take responsibility now.	
 Message	Shido	Of course I'll take responsibility.	
 Message	Yoshino	...?!	
-Message	Yoshinon	"Whoa... Shido-kun, you can be so bold!"	
+Message	Yoshinon	Whoa... Shido-kun, you can be so bold!	
 Message	None	"(So they say, but I was able to say that because I was
 using the plushie to talk.)"	
 Message	None	"(If it were me, then I'd be so embarrassed. I wouldn't

@@ -1,4 +1,4 @@
-﻿Operator	Comment	Key	Translation
+Operator	Comment	Key	Translation
 Message	None	"(Mm... Morning already? Kind of rare for me
 to wake up before Kotori wakes me up.)"	
 Message	Origami	No, it's not. Do not put words in my mouth.	
@@ -78,9 +78,9 @@ Message	Origami	What is wrong?
 Message	Shido	"We're in luck, Origami! Today's the first Sunday
 of the month!"	
 Message	Origami	Huh...?	
-Message	Shido	"Oh. Don't you know? The "Sample Stamp Rally"
+Message	Shido	"Oh. Don't you know? The ""Sample Stamp Rally
 takes place on the first and last Sundays of the
-month."	
+month."""	
 Message	Origami	Sample Stamp Rally? What is that?	
 Message	Shido	"Origami, I thought you knew everything.
 Guess not?"	
@@ -291,7 +291,7 @@ Message	None	"(Why's Kotori calling? I wonder if she needs
 something.)"	
 Message	None	"(Something feels strange. Like a haze or unease
 in the back of my mind. Is it a premonition?)"	
-Message	Rinne	"Please, I want you to promise me. That you'll\ncherish Tobiichi-chan. That you won't ever\nlet her go. Promise me."	
+Message	Rinne	Please, I want you to promise me. That you'll\ncherish Tobiichi-chan. That you won't ever\nlet her go. Promise me.	
 Message	None	"(All of a sudden, what Rinne said came back to
 me. Origami and I were here together. I can't
 possibly interrupt this moment.)"	

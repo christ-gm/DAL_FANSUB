@@ -57,9 +57,9 @@ Message	Shido	K-Kaguya. Listen to me. This is, um...
 Message	Kaguya	"I-I see. So there's a reason you're rushing to make
 excuses. I mean, you guys are so close and she has
 her arm around yours... right?"	
-Message	Yuzuru	"Jealousy. "Kaguya"? You sure seem to be addressing
+Message	Yuzuru	"""Jealousy. ""Kaguya""? You sure seem to be addressing
 her in a casual way. Shido, please introduce her to
-me."	
+me."""	
 Message	Shido	"Ouch, ouch, ouch! I'll talk, I'll talk, so don't pinch
 me! Yuzuru!"	
 Message	Yuzuru	Anger. Despite having Yuzuru, you sure are greedy.	
@@ -181,8 +181,8 @@ Message	Yuzuru	"Despicable. You're horrible, Shido... Your half-assed
 kindness can still hurt people."	
 Message	Ai	Trash.	
 Message	Mai	That's an insult to trash.	
-Message	Mii	"We should create a bracket called "Shido Itsuka" next
-to "Trash"."	
+Message	Mii	"""We should create a bracket called ""Shido Itsuka"" next
+to ""Trash""."""	
 Message	None	"(So it didn't work. One hell of a comeback. I guess
 having both at the same time would have been too
 convenient...)"	

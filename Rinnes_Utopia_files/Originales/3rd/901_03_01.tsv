@@ -236,8 +236,8 @@ Message	Shido	Hm? That area is...
 Message	None	(I looked to follow where Tohka was pointing.)	
 Message	None	"(It's a flag. It looks like a flag waving in front of
 the food trucks.)"	
-Message	None	"(And next to the flag was a sign that read "Italian
-Yakisoba".)"	
+Message	None	"""(And next to the flag was a sign that read ""Italian
+Yakisoba"".)"""	
 Message	Tohka	Italian... yakisoba? What is that?	
 Message	Yuzuru	"Analysis. I believe it's pasta sauce on top of yakisoba.
 Kind of like a westernized yakisoba. It does smell

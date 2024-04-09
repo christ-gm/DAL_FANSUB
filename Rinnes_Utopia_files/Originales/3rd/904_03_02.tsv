@@ -17,9 +17,9 @@ Message	Shido	Marina?!
 Message	Marina	"A spare key, huh... I see. It's very like Rinne
 Sonogami."	
 Message	Shido	Like Rinne Sonogami... What do you mean by that?	
-Message	Marina	"The "most important thing" that Rio was looking for
+Message	Marina	"""The ""most important thing"" that Rio was looking for
 is related to Rinne Sonogami. We were really cutting
-it close, but now all the pieces have gathered."	
+it close, but now all the pieces have gathered."""	
 Message	Shido	I see... But Marina, what about you...?!	
 Message	None	"(Marina asked me to erase her and move on towards
 the future. But then why...?)"	
@@ -77,8 +77,8 @@ with a kiss. And during the last Eden, I kissed Rinne
 and tried to seal her powers.)"	
 Message	None	"(But Rinne, who was a crystallization of those
 spiritual powers, was erased in the process.)"	
-Message	None	"(Rio... A girl who calls me "Papa", and Rinne "Mama".
-Those names weren't wrong at all.)"	
+Message	None	"""(Rio... A girl who calls me ""Papa"", and Rinne ""Mama"".
+Those names weren't wrong at all.)"""	
 Message	Shido	"Rio was... born from Rinne's Spirit powers sealed
 inside of me?"	
 Message	Marina	"That's right. A portion of the spirit power that was

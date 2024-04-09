@@ -3,12 +3,12 @@ Message	Reine	Oh? This is... odd.
 Message	Kotori	What's the matter, Reine? Did something change?	
 Message	Reine	"I can't access the game system directly, so I used
 little tricks here and there to analyze the data,
-but... The "other side" is approaching us."	
+but... The ""other side"" is approaching us."	
 Message	Kotori	"The other side?! Wait, so that Spirit—the AI
 Spirit... You're telling me it contacted you?!"	
 Message	Reine	I don't know what to call it, but look at this.	
-Message	Kotori	"What's this? "Please come here to love Shido
-Itsuka." That's all...?"	
+Message	Kotori	"""What's this? ""Please come here to love Shido
+Itsuka."" That's all...?"""	
 Message	Reine	"Yeah. I tried, but there's no way for us to reply.
 After the message, the other devices began moving.
 It seems only certain people are granted access."	
@@ -27,7 +27,7 @@ Message	Reine	"It looks like it's a list of the girls surrounding
 Shin. I would assume so, since Origami Tobiichi
 was included, despite not being a Spirit."	
 Message	Kotori	...I see.	
-Message	Reine	"What is love?"\nShe was asking Shido that question right before we\nwere cut off from him.	
+Message	Reine	"""What is love?""\nShe was asking Shido that question right before we\nwere cut off from him."	
 Message	Reine	"If we are going to take this literally, she's
 inviting girls who love Shin in order to
 learn what love is... perhaps."	
@@ -41,11 +41,11 @@ to save Shido."
 Message	Reine	"It does seem so. It's dangerous, but we have to
 comply."	
 Message	Tohka	"I don't understand what is happening, but I'm
-going! All I have to do is go inside the "geme"
-and save Shido, right?!"	
+going! All I have to do is go inside the ""geme
+and save Shido, right?!"""	
 Message	Yoshino	"I-I... want to go too! Shido-san saved me so many
 times. This time... It's my turn to save him!"	
-Message	Yoshinon	"Woo-hoo! Yoshino, you're so bold! To declare\nyour love for Shido-kun in this dramatic fashion!"	
+Message	Yoshinon	Woo-hoo! Yoshino, you're so bold! To declare\nyour love for Shido-kun in this dramatic fashion!	
 Message	Yoshino	Y-Yoshinon...!	
 Message	Kaguya	"Hehe... Shido Itsuka belongs to the Yamais. If
 they dare to take something from us, it's only
@@ -79,27 +79,27 @@ Message	Kotori	"Shido saw her today, right? Then that means she
 should be somewhere in Tengu City..."	
 Message	Kotori	Kannazuki!	
 Message	Kannazuki	Yes! I am already searching Tengu City.	
-Message	Yoshinon	"Woooow! Where did this guy come from?!\nAmazing! It's amazing, but super creepy!"	
+Message	Yoshinon	Woooow! Where did this guy come from?!\nAmazing! It's amazing, but super creepy!	
 Message	Kannazuki	"O-Oh... This is awesome. But I'd love for Yoshino
 herself to talk down to me—"	
 Message	Kotori	KAN-NA-ZU-KI.	
 Message	Kannazuki	Yes... Um, nothing, Commander.	
 Message	Kotori	"Whatever. You keep it up. Okay, Origami Tobiichi
 first... Let's call her from Shido's phone."	
-Message	Origami	"...Shido? It's so rare for you to be calling me...\nBut I'm happy."	
+Message	Origami	...Shido? It's so rare for you to be calling me...\nBut I'm happy.	
 Message	Kotori	Unfortunately, I'm not Shido. I'm sorry.	
 Message	Origami	Kotori... Itsuka.	
 Message	Kotori	"I'm sure you can assume based on this situation,
 but there was an accident. In order to save Shido,
 I need your hel—"	
-Message	Origami	"—Got it."	
+Message	Origami	—Got it.	
 Message	Kotori	"...How very helpful that you're so quick. I'm
 warning you now, your life will be at risk as
 well."	
-Message	Origami	"No problem."	
+Message	Origami	No problem.	
 Message	Kotori	"I see... Well, head someplace remote. I'll find
 you and send someone over."	
-Message	Origami	"Roger."	
+Message	Origami	Roger.	
 Message	Kotori	...Origami Tobiichi is accounted for.	
 Message	Kannazuki	"But Commander, is it all right to invite an AST
 member into the Fraxinus?"	
@@ -143,7 +143,7 @@ danger, then we should move as soon
 as possible."	
 Message	Kurumi	"You're right. There's no point stressing over the
 unknown... We all want to save Shido-san, right?"	
-Message	Tohka	Yes! I'm going inside "geme" to save Shido!	
+Message	Tohka	"Yes! I'm going inside ""geme"" to save Shido!"	
 Message	Kotori	Right. You guys... Reine, get ready.	
 Message	Reine	"The pod is ready. I'm sure those listed can dive
 in with no problem. However..."	
