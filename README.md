@@ -1,8 +1,8 @@
 # DAL_FANSUB - Parche en Español para Date A Live: Rio Reincarnation
 
-Este repositorio tiene como objetivo proporcionar un parche en español para el juego "Date A Live: Rio Reincarnation" disponible en Steam. Publicaremos avances periódicamente hasta que el parche esté completo y funcional.
+Este repositorio tiene como objetivo proporcionar un parche en español para el juego "Date A Live: Rio Reincarnation" disponible en Steam. Este parche esta completo y funcional.
 
-Además, ofreceremos códigos de Jupyter en Python para que los usuarios puedan utilizarlos libremente en su propio trabajo.
+Además, ofreceremos códigos de Jupyter en Python para que los usuarios puedan utilizarlos libremente en su propio trabajo asi como los archivos tsv corregidos para los que quieran hacer su propia traducción.
 
 ## Instalación
 Hay 2 maneras de instalarlo:
